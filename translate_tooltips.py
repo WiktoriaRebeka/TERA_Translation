@@ -27,14 +27,14 @@ from pathlib import Path
 
 from google import genai
 from google.genai import types, errors
-
+ORPHAN_TAG_RE = re.compile(r"__TAG\d+__")
 # ---------------------------------------------------------------------------
 # Leave empty. The key is read from the GEMINI_API_KEY environment variable
 # (GitHub Secrets on Actions, $env:GEMINI_API_KEY locally).
 # NEVER paste a real key here - this file goes into a git repository.
 # ---------------------------------------------------------------------------
 GEMINI_API_KEY = ""
-GEMINI_MODEL = "gemini-3.6-flash"
+GEMINI_MODEL = "gemini-3.5-flash"
 
 TOOLTIP_RE = re.compile(r'toolTip="([^"]*)"')
 TAG_RE = re.compile(r"<[^>]+>")
@@ -127,6 +127,9 @@ def prepare_for_translation(original_attr: str) -> tuple[str, list[str]]:
 
 def finalize_translation(translated: str, tags: list[str]) -> str:
     restored = restore_markup(translated, tags)
+    restored = ORPHAN_TAG_RE.sub("", restored)
+    restored = re.sub(r"[\r\n]+", " ", restored)
+    restored = re.sub(r"[ \t]{2,}", " ", restored).strip()
     return xml_attr_escape(restored)
 
 
