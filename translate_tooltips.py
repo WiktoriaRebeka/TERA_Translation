@@ -1,0 +1,484 @@
+"""
+Translate TERA StrSheet_Item toolTip attributes from English to Spanish
+using the Gemini API (google-genai).
+
+Reads the XML line by line with regex so original indentation, attribute
+order, and non-toolTip content stay untouched.
+
+Install:
+    pip install google-genai
+
+Usage:
+    python translate_tooltips.py source/TESTTEST_StrSheet_Item-00011.xml
+    python translate_tooltips.py source/file.xml --batch-size 40
+    python translate_tooltips.py source/file.xml --limit 300     # test run
+"""
+
+from __future__ import annotations
+
+import argparse
+import html
+import json
+import os
+import re
+import sys
+import time
+from pathlib import Path
+
+from google import genai
+from google.genai import types, errors
+
+# ---------------------------------------------------------------------------
+# Leave empty. The key is read from the GEMINI_API_KEY environment variable
+# (GitHub Secrets on Actions, $env:GEMINI_API_KEY locally).
+# NEVER paste a real key here - this file goes into a git repository.
+# ---------------------------------------------------------------------------
+GEMINI_API_KEY = ""
+GEMINI_MODEL = "gemini-3.6-flash"
+
+TOOLTIP_RE = re.compile(r'toolTip="([^"]*)"')
+TAG_RE = re.compile(r"<[^>]+>")
+RETRY_AFTER_RE = re.compile(r"retry(?:\s+in)?\s+(\d+(?:\.\d+)?)\s*(?:s|sec|seconds)?", re.I)
+
+CREDIT = "Transcription by TERA New Xenesis 2026"
+BATCH_SIZE = 100
+# Free tier is roughly 10-15 requests per minute; 7s keeps a safe margin.
+BATCH_DELAY = 7.0
+
+SYSTEM_PROMPT = """
+You are an expert video game localizer. Translate TERA MMORPG item tooltips from English to Spanish.
+
+Understand gaming terminology and localize it in context, including drops, loot, buffs, debuffs, slots, and equipping.
+Keep the tone appropriate for a high fantasy universe.
+Translate meaning naturally; prefer established Spanish MMO phrasing over literal calques.
+Keep proper names (Kelsaik, Valkyon, Bahaar, Kaia, Elin, Castanic, Popori, Baraka, Amani, etc.) unchanged unless a well-known Spanish TERA name already exists.
+NEVER translate UI element names written in square brackets, such as [Style Info], [Body], [Head], [Weapon], [Rewards]. Copy them exactly as they appear in English, because the game client menus are still in English.
+Preserve numbers, percentages, and UI labels.
+Placeholders like __TAG0__, __TAG1__, __TAG2__ are protected markup. Copy them into the Spanish text in the same relative positions. Never translate or delete them.
+Do not add explanations, notes, quotes, or extra punctuation that was not implied by the source.
+Do not include the English source text in your output.
+Never use raw line breaks inside the JSON strings you return.
+Return ONLY valid JSON: an array of Spanish strings, same length and order as the input array.
+""".strip()
+
+OUTPUT_TEMPLATE = (
+    "[EN] {english}"
+    "&lt;br&gt;"
+    "[ES] {spanish}"
+    "&lt;br&gt;"
+    "&lt;font color='#555555'&gt;" + CREDIT + "&lt;/font&gt;"
+)
+
+
+def is_already_bilingual(text: str) -> bool:
+    """True if this toolTip was already processed by a previous run."""
+    return "[ES]" in text or CREDIT in text
+
+
+def xml_attr_escape(text: str) -> str:
+    """Escape characters that would break a double-quoted XML attribute."""
+    return (
+        text.replace("&", "&amp;")
+        .replace("<", "&lt;")
+        .replace(">", "&gt;")
+        .replace('"', "&quot;")
+    )
+
+
+def protect_markup(text: str) -> tuple[str, list[str]]:
+    """Replace HTML-like tags with placeholders so the translator leaves them alone."""
+    tags: list[str] = []
+
+    def repl(match: re.Match[str]) -> str:
+        tags.append(match.group(0))
+        return f"__TAG{len(tags) - 1}__"
+
+    return TAG_RE.sub(repl, text), tags
+
+
+def restore_markup(text: str, tags: list[str]) -> str:
+    for i, tag in enumerate(tags):
+        text = text.replace(f"__TAG{i}__", tag)
+    return text
+
+
+def load_cache(path: Path) -> dict[str, str]:
+    if not path.is_file():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    return data if isinstance(data, dict) else {}
+
+
+def save_cache(path: Path, cache: dict[str, str]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(
+        json.dumps(cache, ensure_ascii=False, indent=0),
+        encoding="utf-8",
+    )
+
+
+def prepare_for_translation(original_attr: str) -> tuple[str, list[str]]:
+    decoded = html.unescape(original_attr)
+    return protect_markup(decoded)
+
+
+def finalize_translation(translated: str, tags: list[str]) -> str:
+    restored = restore_markup(translated, tags)
+    return xml_attr_escape(restored)
+
+
+def bilingual_tooltip(original_attr: str, spanish_escaped: str) -> str:
+    return OUTPUT_TEMPLATE.format(english=original_attr, spanish=spanish_escaped)
+
+
+def collect_unique_uncached(lines: list[str], cache: dict[str, str]) -> list[str]:
+    unique: list[str] = []
+    seen = set(cache.keys())
+    for line in lines:
+        match = TOOLTIP_RE.search(line)
+        if not match:
+            continue
+        original = match.group(1)
+        if original == "" or original in seen:
+            continue
+        if is_already_bilingual(original):
+            continue
+        seen.add(original)
+        unique.append(original)
+    return unique
+
+
+def resolve_api_key() -> str:
+    key = (GEMINI_API_KEY or "").strip()
+    if not key:
+        key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not key or key.upper() in {"YOUR_API_KEY_HERE", "PASTE_YOUR_KEY_HERE"}:
+        raise SystemExit(
+            "GEMINI_API_KEY is not set. On GitHub Actions add it under "
+            "Settings > Secrets and variables > Actions."
+        )
+    return key
+
+
+def build_client() -> genai.Client:
+    return genai.Client(api_key=resolve_api_key())
+
+
+def build_config() -> types.GenerateContentConfig:
+    return types.GenerateContentConfig(
+        system_instruction=SYSTEM_PROMPT,
+        temperature=0.2,
+        response_mime_type="application/json",
+        thinking_config=types.ThinkingConfig(thinking_budget=0),
+        safety_settings=[
+            types.SafetySetting(category="HARM_CATEGORY_HARASSMENT", threshold="BLOCK_NONE"),
+            types.SafetySetting(category="HARM_CATEGORY_HATE_SPEECH", threshold="BLOCK_NONE"),
+            types.SafetySetting(category="HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold="BLOCK_NONE"),
+            types.SafetySetting(category="HARM_CATEGORY_DANGEROUS_CONTENT", threshold="BLOCK_NONE"),
+        ],
+    )
+
+
+def build_user_prompt(texts: list[str]) -> str:
+    payload = json.dumps(texts, ensure_ascii=False)
+    return (
+        "Translate this JSON array of English TERA item tooltips into Spanish.\n"
+        "Return a JSON array of Spanish strings with the same length and order.\n"
+        "Preserve every __TAGn__ placeholder exactly.\n\n"
+        f"{payload}"
+    )
+
+
+def parse_translation_array(raw: str, expected: int) -> list[str]:
+    text = (raw or "").strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```(?:json)?\s*", "", text)
+        text = re.sub(r"\s*```$", "", text)
+    data = json.loads(text, strict=False)
+    if isinstance(data, dict):
+        for key in ("translations", "results", "items"):
+            if key in data:
+                data = data[key]
+                break
+    if not isinstance(data, list) or len(data) != expected:
+        got = len(data) if isinstance(data, list) else type(data).__name__
+        raise RuntimeError(f"Gemini JSON size mismatch: expected {expected} strings, got {got}")
+    translated = [str(item) for item in data]
+    if any(item.strip() == "" for item in translated):
+        raise RuntimeError("Empty translation in Gemini JSON response")
+    return translated
+
+
+def is_rate_limit_error(exc: Exception) -> bool:
+    if isinstance(exc, errors.ClientError) and getattr(exc, "code", None) == 429:
+        return True
+    text = str(exc).lower()
+    return any(
+        token in text
+        for token in (
+            "429",
+            "resource exhausted",
+            "resource_exhausted",
+            "too many requests",
+            "rate limit",
+            "quota",
+        )
+    )
+
+
+def rate_limit_wait_seconds(exc: Exception, attempt: int) -> int:
+    match = RETRY_AFTER_RE.search(str(exc))
+    if match:
+        return max(int(float(match.group(1))) + 1, 5)
+    return min(45 * attempt, 240)
+
+
+def extract_response_text(response: object) -> str:
+    text = getattr(response, "text", None)
+    if text:
+        return str(text)
+    raise RuntimeError(f"Gemini returned no text (blocked or empty): {response!r}")
+
+
+def translate_batch_with_retry(
+    client: genai.Client,
+    texts: list[str],
+    retries: int = 6,
+) -> list[str]:
+    last_error: Exception | None = None
+    prompt = build_user_prompt(texts)
+    for attempt in range(1, retries + 1):
+        try:
+            response = client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=prompt,
+                config=build_config(),
+            )
+            return parse_translation_array(extract_response_text(response), len(texts))
+        except Exception as exc:  # noqa: BLE001 - network/API failures are expected
+            last_error = exc
+            if is_rate_limit_error(exc):
+                wait = rate_limit_wait_seconds(exc, attempt)
+                print(
+                    f"    Gemini rate/quota limit on attempt {attempt}/{retries}; "
+                    f"sleeping {wait}s",
+                    flush=True,
+                )
+            else:
+                wait = min(2 ** attempt, 30)
+                print(
+                    f"    retry {attempt}/{retries} after error: {exc} (sleep {wait}s)",
+                    flush=True,
+                )
+            time.sleep(wait)
+    raise RuntimeError(f"Batch translation failed after {retries} retries: {last_error}")
+
+
+def translate_chunk(client: genai.Client, originals: list[str]) -> dict[str, str]:
+    """Translate one chunk. On persistent failure, split the chunk and retry."""
+    if not originals:
+        return {}
+
+    prepared_texts: list[str] = []
+    tags_by_index: list[list[str]] = []
+    for original in originals:
+        protected, tags = prepare_for_translation(original)
+        prepared_texts.append(protected)
+        tags_by_index.append(tags)
+
+    try:
+        translated = translate_batch_with_retry(client, prepared_texts)
+    except Exception as exc:  # noqa: BLE001
+        if len(originals) == 1:
+            print(f"  WARNING: giving up on one string ({exc})", flush=True)
+            return {}
+        mid = len(originals) // 2
+        print(
+            f"  batch of {len(originals)} failed ({exc}); "
+            f"splitting into {mid} + {len(originals) - mid}",
+            flush=True,
+        )
+        merged = translate_chunk(client, originals[:mid])
+        time.sleep(BATCH_DELAY)
+        merged.update(translate_chunk(client, originals[mid:]))
+        return merged
+
+    results: dict[str, str] = {}
+    for original, spanish, tags in zip(originals, translated, tags_by_index):
+        results[original] = finalize_translation(spanish, tags)
+    return results
+
+
+def fill_cache_in_batches(
+    unique_originals: list[str],
+    client: genai.Client,
+    cache: dict[str, str],
+    cache_path: Path,
+    batch_size: int,
+) -> int:
+    total = len(unique_originals)
+    if total == 0:
+        print("All non-empty toolTips are already in the cache.")
+        return 0
+
+    batch_count = (total + batch_size - 1) // batch_size
+    translated_count = 0
+    print(
+        f"Translating {total} unique toolTips with {GEMINI_MODEL} "
+        f"in {batch_count} batches of up to {batch_size}...",
+        flush=True,
+    )
+
+    for batch_index in range(batch_count):
+        start = batch_index * batch_size
+        chunk = unique_originals[start : start + batch_size]
+        print(f"  batch {batch_index + 1}/{batch_count} ({len(chunk)} strings)", flush=True)
+        new_entries = translate_chunk(client, chunk)
+        cache.update(new_entries)
+        translated_count += len(new_entries)
+        save_cache(cache_path, cache)
+        missing = len(chunk) - len(new_entries)
+        if missing:
+            print(f"    cached {len(new_entries)}, skipped {missing}", flush=True)
+        if batch_index + 1 < batch_count:
+            time.sleep(BATCH_DELAY)
+
+    return translated_count
+
+
+def rewrite_lines(lines: list[str], cache: dict[str, str]) -> tuple[list[str], dict[str, int]]:
+    output_lines: list[str] = []
+    stats = {
+        "applied": 0,
+        "already_bilingual": 0,
+        "empty": 0,
+        "no_tooltip": 0,
+        "left_original": 0,
+    }
+
+    for line in lines:
+        match = TOOLTIP_RE.search(line)
+        if not match:
+            output_lines.append(line)
+            stats["no_tooltip"] += 1
+            continue
+
+        original = match.group(1)
+        if original == "":
+            output_lines.append(line)
+            stats["empty"] += 1
+            continue
+
+        if is_already_bilingual(original):
+            output_lines.append(line)
+            stats["already_bilingual"] += 1
+            continue
+
+        spanish_escaped = cache.get(original)
+        if spanish_escaped is None:
+            output_lines.append(line)
+            stats["left_original"] += 1
+            continue
+
+        start, end = match.span(1)
+        output_lines.append(line[:start] + bilingual_tooltip(original, spanish_escaped) + line[end:])
+        stats["applied"] += 1
+
+    return output_lines, stats
+
+
+def process_file(
+    input_path: Path,
+    output_path: Path,
+    cache_path: Path,
+    batch_size: int,
+    limit: int | None,
+) -> None:
+    client = build_client()
+    cache = load_cache(cache_path)
+
+    with input_path.open("r", encoding="utf-8", newline="") as handle:
+        lines = handle.readlines()
+    if limit:
+        lines = lines[:limit]
+    print(f"Reading {input_path.name} ({len(lines)} lines)...", flush=True)
+    print(f"Cache: {cache_path} ({len(cache)} entries already known)", flush=True)
+
+    unique_originals = collect_unique_uncached(lines, cache)
+    new_translations = fill_cache_in_batches(
+        unique_originals, client, cache, cache_path, batch_size
+    )
+
+    output_lines, stats = rewrite_lines(lines, cache)
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with output_path.open("w", encoding="utf-8", newline="") as handle:
+        handle.writelines(output_lines)
+    save_cache(cache_path, cache)
+
+    print()
+    print(f"Wrote {output_path}")
+    print(f"  new API translations : {new_translations}")
+    print(f"  bilingual toolTips   : {stats['applied']}")
+    print(f"  already bilingual    : {stats['already_bilingual']}")
+    print(f"  empty toolTip skipped: {stats['empty']}")
+    print(f"  lines without toolTip: {stats['no_tooltip']}")
+    print(f"  left untranslated    : {stats['left_original']}")
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Translate TERA item toolTips to bilingual EN/ES via Gemini."
+    )
+    parser.add_argument("input_xml", help="Source StrSheet XML file")
+    parser.add_argument(
+        "-o",
+        "--output",
+        default=None,
+        help="Output XML path (default: output/<name>_Translated.xml)",
+    )
+    parser.add_argument(
+        "--cache",
+        default="cache/tooltip_translation_cache.json",
+        help="Shared translation cache (default: cache/tooltip_translation_cache.json)",
+    )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=BATCH_SIZE,
+        help=f"Unique toolTips per Gemini request (default: {BATCH_SIZE})",
+    )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=0,
+        help="Only process the first N lines - useful for a cheap test run",
+    )
+    return parser.parse_args()
+
+
+def main() -> int:
+    args = parse_args()
+    input_path = Path(args.input_xml).expanduser()
+    if not input_path.is_file():
+        print(f"Input file not found: {input_path}", file=sys.stderr)
+        return 1
+
+    if args.output:
+        output_path = Path(args.output).expanduser()
+    else:
+        output_path = Path("output") / f"{input_path.stem}_Translated{input_path.suffix}"
+
+    cache_path = Path(args.cache).expanduser()
+    batch_size = args.batch_size if args.batch_size > 0 else BATCH_SIZE
+    limit = args.limit if args.limit > 0 else None
+
+    process_file(input_path, output_path, cache_path, batch_size, limit)
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
