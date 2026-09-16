@@ -172,7 +172,6 @@ def build_config() -> types.GenerateContentConfig:
         system_instruction=SYSTEM_PROMPT,
         temperature=0.2,
         response_mime_type="application/json",
-        thinking_config=types.ThinkingConfig(thinking_budget=0),
         safety_settings=[
             types.SafetySetting(category="HARM_CATEGORY_HARASSMENT", threshold="BLOCK_NONE"),
             types.SafetySetting(category="HARM_CATEGORY_HATE_SPEECH", threshold="BLOCK_NONE"),
