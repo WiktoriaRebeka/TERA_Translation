@@ -38,6 +38,12 @@ GEMINI_MODEL = "gemini-3.5-flash-lite"
 
 TOOLTIP_RE = re.compile(r'toolTip="([^"]*)"')
 TAG_RE = re.compile(r"<[^>]+>")
+# Zmienne silnika TERA ($value, $BR, $COLOR_END...). Klient podmienia je na
+# liczby i lamania linii, wiec zgubienie jednej = zepsuty tooltip w grze.
+# Kolejnosc w alternatywie jest wazna: w zrodle te tokeny wchodza wprost
+# w kolejne slowo ($BRAuto, $COLOR_ENDInflicts, $H_W_GOODGlyph).
+VAR_RE = re.compile(r"\$(?:COLOR_END|H_[A-Z]_(?:GOOD|BAD)|BR|[a-z][A-Za-z0-9]*)")
+MARKUP_RE = re.compile(TAG_RE.pattern + "|" + VAR_RE.pattern)
 RETRY_AFTER_RE = re.compile(r"retry(?:\s+in)?\s+(\d+(?:\.\d+)?)\s*(?:s|sec|seconds)?", re.I)
 
 CREDIT = "Transcription by TERA New Xenesis 2026"
@@ -54,7 +60,7 @@ Translate meaning naturally; prefer established Spanish MMO phrasing over litera
 Keep proper names (Kelsaik, Valkyon, Bahaar, Kaia, Elin, Castanic, Popori, Baraka, Amani, etc.) unchanged unless a well-known Spanish TERA name already exists.
 NEVER translate UI element names written in square brackets, such as [Style Info], [Body], [Head], [Weapon], [Rewards]. Copy them exactly as they appear in English, because the game client menus are still in English.
 Preserve numbers, percentages, and UI labels.
-Placeholders like __TAG0__, __TAG1__, __TAG2__ are protected markup. Copy them into the Spanish text in the same relative positions. Never translate or delete them.
+Placeholders like __TAG0__, __TAG1__, __TAG2__ are protected markup and game variables. Copy EVERY one of them into the Spanish text, in the same relative positions, with the exact same numbers. Never translate, merge, renumber or delete them. The output must contain exactly the same placeholders as the input, no more and no fewer.
 Do not add explanations, notes, quotes, or extra punctuation that was not implied by the source.
 Do not include the English source text in your output.
 Never use raw line breaks inside the JSON strings you return.
@@ -93,7 +99,7 @@ def protect_markup(text: str) -> tuple[str, list[str]]:
         tags.append(match.group(0))
         return f"__TAG{len(tags) - 1}__"
 
-    return TAG_RE.sub(repl, text), tags
+    return MARKUP_RE.sub(repl, text), tags
 
 
 def restore_markup(text: str, tags: list[str]) -> str:
@@ -125,16 +131,51 @@ def prepare_for_translation(original_attr: str) -> tuple[str, list[str]]:
     return protect_markup(decoded)
 
 
+def sanitize(text: str) -> str:
+    """Usuwa to, co rozbiloby linie XML albo tooltip w grze."""
+    text = ORPHAN_TAG_RE.sub("", text)
+    text = re.sub(r"[\r\n]+", " ", text)
+    return re.sub(r"[ \t]{2,}", " ", text).strip()
+
+
+def balance_font_tags(text: str) -> str:
+    """Domyka nieotwarte <font> i usuwa osierocone </font>."""
+    out = []
+    depth = 0
+    for piece in re.split(r"(</?font[^>]*>)", text, flags=re.I):
+        if re.fullmatch(r"<font[^>]*>", piece or "", re.I):
+            depth += 1
+            out.append(piece)
+        elif re.fullmatch(r"</font\s*>", piece or "", re.I):
+            if depth == 0:
+                continue
+            depth -= 1
+            out.append(piece)
+        else:
+            out.append(piece)
+    return "".join(out) + "</font>" * depth
+
+
+def engine_vars(text: str) -> list[str]:
+    return sorted(VAR_RE.findall(html.unescape(text)))
+
+
+def translation_is_valid(original: str, spanish_escaped: str) -> bool:
+    """Odrzuca tlumaczenie, ktore zgubilo lub zmienilo zmienna silnika."""
+    return engine_vars(original) == engine_vars(spanish_escaped)
+
+
 def finalize_translation(translated: str, tags: list[str]) -> str:
     restored = restore_markup(translated, tags)
-    restored = ORPHAN_TAG_RE.sub("", restored)
-    restored = re.sub(r"[\r\n]+", " ", restored)
-    restored = re.sub(r"[ \t]{2,}", " ", restored).strip()
+    restored = balance_font_tags(sanitize(restored))
     return xml_attr_escape(restored)
 
 
 def bilingual_tooltip(original_attr: str, spanish_escaped: str) -> str:
-    return OUTPUT_TEMPLATE.format(english=original_attr, spanish=spanish_escaped)
+    # Dziala takze na wpisy ze starego cache, wiec stare bledy tez sie czyszcza.
+    english = balance_font_tags(sanitize(original_attr))
+    spanish = balance_font_tags(sanitize(spanish_escaped))
+    return OUTPUT_TEMPLATE.format(english=english, spanish=spanish)
 
 
 def collect_unique_uncached(lines: list[str], cache: dict[str, str]) -> list[str]:
@@ -279,7 +320,11 @@ def translate_batch_with_retry(
     raise RuntimeError(f"Batch translation failed after {retries} retries: {last_error}")
 
 
-def translate_chunk(client: genai.Client, originals: list[str]) -> dict[str, str]:
+def translate_chunk(
+    client: genai.Client,
+    originals: list[str],
+    rejected: list[str] | None = None,
+) -> dict[str, str]:
     """Translate one chunk. On persistent failure, split the chunk and retry."""
     if not originals:
         return {}
@@ -303,14 +348,23 @@ def translate_chunk(client: genai.Client, originals: list[str]) -> dict[str, str
             f"splitting into {mid} + {len(originals) - mid}",
             flush=True,
         )
-        merged = translate_chunk(client, originals[:mid])
+        merged = translate_chunk(client, originals[:mid], rejected)
         time.sleep(BATCH_DELAY)
-        merged.update(translate_chunk(client, originals[mid:]))
+        merged.update(translate_chunk(client, originals[mid:], rejected))
         return merged
 
     results: dict[str, str] = {}
+    bad = 0
     for original, spanish, tags in zip(originals, translated, tags_by_index):
-        results[original] = finalize_translation(spanish, tags)
+        candidate = finalize_translation(spanish, tags)
+        if not translation_is_valid(original, candidate):
+            bad += 1
+            if rejected is not None:
+                rejected.append(original)
+            continue  # nie trafia do cache; runda poprawkowa sprobuje ponownie
+        results[original] = candidate
+    if bad:
+        print(f"    rejected {bad} translation(s): engine variables lost", flush=True)
     return results
 
 
@@ -328,6 +382,7 @@ def fill_cache_in_batches(
 
     batch_count = (total + batch_size - 1) // batch_size
     translated_count = 0
+    rejected: list[str] = []
     print(
         f"Translating {total} unique toolTips with {GEMINI_MODEL} "
         f"in {batch_count} batches of up to {batch_size}...",
@@ -338,7 +393,7 @@ def fill_cache_in_batches(
         start = batch_index * batch_size
         chunk = unique_originals[start : start + batch_size]
         print(f"  batch {batch_index + 1}/{batch_count} ({len(chunk)} strings)", flush=True)
-        new_entries = translate_chunk(client, chunk)
+        new_entries = translate_chunk(client, chunk, rejected)
         cache.update(new_entries)
         translated_count += len(new_entries)
         save_cache(cache_path, cache)
@@ -347,6 +402,25 @@ def fill_cache_in_batches(
             print(f"    cached {len(new_entries)}, skipped {missing}", flush=True)
         if batch_index + 1 < batch_count:
             time.sleep(BATCH_DELAY)
+
+    # Runda poprawkowa: odrzucone teksty jeszcze raz, w malych paczkach.
+    # Model gubiacy placeholder przy 40 tekstach zwykle radzi sobie przy 5.
+    for attempt in (1, 2):
+        if not rejected:
+            break
+        pending, rejected = rejected, []
+        print(
+            f"  runda poprawkowa {attempt}: {len(pending)} odrzuconych, paczki po 5",
+            flush=True,
+        )
+        for start in range(0, len(pending), 5):
+            time.sleep(BATCH_DELAY)
+            fixed = translate_chunk(client, pending[start : start + 5], rejected)
+            cache.update(fixed)
+            translated_count += len(fixed)
+            save_cache(cache_path, cache)
+    if rejected:
+        print(f"  {len(rejected)} tekstow zostaje po angielsku", flush=True)
 
     return translated_count
 
