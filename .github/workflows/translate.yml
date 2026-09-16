@@ -1,0 +1,66 @@
+name: Translate TERA XML
+
+# Uruchamiane recznie z zakladki Actions.
+on:
+  workflow_dispatch:
+    inputs:
+      input_file:
+        description: "Sciezka do pliku XML, np. source/TESTTEST_StrSheet_Item-00011.xml"
+        required: true
+        default: "source/TESTTEST_StrSheet_Item-00011.xml"
+      batch_size:
+        description: "Ile tooltipow na jedno zapytanie (mniej = rzadsze limity)"
+        required: false
+        default: "40"
+      limit:
+        description: "Tylko pierwsze N linii (test). 0 = caly plik"
+        required: false
+        default: "0"
+
+# Pozwala workflow zapisac wynik z powrotem do repozytorium.
+permissions:
+  contents: write
+
+# Nie pozwala uruchomic dwoch tlumaczen naraz - chronilo by cache przed konfliktem.
+concurrency:
+  group: translate
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj biblioteki
+        run: pip install -r requirements.txt
+
+      - name: Przetlumacz
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python translate_tooltips.py "${{ inputs.input_file }}" \
+            --batch-size "${{ inputs.batch_size }}" \
+            --limit "${{ inputs.limit }}"
+
+      - name: Zapisz wynik do repozytorium
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output cache || true
+          if git diff --staged --quiet; then
+            echo "Brak zmian do zapisania."
+          else
+            git commit -m "Tlumaczenie: ${{ inputs.input_file }}"
+            git pull --rebase
+            git push
+          fi
