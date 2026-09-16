@@ -34,7 +34,7 @@ ORPHAN_TAG_RE = re.compile(r"__TAG\d+__")
 # NEVER paste a real key here - this file goes into a git repository.
 # ---------------------------------------------------------------------------
 GEMINI_API_KEY = ""
-GEMINI_MODEL = "gemini-3.5-flash"
+GEMINI_MODEL = "gemini-3.5-flash-lite"
 
 TOOLTIP_RE = re.compile(r'toolTip="([^"]*)"')
 TAG_RE = re.compile(r"<[^>]+>")
