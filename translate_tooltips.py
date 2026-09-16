@@ -34,7 +34,7 @@ from google.genai import types, errors
 # NEVER paste a real key here - this file goes into a git repository.
 # ---------------------------------------------------------------------------
 GEMINI_API_KEY = ""
-GEMINI_MODEL = "gemini-3.5-flash-lite"
+GEMINI_MODEL = "gemini-3.6-flash"
 
 TOOLTIP_RE = re.compile(r'toolTip="([^"]*)"')
 TAG_RE = re.compile(r"<[^>]+>")
@@ -172,6 +172,7 @@ def build_config() -> types.GenerateContentConfig:
         system_instruction=SYSTEM_PROMPT,
         temperature=0.2,
         response_mime_type="application/json",
+        thinking_config=types.ThinkingConfig(thinking_budget=0),
         safety_settings=[
             types.SafetySetting(category="HARM_CATEGORY_HARASSMENT", threshold="BLOCK_NONE"),
             types.SafetySetting(category="HARM_CATEGORY_HATE_SPEECH", threshold="BLOCK_NONE"),
