@@ -27,7 +27,8 @@ from pathlib import Path
 
 from google import genai
 from google.genai import types, errors
-ORPHAN_TAG_RE = re.compile(r"__TAG\d+__")
+# Model potrafi urwac placeholder (__TAG0) albo wymyslic wlasny (__COLOR_END__).
+ORPHAN_TAG_RE = re.compile(r"__TAG\d+(?:__)?|__[A-Z][A-Z0-9_]{2,}__")
 # ---------------------------------------------------------------------------
 # Leave empty. The key is read from the GEMINI_API_KEY environment variable
 # (GitHub Secrets on Actions, $env:GEMINI_API_KEY locally).
@@ -126,6 +127,20 @@ def save_cache(path: Path, cache: dict[str, str]) -> None:
     )
 
 
+def purge_bad_cache_entries(cache: dict[str, str]) -> int:
+    """Wyrzuca z cache wpisy zepsute przez wczesniejsze przebiegi.
+
+    Chodzi o tlumaczenia, ktore zgubily zmienna silnika albo zawieraja
+    resztki placeholderow. Zostana przetlumaczone ponownie - tylko one,
+    nie caly plik.
+    """
+    bad = [k for k, v in cache.items()
+           if ORPHAN_TAG_RE.search(v) or not translation_is_valid(k, v)]
+    for k in bad:
+        del cache[k]
+    return len(bad)
+
+
 def prepare_for_translation(original_attr: str) -> tuple[str, list[str]]:
     decoded = html.unescape(original_attr)
     return protect_markup(decoded)
@@ -139,21 +154,31 @@ def sanitize(text: str) -> str:
 
 
 def balance_font_tags(text: str) -> str:
-    """Domyka nieotwarte <font> i usuwa osierocone </font>."""
+    """Domyka nieotwarte <font> i usuwa osierocone </font>.
+
+    Dziala zarowno na surowym tekscie (<font>) jak i na zaescapowanym
+    (&lt;font&gt;), bo wywolujemy ja w obu tych momentach.
+    """
+    escaped = "&lt;" in text and "<font" not in text.lower()
+    lt, gt = ("&lt;", "&gt;") if escaped else ("<", ">")
+    opener = re.escape(lt) + r"font[^<>&]*" + re.escape(gt)
+    closer = re.escape(lt) + r"/font\s*" + re.escape(gt)
     out = []
     depth = 0
-    for piece in re.split(r"(</?font[^>]*>)", text, flags=re.I):
-        if re.fullmatch(r"<font[^>]*>", piece or "", re.I):
+    for piece in re.split(f"({opener}|{closer})", text, flags=re.I):
+        if piece is None:
+            continue
+        if re.fullmatch(opener, piece, re.I):
             depth += 1
             out.append(piece)
-        elif re.fullmatch(r"</font\s*>", piece or "", re.I):
+        elif re.fullmatch(closer, piece, re.I):
             if depth == 0:
-                continue
+                continue  # osierocone zamkniecie - wyrzucamy
             depth -= 1
             out.append(piece)
         else:
             out.append(piece)
-    return "".join(out) + "</font>" * depth
+    return "".join(out) + f"{lt}/font{gt}" * depth
 
 
 def engine_vars(text: str) -> list[str]:
@@ -481,7 +506,10 @@ def process_file(
     if limit:
         lines = lines[:limit]
     print(f"Reading {input_path.name} ({len(lines)} lines)...", flush=True)
+    purged = purge_bad_cache_entries(cache)
     print(f"Cache: {cache_path} ({len(cache)} entries already known)", flush=True)
+    if purged:
+        print(f"  purged {purged} broken cache entries - they will be retranslated", flush=True)
 
     unique_originals = collect_unique_uncached(lines, cache)
     new_translations = fill_cache_in_batches(
