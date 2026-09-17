@@ -500,10 +500,13 @@ def rewrite_lines(
 
         start, end = match.span(1)
         new_value = bilingual_tooltip(original, spanish_escaped)
-        if ascii_safe:
-            new_value = to_ascii_entities(new_value)
         output_lines.append(line[:start] + new_value + line[end:])
         stats["applied"] += 1
+
+    if ascii_safe:
+        # Cala linia, nie tylko toolTip: nazwy przedmiotow (string=) tez
+        # zawieraja znaki spoza ASCII, np. "Fragment x500" ze znakiem mnozenia.
+        output_lines = [to_ascii_entities(line) for line in output_lines]
 
     return output_lines, stats
 
