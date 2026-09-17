@@ -30,6 +30,9 @@ from google.genai import types, errors
 # Model potrafi urwac placeholder (__TAG0) albo wymyslic wlasny (__COLOR_END__).
 ORPHAN_TAG_RE = re.compile(r"__TAG\d+(?:__)?|__[A-Z][A-Z0-9_]{2,}__")
 PLACEHOLDER_STRIP_RE = re.compile(r"__TAG\d+__")
+# Pliki klienta zawieraja pozostalosci z wersji chinskiej, japonskiej
+# i koreanskiej. To nieuzywana tresc, nie zrodlo do tlumaczenia.
+CJK_RE = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af]")
 # ---------------------------------------------------------------------------
 # Leave empty. The key is read from the GEMINI_API_KEY environment variable
 # (GitHub Secrets on Actions, $env:GEMINI_API_KEY locally).
@@ -171,6 +174,15 @@ def save_cache(path: Path, cache: dict[str, str]) -> None:
         json.dumps(cache, ensure_ascii=False, indent=0),
         encoding="utf-8",
     )
+
+
+def is_translatable(protected: str) -> bool:
+    """Czy w tekscie jest cokolwiek do przetlumaczenia na hiszpanski."""
+    plain = PLACEHOLDER_STRIP_RE.sub("", protected)
+    latin = len(re.findall(r"[A-Za-z]", plain))
+    if latin == 0:
+        return False  # sam markup, liczby albo pismo azjatyckie
+    return len(CJK_RE.findall(plain)) < latin
 
 
 def purge_bad_cache_entries(cache: dict[str, str]) -> int:
@@ -494,9 +506,9 @@ def translate_chunk(
     to_translate: list[str] = []
     for original in originals:
         protected, tags = prepare_for_translation(original)
-        if not re.search(r"[A-Za-z]", PLACEHOLDER_STRIP_RE.sub("", protected)):
-            # Sam markup albo same zmienne - nie ma czego tlumaczyc. Wyslanie
-            # tego do modelu konczy sie pusta odpowiedzia i seria ponowien.
+        if not is_translatable(protected):
+            # Sam markup, liczby albo tekst chinski/koreanski. Wyslanie tego
+            # do modelu konczy sie pusta odpowiedzia i seria ponowien.
             results[original] = finalize_translation(protected, tags)
             continue
         to_translate.append(original)
