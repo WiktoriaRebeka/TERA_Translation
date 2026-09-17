@@ -60,6 +60,12 @@ def normalize(text: str) -> str:
     return " ".join(html.unescape(text).split())
 
 
+def strip_font(text: str) -> str:
+    """Tekst bez znacznikow <font>, do porownan odpornych na ich naprawe."""
+    plain = html.unescape(text)
+    return " ".join(re.sub(r"</?font[^>]*>", "", plain, flags=re.I).split())
+
+
 def font_balance(text: str) -> int:
     plain = html.unescape(text)
     return len(re.findall(r"<font\b", plain, re.I)) - len(
@@ -99,6 +105,7 @@ def main() -> int:
         for m in re.finditer(r'id="([^"]+)"[^>]*?toolTip="(.*?)"', raw, re.S)
     }
     problems: dict[str, list[str]] = {}
+    info: dict[str, int] = {}
 
     def add(label: str, detail: str) -> None:
         problems.setdefault(label, []).append(detail)
@@ -190,11 +197,17 @@ def main() -> int:
             if found:
                 add(f"zakazane slowo {found.group(0)}", identifier)
 
-        # czesc angielska musi byc wierna kopia zrodla
+        # czesc angielska musi byc wierna kopia zrodla - poza celowa naprawa
+        # niezbalansowanych <font>, ktore juz w zrodle byly zepsute.
         if identifier in source_entries:
             original = source_entries[identifier][0]
             if original and "[ES]" not in original and normalize(original) != normalize(english):
-                add("czesc [EN] nie zgadza sie ze zrodlem", identifier)
+                if strip_font(original) == strip_font(english):
+                    info["naprawiony <font> w czesci [EN]"] = (
+                        info.get("naprawiony <font> w czesci [EN]", 0) + 1
+                    )
+                else:
+                    add("czesc [EN] nie zgadza sie ze zrodlem", identifier)
 
     print(
         f"Tooltipy: {counts['przetlumaczone']} dwujezycznych, "
@@ -202,6 +215,11 @@ def main() -> int:
     )
 
     # --- podsumowanie ---
+    if info:
+        print()
+        for label, count in info.items():
+            print(f"Informacja: {label}: {count}")
+
     print()
     print("=" * 60)
     if not problems:
