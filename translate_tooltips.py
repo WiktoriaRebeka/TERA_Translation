@@ -92,6 +92,16 @@ def xml_attr_escape(text: str) -> str:
     )
 
 
+def to_ascii_entities(text: str) -> str:
+    """Zapisuje znaki spoza ASCII jako encje liczbowe (n-tylda -> &#241;).
+
+    Plik staje sie czystym ASCII, wiec narzedzie pakujace odczyta go tak
+    samo niezaleznie od zalozonego kodowania. Bez tego akcenty zamieniaja
+    sie w grze w krzaki (companero -> compaAnero).
+    """
+    return "".join(c if ord(c) < 128 else f"&#{ord(c)};" for c in text)
+
+
 def protect_markup(text: str) -> tuple[str, list[str]]:
     """Replace HTML-like tags with placeholders so the translator leaves them alone."""
     tags: list[str] = []
@@ -450,7 +460,11 @@ def fill_cache_in_batches(
     return translated_count
 
 
-def rewrite_lines(lines: list[str], cache: dict[str, str]) -> tuple[list[str], dict[str, int]]:
+def rewrite_lines(
+    lines: list[str],
+    cache: dict[str, str],
+    ascii_safe: bool = True,
+) -> tuple[list[str], dict[str, int]]:
     output_lines: list[str] = []
     stats = {
         "applied": 0,
@@ -485,7 +499,10 @@ def rewrite_lines(lines: list[str], cache: dict[str, str]) -> tuple[list[str], d
             continue
 
         start, end = match.span(1)
-        output_lines.append(line[:start] + bilingual_tooltip(original, spanish_escaped) + line[end:])
+        new_value = bilingual_tooltip(original, spanish_escaped)
+        if ascii_safe:
+            new_value = to_ascii_entities(new_value)
+        output_lines.append(line[:start] + new_value + line[end:])
         stats["applied"] += 1
 
     return output_lines, stats
@@ -497,6 +514,7 @@ def process_file(
     cache_path: Path,
     batch_size: int,
     limit: int | None,
+    ascii_safe: bool = True,
 ) -> None:
     client = build_client()
     cache = load_cache(cache_path)
@@ -516,7 +534,7 @@ def process_file(
         unique_originals, client, cache, cache_path, batch_size
     )
 
-    output_lines, stats = rewrite_lines(lines, cache)
+    output_lines, stats = rewrite_lines(lines, cache, ascii_safe)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with output_path.open("w", encoding="utf-8", newline="") as handle:
@@ -556,6 +574,11 @@ def parse_args() -> argparse.Namespace:
         help=f"Unique toolTips per Gemini request (default: {BATCH_SIZE})",
     )
     parser.add_argument(
+        "--no-ascii-entities",
+        action="store_true",
+        help="Zapisz akcenty jako zwykle znaki UTF-8 zamiast encji &#nnn;",
+    )
+    parser.add_argument(
         "--limit",
         type=int,
         default=0,
@@ -580,7 +603,9 @@ def main() -> int:
     batch_size = args.batch_size if args.batch_size > 0 else BATCH_SIZE
     limit = args.limit if args.limit > 0 else None
 
-    process_file(input_path, output_path, cache_path, batch_size, limit)
+    process_file(
+        input_path, output_path, cache_path, batch_size, limit, not args.no_ascii_entities
+    )
     return 0
 
 
