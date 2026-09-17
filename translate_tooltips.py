@@ -47,6 +47,17 @@ VAR_RE = re.compile(r"\$(?:COLOR_END|H_[A-Z]_(?:GOOD|BAD)|BR|[a-z][A-Za-z0-9]*)"
 MARKUP_RE = re.compile(TAG_RE.pattern + "|" + VAR_RE.pattern)
 RETRY_AFTER_RE = re.compile(r"retry(?:\s+in)?\s+(\d+(?:\.\d+)?)\s*(?:s|sec|seconds)?", re.I)
 
+# Terminy, ktore MUSZA zostac po angielsku rowniez w tekscie hiszpanskim.
+# Nazwy przedmiotow w atrybucie string= sa angielskie, wiec gracz szukajacy
+# "Prime Battle Solution" ma znalezc to samo w opisie i w plecaku.
+KEEP_ENGLISH = (
+    "MP", "HP", "Feedstock", "Battle Solution", "Spellbind", "Alkahest",
+    "Noctenium", "Everful Nostrum", "Etching", "Crystal", "Emerald",
+    "Diamond", "Talent",
+)
+# Slowa, ktore nie moga pojawic sie po hiszpanskiej stronie.
+FORBIDDEN_ES = (r"\bPH\b", r"\baguante\b", r"\btimes\b")
+
 CREDIT = "Transcription by TERA New Xenesis 2026"
 BATCH_SIZE = 100
 # Free tier is roughly 10-15 requests per minute; 7s keeps a safe margin.
@@ -62,6 +73,15 @@ Keep proper names (Kelsaik, Valkyon, Bahaar, Kaia, Elin, Castanic, Popori, Barak
 NEVER translate UI element names written in square brackets, such as [Style Info], [Body], [Head], [Weapon], [Rewards]. Copy them exactly as they appear in English, because the game client menus are still in English.
 Preserve numbers, percentages, and UI labels.
 Placeholders like __TAG0__, __TAG1__, __TAG2__ are protected markup and game variables. Copy EVERY one of them into the Spanish text, in the same relative positions, with the exact same numbers. Never translate, merge, renumber or delete them. The output must contain exactly the same placeholders as the input, no more and no fewer.
+GLOSSARY - follow it exactly, it overrides your own preferences:
+- Keep these words in English, spelled exactly as in the source, even inside Spanish sentences: MP, HP, Feedstock, Battle Solution, Spellbind, Alkahest, Noctenium, Everful Nostrum, Etching, Crystal, Emerald, Diamond, Talent. The in-game item list is in English, so players must be able to match them.
+- Never write PM, PH or "mana" for MP. Never write PV or PS for HP.
+- Endurance is always "resistencia". Never "aguante".
+- Power is "poder". Crit Power is "poder de golpe critico".
+- "times" as a multiplier is "veces" - never leave the English word.
+- Use the Spanish decimal comma: +1,42 not +1.42.
+- Item and material names that are not in the list above are still proper names: keep them in English rather than inventing a Spanish version.
+
 Do not add explanations, notes, quotes, or extra punctuation that was not implied by the source.
 Do not include the English source text in your output.
 Translate EVERY sentence. A long tooltip may contain many sentences separated by __TAGn__ line breaks - each one must be rendered in Spanish. Never copy an English sentence unchanged into your output, not even a technical one about MP, cooldowns, percentages or durations.
@@ -236,11 +256,52 @@ def looks_untranslated(original: str, spanish_escaped: str) -> bool:
     return False
 
 
+def breaks_glossary(original: str, spanish_escaped: str) -> bool:
+    """Sprawdza, czy tlumaczenie trzyma sie ustalonej terminologii."""
+    en = html.unescape(original)
+    es = html.unescape(spanish_escaped)
+    for term in KEEP_ENGLISH:
+        pattern = r"\b" + re.escape(term)
+        if re.search(pattern, en, re.I) and not re.search(pattern, es, re.I):
+            return True
+    return any(re.search(p, es, re.I) for p in FORBIDDEN_ES)
+
+
 def translation_is_valid(original: str, spanish_escaped: str) -> bool:
-    """Odrzuca tlumaczenie zepsute: zgubiona zmienna albo zdanie po angielsku."""
+    """Odrzuca tlumaczenie zepsute: zgubiona zmienna, angielskie zdanie
+    albo zlamana terminologia."""
     if engine_vars(original) != engine_vars(spanish_escaped):
         return False
-    return not looks_untranslated(original, spanish_escaped)
+    if looks_untranslated(original, spanish_escaped):
+        return False
+    return not breaks_glossary(original, spanish_escaped)
+
+
+def describe_problems(original: str, candidate: str) -> list[str]:
+    """Wypisuje konkretne usterki, zeby model wiedzial co poprawic."""
+    problems: list[str] = []
+    en_vars, es_vars = engine_vars(original), engine_vars(candidate)
+    if en_vars != es_vars:
+        missing = [v for v in en_vars if es_vars.count(v) < en_vars.count(v)]
+        extra = [v for v in es_vars if en_vars.count(v) < es_vars.count(v)]
+        if missing:
+            problems.append(f"missing game variables: {' '.join(sorted(set(missing)))}")
+        if extra:
+            problems.append(f"invented game variables: {' '.join(sorted(set(extra)))}")
+    en_text, es_text = html.unescape(original), html.unescape(candidate)
+    for segment in set(_segments(en_text)) & set(_segments(es_text)):
+        words = _plain_words(segment)
+        if len(words) >= 4 and sum(1 for w in words if w in ENGLISH_STOPWORDS) >= 2:
+            problems.append(f"this sentence is still English: {segment[:120]}")
+    for term in KEEP_ENGLISH:
+        pattern = r"\b" + re.escape(term)
+        if re.search(pattern, en_text, re.I) and not re.search(pattern, es_text, re.I):
+            problems.append(f"the term {term} must stay in English and is missing")
+    for forbidden in FORBIDDEN_ES:
+        found = re.search(forbidden, es_text, re.I)
+        if found:
+            problems.append(f"the word {found.group(0)} is not allowed - see the glossary")
+    return problems
 
 
 def finalize_translation(translated: str, tags: list[str]) -> str:
@@ -292,7 +353,7 @@ def build_client() -> genai.Client:
 def build_config() -> types.GenerateContentConfig:
     return types.GenerateContentConfig(
         system_instruction=SYSTEM_PROMPT,
-        temperature=0.2,
+        temperature=0.0,
         response_mime_type="application/json",
         safety_settings=[
             types.SafetySetting(category="HARM_CATEGORY_HARASSMENT", threshold="BLOCK_NONE"),
@@ -401,7 +462,7 @@ def translate_batch_with_retry(
 def translate_chunk(
     client: genai.Client,
     originals: list[str],
-    rejected: list[str] | None = None,
+    rejected: list[tuple[str, str]] | None = None,
 ) -> dict[str, str]:
     """Translate one chunk. On persistent failure, split the chunk and retry."""
     if not originals:
@@ -438,12 +499,44 @@ def translate_chunk(
         if not translation_is_valid(original, candidate):
             bad += 1
             if rejected is not None:
-                rejected.append(original)
+                rejected.append((original, candidate))
             continue  # nie trafia do cache; runda poprawkowa sprobuje ponownie
         results[original] = candidate
     if bad:
         print(f"    rejected {bad} translation(s): engine variables lost", flush=True)
     return results
+
+
+def repair_one(client: genai.Client, original: str, bad_candidate: str) -> str | None:
+    """Prosi model o poprawienie konkretnej wpadki, zamiast slepo powtarzac."""
+    protected, tags = prepare_for_translation(original)
+    problems = describe_problems(original, bad_candidate)
+    prompt = (
+        "Your previous Spanish translation of this TERA tooltip was rejected.\n\n"
+        f"SOURCE (English, with __TAGn__ placeholders):\n{protected}\n\n"
+        f"YOUR REJECTED ATTEMPT:\n{html.unescape(bad_candidate)}\n\n"
+        "PROBLEMS TO FIX:\n- " + "\n- ".join(problems) + "\n\n"
+        "Fix every problem listed above and keep everything that was already "
+        "correct. Return ONLY a JSON array with exactly one Spanish string."
+    )
+    for attempt in range(1, 4):
+        try:
+            response = client.models.generate_content(
+                model=GEMINI_MODEL, contents=prompt, config=build_config()
+            )
+            fixed = parse_translation_array(extract_response_text(response), 1)[0]
+            candidate = finalize_translation(fixed, tags)
+            if translation_is_valid(original, candidate):
+                return candidate
+            bad_candidate = candidate
+            problems = describe_problems(original, candidate)
+        except Exception as exc:  # noqa: BLE001
+            if is_rate_limit_error(exc):
+                time.sleep(rate_limit_wait_seconds(exc, attempt))
+            else:
+                time.sleep(min(2 ** attempt, 20))
+        time.sleep(BATCH_DELAY)
+    return None
 
 
 def fill_cache_in_batches(
@@ -460,7 +553,7 @@ def fill_cache_in_batches(
 
     batch_count = (total + batch_size - 1) // batch_size
     translated_count = 0
-    rejected: list[str] = []
+    rejected: list[tuple[str, str]] = []
     print(
         f"Translating {total} unique toolTips with {GEMINI_MODEL} "
         f"in {batch_count} batches of up to {batch_size}...",
@@ -481,24 +574,23 @@ def fill_cache_in_batches(
         if batch_index + 1 < batch_count:
             time.sleep(BATCH_DELAY)
 
-    # Runda poprawkowa: odrzucone teksty jeszcze raz, w malych paczkach.
-    # Model gubiacy placeholder przy 40 tekstach zwykle radzi sobie przy 5.
-    for attempt in (1, 2):
-        if not rejected:
-            break
-        pending, rejected = rejected, []
-        print(
-            f"  runda poprawkowa {attempt}: {len(pending)} odrzuconych, paczki po 5",
-            flush=True,
-        )
-        for start in range(0, len(pending), 5):
-            time.sleep(BATCH_DELAY)
-            fixed = translate_chunk(client, pending[start : start + 5], rejected)
-            cache.update(fixed)
-            translated_count += len(fixed)
-            save_cache(cache_path, cache)
+    # Naprawa z informacja zwrotna: model dostaje swoja nieudana probe
+    # i konkretna liste usterek. Wolniej niz slepe powtorzenie, ale skuteczniej.
     if rejected:
-        print(f"  {len(rejected)} tekstow zostaje po angielsku", flush=True)
+        print(f"  naprawa {len(rejected)} odrzuconych tekstow, po jednym", flush=True)
+        still_bad = 0
+        for index, (original, bad_candidate) in enumerate(rejected, 1):
+            if index % 25 == 0:
+                print(f"    naprawiono {index}/{len(rejected)}", flush=True)
+            fixed = repair_one(client, original, bad_candidate)
+            if fixed is None:
+                still_bad += 1
+                continue
+            cache[original] = fixed
+            translated_count += 1
+            save_cache(cache_path, cache)
+        if still_bad:
+            print(f"  {still_bad} tekstow zostaje po angielsku", flush=True)
 
     return translated_count
 
