@@ -73,7 +73,8 @@ FORBIDDEN_ES = (
     # Naglowki opisowe maja byc po hiszpansku; nazwy slotow i menu zostaja.
     r"\[Effect\]", r"\[Duration\]", r"\[Potion\]", r"\[Note\]",
     r"\[Rewards\]", r"\[Items\]", r"\[Abilities\]", r"\[License\]",
-    r"\[Battle Dish\]",
+    r"\[Battle Dish\]", r"\[Effects\]", r"\[Caution\]", r"\[Warning\]",
+    r"\[Usage\]", r"\[Source\]",
 )
 
 CREDIT = "Transcription by TERA New Xenesis 2026"
@@ -89,7 +90,10 @@ Understand gaming terminology and localize it in context, including drops, loot,
 Keep the tone appropriate for a high fantasy universe.
 Translate meaning naturally; prefer established Spanish MMO phrasing over literal calques.
 Keep proper names (Kelsaik, Valkyon, Bahaar, Kaia, Elin, Castanic, Popori, Baraka, Amani, etc.) unchanged unless a well-known Spanish TERA name already exists.
-Square brackets need care. Names of menus and equipment slots stay in English exactly as written, because the game client menus are in English: [Style Info], [Body], [Head], [Weapon], [Feet], [Hands], [Inner Wear], [Costume], [Companion List] and similar slot paths. Every OTHER bracketed label is a heading inside the description and MUST be translated, keeping the brackets: [Effect] -> [Efecto], [Duration] -> [Duracion], [Potion] -> [Pocion], [Note] -> [Nota], [Rewards] -> [Recompensas], [Items] -> [Objetos], [Abilities] -> [Habilidades], [License] -> [Licencia].
+Square brackets: by default COPY the bracketed label in English exactly as written. Equipment slots, menu paths, emote names, quest names and item names all appear in brackets and the player must find them in an English interface, so they must not change.
+The ONLY bracketed labels you translate are these plain descriptive headings, and you translate them exactly like this:
+[Effect] -> [Efecto], [Effects] -> [Efectos], [Duration] -> [Duracion], [Potion] -> [Pocion], [Note] -> [Nota], [Rewards] -> [Recompensas], [Items] -> [Objetos], [Abilities] -> [Habilidades], [License] -> [Licencia], [Caution] -> [Precaucion], [Warning] -> [Advertencia], [Usage] -> [Uso], [Source] -> [Origen], [Battle Dish] -> [Plato de combate].
+Anything else inside brackets stays in English. If you are unsure whether a label is a heading or a name, leave it in English.
 Preserve numbers, percentages, and UI labels.
 Placeholders like __TAG0__, __TAG1__, __TAG2__ are protected markup and game variables. Copy EVERY one of them into the Spanish text, in the same relative positions, with the exact same numbers. Never translate, merge, renumber or delete them. The output must contain exactly the same placeholders as the input, no more and no fewer.
 GLOSSARY - follow it exactly, it overrides your own preferences:
