@@ -71,7 +71,7 @@ FORBIDDEN_ES = (
 CREDIT = "Transcription by TERA New Xenesis 2026"
 BATCH_SIZE = 100
 # Free tier is roughly 10-15 requests per minute; 7s keeps a safe margin.
-BATCH_DELAY = 7.0
+BATCH_DELAY = 9.0
 
 SYSTEM_PROMPT = """
 You are an expert video game localizer. Translate TERA MMORPG item tooltips from English to Spanish.
