@@ -65,7 +65,7 @@ FORBIDDEN_ES = (r"\bPH\b", r"\baguante\b", r"\btimes\b")
 CREDIT = "Transcription by TERA New Xenesis 2026"
 BATCH_SIZE = 100
 # Free tier is roughly 10-15 requests per minute; 7s keeps a safe margin.
-BATCH_DELAY = 9.0
+BATCH_DELAY = 7.0
 
 SYSTEM_PROMPT = """
 You are an expert video game localizer. Translate TERA MMORPG item tooltips from English to Spanish.
@@ -195,8 +195,15 @@ def balance_font_tags(text: str) -> str:
     Dziala zarowno na surowym tekscie (<font>) jak i na zaescapowanym
     (&lt;font&gt;), bo wywolujemy ja w obu tych momentach.
     """
-    escaped = "&lt;" in text and "<font" not in text.lower()
-    lt, gt = ("&lt;", "&gt;") if escaped else ("<", ">")
+    # Zrodlo uzywa trzech zapisow tego samego znacznika. Wybieramy ten,
+    # ktory faktycznie wystepuje w tekscie - od najbardziej zagniezdzonego.
+    lower = text.lower()
+    if "&amp;lt;font" in lower:
+        lt, gt = "&amp;lt;", "&amp;gt;"
+    elif "<font" in lower:
+        lt, gt = "<", ">"
+    else:
+        lt, gt = "&lt;", "&gt;"
     opener = re.escape(lt) + r"font[^<>&]*" + re.escape(gt)
     closer = re.escape(lt) + r"/font\s*" + re.escape(gt)
     out = []
