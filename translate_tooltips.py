@@ -70,12 +70,28 @@ FORBIDDEN_ES = (
     r"\bPH\b", r"\baguante\b", r"\btimes\b",
     r"\bcog(?:er|e|es|ed|ido|iendo)\b", r"\bamericana\b", r"\bgafas\b",
     r"\bvosotros\b", r"\bordenador", r"\bzumo\b",
-    # Naglowki opisowe maja byc po hiszpansku; nazwy slotow i menu zostaja.
-    r"\[Effect\]", r"\[Duration\]", r"\[Potion\]", r"\[Note\]",
-    r"\[Rewards\]", r"\[Items\]", r"\[Abilities\]", r"\[License\]",
-    r"\[Battle Dish\]", r"\[Effects\]", r"\[Caution\]", r"\[Warning\]",
-    r"\[Usage\]", r"\[Source\]",
 )
+
+# Naglowki opisowe podmieniamy sami, po tlumaczeniu. To zwykle zastapienie
+# tekstu, wiec nie ma po co prosic o to modelu - i nie da sie tego zepsuc.
+# Nazwy slotow, emotek, questow i przedmiotow NIE sa tu wymienione,
+# wiec zostaja po angielsku.
+HEADINGS_ES = {
+    "[Effect]": "[Efecto]",
+    "[Effects]": "[Efectos]",
+    "[Duration]": "[Duraci\u00f3n]",
+    "[Potion]": "[Poci\u00f3n]",
+    "[Note]": "[Nota]",
+    "[Rewards]": "[Recompensas]",
+    "[Items]": "[Objetos]",
+    "[Abilities]": "[Habilidades]",
+    "[License]": "[Licencia]",
+    "[Caution]": "[Precauci\u00f3n]",
+    "[Warning]": "[Advertencia]",
+    "[Usage]": "[Uso]",
+    "[Source]": "[Origen]",
+    "[Battle Dish]": "[Plato de combate]",
+}
 
 CREDIT = "Transcription by TERA New Xenesis 2026"
 BATCH_SIZE = 100
@@ -90,10 +106,7 @@ Understand gaming terminology and localize it in context, including drops, loot,
 Keep the tone appropriate for a high fantasy universe.
 Translate meaning naturally; prefer established Spanish MMO phrasing over literal calques.
 Keep proper names (Kelsaik, Valkyon, Bahaar, Kaia, Elin, Castanic, Popori, Baraka, Amani, etc.) unchanged unless a well-known Spanish TERA name already exists.
-Square brackets: by default COPY the bracketed label in English exactly as written. Equipment slots, menu paths, emote names, quest names and item names all appear in brackets and the player must find them in an English interface, so they must not change.
-The ONLY bracketed labels you translate are these plain descriptive headings, and you translate them exactly like this:
-[Effect] -> [Efecto], [Effects] -> [Efectos], [Duration] -> [Duracion], [Potion] -> [Pocion], [Note] -> [Nota], [Rewards] -> [Recompensas], [Items] -> [Objetos], [Abilities] -> [Habilidades], [License] -> [Licencia], [Caution] -> [Precaucion], [Warning] -> [Advertencia], [Usage] -> [Uso], [Source] -> [Origen], [Battle Dish] -> [Plato de combate].
-Anything else inside brackets stays in English. If you are unsure whether a label is a heading or a name, leave it in English.
+Anything inside square brackets is copied in English exactly as written - equipment slots, menu paths, emote names, quest names and item names all appear in brackets and the player must find them in an English interface.
 Preserve numbers, percentages, and UI labels.
 Placeholders like __TAG0__, __TAG1__, __TAG2__ are protected markup and game variables. Copy EVERY one of them into the Spanish text, in the same relative positions, with the exact same numbers. Never translate, merge, renumber or delete them. The output must contain exactly the same placeholders as the input, no more and no fewer.
 GLOSSARY - follow it exactly, it overrides your own preferences:
@@ -353,10 +366,17 @@ def finalize_translation(translated: str, tags: list[str]) -> str:
     return xml_attr_escape(restored).replace(NEWLINE_MARK, "&#xA;")
 
 
+def localize_headings(text: str) -> str:
+    """Podmienia angielskie naglowki opisowe na hiszpanskie."""
+    for english, spanish in HEADINGS_ES.items():
+        text = text.replace(english, spanish)
+    return text
+
+
 def bilingual_tooltip(original_attr: str, spanish_escaped: str) -> str:
     # Dziala takze na wpisy ze starego cache, wiec stare bledy tez sie czyszcza.
     english = balance_font_tags(sanitize(original_attr))
-    spanish = balance_font_tags(sanitize(spanish_escaped))
+    spanish = localize_headings(balance_font_tags(sanitize(spanish_escaped)))
     return OUTPUT_TEMPLATE.format(english=english, spanish=spanish)
 
 
