@@ -70,6 +70,10 @@ FORBIDDEN_ES = (
     r"\bPH\b", r"\baguante\b", r"\btimes\b",
     r"\bcog(?:er|e|es|ed|ido|iendo)\b", r"\bamericana\b", r"\bgafas\b",
     r"\bvosotros\b", r"\bordenador", r"\bzumo\b",
+    # Naglowki opisowe maja byc po hiszpansku; nazwy slotow i menu zostaja.
+    r"\[Effect\]", r"\[Duration\]", r"\[Potion\]", r"\[Note\]",
+    r"\[Rewards\]", r"\[Items\]", r"\[Abilities\]", r"\[License\]",
+    r"\[Battle Dish\]",
 )
 
 CREDIT = "Transcription by TERA New Xenesis 2026"
