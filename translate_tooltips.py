@@ -29,6 +29,7 @@ from google import genai
 from google.genai import types, errors
 # Model potrafi urwac placeholder (__TAG0) albo wymyslic wlasny (__COLOR_END__).
 ORPHAN_TAG_RE = re.compile(r"__TAG\d+(?:__)?|__[A-Z][A-Z0-9_]{2,}__")
+PLACEHOLDER_STRIP_RE = re.compile(r"__TAG\d+__")
 # ---------------------------------------------------------------------------
 # Leave empty. The key is read from the GEMINI_API_KEY environment variable
 # (GitHub Secrets on Actions, $env:GEMINI_API_KEY locally).
@@ -70,7 +71,8 @@ FORBIDDEN_ES = (
 
 CREDIT = "Transcription by TERA New Xenesis 2026"
 BATCH_SIZE = 100
-# Free tier is roughly 10-15 requests per minute; 7s keeps a safe margin.
+# Darmowy limit to 15 zapytan na minute; 9s daje zapas takze na naprawy,
+# ktore ida po jednym tekscie.
 BATCH_DELAY = 9.0
 
 SYSTEM_PROMPT = """
@@ -80,7 +82,7 @@ Understand gaming terminology and localize it in context, including drops, loot,
 Keep the tone appropriate for a high fantasy universe.
 Translate meaning naturally; prefer established Spanish MMO phrasing over literal calques.
 Keep proper names (Kelsaik, Valkyon, Bahaar, Kaia, Elin, Castanic, Popori, Baraka, Amani, etc.) unchanged unless a well-known Spanish TERA name already exists.
-NEVER translate UI element names written in square brackets, such as [Style Info], [Body], [Head], [Weapon], [Rewards]. Copy them exactly as they appear in English, because the game client menus are still in English.
+Square brackets need care. Names of menus and equipment slots stay in English exactly as written, because the game client menus are in English: [Style Info], [Body], [Head], [Weapon], [Feet], [Hands], [Inner Wear], [Costume], [Companion List] and similar slot paths. Every OTHER bracketed label is a heading inside the description and MUST be translated, keeping the brackets: [Effect] -> [Efecto], [Duration] -> [Duracion], [Potion] -> [Pocion], [Note] -> [Nota], [Rewards] -> [Recompensas], [Items] -> [Objetos], [Abilities] -> [Habilidades], [License] -> [Licencia].
 Preserve numbers, percentages, and UI labels.
 Placeholders like __TAG0__, __TAG1__, __TAG2__ are protected markup and game variables. Copy EVERY one of them into the Spanish text, in the same relative positions, with the exact same numbers. Never translate, merge, renumber or delete them. The output must contain exactly the same placeholders as the input, no more and no fewer.
 GLOSSARY - follow it exactly, it overrides your own preferences:
@@ -409,10 +411,7 @@ def parse_translation_array(raw: str, expected: int) -> list[str]:
     if not isinstance(data, list) or len(data) != expected:
         got = len(data) if isinstance(data, list) else type(data).__name__
         raise RuntimeError(f"Gemini JSON size mismatch: expected {expected} strings, got {got}")
-    translated = [str(item) for item in data]
-    if any(item.strip() == "" for item in translated):
-        raise RuntimeError("Empty translation in Gemini JSON response")
-    return translated
+    return [str(item) for item in data]
 
 
 def is_rate_limit_error(exc: Exception) -> bool:
@@ -489,12 +488,23 @@ def translate_chunk(
     if not originals:
         return {}
 
+    results: dict[str, str] = {}
     prepared_texts: list[str] = []
     tags_by_index: list[list[str]] = []
+    to_translate: list[str] = []
     for original in originals:
         protected, tags = prepare_for_translation(original)
+        if not re.search(r"[A-Za-z]", PLACEHOLDER_STRIP_RE.sub("", protected)):
+            # Sam markup albo same zmienne - nie ma czego tlumaczyc. Wyslanie
+            # tego do modelu konczy sie pusta odpowiedzia i seria ponowien.
+            results[original] = finalize_translation(protected, tags)
+            continue
+        to_translate.append(original)
         prepared_texts.append(protected)
         tags_by_index.append(tags)
+    originals = to_translate
+    if not originals:
+        return results
 
     try:
         translated = translate_batch_with_retry(client, prepared_texts)
@@ -513,9 +523,15 @@ def translate_chunk(
         merged.update(translate_chunk(client, originals[mid:], rejected))
         return merged
 
-    results: dict[str, str] = {}
     bad = 0
     for original, spanish, tags in zip(originals, translated, tags_by_index):
+        if not spanish.strip():
+            # Model nic nie odeslal dla tego tekstu. Zamiast wysadzac cala
+            # paczke, kierujemy ten jeden do naprawy.
+            bad += 1
+            if rejected is not None:
+                rejected.append((original, original))
+            continue
         candidate = finalize_translation(spanish, tags)
         if not translation_is_valid(original, candidate):
             bad += 1
