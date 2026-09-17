@@ -64,6 +64,7 @@ Preserve numbers, percentages, and UI labels.
 Placeholders like __TAG0__, __TAG1__, __TAG2__ are protected markup and game variables. Copy EVERY one of them into the Spanish text, in the same relative positions, with the exact same numbers. Never translate, merge, renumber or delete them. The output must contain exactly the same placeholders as the input, no more and no fewer.
 Do not add explanations, notes, quotes, or extra punctuation that was not implied by the source.
 Do not include the English source text in your output.
+Translate EVERY sentence. A long tooltip may contain many sentences separated by __TAGn__ line breaks - each one must be rendered in Spanish. Never copy an English sentence unchanged into your output, not even a technical one about MP, cooldowns, percentages or durations.
 Never use raw line breaks inside the JSON strings you return.
 Return ONLY valid JSON: an array of Spanish strings, same length and order as the input array.
 """.strip()
@@ -195,9 +196,51 @@ def engine_vars(text: str) -> list[str]:
     return sorted(VAR_RE.findall(html.unescape(text)))
 
 
+# Angielskie slowa funkcyjne - ich obecnosc odroznia zdanie od nazwy wlasnej.
+ENGLISH_STOPWORDS = {
+    "the", "of", "by", "you", "your", "is", "are", "with", "when", "for",
+    "to", "and", "if", "per", "every", "additional", "this", "that", "can",
+    "be", "will", "has", "have", "from", "into", "after", "before", "use",
+    "used", "increases", "decreases", "wear", "upon", "while", "during",
+}
+
+
+def _segments(text: str) -> list[str]:
+    parts = re.split(r"\$BR|<br\s*/?>", text, flags=re.I)
+    return [p.strip() for p in parts if p.strip()]
+
+
+def _plain_words(segment: str) -> list[str]:
+    segment = re.sub(r"<[^>]*>", " ", segment)
+    segment = re.sub(r"\$[A-Za-z_][A-Za-z0-9_]*", " ", segment)
+    segment = re.sub(r"\[[^\]]*\]", " ", segment)
+    segment = re.sub(r"[^A-Za-z ]", " ", segment)
+    return segment.lower().split()
+
+
+def looks_untranslated(original: str, spanish_escaped: str) -> bool:
+    """Wykrywa zdania przepisane z angielskiego zamiast przetlumaczonych.
+
+    Model przy dlugich opisach potrafi przetlumaczyc czesc zdan, a reszte
+    skopiowac. Zmienne silnika sa wtedy komplet, wiec tamta walidacja tego
+    nie lapie. Porownujemy zdanie po zdaniu; identyczne zdanie zawierajace
+    angielskie slowa funkcyjne oznacza, ze nie zostalo przetlumaczone.
+    Nazwy wlasne ("Exodor Scout Armor Feedstock") tych slow nie maja.
+    """
+    en = set(_segments(html.unescape(original)))
+    es = set(_segments(html.unescape(spanish_escaped)))
+    for segment in en & es:
+        words = _plain_words(segment)
+        if len(words) >= 4 and sum(1 for w in words if w in ENGLISH_STOPWORDS) >= 2:
+            return True
+    return False
+
+
 def translation_is_valid(original: str, spanish_escaped: str) -> bool:
-    """Odrzuca tlumaczenie, ktore zgubilo lub zmienilo zmienna silnika."""
-    return engine_vars(original) == engine_vars(spanish_escaped)
+    """Odrzuca tlumaczenie zepsute: zgubiona zmienna albo zdanie po angielsku."""
+    if engine_vars(original) != engine_vars(spanish_escaped):
+        return False
+    return not looks_untranslated(original, spanish_escaped)
 
 
 def finalize_translation(translated: str, tags: list[str]) -> str:
