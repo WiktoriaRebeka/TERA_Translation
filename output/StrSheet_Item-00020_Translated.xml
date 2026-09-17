@@ -1,0 +1,188 @@
+<StrSheet_Item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Item StrSheet_Item.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Item">
+    <String id="370001" string="HP Recovery&lt;br&gt;Upon Kill +3%" toolTip="[EN] Recovers +3% HP upon killing an enemy.&lt;br&gt;[ES] Recupera un +3% HP al derrotar a un enemigo.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370002" string="+4% Damage Against&lt;br&gt;Knocked-Down Enemies" toolTip="[EN] Increases damage by 4% against knocked-down enemies.&lt;br&gt;[ES] Aumenta el da&#241;o en un 4% contra enemigos derribados.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370003" string="Damage Reduction&lt;br&gt;While Knocked Down -4%" toolTip="[EN] Decreases damage received when knocked down by 4%.&lt;br&gt;[ES] Disminuye el da&#241;o recibido al estar derribado en un 4%.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370004" string="+3% Damage Against&lt;br&gt;Enemies Below 30% HP" toolTip="[EN] Increases damage by 3% against enemies below 30% HP.&lt;br&gt;[ES] Aumenta el da&#241;o en un 3% contra enemigos con menos del 30% HP.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370005" string="-2% Damage Below 50% HP" toolTip="[EN] Decreases damage received by 2% when HP falls below 50%.&lt;br&gt;[ES] Disminuye el da&#241;o recibido en un 2% cuando el HP cae por debajo del 50%.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370006" string="+5% Crit Power When&lt;br&gt;Attacking From Behind" toolTip="[EN] Increases Crit Power by 5% when attacking from behind.&lt;br&gt;[ES] Aumenta el poder de golpe critico en un 5% al atacar por la espalda.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370007" string="Attack Increase&lt;br&gt;(Level 8+) +4%" toolTip="[EN] Increases Attack by 4% when your level is 8 or above.&lt;br&gt;[ES] Aumenta el ataque en un 4% cuando tu nivel es 8 o superior.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370008" string="Attack Bonus +1%" toolTip="[EN] Increases Attack by 1%.&lt;br&gt;[ES] Aumenta el ataque en un 1%.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370009" string="Attack Bonus +0.5%" toolTip="[EN] Increases Attack by 0.5%.&lt;br&gt;[ES] Aumenta el ataque en un 0,5%.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370010" string="Crit Factor Bonus +15" toolTip="[EN] Increases Crit Factor by 15.&lt;br&gt;[ES] Aumenta el factor cr&#237;tico en 15.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370011" string="Crit Factor Bonus +10" toolTip="[EN] Increases Crit Factor by 10.&lt;br&gt;[ES] Aumenta el factor cr&#237;tico en 10.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370012" string="Crit Power Bonus +0.03" toolTip="[EN] Increases Crit Power by 0.03.&lt;br&gt;[ES] Aumenta el poder de golpe critico en 0,03.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370013" string="Crit Power Bonus +0.02" toolTip="[EN] Increases Crit Power by 0.02.&lt;br&gt;[ES] Aumenta el poder de golpe critico en 0,02.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370014" string="Attack Speed Bonus +1.5" toolTip="[EN] Increases Attack Speed by 1.5.&lt;br&gt;[ES] Aumenta la velocidad de ataque en 1,5.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370015" string="Attack Speed Bonus +1" toolTip="[EN] Increases Attack Speed by 1.&lt;br&gt;[ES] Aumenta la velocidad de ataque en 1.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370016" string="Damage Reduction&lt;br&gt;Bonus +1%" toolTip="[EN] Decreases damage received by 1%.&lt;br&gt;[ES] Disminuye el da&#241;o recibido en un 1%.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370017" string="Damage Reduction&lt;br&gt;Bonus +0.5%" toolTip="[EN] Decreases damage received by 0.5%.&lt;br&gt;[ES] Disminuye el da&#241;o recibido en un 0,5%.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370018" string="Crit Resist&lt;br&gt;Factor Bonus +24" toolTip="[EN] Increases Crit Resist Factor by 24.&lt;br&gt;[ES] Aumenta la resistencia cr&#237;tica en 24.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370019" string="Crit Resist&lt;br&gt;Factor Bonus +12" toolTip="[EN] Increases Crit Resist Factor by 12.&lt;br&gt;[ES] Aumenta la resistencia cr&#237;tica en 12.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370020" string="Crit Damage&lt;br&gt;Reduction Bonus +0.04" toolTip="[EN] Decreases Crit Damage received by 0.04.&lt;br&gt;[ES] Disminuye el da&#241;o cr&#237;tico recibido en 0,04.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370021" string="Crit Damage&lt;br&gt;Reduction +0.02" toolTip="[EN] Decreases Crit Damage received by 0.02.&lt;br&gt;[ES] Reduce el da&#241;o de golpe cr&#237;tico recibido en 0,02.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370022" string="HP Regen per 5 Sec +130" toolTip="[EN] Recovers 130 HP per 5 seconds.&lt;br&gt;[ES] Recupera 130 de HP cada 5 segundos.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370023" string="HP Regen per 5 Sec +65" toolTip="[EN] Recovers 65 HP per 5 seconds.&lt;br&gt;[ES] Recupera 65 de HP cada 5 segundos.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370024" string="Max HP Bonus +700" toolTip="[EN] Increases Max HP by 700.&lt;br&gt;[ES] Aumenta el Max HP en 700.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370025" string="Max HP Bonus +350" toolTip="[EN] Increases Max HP by 350.&lt;br&gt;[ES] Aumenta el Max HP en 350.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370026" string="Movement Bonus +2" toolTip="[EN] Increases Movement Speed by 2.&lt;br&gt;[ES] Aumenta la velocidad de movimiento en 2.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="370027" string="Movement Bonus +1.5" toolTip="[EN] Increases Movement Speed by 1.5.&lt;br&gt;[ES] Aumenta la velocidad de movimiento en 1,5.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371101" string="Medieval Knight Braga Fragment" toolTip="[EN] Wiseguard&lt;br&gt;[ES] Wiseguard&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371102" string="SWAT Braga Fragment" toolTip="[EN] Wiseguard&lt;br&gt;[ES] Wiseguard&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371201" string="Hero Dougal Fragment" toolTip="[EN] Velika Garrison Consul&lt;br&gt;[ES] Velika Garrison Consul&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371202" string="Death Knight Dougal Fragment" toolTip="[EN] Velika Garrison Consul&lt;br&gt;[ES] Velika Garrison Consul&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371301" string="Fragment: Officer Rhodos" toolTip="[EN] Khirian Commander&lt;br&gt;[ES] Khirian Commander&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371302" string="Fragment: Passionate Rhodos" toolTip="[EN] Khirian Commander&lt;br&gt;[ES] Khirian Commander&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371401" string="Pool Party Fraya Fragment" toolTip="[EN] Commander of Allemantheia&lt;br&gt;[ES] Commander of Allemantheia&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371402" string="Shirt Fraya Fragment" toolTip="[EN] Commander of Allemantheia&lt;br&gt;[ES] Commander of Allemantheia&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371501" string="Tailcoat Elleon Fragment" toolTip="[EN] Valkyon Federation Hero&lt;br&gt;[ES] Valkyon Federation Hero&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371502" string="Sportswear Elleon Fragment" toolTip="[EN] Valkyon Federation Hero&lt;br&gt;[ES] Valkyon Federation Hero&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371601" string="Cheerleader Shizuna Fragment" toolTip="[EN] Shadow of Elinu&lt;br&gt;[ES] Shadow of Elinu&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371602" string="Skilled Cadet Shizuna Fragment" toolTip="[EN] Shadow of Elinu&lt;br&gt;[ES] Shadow of Elinu&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371701" string="Pilot Teolung Fragment" toolTip="[EN] Veteran Mercenary&lt;br&gt;[ES] Veteran Mercenary&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371702" string="Clown Teolung Fragment" toolTip="[EN] Veteran Mercenary&lt;br&gt;[ES] Veteran Mercenary&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371801" string="Secret Agent Ciebel Fragment" toolTip="[EN] Agent of Velik&lt;br&gt;[ES] Agent of Velik&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371802" string="Sailor Ciebel Fragment" toolTip="[EN] Agent of Velik&lt;br&gt;[ES] Agent of Velik&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371901" string="Count Ryshan Fragment" toolTip="[EN] Master Sorcerer&lt;br&gt;[ES] Master Sorcerer&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="371902" string="Steampunk Ryshan Fragment" toolTip="[EN] Master Sorcerer&lt;br&gt;[ES] Master Sorcerer&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372001" string="Fragment: Maid Niniel" toolTip="[EN] Battlefield Star&lt;br&gt;[ES] Battlefield Star&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372002" string="Fragment: Nurse Niniel" toolTip="[EN] Battlefield Star&lt;br&gt;[ES] Battlefield Star&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372101" string="Student Councilor Zolyn Fragment" toolTip="[EN] Paraanon Protectors&lt;br&gt;[ES] Paraanon Protectors&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372102" string="Magician Zolyn Fragment" toolTip="[EN] Paraanon Protectors&lt;br&gt;[ES] Paraanon Protectors&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372201" string="Snowboarder Astina Fragment" toolTip="[EN] Seeker of Truth&lt;br&gt;[ES] Seeker of Truth&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372202" string="TGIF Astina Fragment" toolTip="[EN] Seeker of Truth&lt;br&gt;[ES] Seeker of Truth&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372401" string="Cowboy Erhaan Fragment" toolTip="[EN] Troubled Scholar&lt;br&gt;[ES] Troubled Scholar&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372402" string="Dark Erhaan Fragment" toolTip="[EN] Troubled Scholar&lt;br&gt;[ES] Troubled Scholar&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372501" string="Fragment: Dragon Knight Kaia" toolTip="[EN] Goddess of War&lt;br&gt;[ES] Diosa de la Guerra&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372502" string="Fragment: Light Warrior Kaia" toolTip="[EN] Goddess of War&lt;br&gt;[ES] Diosa de la Guerra&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372601" string="Sky Captain Dixie Fragment" toolTip="[EN] Crimson Wolf Pirate&lt;br&gt;[ES] Pirata del lobo escarlata&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372602" string="Hanbok Dixie Fragment" toolTip="[EN] Crimson Wolf Pirate&lt;br&gt;[ES] Pirata del lobo escarlata&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372901" string="Hiphop Shaoron Fragment" toolTip="[EN] Wandering Martial Artist&lt;br&gt;[ES] Artista marcial errante&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="372902" string="Serious Business Shaoron Fragment" toolTip="[EN] Wandering Martial Artist&lt;br&gt;[ES] Artista marcial errante&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="373001" string="Duck Woopu Fragment" toolTip="[EN] Prodigal Gunner&lt;br&gt;[ES] Artillero prodigioso&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="373002" string="Pink Bear Woopu Fragment" toolTip="[EN] Prodigal Gunner&lt;br&gt;[ES] Artillero prodigioso&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="373101" string="Pool Titus Fragment" toolTip="[EN] Explosives Expert&lt;br&gt;[ES] Experto en explosivos&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="373102" string="Bully Titus Fragment" toolTip="[EN] Explosives Expert&lt;br&gt;[ES] Experto en explosivos&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="373301" string="Goblin Chef Paesyn Fragment" toolTip="[EN] Federation Engineer&lt;br&gt;[ES] Ingeniero de la Federaci&#243;n&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="373302" string="Yell Leader Paesyn Fragment" toolTip="[EN] Federation Engineer&lt;br&gt;[ES] Ingeniero de la Federaci&#243;n&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="373401" string="Robot Mutar Fragment" toolTip="[EN] Ruthless Slayer&lt;br&gt;[ES] Asesino despiadado&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="373402" string="Fasting Mutar Fragment" toolTip="[EN] Ruthless Slayer&lt;br&gt;[ES] Asesino despiadado&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="373501" string="Master Cleaner Liwon Fragment" toolTip="[EN] Storm of the Battlefield&lt;br&gt;[ES] Tormenta del campo de batalla&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="373502" string="Fragment: Innocent Student Liwon" toolTip="[EN] Storm of the Battlefield&lt;br&gt;[ES] Tormenta del campo de batalla&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379001" string="Braga Fragment" toolTip="[EN] Wiseguard&lt;br&gt;[ES] Wiseguard&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379002" string="Dougal Fragment" toolTip="[EN] Velika Garrison Consul&lt;br&gt;[ES] Velika Garrison Consul&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379003" string="Fragment: Rhodos" toolTip="[EN] Khirian Commander&lt;br&gt;[ES] Khirian Commander&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379004" string="Fraya Fragment" toolTip="[EN] Commander of Allemantheia&lt;br&gt;[ES] Commander of Allemantheia&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379005" string="Elleon Fragment" toolTip="[EN] Valkyon Federation Hero&lt;br&gt;[ES] Valkyon Federation Hero&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379006" string="Shizuna Fragment" toolTip="[EN] Shadow of Elinu&lt;br&gt;[ES] Shadow of Elinu&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379007" string="Teolung Fragment" toolTip="[EN] Veteran Mercenary&lt;br&gt;[ES] Veteran Mercenary&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379008" string="Ciebel Fragment" toolTip="[EN] Agent of Velik&lt;br&gt;[ES] Agent of Velik&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379009" string="Ryshan Fragment" toolTip="[EN] Master Sorcerer&lt;br&gt;[ES] Master Sorcerer&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379010" string="Fragment: Niniel" toolTip="[EN] Battlefield Star&lt;br&gt;[ES] Battlefield Star&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379011" string="Zolyn Fragment" toolTip="[EN] Paraanon Protectors&lt;br&gt;[ES] Paraanon Protectors&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379012" string="Astina Fragment" toolTip="[EN] Seeker of Truth&lt;br&gt;[ES] Seeker of Truth&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379014" string="Erhaan Fragment" toolTip="[EN] Troubled Scholar&lt;br&gt;[ES] Troubled Scholar&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379015" string="Fragment: Kaia" toolTip="[EN] Goddess of War&lt;br&gt;[ES] Diosa de la Guerra&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379016" string="Dixie Fragment" toolTip="[EN] Crimson Wolf Pirate&lt;br&gt;[ES] Pirata del lobo escarlata&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379019" string="Shaoron Fragment" toolTip="[EN] Wandering Martial Artist&lt;br&gt;[ES] Artista marcial errante&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379020" string="Woopu Fragment" toolTip="[EN] Prodigal Gunner&lt;br&gt;[ES] Artillero prodigioso&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379021" string="Titus Fragment" toolTip="[EN] Explosives Expert&lt;br&gt;[ES] Experto en explosivos&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379023" string="Paesyn Fragment" toolTip="[EN] Federation Engineer&lt;br&gt;[ES] Ingeniero de la Federaci&#243;n&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379024" string="Mutar Fragment" toolTip="[EN] Ruthless Slayer&lt;br&gt;[ES] Asesino despiadado&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="379025" string="Liwon Fragment" toolTip="[EN] Storm of the Battlefield&lt;br&gt;[ES] Tormenta del campo de batalla&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="380001" string="Braga" toolTip="" />
+    <String id="380002" string="Dougal" toolTip="" />
+    <String id="380003" string="Rhodos" toolTip="" />
+    <String id="380004" string="Fraya" toolTip="" />
+    <String id="380005" string="Elleon" toolTip="" />
+    <String id="380006" string="Shizuna" toolTip="" />
+    <String id="380007" string="Teolung" toolTip="" />
+    <String id="380008" string="Ciebel" toolTip="" />
+    <String id="380009" string="Ryshan" toolTip="" />
+    <String id="380010" string="Niniel" toolTip="" />
+    <String id="380011" string="Zolyn" toolTip="" />
+    <String id="380012" string="Astina" toolTip="" />
+    <String id="380014" string="Erhan" toolTip="" />
+    <String id="380015" string="Kaia" toolTip="" />
+    <String id="380016" string="Dixie" toolTip="" />
+    <String id="380019" string="Xiao Long" toolTip="" />
+    <String id="380020" string="Woopu" toolTip="" />
+    <String id="380021" string="Titus" toolTip="" />
+    <String id="380023" string="Paesyn" toolTip="" />
+    <String id="380024" string="Mutar" toolTip="" />
+    <String id="380025" string="Liwon" toolTip="" />
+    <String id="381101" string="Medieval Knight Braga" toolTip="" />
+    <String id="381102" string="SWAT Braga" toolTip="" />
+    <String id="381201" string="Hero Dougal" toolTip="" />
+    <String id="381202" string="Death Knight Dougal" toolTip="" />
+    <String id="381301" string="Officer Rhodos" toolTip="" />
+    <String id="381302" string="Passionate Rhodos" toolTip="" />
+    <String id="381401" string="Ruined Wedding Fraya" toolTip="" />
+    <String id="381402" string="Shirt Fraya" toolTip="" />
+    <String id="381403" string="Flamingo Fraya" toolTip="" />
+    <String id="381501" string="Tailcoat Elleon" toolTip="" />
+    <String id="381502" string="Sportswear Elleon" toolTip="" />
+    <String id="381601" string="Cheerleader Shizuna" toolTip="" />
+    <String id="381602" string="Kindergartener Shizuna" toolTip="" />
+    <String id="381701" string="Pilot Teolung" toolTip="" />
+    <String id="381702" string="Clown Teolung" toolTip="" />
+    <String id="381801" string="Secret Agent Ciebel" toolTip="" />
+    <String id="381802" string="Marine Girl Ciebel" toolTip="" />
+    <String id="381803" string="Ciebel (black)" toolTip="" />
+    <String id="381901" string="Count Ryshan" toolTip="" />
+    <String id="381902" string="Steampunk Ryshan" toolTip="" />
+    <String id="382001" string="Maid Niniel" toolTip="" />
+    <String id="382002" string="Nurse Niniel" toolTip="" />
+    <String id="382101" string="Student Councilor Zolyn" toolTip="" />
+    <String id="382102" string="Magician Zolyn" toolTip="" />
+    <String id="382103" string="Uniform Zolyn" toolTip="" />
+    <String id="382201" string="Snowboarder Astina" toolTip="" />
+    <String id="382202" string="TGIF Astina" toolTip="" />
+    <String id="382203" string="Astina (pink)" toolTip="" />
+    <String id="382401" string="Cowboy Erhan" toolTip="" />
+    <String id="382402" string="Dark Eydis" toolTip="" />
+    <String id="382403" string="Femme Fatale Erhaan" toolTip="" />
+    <String id="382501" string="Dragon Knight Kaia" toolTip="" />
+    <String id="382502" string="Light Warrior Kaia" toolTip="" />
+    <String id="382601" string="Federation Captain Dixie" toolTip="" />
+    <String id="382602" string="Hanbok Dixie" toolTip="" />
+    <String id="382901" string="Hiphop Xiao Long" toolTip="" />
+    <String id="382902" string="Mafia Xiao Long" toolTip="" />
+    <String id="383001" string="Duck Woopu" toolTip="" />
+    <String id="383002" string="Pink Bear Woopu" toolTip="" />
+    <String id="383101" string="Pool Titus" toolTip="" />
+    <String id="383102" string="Bully Titus" toolTip="" />
+    <String id="383301" string="Goblin Chef Paesyn" toolTip="" />
+    <String id="383302" string="Yell Leader Paesyn" toolTip="" />
+    <String id="383401" string="Robot Mutah" toolTip="" />
+    <String id="383402" string="Fastening Mutar" toolTip="" />
+    <String id="383501" string="Master Cleaner Liwon" toolTip="" />
+    <String id="383502" string="Innocent Student Liwon" toolTip="" />
+    <String id="390001" string="Ornament" toolTip="" />
+    <String id="398000" string="Extensive Federation Bill Bundle" toolTip="[EN] TBA Extensive Federation Bill Bundle&lt;br&gt;[ES] Paquete de facturas extensivas de la Federaci&#243;n por anunciar&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398001" string="Hero Fragment Crate" toolTip="[EN] Random Hero Fragment Crate&lt;br&gt;[ES] Caja de fragmentos de h&#233;roe aleatorio&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398002" string="[Battle Arena] Hero Fragment Crate" toolTip="[EN] Open to receive 1 fragment for a playable hero. $BR$BRYou can exchange the fragments you collect for a hero. If you already have the hero, you can dismantle them for Arena Coins.&lt;br&gt;[ES] &#218;salo para recibir 1 fragmento para un h&#233;roe jugable. $BR$BRPuedes cambiar los fragmentos que recolectes por un h&#233;roe. Si ya tienes al h&#233;roe, puedes desmantelarlo para conseguir Arena Coins.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398100" string="Tikat Arena Bag" toolTip="[EN] Use to receive 60 Arena Coins.$BRYou also receive 600 to 100,000 Tikat.&lt;br&gt;[ES] &#218;salo para recibir 60 Arena Coins.$BRTambi&#233;n recibes entre 600 y 100.000 Tikat.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398101" string="Large Tikat Arena Bag" toolTip="[EN] Use to receive 150 Arena Coins.$BRYou also receive 3,000 to 500,000 Tikat.&lt;br&gt;[ES] &#218;salo para recibir 150 Arena Coins.$BRTambi&#233;n recibes entre 3.000 y 500.000 Tikat.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398102" string="Tikat Arena Box" toolTip="[EN] Use to receive 1,110 Arena Coins.$BRYou also receive 23,000 to 800,000 Tikat.&lt;br&gt;[ES] &#218;salo para recibir 1.110 Arena Coins.$BRTambi&#233;n recibes entre 23.000 y 800.000 Tikat.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398103" string="Large Tikat Arena Box" toolTip="[EN] Use to receive 1,860 Arena Coins.$BRYou also receive 37,500 to 1,000,000 Tikat.&lt;br&gt;[ES] &#218;salo para recibir 1.860 Arena Coins.$BRTambi&#233;n recibes entre 37.500 y 1.000.000 Tikat.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398200" string="[Battle Arena] Tikat Bag (10)" toolTip="[EN] Use to receive 10 Tikat.&lt;br&gt;[ES] &#218;salo para recibir 10 Tikat.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398201" string="[Battle Arena] Tikat Bag (100)" toolTip="[EN] Use to receive 100 Tikat.&lt;br&gt;[ES] &#218;salo para recibir 100 Tikat.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398202" string="[Battle Arena] Tikat Bag (1,000)" toolTip="[EN] Use to receive 1,000 Tikat.&lt;br&gt;[ES] &#218;salo para recibir 1.000 Tikat.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398300" string="[Battle Arena] Tikat Bundle (900)" toolTip="[EN] Tikat Bundle (900)&lt;br&gt;[ES] Paquete de Tikat (900)&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398301" string="[Battle Arena] Tikat Bundle (10,300)" toolTip="[EN] Tikat Bundle (10,300)&lt;br&gt;[ES] Paquete de Tikat (10.300)&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398302" string="[Battle Arena] Tikat Bundle (32,100)" toolTip="[EN] Tikat Bundle (32,100)&lt;br&gt;[ES] Paquete de Tikat (32.100)&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398303" string="[Battle Arena] Tikat Bundle (56,000)" toolTip="[EN] Tikat Bundle (56,000)&lt;br&gt;[ES] Paquete de Tikat (56.000)&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398304" string="[Battle Arena] Tikat Bundle (118,000)" toolTip="[EN] Tikat Bundle (118,000)&lt;br&gt;[ES] Paquete de Tikat (118.000)&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398900" string="Arena Coin Box (100)" toolTip="[EN] Use to receive 100 Arena Coins.&lt;br&gt;[ES] Usar para recibir 100 Arena Coins.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398901" string="Arena Coin Box (300)" toolTip="[EN] Use to receive 300 Arena Coins.&lt;br&gt;[ES] Usar para recibir 300 Arena Coins.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398902" string="Arena Coin Box (500)" toolTip="[EN] Use to receive 500 Arena Coins.&lt;br&gt;[ES] Usar para recibir 500 Arena Coins.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="398903" string="Arena Coin Box (1,000)" toolTip="[EN] Use to receive 1000 Arena Coins.&lt;br&gt;[ES] Usar para recibir 1000 Arena Coins.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="399500" string="Account XP +100" toolTip="" />
+    <String id="399600" string="Premium Arena Pass" toolTip="" />
+    <String id="399601" string="Super-Premium Arena Pass" toolTip="" />
+    <String id="399700" string="Arena Pass XP +100" toolTip="" />
+    <String id="399701" string="Arena Pass XP +300" toolTip="" />
+    <String id="399702" string="Arena Pass XP +20" toolTip="" />
+    <String id="399900" string="A.C" toolTip="[EN] Arena Coin&lt;br&gt;[ES] Arena Coin&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="399901" string="Arena Pass Token" toolTip="" />
+</StrSheet_Item>
