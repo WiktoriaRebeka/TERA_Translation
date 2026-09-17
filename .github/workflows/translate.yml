@@ -11,7 +11,7 @@ on:
       batch_size:
         description: "Ile tooltipow na jedno zapytanie (mniej = rzadsze limity)"
         required: false
-        default: "40"
+        default: "20"
       limit:
         description: "Tylko pierwsze N linii (test). 0 = caly plik"
         required: false
@@ -21,7 +21,7 @@ on:
 permissions:
   contents: write
 
-# Nie pozwala uruchomic dwoch tlumaczen naraz - chronilo by cache przed konfliktem.
+# Nie pozwala uruchomic dwoch tlumaczen naraz - chroni cache przed konfliktem.
 concurrency:
   group: translate
   cancel-in-progress: false
@@ -50,6 +50,15 @@ jobs:
           python translate_tooltips.py "${{ inputs.input_file }}" \
             --batch-size "${{ inputs.batch_size }}" \
             --limit "${{ inputs.limit }}"
+
+      - name: Sprawdz jakosc
+        if: always()
+        continue-on-error: true
+        run: |
+          NAME=$(basename "${{ inputs.input_file }}" .xml)
+          python check_translation.py "output/${NAME}_Translated.xml" \
+            --source "${{ inputs.input_file }}" \
+            --report "output/${NAME}_raport.txt"
 
       - name: Zapisz wynik do repozytorium
         if: always()
