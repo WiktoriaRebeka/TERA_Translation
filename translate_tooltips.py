@@ -44,7 +44,11 @@ TAG_RE = re.compile(r"<[^>]+>")
 # Kolejnosc w alternatywie jest wazna: w zrodle te tokeny wchodza wprost
 # w kolejne slowo ($BRAuto, $COLOR_ENDInflicts, $H_W_GOODGlyph).
 VAR_RE = re.compile(r"\$(?:COLOR_END|H_[A-Z]_(?:GOOD|BAD)|BR|[a-z][A-Za-z0-9]*)")
-MARKUP_RE = re.compile(TAG_RE.pattern + "|" + VAR_RE.pattern)
+MARKUP_RE = re.compile(TAG_RE.pattern + "|" + VAR_RE.pattern + "|\x01")
+# Zrodlo lamie linie encja &#xA;. Chronimy ja znakiem sterujacym, zeby
+# przetrwala tlumaczenie i czyszczenie, a na koncu wracala jako encja.
+NEWLINE_ENTITY_RE = re.compile(r"&#x0*A;|&#0*10;", re.I)
+NEWLINE_MARK = "\x01"
 RETRY_AFTER_RE = re.compile(r"retry(?:\s+in)?\s+(\d+(?:\.\d+)?)\s*(?:s|sec|seconds)?", re.I)
 
 # Terminy, ktore MUSZA zostac po angielsku rowniez w tekscie hiszpanskim.
@@ -173,7 +177,8 @@ def purge_bad_cache_entries(cache: dict[str, str]) -> int:
 
 
 def prepare_for_translation(original_attr: str) -> tuple[str, list[str]]:
-    decoded = html.unescape(original_attr)
+    guarded = NEWLINE_ENTITY_RE.sub(NEWLINE_MARK, original_attr)
+    decoded = html.unescape(guarded)
     return protect_markup(decoded)
 
 
@@ -307,7 +312,7 @@ def describe_problems(original: str, candidate: str) -> list[str]:
 def finalize_translation(translated: str, tags: list[str]) -> str:
     restored = restore_markup(translated, tags)
     restored = balance_font_tags(sanitize(restored))
-    return xml_attr_escape(restored)
+    return xml_attr_escape(restored).replace(NEWLINE_MARK, "&#xA;")
 
 
 def bilingual_tooltip(original_attr: str, spanish_escaped: str) -> str:
