@@ -57,10 +57,16 @@ RETRY_AFTER_RE = re.compile(r"retry(?:\s+in)?\s+(\d+(?:\.\d+)?)\s*(?:s|sec|secon
 KEEP_ENGLISH = (
     "MP", "HP", "Feedstock", "Battle Solution", "Spellbind", "Alkahest",
     "Noctenium", "Everful Nostrum", "Etching", "Crystal", "Emerald",
-    "Diamond", "Talent",
+    "Diamond", "Talent", "emote",
 )
 # Slowa, ktore nie moga pojawic sie po hiszpanskiej stronie.
-FORBIDDEN_ES = (r"\bPH\b", r"\baguante\b", r"\btimes\b")
+# Odbiorca to gracze z Ameryki Lacinskiej, wiec odpadaja regionalizmy
+# z Hiszpanii, a "coger" jest w wiekszosci Latam wulgarne.
+FORBIDDEN_ES = (
+    r"\bPH\b", r"\baguante\b", r"\btimes\b",
+    r"\bcog(?:er|e|es|ed|ido|iendo)\b", r"\bamericana\b", r"\bgafas\b",
+    r"\bvosotros\b", r"\bordenador", r"\bzumo\b",
+)
 
 CREDIT = "Transcription by TERA New Xenesis 2026"
 BATCH_SIZE = 100
@@ -84,7 +90,10 @@ GLOSSARY - follow it exactly, it overrides your own preferences:
 - Power is "poder". Crit Power is "poder de golpe critico".
 - "times" as a multiplier is "veces" - never leave the English word.
 - Use the Spanish decimal comma: +1,42 not +1.42.
+- The audience is Latin American, not Spain. Write neutral Latin American Spanish: address the player as "tu", never use "vosotros" or its verb forms, and avoid Spain-only vocabulary. Use "lentes" not "gafas", "saco" or "blazer" not "americana", "computadora" not "ordenador".
+- Never use the verb "coger" in any form - it is vulgar in most of Latin America. Use "tomar", "agarrar", "recoger" or "conseguir" instead.
 - Item and material names that are not in the list above are still proper names: keep them in English rather than inventing a Spanish version.
+- The same applies to the names of emotes, skills, quests, dungeons, NPCs and UI menus. Write "el emote Girlfriends", never "el gesto de amigas" - the player has to find them in an English interface.
 
 Do not add explanations, notes, quotes, or extra punctuation that was not implied by the source.
 Do not include the English source text in your output.
