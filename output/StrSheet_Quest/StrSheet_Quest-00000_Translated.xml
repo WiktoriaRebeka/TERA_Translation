@@ -1,0 +1,96 @@
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="1" string="[EN] Accept&lt;br&gt;[ES] Aceptar&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="2" string="[EN] Decline&lt;br&gt;[ES] Rechazar&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="3" string="[EN] None&lt;br&gt;[ES] Ninguno&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="4" string="[EN] Solo&lt;br&gt;[ES] Solo&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="5" string="[EN] Party&lt;br&gt;[ES] Grupo&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="6" string="[EN] Quest failed. Will automatically restart in a few moments.&lt;br&gt;[ES] Misi&amp;#243;n fallida. Se reiniciar&amp;#225; autom&amp;#225;ticamente en unos momentos.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="7" string="[EN] Quest failed. Teleport out to try again.&lt;br&gt;[ES] Misi&amp;#243;n fallida. Teletransp&amp;#243;rtate fuera para volver a intentar.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="8" string="[EN] Not Yet Unlocked&lt;br&gt;[ES] A&amp;#250;n no desbloqueado&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="9" string="[EN] Required level:&lt;br&gt;[ES] Nivel requerido:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="10" string="[EN] Maximum level&lt;br&gt;[ES] Nivel m&amp;#225;ximo&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="11" string="[EN] Required quest:&lt;br&gt;[ES] Misi&amp;#243;n requerida:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="12" string="[EN] You must first complete all preceding quests.&lt;br&gt;[ES] Primero debes completar todas las misiones anteriores.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="13" string="[EN] You must first complete at least one preceding quest.&lt;br&gt;[ES] Primero debes completar al menos una misi&amp;#243;n anterior.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="14" string="[EN] This quest has no summary.&lt;br&gt;[ES] Esta misi&amp;#243;n no tiene resumen.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="15" string="[EN] Location Unknown&lt;br&gt;[ES] Ubicaci&amp;#243;n desconocida&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="16" string="[EN] Diminished quest reward for {QuestName}.&lt;br&gt;[ES] Recompensa de misi&amp;#243;n reducida para {QuestName}.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="20" string="[EN] [Full]&lt;br&gt;[ES] [Lleno]&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="21" string="[EN] [Your quest item space is full. Make room for more quest items by turning some in.]&lt;br&gt;[ES] [Tu espacio para objetos de misi&amp;#243;n est&amp;#225; lleno. Haz espacio para m&amp;#225;s objetos entregando algunos.]&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="22" string="[EN] Quest Line:&lt;br&gt;[ES] L&amp;#237;nea de misi&amp;#243;n:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="23" string="[EN] Recommended for:&lt;br&gt;[ES] Recomendado para:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="24" string="[EN] Main location:&lt;br&gt;[ES] Ubicaci&amp;#243;n principal:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="25" string="[EN] Lv.&lt;br&gt;[ES] Niv.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="30" string="[EN] Hunt&lt;br&gt;[ES] Cacer&amp;#237;a&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="31" string="[EN] Battlefield&lt;br&gt;[ES] Campo de batalla&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="32" string="[EN] Crafting&lt;br&gt;[ES] Artesan&amp;#237;a&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="33" string="" />
+    <String id="101" string="[EN] Find:&lt;br&gt;[ES] Encontrar:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="102" string="" />
+    <String id="103" string="[EN] Destination:&lt;br&gt;[ES] Destino:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="104" string="[EN] Target:&lt;br&gt;[ES] Objetivo:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="105" string="" />
+    <String id="106" string="[EN] Target(s):&lt;br&gt;[ES] Objetivo(s):&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="107" string="[EN] Source:&lt;br&gt;[ES] Origen:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="108" string="[EN] Source:&lt;br&gt;[ES] Origen:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="109" string="" />
+    <String id="110" string="" />
+    <String id="111" string="[EN] To:&lt;br&gt;[ES] Para:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="112" string="[EN] To:&lt;br&gt;[ES] Para:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="113" string="" />
+    <String id="114" string="[EN] Escort:&lt;br&gt;[ES] Escoltar:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="115" string="[EN] Protect:&lt;br&gt;[ES] Proteger:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="116" string="" />
+    <String id="117" string="[EN] Target(s):&lt;br&gt;[ES] Objetivo(s):&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="118" string="[EN] Source:&lt;br&gt;[ES] Origen:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="119" string="" />
+    <String id="120" string="[EN] Target:&lt;br&gt;[ES] Objetivo:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="207" string="[EN] To:&lt;br&gt;[ES] Para:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="208" string="[EN] To:&lt;br&gt;[ES] Para:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="210" string="[EN] To:&lt;br&gt;[ES] Para:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="213" string="[EN] To:&lt;br&gt;[ES] Para:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="300" string="[EN] Guild Quest Reward Coordinator&lt;br&gt;[ES] Coordinador de misiones de hermandad&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="301" string="[EN] Interact&lt;br&gt;[ES] Interactuar&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="302" string="[EN] Earning Points&lt;br&gt;[ES] Ganar puntos&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="303" string="[EN] Successful Fishing&lt;br&gt;[ES] Pesca exitosa&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="304" string="[EN] Adventure Coin&lt;br&gt;[ES] Moneda de aventura&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="305" string="[EN] Production Point&lt;br&gt;[ES] Punto de producci&amp;#243;n&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="306" string="[EN] Order Complete&lt;br&gt;[ES] Pedido completado&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="400" string="[EN] Vanarch Guild&lt;br&gt;[ES] Gremio de Vanarch&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="401" string="[EN] Guild level&lt;br&gt;[ES] Nivel de hermandad&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="402" string="[EN] Class&lt;br&gt;[ES] Clase&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="403" string="[EN] Race&lt;br&gt;[ES] Raza&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="404" string="[EN] Quest start:&lt;br&gt;[ES] Inicio de misi&amp;#243;n:&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="405" string="[EN] Use {Itemname}&lt;br&gt;[ES] Usar {Itemname}&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="406" string="[EN] Received immediately&lt;br&gt;[ES] Recibido inmediatamente&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="407" string="[EN] Received from {NpcName}&lt;br&gt;[ES] Recibido de {NpcName}&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="408" string="[EN] Already completed.&lt;br&gt;[ES] Ya completada.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="409" string="[EN] Not completed.&lt;br&gt;[ES] No completada.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="410" string="[EN] Urgent Orders from {TerritoryName}&lt;br&gt;[ES] &amp;#211;rdenes urgentes de {TerritoryName}&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="501" string="[EN] Guardian Legion Mission&lt;br&gt;[ES] Misi&amp;#243;n de la Legi&amp;#243;n de Guardianes&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="9901" string="idle1" />
+    <String id="9902" string="idle2" />
+    <String id="9903" string="idle3" />
+    <String id="9904" string="talk1" />
+    <String id="9905" string="talk2" />
+    <String id="9906" string="talk3" />
+    <String id="9907" string="victory" />
+    <String id="9908" string="applaud" />
+    <String id="9909" string="request" />
+    <String id="9910" string="worry" />
+    <String id="9911" string="shy" />
+    <String id="9912" string="angry" />
+    <String id="9913" string="sob" />
+    <String id="9914" string="greet" />
+    <String id="9915" string="taunt" />
+    <String id="9916" string="propose" />
+    <String id="9917" string="attack" />
+    <String id="9918" string="pointing" />
+    <String id="9919" string="dance" />
+    <String id="9920" string="smile" />
+    <String id="250001" string="[EN] The tree behind me is the World Tree!&lt;br&gt;[ES] &amp;#161;El &amp;#225;rbol detr&amp;#225;s de m&amp;#237; es el World Tree!&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="250002" string="[EN] The World Tree and the Tower of Shara are the two pillars of this world.&lt;br&gt;[ES] El World Tree y la Tower of Shara son los dos pilares de este mundo.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="250021" string="[EN] You know,&lt;br&gt;[ES] &amp;#191;Sabes?&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="250022" string="[EN] I want this world's Zolyn to smile more often.&lt;br&gt;[ES] Quiero que la Zolyn de este mundo sonr&amp;#237;a m&amp;#225;s a menudo.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+    <String id="250023" string="[EN] I'm happy just to watch her from a distance like this.&lt;br&gt;[ES] Me alegro con solo verla desde la distancia as&amp;#237;.&lt;br&gt;&lt;font color='#555555'&gt;Transcription by TERA New Xenesis 2026&lt;/font&gt;" />
+</StrSheet_Quest>
