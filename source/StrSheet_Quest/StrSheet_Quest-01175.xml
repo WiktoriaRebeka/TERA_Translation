@@ -1,0 +1,7 @@
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4940001" string="{@Creature:76#1011}'s Field Guide" />
+    <String id="4940002" string="I do worry about {@Creature:76#1011} sometimes." />
+    <String id="4940003" string="Read {@LinkCreature:76#1011}'s note." />
+    <String id="4940004" string="&quot;I'll do that. Thanks.&quot;" />
+    <String id="4940005" string="Give the bad news to {@LinkCreature:76#1016} in Kanstria." />
+</StrSheet_Quest>

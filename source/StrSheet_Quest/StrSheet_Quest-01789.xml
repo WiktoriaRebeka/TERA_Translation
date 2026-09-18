@@ -1,0 +1,9 @@
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="47629001" string="Uneasy Lies the Head" />
+    <String id="47629002" string="Please let me know if you see Aleister." />
+    <String id="47629003" string="General..." />
+    <String id="47629004" string="Kanmur's Horns" />
+    <String id="47629005" string="Execute Killian's henchman Aleister and retrieve General Kanmur's horns.&#xA;[You must select Labyrinth of Terror (Solo) from the {@LinkCreature:253#1501#Teleportal} to advance this quest.] " />
+    <String id="47629006" string="Return Kanmur's horns to Taronish at the entrance of the Labyrinth of Terror." />
+    <String id="47629007" string="&quot;It was an honor.&quot;" />
+</StrSheet_Quest>

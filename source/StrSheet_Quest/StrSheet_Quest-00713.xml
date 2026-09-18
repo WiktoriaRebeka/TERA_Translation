@@ -1,0 +1,7 @@
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="3073001" string="(Guild) Suppression Orders: Arkais" />
+    <String id="3073002" string="Proof of Kill: {@linkcreature:30#220$$Arkais}" />
+    <String id="3073003" string="&quot;For the federation.&quot;" />
+    <String id="3073004" string="Eliminate {@linkcreature:30#220#arkais} inhabiting {@Rgn:30001$$Balder's Refuge}." />
+    <String id="3073005" string="Report to the coordinator." />
+</StrSheet_Quest>

@@ -1,0 +1,7 @@
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="3093001" string="Arkai Bounty" />
+    <String id="3093002" string="{@linkcreature:30#220$$Arkai} Feathers" />
+    <String id="3093003" string="&quot;For the federation.&quot;" />
+    <String id="3093004" string="Eliminate {@linkcreature:30#220#arkais} inhabiting {@Rgn:30001$$Balder's Refuge}." />
+    <String id="3093005" string="Report to Aneilon." />
+</StrSheet_Quest>

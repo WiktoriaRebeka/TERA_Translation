@@ -152,14 +152,41 @@ def xml_attr_escape(text: str) -> str:
     )
 
 
-def to_ascii_entities(text: str) -> str:
-    """Zapisuje znaki spoza ASCII jako encje liczbowe (n-tylda -> &#241;).
+HIGH_DECIMAL_ENTITY_RE = re.compile(r"&(?:amp;)?#(\d+);")
 
-    Plik staje sie czystym ASCII, wiec narzedzie pakujace odczyta go tak
-    samo niezaleznie od zalozonego kodowania. Bez tego akcenty zamieniaja
-    sie w grze w krzaki (companero -> compaAnero).
-    """
+
+def to_xml_entities(text: str) -> str:
+    """ASCII w XML: × -> &#215;. Parser przywraca znak, nazwa w grze zostaje ×."""
     return "".join(c if ord(c) < 128 else f"&#{ord(c)};" for c in text)
+
+
+def to_tera_html_entities(text: str) -> str:
+    """Encje w toolTip, ktore przetrwaja Novadrop.
+
+    Parser XML dekoduje &#241; do UTF-8 jeszcze przed spakowaniem, a klient
+    TERA pokazuje wtedy krzaki w HTML (holografica -> holog?Afica).
+    Zapisujemy &amp;#241;, zeby po XML w stringu zostalo &#241;, a renderer
+    HTML w grze zrobil n-tylde. &#xA; (newline) zostaje bez zmian.
+    """
+    def repl(match: re.Match[str]) -> str:
+        code = int(match.group(1))
+        return f"&amp;#{code};" if code >= 128 else match.group(0)
+
+    text = HIGH_DECIMAL_ENTITY_RE.sub(repl, text)
+    return "".join(c if ord(c) < 128 else f"&amp;#{ord(c)};" for c in text)
+
+
+def ascii_safe_line(line: str) -> str:
+    """Podwojne encje tylko w toolTip; string= zostaje zwyklym &#nnn;."""
+    match = TOOLTIP_RE.search(line)
+    if not match:
+        return to_xml_entities(line)
+    start, end = match.span(1)
+    return (
+        to_xml_entities(line[:start])
+        + to_tera_html_entities(match.group(1))
+        + to_xml_entities(line[end:])
+    )
 
 
 def protect_markup(text: str) -> tuple[str, list[str]]:
@@ -716,9 +743,7 @@ def rewrite_lines(
         stats["applied"] += 1
 
     if ascii_safe:
-        # Cala linia, nie tylko toolTip: nazwy przedmiotow (string=) tez
-        # zawieraja znaki spoza ASCII, np. "Fragment x500" ze znakiem mnozenia.
-        output_lines = [to_ascii_entities(line) for line in output_lines]
+        output_lines = [ascii_safe_line(line) for line in output_lines]
 
     return output_lines, stats
 
@@ -731,7 +756,6 @@ def process_file(
     limit: int | None,
     ascii_safe: bool = True,
 ) -> None:
-    client = build_client()
     cache = load_cache(cache_path)
 
     with input_path.open("r", encoding="utf-8", newline="") as handle:
@@ -745,9 +769,14 @@ def process_file(
         print(f"  purged {purged} broken cache entries - they will be retranslated", flush=True)
 
     unique_originals = collect_unique_uncached(lines, cache)
-    new_translations = fill_cache_in_batches(
-        unique_originals, client, cache, cache_path, batch_size
-    )
+    if unique_originals:
+        client = build_client()
+        new_translations = fill_cache_in_batches(
+            unique_originals, client, cache, cache_path, batch_size
+        )
+    else:
+        new_translations = 0
+        print("All non-empty toolTips are already in the cache.", flush=True)
 
     output_lines, stats = rewrite_lines(lines, cache, ascii_safe)
 
@@ -764,6 +793,77 @@ def process_file(
     print(f"  empty toolTip skipped: {stats['empty']}")
     print(f"  lines without toolTip: {stats['no_tooltip']}")
     print(f"  left untranslated    : {stats['left_original']}")
+
+
+def process_files(
+    input_paths: list[Path],
+    output_dir: Path,
+    cache_path: Path,
+    batch_size: int,
+    ascii_safe: bool = True,
+) -> None:
+    """Tlumaczy wiele plikow na jednym cache i jednym przebiegu Gemini."""
+    if not input_paths:
+        print("No XML files to translate.", flush=True)
+        return
+
+    cache = load_cache(cache_path)
+    print(f"Cache: {cache_path} ({len(cache)} entries already known)", flush=True)
+    purged = purge_bad_cache_entries(cache)
+    if purged:
+        print(f"  purged {purged} broken cache entries - they will be retranslated", flush=True)
+
+    loaded: list[tuple[Path, list[str]]] = []
+    unique: list[str] = []
+    seen = set(cache.keys())
+    for input_path in input_paths:
+        with input_path.open("r", encoding="utf-8", newline="") as handle:
+            lines = handle.readlines()
+        loaded.append((input_path, lines))
+        for original in collect_unique_uncached(lines, cache):
+            if original in seen:
+                continue
+            seen.add(original)
+            unique.append(original)
+
+    print(
+        f"Folder: {len(loaded)} files, {len(unique)} unique strings missing from cache",
+        flush=True,
+    )
+    if unique:
+        client = build_client()
+        new_translations = fill_cache_in_batches(
+            unique, client, cache, cache_path, batch_size
+        )
+    else:
+        new_translations = 0
+        print("All non-empty strings are already in the cache.", flush=True)
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    totals = {
+        "applied": 0,
+        "already_bilingual": 0,
+        "empty": 0,
+        "no_tooltip": 0,
+        "left_original": 0,
+    }
+    for input_path, lines in loaded:
+        output_path = output_dir / f"{input_path.stem}_Translated{input_path.suffix}"
+        output_lines, stats = rewrite_lines(lines, cache, ascii_safe)
+        with output_path.open("w", encoding="utf-8", newline="") as handle:
+            handle.writelines(output_lines)
+        for key in totals:
+            totals[key] += stats[key]
+        print(f"Wrote {output_path}", flush=True)
+
+    save_cache(cache_path, cache)
+    print()
+    print(f"Pack done ({len(loaded)} files)")
+    print(f"  new API translations : {new_translations}")
+    print(f"  bilingual strings    : {totals['applied']}")
+    print(f"  already bilingual    : {totals['already_bilingual']}")
+    print(f"  empty skipped        : {totals['empty']}")
+    print(f"  left untranslated    : {totals['left_original']}")
 
 
 def parse_args() -> argparse.Namespace:

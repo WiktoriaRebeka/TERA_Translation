@@ -1,0 +1,74 @@
+name: Translate TERA UI
+
+# Osobny workflow: etykiety menu / inventory / komunikaty (StrSheet_UI).
+# Uruchamiane recznie z zakladki Actions.
+on:
+  workflow_dispatch:
+    inputs:
+      input_file:
+        description: "Sciezka do pliku XML, np. source/StrSheet_UI-00000.xml"
+        required: true
+        default: "source/StrSheet_UI-00000.xml"
+      batch_size:
+        description: "Ile stringow na jedno zapytanie (mniej = rzadsze limity)"
+        required: false
+        default: "20"
+      limit:
+        description: "Tylko pierwsze N linii (test). 0 = caly plik"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-ui
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj biblioteki
+        run: pip install -r requirements.txt
+
+      - name: Przetlumacz UI
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python translate_ui.py "${{ inputs.input_file }}" \
+            --batch-size "${{ inputs.batch_size }}" \
+            --limit "${{ inputs.limit }}"
+
+      - name: Sprawdz jakosc
+        if: always()
+        continue-on-error: true
+        run: |
+          NAME=$(basename "${{ inputs.input_file }}" .xml)
+          python check_ui.py "output/${NAME}_Translated.xml" \
+            --source "${{ inputs.input_file }}" \
+            --report "output/${NAME}_raport.txt"
+
+      - name: Zapisz wynik do repozytorium
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output cache || true
+          if git diff --staged --quiet; then
+            echo "Brak zmian do zapisania."
+          else
+            git commit -m "Tlumaczenie UI: ${{ inputs.input_file }}"
+            git pull --rebase
+            git push
+          fi

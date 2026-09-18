@@ -1,0 +1,8 @@
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60605001" string="Echoes in the Stone" />
+    <String id="60605002" string="Please gather some nexulitic fragments. They're the key." />
+    <String id="60605003" string="Thank you. I'll do my best not to betray your expectations." />
+    <String id="60605004" string="&quot;I hope it pays off.&quot;" />
+    <String id="60605005" string="Collect nexulitic fragments across Val Kaeli." />
+    <String id="60605006" string="Deliver the fragments to the {@LinkCreature:1022#1003} at Kanstria." />
+</StrSheet_Quest>

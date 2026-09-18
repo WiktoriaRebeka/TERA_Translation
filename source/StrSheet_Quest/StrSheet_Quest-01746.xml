@@ -1,0 +1,6 @@
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="42521001" string="Balder's First Trial" />
+    <String id="42521002" string="Kill {@LinkCreature:425#1000$$Kakun}.&lt;BR&gt;(Only normal mode will advance quests.)" />
+    <String id="42521003" string="&quot;Onward.&quot;" />
+    <String id="42521004" string="Report to the next {@LinkCreature:425#3022#repository of wisdom}.&lt;BR&gt;(Only normal mode will advance quests.)" />
+</StrSheet_Quest>

@@ -152,8 +152,9 @@ def main() -> int:
     if non_ascii:
         add("znaki spoza ASCII", "".join(non_ascii[:20]))
     print(f"Czysty ASCII: {'tak' if not non_ascii else 'NIE (' + str(len(non_ascii)) + ' roznych znakow)'}")
-    if "&amp;#" in raw:
-        add("podwojne escapowanie", "wystepuje &amp;# zamiast &#")
+    html_entities = raw.count("&amp;#")
+    if html_entities:
+        info["encje &amp;# (akcenty LATAM dla klienta TERA)"] = html_entities
 
     # --- zawartosc tooltipow ---
     counts = {"puste": 0, "przetlumaczone": 0, "bez [ES]": 0}
