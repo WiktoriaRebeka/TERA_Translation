@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041"> <Page social="0">It's not just the faeries causing problems. The forest's ordinary predators are getting more aggressive.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:2#4#slinking sabertooths}, for example, usually eat warthogs and piglings.&lt;BR&gt;&lt;BR&gt;But now they've added "loggers" to their diet. I'm putting a bounty on them. Bring back their teeth for a reward.&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;202&quot; prevId=&quot;0&quot; villagerId=&quot;1041&quot;&gt; &lt;Page social=&quot;0&quot;&gt;No son solo las hadas las que causan problemas. Los depredadores comunes del bosque se est&#225;n volviendo m&#225;s agresivos.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:2#4#slinking sabertooths}, por ejemplo, suelen comer jabal&#237;es y cerditos.&lt;BR&gt;&lt;BR&gt;Pero ahora han a&#241;adido &quot;le&#241;adores&quot; a su dieta. Ofrezco una recompensa por ellos. Trae sus dientes a cambio de una paga.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1041">
+        <Page social="5">[EN] Here's the bounty for the teeth, just as I promised.&lt;br&gt;[ES] Aqu&#237; tienes la recompensa por los dientes, tal como lo promet&#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1041">
+        <Page social="0">[EN] You can't pull a tooth from a sabertooth? It's the biggest thing they've got!&lt;br&gt;[ES] &#191;No puedes arrancarle un diente a un sabertooth? &#161;Es lo m&#225;s grande que tienen!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1001">
+        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="202" prevId="0" villagerId="1001"> <Page social="4">We could mollify Lennert a little, though, if we collected the cut timber that the last crew left behind when they fled or died.&lt;BR&gt;&lt;BR&gt;And by "we," I mean "you."&lt;BR&gt;&lt;BR&gt;Check down at the bottom of the hill and bring back what timber you can.&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;202&quot; prevId=&quot;0&quot; villagerId=&quot;1001&quot;&gt; &lt;Page social=&quot;4&quot;&gt;Sin embargo, podr&#237;amos aplacar un poco a Lennert si recolectamos la madera cortada que el &#250;ltimo equipo dej&#243; atr&#225;s cuando huyeron o murieron.&lt;BR&gt;&lt;BR&gt;Y con &quot;nosotros&quot;, me refiero a &quot;ti&quot;.&lt;BR&gt;&lt;BR&gt;Revisa al pie de la colina y trae la madera que puedas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1001">
+        <Page social="4">[EN] That's more timber than I thought! I'll measure and bundle it, and Lennert can make some progress against his precious "quota."&lt;BR&gt;&lt;BR&gt;Thanks, &lt;PCNAME&gt;, and if you ever muster out of the military, look me up. We can always use more loggers around here.&lt;br&gt;[ES] &#161;Eso es m&#225;s madera de la que pensaba! La medir&#233; y la atar&#233;, y Lennert podr&#225; avanzar algo con su preciada &quot;cuota&quot;.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;, y si alguna vez te licencias del ej&#233;rcito, b&#250;scame. Siempre nos vienen bien m&#225;s le&#241;adores por aqu&#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1001">
+        <Page social="0">[EN] My last crew must have left a full day's work down there when the centaurs came. It shouldn't be hard to find.&lt;BR&gt;&lt;BR&gt;I mean...you know what wood looks like, right?&lt;br&gt;[ES] Mi &#250;ltimo equipo debi&#243; de haber dejado un d&#237;a entero de trabajo all&#237; abajo cuando llegaron los centauros. No deber&#237;a ser dif&#237;cil de encontrar.&lt;BR&gt;&lt;BR&gt;Es decir... ya sabes c&#243;mo es la madera, &#191;verdad?</Page>
+    </Text>
+</QuestDialog>

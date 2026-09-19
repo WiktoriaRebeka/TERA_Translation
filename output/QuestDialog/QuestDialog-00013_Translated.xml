@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="202" prevId="0" villagerId="1021"> <Page social="4">What do you mean, "What's up?" Only the sky! Is that a trick question, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;'Cause I like tricks!&lt;NEXTPAGEBUTTON&gt;"Who doesn't?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;202&quot; prevId=&quot;0&quot; villagerId=&quot;1021&quot;&gt; &lt;Page social=&quot;4&quot;&gt;&#191;Qu&#233; quieres decir con &quot;&#191;qu&#233; tal?&quot; &#161;Solo el cielo! &#191;Es una pregunta con trampa, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;&#161;Porque me gustan las trampas!&lt;NEXTPAGEBUTTON&gt;&quot;&#191;A qui&#233;n no?&quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Exactly! But it's no fun when you're the target of the trick, and that's what happened to me!&lt;BR&gt;&lt;BR&gt;A gang of faeries took my faerie dust, and they won't give it back.&lt;BR&gt;&lt;BR&gt;Can you get it back from them?&lt;br&gt;[ES] &#161;Exactamente! Pero no es divertido cuando eres el blanco de la trampa, &#161;y eso es lo que me pas&#243; a m&#237;!&lt;BR&gt;&lt;BR&gt;Una pandilla de hadas me quit&#243; mi polvo de hada y no me lo quieren devolver.&lt;BR&gt;&lt;BR&gt;&#191;Puedes recuperarlo de ellos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1021">
+        <Page social="4">[EN] Yes! Faerie dust! Straight from the faeries!&lt;BR&gt;&lt;BR&gt;Look at me! I'm glowing! I'm shiny! Now that's a trick, eh?&lt;BR&gt;&lt;BR&gt;Oh, don't be a poor sport, &lt;PCNAME&gt;. Maybe it wasn't exactly "my" faerie dust.&lt;BR&gt;&lt;BR&gt;But look at me&#8212;I'm twinkling!&lt;br&gt;[ES] &#161;S&#237;! &#161;Polvo de hada! &#161;Directo de las hadas!&lt;BR&gt;&lt;BR&gt;&#161;M&#237;rame! &#161;Estoy brillando! &#161;Resplandezco! Eso s&#237; que es un truco, &#191;eh?&lt;BR&gt;&lt;BR&gt;Ay, no seas aguafiestas, &lt;PCNAME&gt;. Tal vez no era exactamente &quot;mi&quot; polvo de hada.&lt;BR&gt;&lt;BR&gt;Pero m&#237;rame, &#161;estoy centelleando!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1021">
+        <Page social="0">[EN] The faeries took my faerie dust. Don't you believe me?&lt;br&gt;[ES] Las hadas se llevaron mi polvo de hada. &#191;No me crees?</Page>
+    </Text>
+</QuestDialog>

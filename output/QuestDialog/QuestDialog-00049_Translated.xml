@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007"> <Page social="0">Someone is aiding the devas, someone with a great deal of power. They need to be stopped. Infiltrate Deva Silva and kill {@LinkCreature:3#15#ebonheart sorcerers} and {@LinkCreature:3#14#reavers of resurrection}, and bring me their cold black hearts.&lt;BR&gt;&lt;BR&gt;We'll teach them to ally themselves with enemies of the federation!&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;203&quot; prevId=&quot;0&quot; villagerId=&quot;1007&quot;&gt; &lt;Page social=&quot;0&quot;&gt;Alguien est&#225; ayudando a los devas, alguien con much&#237;simo poder. Es necesario detenerlos. Infiltrate en Deva Silva y mata a los {@LinkCreature:3#15#ebonheart sorcerers} y {@LinkCreature:3#14#reavers of resurrection}, y tr&#225;eme sus fr&#237;os corazones negros.&lt;BR&gt;&lt;BR&gt;&#161;Les ense&#241;aremos a aliarse con los enemigos de la federaci&#243;n!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1007">
+        <Page social="4">[EN] Thanks, &lt;PCNAME&gt;. Whatever nefarious plot they'd hatched, I'll sleep better know it's disrupted.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Sin importar qu&#233; plan nefasto hayan urdido, dormir&#233; mejor sabiendo que ha sido frustrado.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1007">
+        <Page social="0">[EN] It's a grim mission, but we're fighting for the survival of Crescentia. It has to be done.&lt;br&gt;[ES] Es una misi&#243;n sombr&#237;a, pero estamos luchando por la supervivencia de Crescentia. Hay que hacerlo.</Page>
+    </Text>
+</QuestDialog>

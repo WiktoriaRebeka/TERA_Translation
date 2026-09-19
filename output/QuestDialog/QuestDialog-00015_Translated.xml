@@ -1,0 +1,9 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041"> <Page social="4">I think we've turned the corner here, &lt;PCNAME&gt;. The Fey Forest is a big place, though.&lt;BR&gt;&lt;BR&gt;Check with Balter down at the deserted homestead to the south.&lt;BR&gt;&lt;BR&gt;He's a good man, and I'm sure he needs more help than I do.&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;202&quot; prevId=&quot;0&quot; villagerId=&quot;1041&quot;&gt; &lt;Page social=&quot;4&quot;&gt;Creo que hemos superado lo peor, &lt;PCNAME&gt;. Aunque el Fey Forest es un lugar grande.&lt;BR&gt;&lt;BR&gt;Consulta con Balter all&#225; en la granja abandonada al sur.&lt;BR&gt;&lt;BR&gt;Es un buen hombre y estoy seguro de que necesita m&#225;s ayuda que yo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1047">
+        <Page social="4">[EN] Thank the gods you're here, &lt;PCCLASS:lcase&gt;! I thought Lumbertown forgot all about us.&lt;br&gt;[ES] &#161;Gracias a los dioses que est&#225;s aqu&#237;, &lt;PCCLASS:lcase&gt;! Pens&#233; que Lumbertown se hab&#237;a olvidado por completo de nosotros.</Page>
+    </Text>
+</QuestDialog>

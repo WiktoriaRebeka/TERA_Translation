@@ -1,0 +1,9 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="0" prevId="0" villagerId="0"> <Page social="0">A mission requested by Omeros.&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;0&quot; prevId=&quot;0&quot; villagerId=&quot;0&quot;&gt; &lt;Page social=&quot;0&quot;&gt;Una misi&#243;n solicitada por Omeros.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1015">
+        <Page social="0">[EN] Excellent. You truly are nothing short of outstanding.&lt;br&gt;[ES] Excelente. De verdad eres excepcional.</Page>
+    </Text>
+</QuestDialog>

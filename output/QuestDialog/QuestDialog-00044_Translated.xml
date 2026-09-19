@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="59" prevId="0" villagerId="1001"> <Page social="4">I'm ashamed to ask, particularly while things are so dire, but I need your help. My dog, Ohdi, ran off. The kids told me he headed towards Berzerad Cemetery. I wouldn't ask just for myself. The other residents draw great comfort from Ohdi.&lt;BR&gt;&lt;BR&gt;Take this bag. It's got a treat Esedran cooked up for me. Give it to Ohdi and he'll hop right in the bag. Please?&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;59&quot; prevId=&quot;0&quot; villagerId=&quot;1001&quot;&gt; &lt;Page social=&quot;4&quot;&gt;Me averg&#252;enza pedirlo, especialmente mientras las cosas est&#225;n tan mal, pero necesito tu ayuda. Mi perro, Ohdi, se escap&#243;. Los ni&#241;os me dijeron que se dirigi&#243; hacia Berzerad Cemetery. No lo pedir&#237;a solo por m&#237;. Los otros residentes encuentran gran consuelo en Ohdi.&lt;BR&gt;&lt;BR&gt;Toma esta bolsa. Tiene un premio que Esedran prepar&#243; para m&#237;. D&#225;selo a Ohdi y se meter&#225; directo en la bolsa. &#191;Por favor?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1012">
+        <Page social="6">[EN] Corann's pet? Blasted dog gets into more trouble than a drunken thief.&lt;BR&gt;&lt;BR&gt;Yes, now that you mention it, I think I did see him scampering up the hill. {@LinkCreature:203#1025#Ohdi} really likes that cemetery.&lt;br&gt;[ES] &#191;La mascota de Corann? El maldito perro se mete en m&#225;s problemas que un ladr&#243;n borracho.&lt;BR&gt;&lt;BR&gt;S&#237;, ahora que lo mencionas, creo que lo vi correr colina arriba. A {@LinkCreature:203#1025#Ohdi} le gusta mucho ese cementerio.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1025">
+        <Page social="4">[EN] (Ohdi's paws are covered in dirt and quite a few new holes dot the ground. He looks up at you with undisguised joy and wags his tail.)&lt;br&gt;[ES] (Las patas de Ohdi est&#225;n cubiertas de tierra y bastantes agujeros nuevos salpican el suelo. Te mira con alegr&#237;a disimulada y menea la cola.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="4" villagerId="1001">
+        <Page social="4">[EN] &lt;PCNAME&gt;, I owe you a great deal. Thank you for rescuing Ohdi. I don't know what I, er, the town would do.&lt;br&gt;[ES] &lt;PCNAME&gt;, te debo much&#237;simo. Gracias por rescatar a Ohdi. No s&#233; qu&#233; har&#237;a yo, ejem, el pueblo.</Page>
+    </Text>
+</QuestDialog>

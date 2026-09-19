@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="59" prevId="0" villagerId="1001"> <Page social="4">(Corann, looking really troubled.)&lt;BR&gt;&lt;BR&gt;Uhm... About Ohdi.... I guess Ohdi grew really fond of Undead bones while he was staying there. He wouldn't look at the food I gave him.&lt;BR&gt;&lt;BR&gt;So...I was wondering if you could get me as many {@LinkCreature:3#16#Fallen Defenders} bones as you can. I'm afraid Ohdi will leave home again if I don't get those bones. And if he ever disappears again, I don't think I'll be able to take it.... Please help me.&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;59&quot; prevId=&quot;0&quot; villagerId=&quot;1001&quot;&gt; &lt;Page social=&quot;4&quot;&gt;(Corann, luciendo muy preocupado.)&lt;BR&gt;&lt;BR&gt;Uhm... Sobre Ohdi... Supongo que Ohdi le tom&#243; mucho cari&#241;o a los huesos de Undead mientras se hospedaba all&#237;. No quer&#237;a mirar la comida que le di.&lt;BR&gt;&lt;BR&gt;As&#237; que... me preguntaba si podr&#237;as conseguirme tantos huesos de {@LinkCreature:3#16#Fallen Defenders} como puedas. Me temo que Ohdi volver&#225; a irse de casa si no consigo esos huesos. Y si vuelve a desaparecer, no creo que pueda soportarlo... Por favor, ayuda.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1001">
+        <Page social="4">[EN] In life they served us well. I hope they find new peace in death.&lt;BR&gt;&lt;BR&gt;Thanks.&lt;br&gt;[ES] En vida nos sirvieron bien. Espero que encuentren una nueva paz en la muerte.&lt;BR&gt;&lt;BR&gt;Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" villagerId="1001">
+        <Page social="0">[EN] I'm not asking you to make a special trip. You're certain to battle undead more than enough in your time in Oblivion Woods.&lt;br&gt;[ES] No te pido que hagas un viaje especial. Seguro que batallas contra muertos vivientes m&#225;s que suficiente en tu tiempo en Oblivion Woods.</Page>
+    </Text>
+</QuestDialog>
