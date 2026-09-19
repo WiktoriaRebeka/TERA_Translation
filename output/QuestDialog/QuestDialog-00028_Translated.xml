@@ -1,12 +1,15 @@
 <QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="202" prevId="0" villagerId="1022">
-        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="202" prevId="0" villagerId="1022"> <Page social="4">You look ready to earn hazard pay, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Go west and hunt the {@LinkCreature:2#32#bloated} and {@LinkCreature:2#22#lumbering sporewalkers}, and the {@LinkCreature:2#23#fiesty terrons}.&lt;BR&gt;&lt;BR&gt;I'll pay well for any polluted seals you recover from their remains.&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;202&quot; prevId=&quot;0&quot; villagerId=&quot;1022&quot;&gt; &lt;Page social=&quot;4&quot;&gt;&#161;Pareces listo para ganar un pago por riesgo, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Dir&#237;gete al oeste y caza a los {@LinkCreature:2#32#bloated} y {@LinkCreature:2#22#lumbering sporewalkers}, y a los {@LinkCreature:2#23#fiesty terrons}.&lt;BR&gt;&lt;BR&gt;Pagar&#233; bien por cualquier sello contaminado que recuperes de sus restos.</Page>
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1022">
+        <Page social="4">[EN] You look ready to earn hazard pay, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Go west and hunt the {@LinkCreature:2#32#bloated} and {@LinkCreature:2#22#lumbering sporewalkers}, and the {@LinkCreature:2#23#fiesty terrons}.&lt;BR&gt;&lt;BR&gt;I'll pay well for any polluted seals you recover from their remains.&lt;br&gt;[ES] &amp;#161;Pareces listo para ganar un pago por riesgo, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete al oeste y caza a los {@LinkCreature:2#32#bloated} y {@LinkCreature:2#22#lumbering sporewalkers}, y a los {@LinkCreature:2#23#fiesty terrons}.&lt;BR&gt;&lt;BR&gt;Pagar&amp;#233; bien por cualquier sello contaminado que recuperes de sus restos.</Page>
     </Text>
     <Text id="3" huntingZoneId="202" prevId="2" villagerId="1022">
-        <Page social="4">[EN] Keep it up, and you'll have the honor of protecting Kaiator on the argon front, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Stand tall!&lt;br&gt;[ES] Sigue as&#237;, y tendr&#225;s el honor de proteger a Kaiator en el frente de los argons, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;&#161;Mant&#233;n la frente en alto!</Page>
+        <Page social="4">[EN] Keep it up, and you'll have the honor of protecting Kaiator on the argon front, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Stand tall!&lt;br&gt;[ES] Sigue as&amp;#237;, y tendr&amp;#225;s el honor de proteger a Kaiator en el frente de los argons, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;&amp;#161;Mant&amp;#233;n la frente en alto!</Page>
     </Text>
     <Text id="4" huntingZoneId="202" villagerId="1022">
-        <Page social="0">[EN] Just between you and me, &lt;PCNAME&gt;, if things return to normal here, it'll be a lot less interesting.&lt;br&gt;[ES] Entre t&#250; y yo, &lt;PCNAME&gt;, si las cosas vuelven a la normalidad aqu&#237;, ser&#225; mucho menos interesante.</Page>
+        <Page social="0">[EN] Just between you and me, &lt;PCNAME&gt;, if things return to normal here, it'll be a lot less interesting.&lt;br&gt;[ES] Entre t&amp;#250; y yo, &lt;PCNAME&gt;, si las cosas vuelven a la normalidad aqu&amp;#237;, ser&amp;#225; mucho menos interesante.</Page>
     </Text>
 </QuestDialog>

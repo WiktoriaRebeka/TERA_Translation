@@ -1,9 +1,12 @@
 <QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="202" prevId="0" villagerId="1009">
-        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="202" prevId="0" villagerId="1009"> <Page social="0">I'm tired of us wringing our hands about the "poor" faeries and woodland creatures who've gone crazy! Once you kill my friends, you're no longer a woodland creature. You're a blight.&lt;BR&gt;&lt;BR&gt;First on my hit list: {@LinkCreature:2#5#hulking sabertooths}. Let's make the Fey Forest safe for loggers once more!&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;202&quot; prevId=&quot;0&quot; villagerId=&quot;1009&quot;&gt; &lt;Page social=&quot;0&quot;&gt;&#161;Estoy cansado de que nos lamentemos por las &quot;pobres&quot; hadas y criaturas del bosque que se han vuelto locas! Una vez que matas a mis amigos, ya no eres una criatura del bosque. Eres una plaga.&lt;BR&gt;&lt;BR&gt;Primero en mi lista de objetivos: {@LinkCreature:2#5#hulking sabertooths}. &#161;Hagamos que el Fey Forest sea seguro para los le&#241;adores una vez m&#225;s!</Page>
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1009">
+        <Page social="0">[EN] I'm tired of us wringing our hands about the "poor" faeries and woodland creatures who've gone crazy! Once you kill my friends, you're no longer a woodland creature. You're a blight.&lt;BR&gt;&lt;BR&gt;First on my hit list: {@LinkCreature:2#5#hulking sabertooths}. Let's make the Fey Forest safe for loggers once more!&lt;br&gt;[ES] &amp;#161;Estoy cansado de que nos lamentemos por las &quot;pobres&quot; hadas y criaturas del bosque que se han vuelto locas! Una vez que matas a mis amigos, ya no eres una criatura del bosque. Eres una plaga.&lt;BR&gt;&lt;BR&gt;Primero en mi lista de objetivos: {@LinkCreature:2#5#hulking sabertooths}. &amp;#161;Hagamos que el Fey Forest sea seguro para los le&amp;#241;adores una vez m&amp;#225;s!</Page>
     </Text>
     <Text id="3" huntingZoneId="202" prevId="2" villagerId="1009">
-        <Page social="0">[EN] I wish more soldiers were like you, taking the fight to the enemy.&lt;br&gt;[ES] Desear&#237;a que m&#225;s soldados fueran como t&#250;, llevando la lucha al enemigo.</Page>
+        <Page social="0">[EN] I wish more soldiers were like you, taking the fight to the enemy.&lt;br&gt;[ES] Desear&amp;#237;a que m&amp;#225;s soldados fueran como t&amp;#250;, llevando la lucha al enemigo.</Page>
     </Text>
 </QuestDialog>

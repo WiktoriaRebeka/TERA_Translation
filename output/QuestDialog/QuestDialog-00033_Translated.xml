@@ -1,9 +1,15 @@
 <QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="73" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
-        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="0" prevId="0" villagerId="0"> <Page social="0" /> </Text> <Text id="3" huntingZoneId="0" prevId="0" villagerId="0"> <Page social="4">Thanks for helping us! You showed real strength and courage, and have earned this reward.&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;0&quot; prevId=&quot;0&quot; villagerId=&quot;0&quot;&gt; &lt;Page social=&quot;0&quot; /&gt; &lt;/Text&gt; &lt;Text id=&quot;3&quot; huntingZoneId=&quot;0&quot; prevId=&quot;0&quot; villagerId=&quot;0&quot;&gt; &lt;Page social=&quot;4&quot;&gt;&#161;Gracias por ayudarnos! Mostraste verdadera fuerza y valor, y te has ganado esta recompensa.</Page>
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[EN] Thanks for helping us! You showed real strength and courage, and have earned this reward.&lt;br&gt;[ES] &amp;#161;Gracias por ayudarnos! Mostraste verdadera fuerza y valor, y te has ganado esta recompensa.</Page>
     </Text>
     <Text id="4" huntingZoneId="0" prevId="2" villagerId="0">
-        <Page social="4">[EN] Gather the required materials to complete this quest.&lt;br&gt;[ES] Re&#250;ne los materiales necesarios para completar esta misi&#243;n.</Page>
+        <Page social="4">[EN] Gather the required materials to complete this quest.&lt;br&gt;[ES] Re&amp;#250;ne los materiales necesarios para completar esta misi&amp;#243;n.</Page>
     </Text>
 </QuestDialog>

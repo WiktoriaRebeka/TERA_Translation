@@ -1,12 +1,15 @@
 <QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
-        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="0" prevId="0" villagerId="0"> <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;The centaurs continue to resist the federation.&lt;BR&gt;&lt;BR&gt;Stop the {@LinkCreature:2#3#centaurs} and {@LinkCreature:2#13#centaur insurgents}.&lt;BR&gt;&lt;BR&gt;Report to Zandra in Lumbertown when mission is complete.&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;0&quot; prevId=&quot;0&quot; villagerId=&quot;0&quot;&gt; &lt;Page social=&quot;0&quot;&gt;&#211;rdenes de misi&#243;n&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Los centauros siguen resisti&#233;ndose a la federaci&#243;n.&lt;BR&gt;&lt;BR&gt;Det&#233;n a los {@LinkCreature:2#3#centaurs} y {@LinkCreature:2#13#centaur insurgents}.&lt;BR&gt;&lt;BR&gt;Reportate con Zandra en Lumbertown cuando la misi&#243;n est&#233; completa.</Page>
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Mission Orders&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;The centaurs continue to resist the federation.&lt;BR&gt;&lt;BR&gt;Stop the {@LinkCreature:2#3#centaurs} and {@LinkCreature:2#13#centaur insurgents}.&lt;BR&gt;&lt;BR&gt;Report to Zandra in Lumbertown when mission is complete.&lt;br&gt;[ES] &amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Los centauros siguen resisti&amp;#233;ndose a la federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Det&amp;#233;n a los {@LinkCreature:2#3#centaurs} y {@LinkCreature:2#13#centaur insurgents}.&lt;BR&gt;&lt;BR&gt;Reportate con Zandra en Lumbertown cuando la misi&amp;#243;n est&amp;#233; completa.</Page>
     </Text>
     <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
-        <Page social="4">[EN] You've earned the thanks of the federation. Your guild is an inspiration to all!&lt;br&gt;[ES] Te has ganado el agradecimiento de la federaci&#243;n. &#161;Tu hermandad es una inspiraci&#243;n para todos!</Page>
+        <Page social="4">[EN] You've earned the thanks of the federation. Your guild is an inspiration to all!&lt;br&gt;[ES] Te has ganado el agradecimiento de la federaci&amp;#243;n. &amp;#161;Tu hermandad es una inspiraci&amp;#243;n para todos!</Page>
     </Text>
     <Text id="4" huntingZoneId="0" villagerId="0">
-        <Page social="0">[EN] It looks like you haven't completed your mission yet.&lt;br&gt;[ES] Parece que a&#250;n no has completado tu misi&#243;n.</Page>
+        <Page social="0">[EN] It looks like you haven't completed your mission yet.&lt;br&gt;[ES] Parece que a&amp;#250;n no has completado tu misi&amp;#243;n.</Page>
     </Text>
 </QuestDialog>

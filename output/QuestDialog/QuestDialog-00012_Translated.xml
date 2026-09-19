@@ -1,15 +1,18 @@
 <QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="202" prevId="0" villagerId="1021">
-        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="202" prevId="0" villagerId="1021"> <Page social="4">I know you promised to play with me, but my dad really needs help with our piglings.&lt;BR&gt;&lt;BR&gt;They keep running away...&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;202&quot; prevId=&quot;0&quot; villagerId=&quot;1021&quot;&gt; &lt;Page social=&quot;4&quot;&gt;S&#233; que prometiste jugar conmigo, pero mi pap&#225; realmente necesita ayuda con nuestros cerditos.&lt;BR&gt;&lt;BR&gt;Siguen escapando...</Page>
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="4">[EN] I know you promised to play with me, but my dad really needs help with our piglings.&lt;BR&gt;&lt;BR&gt;They keep running away...&lt;br&gt;[ES] S&amp;#233; que prometiste jugar conmigo, pero mi pap&amp;#225; realmente necesita ayuda con nuestros cerditos.&lt;BR&gt;&lt;BR&gt;Siguen escapando...</Page>
     </Text>
     <Text id="3" huntingZoneId="202" prevId="2" villagerId="1020">
-        <Page social="4">[EN] He's a good boy, eh?&lt;BR&gt;&lt;BR&gt;We had a bunch of tame piglings, but they ran away when the faeries went crazy.&lt;BR&gt;&lt;BR&gt;If you want to make yourself useful, take these pheremone darts and lure a few piglings back here.&lt;BR&gt;&lt;BR&gt;Get their attention first, and then use the darts.&lt;br&gt;[ES] Es un buen muchacho, &#191;eh?&lt;BR&gt;&lt;BR&gt;Ten&#237;amos un mont&#243;n de cerditos mansos, pero se escaparon cuando las hadas se volvieron locas.&lt;BR&gt;&lt;BR&gt;Si quieres hacerte &#250;til, toma estos dardos de feromonas y atrae de vuelta a algunos cerditos.&lt;BR&gt;&lt;BR&gt;Ll&#225;males la atenci&#243;n primero y luego usa los dardos.</Page>
+        <Page social="4">[EN] He's a good boy, eh?&lt;BR&gt;&lt;BR&gt;We had a bunch of tame piglings, but they ran away when the faeries went crazy.&lt;BR&gt;&lt;BR&gt;If you want to make yourself useful, take these pheremone darts and lure a few piglings back here.&lt;BR&gt;&lt;BR&gt;Get their attention first, and then use the darts.&lt;br&gt;[ES] Es un buen muchacho, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Ten&amp;#237;amos un mont&amp;#243;n de cerditos mansos, pero se escaparon cuando las hadas se volvieron locas.&lt;BR&gt;&lt;BR&gt;Si quieres hacerte &amp;#250;til, toma estos dardos de feromonas y atrae de vuelta a algunos cerditos.&lt;BR&gt;&lt;BR&gt;Ll&amp;#225;males la atenci&amp;#243;n primero y luego usa los dardos.</Page>
     </Text>
     <Text id="4" huntingZoneId="2" villagerId="27">
         <Page social="0">[EN] (Lead the pigling to Maon.)&lt;br&gt;[ES] (Lleva al cerdito hacia Maon.)</Page>
     </Text>
     <Text id="5" huntingZoneId="202" prevId="3" villagerId="1020">
-        <Page social="4">[EN] Thank you so much. We still don't have many, but this definitely helped. I hope you can help a little more.&lt;br&gt;[ES] Muchas gracias. Todav&#237;a no tenemos muchos, pero esto definitivamente ayud&#243;. Espero que puedas ayudar un poco m&#225;s.</Page>
+        <Page social="4">[EN] Thank you so much. We still don't have many, but this definitely helped. I hope you can help a little more.&lt;br&gt;[ES] Muchas gracias. Todav&amp;#237;a no tenemos muchos, pero esto definitivamente ayud&amp;#243;. Espero que puedas ayudar un poco m&amp;#225;s.</Page>
     </Text>
 </QuestDialog>

@@ -1,9 +1,12 @@
 <QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
-        <Page social="0" />[EN] </Text> <Text id="2" huntingZoneId="0" prevId="0" villagerId="0"> <Page social="4">Mission Orders&lt;BR&gt;&lt;BR&gt;Reinforcements needed for reconnaissance and infiltration missions.&lt;BR&gt;&lt;BR&gt;Report to Centurion Hendry at Vanguard Outpost in Oblivion Woods.&lt;br&gt;[ES] &lt;/Text&gt; &lt;Text id=&quot;2&quot; huntingZoneId=&quot;0&quot; prevId=&quot;0&quot; villagerId=&quot;0&quot;&gt; &lt;Page social=&quot;4&quot;&gt;&#211;rdenes de misi&#243;n&lt;BR&gt;&lt;BR&gt;Se necesitan refuerzos para misiones de reconocimiento e infiltraci&#243;n.&lt;BR&gt;&lt;BR&gt;Pres&#233;ntate ante el Centuri&#243;n Hendry en Vanguard Outpost en Oblivion Woods.</Page>
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[EN] Mission Orders&lt;BR&gt;&lt;BR&gt;Reinforcements needed for reconnaissance and infiltration missions.&lt;BR&gt;&lt;BR&gt;Report to Centurion Hendry at Vanguard Outpost in Oblivion Woods.&lt;br&gt;[ES] &amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Se necesitan refuerzos para misiones de reconocimiento e infiltraci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate ante el Centuri&amp;#243;n Hendry en Vanguard Outpost en Oblivion Woods.</Page>
     </Text>
     <Text id="3" huntingZoneId="203" prevId="2" villagerId="1007">
-        <Page social="4">[EN] Glad to meet you, &lt;PCNAME&gt;. We're doing our damnedest to take the fight to the devas, but we can always use another soldier.&lt;BR&gt;&lt;BR&gt;Restock and get your stamina back, then I'll put you to work.&lt;br&gt;[ES] Encantado de conocerte, &lt;PCNAME&gt;. Estamos haciendo todo lo posible para llevar la pelea a los devas, pero siempre nos viene bien otro soldado.&lt;BR&gt;&lt;BR&gt;Reabastece y recupera tu resistencia, luego te pondr&#233; a trabajar.</Page>
+        <Page social="4">[EN] Glad to meet you, &lt;PCNAME&gt;. We're doing our damnedest to take the fight to the devas, but we can always use another soldier.&lt;BR&gt;&lt;BR&gt;Restock and get your stamina back, then I'll put you to work.&lt;br&gt;[ES] Encantado de conocerte, &lt;PCNAME&gt;. Estamos haciendo todo lo posible para llevar la pelea a los devas, pero siempre nos viene bien otro soldado.&lt;BR&gt;&lt;BR&gt;Reabastece y recupera tu resistencia, luego te pondr&amp;#233; a trabajar.</Page>
     </Text>
 </QuestDialog>
