@@ -1,6 +1,6 @@
 name: Translate TERA QuestDialog
 
-# Pergamin NPC przy quesie. start+count = wycinek posortowanej listy.
+# Pergamin NPC przy quesie. Domyslnie caly folder, jak Quest/Npc.
 on:
   workflow_dispatch:
     inputs:
@@ -9,13 +9,13 @@ on:
         required: true
         default: "source/QuestDialog"
       start:
-        description: "Pomin pierwsze N plikow (0, 50, 100...)"
+        description: "Pomin pierwsze N plikow (0 = od poczatku)"
         required: false
         default: "0"
       count:
-        description: "Ile plikow w tej paczce. 0 = wszystkie pozostale"
+        description: "Ile plikow. 0 = wszystkie pozostale"
         required: false
-        default: "50"
+        default: "0"
       batch_size:
         description: "Ile unikalnych stron na zapytanie Gemini"
         required: false

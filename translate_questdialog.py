@@ -6,7 +6,7 @@ Monster, place, NPC and item names stay English.
 
 Usage:
     python translate_questdialog.py source/QuestDialog
-    python translate_questdialog.py source/QuestDialog --start 0 --count 50
+    python translate_questdialog.py source/QuestDialog --start 0 --count 0
 """
 
 from __future__ import annotations
@@ -44,6 +44,16 @@ PLACE_NAME_FIXES = (
     ("La Island of Dawn", "Island of Dawn"),
     ("la Island of Dawn", "Island of Dawn"),
     ("Ciudad aislada", "Isolated Town"),
+)
+FORGE_HINT_EN = (
+    "Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_t' "
+    "width='21' height='21' vspace='-6'/&gt; key to open the Forge "
+    "and use Relic Fragments and gold to enchant your weapon."
+)
+FORGE_HINT_ES = (
+    "Pulsa la tecla &lt;img src='img://__Icon_KeyboardShape.Keyboard_t' "
+    "width='21' height='21' vspace='-6'/&gt; para abrir el Forge "
+    "y usar Relic Fragments y oro para encantar tu arma."
 )
 
 item.OUTPUT_TEMPLATE = (
@@ -158,6 +168,7 @@ def restore_tagged(english: str, spanish: str, pattern: re.Pattern[str]) -> str:
 def polish_spanish(english: str, spanish: str) -> str:
     spanish = restore_tagged(english, spanish, BUTTON_RE)
     spanish = restore_tagged(english, spanish, BOLD_RE)
+    spanish = spanish.replace(FORGE_HINT_EN, FORGE_HINT_ES)
     for calque, original in PLACE_NAME_FIXES:
         spanish = spanish.replace(calque, original)
     return spanish
@@ -245,13 +256,6 @@ def main() -> int:
     unique = collect_unique(files, cache)
     print(f"Cache: {cache_path} ({len(cache)} known); missing {len(unique)}", flush=True)
     if unique:
-        missing_set = set(unique)
-        for path in files:
-            xml_text = path.read_text(encoding="utf-8")
-            for match in PAGE_RE.finditer(xml_text):
-                inner = match.group(2)
-                if inner in missing_set:
-                    print(f"  missing {path.name}: {inner[:100]!r}", flush=True)
         api_key = (item.GEMINI_API_KEY or "").strip() or os.environ.get(
             "GEMINI_API_KEY", ""
         ).strip()

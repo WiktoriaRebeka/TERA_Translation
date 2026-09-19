@@ -1,5 +1,7 @@
 """
 Kontrola jakosci QuestDialog (strony pergaminu [EN]/[ES]).
+
+Tekst w NEXTPAGEBUTTON i <B> ma zostac po angielsku (wybory F / etykiety UI).
 """
 
 from __future__ import annotations
@@ -12,6 +14,11 @@ from pathlib import Path
 
 from translate_questdialog import PAGE_RE, describe_problems, looks_untranslated
 
+KEEP_ENGLISH_INNER_RE = re.compile(
+    r"<NEXTPAGEBUTTON>.*?</NEXTPAGEBUTTON>|<B>.*?</B>",
+    re.DOTALL | re.IGNORECASE,
+)
+
 
 def halves(text: str) -> tuple[str, str] | None:
     decoded = html.unescape(text)
@@ -21,6 +28,10 @@ def halves(text: str) -> tuple[str, str] | None:
     english = english.replace("[EN]", "", 1).replace("<br>", "").strip()
     spanish = spanish.strip()
     return english, spanish
+
+
+def strip_kept_english(text: str) -> str:
+    return KEEP_ENGLISH_INNER_RE.sub("", text)
 
 
 def main() -> int:
@@ -49,8 +60,10 @@ def main() -> int:
                 continue
             bilingual += 1
             english, spanish = pair
+            english = strip_kept_english(english)
+            spanish = strip_kept_english(spanish)
             issues = describe_problems(english, spanish)
-            if looks_untranslated(spanish, english):
+            if looks_untranslated(english, spanish):
                 issues.append("looks untranslated")
             if issues:
                 print(f"{path.name}: {issues[:3]}")
