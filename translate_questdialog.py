@@ -12,13 +12,39 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import os
 import re
 import sys
 from pathlib import Path
 
 import translate_tooltips as item
 
-PAGE_RE = re.compile(r"(<Page\b[^>]*>)(.*?)(</Page>)", re.DOTALL)
+# Self-closing <Page ... /> must not match: [^>]* would eat the slash and then
+# (.*?) would swallow the next Text nodes until the first real </Page>.
+PAGE_RE = re.compile(r"(<Page\b(?![^>]*/>)[^>]*>)(.*?)(</Page>)", re.DOTALL)
+BUTTON_RE = re.compile(
+    r"(&lt;NEXTPAGEBUTTON&gt;)(.*?)(&lt;/NEXTPAGEBUTTON&gt;)",
+    re.DOTALL | re.IGNORECASE,
+)
+BOLD_RE = re.compile(r"(&lt;B&gt;)(.*?)(&lt;/B&gt;)", re.DOTALL | re.IGNORECASE)
+LEAKED_KEY_RE = re.compile(r"</Text>|<Text\b")
+LEAKED_PAGE_RE = re.compile(r"<Page\b[^>]*>", re.IGNORECASE)
+PLACE_NAME_FIXES = (
+    ("el Cuartel General de la Federaci&amp;#243;n Valkyon", "Valkyon Federation Headquarters"),
+    ("Cuartel General de la Federaci&amp;#243;n Valkyon", "Valkyon Federation Headquarters"),
+    ("el Cuartel General de la Federación Valkyon", "Valkyon Federation Headquarters"),
+    ("Cuartel General de la Federación Valkyon", "Valkyon Federation Headquarters"),
+    ("el Campamento del Baluarte", "Bulwark Camp"),
+    ("Campamento del Baluarte", "Bulwark Camp"),
+    ("Campamento Baluarte", "Bulwark Camp"),
+    ("el Bosque del Olvido", "Oblivion Woods"),
+    ("Bosque del Olvido", "Oblivion Woods"),
+    ("la Isla del Amanecer", "Island of Dawn"),
+    ("Isla del Amanecer", "Island of Dawn"),
+    ("La Island of Dawn", "Island of Dawn"),
+    ("la Island of Dawn", "Island of Dawn"),
+    ("Ciudad aislada", "Isolated Town"),
+)
 
 item.OUTPUT_TEMPLATE = (
     "[EN] {english}"
@@ -26,12 +52,7 @@ item.OUTPUT_TEMPLATE = (
     "[ES] {spanish}"
 )
 
-
-def to_tera_html_entities(text: str) -> str:
-    return "".join(c if ord(c) < 128 else f"&amp;#{ord(c)};" for c in text)
-
-
-item.to_ascii_entities = to_tera_html_entities
+item.to_ascii_entities = item.to_tera_html_entities
 
 
 item.SYSTEM_PROMPT = """
@@ -42,6 +63,7 @@ Keep proper names unchanged: NPCs, places, dungeons, items, skills, classes, rac
 Place names stay English: Isolated Town, Island of Dawn, Velika, Fey Forest, Maon's Cabin, Valkyon Federation Headquarters.
 Class and race names stay English.
 Placeholders like __TAG0__ and markup must be copied unchanged, same spelling and relative position.
+Text inside NEXTPAGEBUTTON and <B>...</B> stays English (parchment F-choices and UI labels).
 GLOSSARY:
 - Keep MP, HP in English. Never PM, PH, mana, PV, PS.
 - Endurance is "resistencia". Never "aguante".
@@ -83,6 +105,64 @@ def pages_in_text(xml_text: str) -> list[str]:
     return found
 
 
+def _after_last_escaped_page(spanish: str) -> str:
+    lower = spanish.lower()
+    start = lower.rfind("&lt;page")
+    if start < 0:
+        return spanish.lstrip()
+    end = spanish.find("&gt;", start)
+    if end < 0:
+        return spanish.lstrip()
+    return spanish[end + 4 :].lstrip()
+
+
+def salvage_leaked_cache(cache: dict[str, str]) -> int:
+    """Recover page translations when an old regex ate neighboring XML."""
+    leaked_keys = [key for key in cache if LEAKED_KEY_RE.search(key)]
+    extras: dict[str, str] = {}
+    for english in leaked_keys:
+        spanish = cache[english]
+        opens = list(LEAKED_PAGE_RE.finditer(english))
+        if not opens:
+            continue
+        clean_en = english[opens[-1].end() :].strip()
+        if not clean_en:
+            continue
+        extras[clean_en] = _after_last_escaped_page(spanish)
+    for key in leaked_keys:
+        del cache[key]
+    added = 0
+    for english, spanish in extras.items():
+        if english in cache:
+            continue
+        cache[english] = spanish
+        added += 1
+    return added
+
+
+def restore_tagged(english: str, spanish: str, pattern: re.Pattern[str]) -> str:
+    originals = [match.group(2) for match in pattern.finditer(english)]
+    index = 0
+
+    def repl(match: re.Match[str]) -> str:
+        nonlocal index
+        if index < len(originals):
+            inner = originals[index]
+            index += 1
+            return f"{match.group(1)}{inner}{match.group(3)}"
+        return match.group(0)
+
+    return pattern.sub(repl, spanish)
+
+
+def polish_spanish(english: str, spanish: str) -> str:
+    spanish = restore_tagged(english, spanish, BUTTON_RE)
+    spanish = restore_tagged(english, spanish, BOLD_RE)
+    for calque, original in PLACE_NAME_FIXES:
+        spanish = spanish.replace(calque, original)
+    return spanish
+
+
 def collect_unique(files: list[Path], cache: dict[str, str]) -> list[str]:
     unique: list[str] = []
     seen = set(cache.keys())
@@ -111,14 +191,14 @@ def rewrite_dialog(xml_text: str, cache: dict[str, str], ascii_safe: bool) -> tu
         spanish_escaped = cache.get(inner)
         if spanish_escaped is None:
             return match.group(0)
+        spanish_escaped = polish_spanish(inner, spanish_escaped)
         new_value = item.bilingual_tooltip(inner, spanish_escaped)
+        if ascii_safe:
+            new_value = item.to_tera_html_entities(new_value)
         applied += 1
         return f"{match.group(1)}{new_value}{match.group(3)}"
 
-    new_text = PAGE_RE.sub(repl, xml_text)
-    if ascii_safe:
-        new_text = item.ascii_safe_line(new_text)
-    return new_text, applied
+    return PAGE_RE.sub(repl, xml_text), applied
 
 
 def parse_args() -> argparse.Namespace:
@@ -159,11 +239,27 @@ def main() -> int:
         return 1
 
     cache = item.load_cache(cache_path)
+    salvaged = salvage_leaked_cache(cache)
+    if salvaged:
+        print(f"Salvaged {salvaged} pages from leaked XML cache keys.", flush=True)
     unique = collect_unique(files, cache)
     print(f"Cache: {cache_path} ({len(cache)} known); missing {len(unique)}", flush=True)
     if unique:
-        client = item.build_client()
-        item.fill_cache_in_batches(unique, client, cache, cache_path, batch_size)
+        missing_set = set(unique)
+        for path in files:
+            xml_text = path.read_text(encoding="utf-8")
+            for match in PAGE_RE.finditer(xml_text):
+                inner = match.group(2)
+                if inner in missing_set:
+                    print(f"  missing {path.name}: {inner[:100]!r}", flush=True)
+        api_key = (item.GEMINI_API_KEY or "").strip() or os.environ.get(
+            "GEMINI_API_KEY", ""
+        ).strip()
+        if api_key:
+            client = item.build_client()
+            item.fill_cache_in_batches(unique, client, cache, cache_path, batch_size)
+        else:
+            print("Leaving missing pages in English (no Gemini this pass).", flush=True)
     else:
         print("All non-empty pages are already in the cache.", flush=True)
 
