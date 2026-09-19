@@ -1,0 +1,69 @@
+<StrSheet_Passivity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Passivity StrSheet_Passivity.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Passivity">
+    <String id="8885001" name="Kaia's Power I" tooltip="Increases the Power of guild members by $value." />
+    <String id="8885002" name="Kaia's Power II" tooltip="Increases the Power of guild members by $value." />
+    <String id="8885003" name="Kaia's Power III" tooltip="Increases the Power of guild members by $value." />
+    <String id="8885004" name="Kaia's Power IV" tooltip="Increases the Power of guild members by $value." />
+    <String id="8885005" name="Kaia's Power V" tooltip="Increases the Power of guild members by $value." />
+    <String id="8885101" name="Bahaar's Shield I" tooltip="Increases the Endurance of guild members by $value." />
+    <String id="8885102" name="Bahaar's Shield II" tooltip="Increases the Endurance of guild members by $value." />
+    <String id="8885103" name="Bahaar's Shield III" tooltip="Increases the Endurance of guild members by $value." />
+    <String id="8885104" name="Bahaar's Shield IV" tooltip="Increases the Endurance of guild members by $value." />
+    <String id="8885105" name="Bahaar's Shield V" tooltip="Increases the Endurance of guild members by $value." />
+    <String id="8885201" name="Zuras's Anger I" tooltip="Increases the Crit Factor of guild members by $value." />
+    <String id="8885202" name="Zuras's Anger II" tooltip="Increases the Crit Factor of guild members by $value." />
+    <String id="8885203" name="Zuras's Anger III" tooltip="Increases the Crit Factor of guild members by $value." />
+    <String id="8885204" name="Zuras's Anger IV" tooltip="Increases the Crit Factor of guild members by $value." />
+    <String id="8885205" name="Zuras's Anger V" tooltip="Increases the Crit Factor of guild members by $value." />
+    <String id="8885301" name="Zenobia's Protection I" tooltip="Increases the Crit Resist Factor of guild members by $value." />
+    <String id="8885302" name="Zenobia's Protection II" tooltip="Increases the Crit Resist Factor of guild members by $value." />
+    <String id="8885303" name="Zenobia's Protection III" tooltip="Increases the Crit Resist Factor of guild members by $value." />
+    <String id="8885304" name="Zenobia's Protection IV" tooltip="Increases the Crit Resist Factor of guild members by $value." />
+    <String id="8885305" name="Zenobia's Protection V" tooltip="Increases the Crit Resist Factor of guild members by $value." />
+    <String id="8885401" name="Amarun's Energy I" tooltip="Increases the maximum MP of guild members by $value." />
+    <String id="8885402" name="Amarun's Energy II" tooltip="Increases the maximum MP of guild members by $value." />
+    <String id="8885403" name="Amarun's Energy III" tooltip="Increases the maximum MP of guild members by $value." />
+    <String id="8885404" name="Amarun's Energy IV" tooltip="Increases the maximum MP of guild members by $value." />
+    <String id="8885405" name="Amarun's Energy V" tooltip="Increases the maximum MP of guild members by $value." />
+    <String id="8885406" name="Amarun's Energy VI" tooltip="Increases the maximum MP of guild members by $value. " />
+    <String id="8885407" name="Amarun's Energy VII" tooltip="Increases the maximum MP of guild members by $value. " />
+    <String id="8885408" name="Amarun's Energy VIII" tooltip="Increases the maximum MP of guild members by $value. " />
+    <String id="8885501" name="Elinu's Vigor I" tooltip="Increases the maximum HP of Lvl. 5+ guild members by 305. " />
+    <String id="8885502" name="Elinu's Vigor II" tooltip="Increases the maximum HP of Lvl. 20+ guild members by 611. " />
+    <String id="8885503" name="Elinu's Vigor III" tooltip="Increases the maximum HP of Lvl. 35+ guild members by 1222. " />
+    <String id="8885504" name="Elinu's Vigor IV" tooltip="Increases the maximum HP of Lvl. 50+ guild members by 2445. " />
+    <String id="8885505" name="Elinu's Vigor V" tooltip="Increases the maximum HP of Lvl. 65+ guild members by 3668. " />
+    <String id="8885506" name="Elinu's Vigor VI" tooltip="Increases the maximum HP of Lvl. 65+ guild members by 4891. " />
+    <String id="8885507" name="Elinu's Vigor VII" tooltip="Increases the maximum HP of Lvl. 65+ guild members by 6114. " />
+    <String id="8885508" name="Elinu's Vigor VIII" tooltip="Increases the maximum HP of Lvl. 65+ guild members by 7337. " />
+    <String id="8885601" name="Karas's Touch I" tooltip="Increases the Movement Speed of guild members by $value." />
+    <String id="8885602" name="Karas's Touch II" tooltip="Increases the Movement Speed of guild members by $value." />
+    <String id="8885603" name="Karas's Touch III" tooltip="Increases the Movement Speed of guild members by $value." />
+    <String id="8885604" name="Karas's Touch IV" tooltip="Increases the Movement Speed of guild members by $value." />
+    <String id="8885605" name="Karas's Touch V" tooltip="Increases the Movement Speed of guild members by $value." />
+    <String id="8885701" name="Tithus's Prestige I" tooltip="Increases the Movement Speed of guild members by $value while riding a mount." />
+    <String id="8885702" name="Tithus's Prestige II" tooltip="Increases the Movement Speed of guild members by $value while riding a mount." />
+    <String id="8885703" name="Tithus's Prestige III" tooltip="Increases the Movement Speed of guild members by $value while riding a mount." />
+    <String id="8885704" name="Tithus's Prestige IV" tooltip="Increases the Movement Speed of guild members by $value while riding a mount." />
+    <String id="8885705" name="Tithus's Prestige V" tooltip="Increases the Movement Speed of guild members by $value while riding a mount." />
+    <String id="8885801" name="Strength I" tooltip="Decreases stun effect by $value when guild members are hit by stunning skill." />
+    <String id="8885802" name="Strength II" tooltip="Decreases stun effect by $value when guild members are hit by stunning skill." />
+    <String id="8885803" name="Strength III" tooltip="Decreases stun effect by $value when guild members are hit by stunning skill." />
+    <String id="8885804" name="Strength IV" tooltip="Decreases stun effect by $value when guild members are hit by stunning skill." />
+    <String id="8885805" name="Strength V" tooltip="Decreases stun effect by $value when guild members are hit by stunning skill." />
+    <String id="8885901" name="Guild Tower Enhancement I" tooltip="Increases the HP of a guild tower by $value." />
+    <String id="8885902" name="Guild Tower Enhancement II" tooltip="Increases the HP of a guild tower by $value." />
+    <String id="8885903" name="Guild Tower Enhancement III" tooltip="Increases the HP of a guild tower by $value." />
+    <String id="8885904" name="Guild Tower Enhancement IV" tooltip="Increases the HP of a guild tower by $value." />
+    <String id="8885905" name="Guild Tower Enhancement V" tooltip="Increases the HP of a guild tower by $value." />
+    <String id="8886001" name="Guild Bank Expansion I" tooltip="Adds a Guild Bank tab." />
+    <String id="8886002" name="Guild Bank Expansion II" tooltip="Adds a second Guild Bank tab." />
+    <String id="8886003" name="Guild Bank Expansion III" tooltip="Adds a third Guild Bank tab." />
+    <String id="8886004" name="Guild Bank Expansion IV" tooltip="Adds a fourth Guild Bank tab." />
+    <String id="8886101" name="Guild Expansion I" tooltip="Increases the maximum number of guild members allowed to join by $value player(s)." />
+    <String id="8886102" name="Guild Expansion II" tooltip="Increases the maximum number of guild members allowed to join by $value player(s)." />
+    <String id="8886103" name="Guild Expansion III" tooltip="Increases the maximum number of guild members allowed to join by $value player(s)." />
+    <String id="8886104" name="Guild Expansion IV" tooltip="Increases the maximum number of guild members allowed to join by $value player(s)." />
+    <String id="8886105" name="Guild Expansion V" tooltip="Increases the maximum number of guild members allowed to join by $value player(s). " />
+    <String id="8886106" name="Guild Expansion VI" tooltip="Increases the maximum number of guild members allowed to join by $value player(s). " />
+    <String id="8886107" name="Guild Expansion VII" tooltip="Increases the maximum number of guild members allowed to join by $value player(s). " />
+</StrSheet_Passivity>

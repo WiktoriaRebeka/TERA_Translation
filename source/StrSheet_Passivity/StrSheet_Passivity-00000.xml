@@ -1,0 +1,11 @@
+<StrSheet_Passivity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Passivity StrSheet_Passivity.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Passivity">
+    <String id="6000001" name="Deals additional damage." />
+    <String id="6000002" name="Decreases damage taken." />
+    <String id="6000003" name="Raises your max HP." />
+    <String id="6000004" name="Decreases damage taken when knocked down." />
+    <String id="6000005" name="Decreases damage taken from monster with the most aggro toward you." />
+    <String id="6000006" name="Decreases damage taken from enraged monsters." />
+    <String id="6000007" name="Deals additional damage to the monster with the most aggro toward you." />
+    <String id="6000008" name="Increases crafting speed." />
+    <String id="6000009" name="Decreases gathering time." />
+</StrSheet_Passivity>

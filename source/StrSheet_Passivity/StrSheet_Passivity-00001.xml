@@ -1,0 +1,46 @@
+<StrSheet_Passivity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Passivity StrSheet_Passivity.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Passivity">
+    <String id="80010" name="First Effect - Pounding VII" tooltip="Increases damage to monsters by $value." />
+    <String id="80020" name="First Effect - Bitter VII" tooltip="Increases Crit Power against monsters by 1.52 when attacking from behind." />
+    <String id="80030" name="First Effect - Slaying VII" tooltip="Increases Crit Power against monsters by 1.74 when below 50% HP." />
+    <String id="80040" name="First Effect - Furious VII" tooltip="Increases damage by $value when below 50% HP." />
+    <String id="80050" name="First Effect - Focused VII" tooltip="Increases Crit Power against enraged monsters by 1.88." />
+    <String id="80060" name="First Effect - Virulent VII" tooltip="Crits to knocked-down opponents apply $H_W_GOODPoison VII$COLOR_END." />
+    <String id="80070" name="First Effect - Brutal VII" tooltip="Increases damage to knocked-down opponents by $value." />
+    <String id="80080" name="First Effect - Cruel VII" tooltip="Increases Crit Power after knocking down an opponent. Applies $H_W_GOODCruelty VII$COLOR_END." />
+    <String id="80090" name="First Effect - Forceful VII" tooltip="Crits increase Power when attacking from behind. Applies $H_W_GOODForcefulness VII$COLOR_END." />
+    <String id="80100" name="First Effect - Savage VII" tooltip="Increases Crit Power by 1.32 when attacking from behind." />
+    <String id="80110" name="First Effect - Cunning VII" tooltip="Increases maximum MP by $value." />
+    <String id="80120" name="First Effect - Infused VII" tooltip="Replenishes 255 MP when knocked down." />
+    <String id="80130" name="First Effect - Glistening VII" tooltip="Crits replenish 249 MP when attacking from behind." />
+    <String id="80140" name="First Effect - Swift VII" tooltip="Increases Movement Speed by $value while in combat." />
+    <String id="80150" name="First Effect - Brilliant VII" tooltip="Replenishes $value MP per $tickInterval." />
+    <String id="80160" name="First Effect - Carving VII" tooltip="Increases the chance to crit by 3.3%." />
+    <String id="80170" name="First Effect - Salivating VII" tooltip="Replenishes 89 MP when attacking a player." />
+    <String id="80180" name="First Effect - Threatening VII" tooltip="Increases aggro by $value." />
+    <String id="80190" name="First Effect - Hardy VII" tooltip="Reduces damage from monsters by $value." />
+    <String id="80200" name="First Effect - Protective VII" tooltip="Increases the chance to resist crits by $value when below 50% HP." />
+    <String id="80210" name="First Effect - Resolute VII" tooltip="Reduces damage taken by $value when below 50% HP." />
+    <String id="80220" name="First Effect - Poised VII" tooltip="Reduces damage from enraged monsters by $value." />
+    <String id="80230" name="First Effect - Empyrean VII" tooltip="Applies $H_W_GOODWarding VII$COLOR_END when knocked down by enraged monsters." />
+    <String id="80240" name="First Effect - Warding VII" tooltip="Applies $H_W_GOODWarding VII$COLOR_END when knocked down ($prob chance)." />
+    <String id="80250" name="First Effect - Inspiring VII" tooltip="Applies $H_W_GOODHP Recovery VII$COLOR_END when knocked down ($prob chance)." />
+    <String id="80260" name="First Effect - Relentless VII" tooltip="Increase maximum HP by $value." />
+    <String id="80270" name="First Effect - Fleetfoot VII" tooltip="Increases Movement Speed by $value while out of combat." />
+    <String id="80280" name="First Effect - Vigorous VII" tooltip="Recovers $value HP per $tickInterval." />
+    <String id="80290" name="First Effect - Grieving VII" tooltip="Replenishes 117 MP when attacked by a player." />
+    <String id="80300" name="First Effect - Wrath of the Warden VII" tooltip="Increases Crit Power by +1.66 times while attacking monster from the front." />
+    <String id="80310" name="First Effect - Judgment VII" tooltip="Increases Crit Power by +1.52 times when making ranged attacks on monsters from the side or rear." />
+    <String id="81001" name="Second Effect - Glistening VII" tooltip="Crits replenish 60 MP when attacking from behind." />
+    <String id="81002" name="Second Effect - Cunning VII" tooltip="Increases maximum MP by $value." />
+    <String id="81003" name="Second Effect - Infused VII" tooltip="Replenishes 63 MP when knocked down." />
+    <String id="81004" name="Second Effect - Salivating VII" tooltip="Replenishes 21 MP when attacking a player." />
+    <String id="81005" name="Second Effect - Brutal VII" tooltip="Increases damage to knocked-down opponents by $value." />
+    <String id="81006" name="Second Effect - Brilliant VII" tooltip="Replenishes $value MP per $tickInterval." />
+    <String id="81007" name="Second Effect - Swift VII" tooltip="Increases Movement Speed by $value while in combat." />
+    <String id="81008" name="Second Effect - Poised VII" tooltip="Reduces damage from enraged monsters by $value." />
+    <String id="81009" name="Second Effect - Resolute VII" tooltip="Reduces damage taken by $value when below 50% HP." />
+    <String id="81010" name="Second Effect - Grieving VII" tooltip="Replenishes 28 MP when attacked by a player." />
+    <String id="81011" name="Second Effect - Protective VII" tooltip="Increases the chance to resist crits by $value when below 50% HP." />
+    <String id="81012" name="Second Effect - Relentless VII" tooltip="Increase maximum HP by $value." />
+    <String id="81013" name="Second Effect - Vigorous VII" tooltip="Recovers $value HP per $tickInterval" />
+</StrSheet_Passivity>
