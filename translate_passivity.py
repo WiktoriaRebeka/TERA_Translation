@@ -12,6 +12,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import html
 import re
 import sys
 from pathlib import Path
@@ -34,6 +35,23 @@ def to_tera_html_entities(text: str) -> str:
 
 item.to_ascii_entities = to_tera_html_entities
 
+# BHS leftover names (Equipment_Weapon_Normal_Absorbs damage9, T3_Mystic,
+# IncreaseMaxMP78). Not player-facing green text; sending them to Gemini
+# makes the model invent $value and the whole batch gets rejected.
+_DEV_STRIP_RE = re.compile(r"<[^>]+>")
+_DEV_CAMEL_RE = re.compile(r"[a-z][A-Z]")
+
+
+def is_dev_leftover(text: str) -> bool:
+    stripped = item.VAR_RE.sub(" ", html.unescape(text))
+    stripped = _DEV_STRIP_RE.sub(" ", stripped)
+    stripped = re.sub(r"\s+", " ", stripped).strip()
+    if "_" in stripped or re.search(r"damage\d+\s*$", stripped, re.I):
+        return True
+    if " " not in stripped and _DEV_CAMEL_RE.search(stripped):
+        return True
+    return False
+
 
 def collect_unique_uncached(lines: list[str], cache: dict[str, str]) -> list[str]:
     unique: list[str] = []
@@ -43,7 +61,7 @@ def collect_unique_uncached(lines: list[str], cache: dict[str, str]) -> list[str
             original = match.group(2)
             if original == "" or original in seen:
                 continue
-            if item.is_already_bilingual(original):
+            if item.is_already_bilingual(original) or is_dev_leftover(original):
                 continue
             seen.add(original)
             unique.append(original)
@@ -78,6 +96,9 @@ def rewrite_lines(
             if item.is_already_bilingual(original):
                 stats["already_bilingual"] += 1
                 continue
+            if is_dev_leftover(original):
+                stats["left_original"] += 1
+                continue
             spanish_escaped = cache.get(original)
             if spanish_escaped is None:
                 stats["left_original"] += 1
@@ -98,17 +119,18 @@ item.rewrite_lines = rewrite_lines
 item.SYSTEM_PROMPT = """
 You are an expert video game localizer. Translate TERA MMORPG item bonus lines from English to Spanish.
 
-These are the short green lines on gear and crystal effects: "Decreases damage from enraged monsters.", "Raises your max HP.", "Absorbs up to $value damage with the Stand Fast skill."
+These are short green lines on gear and crystal effects, for example: "Decreases damage from enraged monsters.", "Raises your max HP."
 Translate meaning naturally into Latin American Spanish. Keep the combat tone of TERA.
-Skill names, buff names and crystal option names stay English: Stand Fast, Poison VII, Cruelty VII, Forcefulness VII, Kaia's Fury.
+Skill names, buff names, etching names and crystal option names stay English: Stand Fast, Poison VII, Cruelty VII, Forcefulness VII, Kaia's Fury, Grounded, Relentless, Etching.
 Class names stay English. Monster type words that are proper names stay English.
-Placeholders like __TAG0__, $value, $BR, $COLOR_END, $H_W_GOOD must be copied exactly, same spelling and relative position.
+Copy every __TAGn__ placeholder and every $token that already appears in that source string, in the same relative position. Never invent extra tokens. If the source has no $value / $BR / $COLOR_END / $H_W_GOOD / $H_S_GOOD, the Spanish must not contain any either.
 GLOSSARY:
-- Keep MP, HP in English. Never PM, PH, mana, PV, PS.
+- Keep MP, HP, Etching in English. Never PM, PH, mana, PV, PS.
 - Endurance is "resistencia". Never "aguante".
 - Power is "poder". Crit Power is "poder de golpe critico".
+- The English multiplier word "times" becomes "veces".
 - Latin American Spanish: "tu", never "vosotros". Never "coger".
-- Decimal comma: +1,42 not +1.42. $value stays $value.
+- Decimal comma: +1,42 not +1.42.
 
 Do not add explanations. Do not include the English source in your output.
 Return ONLY valid JSON: an array of Spanish strings, same length and order as the input array.

@@ -598,16 +598,24 @@ def translate_chunk(
             bad += 1
             if rejected is not None:
                 rejected.append((original, original))
+            if bad <= 3:
+                print(f"    reject (empty): {original[:90]}", flush=True)
             continue
         candidate = finalize_translation(spanish, tags)
         if not translation_is_valid(original, candidate):
             bad += 1
             if rejected is not None:
                 rejected.append((original, candidate))
+            if bad <= 3:
+                problems = describe_problems(original, candidate) or ["unspecified"]
+                print(
+                    f"    reject ({'; '.join(problems)}): {original[:90]}",
+                    flush=True,
+                )
             continue  # nie trafia do cache; runda poprawkowa sprobuje ponownie
         results[original] = candidate
     if bad:
-        print(f"    rejected {bad} translation(s): engine variables lost", flush=True)
+        print(f"    rejected {bad} translation(s)", flush=True)
     return results
 
 

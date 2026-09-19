@@ -32,6 +32,9 @@ def main() -> int:
     parser.add_argument("--source", default=None)
     args = parser.parse_args()
     translated_path = Path(args.translated)
+    if not translated_path.exists():
+        print(f"Passivity output not found yet: {translated_path}")
+        return 0
     files = (
         sorted(translated_path.glob("StrSheet_Passivity-*.xml"))
         if translated_path.is_dir()
