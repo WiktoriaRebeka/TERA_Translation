@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1018">
+        <Page social="4">[EN] The eldritch vanquishers and their minions are slaughtering us. We can't get runners past them, most of the conscripts are dead&amp;#8212;we need someone with your skills.&lt;BR&gt;&lt;BR&gt;Be wary. The vanquishers are damnably tough.&lt;br&gt;[ES] Los eldritch vanquishers y sus esbirros nos est&amp;#225;n masacrando. No podemos hacer pasar a los mensajeros, la mayor&amp;#237;a de los reclutas est&amp;#225;n muertos; necesitamos a alguien con tus habilidades.&lt;BR&gt;&lt;BR&gt;Ten cuidado. Los vanquishers son maldito hueso duro de roer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1018">
+        <Page social="4">[EN] I know these crests! They're Killian's tokens.&lt;BR&gt;&lt;BR&gt;That explains much. The sikandaris and mekonaris couldn't hope to hold us off on their own. Killian's augmenting their strength. They must be vulnerable right now.&lt;br&gt;[ES] &amp;#161;Conozco estos emblemas! Son fichas de Killian.&lt;BR&gt;&lt;BR&gt;Eso explica mucho. Los sikandaris y los mekonaris no tendr&amp;#237;an esperanza de contenernos por s&amp;#237; solos. Killian est&amp;#225; aumentando su fuerza. Deben de ser vulnerables en este momento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" villagerId="1018">
+        <Page social="0">[EN] Get out there and cut those vanquishers down like reeds.&lt;br&gt;[ES] Sal ah&amp;#237; fuera y corta a esos vanquishers como si fueran juncos.</Page>
+    </Text>
+</QuestDialog>

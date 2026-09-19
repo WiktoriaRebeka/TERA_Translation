@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">[EN] The missing crate contains relic stones. Eria, child of Elinu, claims the stones are specially attuned to this island's guardians and will allow the soldiers of the Tainted Gorge more freedom of movement. They must be what the {@LinkCreature:13#901#orcan guardians} were seeking on the airship, but why?&lt;BR&gt;&lt;BR&gt;Recovering these objects is of great importance. Do not hesitate to use deadly force on the orcans&amp;#8212;they have much to answer for.&lt;br&gt;[ES] La caja perdida contiene piedras de reliquia. Eria, hija de Elinu, afirma que las piedras est&amp;#225;n especialmente sintonizadas con los guardianes de esta isla y permitir&amp;#225;n a los soldados de Tainted Gorge mayor libertad de movimiento. Deben ser lo que los {@LinkCreature:13#901#orcan guardians} buscaban en la aeronave, &amp;#191;pero por qu&amp;#233;?&lt;BR&gt;&lt;BR&gt;Recuperar estos objetos es de gran importancia. No dudes en usar fuerza letal contra los orcans; tienen mucho por lo que responder.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1007">
+        <Page social="4">[EN] Such unassuming objects to have caused so much difficulty. I am in your debt.&lt;br&gt;[ES] Objetos tan modestos para haber causado tanta dificultad. Estoy en deuda contigo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1007">
+        <Page social="0">[EN] Every hour that passes increases the risk that {@LinkCreature:13#901#orcan guardians} will damage the &lt;font color='#660000'&gt;relic stones&lt;/font&gt; and endanger those who serve in the Tainted Gorge. Please do not tarry in their recovery.&lt;br&gt;[ES] Cada hora que pasa aumenta el riesgo de que los {@LinkCreature:13#901#orcan guardians} da&amp;#241;en las &lt;font color='#660000'&gt;relic stones&lt;/font&gt; y pongan en peligro a quienes sirven en Tainted Gorge. Por favor, no te demores en recuperarlas.</Page>
+    </Text>
+</QuestDialog>

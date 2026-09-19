@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] Go to Aheaf and hear the details of the unknown force.&lt;BR&gt;&lt;BR&gt;[Your equipment level has to be at least 463 to enter this instance.]&lt;br&gt;[ES] Ve con Aheaf y escucha los detalles sobre la fuerza desconocida.&lt;BR&gt;&lt;BR&gt;[Tu nivel de equipamiento debe ser al menos 463 para entrar a esta instancia.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] He seems to have discovered a passage that leads inside the Verrak Fortress. &lt;BR&gt;&lt;BR&gt;Ask Aheaf for details.&lt;BR&gt;&lt;BR&gt;Afterwards, the quest &lt;font color='#7F00FF'&gt;[Important] Kaia&amp;#8217;s Anvil&lt;/font&gt; will be activated automatically.&lt;br&gt;[ES] Parece que ha descubierto un pasaje que conduce al interior de Verrak Fortress. &lt;BR&gt;&lt;BR&gt;P&amp;#237;dele los detalles a Aheaf.&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s, la misi&amp;#243;n &lt;font color='#7F00FF'&gt;[Important] Kaia&amp;#8217;s Anvil&lt;/font&gt; se activar&amp;#225; autom&amp;#225;ticamente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="131">
+        <Page social="0" voiceTypeId="0">[EN] Ah, you're here, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;After the Draakon Commanders left this place, I saw an area that I never saw before.&lt;BR&gt;&lt;BR&gt;It's right over there. They weren't draakons...and they were definitely not nagas.&lt;BR&gt;&lt;BR&gt;Will you go and help me understand what they are?&lt;br&gt;[ES] Ah, est&amp;#225;s aqu&amp;#237;, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de que los Draakon Commanders se fueron de este lugar, vi un &amp;#225;rea que nunca antes hab&amp;#237;a visto.&lt;BR&gt;&lt;BR&gt;Est&amp;#225; justo ah&amp;#237;. No eran draakons... y definitivamente no eran nagas.&lt;BR&gt;&lt;BR&gt;&amp;#191;Ir&amp;#225;s a ayudarme a entender qu&amp;#233; son?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="3" villagerId="131">
+        <Page social="4" voiceTypeId="0">[EN] Thank you &lt;PCNAME&gt;. It's all clear now.&lt;BR&gt;&lt;BR&gt;I must go and spread the news to everyone.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Todo est&amp;#225; claro ahora.&lt;BR&gt;&lt;BR&gt;Debo ir a esparcir la noticia a todos.</Page>
+    </Text>
+</QuestDialog>

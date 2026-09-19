@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1704">
+        <Page social="4">[EN] Expanding markets means expanding profits. We need you to do a little market research, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Find Tryphena at a camp near Azarel's Labyrinth and ask her about "market opportunities." She'll know what you mean.&lt;br&gt;[ES] Expandir mercados significa expandir ganancias. Necesitamos que hagas un poco de investigaci&amp;#243;n de mercado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Encuentra a Tryphena en un campamento cerca de Azarel's Labyrinth y preg&amp;#250;ntale sobre &quot;oportunidades de mercado&quot;. Ella sabr&amp;#225; a qu&amp;#233; te refieres.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">[EN] You're one of Jax's people, aren't you?&lt;BR&gt;&lt;BR&gt;Tell them I've noticed a lot of traffic in this area, and some of it has a high value/risk ratio. They'll know what I mean.&lt;br&gt;[ES] Eres una de las personas de Jax, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Diles que he notado mucho tr&amp;#225;fico en esta zona, y parte de &amp;#233;l tiene una alta relaci&amp;#243;n valor/riesgo. Sabr&amp;#225;n a qu&amp;#233; me refiero.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1704">
+        <Page social="4">[EN] High value/risk ratio, she said?&lt;BR&gt;&lt;BR&gt;Take this token of our appreciation, and remember: market research can be lucrative.&lt;br&gt;[ES] &amp;#191;Alta relaci&amp;#243;n valor/riesgo, dijo?&lt;BR&gt;&lt;BR&gt;Toma esta muestra de nuestro agradecimiento, y recuerda: la investigaci&amp;#243;n de mercado puede ser lucrativa.</Page>
+    </Text>
+</QuestDialog>

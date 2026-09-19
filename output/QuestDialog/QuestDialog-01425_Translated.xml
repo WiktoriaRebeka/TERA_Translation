@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">[EN] Seriously? You want a custom-made pirate hat?&lt;BR&gt;&lt;BR&gt;Look, if you don't have a piece of cyasma-infused leather sitting in a bank vault somewhere, there's nothing I can do for you. Even the Invalesco don't bother with it anymore.&lt;NEXTPAGEBUTTON&gt;"It so happens, I do!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;En serio? &amp;#191;Quieres un sombrero pirata hecho a medida?&lt;BR&gt;&lt;BR&gt;Mira, si no tienes un pedazo de cuero impregnado de cyasma guardado en la b&amp;#243;veda de un banco en alguna parte, no hay nada que pueda hacer por ti. Ni siquiera los Invalesco se molestan con eso ahora.&lt;NEXTPAGEBUTTON&gt;"It so happens, I do!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">[EN] Well, well. Been hoarding this somewhere, have you? No, none of my business.&lt;BR&gt;&lt;BR&gt;Let's get you that hat. Which color did you want?&lt;NEXTPAGEBUTTON&gt;"Let's see..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Vaya, vaya. &amp;#191;Has estado acumulando esto en alguna parte, eh? No, no es asunto m&amp;#237;o.&lt;BR&gt;&lt;BR&gt;Vamos a conseguirte ese sombrero. &amp;#191;De qu&amp;#233; color lo quer&amp;#237;as?&lt;NEXTPAGEBUTTON&gt;"Let's see..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">[EN] Let me guess: You've found everything but the cyasma-infused leather.&lt;BR&gt;&lt;BR&gt;Want my advice? If you haven't found it by now, you're not going to.&lt;br&gt;[ES] D&amp;#233;jame adivinar: has encontrado de todo menos el cuero impregnado de cyasma.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres mi consejo? Si no lo has encontrado hasta ahora, no lo vas a hacer.</Page>
+    </Text>
+</QuestDialog>

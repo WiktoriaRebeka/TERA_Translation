@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Mission Orders&lt;BR&gt;&lt;BR&gt;Victims on the Citadel of Torment's third dungeon level cannot be saved. Give them eternal rest.&lt;BR&gt;&lt;BR&gt;Eliminate {@LinkCreature:33#16#anguished minions}, {@LinkCreature:33#66#rotting prisoners}, {@LinkCreature:33#18#decaying minions}, and {@LinkCreature:33#68#rotting slaves}.&lt;BR&gt;&lt;BR&gt;Report to Coordinator Alyssa when mission is complete.&lt;br&gt;[ES] &amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Las v&amp;#237;ctimas en el tercer nivel de mazmorra de la Citadel of Torment no se pueden salvar. Dales descanso eterno.&lt;BR&gt;&lt;BR&gt;Elimina a los {@LinkCreature:33#16#anguished minions}, {@LinkCreature:33#66#rotting prisoners}, {@LinkCreature:33#18#decaying minions} y {@LinkCreature:33#68#rotting slaves}.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate ante la coordinadora Alyssa cuando la misi&amp;#243;n est&amp;#233; completa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">[EN] You've earned the thanks of the federation. Your guild is an inspiration to all!&lt;br&gt;[ES] Te has ganado el agradecimiento de la federaci&amp;#243;n. &amp;#161;Tu hermandad es una inspiraci&amp;#243;n para todos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">[EN] It looks like you haven't completed your mission yet.&lt;br&gt;[ES] Parece que a&amp;#250;n no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

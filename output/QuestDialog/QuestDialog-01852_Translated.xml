@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="4">[EN] {@LinkCreature:246#3001#Hurun} sent a message requesting help at the Three Towers.&lt;BR&gt;&lt;BR&gt;Given your assistance to date, we thought you'd be the perfect choice to assist him.&lt;BR&gt;&lt;BR&gt;I'm quite jealous, actually. I always wanted to study the Three Towers up close.&lt;br&gt;[ES] {@LinkCreature:246#3001#Hurun} envi&amp;#243; un mensaje pidiendo ayuda en Three Towers.&lt;BR&gt;&lt;BR&gt;Dada tu ayuda hasta la fecha, pensamos que ser&amp;#237;as la opci&amp;#243;n perfecta para asistirlo.&lt;BR&gt;&lt;BR&gt;En realidad, estoy bastante celoso. Siempre quise estudiar Three Towers de cerca.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="4">[EN] Thank goodness! The argons keep killing our researchers, so I'm glad they sent a soldier.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:46#201#argonomorph kulkari crushers} or {@LinkCreature:46#202#shamans}, or even the {@LinkCreature:46#203#argonomorph Lokian slayers} are the big threats. Take them out to relieve the pressure on us.&lt;BR&gt;&lt;BR&gt;Of course, no one would cry if you destroyed {@LinkCreature:246#3010#cyasma conduits} instead.&lt;BR&gt;&lt;BR&gt;Anything would help.&lt;br&gt;[ES] &amp;#161;Menos mal! Los argons siguen matando a nuestros investigadores, as&amp;#237; que me alegra que hayan enviado a un soldado.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:46#201#argonomorph kulkari crushers} o {@LinkCreature:46#202#shamans}, o incluso los {@LinkCreature:46#203#argonomorph Lokian slayers} son las grandes amenazas. Acaba con ellos para aliviar la presi&amp;#243;n sobre nosotros.&lt;BR&gt;&lt;BR&gt;Por supuesto, nadie llorar&amp;#237;a si destruyes {@LinkCreature:246#3010#cyasma conduits} en su lugar.&lt;BR&gt;&lt;BR&gt;Cualquier cosa ayudar&amp;#237;a.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="4">[EN] It's good to sting the argon war machine once in awhile.&lt;BR&gt;&lt;BR&gt;I'm grateful for your intercession, &lt;PCNAME&gt;. Thank you.&lt;br&gt;[ES] Es bueno darle un golpe a la m&amp;#225;quina de guerra argon de vez en cuando.&lt;BR&gt;&lt;BR&gt;Estoy agradecido por tu intercesi&amp;#243;n, &lt;PCNAME&gt;. Gracias.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1019">
+        <Page social="4">[EN] Please eliminate the {@LinkCreature:24#13#sly runekeepers}. They're cooperating with the kulkari and guarding the Conspiracy Culprits. Bring back their horns after you kill them.&lt;BR&gt;&lt;BR&gt;Their horns are very valuable. I need to be compensated for almost losing my life.&lt;br&gt;[ES] Por favor, elimina a los {@LinkCreature:24#13#sly runekeepers}. Est&amp;#225;n cooperando con los kulkari y custodiando a los Conspiracy Culprits. Tr&amp;#225;eme sus cuernos despu&amp;#233;s de matarlos.&lt;BR&gt;&lt;BR&gt;Sus cuernos son muy valiosos. Necesito una compensaci&amp;#243;n por casi perder la vida.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1019">
+        <Page social="5">[EN] Great! I feel safer, really. Thanks.&lt;br&gt;[ES] &amp;#161;Genial! Me siento m&amp;#225;s seguro, de verdad. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1019">
+        <Page social="0">[EN] Not finished yet?&lt;br&gt;[ES] &amp;#191;A&amp;#250;n no has terminado?</Page>
+    </Text>
+</QuestDialog>

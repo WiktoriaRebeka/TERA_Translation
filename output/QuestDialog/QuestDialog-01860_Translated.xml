@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">[EN] Zulfikar Fortress is the last line of defense in the Helkan District. If the argons sack it, their next stop is Kaiator.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:78#3006} is looking for a few good soldiers. Go see what you can do to help him.&lt;br&gt;[ES] Zulfikar Fortress es la &amp;#250;ltima l&amp;#237;nea de defensa en el Helkan District. Si los argons la saquean, su siguiente parada ser&amp;#225; Kaiator.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:78#3006} est&amp;#225; buscando a unos cuantos buenos soldados. Ve a ver qu&amp;#233; puedes hacer para ayudarlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="4">[EN] Frankly, my biggest worry are {@LinkCreature:48#29#argonomorph corpsefiends}. They're tough and brutal. Everything about them is designed to kill.&lt;BR&gt;&lt;BR&gt;If you want to make a good impression with the Shariar, I'd start there.&lt;br&gt;[ES] Francamente, mi mayor preocupaci&amp;#243;n son los {@LinkCreature:48#29#argonomorph corpsefiends}. Son duros y brutales. Todo en ellos est&amp;#225; dise&amp;#241;ado para matar.&lt;BR&gt;&lt;BR&gt;Si quieres causar una buena impresi&amp;#243;n con los Shariar, empezar&amp;#237;a por ah&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="78" prevId="2" villagerId="3006">
+        <Page social="4">[EN] Not bad! I guess you're not all talk!&lt;BR&gt;&lt;BR&gt;The Shariar will be proud to fight at your side.&lt;br&gt;[ES] &amp;#161;Nada mal! &amp;#161;Supongo que no eres puro bla, bla, bla!&lt;BR&gt;&lt;BR&gt;Los Shariar estar&amp;#225;n orgullosos de luchar a tu lado.</Page>
+    </Text>
+</QuestDialog>

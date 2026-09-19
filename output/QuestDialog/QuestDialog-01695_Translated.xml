@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="5" voiceTypeId="0">[EN] Have you heard about the traitor, Kagaron? He sold us out to Atel Akaad!&lt;BR&gt;&lt;BR&gt;But he didn't seem too happy when the vampirs dragged him into Sinestral Manor. I guess treason doesn't pay, eh ?&lt;BR&gt;&lt;BR&gt;We should make sure that the federation delivers final judgment on him, not the vampirs. Poetic justice, you might say.&lt;br&gt;[ES] &amp;#191;Te has enterado del traidor, Kagaron? &amp;#161;Nos vendi&amp;#243; a Atel Akaad!&lt;BR&gt;&lt;BR&gt;Pero no parec&amp;#237;a muy feliz cuando los vampirs lo arrastraron a Sinestral Manor. Supongo que la traici&amp;#243;n no paga, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Debemos asegurarnos de que la federaci&amp;#243;n dicte su sentencia final, no los vampirs. Podr&amp;#237;amos decir que es justicia po&amp;#233;tica.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="5" voiceTypeId="0">[EN] Kagaron got what he deserved. Well, he deserved worse, I suppose.&lt;BR&gt;&lt;BR&gt;he didn't get away with it...er...&lt;BR&gt;&lt;BR&gt;Not for long, anyway!&lt;br&gt;[ES] Kagaron obtuvo lo que se merec&amp;#237;a. Bueno, supongo que se merec&amp;#237;a algo peor.&lt;BR&gt;&lt;BR&gt;No se sali&amp;#243; con la suya... eh...&lt;BR&gt;&lt;BR&gt;&amp;#161;Al menos no por mucho tiempo!</Page>
+    </Text>
+</QuestDialog>

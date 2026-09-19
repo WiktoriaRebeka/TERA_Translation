@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">[EN] Back for more blood? {@LinkCreature:63#3003#Elthienne} will tell you where to go and what to kill.&lt;br&gt;[ES] &amp;#191;De vuelta por m&amp;#225;s sangre? {@LinkCreature:63#3003#Elthienne} te dir&amp;#225; a d&amp;#243;nde ir y qu&amp;#233; matar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">[EN] How do you like Val Aureum? Ready to hit the road and do my dirty work?&lt;BR&gt;&lt;BR&gt;Awesome!&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; te parece Val Aureum? &amp;#191;Listo para lanzarte al camino y hacer mi trabajo sucio?&lt;BR&gt;&lt;BR&gt;&amp;#161;Genial!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">[EN] {@Rgn:18001#Colossal Ruins}, eh? So, they're like, big?&lt;BR&gt;&lt;BR&gt;Guess who has your money? Yep, {@LinkCreature:63#3003#Elthienne}.&lt;br&gt;[ES] &amp;#191;{@Rgn:18001#Colossal Ruins}, eh? &amp;#191;O sea que son como, grandes?&lt;BR&gt;&lt;BR&gt;&amp;#191;Adivina qui&amp;#233;n tiene tu dinero? S&amp;#237;, {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] We need you to take down some {@LinkCreature:18#17$$ancient teraliths} in the {@Rgn:18001#Colossal Ruins} and bring back fragments of their big, funky, rock bodies.&lt;BR&gt;&lt;BR&gt;That stuff is great for getting rid of calluses. 'Course, that's not all we use 'em for.&lt;br&gt;[ES] Necesitamos que derrotes a algunos {@LinkCreature:18#17$$ancient teraliths} en las {@Rgn:18001#Colossal Ruins} y traigas fragmentos de sus enormes y extra&amp;#241;os cuerpos de roca.&lt;BR&gt;&lt;BR&gt;Eso sirve muy bien para quitar callos. Claro que no es lo &amp;#250;nico para lo que los usamos.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] How was the trip to the {@Rgn:18001#Colossal Ruins}? Not a walk in the park, right?&lt;BR&gt;&lt;BR&gt;Thanks. {@LinkCreature:63#3003#Elthienne} will pay you for this job.&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo estuvo el viaje a las {@Rgn:18001#Colossal Ruins}? No fue un paseo por el parque, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Gracias. {@LinkCreature:63#3003#Elthienne} te pagar&amp;#225; por este trabajo.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] We need you to take down some {@LinkCreature:18#18#giant gladiators} in the {@Rgn:18001#Colossal Ruins} and bring me those fancy cuffs they wear on their enormous thumbs. They're made of a rare metal that's hard to find.&lt;br&gt;[ES] Necesitamos que derrotes a algunos {@LinkCreature:18#18#giant gladiators} en las {@Rgn:18001#Colossal Ruins} y me traigas esas lujosas mu&amp;#241;equeras que llevan en sus enormes pulgares. Est&amp;#225;n hechas de un metal raro que es dif&amp;#237;cil de encontrar.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">[EN] Great work!&lt;BR&gt;&lt;BR&gt;Where will we send you next?&lt;br&gt;[ES] &amp;#161;Gran trabajo!&lt;BR&gt;&lt;BR&gt;&amp;#191;A d&amp;#243;nde te enviaremos la pr&amp;#243;xima vez?</Page>
+    </Text>
+</QuestDialog>

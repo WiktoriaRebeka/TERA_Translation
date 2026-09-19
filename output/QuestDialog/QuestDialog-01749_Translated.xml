@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="38" prevId="0" villagerId="117">
+        <Page social="0">[EN] &lt;PCNAME&gt; found Ameldas's dog.&lt;br&gt;[ES] &lt;PCNAME&gt; encontr&amp;#243; al perro de Ameldas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="38" prevId="0" villagerId="117">
+        <Page social="1" voiceTypeId="0">[EN] &lt;PCNAME&gt;! My puppy is gone!&lt;BR&gt;I didn't want to take my medicine so I threw my doll far away...&lt;BR&gt;&lt;BR&gt;My puppy went to fetch the doll and didn't come back...&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! &amp;#161;Mi cachorro no est&amp;#225;!&lt;BR&gt;No quer&amp;#237;a tomarme mi medicina, as&amp;#237; que lanc&amp;#233; mi mu&amp;#241;eca muy lejos...&lt;BR&gt;&lt;BR&gt;Mi cachorro fue a buscar la mu&amp;#241;eca y no volvi&amp;#243;...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="38" prevId="2" villagerId="117">
+        <Page social="1" voiceTypeId="0">[EN] I got mad when they made me take that medicine, and I threw my doll way &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7014#-66688,-21739,709&amp;type=1&amp;name=where Ameldas threw her doll"&gt;over there&lt;/A&gt;&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;My dog Stinky thought I was playing, and he ran after it. This is all my fault...!&lt;BR&gt;&lt;BR&gt;Stinky usually comes running back when I blow this whistle but he won't...&lt;BR&gt;&lt;BR&gt;I'm really scared for him.&lt;BR&gt;&lt;BR&gt;I want to go find him, but Mom and Dad won't let me go.&lt;br&gt;[ES] Me enoj&amp;#233; cuando me hicieron tomar esa medicina, y lanc&amp;#233; mi mu&amp;#241;eca muy &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7014#-66688,-21739,709&amp;type=1&amp;name=where Ameldas threw her doll&quot;&gt;lejos&lt;/A&gt;&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Mi perro Stinky pens&amp;#243; que estaba jugando y sali&amp;#243; corriendo tras ella. &amp;#161;Todo esto es mi culpa...!&lt;BR&gt;&lt;BR&gt;Stinky suele venir corriendo cuando hago sonar este silbato, pero no lo hace...&lt;BR&gt;&lt;BR&gt;Tengo mucho miedo por &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Quiero ir a buscarlo, pero mam&amp;#225; y pap&amp;#225; no me dejan salir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="142">
+        <Page social="1" voiceTypeId="0">[EN] (This must be Ameldas's doll. There are rags scattered all over the place. Perhaps the dog tore the doll apart?)&lt;br&gt;[ES] (Esta debe ser la mu&amp;#241;eca de Ameldas. Hay trapos esparcidos por todas partes. &amp;#191;Tal vez el perro destroz&amp;#243; la mu&amp;#241;eca?)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" prevId="4" villagerId="141">
+        <Page social="1" voiceTypeId="0">[EN] Woof!&lt;BR&gt;&lt;BR&gt;(The dog seems happy to see the doll.)&lt;NEXTPAGEBUTTON&gt;"There you are. Let's get you home."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Guau!&lt;BR&gt;&lt;BR&gt;(El perro parece feliz de ver la mu&amp;#241;eca.)&lt;NEXTPAGEBUTTON&gt;"There you are. Let's get you home."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] Woof! Woof!&lt;BR&gt;&lt;BR&gt;(The dog wags his tail.)&lt;br&gt;[ES] &amp;#161;Guau! &amp;#161;Guau!&lt;BR&gt;&lt;BR&gt;(El perro menea la cola.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="510" villagerId="30">
+        <Page social="0">[EN] Woof! Woof!&lt;br&gt;[ES] &amp;#161;Guau! &amp;#161;Guau!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="38" prevId="5" villagerId="117">
+        <Page social="4" voiceTypeId="0">[EN] You brought him back!&lt;BR&gt;&lt;BR&gt;Thank you so much, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;But...did you find my doll?&lt;NEXTPAGEBUTTON&gt;"I think this is your doll."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Lo trajiste de vuelta!&lt;BR&gt;&lt;BR&gt;&amp;#161;Muchas gracias, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Pero... &amp;#191;encontraste mi mu&amp;#241;eca?&lt;NEXTPAGEBUTTON&gt;"I think this is your doll."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">[EN] What? Did Stinky do that?&lt;BR&gt;&lt;BR&gt;Is that why he didn't come back?&lt;BR&gt;&lt;BR&gt;Oh, Stinky! I'm so sorry!&lt;BR&gt;&lt;BR&gt;No! I won't cry.&lt;BR&gt;I'm going to be good from now on!&lt;BR&gt;I'm just glad you came back.&lt;BR&gt;&lt;BR&gt;What am I going to do with my doll now...?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233;? &amp;#191;Stinky hizo eso?&lt;BR&gt;&lt;BR&gt;&amp;#191;Es por eso que no regres&amp;#243;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Oh, Stinky! &amp;#161;Lo siento mucho!&lt;BR&gt;&lt;BR&gt;&amp;#161;No! No voy a llorar.&lt;BR&gt;&amp;#161;Voy a portarme bien de ahora en adelante!&lt;BR&gt;Me alegro mucho de que hayas vuelto.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; voy a hacer con mi mu&amp;#241;eca ahora...?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="38" villagerId="117">
+        <Page social="0">[EN] Did you find my doll, too?&lt;br&gt;[ES] &amp;#191;Tambi&amp;#233;n encontraste mi mu&amp;#241;eca?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="4">[EN] {@LinkCreature:250#3001#Derik} is asking after you.&lt;BR&gt;&lt;BR&gt;Seems he has enough argons to share.&lt;br&gt;[ES] {@LinkCreature:250#3001#Derik} est&amp;#225; preguntando por ti.&lt;BR&gt;&lt;BR&gt;Parece que tiene suficientes argons como para compartir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">[EN] Damned good to see you, &lt;PCNAME&gt;. So many argons, so little time!&lt;BR&gt;&lt;BR&gt;I'd stalk them myself if I could, but I figure someone should get a shot at them!&lt;br&gt;[ES] &amp;#161;Qu&amp;#233; alegr&amp;#237;a verte, &lt;PCNAME&gt;. Tantos argons y tan poco tiempo!&lt;BR&gt;&lt;BR&gt;&amp;#161;Los acechar&amp;#237;a yo mismo si pudiera, pero supongo que alguien m&amp;#225;s deber&amp;#237;a tener la oportunidad!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">[EN] Graceful and fast.&lt;BR&gt;&lt;BR&gt;Ahem...I was talking about the prowlers!&lt;br&gt;[ES] Gr&amp;#225;cil y r&amp;#225;pido.&lt;BR&gt;&lt;BR&gt;Ejem... &amp;#161;estaba hablando de los merodeadores!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="250" villagerId="3001">
+        <Page social="0">[EN] Stay sharp, even if you've hunted something a dozen times.&lt;BR&gt;&lt;BR&gt;Complacency kills!&lt;br&gt;[ES] Mantente alerta, incluso si has cazado algo una docena de veces.&lt;BR&gt;&lt;BR&gt;&amp;#161;La complacencia mata!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="250" prevId="7" villagerId="3001">
+        <Page social="4">[EN] Not the most beautiful argons, but still gratifying to bring 'em down, eh?&lt;br&gt;[ES] No son los argons m&amp;#225;s hermosos, pero aun as&amp;#237; es gratificante acabar con ellos, &amp;#191;eh?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="250" villagerId="3001">
+        <Page social="0">[EN] Watch yourself.&lt;BR&gt;&lt;BR&gt;They attack from below.&lt;br&gt;[ES] Cu&amp;#237;date.&lt;BR&gt;&lt;BR&gt;Atacan desde abajo.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="250" prevId="9" villagerId="3001">
+        <Page social="4">[EN] Must be a bit dull for you, eh? Or is this good practice for the front lines?&lt;br&gt;[ES] &amp;#191;Debe ser un poco aburrido para ti, eh? &amp;#191;O es esto un buen entrenamiento para las l&amp;#237;neas del frente?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="250" villagerId="3001">
+        <Page social="0">[EN] Stay alert.&lt;BR&gt;&lt;BR&gt;It's when you're fighting familiar foes that you slip up.&lt;br&gt;[ES] Mantente alerta.&lt;BR&gt;&lt;BR&gt;Es cuando luchas contra enemigos conocidos que te descuidas.</Page>
+    </Text>
+</QuestDialog>

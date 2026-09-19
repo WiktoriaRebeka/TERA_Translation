@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">[EN] You here to help?&lt;NEXTPAGEBUTTON&gt;"Sure. What can I do for you?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Est&amp;#225;s aqu&amp;#237; para ayudar?&lt;NEXTPAGEBUTTON&gt;"Sure. What can I do for you?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Can you lend a hand to {@LinkCreature:63#3002#Taratia}? She's trying to track down some crafting materials we desperately need.&lt;br&gt;[ES] &amp;#191;Puedes echarle una mano a {@LinkCreature:63#3002#Taratia}? Est&amp;#225; intentando rastrear algunos materiales de artesan&amp;#237;a que necesitamos desesperadamente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">[EN] So, {@LinkCreature:63#3003#Elthienne} sent someone to help me, eh? About time!&lt;BR&gt;&lt;BR&gt;For days we've been telling customers to look elsewhere for items we should have in stock.&lt;BR&gt;&lt;BR&gt;Can you help me get what I need?&lt;br&gt;[ES] As&amp;#237; que {@LinkCreature:63#3003#Elthienne} envi&amp;#243; a alguien para ayudarme, &amp;#191;eh? &amp;#161;Ya era hora!&lt;BR&gt;&lt;BR&gt;Durante d&amp;#237;as le hemos estado diciendo a los clientes que busquen en otro lado los objetos que deber&amp;#237;amos tener en stock.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ayudarme a conseguir lo que necesito?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="4" villagerId="3002">
+        <Page social="5">[EN] Thanks. Now I can fill all those back orders.&lt;BR&gt;&lt;BR&gt;Thank {@LinkCreature:63#3003#Elthienne} for sending you my way. Then pants her and kick her in the shins. Joking!&lt;br&gt;[ES] Gracias. Ahora puedo completar todos esos pedidos pendientes.&lt;BR&gt;&lt;BR&gt;Agradece a {@LinkCreature:63#3003#Elthienne} que te haya enviado hacia m&amp;#237;. &amp;#161;Luego b&amp;#225;jale los pantalones y pat&amp;#233;ala en las espinillas! &amp;#161;Es broma!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Do you have the {@RawItem:206801}?&lt;br&gt;[ES] &amp;#191;Tienes el objeto {@RawItem:206801}?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="5" villagerId="3002">
+        <Page social="5">[EN] Thanks. Now I can fill all those back orders.&lt;BR&gt;&lt;BR&gt;Thank {@LinkCreature:63#3003#Elthienne} for sending you my way. Then pants her and kick her in the shins. Joking!&lt;br&gt;[ES] Gracias. Ahora puedo completar todos esos pedidos pendientes.&lt;BR&gt;&lt;BR&gt;Agradece a {@LinkCreature:63#3003#Elthienne} que te haya enviado hacia m&amp;#237;. &amp;#161;Luego b&amp;#225;jale los pantalones y pat&amp;#233;ala en las espinillas! &amp;#161;Es broma!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Do you have the {@RawItem:206802}?&lt;br&gt;[ES] &amp;#191;Tienes el objeto {@RawItem:206802}?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] Thanks. Now I can fill all those back orders.&lt;BR&gt;&lt;BR&gt;Thank {@LinkCreature:63#3003#Elthienne} for sending you my way. Then pants her and kick her in the shins. Joking!&lt;br&gt;[ES] Gracias. Ahora puedo completar todos esos pedidos pendientes.&lt;BR&gt;&lt;BR&gt;Agradece a {@LinkCreature:63#3003#Elthienne} que te haya enviado hacia m&amp;#237;. &amp;#161;Luego b&amp;#225;jale los pantalones y pat&amp;#233;ala en las espinillas! &amp;#161;Es broma!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Do you have the {@RawItem:206803}?&lt;br&gt;[ES] &amp;#191;Tienes el objeto {@RawItem:206803}?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="7" villagerId="3002">
+        <Page social="5">[EN] Thanks. Now I can fill all those back orders.&lt;BR&gt;&lt;BR&gt;Thank {@LinkCreature:63#3003#Elthienne} for sending you my way. Then pants her and kick her in the shins. Joking!&lt;br&gt;[ES] Gracias. Ahora puedo completar todos esos pedidos pendientes.&lt;BR&gt;&lt;BR&gt;Agradece a {@LinkCreature:63#3003#Elthienne} que te haya enviado hacia m&amp;#237;. &amp;#161;Luego b&amp;#225;jale los pantalones y pat&amp;#233;ala en las espinillas! &amp;#161;Es broma!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Do you have the {@RawItem:206804}?&lt;br&gt;[ES] &amp;#191;Tienes el objeto {@RawItem:206804}?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">[EN] Thanks. Now I can fill all those back orders.&lt;BR&gt;&lt;BR&gt;Thank {@LinkCreature:63#3003#Elthienne} for sending you my way. Then pants her and kick her in the shins. Joking!&lt;br&gt;[ES] Gracias. Ahora puedo completar todos esos pedidos pendientes.&lt;BR&gt;&lt;BR&gt;Agradece a {@LinkCreature:63#3003#Elthienne} que te haya enviado hacia m&amp;#237;. &amp;#161;Luego b&amp;#225;jale los pantalones y pat&amp;#233;ala en las espinillas! &amp;#161;Es broma!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Do you have the {@RawItem:206805}?&lt;br&gt;[ES] &amp;#191;Tienes el objeto {@RawItem:206805}?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="11" villagerId="3003">
+        <Page social="4">[EN] &lt;PCNAME&gt;, you're entirely too helpful. Come back and be "too helpful" any time!&lt;BR&gt;&lt;BR&gt;Seriously, we're lucky to have you around.&lt;br&gt;[ES] &lt;PCNAME&gt;, eres demasiado servicial. &amp;#161;Regresa y s&amp;#233; &quot;demasiado servicial&quot; cuando quieras!&lt;BR&gt;&lt;BR&gt;En serio, tenemos suerte de tenerte por aqu&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

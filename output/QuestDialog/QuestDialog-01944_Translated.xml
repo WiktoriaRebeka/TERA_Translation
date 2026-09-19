@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">[EN] I'm looking for a component for this machine, a small cogwheel. And when I say "small," I'm not kidding. It's so tiny that no ordinary artisan can make it.&lt;BR&gt;&lt;BR&gt;Only one place has such detail work: Lily in the Kingdom of Dwarves.&lt;BR&gt;&lt;BR&gt;If you defeat the forest guardians in Lily and talk to the village chief, he'll give you a small cogwheel. Please bring it to me safely.&lt;br&gt;[ES] Estoy buscando un componente para esta m&amp;#225;quina, un peque&amp;#241;o engranaje. Y cuando digo &quot;peque&amp;#241;o&quot;, no bromeo. Es tan diminuto que ning&amp;#250;n artesano com&amp;#250;n puede fabricarlo.&lt;BR&gt;&lt;BR&gt;Solo un lugar tiene un trabajo de tal detalle: Lily en el Kingdom of Dwarves.&lt;BR&gt;&lt;BR&gt;Si derrotas a los forest guardians en Lily y hablas con el jefe de la aldea, te dar&amp;#225; un peque&amp;#241;o engranaje. Por favor, tr&amp;#225;emelo a salvo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="445" prevId="2" villagerId="122">
+        <Page social="4">[EN] Thank you, great &lt;PCCLASS:lcase&gt;, for getting rid of the forest guardians. Here, take this small cogwheel. And if you ever return to our kingdom, know that we'd appreciate help with the denizens of the forest.&lt;br&gt;[ES] Gracias, gran &lt;PCCLASS:lcase&gt;, por deshacerte de los forest guardians. Toma, este peque&amp;#241;o engranaje. Y si alguna vez regresas a nuestro reino, debes saber que apreciar&amp;#237;amos ayuda con los habitantes del bosque.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">[EN] Yes, this is it! It fits perfectly!&lt;BR&gt;&lt;BR&gt;You know, if I had more cogwheels, I could miniaturize everything. Mini this! Mini that! My inventions would be the smallest around!&lt;br&gt;[ES] &amp;#161;S&amp;#237;, este es! &amp;#161;Encaja a la perfecci&amp;#243;n!&lt;BR&gt;&lt;BR&gt;&amp;#191;Sabes? Si tuviera m&amp;#225;s engranajes, podr&amp;#237;a miniaturizarlo todo. &amp;#161;Mini esto! &amp;#161;Mini lo otro! &amp;#161;Mis inventos ser&amp;#237;an los m&amp;#225;s peque&amp;#241;os de todos!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" villagerId="1704">
+        <Page social="0">[EN] I need a small cogwheel. Please bring one from the dwarf instance dungeon.&lt;br&gt;[ES] Necesito un peque&amp;#241;o engranaje. Por favor, trae uno de la mazmorra de instancia de los enanos.</Page>
+    </Text>
+</QuestDialog>

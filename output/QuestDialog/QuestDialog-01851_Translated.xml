@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">[EN] Go to {@Rgn:45001$$Thrallhold} and visit {@LinkCreature:245#3511#Volvur} at {@Rgn:45009}.&lt;BR&gt;&lt;BR&gt;He's hit a snag in his investigation, and requested someone with your unique skill set.&lt;br&gt;[ES] Ve a {@Rgn:45001$$Thrallhold} y visita a {@LinkCreature:245#3511#Volvur} en {@Rgn:45009}.&lt;BR&gt;&lt;BR&gt;Ha tenido un tropiezo en su investigaci&amp;#243;n y ha solicitado a alguien con tus habilidades &amp;#250;nicas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="4">[EN] My research focuses on the link between the argons and the impact they make on the world. It's much more exciting than it sounds.&lt;BR&gt;&lt;BR&gt;I'll rely upon you to collect samples, particularly from things that might try to eat me.&lt;br&gt;[ES] Mi investigaci&amp;#243;n se centra en el v&amp;#237;nculo entre los argons y el impacto que causan en el mundo. Es mucho m&amp;#225;s emocionante de lo que suena.&lt;BR&gt;&lt;BR&gt;Contar&amp;#233; contigo para recolectar muestras, especialmente de cosas que puedan intentar comerme.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="4">[EN] Oh, these will do nicely.&lt;BR&gt;&lt;BR&gt;I appreciate your aid, as does the entire Invalesco.&lt;br&gt;[ES] Oh, estas servir&amp;#225;n a la perfecci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Aprecio tu ayuda, al igual que todo Invalesco.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" villagerId="3511">
+        <Page social="0">[EN] It's astonishing what you can learn from a creature's teeth. I'd like to focus on {@LinkCreature:45#3004#athakela stalkers}.&lt;BR&gt;&lt;BR&gt;Hunt them and bring me their fangs.&lt;br&gt;[ES] Es asombroso lo que se puede aprender de los dientes de una criatura. Me gustar&amp;#237;a centrarme en los {@LinkCreature:45#3004#athakela stalkers}.&lt;BR&gt;&lt;BR&gt;C&amp;#225;zalos y tr&amp;#225;eme sus colmillos.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="7" villagerId="3511">
+        <Page social="4">[EN] Well, this is both fascinating and disgusting.&lt;BR&gt;&lt;BR&gt;Oh, well. No one promised me clean fingers.&lt;br&gt;[ES] Bueno, esto es tanto fascinante como repugnante.&lt;BR&gt;&lt;BR&gt;En fin. Nadie me prometi&amp;#243; dedos limpios.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" villagerId="3511">
+        <Page social="0">[EN] I'm curious about the biological changes to {@LinkCreature:45#4002#argonomorph tuwangis}.&lt;BR&gt;&lt;BR&gt;Bring me samples of their blood for comparison.&lt;br&gt;[ES] Tengo curiosidad por los cambios biol&amp;#243;gicos en los {@LinkCreature:45#4002#argonomorph tuwangis}.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme muestras de su sangre para comparar.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="9" villagerId="3511">
+        <Page social="4">[EN] Ah, yes. Argonite ore.&lt;BR&gt;&lt;BR&gt;It's not really made of argons, of course, but I suspect their presence impacted the mineral all the same.&lt;br&gt;[ES] Ah, s&amp;#237;. Mineral de argonite.&lt;BR&gt;&lt;BR&gt;Por supuesto, no est&amp;#225; hecho realmente de argons, pero sospecho que su presencia afect&amp;#243; al mineral de todos modos.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" villagerId="3511">
+        <Page social="0">[EN] I'd like samples of argonite ore. It's a relatively rare mineral that the Invalesco believes is tied to the work the argons did here.&lt;BR&gt;&lt;BR&gt;Please collect some for me.&lt;br&gt;[ES] Quiero muestras de mineral de argonite. Es un mineral relativamente raro que Invalesco cree que est&amp;#225; ligado al trabajo que los argons hicieron aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Por favor, recolecta algunos para m&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

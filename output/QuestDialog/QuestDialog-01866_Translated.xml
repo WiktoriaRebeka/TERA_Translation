@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="4">[EN] The argons pour out of {@Rgn:48005$$Valgurati Stronghold} to ravage our troops.&lt;BR&gt;&lt;BR&gt;I want you to go over there. Meet with {@LinkCreature:248#3010#Orveras} and see if you can delay the argons.&lt;BR&gt;&lt;BR&gt;It might just give us an opening to strike back.&lt;br&gt;[ES] Los argons salen a raudales de {@Rgn:48005$$Valgurati Stronghold} para arrasar a nuestras tropas.&lt;BR&gt;&lt;BR&gt;Quiero que vayas all&amp;#225;. Re&amp;#250;nete con {@LinkCreature:248#3010#Orveras} y ve si puedes retrasar a los argons.&lt;BR&gt;&lt;BR&gt;Podr&amp;#237;a darnos una oportunidad para contraatacar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="4">[EN] From here we strike at these cursed argons. We also watch and learn.&lt;NEXTPAGEBUTTON&gt;"What did you find?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Desde aqu&amp;#237; atacamos a estos malditos argons. Tambi&amp;#233;n observamos y aprendemos.&lt;NEXTPAGEBUTTON&gt;"What did you find?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] If you take out the {@LinkCreature:48#6#vulnaq threshers} or {@LinkCreature:48#400#zolnaj transporters}, the argons won't be able to replace their losses anytime soon.&lt;BR&gt;&lt;BR&gt;The endless stream of killers is one of their chief advantages. Interrupting it seems like a good idea.&lt;br&gt;[ES] Si eliminas a los {@LinkCreature:48#6#vulnaq threshers} o {@LinkCreature:48#400#zolnaj transporters}, los argons no podr&amp;#225;n reemplazar sus bajas pronto.&lt;BR&gt;&lt;BR&gt;El flujo interminable de asesinos es una de sus principales ventajas. Interrumpirlo parece una buena idea.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3010">
+        <Page social="4">[EN] Hah! That feels good, like we did something that mattered!&lt;BR&gt;&lt;BR&gt;I'll send word of your deeds to Zulfikar Fortress. Long live the Shariar!&lt;br&gt;[ES] &amp;#161;Ja! &amp;#161;Eso se siente bien, como si hubi&amp;#233;ramos hecho algo que importaba!&lt;BR&gt;&lt;BR&gt;Enviar&amp;#233; noticias de tus haza&amp;#241;as a Zulfikar Fortress. &amp;#161;Larga vida a los Shariar!</Page>
+    </Text>
+</QuestDialog>

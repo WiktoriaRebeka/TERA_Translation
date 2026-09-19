@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[EN] [Call of the Shariar]&lt;BR&gt;&lt;BR&gt;Report to {@LinkCreature:78#3002#Kalkzak} at {@Rgn:78001$$Zulfikar Fortress}.&lt;BR&gt;&lt;BR&gt;The Shariar would like to work with you on missions of mutual interest.&lt;br&gt;[ES] [Call of the Shariar]&lt;BR&gt;&lt;BR&gt;Reporta con {@LinkCreature:78#3002#Kalkzak} en {@Rgn:78001$$Zulfikar Fortress}.&lt;BR&gt;&lt;BR&gt;Los Shariar quieren trabajar contigo en misiones de inter&amp;#233;s mutuo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3002">
+        <Page social="4">[EN] I'm the Shariar speaker for {@Rgn:78001$$Zulfikar Fortress}.&lt;BR&gt;&lt;BR&gt;Your fierce reputation put you at the top of the list of soldiers we want to work with.&lt;BR&gt;&lt;BR&gt;With your aid, we believe the Shariar can vanquish the argons and take back our world from those monsters. What do you say?&lt;br&gt;[ES] Soy el portavoz de los Shariar para {@Rgn:78001$$Zulfikar Fortress}.&lt;BR&gt;&lt;BR&gt;Tu feroz reputaci&amp;#243;n te puso al principio de la lista de soldados con los que queremos trabajar.&lt;BR&gt;&lt;BR&gt;Con tu ayuda, creemos que los Shariar podr&amp;#225;n vencer a los argons y recuperar nuestro mundo de esos monstruos. &amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+</QuestDialog>

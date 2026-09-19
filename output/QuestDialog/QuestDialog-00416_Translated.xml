@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] To recover the missing pages of the book, you need to defeat another five enemies.&lt;br&gt;[ES] Para recuperar las p&amp;#225;ginas faltantes del libro, necesitas derrotar a otros cinco enemigos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="0" villagerId="1017">
+        <Page social="4">[EN] You did it! We have the second chapter of the tale about dark riches! It looks like there's at least one more, though. Let's go.&lt;br&gt;[ES] &amp;#161;Lo lograste! &amp;#161;Tenemos el segundo cap&amp;#237;tulo de la historia sobre riquezas oscuras! Aunque parece que hay al menos uno m&amp;#225;s. Vamos.</Page>
+    </Text>
+</QuestDialog>

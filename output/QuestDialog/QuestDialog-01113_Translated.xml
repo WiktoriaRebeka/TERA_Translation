@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">[EN] We need to clean up some of the trash the argons left behind.&lt;BR&gt;&lt;BR&gt;Specifically, {@LinkCreature:47#4002#argonomorph naga wyrmlings}, {@LinkCreature:47#1002#argonomorph Tirkai grizzlies}, and {@LinkCreature:47#4003#argonomorph gula smashers} are making it hard to get from one place to another on the {@Rgn:47005$$Argon Frontier}.&lt;BR&gt;&lt;BR&gt;Thin them out for us, will you?&lt;br&gt;[ES] Necesitamos limpiar algo de la basura que los argons dejaron atr&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Espec&amp;#237;ficamente, {@LinkCreature:47#4002#argonomorph naga wyrmlings}, {@LinkCreature:47#1002#argonomorph Tirkai grizzlies} y {@LinkCreature:47#4003#argonomorph gula smashers} est&amp;#225;n dificultando el desplazamiento de un lugar a otro en {@Rgn:47005$$Argon Frontier}.&lt;BR&gt;&lt;BR&gt;Diezmarlos por nosotros, &amp;#191;quieres?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1005">
+        <Page social="5">[EN] We appreciate it, &lt;PCNAME&gt;.&lt;br&gt;[ES] Te lo agradecemos, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1005">
+        <Page social="0">[EN] I hope you haven't forgotten about hunting those {@LinkCreature:47#4002#argonomorph naga wyrmlings}, {@LinkCreature:47#1002#argonomorph Tirkai grizzlies}, and {@LinkCreature:47#4003#argonomorph gula smashers}. We need them gone.&lt;br&gt;[ES] Espero que no hayas olvidado cazar a esos {@LinkCreature:47#4002#argonomorph naga wyrmlings}, {@LinkCreature:47#1002#argonomorph Tirkai grizzlies} y {@LinkCreature:47#4003#argonomorph gula smashers}. Necesitamos que desaparezcan.</Page>
+    </Text>
+</QuestDialog>

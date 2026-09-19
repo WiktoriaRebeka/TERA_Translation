@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1008">
+        <Page social="4">[EN] The devas think they own this forest. I suppose they did before we got here, but that doesn't mean we let them keep it.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:3#20#Kulsilva}, his {@LinkCreature:3#300160#devan arcanists}, and their sporewalker pets are using some pretty dark magic to hold on to this place. I'd like to get a look at those amulets they wear, to see if they they hold a clue.&lt;BR&gt;&lt;BR&gt;Are you willing to bring me back a few?&lt;br&gt;[ES] Los devas creen que son due&amp;#241;os de este bosque. Supongo que lo eran antes de que lleg&amp;#225;ramos, pero eso no significa que vayamos a dej&amp;#225;rselo.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:3#20#Kulsilva}, sus {@LinkCreature:3#300160#devan arcanists} y sus mascotas sporewalker est&amp;#225;n usando magia bastante oscura para aferrarse a este lugar. Me gustar&amp;#237;a echar un vistazo a esos amuletos que llevan para ver si guardan alguna pista.&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s dispuesto a traerme unos cuantos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1008">
+        <Page social="4">[EN] These will do nicely. I'll see if I can use these foci to disrupt their necromantic power. That would go a long way to restoring Oblivion Woods.&lt;br&gt;[ES] Estos servir&amp;#225;n a la perfecci&amp;#243;n. Ver&amp;#233; si puedo usar estos focos para interrumpir su poder nigrom&amp;#225;ntico. Eso ayudar&amp;#225; mucho a restaurar Oblivion Woods.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1008">
+        <Page social="0">[EN] You'll find them lurking in Deva Silva.&lt;br&gt;[ES] Los encontrar&amp;#225;s merodeando en Deva Silva.</Page>
+    </Text>
+</QuestDialog>

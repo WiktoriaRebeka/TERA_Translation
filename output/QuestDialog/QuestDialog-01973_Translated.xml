@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="9905">
+        <Page social="2" voiceTypeId="0">[EN] Cold...it's so cold.&lt;BR&gt;&lt;BR&gt;All I can think of right now is a warm bowl of Fish Soup.&lt;BR&gt;&lt;BR&gt;I'd make it myself, but I can't leave my post to gather the necessary ingredients.&lt;BR&gt;&lt;BR&gt;Say, if I give you the recipe, would you make some for me?&lt;br&gt;[ES] Fr&amp;#237;o... hace tanto fr&amp;#237;o.&lt;BR&gt;&lt;BR&gt;Todo en lo que puedo pensar ahora mismo es en un plato caliente de Fish Soup.&lt;BR&gt;&lt;BR&gt;Lo har&amp;#237;a yo mismo, pero no puedo dejar mi puesto para juntar los ingredientes necesarios.&lt;BR&gt;&lt;BR&gt;Dime, si te doy la receta, &amp;#191;me preparar&amp;#237;as un poco?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Ainve asked &lt;PCNAME&gt; for help making a refreshing beverage. After catching a Silver Trout, Jakren was able to brew a special beer.&lt;br&gt;[ES] Ainve le pidi&amp;#243; ayuda a &lt;PCNAME&gt; para preparar una bebida refrescante. Tras atrapar un Silver Trout, Jakren pudo preparar una cerveza especial.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="1" villagerId="9905">
+        <Page social="4" voiceTypeId="0">[EN] Thank you!&lt;BR&gt;Thank you!&lt;br&gt;[ES] &amp;#161;Gracias!&lt;BR&gt;&amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="9905">
+        <Page social="0">[EN] Is the soup ready?&lt;br&gt;[ES] &amp;#191;Est&amp;#225; lista la sopa?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="3" villagerId="9905">
+        <Page social="4" voiceTypeId="0">[EN] I really appreciate you helping me out with that soup, and I was wondering if you'd be willing to do me another favor.&lt;BR&gt;&lt;BR&gt;My friend Jakren is looking for some Silver Trout to brew a special beer.&lt;BR&gt;&lt;BR&gt;I promised him I'd get some after my shift, but now that you're here we can speed the process up a bit.&lt;BR&gt;&lt;BR&gt;Can you help us out?&lt;NEXTPAGEBUTTON&gt;"Actually, I can."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Realmente aprecio que me hayas ayudado con esa sopa, y me preguntaba si estar&amp;#237;as dispuesto a hacerme otro favor.&lt;BR&gt;&lt;BR&gt;Mi amigo Jakren est&amp;#225; buscando algo de Silver Trout para preparar una cerveza especial.&lt;BR&gt;&lt;BR&gt;Le promet&amp;#237; que conseguir&amp;#237;a un poco despu&amp;#233;s de mi turno, pero ahora que est&amp;#225;s aqu&amp;#237; podemos acelerar un poco el proceso.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ayudarnos?&lt;NEXTPAGEBUTTON&gt;"Actually, I can."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] Go straight north and you'll see a patch of Crane Flowers.&lt;BR&gt;&lt;BR&gt;Silver Trout can't resist the stuff!&lt;br&gt;[ES] Ve derecho hacia el norte y ver&amp;#225;s un grupo de Crane Flowers.&lt;BR&gt;&lt;BR&gt;&amp;#161;El Silver Trout no puede resistirse a eso!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="83" prevId="5" villagerId="9905">
+        <Page social="4" voiceTypeId="0">[EN] You got the flower!&lt;BR&gt;Good work. Now, crush the flower into juice and spread it evenly over your bait.&lt;BR&gt;&lt;BR&gt;You'll have success in no time.&lt;br&gt;[ES] &amp;#161;Conseguiste la flor!&lt;BR&gt;Buen trabajo. Ahora, tritura la flor hasta hacer jugo y esparce el jugo de manera uniforme sobre tu carnada.&lt;BR&gt;&lt;BR&gt;Tendr&amp;#225;s &amp;#233;xito en poco tiempo.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="83" prevId="6" villagerId="9905">
+        <Page social="0" voiceTypeId="0">[EN] You caught the Silver Trout! Now we're ready. This shouldn't take too long.&lt;br&gt;[ES] &amp;#161;Atrapaste el Silver Trout! Ahora estamos listos. Esto no deber&amp;#237;a tomar mucho tiempo.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="83" villagerId="9905">
+        <Page social="0">[EN] Any luck with the Silver Trout?&lt;BR&gt;Just spread the juice on your bait and we'll be drinking beer in no time.&lt;br&gt;[ES] &amp;#191;Alguna suerte con el Silver Trout?&lt;BR&gt;Solo esparce el jugo en tu carnada y estaremos tomando cerveza en un instante.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="83" prevId="7" villagerId="9905">
+        <Page social="4" voiceTypeId="0">[EN] Thank me? No, thank you!&lt;BR&gt;&lt;BR&gt;Here, have a beer!&lt;br&gt;[ES] &amp;#191;Agradecerme a m&amp;#237;? No, &amp;#161;gracias a ti!&lt;BR&gt;&lt;BR&gt;&amp;#161;Toma, ten una cerveza!</Page>
+    </Text>
+</QuestDialog>

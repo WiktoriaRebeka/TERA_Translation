@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">[EN] You made a dish and gave it to Melsa.&lt;br&gt;[ES] Preparaste un platillo y se lo diste a Melsa.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="4">[EN] Welcome back, &lt;PCNAME&gt;! Came back to Rootstock for some more fun, eh?&lt;BR&gt;&lt;BR&gt;Any chance you can you come back later? I'm kind of swamped; we ran out of food last night, so I need to make a lot more today.&lt;NEXTPAGEBUTTON&gt;"Anything I can do to help?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Bienvenido de nuevo, &lt;PCNAME&gt;! &amp;#191;Regresaste a Rootstock por m&amp;#225;s diversi&amp;#243;n, eh?&lt;BR&gt;&lt;BR&gt;&amp;#191;Hay alguna posibilidad de que vuelvas m&amp;#225;s tarde? Estoy algo abrumado; nos quedamos sin comida anoche, as&amp;#237; que necesito preparar mucha m&amp;#225;s hoy.&lt;NEXTPAGEBUTTON&gt;"Anything I can do to help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Oh, my! Are you sure? Yes! Absolutely! I already know you're a great cook, &lt;PCNAME&gt;, so you'd be a big help!&lt;br&gt;[ES] &amp;#161;Vaya! &amp;#191;Est&amp;#225;s seguro? &amp;#161;S&amp;#237;! &amp;#161;Absolutamente! Ya s&amp;#233; que eres un gran cocinero, &lt;PCNAME&gt;, &amp;#161;as&amp;#237; que ser&amp;#237;as de gran ayuda!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">[EN] For now, I don't need anything too complex&amp;#8212;but I don't have time to do it myself. &lt;NEXTPAGEBUTTON&gt;"Just tell me what you need."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Por ahora, no necesito nada demasiado complejo, pero no tengo tiempo de hacerlo yo mismo. &lt;NEXTPAGEBUTTON&gt;"Just tell me what you need."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">[EN] Popped cobseed was extra-popular yesterday, so how about you make up a batch of that?&lt;br&gt;[ES] El cobseed reventado fue extra popular ayer, as&amp;#237; que &amp;#191;qu&amp;#233; tal si preparas un lote de eso?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">[EN] The mudroot salad went over really well, so I could use some more of that!&lt;br&gt;[ES] &amp;#161;La ensalada de mudroot tuvo mucho &amp;#233;xito, as&amp;#237; que me vendr&amp;#237;a bien un poco m&amp;#225;s!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">[EN] Pigling is always a big hit. Fire up the grill!&lt;br&gt;[ES] El pigling siempre es un &amp;#233;xito rotundo. &amp;#161;Enciende la parrilla!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">[EN] Oh my, that's some savory cobseed! Nice and salty, too, so we'll sell a lot of root beer with this!&lt;BR&gt;&lt;BR&gt;Hey, &lt;PCNAME&gt;, since you helped me, let me give you this. You can use it anytime. &lt;NEXTPAGEBUTTON&gt;"I didn't do much."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Vaya, qu&amp;#233; cobseed tan sabroso! &amp;#161;Bien salado tambi&amp;#233;n, as&amp;#237; que venderemos mucha cerveza de ra&amp;#237;z con esto!&lt;BR&gt;&lt;BR&gt;Oye, &lt;PCNAME&gt;, ya que me ayudaste, d&amp;#233;jame darte esto. Puedes usarlo cuando quieras. &lt;NEXTPAGEBUTTON&gt;"I didn't do much."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" villagerId="7000">
+        <Page social="0">[EN] Don't forget: Always keep the recipe handy, and you can't go wrong!&lt;br&gt;[ES] No lo olvides: ten siempre la receta a la mano y no te equivocar&amp;#225;s.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">[EN] You made enough mudroot salad to feed an army, &lt;PCNAME&gt;! Good work!&lt;BR&gt;&lt;BR&gt;Listen: Since you helped me, let me give you this. You can use it anytime. &lt;NEXTPAGEBUTTON&gt;"I didn't do much."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Preparaste suficiente ensalada de mudroot para alimentar a un ej&amp;#233;rcito, &lt;PCNAME&gt;! &amp;#161;Buen trabajo!&lt;BR&gt;&lt;BR&gt;Escucha: Ya que me ayudaste, d&amp;#233;jame darte esto. Puedes usarlo cuando quieras. &lt;NEXTPAGEBUTTON&gt;"I didn't do much."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" villagerId="7000">
+        <Page social="0">[EN] When in doubt, always check the recipe.&lt;br&gt;[ES] Cuando tengas dudas, consulta siempre la receta.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">[EN] I don't know what it is about monster fights that makes people hungry for grilled pigling, but this should satisfy them!&lt;BR&gt;&lt;BR&gt;Hey, &lt;PCNAME&gt;, since you helped me, let me give you this. You can use it anytime. &lt;NEXTPAGEBUTTON&gt;"I didn't do much."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No s&amp;#233; qu&amp;#233; tienen las peleas contra monstruos que hacen que la gente quiera pigling a la parrilla, &amp;#161;pero esto deber&amp;#237;a satisfacerlos!&lt;BR&gt;&lt;BR&gt;Oye, &lt;PCNAME&gt;, ya que me ayudaste, d&amp;#233;jame darte esto. Puedes usarlo cuando quieras. &lt;NEXTPAGEBUTTON&gt;"I didn't do much."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="219" villagerId="7000">
+        <Page social="0">[EN] When in doubt, check the recipe. That's my secret!&lt;br&gt;[ES] Cuando tengas dudas, consulta la receta. &amp;#161;Ese es mi secreto!</Page>
+    </Text>
+</QuestDialog>

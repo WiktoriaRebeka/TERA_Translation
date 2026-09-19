@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1020">
+        <Page social="4">[EN] Whatever those mekonaris are doing is monstrous.&lt;BR&gt;&lt;BR&gt;Those spectral legates? Souls tortured into feeding on pain and suffering. They hunt down the freshly dead so they can't return to the Dream.&lt;BR&gt;&lt;BR&gt;Maybe Killian summoned them. Maybe they just followed the food. Whichever it is, you must stop their feasting.&lt;br&gt;[ES] Lo que sea que est&amp;#233;n haciendo esos mekonaris es monstruoso.&lt;BR&gt;&lt;BR&gt;&amp;#191;Esos legados espectrales? Almas torturadas para alimentarse del dolor y el sufrimiento. Cazan a los reci&amp;#233;n muertos para que no puedan regresar al Sue&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Tal vez Killian los invoc&amp;#243;. Tal vez solo siguieron la comida. Sea como sea, debes detener su fest&amp;#237;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1020">
+        <Page social="4">[EN] Deft work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Thanks! Those unnatural things were turning my whiskers white!&lt;br&gt;[ES] &amp;#161;Habilidoso trabajo, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias! &amp;#161;Esas cosas antinaturales me estaban poniendo los bigotes blancos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1020">
+        <Page social="0">[EN] &lt;PCCLASS&gt;, ever see a spirit torn away from the Dream? You'd never sleep right again.&lt;BR&gt;&lt;BR&gt;Nature's weeping over this. Wipe out those spectres!&lt;br&gt;[ES] &lt;PCCLASS&gt;, &amp;#191;alguna vez has visto un esp&amp;#237;ritu arrancado del Sue&amp;#241;o? No volver&amp;#237;as a dormir bien en tu vida.&lt;BR&gt;&lt;BR&gt;La naturaleza est&amp;#225; llorando por esto. &amp;#161;Elimina a esos espectros!</Page>
+    </Text>
+</QuestDialog>

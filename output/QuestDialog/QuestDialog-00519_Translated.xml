@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1006">
+        <Page social="4">[EN] Your first job down here is going to be to kill the melee fighters patrolling the Halls of Utterdark. The {@LinkCreature:20#30120100#devan outriders}, {@LinkCreature:20#30120101#assassins}, and {@LinkCreature:20#30141000#lokian reapers} all carry scrips that {@LinkCreature:220#1029#Kurbain} will find of interest. He's researching the hierarchy of the organization that's taken over here. Give him any help you can.&lt;br&gt;[ES] Tu primer trabajo aqu&amp;#237; abajo ser&amp;#225; matar a los luchadores cuerpo a cuerpo que patrullan Halls of Utterdark. Los {@LinkCreature:20#30120100#devan outriders}, {@LinkCreature:20#30120101#assassins} y {@LinkCreature:20#30141000#lokian reapers} llevan vales que {@LinkCreature:220#1029#Kurbain} encontrar&amp;#225; de inter&amp;#233;s. &amp;#201;l est&amp;#225; investigando la jerarqu&amp;#237;a de la organizaci&amp;#243;n que se ha apoderado de este lugar. Br&amp;#237;ndale toda la ayuda que puedas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1029">
+        <Page social="4">[EN] Oh, fantastic, I needed more of these.&lt;BR&gt;&lt;BR&gt;You said Arthgal sent you here? Good man. He knows I've needed help here for some time.&lt;br&gt;[ES] Oh, fant&amp;#225;stico, necesitaba m&amp;#225;s de estos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Dijiste que Arthgal te envi&amp;#243; aqu&amp;#237;? Buen hombre. Sabe que he necesitado ayuda aqu&amp;#237; durante alg&amp;#250;n tiempo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1029">
+        <Page social="0">[EN] Are you here for something?&lt;br&gt;[ES] &amp;#191;Vienes por algo?</Page>
+    </Text>
+</QuestDialog>

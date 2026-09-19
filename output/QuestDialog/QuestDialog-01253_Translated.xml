@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="4">[EN] We need backup for north Habere. So far they've been able to hold off Thulsa's army, but they're hanging by a thread.&lt;BR&gt;&lt;BR&gt;Sichel at the northern gate can direct you to the Remote Lodge. May Kaia bless you.&lt;br&gt;[ES] Necesitamos refuerzos para el norte de Habere. Hasta ahora han podido contener al ej&amp;#233;rcito de Thulsa, pero est&amp;#225;n de por medio de un hilo.&lt;BR&gt;&lt;BR&gt;Sichel en la puerta norte puede indicarte el camino al Remote Lodge. Que Kaia te bendiga.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1003">
+        <Page social="4">[EN] This road takes you northeast to the Remote Lodge.&lt;BR&gt;&lt;BR&gt;It's the only way to access the lodge, and it's guarded by undead lancers.&lt;BR&gt;&lt;BR&gt;If you defeat the lancers, however, it'll relieve us of a great burden.&lt;br&gt;[ES] Este camino te lleva hacia el noreste hasta el Remote Lodge.&lt;BR&gt;&lt;BR&gt;Es la &amp;#250;nica forma de acceder al refugio, y est&amp;#225; custodiado por lanceros no muertos.&lt;BR&gt;&lt;BR&gt;Si vences a los lanceros, sin embargo, nos quitar&amp;#225;s un gran peso de encima.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1001">
+        <Page social="4">[EN] Wow, welcome! Thank you for coming all the way through piles of rotten corpses.&lt;BR&gt;&lt;BR&gt;I'm Prefect Khubyar. Nice to meet you, &lt;PCCLASS:lcase&gt;!&lt;br&gt;[ES] &amp;#161;Guau, bienvenido! Gracias por venir atravesando montones de cad&amp;#225;veres podridos.&lt;BR&gt;&lt;BR&gt;Soy el Prefecto Khubyar. &amp;#161;Mucho gusto, &lt;PCCLASS:lcase&gt;!</Page>
+    </Text>
+</QuestDialog>

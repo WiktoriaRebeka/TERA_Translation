@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1039">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1039">
+        <Page social="11">[EN] They sent me down here to see whether the argons were fighting everything, or just us.&lt;BR&gt;&lt;BR&gt;Yeah, it's more a punishment than an assignment, but whatever.&lt;BR&gt;&lt;BR&gt;I got this far hiding from the monsters, but just ahead of us are these wolf-like argons called "athakelas." I'm no match for an argon, much less a wolf-argon, but you...you can probably take 'em!&lt;br&gt;[ES] Me enviaron aqu&amp;#237; abajo para ver si los argons estaban luchando contra todos o solo contra nosotros.&lt;BR&gt;&lt;BR&gt;S&amp;#237;, es m&amp;#225;s un castigo que una misi&amp;#243;n, pero da igual.&lt;BR&gt;&lt;BR&gt;Llegu&amp;#233; hasta aqu&amp;#237; escondi&amp;#233;ndome de los monstruos, pero justo en frente de nosotros est&amp;#225;n estos argons con forma de lobo llamados &quot;athakelas&quot;. No soy rival para un argon, y mucho menos para un argon lobo, pero t&amp;#250;... &amp;#161;probablemente puedas con ellos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1018">
+        <Page social="18">[EN] Argons, eh?&lt;BR&gt;&lt;BR&gt;If we didn't need reinforcements before, we sure need them now.&lt;BR&gt;&lt;BR&gt;And your most fervent prayers wouldn't hurt, either.&lt;br&gt;[ES] &amp;#191;Argons, eh?&lt;BR&gt;&lt;BR&gt;Si no necesit&amp;#225;bamos refuerzos antes, seguro que los necesitamos ahora.&lt;BR&gt;&lt;BR&gt;Y tus oraciones m&amp;#225;s fervientes tampoco vendr&amp;#237;an mal.</Page>
+    </Text>
+</QuestDialog>

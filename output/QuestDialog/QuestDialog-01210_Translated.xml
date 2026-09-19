@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1004">
+        <Page social="0">[EN] Iron-Eating Monster Hunting&lt;br&gt;[ES] Caza de monstruos devoradores de hierro</Page>
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1004">
+        <Page social="4">[EN] You know {@LinkCreature:249#1013}, right?&lt;BR&gt;&lt;BR&gt;He went to study the {@Rgn:50008}. Alone.&lt;NEXTPAGEBUTTON&gt;"Is that dangerous?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Conoces a {@LinkCreature:249#1013}, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Se fue a estudiar {@Rgn:50008}. Solo.&lt;NEXTPAGEBUTTON&gt;"Is that dangerous?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Yes. The zariik spodas near the {@Rgn:50008} could tear him to pieces. He's not a soldier.&lt;BR&gt;&lt;BR&gt;If you can keep him alive, I'll owe you.&lt;br&gt;[ES] S&amp;#237;. Los zariik spodas cerca de {@Rgn:50008} podr&amp;#237;an hacerlo pedazos. &amp;#201;l no es un soldado.&lt;BR&gt;&lt;BR&gt;Si puedes mantenerlo con vida, te lo debo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1002">
+        <Page social="6">[EN] How amusing! I was just wondering how I'd get out of here alive, and then you suddenly show up!&lt;BR&gt;&lt;BR&gt;You possess a remarkable facility for fortuitous intervention.&lt;br&gt;[ES] &amp;#161;Qu&amp;#233; divertido! &amp;#161;Justo me estaba preguntando c&amp;#243;mo saldr&amp;#237;a de aqu&amp;#237; con vida y de repente apareces!&lt;BR&gt;&lt;BR&gt;Posees una habilidad notable para la intervenci&amp;#243;n fortuituita.</Page>
+    </Text>
+</QuestDialog>

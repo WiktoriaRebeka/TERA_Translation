@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="4">[EN] New plan, &lt;PCNAME&gt;. Here's some holy water. Sprinkle it on the dead bodies, and it'll return their souls to the Dream.&lt;BR&gt;&lt;BR&gt;That means no ghosts, no rising from the grave...none of that.&lt;BR&gt;&lt;BR&gt;One other thing: gather personal effects from the bodies if you can. We always try to give something back to the families. Helps the grieving process, I'm told.&lt;br&gt;[ES] Nuevo plan, &lt;PCNAME&gt;. Aqu&amp;#237; tienes un poco de agua bendita. Roc&amp;#237;ala sobre los cuerpos sin vida y eso devolver&amp;#225; sus almas al Sue&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Eso significa que no habr&amp;#225; fantasmas, ni resurgir de la tumba... nada de eso.&lt;BR&gt;&lt;BR&gt;Otra cosa: recoge efectos personales de los cuerpos si puedes. Siempre intentamos devolver algo a las familias. Me han dicho que ayuda en el proceso de duelo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1112">
+        <Page social="0">[EN] (The holy water fizzes and bubbles as you pour it over the corpse. The putrid odor of death fades.)&lt;NEXTPAGEBUTTON&gt;"Return to the Dream, friend."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] (El agua bendita hace efervescencia y burbujas mientras la viertes sobre el cad&amp;#225;ver. El f&amp;#233;tido olor de la muerte se desvanece.)&lt;NEXTPAGEBUTTON&gt;"Return to the Dream, friend."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] (You take the weapon from the body's side and the tags from around its neck.)&lt;br&gt;[ES] (Tomas el arma del costado del cuerpo y las placas de su cuello.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1114">
+        <Page social="0">[EN] (The holy water fizzes and bubbles as you pour it over the corpse. The putrid odor of death fades.)&lt;NEXTPAGEBUTTON&gt;"Return to the Dream, friend."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] (El agua bendita hace efervescencia y burbujas mientras la viertes sobre el cad&amp;#225;ver. El f&amp;#233;tido olor de la muerte se desvanece.)&lt;NEXTPAGEBUTTON&gt;"Return to the Dream, friend."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] (You take the weapon from the body's side and the tags from around its neck.)&lt;br&gt;[ES] (Tomas el arma del costado del cuerpo y las placas de su cuello.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="4" villagerId="1116">
+        <Page social="0">[EN] (The holy water fizzes and bubbles as you pour it over the corpse. The putrid odor of death fades.)&lt;NEXTPAGEBUTTON&gt;"Return to the Dream, friend."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] (El agua bendita hace efervescencia y burbujas mientras la viertes sobre el cad&amp;#225;ver. El f&amp;#233;tido olor de la muerte se desvanece.)&lt;NEXTPAGEBUTTON&gt;"Return to the Dream, friend."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] (You take the weapon from the body's side and the tags from around its neck.)&lt;br&gt;[ES] (Tomas el arma del costado del cuerpo y las placas de su cuello.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="204" prevId="5" villagerId="1110">
+        <Page social="4">[EN] All finished? And some personal effect for the families?&lt;BR&gt;&lt;BR&gt;I'll send those off to Castanica straightaway. Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;For the federation!&lt;br&gt;[ES] &amp;#191;Todo listo? &amp;#191;Y algunos efectos personales para las familias?&lt;BR&gt;&lt;BR&gt;Se los enviar&amp;#233; a Castanica de inmediato. Gracias, &lt;BR&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Por la federaci&amp;#243;n!</Page>
+    </Text>
+</QuestDialog>

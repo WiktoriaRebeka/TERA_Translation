@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="4">[EN] The Hatchery is littered with the mummified bodies of our fallen soldiers. It's a pity that we've just left them here to rot&amp;#8212;but no more!&lt;BR&gt;&lt;BR&gt;Recover what bodies you can and bring them here.&lt;br&gt;[ES] The Hatchery est&amp;#225; repleto de los cuerpos momificados de nuestros soldados ca&amp;#237;dos. Es una pena que los hayamos dejado aqu&amp;#237; pudri&amp;#233;ndose, &amp;#161;pero ya no m&amp;#225;s!&lt;BR&gt;&lt;BR&gt;Recupera los cuerpos que puedas y tr&amp;#225;elos aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1025">
+        <Page social="0">[EN] Returning them to their families won't do the dead much good, but perhaps it'll ease the pain of those at home.&lt;BR&gt;&lt;BR&gt;Thanks for your help.&lt;br&gt;[ES] Devolv&amp;#233;rselos a sus familias no servir&amp;#225; de mucho para los muertos, pero tal vez alivie el dolor de los que est&amp;#225;n en casa.&lt;BR&gt;&lt;BR&gt;Gracias por tu ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1025">
+        <Page social="0">[EN] Help me do the right thing, &lt;PCNAME&gt;. Bring back our honored dead.&lt;br&gt;[ES] Ay&amp;#250;dame a hacer lo correcto, &lt;PCNAME&gt;. Trae de vuelta a nuestros honorables muertos.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1044">
+        <Page social="4">[EN] The creatures of this wood bond with the faeries, acting as companions and guardians both. They protect the fey against outsiders, even your federation.&lt;BR&gt;&lt;BR&gt;But since the epidemic started circulating, the gutripper sabertooths have turned against the healthy faeries, too!&lt;BR&gt;&lt;BR&gt;Could you trim them back for us?&lt;br&gt;[ES] Las criaturas de este bosque se vinculan con las hadas, actuando tanto como compa&amp;#241;eras como guardianes. Protegen a los fey contra los intrusos, incluso contra tu federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Pero desde que comenz&amp;#243; a circular la epidemia, &amp;#161;los gutripper sabertooths tambi&amp;#233;n se han vuelto contra las hadas sanas!&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as recortar su n&amp;#250;mero por nosotros?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1044">
+        <Page social="4">[EN] Thank you. I see fewer gutripper sabertooths around.&lt;BR&gt;&lt;BR&gt;I am both saddened and relieved. You did what had to be done.&lt;br&gt;[ES] Gracias. Veo menos gutripper sabertooths por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Me siento a la vez entristecido y aliviado. Hiciste lo que ten&amp;#237;a que hacerse.</Page>
+    </Text>
+</QuestDialog>

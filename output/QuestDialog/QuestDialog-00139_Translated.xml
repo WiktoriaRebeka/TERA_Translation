@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="5">[EN] We can't get our supplies. No supplies means no food. No food means no energy, and no energy means no chance of fighting off the Gutrends that are attacking us and taking our supplies!&lt;BR&gt;&lt;BR&gt;If we could just get some meat.... Maybe you wouldn't mind killing a few {@LinkCreature:6#1021#stomping noruks} so we can use their meat to survive?&lt;br&gt;[ES] No podemos conseguir nuestros suministros. &amp;#161;Sin suministros no hay comida, sin comida no hay energ&amp;#237;a, y sin energ&amp;#237;a no hay ninguna posibilidad de defendernos de los Gutrends que nos est&amp;#225;n atacando y llev&amp;#225;ndose nuestros suministros!&lt;BR&gt;&lt;BR&gt;Si tan solo pudi&amp;#233;ramos conseguir algo de carne... &amp;#191;Tal vez no te importar&amp;#237;a matar unos cuantos {@LinkCreature:6#1021#stomping noruks} para que podamos usar su carne para sobrevivir?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1005">
+        <Page social="5">[EN] Thank you. This should be an interesting experience.&lt;BR&gt;&lt;BR&gt;We don't usually eat noruk meat, you see. Extraordinary circumstances, though.&lt;br&gt;[ES] Gracias. Esta deber&amp;#237;a ser una experiencia interesante.&lt;BR&gt;&lt;BR&gt;Ya ves que no acostumbramos comer carne de noruk. Sin embargo, son circunstancias extraordinarias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1005">
+        <Page social="0">[EN] Have you brought the meat back? We don't usually eat noruks, but we're really quite desperate around here.&lt;br&gt;[ES] &amp;#191;Has tra&amp;#237;do la carne de vuelta? No solemos comer noruks, pero estamos realmente muy desesperados por aqu&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

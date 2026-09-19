@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="4">[EN] We've received information about {@LinkCreature:18#103#Kudarsh}, the fugitive leader of the thieves who committed atrocities around Tulufan. The informant is one of the kulkaris, and according to him, Kudarsh is hiding out in Mags Kuchanaru.&lt;BR&gt;&lt;BR&gt;Say, I don't suppose you were looking for something to do tonight?&lt;br&gt;[ES] Hemos recibido informaci&amp;#243;n sobre {@LinkCreature:18#103#Kudarsh}, el l&amp;#237;der fugitivo de los ladrones que cometieron atrocidades en los alrededores de Tulufan. El informante es uno de los kulkaris y, seg&amp;#250;n &amp;#233;l, Kudarsh se esconde en Mags Kuchanaru.&lt;BR&gt;&lt;BR&gt;Dime, supongo que no estar&amp;#225;s buscando algo que hacer esta noche.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">[EN] Done, is it? Excellent. That should keep the rest at bay for a while.&lt;br&gt;[ES] &amp;#191;Terminado, verdad? Excelente. Eso mantendr&amp;#225; a raya al resto por un tiempo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1003">
+        <Page social="0">[EN] Not interested in money? Well, how about your life?&lt;BR&gt;&lt;BR&gt;No, I'm not threatening you. If Kudarsh remains the leader, they'll be everywhere. Quickly.&lt;br&gt;[ES] &amp;#191;No te interesa el dinero? Bueno, &amp;#191;qu&amp;#233; tal tu vida?&lt;BR&gt;&lt;BR&gt;No, no te estoy amenazando. Si Kudarsh sigue siendo el l&amp;#237;der, estar&amp;#225;n en todas partes. R&amp;#225;pido.</Page>
+    </Text>
+</QuestDialog>

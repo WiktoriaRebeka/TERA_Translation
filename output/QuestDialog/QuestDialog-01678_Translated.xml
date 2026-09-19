@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">[EN] We have to destroy the argons guarding this labyrinth.&lt;BR&gt;&lt;BR&gt;They have sturdier armor than we usually see on argons, so retrieve some of their armor plating for our smiths to research.&lt;br&gt;[ES] Tenemos que destruir a los argon que protegen este laberinto.&lt;BR&gt;&lt;BR&gt;Tienen una armadura m&amp;#225;s resistente que la que solemos ver en los argon, as&amp;#237; que recupera algo de su placa de armadura para que nuestros herreros investiguen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">[EN] Hah! You peeled their hides right off!&lt;BR&gt;&lt;BR&gt;Quite bold, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Well done, my comrade.&lt;br&gt;[ES] &amp;#161;Ja! &amp;#161;Les arrancaste las pieles por completo!&lt;BR&gt;&lt;BR&gt;Muy audaz, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Bien hecho, camarada.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1001">
+        <Page social="0">[EN] The argons have discovered a new way to make armor.&lt;BR&gt;&lt;BR&gt;Bring me some of it for our smiths to learn from.&lt;br&gt;[ES] Los argon han descubierto una nueva forma de hacer armadura.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme un poco de ella para que nuestros herreros aprendan.</Page>
+    </Text>
+</QuestDialog>

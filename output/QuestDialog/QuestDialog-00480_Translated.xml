@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">[EN] You can help me, can't you? You'd have to be better than my incompetent assistant. I'll share everything I learn about the giants with you. Good, right?&lt;BR&gt;&lt;BR&gt;Okay then, please go hunt some {@LinkCreature:18#11#wheelwatch golems} and see if you can find more &lt;FONT COLOR='#660000'&gt;fragments&lt;/FONT&gt;.&lt;BR&gt;&lt;BR&gt;Those fragments will have the academic world crawling at my feet.&lt;br&gt;[ES] Puedes ayudarme, &amp;#191;verdad? Tienes que ser mejor que mi asistente incompetente. Compartir&amp;#233; todo lo que aprenda sobre los gigantes contigo. Bien, &amp;#191;no?&lt;BR&gt;&lt;BR&gt;Bien entonces, por favor ve a cazar algunos {@LinkCreature:18#11#wheelwatch golems} y mira si puedes encontrar m&amp;#225;s &lt;FONT COLOR='#660000'&gt;fragmentos&lt;/FONT&gt;.&lt;BR&gt;&lt;BR&gt;Esos fragmentos har&amp;#225;n que el mundo acad&amp;#233;mico caiga rendido a mis pies.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">[EN] Excellent! Oh, the history in these inscriptions&amp;#8212;I just can't get enough history!&lt;BR&gt;&lt;BR&gt;Ooh, this seems like propaganda. Intrigue!&lt;BR&gt;&lt;BR&gt;I can't wait to look into this further. Thank you for your help!&lt;br&gt;[ES] &amp;#161;Excelente! Oh, la historia en estas inscripciones, &amp;#161;simplemente no me canso de la historia!&lt;BR&gt;&lt;BR&gt;Oye, esto parece propaganda. &amp;#161;Intriga!&lt;BR&gt;&lt;BR&gt;&amp;#161;No veo la hora de investigar esto m&amp;#225;s a fondo! &amp;#161;Gracias por tu ayuda!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">[EN] Still here? You dawdle an awful lot, don't you?&lt;br&gt;[ES] &amp;#191;A&amp;#250;n aqu&amp;#237;? Te demoras much&amp;#237;simo, &amp;#191;no?</Page>
+    </Text>
+</QuestDialog>

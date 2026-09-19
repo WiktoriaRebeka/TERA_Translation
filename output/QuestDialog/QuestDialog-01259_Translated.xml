@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="4">[EN] Aside from his scouts and the beasts, Thulsa has an assault brigade stationed at the western gate to Habere. Take them out, and we'll all breathe easier&lt;BR&gt;&lt;BR&gt;You've been very brave so far, so stay the course! Check in with Centurion Turua at the western gate. He'll point you toward Thulsa's minions.&lt;br&gt;[ES] Aparte de sus exploradores y las bestias, Thulsa tiene una brigada de asalto apostada en la puerta occidental de Habere. &amp;#161;Acaba con ellos y todos respiraremos m&amp;#225;s tranquilos&lt;BR&gt;&lt;BR&gt;&amp;#161;Has sido muy valiente hasta ahora, as&amp;#237; que sigue as&amp;#237;! Pres&amp;#233;ntate ante el centuri&amp;#243;n Turua en la puerta occidental. &amp;#201;l te indicar&amp;#225; d&amp;#243;nde est&amp;#225;n los esbirros de Thulsa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1017">
+        <Page social="4">[EN] Let me brief you on our situation, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Warkul commands Thulsa's forces in the region. Repelling Warkul and his troopers will give us a huge advantage in battle, perhaps a chance to reverse the situation throughout this wretched land.&lt;BR&gt;&lt;BR&gt;Lead us to victory, &lt;PCNAME&gt;!&lt;br&gt;[ES] D&amp;#233;jame ponerte al corriente de nuestra situaci&amp;#243;n, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Warkul dirige las fuerzas de Thulsa en la regi&amp;#243;n. Repeler a Warkul y a sus soldados nos dar&amp;#225; una gran ventaja en batalla, y tal vez una oportunidad de revertir la situaci&amp;#243;n en esta tierra maldita.&lt;BR&gt;&lt;BR&gt;&amp;#161;Gu&amp;#237;anos hacia la victoria, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1017">
+        <Page social="4">[EN] The remnants remain, but they pose no threat to the safety of Habere.&lt;BR&gt;&lt;BR&gt;Thank you so much, &lt;PCNAME&gt;.&lt;br&gt;[ES] Los remanentes siguen ah&amp;#237;, pero ya no representan una amenaza para la seguridad de Habere.&lt;BR&gt;&lt;BR&gt;Much&amp;#237;simas gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

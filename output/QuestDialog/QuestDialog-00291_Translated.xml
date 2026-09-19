@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">[EN] Well, it'd be easier to find this "magic stone" if we knew more about it. And it probably came here on a ship, right?&lt;BR&gt;&lt;BR&gt;Every ship in the Red Lash fleet has a logbook. And when the ships are docked, the {@LinkCreature:11#2001#Red Lash mates} and their subordinates, the {@LinkCreature:11#2005#Red Lash drillers}, carry the logbooks.&lt;BR&gt;&lt;BR&gt;Let's abscond with the logbooks and do a little research.&lt;br&gt;[ES] Bueno, ser&amp;#237;a m&amp;#225;s f&amp;#225;cil encontrar esta &quot;piedra m&amp;#225;gica&quot; si supi&amp;#233;ramos m&amp;#225;s sobre ella. Y probablemente lleg&amp;#243; aqu&amp;#237; en un barco, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Cada barco de la flota Red Lash tiene un libro de bit&amp;#225;cora. Y cuando los barcos est&amp;#225;n atracados, los {@LinkCreature:11#2001#Red Lash mates} y sus subordinados, los {@LinkCreature:11#2005#Red Lash drillers}, llevan los libros de bit&amp;#225;cora.&lt;BR&gt;&lt;BR&gt;Vamos a llevarnos los libros de bit&amp;#225;cora y a investigar un poco.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">[EN] Let's see... "Stone-comma-magic..." Here it is!&lt;BR&gt;&lt;BR&gt;Came here about a year ago. It's really big&amp;#8212;the only cargo on that voyage. And in every other column, it just says "Dementalith. See Captain."&lt;BR&gt;&lt;BR&gt;I was hoping for more, frankly.&lt;br&gt;[ES] A ver... &quot;Piedra-coma-m&amp;#225;gica...&quot; &amp;#161;Aqu&amp;#237; est&amp;#225;!&lt;BR&gt;&lt;BR&gt;Lleg&amp;#243; aqu&amp;#237; hace aproximadamente un a&amp;#241;o. Es muy grande; la &amp;#250;nica carga de ese viaje. Y en cada una de las otras columnas, solo dice &quot;Dementalith. Ver al Capit&amp;#225;n.&quot;&lt;BR&gt;&lt;BR&gt;Francamente, esperaba m&amp;#225;s.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1031">
+        <Page social="0">[EN] Those logbooks are the key. They'll tell us what sort of magic stone to look for. Get the {@LinkCreature:11#2001#Red Lash mates} and {@LinkCreature:11#2005#Red Lash drillers}.&lt;br&gt;[ES] Esos libros de bit&amp;#225;cora son la clave. Nos dir&amp;#225;n qu&amp;#233; tipo de piedra m&amp;#225;gica buscar. Consigue los {@LinkCreature:11#2001#Red Lash mates} y {@LinkCreature:11#2005#Red Lash drillers}.</Page>
+    </Text>
+</QuestDialog>

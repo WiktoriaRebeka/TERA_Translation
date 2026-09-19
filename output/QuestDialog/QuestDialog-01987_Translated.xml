@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">[EN] You forced your way into the Banquet of Blood, sealed up the vampir leader's coffin, and tainted their food.&lt;br&gt;[ES] Te abriste paso a la fuerza en el Banquet of Blood, sellaste el ata&amp;#250;d del l&amp;#237;der de los vampirs y contaminaste su comida.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">[EN] Rescuing villagers is important, but we need to do something that will completely disrupt the Banquet of Blood: Seal their leader's coffin, and taint their foul "food."&lt;BR&gt;&lt;BR&gt;So, &lt;PCNAME&gt;, are you up for another foray into the vampirs' midst?&lt;br&gt;[ES] Rescatar aldeanos es importante, pero necesitamos hacer algo que interrumpa por completo el Banquet of Blood: sella el ata&amp;#250;d de su l&amp;#237;der y contamina su &quot;comida&quot; inmunda.&lt;BR&gt;&lt;BR&gt;Entonces, &lt;BR&gt;, &amp;#191;est&amp;#225;s listo para otra incursi&amp;#243;n entre los vampirs?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">[EN] Once again, &lt;PCNAME&gt;, you have done a great service, for which you will be long remembered.&lt;br&gt;[ES] Una vez m&amp;#225;s, &lt;PCNAME&gt;, has hecho un gran servicio, por el cual ser&amp;#225;s recordado durante mucho tiempo.</Page>
+    </Text>
+</QuestDialog>

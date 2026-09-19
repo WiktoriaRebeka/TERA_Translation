@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">[EN] The popori crave communion with the spirit of the goddess Seren, but they don't realize that a pilgrimage to {@Rgn:30014$$Seren's Lake} might be the last journey they ever undertake.&lt;BR&gt;&lt;BR&gt;Someone capable of safely escorting the pilgrims to the lake must be found.&lt;BR&gt;&lt;BR&gt;Is that someone &lt;PCNAME&gt;?&lt;br&gt;[ES] Los popori anhelan la comuni&amp;#243;n con el esp&amp;#237;ritu de la diosa Seren, pero no se dan cuenta de que una peregrinaci&amp;#243;n a {@Rgn:30014$$Seren's Lake} podr&amp;#237;a ser el &amp;#250;ltimo viaje que emprendan.&lt;BR&gt;&lt;BR&gt;Es necesario encontrar a alguien capaz de escoltar sanos y salvos a los peregrinos hasta el lago.&lt;BR&gt;&lt;BR&gt;&amp;#191;Es ese alguien &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="30" villagerId="41">
+        <Page social="0">[EN] Typical patronizing high elves. We can take care of ourselves!&lt;BR&gt;&lt;BR&gt;Tell Centurion Pointy-Ears that I'm a veteran of the Argon War and I can take care of myself!&lt;BR&gt;&lt;BR&gt;However, um...I seem to have misplaced my map. Can you show me the way to {@Rgn:30014$$Seren's Lake}?&lt;br&gt;[ES] T&amp;#237;picos altos elfos condescendientes. &amp;#161;Podemos cuidar de nosotros mismos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Dile al centuri&amp;#243;n Orejas-Puntiagudas que soy un veterano de la guerra de los Argon y que puedo valerme por m&amp;#237; mismo!&lt;BR&gt;&lt;BR&gt;Sin embargo, eh... creo que he perdido mi mapa. &amp;#191;Puedes mostrarme el camino a {@Rgn:30014$$Seren's Lake}?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1066">
+        <Page social="1">[EN] Thank you, &lt;PCNAME&gt;. It's like I can hear Seren herself whispering to me.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Es como si pudiera escuchar a la propia Seren susurr&amp;#225;ndome.</Page>
+    </Text>
+</QuestDialog>

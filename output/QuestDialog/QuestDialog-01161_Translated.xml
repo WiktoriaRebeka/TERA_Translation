@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1021">
+        <Page social="4">[EN] This region is one of the best sources of eldritch shards. Our iteris shards are considerably more potent than the shards found in Westonia.&lt;BR&gt;&lt;BR&gt;Of course, the argons consume them like wafers, but with an interesting side effect&amp;#8212;the remaining shards seem to be more potent.&lt;BR&gt;&lt;BR&gt;Think you could bring me some samples?&lt;br&gt;[ES] Esta regi&amp;#243;n es una de las mejores fuentes de fragmentos de ultratumba. Nuestros fragmentos de iteris son considerablemente m&amp;#225;s potentes que los encontrados en Westonia.&lt;BR&gt;&lt;BR&gt;Por supuesto, los argons se los tragan como galletas, pero con un efecto secundario interesante: los fragmentos restantes parecen ser m&amp;#225;s potentes.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que podr&amp;#237;as traerme algunas muestras?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1021">
+        <Page social="5">[EN] These iteris shards look incredible! And the energy within? Amazing.&lt;BR&gt;&lt;BR&gt;Small wonder the castanic artisans picked this region to settle.&lt;BR&gt;&lt;BR&gt;I'd best get back to my studies. Thanks.&lt;br&gt;[ES] &amp;#161;Estos fragmentos de iteris lucen incre&amp;#237;bles! &amp;#191;Y la energ&amp;#237;a dentro? Asombrosa.&lt;BR&gt;&lt;BR&gt;No me extra&amp;#241;a que los artesanos castanic eligieran esta regi&amp;#243;n para establecerse.&lt;BR&gt;&lt;BR&gt;Ser&amp;#225; mejor que vuelva a mis estudios. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1021">
+        <Page social="0">[EN] I suggest mining around the {@Rgn:49002}. If it's good enough for the argons, it's good enough for you.&lt;br&gt;[ES] Sugiero minar alrededor de {@Rgn:49002}. Si es lo suficientemente bueno para los argons, es lo suficientemente bueno para ti.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,49 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] Titus is eagerly looking for &lt;PCNAME&gt;. It seems that Titus found something.&lt;br&gt;[ES] Titus est&amp;#225; buscando ansiosamente a &lt;PCNAME&gt;. Parece que Titus encontr&amp;#243; algo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] You and Titus joined with Jelena on the search for Elleon. You headed for the center of Verrak Fortress.&lt;br&gt;[ES] T&amp;#250; y Titus se unieron a Jelena en la b&amp;#250;squeda de Elleon. Se dirigieron hacia el centro de Verrak Fortress.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="150">
+        <Page social="4" voiceTypeId="0">[EN] This seems to be some tracks of Elleon.&lt;BR&gt;&lt;BR&gt;But it stops here.&lt;BR&gt;&lt;BR&gt;Maybe we can find other tracks if we search this garden.&lt;br&gt;[ES] Estas parecen ser las huellas de Elleon.&lt;BR&gt;&lt;BR&gt;Pero se detienen aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Tal vez podamos encontrar otras huellas si buscamos en este jard&amp;#237;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" prevId="3" villagerId="160">
+        <Page social="0" voiceTypeId="0">[EN] (You approach the fallen naga and notice a sword wound.)&lt;BR&gt;&lt;BR&gt;(The wound is colored in black.)&lt;br&gt;[ES] (Te acercas al naga ca&amp;#237;do y notas una herida de espada.)&lt;BR&gt;&lt;BR&gt;(La herida est&amp;#225; te&amp;#241;ida de negro.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2002" prevId="4" villagerId="151">
+        <Page social="4" voiceTypeId="0">[EN] There's no doubt that Elleon killed these nagas...but what is this black aura surrounding them...&lt;BR&gt;&lt;BR&gt;Maybe...Killian took over Elleon...&lt;BR&gt;&lt;BR&gt;We have to find Elleon quick.&lt;br&gt;[ES] No cabe duda de que Elleon mat&amp;#243; a estos nagas... pero qu&amp;#233; es estaaura negra que los rodea...&lt;BR&gt;&lt;BR&gt;Tal vez... Killian se apoder&amp;#243; de Elleon...&lt;BR&gt;&lt;BR&gt;Tenemos que encontrar a Elleon r&amp;#225;pido.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2002" prevId="5" villagerId="161">
+        <Page social="0" voiceTypeId="0">[EN] (The naga corpse is slashed brutally.)&lt;BR&gt;&lt;BR&gt;(A black aura comes out from the wounds.)&lt;BR&gt;&lt;BR&gt;(If Elleon did this...)&lt;br&gt;[ES] (El cad&amp;#225;ver de naga tiene cortes profundos y brutales.)&lt;BR&gt;&lt;BR&gt;(Un aura negra sale de las heridas.)&lt;BR&gt;&lt;BR&gt;(Si Elleon hizo esto...)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2002" prevId="6" villagerId="170">
+        <Page social="0" voiceTypeId="0">[EN] Urgh...I thought...we were helping each other...&lt;BR&gt;Your friend slaughtered our people.&lt;BR&gt;&lt;BR&gt;I was able to survive but...&lt;NEXTPAGEBUTTON&gt;"Yes, I understand what happened."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ugh... Pens&amp;#233;... que nos est&amp;#225;bamos ayudando mutuamente...&lt;BR&gt;Tu amigo masacr&amp;#243; a nuestra gente.&lt;BR&gt;&lt;BR&gt;Pude sobrevivir pero...&lt;NEXTPAGEBUTTON&gt;"Yes, I understand what happened."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] He almost looked like a demon.&lt;BR&gt;&lt;BR&gt;He seemed amused by killing us...with a black aura coming out from his face.&lt;BR&gt;&lt;BR&gt;It's something I never want to remember again.&lt;BR&gt;&lt;BR&gt;I need my belongings, but I can't carry them.&lt;BR&gt;&lt;BR&gt;And we should get out of here fast.&lt;br&gt;[ES] Casi parec&amp;#237;a un demonio.&lt;BR&gt;&lt;BR&gt;Parec&amp;#237;a divertirse mat&amp;#225;ndonos... con un aura negra saliendo de su rostro.&lt;BR&gt;&lt;BR&gt;Es algo que nunca quiero volver a recordar.&lt;BR&gt;&lt;BR&gt;Necesito mis pertenencias, pero no puedo cargarlas.&lt;BR&gt;&lt;BR&gt;Y deber&amp;#237;amos salir de aqu&amp;#237; r&amp;#225;pido.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2002" villagerId="172">
+        <Page social="0">[EN] If you got everything, we should go... north...Argh.&lt;br&gt;[ES] Si conseguiste todo, deber&amp;#237;amos ir... al norte... Argh.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2002" prevId="7" villagerId="171">
+        <Page social="0" voiceTypeId="0">[EN] We're safe now.&lt;BR&gt;&lt;BR&gt;We shouldn't lose anymore time. Go.&lt;BR&gt;&lt;BR&gt;I'll wait for my people here.&lt;BR&gt;&lt;BR&gt;Give this to Vogzu. It'll help you on your way to the fortress.&lt;br&gt;[ES] Estamos a salvo ahora.&lt;BR&gt;&lt;BR&gt;No debemos perder m&amp;#225;s tiempo. Ve.&lt;BR&gt;&lt;BR&gt;Esperar&amp;#233; a mi gente aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Dale esto a Vogzu. Te ayudar&amp;#225; en tu camino hacia la fortaleza.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2002" prevId="9" villagerId="180">
+        <Page social="4" voiceTypeId="0">[EN] It's a relief to see that you're okay.&lt;BR&gt;&lt;BR&gt;I heard that your friend Jelena is on her way. The healer tried to stop her but she wouldn't listen. That's why I sent Basheek to help her.&lt;BR&gt;&lt;BR&gt;Speaking of, Basheek is late.&lt;BR&gt;&lt;BR&gt;Why don't you go and find Jelena and Basheek. If you find them, meet me at the platform.&lt;br&gt;[ES] Es un alivio ver que est&amp;#225;s bien.&lt;BR&gt;&lt;BR&gt;Escuch&amp;#233; que tu amiga Jelena va en camino. El healer trat&amp;#243; de detenerla, pero no quiso escuchar. Por eso envi&amp;#233; a Basheek a ayudarla.&lt;BR&gt;&lt;BR&gt;Hablando de eso, Basheek llega tarde.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; no vas a buscar a Jelena y a Basheek? Si los encuentras, encu&amp;#233;ntrame en la plataforma.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2002" prevId="10" villagerId="190">
+        <Page social="4" voiceTypeId="0">[EN] Looks like I'm nothing but trouble aren't I? Sorry. I couldn't make it to the point with all these pursuers.&lt;BR&gt;&lt;BR&gt;I'm glad that we regrouped though. Have you found Elleon?&lt;NEXTPAGEBUTTON&gt;"Yes, he is not right..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Parece que solo soy un problema, &amp;#191;verdad? Lo siento. No pude llegar al punto con todos estos perseguidores.&lt;BR&gt;&lt;BR&gt;Me alegra que nos hayamos reagrupado, sin embargo. &amp;#191;Has encontrado a Elleon?&lt;NEXTPAGEBUTTON&gt;"Yes, he is not right..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] That's what I was worried about...&lt;BR&gt;&lt;BR&gt;We have to hurry. Elleon is battling Killian's ritual. We have to find Elleon before he's unconscious.&lt;BR&gt;&lt;BR&gt;Let's go to Vogzu.&lt;br&gt;[ES] De eso es de lo que estaba preocupado...&lt;BR&gt;&lt;BR&gt;Tenemos que darnos prisa. Elleon est&amp;#225; luchando contra el ritual de Killian. Tenemos que encontrar a Elleon antes de que pierda el conocimiento.&lt;BR&gt;&lt;BR&gt;Vayamos a Vogzu.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2002" prevId="11" villagerId="124">
+        <Page social="0" voiceTypeId="0">[EN] The platform is right ahead of us.&lt;BR&gt;&lt;BR&gt;It's likely for the pursuers to search for us at the platform.&lt;BR&gt;&lt;BR&gt;Vogzu and I'll go in advance to distract the pursuers.&lt;BR&gt;&lt;BR&gt;Come to the platform later and get rid of their reinforcements.&lt;br&gt;[ES] La plataforma est&amp;#225; justo en frente de nosotros.&lt;BR&gt;&lt;BR&gt;Es probable que los perseguidores nos busquen en la plataforma.&lt;BR&gt;&lt;BR&gt;Vogzu y yo iremos por delante para distraer a los perseguidores.&lt;BR&gt;&lt;BR&gt;Ven a la plataforma m&amp;#225;s tarde y deshazte de sus refuerzos.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2002" prevId="12" villagerId="125">
+        <Page social="0" voiceTypeId="0">[EN] The pursuers have gone to the fortress. They're probably after Elleon.&lt;BR&gt;&lt;BR&gt;Please come to the platform.&lt;BR&gt;&lt;BR&gt;Vogzu is waiting for you.&lt;br&gt;[ES] Los perseguidores han ido a la fortaleza. Probablemente van tras Elleon.&lt;BR&gt;&lt;BR&gt;Por favor ven a la plataforma.&lt;BR&gt;&lt;BR&gt;Vogzu te est&amp;#225; esperando.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2002" prevId="13" villagerId="181">
+        <Page social="4" voiceTypeId="0">[EN] Many of us have seen your friend Elleon heading for the fortress.&lt;BR&gt;&lt;BR&gt;Most of the draakon and naga pursuers are after him. I assume that Commander Kalligar is giving the orders.&lt;BR&gt;&lt;BR&gt;Basheek and I will go clear the way.&lt;BR&gt;Use the platform and join us when you're ready.&lt;BR&gt;&lt;BR&gt;Basheek will be waiting for you.&lt;br&gt;[ES] Muchos de nosotros hemos visto a tu amigo Elleon dirigirse a la fortaleza.&lt;BR&gt;&lt;BR&gt;La mayor&amp;#237;a de los perseguidores draakon y naga van tras &amp;#233;l. Supongo que el comandante Kalligar est&amp;#225; dando las &amp;#243;rdenes.&lt;BR&gt;&lt;BR&gt;Basheek y yo iremos a despejar el camino.&lt;BR&gt;Usa la plataforma y &amp;#250;nete a nosotros cuando est&amp;#233;s listo.&lt;BR&gt;&lt;BR&gt;Basheek te estar&amp;#225; esperando.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="2002" prevId="14" villagerId="126">
+        <Page social="0" voiceTypeId="0">[EN] Welcome. This is the island with Verrak Fortress.&lt;BR&gt;&lt;BR&gt;The Core that you seek should be at the center of the fortress.&lt;BR&gt;&lt;BR&gt;Vogzu is keeping an eye on the fortress to help you out.&lt;br&gt;[ES] Bienvenido. Esta es la isla con Verrak Fortress.&lt;BR&gt;&lt;BR&gt;El Core que buscas deber&amp;#237;a estar en el centro de la fortaleza.&lt;BR&gt;&lt;BR&gt;Vogzu vigila la fortaleza para ayudarte.</Page>
+    </Text>
+</QuestDialog>

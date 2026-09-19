@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="4">[EN] We've received word of several villagers missing from Frontera and the magistrate thinks the arachnens snatched them.&lt;BR&gt;&lt;BR&gt;Search the caverns for them&amp;#8212;save them if you can.&lt;br&gt;[ES] Hemos recibido noticias de varios aldeanos desaparecidos de Frontera y el magistrado cree que los arachnens se los llevaron.&lt;BR&gt;&lt;BR&gt;Busca en las cavernas por ellos; s&amp;#225;lvalos si puedes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1017">
+        <Page social="4">[EN] (The corpse looks terribly mangled.)&lt;br&gt;[ES] (El cad&amp;#225;ver se ve terriblemente destrozado.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" prevId="3" villagerId="1018">
+        <Page social="4">[EN] (A poisonous odor emanates from the body.)&lt;br&gt;[ES] (Un olor venenoso emana del cuerpo.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="239" prevId="4" villagerId="1025">
+        <Page social="4">[EN] The villagers were dead flesh the moment the arachnens grabbed them.&lt;BR&gt;&lt;BR&gt;A pity, but your efforts to find them are to be commended. Thanks.&lt;br&gt;[ES] Los aldeanos ya eran carne muerta en el momento en que los arachnens los agarraron.&lt;BR&gt;&lt;BR&gt;Es una l&amp;#225;stima, pero tus esfuerzos por encontrarlos son de reconocerse. Gracias.</Page>
+    </Text>
+</QuestDialog>

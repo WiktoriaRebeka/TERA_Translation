@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="4">[EN] Captain Liska wants more data, which means more research.&lt;BR&gt;&lt;BR&gt;I need attar stones from {@LinkCreature:21#3#vicious orisks}. Bring them to me and I'll do what I can.&lt;br&gt;[ES] El capit&amp;#225;n Liska quiere m&amp;#225;s datos, lo que significa m&amp;#225;s investigaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Necesito piedras de &amp;#225;mbar de {@LinkCreature:21#3#vicious orisks}. Tr&amp;#225;emelas y har&amp;#233; lo que pueda.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1036">
+        <Page social="4">[EN] Your able and willing nature is a real boon to us all. Take this, and my thanks.&lt;br&gt;[ES] Tu naturaleza capaz y servicial es una verdadera bendici&amp;#243;n para todos nosotros. Toma esto y mi agradecimiento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1036">
+        <Page social="0">[EN] I hate to impose on you, but Liska's insistent and there's no one else who can do it. Please, I beg you, hurry.&lt;br&gt;[ES] Odio imponerte esto, pero Liska insiste y no hay nadie m&amp;#225;s que pueda hacerlo. Por favor, te lo ruego, date prisa.</Page>
+    </Text>
+</QuestDialog>

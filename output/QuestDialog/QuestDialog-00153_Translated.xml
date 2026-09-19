@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="5">[EN] Like we didn't have enough troubles! The kulkari have driven the {@LinkCreature:6#2041#ravenous bears} out of their homes and soon enough, they'll be looking here for food.&lt;BR&gt;&lt;BR&gt;Drive them off or take them out. Whatever it takes, just get them away from here.&lt;br&gt;[ES] &amp;#161;Como si no tuvi&amp;#233;ramos suficientes problemas! Los kulkari han expulsado a los {@LinkCreature:6#2041#ravenous bears} de sus hogares y muy pronto vendr&amp;#225;n aqu&amp;#237; en busca de comida.&lt;BR&gt;&lt;BR&gt;Ahuy&amp;#233;ntalos o elim&amp;#237;nalos. Hagas lo que hagas, solo ap&amp;#225;rtalos de este lugar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1023">
+        <Page social="5">[EN] Thanks. Imagine&amp;#8212;driving the kulkari off only to be devoured by bears!&lt;br&gt;[ES] Gracias. &amp;#161;Imag&amp;#237;nate: ahuyentar a los kulkari para terminar devorado por los osos!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1015">
+        <Page social="4">[EN] &lt;PCCLASS&gt;, the runekeepers have bottled us up in camp for days now.&lt;BR&gt;&lt;BR&gt;I need to send vital intelligence on the mekonaris to others in the Mysterium. If you can occupy the runekeepers even briefly, I can get a messenger through.&lt;br&gt;[ES] &lt;PCCLASS&gt;, los guardianes de runas nos han tenido acorralados en el campamento durante d&amp;#237;as.&lt;BR&gt;&lt;BR&gt;Necesito enviar informaci&amp;#243;n vital sobre los mekonaris a otros en el Mysterium. Si puedes entretener a los guardianes de runas aunque sea brevemente, puedo hacer pasar a un mensajero.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1015">
+        <Page social="4">[EN] Fantastic, &lt;PCNAME&gt;. At least if we're overrun, my notes and data are with our colleagues where they'll be of some use. We learned a lot about the mekonaris, trapped here among them.&lt;br&gt;[ES] Fant&amp;#225;stico, &lt;PCNAME&gt;. Al menos, si nos invaden, mis notas y datos estar&amp;#225;n con nuestros colegas donde ser&amp;#225;n de alguna utilidad. Aprendimos mucho sobre los mekonaris, atrapados aqu&amp;#237; entre ellos.</Page>
+    </Text>
+</QuestDialog>

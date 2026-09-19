@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">[EN] You're a sight for sore eyes. I'm drowning in work!&lt;BR&gt;&lt;BR&gt;You want to make a little extra money?&lt;NEXTPAGEBUTTON&gt;"You know it."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Eres un alivio para la vista. &amp;#161;Me estoy ahogando en trabajo!&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres ganar un poco de dinero extra?&lt;NEXTPAGEBUTTON&gt;"You know it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Great! {@LinkCreature:63#3002#Taratia} has a long list of simple tasks that need doing&amp;#8212;well, as simple as anything is with her.&lt;br&gt;[ES] &amp;#161;Genial! {@LinkCreature:63#3002#Taratia} tiene una larga lista de tareas sencillas que es necesario hacer; bueno, tan sencillas como puede ser cualquier cosa con ella.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">[EN] Ah, perfect timing! Can you go on a little gathering mission for me?&lt;BR&gt;&lt;BR&gt;Elthienne will have my horny head if I don't get some things checked off this list.&lt;br&gt;[ES] &amp;#161;Ah, qu&amp;#233; momento tan oportuno! &amp;#191;Puedes ir a una peque&amp;#241;a misi&amp;#243;n de recolecci&amp;#243;n para m&amp;#237;?&lt;BR&gt;&lt;BR&gt;Elthienne me arrancar&amp;#225; la cabeza si no tacho algunas cosas de esta lista.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">[EN] This is immensely helpful. You're so amazing. I totally want to be you when I grow up. Seriously!&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} what I said. Not that she'll believe it. She thinks I'm a total screw up.&lt;br&gt;[ES] Esto es de gran ayuda. Eres incre&amp;#237;ble. De verdad quiero ser como t&amp;#250; cuando sea grande. &amp;#161;En serio!&lt;BR&gt;&lt;BR&gt;Cu&amp;#233;ntale a {@LinkCreature:63#3003#Elthienne} lo que dije. No es que vaya a creerte. Ella piensa que soy un caso perdido.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Do you have the {@RawItem:206801}?&lt;br&gt;[ES] &amp;#191;Tienes el objeto {@RawItem:206801}?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] This is immensely helpful. You're so amazing. I totally want to be like you when I grow up. Seriously!&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} what I said. Not that she'll believe it. She thinks I'm a total screw-up.&lt;br&gt;[ES] Esto es de gran ayuda. Eres incre&amp;#237;ble. De verdad quiero ser como t&amp;#250; cuando sea grande. &amp;#161;En serio!&lt;BR&gt;&lt;BR&gt;Cu&amp;#233;ntale a {@LinkCreature:63#3003#Elthienne} lo que dije. No es que vaya a creerte. Ella piensa que soy un caso perdido.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Do you have the {@RawItem:206802}?&lt;br&gt;[ES] &amp;#191;Tienes el objeto {@RawItem:206802}?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] This is immensely helpful. You're so amazing. I totally want to be like you when I grow up. Seriously!&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} what I said. Not that she'll believe it. She thinks I'm a total screw-up.&lt;br&gt;[ES] Esto es de gran ayuda. Eres incre&amp;#237;ble. De verdad quiero ser como t&amp;#250; cuando sea grande. &amp;#161;En serio!&lt;BR&gt;&lt;BR&gt;Cu&amp;#233;ntale a {@LinkCreature:63#3003#Elthienne} lo que dije. No es que vaya a creerte. Ella piensa que soy un caso perdido.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Do you have the {@RawItem:206803}?&lt;br&gt;[ES] &amp;#191;Tienes el objeto {@RawItem:206803}?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] This is immensely helpful. You're so amazing. I totally want to be like you when I grow up. Seriously!&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} what I said. Not that she'll believe it. She thinks I'm a total screw-up.&lt;br&gt;[ES] Esto es de gran ayuda. Eres incre&amp;#237;ble. De verdad quiero ser como t&amp;#250; cuando sea grande. &amp;#161;En serio!&lt;BR&gt;&lt;BR&gt;Cu&amp;#233;ntale a {@LinkCreature:63#3003#Elthienne} lo que dije. No es que vaya a creerte. Ella piensa que soy un caso perdido.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Do you have the {@RawItem:206804}?&lt;br&gt;[ES] &amp;#191;Tienes el objeto {@RawItem:206804}?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] This is immensely helpful. You're so amazing. I totally want to be like you when I grow up. Seriously!&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} what I said. Not that she'll believe it. She thinks I'm a total screw-up.&lt;br&gt;[ES] Esto es de gran ayuda. Eres incre&amp;#237;ble. De verdad quiero ser como t&amp;#250; cuando sea grande. &amp;#161;En serio!&lt;BR&gt;&lt;BR&gt;Cu&amp;#233;ntale a {@LinkCreature:63#3003#Elthienne} lo que dije. No es que vaya a creerte. Ella piensa que soy un caso perdido.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Do you have the {@RawItem:206805}?&lt;br&gt;[ES] &amp;#191;Tienes el objeto {@RawItem:206805}?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">[EN] Your reward, as promised. And a well-deserved one at that. I know working with Taratia can be...stressful.&lt;br&gt;[ES] Tu recompensa, tal como lo promet&amp;#237;. Y una muy bien merecida, por cierto. S&amp;#233; que trabajar con Taratia puede ser... estresante.</Page>
+    </Text>
+</QuestDialog>

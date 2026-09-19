@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1301">
+        <Page social="0">[EN] Rhodos revealed some of the history of Northern Arun, while Paesyn tried a new tactic to make Zolyn like him.&lt;br&gt;[ES] Rhodos revel&amp;#243; parte de la historia del norte de Arun, mientras Paesyn probaba una nueva t&amp;#225;ctica para agradarle a Zolyn.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1301">
+        <Page social="4">[EN] That the Khirians took us in speaks well for your work, &lt;PCNAME&gt;. We needed the shelter.&lt;BR&gt;&lt;BR&gt;This Rhodos fellow talks about things falling from the sky. Perhaps we can salvage Intrepid!&lt;BR&gt;&lt;BR&gt;Maybe our mission won't fail.&lt;br&gt;[ES] Que los Khirians nos hayan acogido habla muy bien de tu trabajo, &lt;PCNAME&gt;. Necesit&amp;#225;bamos refugio.&lt;BR&gt;&lt;BR&gt;Este tal Rhodos habla de cosas que caen del cielo. &amp;#161;Quiz&amp;#225;s podamos rescatar al Intrepid!&lt;BR&gt;&lt;BR&gt;Tal vez nuestra misi&amp;#243;n no fracase.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1301">
+        <Page social="4">[EN] Paesyn wants to talk to you if you have a moment.&lt;br&gt;[ES] Paesyn quiere hablar contigo si tienes un momento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1100">
+        <Page social="4">[EN] This is why I like you! You saved the day!&lt;BR&gt;&lt;BR&gt;I've seen several pieces of Intrepid's wreckage. I'll check them over. Maybe impress Zolyn a bit. Get her to like me!&lt;BR&gt;&lt;BR&gt;Since my poem didn't cheer her up, I drew a portrait of her. Could you deliver it? Please?&lt;br&gt;[ES] &amp;#161;Por esto me agradas! &amp;#161;Salvaste el d&amp;#237;a!&lt;BR&gt;&lt;BR&gt;He visto varias piezas de los restos del Intrepid. Las revisar&amp;#233;. &amp;#161;Tal vez impresione un poco a Zolyn y logre que le caiga bien!&lt;BR&gt;&lt;BR&gt;Como mi poema no la anim&amp;#243;, le hice un retrato. &amp;#191;Podr&amp;#237;as entreg&amp;#225;rselo? &amp;#191;Por favor?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1102">
+        <Page social="4">[EN] I heard you saved Madat. Not bad. You're a fine soldier.&lt;NEXTPAGEBUTTON&gt;"Paesyn drew this for you."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Me enter&amp;#233; de que salvaste a Madat. No est&amp;#225; mal. Eres un buen soldado.&lt;NEXTPAGEBUTTON&gt;"Paesyn drew this for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I take it back.&lt;BR&gt;&lt;BR&gt;Stop wasting my time with this nonsense. What is with that silly engineer? Doesn't he have work to do?&lt;br&gt;[ES] Retiro lo dicho.&lt;BR&gt;&lt;BR&gt;Deja de perder mi tiempo con esta tonter&amp;#237;a. &amp;#191;Qu&amp;#233; le pasa a ese ingeniero tonto? &amp;#191;Acaso no tiene trabajo que hacer?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1301">
+        <Page social="4">[EN] Have you seen where Paesyn went by any chance?&lt;NEXTPAGEBUTTON&gt;"He's investigating the wreckage."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Has visto a d&amp;#243;nde fue Paesyn por casualidad?&lt;NEXTPAGEBUTTON&gt;"He's investigating the wreckage."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Well, we must press on.&lt;br&gt;[ES] Bien, debemos seguir adelante.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1206">
+        <Page social="4">[EN] The way ahead will not be easy. You are new to Val Oriyn, so hear our grim tale.&lt;br&gt;[ES] El camino por delante no ser&amp;#225; f&amp;#225;cil. Eres nuevo en Val Oriyn, as&amp;#237; que escucha nuestra sombr&amp;#237;a historia.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1206">
+        <Page social="4">[EN] We, the Khirians, resist the archdevas, but most of my kind are enslaved. We refer to them as the Parthia.&lt;BR&gt;&lt;BR&gt;They have a camp nearby, but I don't know if they'll let us pass without a fight.&lt;NEXTPAGEBUTTON&gt;"I'll talk to them."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Nosotros, los Khirians, nos oponemos a los archdevas, pero la mayor parte de mi gente est&amp;#225; esclavizada. Nos referimos a ellos como los Parthia.&lt;BR&gt;&lt;BR&gt;Tienen un campamento cerca, pero no s&amp;#233; si nos dejar&amp;#225;n pasar sin luchar.&lt;NEXTPAGEBUTTON&gt;"I'll talk to them."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I hope diplomacy works for you.&lt;BR&gt;&lt;BR&gt;Look for Pariya. The Parthia respect her, but be careful.&lt;BR&gt;&lt;BR&gt;She's dangerous.&lt;br&gt;[ES] Espero que la diplomacia te funcione.&lt;BR&gt;&lt;BR&gt;Busca a Pariya. Los Parthia la respetan, pero ten cuidado.&lt;BR&gt;&lt;BR&gt;Es peligrosa.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1015">
+        <Page social="0">[EN] Hatishna? You believe such a popori tale?&lt;BR&gt;&lt;BR&gt;No one stands against Lord Dakuryon. You too shall kneel before him!&lt;br&gt;[ES] &amp;#191;Hatishna? &amp;#191;Crees semejante cuento de popori?&lt;BR&gt;&lt;BR&gt;Nadie se enfrenta al Lord Dakuryon. &amp;#161;T&amp;#250; tambi&amp;#233;n te arrodillar&amp;#225;s ante &amp;#233;l!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="172" prevId="9" villagerId="1200">
+        <Page social="4">[EN] Oh, &lt;PCNAME&gt;! You're here? Great!&lt;BR&gt;&lt;BR&gt;Did Zolyn like the picture? I worked for days on it. What did she say?&lt;NEXTPAGEBUTTON&gt;"She didn't care for it."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Oh, &lt;PCNAME&gt;! &amp;#191;Est&amp;#225;s aqu&amp;#237;? &amp;#161;Genial!&lt;BR&gt;&lt;BR&gt;&amp;#191;A Zolyn le gust&amp;#243; el dibujo? Trabaj&amp;#233; en &amp;#233;l durante d&amp;#237;as. &amp;#191;Qu&amp;#233; dijo?&lt;NEXTPAGEBUTTON&gt;"She didn't care for it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] She probably doesn't appreciate my abstract realism. I studied art for two days in Velika, so I know all about it.&lt;br&gt;[ES] Probablemente no aprecie mi realismo abstracto. Estudi&amp;#233; arte durante dos d&amp;#237;as en Velika, as&amp;#237; que s&amp;#233; todo al respecto.</Page>
+    </Text>
+</QuestDialog>

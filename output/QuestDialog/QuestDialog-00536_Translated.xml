@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1021">
+        <Page social="4">[EN] Ever studied relics? You should give it a try. Archaeology's a fascinating field and more relevant than you might think.&lt;BR&gt;&lt;BR&gt;Come on. It's easy!&lt;NEXTPAGEBUTTON&gt;"Well, I've never..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Alguna vez has estudiado reliquias? Deber&amp;#237;as intentarlo. La arqueolog&amp;#237;a es un campo fascinante y mucho m&amp;#225;s relevante de lo que imaginas.&lt;BR&gt;&lt;BR&gt;Vamos. &amp;#161;Es f&amp;#225;cil!&lt;NEXTPAGEBUTTON&gt;"Well, I've never..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Fear not! Nothing to it. Look around and collect &lt;font color='#660000'&gt;relic fragments&lt;/font&gt; scattered around the &lt;font color='#660000'&gt;entrance of the Stone Pillar Relics&lt;/font&gt; and bring them back to me.&lt;BR&gt;&lt;BR&gt;There's plenty to recover. If I'm right, they'll unlock a major secret! I might even get a mention in the Velika Guardian or Castanica Chronicle!&lt;br&gt;[ES] &amp;#161;No temas! No tiene nada de extra&amp;#241;o. Echa un vistazo y recoge los &lt;font color='#660000'&gt;relic fragments&lt;/font&gt; esparcidos por la &lt;font color='#660000'&gt;entrance of the Stone Pillar Relics&lt;/font&gt; y tr&amp;#225;emelos.&lt;BR&gt;&lt;BR&gt;Hay mucho que recuperar. Si tengo raz&amp;#243;n, &amp;#161;revelar&amp;#225;n un gran secreto! &amp;#161;Incluso podr&amp;#237;a conseguir una menci&amp;#243;n en el Velika Guardian o en el Castanica Chronicle!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1021">
+        <Page social="4">[EN] I told you it wasn't hard.&lt;BR&gt;&lt;BR&gt;These are nice samples. If you ever get tired of soldiering, you've got a solid future in archaeology.&lt;BR&gt;&lt;BR&gt;These are fascinating. Let me study them for a bit. Perhaps I'll know better how to proceed from here.&lt;br&gt;[ES] Te dije que no era dif&amp;#237;cil.&lt;BR&gt;&lt;BR&gt;Estas son buenas muestras. Si alguna vez te cansas de la vida militar, tienes un futuro s&amp;#243;lido en la arqueolog&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Son fascinantes. D&amp;#233;jame estudiarlas un rato. Quiz&amp;#225;s as&amp;#237; sepa mejor c&amp;#243;mo proceder a partir de ahora.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1021">
+        <Page social="0">[EN] I know it's not glamorous, but forgetting the past is tantamount to dooming our future! Give it a shot!&lt;br&gt;[ES] S&amp;#233; que no es glamoroso, &amp;#161;pero olvidar el pasado equivale a condenar nuestro futuro! &amp;#161;Pru&amp;#233;balo!</Page>
+    </Text>
+</QuestDialog>

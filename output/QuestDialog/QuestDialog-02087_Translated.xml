@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="131">
+        <Page social="0">[EN] It's almost impossible to get inside this fortress without being seen.&lt;BR&gt;&lt;BR&gt;But that means there some tricks we must use in this place.&lt;NEXTPAGEBUTTON&gt;"What do you mean?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Es casi imposible entrar a esta fortaleza sin ser visto.&lt;BR&gt;&lt;BR&gt;Pero eso significa que hay algunos trucos que debemos usar en este lugar.&lt;NEXTPAGEBUTTON&gt;"What do you mean?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I mean getting rid of those draakons. The draakons are proud and arrogant. Even though they're attacked, they won't call for any reinforcements outside the fortress.&lt;BR&gt;&lt;BR&gt;Defeat them and go to the engine room. Their backup is going to be slower than you think.&lt;NEXTPAGEBUTTON&gt;"What should I do?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Me refiero a deshacernos de esos draakons. Los draakons son orgullosos y arrogantes. Aunque sean atacados, no pedir&amp;#225;n refuerzos fuera de la fortaleza.&lt;BR&gt;&lt;BR&gt;Derr&amp;#243;talos y ve a la sala de m&amp;#225;quinas. Sus refuerzos van a ser m&amp;#225;s lentos de lo que piensas.&lt;NEXTPAGEBUTTON&gt;"What should I do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] We shouldn't run into any trouble if we act step by step. First, take care of the Ravagers over there.&lt;br&gt;[ES] No deber&amp;#237;amos tener ning&amp;#250;n problema si actuamos paso a paso. Primero, oc&amp;#250;pate de los Ravagers que est&amp;#225;n por all&amp;#225;.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="131">
+        <Page social="0">[EN] Good job. Hang on. I'll tell you what to do next.&lt;br&gt;[ES] Buen trabajo. Espera. Te dir&amp;#233; qu&amp;#233; hacer a continuaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

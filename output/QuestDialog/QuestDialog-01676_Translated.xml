@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">[EN] This labyrinth is filled with insane clowns who would pull their own arms off if it meant pleasing Killian.&lt;BR&gt;&lt;BR&gt;Killian's jesters came into this world for one purpose&amp;#8212;to entertain Killian.&lt;BR&gt;&lt;BR&gt;I charge you with this duty&amp;#8212;eliminate all the jesters in the labyrinth.&lt;br&gt;[ES] Este laberinto est&amp;#225; lleno de payasos dementes que se arrancar&amp;#237;an los brazos con tal de complacer a Killian.&lt;BR&gt;&lt;BR&gt;Los bufones de Killian llegaron a este mundo con un solo prop&amp;#243;sito: entretener a Killian.&lt;BR&gt;&lt;BR&gt;Te encomiendo esta tarea: elimina a todos los bufones del laberinto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">[EN] Excellent! That petulant child deserves to have some of his toys broken.&lt;BR&gt;&lt;BR&gt;On a practical level, if Killian is bored, he'll be more likely to make mistakes.&lt;br&gt;[ES] &amp;#161;Excelente! Ese ni&amp;#241;o petulante merece que le rompan algunos de sus juguetes.&lt;BR&gt;&lt;BR&gt;A nivel pr&amp;#225;ctico, si Killian est&amp;#225; aburrido, ser&amp;#225; m&amp;#225;s propenso a cometer errores.</Page>
+    </Text>
+</QuestDialog>

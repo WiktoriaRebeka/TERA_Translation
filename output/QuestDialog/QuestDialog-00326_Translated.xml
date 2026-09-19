@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="4">[EN] I know you came back here to help find Elleon, but I'll be blunt: we had a lot of shell-shocked survivors come back here...survivors that should have stayed in their hospital beds.&lt;BR&gt;&lt;BR&gt;Don't get me wrong. I want you to find Elleon, but I don't want to someday be trying to find you. We need to make sure you're fully recovered and ready for combat.&lt;BR&gt;&lt;BR&gt;Speak with &lt;font color='#660000'&gt;Centurion Barsabba&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;If that old warhorse says you're ready for duty, that's good enough for me.&lt;br&gt;[ES] S&amp;#233; que volviste aqu&amp;#237; para ayudar a encontrar a Elleon, pero ser&amp;#233; sincero: aqu&amp;#237; han regresado muchos supervivientes traumatizados... supervivientes que deber&amp;#237;an haberse quedado en sus camas de hospital.&lt;BR&gt;&lt;BR&gt;No me malinterpretes. Quiero que encuentres a Elleon, pero no quiero tener que buscarte a ti alg&amp;#250;n d&amp;#237;a. Debemos asegurarnos de que est&amp;#233;s totalmente recuperado y listo para el combate.&lt;BR&gt;&lt;BR&gt;Habla con &lt;font color='#660000'&gt;Centurion Barsabba&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Si ese viejo veterano dice que est&amp;#225;s listo para el servicio, con eso me basta.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1106">
+        <Page social="4">[EN] We all want revenge on the demons, but this time we're going to be prepared. No more surprise storms or disastrous beach landings.&lt;BR&gt;&lt;BR&gt;You look as healthy as any other &lt;PCCLASS:lcase&gt;. But looks can be deceiving.&lt;br&gt;[ES] Todos queremos venganza contra los demonios, pero esta vez vamos a estar preparados. No m&amp;#225;s tormentas sorpresa ni desembarcos desastrosos en las playas.&lt;BR&gt;&lt;BR&gt;Te ves tan sano como cualquier otro &lt;PCCLASS:lcase&gt;. Pero las apariencias enga&amp;#241;an.</Page>
+    </Text>
+</QuestDialog>

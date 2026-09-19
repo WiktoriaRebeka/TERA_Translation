@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1005">
+        <Page social="5">[EN] (This is a crate of federation rations and supplies. It's large enough to hold a month's worth of food for a whole unit.)&lt;br&gt;[ES] (Esta es una caja de raciones y suministros de la federaci&amp;#243;n. Es lo suficientemente grande como para contener la comida de un mes para toda una unidad.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1007">
+        <Page social="5">[EN] What's that you&amp;#8212;oh, these are them! These are the supplies! &lt;PCNAME&gt;, you're a hero!&lt;BR&gt;&lt;BR&gt;I knew it. I knew our goods were falling into the Cult's hands. If I find the person who signed for these....&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; es eso que&amp;#8212;oh, &amp;#161;estas son! &amp;#161;Estos son los suministros! &amp;#161;&lt;PCNAME&gt;, eres un h&amp;#233;roe!&lt;BR&gt;&lt;BR&gt;Lo sab&amp;#237;a. Sab&amp;#237;a que nuestros bienes estaban cayendo en manos del Cult. Si encuentro a la persona que firm&amp;#243; por esto...</Page>
+    </Text>
+</QuestDialog>

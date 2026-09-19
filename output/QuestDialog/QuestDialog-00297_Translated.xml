@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0">[EN] I'll bet that magic stone is right next to {@LinkCreature:11#5003#Orless}, the captain of the Red Lashes.&lt;BR&gt;&lt;BR&gt;But he ain't giving it up without a fight. You look like you got a lot of fight in you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Head down the northern stairs, and you'll reach the cabin Orless calls home. Beat some answers out of him!&lt;br&gt;[ES] Apuesto a que esa piedra m&amp;#225;gica est&amp;#225; justo al lado de {@LinkCreature:11#5003#Orless}, el capit&amp;#225;n de los Red Lashes.&lt;BR&gt;&lt;BR&gt;Pero no va a entregarla sin dar pelea. Tienes pinta de que te sobra pelea, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Baja por las escaleras del norte y llegar&amp;#225;s a la caba&amp;#241;a a la que Orless llama hogar. &amp;#161;S&amp;#225;cale algunas respuestas a golpes!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">[EN] Well, the words on the map are in code. And math wasn't exactly my best subject in reform school.&lt;BR&gt;&lt;BR&gt;Take this to Ilaria on the Jagged Coast. She has a head for figures, and a figure for...&lt;BR&gt;&lt;BR&gt;Never mind. Long story.&lt;br&gt;[ES] Bueno, las palabras del mapa est&amp;#225;n en c&amp;#243;digo. Y las matem&amp;#225;ticas no eran precisamente mi fuerte en el reformatorio.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale esto a Ilaria en la costa Jagged. Ella tiene cabeza para los n&amp;#250;meros y una figura para...&lt;BR&gt;&lt;BR&gt;Olv&amp;#237;dalo. Es una historia larga.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">[EN] {@LinkCreature:11#5003#Orless} is the key. Don't you want to have the key?&lt;br&gt;[ES] {@LinkCreature:11#5003#Orless} es la clave. &amp;#191;Acaso no quieres tener la clave?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="3" villagerId="1005">
+        <Page social="4">[EN] Fate smile upon you, &lt;PCNAME&gt;. Any news from the grotto?&lt;BR&gt;&lt;BR&gt;What? A dementalith? And bombs? Titans preserve us!&lt;BR&gt;&lt;BR&gt;Let me look at the map you have. They're pirates. How good could their code be?&lt;NEXTPAGEBUTTON&gt;"Here you go."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Que la fortuna te sonr&amp;#237;a, &lt;PCNAME&gt;. &amp;#191;Alguna noticia de la gruta?&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233;? &amp;#191;Un dementalith? &amp;#191;Y bombas? &amp;#161;Que los titanes nos protejan!&lt;BR&gt;&lt;BR&gt;D&amp;#233;jame ver el mapa que tienes. Son piratas. &amp;#191;Qu&amp;#233; tan bueno puede ser su c&amp;#243;digo?&lt;NEXTPAGEBUTTON&gt;"Here you go."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Let's see...first, inner, outer, last...got it!&lt;BR&gt;&lt;BR&gt;Hmmm. You aren't going to like this, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;This map is an emergency land route out of the grotto. The pirates took the dementalith overland...to the north.&lt;BR&gt;&lt;BR&gt;Worse...it's labeled as the "stone of insanity."&lt;br&gt;[ES] A ver... primero, interior, exterior, &amp;#250;ltimo... &amp;#161;lo tengo!&lt;BR&gt;&lt;BR&gt;Hmmm. Esto no te va a gustar, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Este mapa es una ruta de evacuaci&amp;#243;n terrestre para salir de la gruta. Los piratas se llevaron el dementalith por tierra... hacia el norte.&lt;BR&gt;&lt;BR&gt;Lo que es peor... est&amp;#225; catalogado como la &quot;piedra de la locura&quot;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="100">
+        <Page social="0">[EN] Thank you. Now that the security of the entrance is loose, it should be easier for us to do our job.&lt;BR&gt;&lt;BR&gt;My last request is to defeat the Sentries guarding the entrance of the Dark Path. Without the Sentries, it would be easier for Free Exodor to attack the fortress.&lt;br&gt;[ES] Gracias. Ahora que la seguridad de la entrada est&amp;#225; descuidada, deber&amp;#237;a ser m&amp;#225;s f&amp;#225;cil para nosotros hacer nuestro trabajo.&lt;BR&gt;&lt;BR&gt;Mi &amp;#250;ltima petici&amp;#243;n es derrotar a los Sentries que custodian la entrada del Dark Path. Sin los Sentries, ser&amp;#237;a m&amp;#225;s f&amp;#225;cil para Free Exodor atacar la fortaleza.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="0">[EN] Thank you for your help.&lt;BR&gt;&lt;BR&gt;Now go to the fortress with your friends and do what you must do.&lt;br&gt;[ES] Gracias por tu ayuda.&lt;BR&gt;&lt;BR&gt;Ahora ve a la fortaleza con tus amigos y haz lo que debas hacer.</Page>
+    </Text>
+</QuestDialog>

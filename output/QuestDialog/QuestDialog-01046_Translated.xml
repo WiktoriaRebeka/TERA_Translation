@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1026">
+        <Page social="4">[EN] That squirming pipelike structure to my right is a zalgeg coil left by the argons; the only operational item they left behind, as far as I know.&lt;BR&gt;&lt;BR&gt;Perhaps you could secure a piece for us.&lt;br&gt;[ES] Esa estructura serpenteante con forma de tubo a mi derecha es una bobina zalgeg dejada por los argons; el &amp;#250;nico objeto operativo que dejaron atr&amp;#225;s, hasta donde s&amp;#233;.&lt;BR&gt;&lt;BR&gt;Tal vez podr&amp;#237;as conseguirnos una pieza.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1026">
+        <Page social="4">[EN] It's not alive...that's a relief, I suppose.&lt;BR&gt;&lt;BR&gt;It might be this peculiar water that makes it writhe. Or the substance inside...like bright blue blood.&lt;br&gt;[ES] No est&amp;#225; viva... eso es un alivio, supongo.&lt;BR&gt;&lt;BR&gt;Puede ser esta agua tan peculiar lo que la hace retorcerse. O la sustancia de su interior... como sangre azul brillante.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1026">
+        <Page social="0">[EN] One piece of a goodly size will do, thanks.&lt;br&gt;[ES] Una pieza de buen tama&amp;#241;o bastar&amp;#225;, gracias.</Page>
+    </Text>
+</QuestDialog>

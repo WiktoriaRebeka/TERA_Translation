@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1013">
+        <Page social="4">[EN] The sikandaris wish to regain control of their Hatchery and we'll oblige them.&lt;BR&gt;&lt;BR&gt;Killian brought in some ebon fimbrilisks, probably to keep the argons and the sikandaris in line, and they must die.&lt;BR&gt;&lt;BR&gt;With the fimbrilisks dead, we can work on clearing out the argons.&lt;br&gt;[ES] Los sikandaris desean recuperar el control de su Hatchery y nosotros los complaceremos.&lt;BR&gt;&lt;BR&gt;Killian trajo algunos ebon fimbrilisks, probablemente para mantener a raya a los argons y a los sikandaris, y deben morir.&lt;BR&gt;&lt;BR&gt;Con los fimbrilisks muertos, podemos trabajar en limpiar a los argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1013">
+        <Page social="4">[EN] We must hope the sikandaris recognize we're taking the high road, helping them in spite of what they did to us.&lt;BR&gt;&lt;BR&gt;The goal had better be worth the price.&lt;br&gt;[ES] Debemos esperar que los sikandaris reconozcan que estamos tomando el camino correcto, ayud&amp;#225;ndolos a pesar de lo que nos hicieron.&lt;BR&gt;&lt;BR&gt;M&amp;#225;s vale que el objetivo valga la pena.</Page>
+    </Text>
+</QuestDialog>

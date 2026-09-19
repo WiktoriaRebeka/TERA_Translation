@@ -1,0 +1,9 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="3035" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Welcome to the world of TERA.&lt;br&gt;[ES] Bienvenido al mundo de TERA.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="30351001">
+        <Page social="0">[EN] Welcome to Valkyon Federation Headquarters. Please talk to Seir and accept the [Important] Velik's Dream quest.&lt;br&gt;[ES] Bienvenido a Valkyon Federation Headquarters. Habla con Seir y acepta la misi&amp;#243;n [Importante] El sue&amp;#241;o de Velik.</Page>
+    </Text>
+</QuestDialog>

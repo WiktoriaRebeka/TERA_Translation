@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1001">
+        <Page social="4">[EN] {@Rgn:45008$$Field Base Valiance} needs you even more than we do.&lt;BR&gt;&lt;BR&gt;Unfortunately, you'll have to go through {@LinkCreature:45#3001#argonomorph Lokian archers} to even get close. Report to Lahiah if...I mean when...you get there.&lt;br&gt;[ES] {@Rgn:45008$$Field Base Valiance} te necesita incluso m&amp;#225;s que nosotros.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, tendr&amp;#225;s que abrirte paso entre los {@LinkCreature:45#3001#argonomorph Lokian archers} tan solo para acercarte. Pres&amp;#233;ntate ante Lahiah si... quiero decir, cuando... llegues all&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1005">
+        <Page social="4">[EN] Glad to see you, &lt;PCCLASS:lcase&gt;, but we're not the ones who need your help. Stick around and I'll fill you in.&lt;br&gt;[ES] Me alegra verte, &lt;PCCLASS:lcase&gt;, pero no somos nosotros quienes necesitamos tu ayuda. Qu&amp;#233;date un momento y te pondr&amp;#233; al corriente.</Page>
+    </Text>
+</QuestDialog>

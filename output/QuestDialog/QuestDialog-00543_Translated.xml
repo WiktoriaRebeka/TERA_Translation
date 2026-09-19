@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="4">[EN] My work is being hampered by bureaucracy. The basilisks need to be studied in their natural habitat but we're not allowed into the area!&lt;BR&gt;&lt;BR&gt;I know full well the dangers we face but someone has to take the risks!&lt;NEXTPAGEBUTTON&gt;"Can I help?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Mi trabajo se est&amp;#225; viendo obstaculizado por la burocracia. &amp;#161;Hay que estudiar a los basilisks en su h&amp;#225;bitat natural, pero no se nos permite entrar a la zona!&lt;BR&gt;&lt;BR&gt;S&amp;#233; muy bien los peligros que enfrentamos, &amp;#161;pero alguien tiene que asumir los riesgos!&lt;NEXTPAGEBUTTON&gt;"Can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Actually, yes. Head out to the &lt;font color='#660000'&gt;Desert Overwatch&lt;/font&gt; and deliver my &lt;font color='#660000'&gt;entry permit&lt;/font&gt; to &lt;font color='#660000'&gt;Rhysart&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;With luck, that will be enough to convince him to let us through.&lt;br&gt;[ES] En realidad, s&amp;#237;. Dir&amp;#237;gete al &lt;font color='#660000'&gt;Desert Overwatch&lt;/font&gt; y entrega mi &lt;font color='#660000'&gt;entry permit&lt;/font&gt; a &lt;font color='#660000'&gt;Rhysart&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Con suerte, eso ser&amp;#225; suficiente para convencerlo de dejarnos pasar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1029">
+        <Page social="4">[EN] Save your breath. As I explained last week, permit or not, it's too dangerous to venture in here. The Mysterium lost an agent last week!&lt;BR&gt;&lt;BR&gt;I know they're willing, but I have my orders, too.&lt;br&gt;[ES] Ah&amp;#243;rrate el aliento. Como expliqu&amp;#233; la semana pasada, con permiso o sin &amp;#233;l, es demasiado peligroso aventurarse aqu&amp;#237;. &amp;#161;El Mysterium perdi&amp;#243; a un agente la semana pasada!&lt;BR&gt;&lt;BR&gt;S&amp;#233; que est&amp;#225;n dispuestos, pero yo tambi&amp;#233;n tengo mis &amp;#243;rdenes.</Page>
+    </Text>
+</QuestDialog>

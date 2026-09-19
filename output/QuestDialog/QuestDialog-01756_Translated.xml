@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="6016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="6016">
+        <Page social="4" voiceTypeId="0">[EN] We need to secure more medical supplies.&lt;BR&gt;&lt;BR&gt;Can you help us out?&lt;NEXTPAGEBUTTON&gt;"I'm on it."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Necesitamos asegurar m&amp;#225;s suministros m&amp;#233;dicos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ayudarnos?&lt;NEXTPAGEBUTTON&gt;"I'm on it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] Thank you.&lt;BR&gt;&lt;BR&gt;You should go to High Elder Verikam in Highwatch and ask if they have any to spare.&lt;br&gt;[ES] Gracias.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as ir a ver al Gran Anciano Verikam en Highwatch y preguntar si tienen algunos de sobra.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1007">
+        <Page social="4" voiceTypeId="0">[EN] I see.&lt;BR&gt;&lt;BR&gt;We'll support the federation as much as we can, of course. But I'm afraid that it won't be enough.&lt;BR&gt;&lt;BR&gt;I'll send out searchers and have them gather herbs.&lt;BR&gt;&lt;BR&gt;You should gather some yourself on your way back to the camp.&lt;NEXTPAGEBUTTON&gt;"I'll do that."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ya veo.&lt;BR&gt;&lt;BR&gt;Apoyaremos a la federaci&amp;#243;n tanto como podamos, por supuesto. Pero me temo que no ser&amp;#225; suficiente.&lt;BR&gt;&lt;BR&gt;Enviar&amp;#233; exploradores para que recolecten hierbas.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as recolectar algunas t&amp;#250; mismo en tu camino de regreso al campamento.&lt;NEXTPAGEBUTTON&gt;"I'll do that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="6016">
+        <Page social="4" voiceTypeId="0">[EN] Thank you so much.&lt;BR&gt;&lt;BR&gt;With the supplies from Highwatch, this should be enough to patch up our troops.&lt;NEXTPAGEBUTTON&gt;"I hope they get well soon."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Muchas gracias.&lt;BR&gt;&lt;BR&gt;Con los suministros de Highwatch, esto deber&amp;#237;a ser suficiente para remendar a nuestras tropas.&lt;NEXTPAGEBUTTON&gt;"I hope they get well soon."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

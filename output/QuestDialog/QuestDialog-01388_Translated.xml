@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1022">
+        <Page social="4">[EN] &lt;PCNAME&gt;, Khulil says we're cut off from Sonacria at Broken Bridge Camp by two sikandari fighters, Ctholak and Pothika.&lt;BR&gt;&lt;BR&gt;They've slaughtered everyone who's faced them. Knowing that, they still have to die. Sonacria must be told about Killian's involvement and the growing Atel Akaad presence.&lt;BR&gt;&lt;BR&gt;For the federation!&lt;br&gt;[ES] &lt;PCNAME&gt;, Khulil dice que estamos aislados de Sonacria en Broken Bridge Camp por dos peleadores sikandaris, Ctholak y Pothika.&lt;BR&gt;&lt;BR&gt;Han masacrado a todos los que los han enfrentado. Sabiendo eso, a&amp;#250;n tienen que morir. Hay que informarle a Sonacria sobre la participaci&amp;#243;n de Killian y la creciente presencia de Atel Akaad.&lt;BR&gt;&lt;BR&gt;&amp;#161;Por la federaci&amp;#243;n!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1008">
+        <Page social="4">[EN] You got through? Seems that there's no dross in you!&lt;BR&gt;&lt;BR&gt;I suspected Killian's involvement&amp;#8212;that freak loves chaos and mayhem&amp;#8212;but the connection to the Atel Akaad scares me.&lt;BR&gt;&lt;BR&gt;Well, there's nothing to do but our duty. Ready for a fight?&lt;br&gt;[ES] &amp;#191;Lograste pasar? &amp;#161;Parece que no tienes nada de escoria!&lt;BR&gt;&lt;BR&gt;Sospechaba de la participaci&amp;#243;n de Killian &amp;#8212;a ese fen&amp;#243;meno le encantan el caos y los estragos&amp;#8212;, pero la conexi&amp;#243;n con los Atel Akaad me asusta.&lt;BR&gt;&lt;BR&gt;Bueno, no hay nada que hacer m&amp;#225;s que cumplir con nuestro deber. &amp;#191;Listo para una pelea?</Page>
+    </Text>
+</QuestDialog>

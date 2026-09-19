@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1023">
+        <Page social="4">[EN] I keep overhearing things. They're saying the arachnens have something to do with the awful plague in Frontera.&lt;BR&gt;&lt;BR&gt;If you search their lab and find the answer, maybe we'll be able to go home.&lt;BR&gt;&lt;BR&gt;I don't want to raise my daughter in this horrible place!&lt;br&gt;[ES] Sigo escuchando cosas por ah&amp;#237;. Dicen que los arachnens tienen algo que ver con la horrible plaga en Frontera.&lt;BR&gt;&lt;BR&gt;Si buscas en su laboratorio y encuentras la respuesta, tal vez podamos irnos a casa.&lt;BR&gt;&lt;BR&gt;&amp;#161;No quiero criar a mi hija en este lugar horrible!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1023">
+        <Page social="0">[EN] Maybe someone can get some answers from this, and we can go home again.&lt;br&gt;[ES] Tal vez alguien pueda obtener algunas respuestas de esto, y podamos volver a casa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1023">
+        <Page social="0">[EN] We need to know what the arachnens were doing. Bring back everything you can from the lab.&lt;br&gt;[ES] Necesitamos saber qu&amp;#233; estaban haciendo los arachnens. Trae de vuelta todo lo que puedas del laboratorio.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1000">
+        <Page social="0">[EN] With the crash of Intrepid, the Vanguard Initiatve suffered a major loss. You helped take stock before continuing with the mission.&lt;br&gt;[ES] Con el accidente del Intrepid, la Vanguard Initiative sufri&amp;#243; una gran p&amp;#233;rdida. Ayudaste a hacer balance antes de continuar con la misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1000">
+        <Page social="4">[EN] Most of the Vanguards escaped, thanks to you. Still, things look bad for our mission.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] La mayor&amp;#237;a de los Vanguards escaparon, gracias a ti. A&amp;#250;n as&amp;#237;, las cosas pintan mal para nuestra misi&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] We should secure our supplies before something awful eats them. Without the sky cruiser, who knows when we'll get resupplied.&lt;BR&gt;&lt;BR&gt;Can you help get the supplies to Dougal?&lt;br&gt;[ES] Debemos asegurar nuestros suministros antes de que algo horrible se los coma. Sin el crucero a&amp;#233;reo, qui&amp;#233;n sabe cu&amp;#225;ndo recibiremos provisiones.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ayudar a llevar los suministros a Dougal?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1001">
+        <Page social="4">[EN] Well done, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Well, we made it to Northern Arun, so we can still complete our mission.&lt;BR&gt;&lt;BR&gt;Ask Zolyn how the troops are. We need to know our fighting capability before we move out.&lt;br&gt;[ES] Bien hecho, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Bueno, llegamos al norte de Arun, as&amp;#237; que a&amp;#250;n podemos completar nuestra misi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Preg&amp;#250;ntale a Zolyn c&amp;#243;mo est&amp;#225;n las tropas. Necesitamos saber nuestra capacidad de combate antes de partir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" villagerId="1001">
+        <Page social="0">[EN] Is this all? Really?&lt;br&gt;[ES] &amp;#191;Es todo esto? &amp;#191;En serio?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="3" villagerId="1002">
+        <Page social="4">[EN] Damn it, &lt;PCNAME&gt;! I'm a reaper, not a doctor.&lt;BR&gt;&lt;BR&gt;Check on the wounded yourself. I'm looking for Syona's trail!&lt;br&gt;[ES] &amp;#161;Maldita sea, &lt;PCNAME&gt;! Soy un Reaper, no un m&amp;#233;dico.&lt;BR&gt;&lt;BR&gt;&amp;#161;Revisa a los heridos t&amp;#250; mismo! &amp;#161;Estoy buscando el rastro de Syona!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1003">
+        <Page social="4">[EN] My leg! I think my ankle's shattered. Is bone supposed to stick out?&lt;BR&gt;&lt;BR&gt;Help me!&lt;br&gt;[ES] &amp;#161;Mi pierna! Creo que tengo el tobillo destrozado. &amp;#191;Se supone que el hueso debe sobresalir?&lt;BR&gt;&lt;BR&gt;&amp;#161;Ay&amp;#250;dame!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1004">
+        <Page social="4">[EN] Augh, it hurts when I breathe. Blast! What's the point?&lt;BR&gt;&lt;BR&gt;We're never getting home, are we?&lt;br&gt;[ES] Augh, me duele al respirar. &amp;#161;Demonios! &amp;#191;Qu&amp;#233; sentido tiene?&lt;BR&gt;&lt;BR&gt;Nunca volveremos a casa, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1002">
+        <Page social="4">[EN] Tysan's injury will slow us down. I'll order Paesyn to make a litter to carry him.&lt;BR&gt;&lt;BR&gt;Broderik's just going to work through his. No one goes home until we find Syona!&lt;br&gt;[ES] La lesi&amp;#243;n de Tysan nos retrasar&amp;#225;. Le ordenar&amp;#233; a Paesyn que fabrique una camilla para transportarlo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Broderik simplemente seguir&amp;#225; adelante a pesar de todo! &amp;#161;Nadie va a casa hasta que encontremos a Syona!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1001">
+        <Page social="4">[EN] The injuries could have been much worse. We'll count our blessings.&lt;BR&gt;&lt;BR&gt;Fine work. Just like old times, eh?&lt;br&gt;[ES] Las lesiones podr&amp;#237;an haber sido mucho peores. Contaremos nuestras bendiciones.&lt;BR&gt;&lt;BR&gt;Buen trabajo. Como en los viejos tiempos, &amp;#191;eh?</Page>
+    </Text>
+</QuestDialog>

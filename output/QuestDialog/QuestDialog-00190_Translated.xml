@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1002">
+        <Page social="4">[EN] We need to hit the gulas' slave operation where it hurts&amp;#8212;right in the coinpurse.&lt;BR&gt;&lt;BR&gt;No, that's not a euphemism. I'm talking about actual coinpurses.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:8#2051#devan acolytes} run a lot of the business at the slave markets. See if you can make them take their coinpurses elsewhere. Greed is the worst!&lt;br&gt;[ES] Tenemos que golpear la operaci&amp;#243;n de esclavos de los gulas donde m&amp;#225;s les duele: directo en las bolsas de monedas.&lt;BR&gt;&lt;BR&gt;No, eso no es un eufemismo. Estoy hablando de bolsas de monedas de verdad.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:8#2051#devan acolytes} dirigen gran parte del negocio en los mercados de esclavos. Ve si puedes hacer que lleven sus bolsas de monedas a otra parte. &amp;#161;La avaricia es lo peor!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1002">
+        <Page social="4">[EN] Those devas were no better than the gulas. You did well.&lt;br&gt;[ES] Esos devas no eran mejores que los gulas. Lo hiciste bien.</Page>
+    </Text>
+</QuestDialog>

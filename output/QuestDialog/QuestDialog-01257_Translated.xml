@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1032">
+        <Page social="4">[EN] Before Thulsa's army took over, this was a land of animals and hunters. Mugatos are especially notorious for their ferocity.&lt;BR&gt;&lt;BR&gt;But the fur...the soft, warm fur.&lt;BR&gt;&lt;BR&gt;Bring me the hides of furious mugatos on the Scorched Snowfield.&lt;BR&gt;&lt;BR&gt;It's not for me! I want to make winter coats for our soldiers.&lt;br&gt;[ES] Antes de que el ej&amp;#233;rcito de Thulsa se apoderara de esto, esta era una tierra de animales y cazadores. Los mugatos son especialmente conocidos por su ferocidad.&lt;BR&gt;&lt;BR&gt;Pero la piel... la piel suave y c&amp;#225;lida.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme las pieles de los furiosos mugatos en el Scorched Snowfield.&lt;BR&gt;&lt;BR&gt;&amp;#161;No es para m&amp;#237;! Quiero hacer abrigos de invierno para nuestros soldados.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1032">
+        <Page social="4">[EN] This is enough to make a coat for every soldier, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I've always wanted to help our soldiers, and I couldn't have done it without you.&lt;br&gt;[ES] Esto es suficiente para hacer un abrigo para cada soldado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Siempre he querido ayudar a nuestros soldados, y no habr&amp;#237;a podido hacerlo sin ti.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1032">
+        <Page social="0">[EN] Furious mugatos inhabit the Scorched Snowfield, but in small numbers.&lt;BR&gt;&lt;BR&gt;Please bring me as many mugato hides as possible.&lt;br&gt;[ES] Los furiosos mugatos habitan el Scorched Snowfield, pero en peque&amp;#241;as cantidades.&lt;BR&gt;&lt;BR&gt;Por favor tr&amp;#225;eme tantas pieles de mugato como sea posible.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="0">[EN] You learned that drums and pond lilies attract tuwangis, and that the tuwangi use drums to drive frogs away.&lt;br&gt;[ES] Aprendiste que los tambores y los nen&amp;#250;fares atraen a los tuwangis, y que estos usan tambores para alejar a las ranas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="4">[EN] Vedobo looking for help. You big help. Go help Vedobo. &lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Vedobo busca ayuda. T&amp;#250; gran ayuda. Ve a ayudar a Vedobo. &lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2002">
+        <Page social="4">[EN] Some tuwangis like drum. We drum; tuwangis come.&lt;BR&gt;&lt;BR&gt;Some tuwangis like flowers. Need flowers to bring tuwangis!&lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] A algunos tuwangis les gusta el tambor. Nosotros tambor; tuwangis vienen.&lt;BR&gt;&lt;BR&gt;A algunos tuwangis les gustan las flores. &amp;#161;Necesitamos flores para atraer tuwangis!&lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="2002">
+        <Page social="4">[EN] You bring good flowers. Flowers bring tuwangis.&lt;BR&gt;&lt;BR&gt;Drums bring tuwangis, too.&lt;BR&gt;&lt;BR&gt;Go learn to drum from Kukuta!&lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Trajiste buenas flores. Las flores traen tuwangis.&lt;BR&gt;&lt;BR&gt;Los tambores tambi&amp;#233;n traen tuwangis.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve a aprender a tocar el tambor con Kukuta!&lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" villagerId="2002">
+        <Page social="0">[EN] Need flowers.&lt;br&gt;[ES] Necesito flores.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="4" villagerId="2003">
+        <Page social="4">[EN] Drumming easy!&lt;BR&gt;&lt;BR&gt;Beat drum. Red frog, red drum! Purple frog, purple drum! Blue frog, blue drum!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; try? &lt;NEXTPAGEBUTTON&gt;Sure, I'll try.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Tocar el tambor es f&amp;#225;cil!&lt;BR&gt;&lt;BR&gt;Golpea el tambor. &amp;#161;Rana roja, tambor rojo! &amp;#161;Rana morada, tambor morado! &amp;#161;Rana azul, tambor azul!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; &amp;#191;Intentar? &lt;NEXTPAGEBUTTON&gt;Sure, I'll try.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" prevId="6" villagerId="2003">
+        <Page social="0">[EN] Play drum for tuwangis!&lt;br&gt;[ES] &amp;#161;Toca el tambor para los tuwangis!</Page>
+    </Text>
+</QuestDialog>

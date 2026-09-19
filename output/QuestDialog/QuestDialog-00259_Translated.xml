@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="4">[EN] Well, we certainly got their attention, but we need to keep hitting them.&lt;BR&gt;&lt;BR&gt;Slay {@LinkCreature:10#23#Midirix}, whom they say has "scales which cannot be scratched, and fangs which cannot be dulled."&lt;BR&gt;&lt;BR&gt;Show them you've got courage that can't be matched.&lt;br&gt;[ES] Bueno, sin duda captamos su atenci&amp;#243;n, pero tenemos que seguir golpe&amp;#225;ndolos.&lt;BR&gt;&lt;BR&gt;Derrota a {@LinkCreature:10#23#Midirix}, de quien dicen que tiene &quot;escamas que no se pueden rayar y colmillos que no se pueden desafilar&quot;.&lt;BR&gt;&lt;BR&gt;Mu&amp;#233;strales que tienes un valor inigualable.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1003">
+        <Page social="4">[EN] Midirix is out of the picture&amp;#8212;and I bet the picture is starting to look bleak for our scaly friends at the temple.&lt;br&gt;[ES] Midirix est&amp;#225; fuera de combate, y apuesto a que el panorama empieza a verse sombr&amp;#237;o para nuestros amigos escamosos en el templo.</Page>
+    </Text>
+</QuestDialog>

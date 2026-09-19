@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1006">
+        <Page social="4">[EN] Warn Blackspring Camp that these undead are our own missing. Nobody else can stop this slaughter.&lt;BR&gt;&lt;BR&gt;Of the two ways to the camp, the west passage is safest. Casias is our scout there. He'll show you the way.&lt;BR&gt;&lt;BR&gt;Move, soldier!&lt;br&gt;[ES] Advierte a Blackspring Camp de que estos no-muertos son nuestros propios desaparecidos. Nadie m&amp;#225;s puede detener esta masacre.&lt;BR&gt;&lt;BR&gt;De los dos caminos hacia el campamento, el paso oeste es el m&amp;#225;s seguro. Casias es nuestro explorador all&amp;#237;. &amp;#201;l te mostrar&amp;#225; el camino.&lt;BR&gt;&lt;BR&gt;&amp;#161;En marcha, soldado!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1014">
+        <Page social="4">[EN] Such news. Then time is indeed of the essence! Blackspring is straight south from here. This side of the road is safe up to the cave. The camp is visible from the cave's mouth. Stay safe, friend.&lt;br&gt;[ES] Menuda noticia. &amp;#161;Entonces el tiempo apremia de verdad! Blackspring est&amp;#225; justo al sur de aqu&amp;#237;. Este lado del camino es seguro hasta la cueva. El campamento es visible desde la boca de la cueva. Cu&amp;#237;date, amigo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" prevId="3" villagerId="1008">
+        <Page social="4">[EN] Damn right the undead are from here. Mekonari occultists run them up the eastern road in streams, but we can barely hold this camp.&lt;BR&gt;&lt;BR&gt;Your mission's not over yet, soldier. Get over there and break up those caravans!&lt;br&gt;[ES] Maldita sea si los no-muertos no son de aqu&amp;#237;. Los ocultistas mekonari los hacen subir por el camino del este en tromba, pero apenas podemos mantener este campamento.&lt;BR&gt;&lt;BR&gt;Tu misi&amp;#243;n a&amp;#250;n no ha terminado, soldado. &amp;#161;Ve all&amp;#225; y destroza esas caravanas!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" prevId="4" villagerId="1008">
+        <Page social="4">[EN] By the Long Road, I'll hear them in my dreams&amp;#8212;those kidnapped villagers, begging us to rescue them as the mekonaris dragged them by.&lt;BR&gt;&lt;BR&gt;Each one they took weakened us and strengthened them.&lt;br&gt;[ES] Por el Camino Largo, los escuchar&amp;#233; en mis sue&amp;#241;os: esos aldeanos secuestrados, suplic&amp;#225;ndonos que los rescatemos mientras los mekonaris se los llevaban a rastras.&lt;BR&gt;&lt;BR&gt;Cada uno que se llevaron nos debilit&amp;#243; y los fortaleci&amp;#243;.</Page>
+    </Text>
+</QuestDialog>

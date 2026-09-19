@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1012">
+        <Page social="5">[EN] The poporis need gear, but Velika has been slow to useless about sending any here. I guess we'll have to take matters into our own hands.&lt;BR&gt;&lt;BR&gt;Chop down some {@LinkCreature:23#2#ironwood ghilliedhus} and collect their bark. That stuff makes decent shields.&lt;br&gt;[ES] Los poporis necesitan equipamiento, pero Velika ha tardado demasiado o no ha servido de nada al enviar algo por aqu&amp;#237;. Supongo que tendremos que tomar cartas en el asunto.&lt;BR&gt;&lt;BR&gt;Derriba unos {@LinkCreature:23#2#ironwood ghilliedhus} y recolecta su corteza. Esa cosa sirve para hacer escudos decentes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1012">
+        <Page social="5">[EN] I'll crank out some shields.&lt;BR&gt;&lt;BR&gt;You've saved some lives today, &lt;PCNAME&gt;. Hopefully, it'll earn you a transfer to a region with bigger problems than this.&lt;BR&gt;&lt;BR&gt;Still, it's the little steps we take now that pay off big in the end.&lt;BR&gt;&lt;BR&gt;I hope.&lt;br&gt;[ES] Fabricar&amp;#233; algunos escudos.&lt;BR&gt;&lt;BR&gt;Has salvado algunas vidas hoy, &lt;PCNAME&gt;. Con suerte, eso har&amp;#225; que te trasladen a una regi&amp;#243;n con problemas m&amp;#225;s grandes que este.&lt;BR&gt;&lt;BR&gt;Aun as&amp;#237;, son los peque&amp;#241;os pasos que damos ahora los que dan grandes frutos al final.&lt;BR&gt;&lt;BR&gt;Eso espero.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1012">
+        <Page social="0">[EN] I know this isn't glamorous, but the poporis are our allies. We need to help them as best we can.&lt;BR&gt;&lt;BR&gt;So, get back out there and bring back some bark.&lt;br&gt;[ES] S&amp;#233; que esto no es glamuroso, pero los poporis son nuestros aliados. Tenemos que ayudarles lo mejor posible.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que vuelve all&amp;#225; fuera y trae algo de corteza.</Page>
+    </Text>
+</QuestDialog>

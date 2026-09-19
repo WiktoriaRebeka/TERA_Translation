@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="4">[EN] The Black Claw tribe is one of the most hostile orcan groups around here. They even attack Frontera from time to time. This can't go on.&lt;BR&gt;&lt;BR&gt;I'd like you to hunt some {@LinkCreature:41#2004#Black Claw fighters} and {@LinkCreature:41#2005#raiders} for me. And bring their arms back to {@LinkCreature:241#1003$$Jaebel}. She'll hang them up around the camp as a warning.&lt;br&gt;[ES] La tribu Black Claw es uno de los grupos orcans m&amp;#225;s hostiles por aqu&amp;#237;. Incluso atacan Frontera de vez en cuando. Esto no puede seguir as&amp;#237;.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a que caces algunos {@LinkCreature:41#2004#Black Claw fighters} y {@LinkCreature:41#2005#raiders} para m&amp;#237;. Y trae sus armas de vuelta a {@LinkCreature:241#1003$$Jaebel}. Ella las colgar&amp;#225; por el campamento como advertencia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1003">
+        <Page social="4">[EN] Good work. This should make them think twice about raiding us.&lt;br&gt;[ES] Buen trabajo. Esto deber&amp;#237;a hacer que se lo piensen dos veces antes de atacarnos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1003">
+        <Page social="0">[EN] You'll find the Black Claw tribe in the northern end of Feral Valley. Bring me some arms I can wave around as a warning.&lt;br&gt;[ES] Encontrar&amp;#225;s a la tribu Black Claw en el extremo norte de Feral Valley. Tr&amp;#225;eme algunas armas que pueda usar como advertencia.</Page>
+    </Text>
+</QuestDialog>

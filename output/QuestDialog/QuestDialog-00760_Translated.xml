@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1003">
+        <Page social="4">[EN] If Kaidun's army wasn't enough, now he has the Stalker Company mercenaries fighting for him.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:32#9#Stalker Company snipers} have arrows laced with a terrible curse that makes them far more deadly. If we could study the arrows, we might be able to better defend against them.&lt;BR&gt;&lt;BR&gt;If you kill any archers, would you bring back their arrows?&lt;br&gt;[ES] Si el ej&amp;#233;rcito de Kaidun no fuera suficiente, ahora tiene a los mercenarios de la Stalker Company luchando por &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:32#9#Stalker Company snipers} tienen flechas impregnadas con una terrible maldici&amp;#243;n que los hace mucho m&amp;#225;s letales. Si pudi&amp;#233;ramos estudiar las flechas, tal vez podr&amp;#237;amos defendernos mejor contra ellos.&lt;BR&gt;&lt;BR&gt;Si matas a alg&amp;#250;n arquero, &amp;#191;traer&amp;#237;as sus flechas?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1003">
+        <Page social="4">[EN] Great work. Now we can find a way to neutralize the curse. There must be a way....&lt;br&gt;[ES] Gran trabajo. Ahora podemos encontrar una manera de neutralizar la maldici&amp;#243;n. Tiene que haber una manera...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1003">
+        <Page social="0">[EN] The arrows shot by the {@LinkCreature:32#9#Stalker Company snipers} in the mercenary camp are laced with a special curse.&lt;BR&gt;&lt;BR&gt;Please get me those arrows.&lt;br&gt;[ES] Las flechas disparadas por los {@LinkCreature:32#9#Stalker Company snipers} en el campamento mercenario est&amp;#225;n impregnadas con una maldici&amp;#243;n especial.&lt;BR&gt;&lt;BR&gt;Por favor, cons&amp;#237;gueme esas flechas.</Page>
+    </Text>
+</QuestDialog>

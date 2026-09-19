@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="4">[EN] The Red Lash pirates moved in force to Mistmoor Island. And they're spending more time on land than we'd like.&lt;BR&gt;&lt;BR&gt;The pirates were actually easier to deal with when they had a full-fledged fleet, believe it or not.&lt;BR&gt;&lt;BR&gt;Report to Vindicator Outpost, on the southern coast of Mistmoor Island. They'll put you to work.&lt;br&gt;[ES] Los piratas Red Lash se trasladaron con todas sus fuerzas a Mistmoor Island. Y est&amp;#225;n pasando m&amp;#225;s tiempo en tierra del que nos gustar&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Lo creas o no, era m&amp;#225;s f&amp;#225;cil lidiar con los piratas cuando ten&amp;#237;an una flota en toda regla.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate en Vindicator Outpost, en la costa sur de Mistmoor Island. Te pondr&amp;#225;n a trabajar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">[EN] Munam sent you? And not just to get a "left-handed wrench" or a "campfire smoke sample?" Either he's distracted or worried.&lt;BR&gt;&lt;BR&gt;And he should be worried. The Red Lash pirates are everywhere. They're working with a bunch of gula slavers called the Kazuur Syndicate.&lt;BR&gt;&lt;BR&gt;So welcome to Mistmoor Island. Come for the sandy beaches, stay for the target-rich environment.&lt;br&gt;[ES] &amp;#191;Te mand&amp;#243; Munam? &amp;#191;Y no fue solo a buscar una &quot;llave inglesa para zurdos&quot; o una &quot;muestra de humo de hoguera&quot;? O est&amp;#225; distra&amp;#237;do o preocupado.&lt;BR&gt;&lt;BR&gt;Y deber&amp;#237;a estarlo. Los piratas Red Lash est&amp;#225;n en todas partes. Est&amp;#225;n trabajando con un grupo de esclavistas gula llamados Kazuur Syndicate.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que bienvenido a Mistmoor Island. Ven por las playas de arena, qu&amp;#233;date por el entorno lleno de blancos.</Page>
+    </Text>
+</QuestDialog>

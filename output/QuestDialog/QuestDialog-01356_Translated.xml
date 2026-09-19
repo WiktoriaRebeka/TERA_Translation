@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1016">
+        <Page social="4">[EN] Please! Oh, by all the gods! My wife was right behind me!&lt;BR&gt;&lt;BR&gt;The kulkari, th-they burned our farm. Two nights we've been running and hiding.&lt;BR&gt;&lt;BR&gt;We were almost here when the destroyers&amp;#8212;&lt;BR&gt;&lt;BR&gt;I know she's alive! It was just minutes ago!&lt;BR&gt;&lt;BR&gt;Kill the destroyers! Get her back! Please, she's all I have!&lt;br&gt;[ES] &amp;#161;Por favor! &amp;#161;Oh, por todos los dioses! &amp;#161;Mi esposa ven&amp;#237;a justo detr&amp;#225;s de m&amp;#237;!&lt;BR&gt;&lt;BR&gt;Los kulkari, q-quemaron nuestra granja. Llevamos dos noches huyendo y escondi&amp;#233;ndonos.&lt;BR&gt;&lt;BR&gt;Est&amp;#225;bamos casi aqu&amp;#237; cuando los destructores...&lt;BR&gt;&lt;BR&gt;&amp;#161;S&amp;#233; que est&amp;#225; viva! &amp;#161;Fue hace solo unos minutos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Mata a los destructores! &amp;#161;Tr&amp;#225;ela de vuelta! Por favor, es lo &amp;#250;nico que tengo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1016">
+        <Page social="4">[EN] Veora?&lt;BR&gt;&lt;BR&gt;Where is she?! You have to have found her! It's only been a few minutes!&lt;BR&gt;&lt;BR&gt;Can't you go back? She must be there, she must be!&lt;BR&gt;&lt;BR&gt;Veora!!!!&lt;br&gt;[ES] &amp;#191;Veora?&lt;BR&gt;&lt;BR&gt;&amp;#161;&amp;#191;D&amp;#243;nde est&amp;#225;?! &amp;#161;Tienes que haberla encontrado! &amp;#161;Solo han pasado unos minutos!&lt;BR&gt;&lt;BR&gt;&amp;#191;No puedes volver? &amp;#161;Tiene que estar ah&amp;#237;, tiene que estar!&lt;BR&gt;&lt;BR&gt;&amp;#161;&amp;#161;&amp;#161;Veora!!!</Page>
+    </Text>
+</QuestDialog>

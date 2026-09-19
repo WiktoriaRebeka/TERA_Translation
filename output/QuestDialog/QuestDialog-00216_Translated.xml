@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">[EN] I understand you soldiers have more important things to do, but the situation has gotten so bad! You must help me.&lt;BR&gt;&lt;BR&gt;The gulas inflict wounds that fester almost instantly. I need to make an ointment bandage to stop the wounds from becoming infected. I need &lt;font color='#660000'&gt;{@RawItem:206819}&lt;/font&gt; to do it.&lt;BR&gt;&lt;BR&gt;You won't find any {@RawItem:206819} in this area. You'll have to buy some from other people, or try to find it in some other area.&lt;br&gt;[ES] &amp;#161;Entiendo que ustedes los soldados tienen cosas m&amp;#225;s importantes que hacer, pero la situaci&amp;#243;n ha empeorado tanto! Tienes que ayudarme.&lt;BR&gt;&lt;BR&gt;Los gulas infligen heridas que se infectan casi al instante. Necesito hacer un vendaje con ung&amp;#252;ento para evitar que las heridas se infectuen. Necesito &lt;font color='#660000'&gt;{@RawItem:206819}&lt;/font&gt; para lograrlo.&lt;BR&gt;&lt;BR&gt;No encontrar&amp;#225;s ning&amp;#250;n {@RawItem:206819} en esta &amp;#225;rea. Tendr&amp;#225;s que comprar un poco a otras personas o intentar hallarlo en otra zona.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="0">[EN] I know plant-gathering isn't exactly what the recruiter promised you, but you're saving your comrades' lives, &lt;PCNAME&gt;. Thanks!&lt;br&gt;[ES] S&amp;#233; que recolectar plantas no es exactamente lo que te prometi&amp;#243; el reclutador, pero est&amp;#225;s salvando la vida de tus camaradas, &lt;PCNAME&gt;. &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">[EN] I need more &lt;font color='#660000'&gt;{@RawItem:206819}&lt;/font&gt;. It's that simple.&lt;br&gt;[ES] Necesito m&amp;#225;s &lt;font color='#660000'&gt;{@RawItem:206819}&lt;/font&gt;. As&amp;#237; de simple.</Page>
+    </Text>
+</QuestDialog>

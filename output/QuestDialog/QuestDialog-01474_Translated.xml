@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="90" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1015">
+        <Page social="0">[EN] &lt;PCNAME&gt;, I can sense something special about you&amp;#8212;confidence hard-won through experience. If you want to increase your fame throughout our guild, why not test yourself in the arena?&lt;BR&gt;&lt;BR&gt;You should first start at the Champions' Skyring. If you want to battle, gather your colleagues and build your team through the Champions' Skyring manager. If you win, there will be fame and rewards commensurate with your victory. You've got nothing to lose!&lt;br&gt;[ES] &lt;PCNAME&gt;, puedo sentir algo especial en ti: confianza ganada con esfuerzo a trav&amp;#233;s de la experiencia. Si quieres aumentar tu fama en nuestro guild, &amp;#191;por qu&amp;#233; no te pones a prueba en la arena?&lt;BR&gt;&lt;BR&gt;Primero debes comenzar en el Champions' Skyring. Si quieres luchar, re&amp;#250;ne a tus colegas y forma tu equipo a trav&amp;#233;s del administrador del Champions' Skyring. Si ganas, &amp;#161;habr&amp;#225; fama y recompensas proporcionales a tu victoria! &amp;#161;No tienes nada que perder!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1015">
+        <Page social="0">[EN] Excellent! What magnificent valor! This is but the first step. If you choose, great glories&amp;#8212;and challenges&amp;#8212;await you.&lt;br&gt;[ES] &amp;#161;Excelente! &amp;#161;Qu&amp;#233; valor tan magn&amp;#237;fico! Este es solo el primer paso. Si lo deseas, grandes glorias &amp;#8212;y desaf&amp;#237;os&amp;#8212; te aguardan.</Page>
+    </Text>
+</QuestDialog>

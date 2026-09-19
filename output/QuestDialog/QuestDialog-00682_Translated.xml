@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1010">
+        <Page social="1">[EN] That cursed Mysterium! Allemantheia won't send more troops to help with our sloth problem because apparently sloths "aren't carnivores." Insanity!&lt;BR&gt;&lt;BR&gt;Have you seen the teeth on the {@LinkCreature:30#110#sloth slashers}? Sharp enough to...oh, now there's an idea.&lt;BR&gt;&lt;BR&gt;Will you help a fellow soldier? Kill some {@LinkCreature:30#110#sloth slashers} and bring me some teeth I can send to my commander?&lt;br&gt;[ES] &amp;#161;Ese maldito Mysterium! Allemantheia no enviar&amp;#225; m&amp;#225;s tropas para ayudar con nuestro problema de sloths porque al parecer los sloths &quot;no son carn&amp;#237;voros&quot;. &amp;#161;Una locura!&lt;BR&gt;&lt;BR&gt;&amp;#191;Has visto los dientes de los {@LinkCreature:30#110#sloth slashers}? Lo suficientemente afilados como para... oh, ahora se me ocurre una idea.&lt;BR&gt;&lt;BR&gt;&amp;#191;Ayudar&amp;#225;s a un compa&amp;#241;ero soldado? &amp;#161;Mata algunos {@LinkCreature:30#110#sloth slashers} y tr&amp;#225;eme algunos dientes que pueda enviar a mi comandante?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1010">
+        <Page social="1">[EN] Excellent. When I'm at my next briefing, I'll throw these in their faces!&lt;br&gt;[ES] Excelente. Cuando est&amp;#233; en mi pr&amp;#243;xima sesi&amp;#243;n informativa, &amp;#161;se los arrojar&amp;#233; a la cara!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1010">
+        <Page social="0">[EN] Kill those {@LinkCreature:30#110#sloth slashers} and pull their fangs.&lt;br&gt;[ES] Mata a esos {@LinkCreature:30#110#sloth slashers} y s&amp;#225;cales los colmillos.</Page>
+    </Text>
+</QuestDialog>

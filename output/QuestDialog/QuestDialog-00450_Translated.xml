@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1007">
+        <Page social="4">[EN] Starving down here, you know? Supposed to get food every other week, but you know how it is.&lt;BR&gt;&lt;BR&gt;Listen, d'you have any {@RawItem:206809}? I can't patch up arms or armor without it. I'll pay you better than market rates!&lt;br&gt;[ES] Muri&amp;#233;ndome de hambre por aqu&amp;#237;, &amp;#191;sabes? Se supone que debo recibir comida cada dos semanas, pero ya sabes c&amp;#243;mo es.&lt;BR&gt;&lt;BR&gt;Escucha, &amp;#191;tienes algo de {@RawItem:206809}? No puedo reparar armas o armaduras sin eso. &amp;#161;Te pagar&amp;#233; mejor que las tarifas del mercado!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1007">
+        <Page social="4">[EN] Oh, this is plenty to tide us over 'til the supplies get here. Last load never even showed up! Thanks again.&lt;br&gt;[ES] Oh, esto es m&amp;#225;s que suficiente para mantenernos hasta que lleguen las provisiones. &amp;#161;El &amp;#250;ltimo cargamento ni siquiera apareci&amp;#243;! Gracias de nuevo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1007">
+        <Page social="0">[EN] Any {@RawItem:206809} yet?&lt;br&gt;[ES] &amp;#191;Alg&amp;#250;n {@RawItem:206809} por ah&amp;#237;?</Page>
+    </Text>
+</QuestDialog>

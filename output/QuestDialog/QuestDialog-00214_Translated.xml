@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="4">[EN] The crocutas have attacked our supply caravan again!&lt;BR&gt;&lt;BR&gt;First it was {@LinkCreature:9#300#armored crocutas}, and we doubled the size of the escort. But now {@LinkCreature:9#310#alpha crocutas} are hitting the caravans, too. And they're eating the guards for lunch.&lt;BR&gt;&lt;BR&gt;Literally.&lt;BR&gt;&lt;BR&gt;Get rid of the crocutas, &lt;PCNAME&gt;, and bring back their hides. We can probably make blankets or something out of them, since we aren't getting supplies anytime soon.&lt;br&gt;[ES] &amp;#161;Los crocutas han atacado nuestro carruaje de suministros otra vez!&lt;BR&gt;&lt;BR&gt;Primero fueron {@LinkCreature:9#300#armored crocutas} y duplicamos el tama&amp;#241;o de la escolta. Pero ahora los {@LinkCreature:9#310#alpha crocutas} tambi&amp;#233;n est&amp;#225;n atacando las caravanas. Y se est&amp;#225;n almorzando a los guardias.&lt;BR&gt;&lt;BR&gt;Literalmente.&lt;BR&gt;&lt;BR&gt;Deshazte de los crocutas, &lt;BR&gt;, y tr&amp;#225;eme sus pieles. Probablemente podamos hacer mantas o algo con ellas, ya que no recibiremos suministros pronto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1007">
+        <Page social="4">[EN] We should be able to tan these before the next cold snap. And certainly before we actually see a supply wagon around here.&lt;br&gt;[ES] Deber&amp;#237;amos poder curtir estas antes de la pr&amp;#243;xima ola de fr&amp;#237;o. Y sin duda antes de que veamos un carruaje de suministros por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1007">
+        <Page social="0">[EN] It's not just the supply situation. The {@LinkCreature:9#300#armored crocutas} and {@LinkCreature:9#310#alpha crocutas} are actually inflicting casualties. And we've got few enough soldiers to spare.&lt;br&gt;[ES] No es solo la situaci&amp;#243;n de los suministros. Los {@LinkCreature:9#300#armored crocutas} y {@LinkCreature:9#310#alpha crocutas} est&amp;#225;n causando bajas reales. Y nos quedan muy pocos soldados de reserva.</Page>
+    </Text>
+</QuestDialog>

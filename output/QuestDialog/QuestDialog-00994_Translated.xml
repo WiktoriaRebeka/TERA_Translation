@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0">[EN] We are forming a peace delegation to go among the tribes. We want to wear orisk leather capes, which are traditional for visiting chiefs. The other orcans will see us as leaders if we dress as leaders.&lt;BR&gt;&lt;BR&gt;Will you help us get enough orisk leather to make the capes?&lt;br&gt;[ES] Estamos formando una delegaci&amp;#243;n de paz para visitar a las tribus. Queremos usar capas de cuero de orisk, que son tradicionales para los jefes visitantes. Los dem&amp;#225;s orcos nos ver&amp;#225;n como l&amp;#237;deres si nosvestimos como l&amp;#237;deres.&lt;BR&gt;&lt;BR&gt;&amp;#191;Nos ayudar&amp;#225;s a conseguir suficiente cuero de orisk para hacer las capas?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1020">
+        <Page social="0">[EN] Now we will appear as leaders to the orcan tribes. Soon we'll have peace, you'll see.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] Ahora nos veremos como l&amp;#237;deres ante las tribus orcas. Pronto tendremos paz, ya ver&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1020">
+        <Page social="0">[EN] First you must kill the orisk, then take the leather. The order of actions is important.&lt;br&gt;[ES] Primero debes matar al orisk y luego tomar el cuero. El orden de las acciones es importante.</Page>
+    </Text>
+</QuestDialog>

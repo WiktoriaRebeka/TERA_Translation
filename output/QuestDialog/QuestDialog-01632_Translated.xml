@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="411" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="411" prevId="0" villagerId="5001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="411" prevId="0" villagerId="5001">
+        <Page social="0">[EN] You've got the design, but I see you're wondering about the materials for the Nightforge, &lt;PCNAME&gt;. You need metal overlays. I've heard that Kerkion and Barbosa both have pieces of a weapon from another world&amp;#8212;while you can't fight with a broken weapon, I can melt them down into useful metal. Acquire two broken weapons, so I have enough metal!&lt;br&gt;[ES] Tienes el dise&amp;#241;o, pero veo que te preguntas sobre los materiales para Nightforge, &lt;PCNAME&gt;. Necesitas revestimientos met&amp;#225;licos. He o&amp;#237;do que Kerkion y Barbosa tienen partes de un arma de otro mundo; aunque no puedes luchar con un arma rota, puedo fundirlas para convertirlas en metal &amp;#250;til. &amp;#161;Consigue dos armas rotas para que tenga suficiente metal!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="4">[EN] These weapons will be used to make metal overlays for Nightforge equipment.&lt;br&gt;[ES] Estas armas se utilizar&amp;#225;n para fabricar revestimientos met&amp;#225;licos para el equipo Nightforge.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="411" villagerId="5001">
+        <Page social="0">[EN] This isn't easy, &lt;PCNAME&gt; but I know you can do it.&lt;BR&gt;&lt;BR&gt;Cheer up! We only have to kill two monsters!&lt;br&gt;[ES] Esto no es f&amp;#225;cil, &lt;PCNAME&gt;, pero s&amp;#233; que puedes lograrlo.&lt;BR&gt;&lt;BR&gt;&amp;#161;An&amp;#237;mate! &amp;#161;Solo tenemos que matar a dos monstruos!</Page>
+    </Text>
+</QuestDialog>

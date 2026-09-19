@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1011">
+        <Page social="4">[EN] Military tactics aren't my area of expertise&amp;#8212;observing behavior is. Typical argon behavior oscillates between assimilation and elimination.&lt;BR&gt;&lt;BR&gt;You see, they convert what they can control, and destroy what they cannot.&lt;BR&gt;&lt;BR&gt;Their casual disregard here indicates they intend something else...plausibly something more sinister.&lt;BR&gt;&lt;BR&gt;We require accurate information, and the mandrakes are more attuned to this land. Seek out Tanseril. Perhaps he can root out answers.&lt;br&gt;[ES] Las t&amp;#225;cticas militares no son mi &amp;#225;rea de experiencia; observar el comportamiento s&amp;#237;. El comportamiento t&amp;#237;pico de los argon oscila entre la asimilaci&amp;#243;n y la eliminaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ver&amp;#225;s, ellos convierten lo que pueden controlar y destruyen lo que no pueden.&lt;BR&gt;&lt;BR&gt;Su desd&amp;#233;n casual aqu&amp;#237; indica que planean otra cosa... posiblemente algo m&amp;#225;s siniestro.&lt;BR&gt;&lt;BR&gt;Requerimos informaci&amp;#243;n precisa, y las mandr&amp;#225;goras est&amp;#225;n m&amp;#225;s sintonizadas con esta tierra. Busca a Tanseril. Tal vez &amp;#233;l pueda desenterrar respuestas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1028">
+        <Page social="4">[EN] Shouldn't we rejoice? The argons passed us by!&lt;BR&gt;&lt;BR&gt;You think they wanted something else?&lt;BR&gt;&lt;BR&gt;You should go find out what Nila knows. She's probably got some information that will help us out.&lt;br&gt;[ES] &amp;#191;No deber&amp;#237;amos regocijarnos? &amp;#161;Los argon pasaron de largo!&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que quer&amp;#237;an otra cosa?&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as ir a averiguar qu&amp;#233; sabe Nila. Probablemente tenga algo de informaci&amp;#243;n que nos ayudar&amp;#225;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" prevId="3" villagerId="1006">
+        <Page social="4">[EN] The argons came through here and continued south. We tussled with them a bit, but they looked more interested in getting out than fighting our people.&lt;BR&gt;&lt;BR&gt;Not sure if that helps, but that's what I know.&lt;br&gt;[ES] Los argon pasaron por aqu&amp;#237; y continuaron hacia el sur. Tuvimos un peque&amp;#241;o enfrentamiento con ellos, pero parec&amp;#237;an m&amp;#225;s interesados en largarse que en pelear con nuestra gente.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; si eso ayude, pero es lo que s&amp;#233;.</Page>
+    </Text>
+</QuestDialog>

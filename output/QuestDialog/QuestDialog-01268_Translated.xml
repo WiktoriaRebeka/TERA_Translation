@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1047">
+        <Page social="4">[EN] Thulsa's necromancers are resurrecting snowfield corpses and spirits.&lt;BR&gt;&lt;BR&gt;Those undead you see everywhere on the Plain of the Damned? The work of the necromancers.&lt;BR&gt;&lt;BR&gt;Exterminate those death-obsessed necromancers and collect their necromancy devices. I'd like to see them do their evil work with no tools!&lt;br&gt;[ES] Los nigromantes de Thulsa est&amp;#225;n resucitando cad&amp;#225;veres y esp&amp;#237;ritus de los campos de nieve.&lt;BR&gt;&lt;BR&gt;&amp;#191;Esos no-muertos que ves por todas partes en Plain of the Damned? Obra de los nigromantes.&lt;BR&gt;&lt;BR&gt;&amp;#161;Extermina a esos nigromantes obsesionados con la muerte y recolecta sus dispositivos de nigromancia! &amp;#161;Me gustar&amp;#237;a verlos hacer su obra malvada sin herramientas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1047">
+        <Page social="4">[EN] Did you bring the necromancy devices?&lt;BR&gt;&lt;BR&gt;I'll send them to Mysterium for research.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;!&lt;br&gt;[ES] &amp;#191; trajiste los dispositivos de nigromancia?&lt;BR&gt;&lt;BR&gt;Los enviar&amp;#233; a Mysterium para su investigaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1047">
+        <Page social="0">[EN] We can't stop the dead from rising just by defeating Thulsa's necromancers. &lt;BR&gt;&lt;BR&gt;It's easier for Thulsa to train another necromancer than it is for him to replace those necromancy devices!&lt;br&gt;[ES] No podemos evitar que los muertos se levanten con solo derrotar a los nigromantes de Thulsa. &lt;BR&gt;&lt;BR&gt;&amp;#161;Es m&amp;#225;s f&amp;#225;cil para Thulsa entrenar a otro nigromante que reemplazar esos dispositivos de nigromancia!</Page>
+    </Text>
+</QuestDialog>

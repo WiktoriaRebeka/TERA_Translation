@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="4">[EN] One of our better hunters is guiding a Mysterium team in {@Rgn:50001$$Granarkus}.&lt;BR&gt;&lt;BR&gt;They want someone to clear trails for them. I suggested you.&lt;br&gt;[ES] Uno de nuestros mejores cazadores est&amp;#225; guiando a un equipo del Mysterium en {@Rgn:50001$$Granarkus}.&lt;BR&gt;&lt;BR&gt;Quieren a alguien que les abra el camino. Te suger&amp;#237; a ti.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">[EN] Still standing, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Well, you're just the &lt;PCCLASS:lcase&gt; I wanted, assuming you're up for some excitement today.&lt;NEXTPAGEBUTTON&gt;"Always!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Sigues de pie, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Bueno, eres exactamente el &lt;PCCLASS:lcase&gt; que quer&amp;#237;a, suponiendo que tengas ganas de algo de emoci&amp;#243;n hoy.&lt;NEXTPAGEBUTTON&gt;"Always!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Never any dross in you, eh?&lt;BR&gt;&lt;BR&gt;Argons have massed right where the Mysterium wanted to go grubbing for artifacts.&lt;BR&gt;&lt;BR&gt;Go clear a trail and collect some hides for me.&lt;br&gt;[ES] Nunca hay escoria en ti, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Los argons se han agrupado justo donde el Mysterium quer&amp;#237;a ir a buscar artefactos.&lt;BR&gt;&lt;BR&gt;Ve a abrir un camino y rec&amp;#243;geme algunas pieles.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">[EN] Fast little creatures, aren't they?&lt;BR&gt;&lt;BR&gt;Beautiful, in their own way.&lt;br&gt;[ES] Criaturas peque&amp;#241;as y r&amp;#225;pidas, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Hermosas, a su manera.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="250" villagerId="3001">
+        <Page social="0">[EN] The prowlers are pack hunters.&lt;BR&gt;&lt;BR&gt;Not too smart, but they can run.&lt;br&gt;[ES] Los merodeadores cazan en manada.&lt;BR&gt;&lt;BR&gt;No son muy inteligentes, pero pueden correr.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="250" prevId="7" villagerId="3001">
+        <Page social="4">[EN] Crazy, aren't they?&lt;BR&gt;&lt;BR&gt;Those bugs they carry make good trophies.&lt;br&gt;[ES] Locos, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Esos insectos que cargan son buenos trofeos.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="250" villagerId="3001">
+        <Page social="0">[EN] Gatherers look strange and tricky. Expect the unexpected.&lt;br&gt;[ES] Los recolectores parecen extra&amp;#241;os y enga&amp;#241;osos. Espera lo inesperado.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="250" prevId="9" villagerId="3001">
+        <Page social="4">[EN] Deftly done.&lt;BR&gt;&lt;BR&gt;I imagine you see a lot of kalashes on the front lines.&lt;br&gt;[ES] H&amp;#225;biles movimientos.&lt;BR&gt;&lt;BR&gt;Imagino que ves muchos kalashes en la l&amp;#237;nea de frente.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="250" villagerId="3001">
+        <Page social="0">[EN] Kalashes are smart, tough, and have a long reach with their swords.&lt;BR&gt;&lt;BR&gt;Respect those blades.&lt;br&gt;[ES] Los kalashes son inteligentes, duros y tienen un gran alcance con sus espadas.&lt;BR&gt;&lt;BR&gt;Respeta esas hojas.</Page>
+    </Text>
+</QuestDialog>

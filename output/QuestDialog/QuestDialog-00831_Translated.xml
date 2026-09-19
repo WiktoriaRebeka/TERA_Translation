@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1012">
+        <Page social="5">[EN] I've come to provide financial support. If you'll lend me your ear...&lt;BR&gt;&lt;BR&gt;Rockstalker basilisks roam this region. They're fierce, hideous creatures. However, their scales fetch a handsome price.&lt;BR&gt;&lt;BR&gt;How 'bout we make a deal? Get me some of those scales and I'll donate half the take to the garrison.&lt;br&gt;[ES] He venido a brindar apoyo financiero. Si me prestas atenci&amp;#243;n...&lt;BR&gt;&lt;BR&gt;Los Rockstalker basilisks deambulan por esta regi&amp;#243;n. Son criaturas feroces y horribles. Sin embargo, sus escamas se venden a un excelente precio.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; tal si hacemos un trato? Cons&amp;#237;gueme algunas de esas escamas y donar&amp;#233; la mitad de las ganancias a la guarnici&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1012">
+        <Page social="18">[EN] It was a pleasure doing business with you. I'm sure your armory will benefit greatly from the extra coin.&lt;br&gt;[ES] Fue un placer hacer negocios contigo. Estoy seguro de que tu armer&amp;#237;a se beneficiar&amp;#225; enormemente con estas monedas extra.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1012">
+        <Page social="0">[EN] You don't have the scales yet? I'll just be waiting here...partner.&lt;br&gt;[ES] &amp;#191;A&amp;#250;n no tienes las escamas? Me quedar&amp;#233; esperando aqu&amp;#237;... socio.</Page>
+    </Text>
+</QuestDialog>

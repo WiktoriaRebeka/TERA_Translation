@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">[EN] The argons hit one of our supply convoys and destroyed an entire shipment of rations. Our fighters won't last long without supplies.&lt;BR&gt;&lt;BR&gt;Get the emergency rations from {@LinkCreature:248#3003#Vikhonul} and resupply those troops!&lt;br&gt;[ES] Los argons atacaron uno de nuestros convoyes de suministros y destruyeron un cargamento entero de raciones. Nuestros combatientes no durar&amp;#225;n mucho sin suministros.&lt;BR&gt;&lt;BR&gt;&amp;#161;Consigue las raciones de emergencia de {@LinkCreature:248#3003#Vikhonul} y reabastece a esas tropas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="4">[EN] I don't have to tell a veteran like you how vital it is to keep up your strength on the battlefield.&lt;BR&gt;&lt;BR&gt;Here, take these emergency rations out to our troops.&lt;br&gt;[ES] No tengo que decirle a un veterano como t&amp;#250; lo vital que es mantener tus fuerzas en el campo de batalla.&lt;BR&gt;&lt;BR&gt;Toma, lleva estas raciones de emergencia a nuestras tropas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="4">[EN] There's no time to waste. Get those rations to the soldiers who need them.&lt;BR&gt;&lt;BR&gt;Hungry soldiers are vulnerable soldiers.&lt;br&gt;[ES] No hay tiempo que perder. Lleva esas raciones a los soldados que las necesitan.&lt;BR&gt;&lt;BR&gt;Un soldado hambriento es un soldado vulnerable.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="4" villagerId="3008">
+        <Page social="4">[EN] Oh, thank the gods!&lt;BR&gt;&lt;BR&gt;I wondered if I'd have to learn what argon tasted like.&lt;br&gt;[ES] &amp;#161;Oh, gracias a los dioses!&lt;BR&gt;&lt;BR&gt;Me preguntaba si tendr&amp;#237;a que aprender a qu&amp;#233; sabe el argon.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="4" villagerId="3006">
+        <Page social="4">[EN] Never thought I'd be so happy to see a package of hardtack.&lt;BR&gt;&lt;BR&gt;Thanks, &lt;PCNAME&gt;.&lt;br&gt;[ES] Nunca pens&amp;#233; que me pondr&amp;#237;a tan feliz de ver un paquete de bizcocho.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="3004">
+        <Page social="4">[EN] Thanks for not forgetting about us.&lt;BR&gt;&lt;BR&gt;There's no feeling worse than being forgotten.&lt;br&gt;[ES] Gracias por no olvidarte de nosotros.&lt;BR&gt;&lt;BR&gt;No hay peor sentimiento que ser olvidado.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="3005">
+        <Page social="4">[EN] Well, it's not a spiced roast, but I'm damned glad to get it. Thanks!&lt;br&gt;[ES] Bueno, no es un asado especiado, pero estoy maldito y feliz de recibirlo. &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="3010">
+        <Page social="4">[EN] The Shariar never forgets their own. Thanks for this!&lt;br&gt;[ES] Los Shariar nunca olvidan a los suyos. &amp;#161;Gracias por esto!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="11" villagerId="3011">
+        <Page social="4">[EN] We'll be all right now, thanks to you.&lt;BR&gt;&lt;BR&gt;We can stretch these rations out until the regular supply run reaches us.&lt;br&gt;[ES] Estaremos bien ahora, gracias a ti.&lt;BR&gt;&lt;BR&gt;Podemos estirar estas raciones hasta que llegue nuestro env&amp;#237;o de suministros regular.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="248" prevId="12" villagerId="3003">
+        <Page social="4">[EN] Thanks for taking care of that little emergency, &lt;PCNAME&gt;. The last thing we need are starving soldiers.&lt;br&gt;[ES] Gracias por encargarte de esa peque&amp;#241;a emergencia, &lt;PCNAME&gt;. Lo &amp;#250;ltimo que necesitamos son soldados hambrientos.</Page>
+    </Text>
+</QuestDialog>

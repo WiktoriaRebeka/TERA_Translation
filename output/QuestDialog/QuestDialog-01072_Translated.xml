@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1102">
+        <Page social="4">[EN] Two primary difficulties here, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;First of all, the argon remnants throughout Raga Kabash. They seem to be heading south to what we believe is some sort of transmission room.&lt;BR&gt;&lt;BR&gt;Second, I need parts from a {@Creature:46#7005#grellok spire}. Research, you know.&lt;br&gt;[ES] Tenemos dos dificultades principales aqu&amp;#237;, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;En primer lugar, los restos de argon por todo Raga Kabash. Parece que se dirigen hacia el sur a lo que creemos que es alg&amp;#250;n tipo de sala de transmisi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;En segundo lugar, necesito piezas de un {@Creature:46#7005#grellok spire}. Ya sabes, para la investigaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1102">
+        <Page social="5">[EN] Thank you. The grellok spire is interesting, but...you know who would be fascinated by this? Rhentar, who's working in the Strifecore Chamber. This matches his line of inquiry perfectly.&lt;br&gt;[ES] Gracias. El grellok spire es interesante, pero... &amp;#191;sabes qui&amp;#233;n estar&amp;#237;a fascinado con esto? Rhentar, que trabaja en la Strifecore Chamber. Esto coincide perfectamente con su l&amp;#237;nea de investigaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1028">
+        <Page social="0">[EN] This is from a grellok spire, you say? I haven't been able to get close to one. Remind me to thank Nevian, if I ever leave this chamber.&lt;br&gt;[ES] &amp;#191;Esto es de un grellok spire, dices? No he podido acercarme a ninguno. Recu&amp;#233;rdame que le agradezca a Nevian, si es que alguna vez salgo de esta c&amp;#225;mara.</Page>
+    </Text>
+</QuestDialog>

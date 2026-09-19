@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1022">
+        <Page social="4">[EN] There are argon...thingamajigs...that I suspect impact the development of the iteris shards. I need to study one, but I'm no venator. Can you head to the Southern Teleport Platform and send me a message when it's safe?&lt;NEXTPAGEBUTTON&gt;"How do I send a message to you?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Hay unos... corotos... argon que sospecho que afectan el desarrollo de los fragmentos de iteris. Necesito estudiar uno, pero no soy un venator. &amp;#191;Puedes ir a la plataforma de teletransporte del sur y enviarme un mensaje cuando sea seguro?&lt;NEXTPAGEBUTTON&gt;"How do I send a message to you?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] The teleport platform's harmonics align with the one in Kanstria. Couldn't be easier.&lt;BR&gt;&lt;BR&gt;Once the area is secure, let me know and I'll head there.&lt;br&gt;[ES] Los arm&amp;#243;nicos de la plataforma de teletransporte se alinean con el de Kanstria. No podr&amp;#237;a ser m&amp;#225;s f&amp;#225;cil.&lt;BR&gt;&lt;BR&gt;Una vez que el &amp;#225;rea est&amp;#233; segura, h&amp;#225;zmelo saber y me dirigir&amp;#233; all&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1101">
+        <Page social="6">[EN] (There's no obvious sign of danger.)&lt;BR&gt;&lt;BR&gt;(You should let Shirka know.)&lt;br&gt;[ES] (No hay se&amp;#241;ales obvias de peligro.)&lt;BR&gt;&lt;BR&gt;(Deber&amp;#237;as avisarle a Shirka.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1016">
+        <Page social="6">[EN] Surprise! I'm not Shirka.&lt;BR&gt;&lt;BR&gt;My apologies, but my orders are to keep her alive at all costs. This area is too dangerous for her, so I came in her place.&lt;NEXTPAGEBUTTON&gt;"Fine. What's the next step?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Sorpresa! No soy Shirka.&lt;BR&gt;&lt;BR&gt;Mis disculpas, pero mis &amp;#243;rdenes son mantenerla con vida a toda costa. Esta &amp;#225;rea es demasiado peligrosa para ella, as&amp;#237; que vine en su lugar.&lt;NEXTPAGEBUTTON&gt;"Fine. What's the next step?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">[EN] The {@Rgn:49002} south of here project beams of energy toward organic structures we're calling cyasmana pods.&lt;BR&gt;&lt;BR&gt;Shirka wants a fragment from one of these pods. Destroy one, collect a piece, and return to me.&lt;br&gt;[ES] El {@Rgn:49002} al sur de aqu&amp;#237; proyecta rayos de energ&amp;#237;a hacia estructuras org&amp;#225;nicas que llamamos vainas cyasmana.&lt;BR&gt;&lt;BR&gt;Shirka quiere un fragmento de una de estas vainas. Destruye una, recolecta una pieza y regresa conmigo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" prevId="4" villagerId="1016">
+        <Page social="6">[EN] That looks perfect. Shirka will be pleased.&lt;BR&gt;&lt;BR&gt;You can use the teleport platform to return to Kanstria whenever you wish.&lt;br&gt;[ES] Eso se ve perfecto. Shirka estar&amp;#225; complacida.&lt;BR&gt;&lt;BR&gt;Puedes usar la plataforma de teletransporte para regresar a Kanstria cuando lo desees.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="249" villagerId="1016">
+        <Page social="0">[EN] The cyasmana pods are under the {@Rgn:49002}. Just follow the beam of light in the sky. Can't miss it.&lt;br&gt;[ES] Las vainas cyasmana est&amp;#225;n bajo el {@Rgn:49002}. Solo sigue el rayo de luz en el cielo. No tiene p&amp;#233;rdida.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="76" prevId="5" villagerId="1022">
+        <Page social="6">[EN] This sample should prove most illuminating.&lt;BR&gt;&lt;BR&gt;I hope you didn't go to too much effort.&lt;NEXTPAGEBUTTON&gt;"Well, kelbas did ambush me."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Esta muestra deber&amp;#237;a resultar de lo m&amp;#225;s esclarecedora.&lt;BR&gt;&lt;BR&gt;Espero que no te hayas tomado demasiadas molestias.&lt;NEXTPAGEBUTTON&gt;"Well, kelbas did ambush me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] There were kelbas in the pod? That's just...weird.&lt;BR&gt;&lt;BR&gt;Perhaps they're the ones behind the improvements to the shards. I'll have to give this some thought. In any case, thanks for your help!&lt;br&gt;[ES] &amp;#191;Hab&amp;#237;a kelbas en la vaina? Eso es simplemente... raro.&lt;BR&gt;&lt;BR&gt;Tal vez ellos sean los responsables de las mejoras en los fragmentos. Tendr&amp;#233; que pensarlo un poco. En cualquier caso, &amp;#161;gracias por tu ayuda!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">[EN] Hey, old pal!&lt;NEXTPAGEBUTTON&gt;"Hey, yourself!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Hola, viejo amigo!&lt;NEXTPAGEBUTTON&gt;"Hey, yourself!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Talk to {@LinkCreature:63#3002#Taratia} if you want to make some money today.&lt;br&gt;[ES] Habla con {@LinkCreature:63#3002#Taratia} si quieres ganar algo de dinero hoy.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">[EN] Wanna get me some crafting materials? I know you do....&lt;br&gt;[ES] &amp;#191;Quieres conseguirme algunos materiales de artesan&amp;#237;a? S&amp;#233; que quieres...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">[EN] Thanks, &lt;PCNAME&gt;.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] Do you have the {@RawItem:206818}?&lt;br&gt;[ES] &amp;#191;Tienes el {@RawItem:206818}?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] Thanks, &lt;PCNAME&gt;.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] Do you have the {@RawItem:206819}?&lt;br&gt;[ES] &amp;#191;Tienes el {@RawItem:206819}?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] Thanks, &lt;PCNAME&gt;.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] Do you have the {@RawItem:206820}?&lt;br&gt;[ES] &amp;#191;Tienes el {@RawItem:206820}?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] Thanks, &lt;PCNAME&gt;.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] Do you have the {@RawItem:206821}?&lt;br&gt;[ES] &amp;#191;Tienes el {@RawItem:206821}?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] Thanks, &lt;PCNAME&gt;.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] Do you have the {@RawItem:206822}?&lt;br&gt;[ES] &amp;#191;Tienes el {@RawItem:206822}?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">[EN] Thanks for helping me out, &lt;PCNAME&gt;. You're the best!&lt;br&gt;[ES] &amp;#161;Gracias por ayudarme, &lt;PCNAME&gt;! &amp;#161;Eres el mejor!</Page>
+    </Text>
+</QuestDialog>

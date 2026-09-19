@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1043">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1043">
+        <Page social="4">[EN] {@Rgn:48005} houses a huge number of argon troops. We need to take out some of their primary operators&amp;#8212;iknephar prelates and kalash sentinels.&lt;BR&gt;&lt;BR&gt;This is a straightforward strike mission. Get in there and "hammer 'em," as the amani say.&lt;br&gt;[ES] {@Rgn:48005} alberga a una gran cantidad de tropas argon. Necesitamos eliminar a algunos de sus operadores principales: iknephar prelates y kalash sentinels.&lt;BR&gt;&lt;BR&gt;Esta es una misi&amp;#243;n de ataque directa. Entra y &quot;dale duro&quot;, como dicen los amani.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1043">
+        <Page social="6">[EN] Your attack weakened their hold. Hopefully, the Shariar can take advantage of it.&lt;BR&gt;&lt;BR&gt;We're stronger for your service, &lt;PCNAME&gt;. Well done.&lt;br&gt;[ES] Tu ataque debilit&amp;#243; su control. Con suerte, los Shariar podr&amp;#225;n sacar provecho de ello.&lt;BR&gt;&lt;BR&gt;Somos m&amp;#225;s fuertes gracias a tu servicio, &lt;PCNAME&gt;. Bien hecho.</Page>
+    </Text>
+</QuestDialog>

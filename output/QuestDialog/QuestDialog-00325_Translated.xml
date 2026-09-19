@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1105">
+        <Page social="0">[EN] The Valkyon Federation has mostly pulled out of the Island of Dawn, but a few unlucky folks are left behind, trying to clean up what little mess remains. They asked if you'd help them so they could speed up their exit, and you accepted.&lt;br&gt;[ES] La Valkyon Federation se ha retirado en su mayor&amp;#237;a de Island of Dawn, pero algunas almas desafortunadas se han quedado atr&amp;#225;s, intentando limpiar el poco desorden que queda. Preguntaron si les ayudar&amp;#237;as para acelerar su marcha, y aceptaste.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1105">
+        <Page social="4">[EN] Another new recruit looking for fortune and glory? You are late to arrive, but there is still plenty of work to be done here before the Valkyon Federation turns the island over to the research teams.&lt;BR&gt;&lt;BR&gt;Check in with Legate &lt;font color='#660000'&gt;Lam&lt;/font&gt;. He will assess your capabilities and assign you accordingly.&lt;br&gt;[ES] &amp;#191;Otro nuevo recluta en busca de fortuna y gloria? Llegas tarde, pero todav&amp;#237;a hay mucho trabajo por hacer aqu&amp;#237; antes de que la Valkyon Federation entregue la isla a los equipos de investigaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate ante el Legate &lt;font color='#660000'&gt;Lam&lt;/font&gt;. &amp;#201;l evaluar&amp;#225; tus capacidades y te asignar&amp;#225; tareas en consecuencia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1014">
+        <Page social="4">[EN] Well, since you're here, we may as well put you to work getting this place cleared out.&lt;BR&gt;&lt;BR&gt;We'll get you trained up in no time for whatever duties the federation has in mind for you.&lt;br&gt;[ES] Bueno, ya que est&amp;#225;s aqu&amp;#237;, m&amp;#225;s vale que te pongamos a trabajar para despejar este lugar.&lt;BR&gt;&lt;BR&gt;Te entrenaremos en un abrir y cerrar de ojos para cualquier labor que la federaci&amp;#243;n tenga planeada para ti.</Page>
+    </Text>
+</QuestDialog>

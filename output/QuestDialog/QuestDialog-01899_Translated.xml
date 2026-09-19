@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="4">[EN] {@LinkCreature:230#3026#Lilis} is looking for you today.&lt;BR&gt;&lt;BR&gt;Something about seeds in the lighthouse?&lt;br&gt;[ES] {@LinkCreature:230#3026#Lilis} te est&amp;#225; buscando hoy.&lt;BR&gt;&lt;BR&gt;&amp;#191;Algo sobre semillas en el faro?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">[EN] Nature smiles, friend.&lt;BR&gt;&lt;BR&gt;The golems often keep old seed pods in oak barrels. They brought a fresh load last night. I'd love samples.&lt;br&gt;[ES] La naturaleza sonr&amp;#237;e, amigo.&lt;BR&gt;&lt;BR&gt;Los golems suelen guardar vainas de semillas viejas en barriles de roble. Trajeron un cargamento nuevo anoche. Me encantar&amp;#237;a tener muestras.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">[EN] Hmm. Don't know what these are. Might be a rediscovery. Let's hope they bloom!&lt;br&gt;[ES] Mmm. No s&amp;#233; qu&amp;#233; son estos. Podr&amp;#237;a ser un redescubrimiento. &amp;#161;Esperemos que florezcan!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="3026">
+        <Page social="0">[EN] Old oak barrels. Just break them open!&lt;br&gt;[ES] Viejos barriles de roble. &amp;#161;Solo r&amp;#243;mpelos!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="7" villagerId="3026">
+        <Page social="4">[EN] These are familiar...a medicinal plant, I think.&lt;br&gt;[ES] Estos me resultan familiares... una planta medicinal, creo.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" villagerId="3026">
+        <Page social="0">[EN] Old oak barrels. Just break them open!&lt;br&gt;[ES] Viejos barriles de roble. &amp;#161;Solo r&amp;#243;mpelos!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="3026">
+        <Page social="4">[EN] Oh, yes! More Balder's Eye flower seeds. Still trying to grow new ones. These could do it.&lt;br&gt;[ES] &amp;#161;Oh, s&amp;#237;! M&amp;#225;s semillas de flor de Balder's Eye. Sigo intentando cultivar nuevas. Estas podr&amp;#237;an servir.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" villagerId="3026">
+        <Page social="0">[EN] Old oak barrels. Just break them open!&lt;br&gt;[ES] Viejos barriles de roble. &amp;#161;Solo r&amp;#243;mpelos!</Page>
+    </Text>
+</QuestDialog>

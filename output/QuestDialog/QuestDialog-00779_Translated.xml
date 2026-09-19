@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0">[EN] Up in the Hall of Maidens are the very worst of the horrors in this hellhole. I'm talking about those creepy dolls.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:33#1#ghost} and {@LinkCreature:33#2#cursed moppets} might seem harmless&amp;#8212;or even cute!&amp;#8212;the first time you spot one, but when they swarm on your comrade and skin him alive...well that's a lot less cute. That might just haunt you for the rest of your days.&lt;BR&gt;&lt;BR&gt;Are you brave enough to kill a few?&lt;br&gt;[ES] Arriba, en el Hall of Maidens, se encuentran los peores horrores de este infierno. Hablo de esas espeluznantes mu&amp;#241;ecas.&lt;BR&gt;&lt;BR&gt;El {@LinkCreature:33#1#ghost} y los {@LinkCreature:33#2#cursed moppets} pueden parecer inofensivos &amp;#8212;&amp;#161;o incluso lindos!&amp;#8212; la primera vez que ves uno, pero cuando se abalanzan sobre tu camarada y lo desollan vivo... bueno, eso ya no es tan lindo. Puede que eso te persiga por el resto de tus d&amp;#237;as.&lt;BR&gt;&lt;BR&gt;&amp;#191;Eres lo suficientemente valiente como para matar a unos cuantos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1009">
+        <Page social="0">[EN] You look like you were successful!&lt;BR&gt;&lt;BR&gt;Brave &lt;PCNAME&gt;! The&amp;#8212;OH SWEET KAIA, THERE'S ONE ON YOUR BACK!&lt;BR&gt;&lt;BR&gt;Wait. No. Just a shadow. My mistake.&lt;br&gt;[ES] &amp;#161;Parece que tuviste &amp;#233;xito!&lt;BR&gt;&lt;BR&gt;&amp;#161;Valiente &lt;PCNAME&gt;! El... &amp;#161;OH, DULCE KAIA, HAY UNO EN TU ESPALDA!&lt;BR&gt;&lt;BR&gt;Espera. No. Es solo una sombra. Me equivoqu&amp;#233;.</Page>
+    </Text>
+</QuestDialog>

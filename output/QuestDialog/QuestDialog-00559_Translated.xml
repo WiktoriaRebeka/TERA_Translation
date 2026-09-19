@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="5">[EN] The lower levels of the academy house the Malefic Laboratories and the Witch-Queen Catacombs.&lt;BR&gt;&lt;BR&gt;I used my magic to scry down there and saw it crawling with demons. That is where we need your strength.&lt;BR&gt;&lt;BR&gt;Head into the lower levels and find {@LinkCreature:222#1023#Chalyn}. She'll know what to do next.&lt;br&gt;[ES] Los niveles inferiores de la academia albergan los Malefic Laboratories y las Witch-Queen Catacombs.&lt;BR&gt;&lt;BR&gt;Us&amp;#233; mi magia para escudri&amp;#241;ar all&amp;#237; abajo y vi que bull&amp;#237;a de demonios. Ah&amp;#237; es donde necesitamos tu fuerza.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a los niveles inferiores y encuentra a {@LinkCreature:222#1023#Chalyn}. Ella sabr&amp;#225; qu&amp;#233; hacer a continuaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1023">
+        <Page social="5">[EN] How goes the battle for the upper levels? Better than down here, I hope.&lt;BR&gt;&lt;BR&gt;We're up to our pointy hats in demons, &lt;PCNAME&gt;. Our problems seem a little subtle for their ilk, but demons are popular hirelings for those seeking the quick path to power. Whatever their plot, let's put a stop to it.&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo va la batalla por los niveles superiores? Mejor que aqu&amp;#237; abajo, espero.&lt;BR&gt;&lt;BR&gt;Estamos hasta nuestros puntiagudos sombreros de demonios, &lt;PCNAME&gt;. Nuestros problemas parecen un poco sutiles para su cala&amp;#241;a, pero los demonios son esbirros populares para quienes buscan el camino r&amp;#225;pido al poder. Sea cual sea su complot, pong&amp;#225;mosle fin.</Page>
+    </Text>
+</QuestDialog>

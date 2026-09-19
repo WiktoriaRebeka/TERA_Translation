@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1008">
+        <Page social="5">[EN] Something happened to the {@LinkCreature:22#13#blood marms}! They're running around cursing students and animating the toys!&lt;BR&gt;&lt;BR&gt;If we don't stop them, it could be the dollpocalypse!&lt;br&gt;[ES] &amp;#161;Algo les pas&amp;#243; a los {@LinkCreature:22#13#blood marms}! &amp;#161;Est&amp;#225;n corriendo por ah&amp;#237; maldiciendo a los estudiantes y d&amp;#225;ndole vida a los juguetes!&lt;BR&gt;&lt;BR&gt;&amp;#161;Si no los detenemos, podr&amp;#237;a ser el apocalipsis de las mu&amp;#241;ecas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1006">
+        <Page social="5">[EN] The blood marms turned on the children?&lt;BR&gt;&lt;BR&gt;You've stopped them, though? My, this is a lot of information all at once.&lt;BR&gt;&lt;BR&gt;Does this mean there are animated dolls still running around? Or has the madness ended?&lt;br&gt;[ES] &amp;#191;Los blood marms se volvieron contra los ni&amp;#241;os?&lt;BR&gt;&lt;BR&gt;&amp;#191;Los has detenido, sin embargo? Vaya, es mucha informaci&amp;#243;n de golpe.&lt;BR&gt;&lt;BR&gt;&amp;#191;Significa esto que todav&amp;#237;a hay mu&amp;#241;ecos animados corriendo por ah&amp;#237;? &amp;#191;O se acab&amp;#243; la locura?</Page>
+    </Text>
+</QuestDialog>

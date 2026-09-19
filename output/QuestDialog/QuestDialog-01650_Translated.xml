@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3004" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3004" prevId="0" villagerId="1013">
+        <Page social="4" voiceTypeId="0">[EN] (This soldier's corpse clings to a leather satchel.)&lt;BR&gt;&lt;BR&gt;(The satchel has the name "Hector" engraved on it.)&lt;br&gt;[ES] (El cad&amp;#225;ver de este soldado se aferra a un zurr&amp;#243;n de cuero.)&lt;BR&gt;&lt;BR&gt;(El zurr&amp;#243;n tiene grabado el nombre &quot;Hector&quot;.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1026">
+        <Page social="4" voiceTypeId="0">[EN] My son's satchel...I'd recognize it anywhere.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] El zurr&amp;#243;n de mi hijo... lo reconocer&amp;#237;a en cualquier parte.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

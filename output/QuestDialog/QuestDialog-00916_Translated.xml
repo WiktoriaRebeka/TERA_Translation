@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="5">[EN] It's the journal of a prion archaeologist. &lt;NEXTPAGEBUTTON&gt;"What does it say?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Es el diario de un arque&amp;#243;logo prion. &lt;NEXTPAGEBUTTON&gt;"What does it say?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] Listen to this entry&amp;#8212;"We had hoped to capture the giant we found inside the pyramid, but the ferocity of his attack rendered our plan useless. Those few of us who survived to retreat are surely favored of our father Saleron."&lt;BR&gt;&lt;BR&gt;Is that not amazing, &lt;PCNAME&gt;? A giant! Still alive after all this time.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Amazing, and kind of terrifying."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Escucha esta entrada: &quot;Esper&amp;#225;bamos capturar al gigante que encontramos dentro de la pir&amp;#225;mide, pero la ferocidad de su ataque hizo que nuestro plan fuera in&amp;#250;til. Los pocos de nosotros que sobrevivimos para retirarnos somos sin duda los favoritos de nuestro padre Saleron.&quot;&lt;BR&gt;&lt;BR&gt;&amp;#191;No es asombroso, &lt;PCNAME&gt;? &amp;#161;Un gigante! Sigue vivo despu&amp;#233;s de todo este tiempo.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Amazing, and kind of terrifying."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] You're right. Imagine the return of that terrible empire. The giant must still be inside the pyramid at Thunder Hold. It cannot be allowed to escape.&lt;BR&gt;&lt;BR&gt;Will you take the job of destroying it?&lt;br&gt;[ES] Tienes raz&amp;#243;n. Imagina el regreso de ese terrible imperio. El gigante a&amp;#250;n debe estar dentro de la pir&amp;#225;mide en Thunder Hold. No se le puede permitir escapar.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tomar&amp;#225;s el trabajo de destruirlo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1026">
+        <Page social="5">[EN] Use this teleportal to transport yourself inside the pyramid.&lt;br&gt;[ES] Usa este teleportal para transportarte al interior de la pir&amp;#225;mide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1027">
+        <Page social="5">[EN] The threat is ended, for now. But if there was one giant here, might there be more in other places? We can only hope there are not.&lt;br&gt;[ES] La amenaza ha terminado por ahora. Pero si hubo un gigante aqu&amp;#237;, &amp;#191;podr&amp;#237;a haber m&amp;#225;s en otros lugares? Solo podemos esperar que no sea as&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

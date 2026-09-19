@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1007">
+        <Page social="4">[EN] Narpa will have information you can use...if you can find him. He's a master of disquise.&lt;br&gt;[ES] Narpa tendr&amp;#225; informaci&amp;#243;n que puedes usar... si puedes encontrarlo. Es un maestro del disimulo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1035">
+        <Page social="4">[EN] Psssst! Are you with the federation? Narpa's the name, undercover's the game.&lt;BR&gt;&lt;BR&gt;I can't let them see me talking to you, so be quick about it.&lt;br&gt;[ES] &amp;#161;Psst! &amp;#191;Eres de la federation? Narpa es mi nombre, el espionaje es mi juego.&lt;BR&gt;&lt;BR&gt;No puedo dejar que me vean hablando contigo, as&amp;#237; que s&amp;#233; breve.</Page>
+    </Text>
+</QuestDialog>

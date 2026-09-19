@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">[EN] Lazy! Every last one of them! I think they purposely wander off to "take care of the archaeologists."&lt;BR&gt;&lt;BR&gt;Frankly, I hope the archaeologists get buried in ruins. Less of an annoyance to me.&lt;BR&gt;&lt;BR&gt;In the meantime, the {@LinkCreature:18#10#sentinel} and {@LinkCreature:18#12#warblade golems} keep cropping up everywhere. Get rid of them, and maybe I'll consider letting you join our group permanently.&lt;br&gt;[ES] &amp;#161;Flojos! &amp;#161;Todos y cada uno de ellos! Creo que se alejan a prop&amp;#243;sito para \&quot;cuidar a los arque&amp;#243;logos\&quot;.&lt;BR&gt;&lt;BR&gt;Francamente, espero que los arque&amp;#243;logos queden sepultados en ruinas. Menos molestia para m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Mientras tanto, los {@LinkCreature:18#10#sentinel} y {@LinkCreature:18#12#warblade golems} siguen apareciendo por todas partes. Deshazte de ellos y tal vez considere dejar que te unas a nuestro grupo de forma permanente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1005">
+        <Page social="4">[EN] Well done.&lt;BR&gt;&lt;BR&gt;Full time employment? &lt;PCNAME&gt;, you should know that some people will tell you whatever it takes to get the job done.&lt;BR&gt;&lt;BR&gt;I'm one of them.&lt;br&gt;[ES] Bien hecho.&lt;BR&gt;&lt;BR&gt;&amp;#191;Empleo de tiempo completo? &lt;PCNAME&gt;, debes saber que algunas personas te dir&amp;#225;n lo que sea necesario para hacer el trabajo.&lt;BR&gt;&lt;BR&gt;Yo soy uno de ellos.</Page>
+    </Text>
+</QuestDialog>

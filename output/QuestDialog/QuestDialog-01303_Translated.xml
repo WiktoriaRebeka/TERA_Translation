@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1008">
+        <Page social="4">[EN] Not good. But urgent.&lt;BR&gt;&lt;BR&gt;Find Anther at Grand Gate Watchpost. Repeat these words: argons want the Everbloom.&lt;BR&gt;&lt;BR&gt;Get running!&lt;br&gt;[ES] No es bueno. Pero es urgente.&lt;BR&gt;&lt;BR&gt;Encuentra a Anther en Grand Gate Watchpost. Repite estas palabras: los argons quieren el Everbloom.&lt;BR&gt;&lt;BR&gt;&amp;#161;Empieza a correr!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1037">
+        <Page social="4">[EN] The Everbloom? Puuru thinks the argons want Icaruna's Everbloom? Oh my.&lt;BR&gt;&lt;BR&gt;How can they even know about it? Only the fey know!&lt;BR&gt;&lt;BR&gt;Oh, this is not good.&lt;br&gt;[ES] &amp;#191;El Everbloom? &amp;#191;Puuru cree que los argons quieren el Everbloom de Icaruna? Vaya.&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo pueden siquiera saber de eso? &amp;#161;Solo los fey lo saben!&lt;BR&gt;&lt;BR&gt;Oh, esto no es bueno.</Page>
+    </Text>
+</QuestDialog>

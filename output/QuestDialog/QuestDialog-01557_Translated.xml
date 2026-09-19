@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="814" prevId="0" villagerId="2106">
+        <Page social="0">[EN] Stolen every evidence right in front of success, &lt;PCNAME&gt; and allies couldn't help feeling deserted.&lt;BR&gt;Dougal advised to let Highwatch citizens know what happened in the Vault of Oriyn.&lt;br&gt;[ES] Robada toda evidencia justo enfrente del &amp;#233;xito, &lt;PCNAME&gt; y los aliados no pudieron evitar sentirse abandonados.&lt;BR&gt;Dougal aconsej&amp;#243; informar a los ciudadanos de Highwatch sobre lo sucedido en la Vault of Oriyn.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="814" prevId="0" villagerId="2106">
+        <Page social="1" voiceTypeId="0">[EN] Rhodos is in the grip of "furious grief" right now. We aren't likely to get anything coherent out of him for a while.&lt;BR&gt;&lt;BR&gt;Let's tell Dougal what happened, and he'll have advice about what to do next.&lt;NEXTPAGEBUTTON&gt;"That is an idea."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Rhodos est&amp;#225; bajo el control de un &quot;dolor furioso&quot; en este momento. Es poco probable que le saquemos algo coherente en un buen rato.&lt;BR&gt;&lt;BR&gt;Cont&amp;#233;mosle a Dougal lo que pas&amp;#243;, &amp;#233;l tendr&amp;#225; consejos sobre qu&amp;#233; hacer a continuaci&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"That is an idea."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1001">
+        <Page social="1" voiceTypeId="0">[EN] That doesn't make any sense! Madat was helping us get into...into the city...&lt;BR&gt;&lt;BR&gt;Damn it! All of that was never about breaking the siege! Dakuryon just used us to get close to Verikam!&lt;BR&gt;&lt;BR&gt;We need to rethink all our plans...&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Eso no tiene ning&amp;#250;n sentido! Madat nos estaba ayudando a entrar... a entrar a la ciudad...&lt;BR&gt;&lt;BR&gt;&amp;#161;Maldici&amp;#243;n! &amp;#161;Todo eso nunca se trat&amp;#243; de romper el asedio! &amp;#161;Dakuryon solo nos us&amp;#243; para acercarse a Verikam!&lt;BR&gt;&lt;BR&gt;Necesitamos replantearnos todos nuestros planes...&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

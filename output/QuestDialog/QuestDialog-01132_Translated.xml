@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="4">[EN] We can't let the argons keep reinforcing this fortress. They bring more fighters through the zolnaj transporters all the time.&lt;NEXTPAGEBUTTON&gt;"That's bad."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No podemos dejar que los argon sigan reforzando esta fortaleza. Traen m&amp;#225;s combatientes a trav&amp;#233;s de los transportadores zolnaj todo el tiempo.&lt;NEXTPAGEBUTTON&gt;"That's bad."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] Precisely. I want you to destroy several of those transporters, and then get back here. We'll decide what to do after that.&lt;br&gt;[ES] Exacto. Quiero que destruyas varios de esos transportadores y luego regreses aqu&amp;#237;. Decidiremos qu&amp;#233; hacer despu&amp;#233;s de eso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">[EN] Fine work, and thanks for the souvenirs of a successful mission. We need more of those.&lt;BR&gt;&lt;BR&gt;The Shariar appreciate your courage. It almost makes up for our depleted forces.&lt;br&gt;[ES] Buen trabajo, y gracias por los recuerdos de una misi&amp;#243;n exitosa. Necesitamos m&amp;#225;s de eso.&lt;BR&gt;&lt;BR&gt;Los Shariar aprecian tu valor. Casi compensa nuestras fuerzas agotadas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1012">
+        <Page social="0">[EN] As long as those transporters function, the argons remain powerful.&lt;br&gt;[ES] Mientras esos transportadores sigan funcionando, los argons se mantendr&amp;#225;n poderosos.</Page>
+    </Text>
+</QuestDialog>

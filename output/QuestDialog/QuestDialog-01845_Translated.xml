@@ -1,0 +1,45 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">[EN] One of our research objectives is to determine the purpose of the massive metallic mushrooms throughout Tirkai Forest.&lt;BR&gt;&lt;BR&gt;We set our finest field researchers to the task. I'd like an update on their progress. I need you to brave the road and collect their reports for me.&lt;br&gt;[ES] Uno de nuestros objetivos de investigaci&amp;#243;n es determinar el prop&amp;#243;sito de los enormes champi&amp;#241;ones met&amp;#225;licos en todo Tirkai Forest.&lt;BR&gt;&lt;BR&gt;Asignamos a nuestros mejores investigadores de campo a la tarea. Me gustar&amp;#237;a tener una actualizaci&amp;#243;n sobre su progreso. Necesito que desaf&amp;#237;es el camino y recojas sus informes para m&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="4">[EN] Ah, apologies, &lt;PCNAME&gt;. A colleague borrowed my notes. Should be nearby, though.&lt;BR&gt;&lt;BR&gt;Let me mark that on your map....&lt;br&gt;[ES] Ah, disculpa, &lt;PCNAME&gt;. Un colega tom&amp;#243; prestadas mis notas. Aunque deber&amp;#237;an estar cerca.&lt;BR&gt;&lt;BR&gt;D&amp;#233;jame marcar eso en tu mapa...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="247" prevId="2" villagerId="3506">
+        <Page social="4">[EN] Yes, that Report was indispensable to our inquiries.&lt;BR&gt;&lt;BR&gt;We've finished with it, but we've written an addendum that clarifies matters. If I can recall who has that....&lt;br&gt;[ES] S&amp;#237;, ese informe fue indispensable para nuestras investigaciones.&lt;BR&gt;&lt;BR&gt;Ya terminamos con &amp;#233;l, pero hemos escrito un ap&amp;#233;ndice que aclara algunos asuntos. Si tan solo pudiera recordar qui&amp;#233;n lo tiene...</Page>
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="6" villagerId="3503">
+        <Page social="4">[EN] Yes, indeed. The Tirkai Ecology Report proved most useful for our inquiries.&lt;BR&gt;&lt;BR&gt;We no longer need it, but have written an addendum. It would be prudent to include it. It's at this station, here.&lt;br&gt;[ES] S&amp;#237;, de hecho. El Tirkai Ecology Report result&amp;#243; de lo m&amp;#225;s &amp;#250;til para nuestras investigaciones.&lt;BR&gt;&lt;BR&gt;Ya no lo necesitamos, pero hemos escrito un ap&amp;#233;ndice. Ser&amp;#237;a prudente incluirlo. Est&amp;#225; en esta estaci&amp;#243;n, aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" prevId="7" villagerId="3510">
+        <Page social="4">[EN] True, true, my addendum is quite illuminating, but I no longer possess it.&lt;BR&gt;&lt;BR&gt;One of our field teams took it. Let me mark your map.&lt;br&gt;[ES] Es verdad, es verdad, mi ap&amp;#233;ndice es bastante esclarecedor, pero ya no lo poseo.&lt;BR&gt;&lt;BR&gt;Uno de nuestros equipos de campo se lo llev&amp;#243;. D&amp;#233;jame marcar tu mapa.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="7" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="247" prevId="7" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="247" prevId="7" villagerId="3505">
+        <Page social="4">[EN] The contamination addendum? Absolutely.&lt;BR&gt;&lt;BR&gt;We made a copy for our use. The director is welcome to the original.&lt;BR&gt;&lt;BR&gt;Take it with our thanks.&lt;br&gt;[ES] &amp;#191;El ap&amp;#233;ndice de contaminaci&amp;#243;n? Por supuesto.&lt;BR&gt;&lt;BR&gt;Hicimos una copia para nuestro uso. El director es bienvenido a tomar el original.&lt;BR&gt;&lt;BR&gt;T&amp;#243;malo con nuestro agradecimiento.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="247" prevId="11" villagerId="3504">
+        <Page social="4">[EN] The contamination addendum? Absolutely.&lt;BR&gt;&lt;BR&gt;We made a copy for our use. The director is welcome to the original.&lt;BR&gt;&lt;BR&gt;Take it with our thanks.&lt;br&gt;[ES] &amp;#191;El ap&amp;#233;ndice de contaminaci&amp;#243;n? Por supuesto.&lt;BR&gt;&lt;BR&gt;Hicimos una copia para nuestro uso. El director es bienvenido a tomar el original.&lt;BR&gt;&lt;BR&gt;T&amp;#243;malo con nuestro agradecimiento.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="77" prevId="12" villagerId="3001">
+        <Page social="4">[EN] Excellent work, &lt;PCNAME&gt;. I trust the journey wasn't too dangerous?&lt;BR&gt;&lt;BR&gt;Once we understand why the argons changed Val Tirkai, we might identify a need to exploit or a vulnerability to target.&lt;BR&gt;&lt;BR&gt;The Invalesco thanks you.&lt;br&gt;[ES] Excelente trabajo, &lt;PCNAME&gt;. Conf&amp;#237;o en que el viaje no haya sido demasiado peligroso.&lt;BR&gt;&lt;BR&gt;Una vez que entendamos por qu&amp;#233; los argons cambiaron Val Tirkai, tal vez podamos identificar una necesidad que explotar o una vulnerabilidad a la que apuntar.&lt;BR&gt;&lt;BR&gt;Invalesco te lo agradece.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="77" villagerId="3001">
+        <Page social="0">[EN] I need that research, &lt;PCNAME&gt;. Lives depend on it.&lt;br&gt;[ES] Necesito esa investigaci&amp;#243;n, &lt;PCNAME&gt;. Las vidas dependen de ella.</Page>
+    </Text>
+</QuestDialog>

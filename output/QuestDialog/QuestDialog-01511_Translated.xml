@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="0">[EN] Help Canen preparing the recruits who will board Elkaia. The recruits seem uneasy on such long expedition.&lt;br&gt;[ES] Ayuda a Canen a preparar a los reclutas que abordar&amp;#225;n Elkaia. Los reclutas se ven inquietos ante una expedici&amp;#243;n tan larga.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="4">[EN] This isn't the first mission north, you know. We sent another group not too long ago.&lt;BR&gt;&lt;BR&gt;No one likes to talk about it, but we fear the worst. Take care of yourself, &lt;PCNAME&gt;. The federation can't afford to lose you, too.&lt;BR&gt;&lt;BR&gt;Please check with Caenia to make sure all the personnel are prepared.&lt;br&gt;[ES] Esta no es la primera misi&amp;#243;n hacia el norte, ya sabes. Enviamos a otro grupo hace poco.&lt;BR&gt;&lt;BR&gt;A nadie le gusta hablar de ello, pero tememos lo peor. Cu&amp;#237;date, &lt;PCNAME&gt;. La federaci&amp;#243;n no puede permitirse perderte a ti tambi&amp;#233;n.&lt;BR&gt;&lt;BR&gt;Por favor, consulta con Caenia para asegurarte de que todo el personal est&amp;#233; preparado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1532">
+        <Page social="4">[EN] &lt;PCNAME&gt;? I greet you. I've read of your exploits. Nice to work with a soldier like you.&lt;BR&gt;&lt;BR&gt;Unfortunately, some of the others are as formidable as a bucket of apples. Can you round them up? I think your presence might inspire them.&lt;br&gt;[ES] &amp;#191;&lt;PCNAME&gt;? Te saludo. He le&amp;#237;do sobre tus haza&amp;#241;as. Es un placer trabajar con un soldado como t&amp;#250;.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, algunos de los dem&amp;#225;s son tan formidables como un balde de manzanas. &amp;#191;Puedes reunirlos? Creo que tu presencia podr&amp;#237;a inspirarlos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1535">
+        <Page social="4">[EN] Stomach... cramping. Gods above, what did we eat?&lt;BR&gt;&lt;BR&gt;Can't go back... like this...&lt;BR&gt;&lt;BR&gt;Find... Tilda. Bring us a cure.&lt;br&gt;[ES] Est&amp;#243;mago... con calambres. Dioses arriba, &amp;#191;qu&amp;#233; comimos?&lt;BR&gt;&lt;BR&gt;No puedo volver... as&amp;#237;...&lt;BR&gt;&lt;BR&gt;Busca a... Tilda. Tr&amp;#225;enos una cura.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1564">
+        <Page social="4">[EN] Those fools! I warned them not to drink my elixirs. The concentration is too strong. They're poisoned!&lt;NEXTPAGEBUTTON&gt;"What's the cure?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Esos tontos! Les advert&amp;#237; que no bebieran mis elixires. La concentraci&amp;#243;n es demasiado fuerte. &amp;#161;Est&amp;#225;n envenenados!&lt;NEXTPAGEBUTTON&gt;"What's the cure?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Well, my entire stock is loaded aboard the sky cruiser. I don't have any tonics.&lt;BR&gt;&lt;BR&gt;We could use macerated herbs&amp;#8230;that is, already chewed.&lt;BR&gt;&lt;BR&gt;Disgusting, I know, but it will save their lives.&lt;BR&gt;&lt;BR&gt;Probably.&lt;br&gt;[ES] Bueno, todo mi inventario est&amp;#225; cargado a bordo del crucero estelar. No tengo ning&amp;#250;n t&amp;#243;nico.&lt;BR&gt;&lt;BR&gt;Podr&amp;#237;amos usar hierbas maceradas... es decir, ya masticadas.&lt;BR&gt;&lt;BR&gt;Es asqueroso, lo s&amp;#233;, pero les salvar&amp;#225; la vida.&lt;BR&gt;&lt;BR&gt;Probablemente.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1535">
+        <Page social="4">[EN] Ack! What foul poultice is this? It's worse than vampir blood!&lt;BR&gt;&lt;BR&gt;What about Actol? Hurt, er, help him, too.&lt;br&gt;[ES] &amp;#161;Aj! &amp;#191;Qu&amp;#233; cataplasma inmunda es esta? &amp;#161;Es peor que sangre de vampir!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; hay de Actol? Last&amp;#237;malo, este, ay&amp;#250;dalo tambi&amp;#233;n.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1535">
+        <Page social="0">[EN] What did the apothecary say?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; dijo el boticario?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="1536">
+        <Page social="4">[EN] I knew Eduyar grabbed the wrong elixir. My guts feel like a dracoloth is rampaging around inside.&lt;BR&gt;&lt;BR&gt;Gack! What is this? Are you trying to speed my return to the Dream?&lt;BR&gt;&lt;BR&gt;&lt;br&gt;[ES] Sab&amp;#237;a que Eduyar hab&amp;#237;a tomado el elixir incorrecto. Siento como si un dracoloth estuviera arrasando en mis entra&amp;#241;as.&lt;BR&gt;&lt;BR&gt;&amp;#161;Gof! &amp;#191;Qu&amp;#233; es esto? &amp;#191;Tratas de acelerar mi regreso al Sue&amp;#241;o?&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1532">
+        <Page social="4">[EN] Poisoned? And you saved them by feeding them&amp;#8230; Hah!&lt;BR&gt;&lt;BR&gt;That'll teach them to pilfer our supplies. Nicely handled.&lt;br&gt;[ES] &amp;#191;Envenenados? &amp;#191;Y los salvaste d&amp;#225;ndoles... Ja!&lt;BR&gt;&lt;BR&gt;Eso les ense&amp;#241;ar&amp;#225; a robar nuestros suministros. Bien hecho.</Page>
+    </Text>
+</QuestDialog>

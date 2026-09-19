@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1011">
+        <Page social="4">[EN] Eldritch shards with relatively little power still make fabulous weapons.&lt;BR&gt;&lt;BR&gt;Of course, they'll cut your hand open if you're not protected. I need some leather to wrap these with. It's got to be tough, as well.&lt;BR&gt;&lt;BR&gt;Kill {@LinkCreature:34#100#maligos icestalkers} and collect the hide around their heads. It's tough!&lt;br&gt;[ES] Los fragmentos arcanos con relativamente poco poder siguen siendo armas fabulosas.&lt;BR&gt;&lt;BR&gt;Claro que te cortar&amp;#225;n la mano si no est&amp;#225;s protegido. Necesito un poco de cuero para envolverlos. Tiene que ser resistente tambi&amp;#233;n.&lt;BR&gt;&lt;BR&gt;Derrota a los {@LinkCreature:34#100#maligos icestalkers} y consigue la piel alrededor de sus cabezas. &amp;#161;Es muy dura!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1011">
+        <Page social="4">[EN] These will do rather well. Thank you.&lt;br&gt;[ES] Esto servir&amp;#225; bastante bien. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="1011">
+        <Page social="0">[EN] I can't just wrap the hafts with cloth or lambskin. They'll be sheared away, as will my fingers! Bring me the hide.&lt;br&gt;[ES] No puedo simplemente envolver las empu&amp;#241;aduras con tela o piel de cordero. &amp;#161;Se desgarrar&amp;#225;n, al igual que mis dedos! Tr&amp;#225;eme la piel.</Page>
+    </Text>
+</QuestDialog>

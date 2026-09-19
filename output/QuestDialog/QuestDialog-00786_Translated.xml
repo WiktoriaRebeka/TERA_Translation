@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="4">[EN] They're up to something.&lt;BR&gt;&lt;BR&gt;Who? The {@LinkCreature:33#910#necromancers}. I don't know much about them&amp;#8212;we catch only glimpses of them&amp;#8212;but I think they're in charge.&lt;BR&gt;&lt;BR&gt;See if you can gather some intelligence...from a necromancer corpse.&lt;br&gt;[ES] Est&amp;#225;n tramando algo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qui&amp;#233;nes? Los {@LinkCreature:33#910#nigromantes}. No s&amp;#233; mucho sobre ellos; solo los vemos de vez en vez, pero creo que est&amp;#225;n al mando.&lt;BR&gt;&lt;BR&gt;Mira si puedes recopilar algo de informaci&amp;#243;n... del cad&amp;#225;ver de un nigromante.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1013">
+        <Page social="4">[EN] Let me look at that.&lt;BR&gt;&lt;BR&gt;Aha! It says there that Thulsa built some kind of device in the Prison of the Abyss&amp;#8212;wherever that is&amp;#8212;and is capturing dead souls that should be returning to the Dream.&lt;BR&gt;&lt;BR&gt;That explains a lot, doesn't it?&lt;br&gt;[ES] D&amp;#233;jame ver eso.&lt;BR&gt;&lt;BR&gt;&amp;#161;Aj&amp;#225;! Dice ah&amp;#237; que Thulsa construy&amp;#243; alg&amp;#250;n tipo de dispositivo en Prison of the Abyss, donde quiera que est&amp;#233;, y est&amp;#225; capturando almas muertas que deber&amp;#237;an estar regresando al Dream.&lt;BR&gt;&lt;BR&gt;Eso explica mucho, &amp;#191;no?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1013">
+        <Page social="0">[EN] I'd love to see what's in a {@LinkCreature:33#910#necromancer}'s pocket. Wouldn't you?&lt;br&gt;[ES] Me encantar&amp;#237;a ver qu&amp;#233; hay en el bolsillo de un {@LinkCreature:33#910#nigromante}. &amp;#191;A ti no?</Page>
+    </Text>
+</QuestDialog>

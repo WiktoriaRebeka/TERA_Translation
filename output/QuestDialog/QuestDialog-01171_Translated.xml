@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">[EN] Beneath the cyan spire, I entombed my next clue.&lt;BR&gt;&lt;BR&gt;&amp;#8212;Linkia&lt;br&gt;[ES] Bajo el chapitel cian, sepult&amp;#233; mi siguiente pista.&lt;BR&gt;&lt;BR&gt;&amp;#8212;Linkia</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1012">
+        <Page social="6" voiceTypeId="0">[EN] (You see a stone grave. It looks like someone disturbed it recently. You find a note inside.)&lt;br&gt;[ES] (Ves una tumba de piedra. Parece que alguien la ha perturbado recientemente. Encuentras una nota adentro.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1012">
+        <Page social="6" voiceTypeId="0">[EN] (Aside from damp rocks and blue mold, you found only a small note.)&lt;br&gt;[ES] (Aparte de rocas h&amp;#250;medas y moho azul, solo encontraste una peque&amp;#241;a nota.)</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">[EN] You've done all you can here, &lt;PCNAME&gt;. Cross the planks and you'll be in the part of the grotto where the Red Lash leadership squats.&lt;BR&gt;&lt;BR&gt;We've got scouts there&amp;#8212;thanks to the disruptions you've already provided&amp;#8212;and they might have seen this dementalith.&lt;BR&gt;&lt;BR&gt;Talk to Ebosius. He usually knows what's up.&lt;br&gt;[ES] Has hecho todo lo que pod&amp;#237;as aqu&amp;#237;, &lt;PCNAME&gt;. Cruza los tablones y estar&amp;#225;s en la parte de la gruta donde se esconde el liderazgo de los Red Lash.&lt;BR&gt;&lt;BR&gt;Tenemos exploradores all&amp;#237; &amp;#8212;gracias a las interrupciones que ya has provocado&amp;#8212; y es posible que hayan visto este dementalith.&lt;BR&gt;&lt;BR&gt;Habla con Ebosius. Por lo general, &amp;#233;l sabe c&amp;#243;mo est&amp;#225;n las cosas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">[EN] A dementalith? A big stone? I saw some of the little underlings take a big piece of stone downstairs about a month ago.&lt;BR&gt;&lt;BR&gt;It tipped over and crushed one of them. Might be your dementalith.&lt;br&gt;[ES] &amp;#191;Un dementalith? &amp;#191;Una piedra grande? Vi a algunos de los peque&amp;#241;os subordinados llevar una gran pieza de piedra abajo hace como un mes.&lt;BR&gt;&lt;BR&gt;Se volc&amp;#243; y aplast&amp;#243; a uno de ellos. Podr&amp;#237;a ser tu dementalith.</Page>
+    </Text>
+</QuestDialog>

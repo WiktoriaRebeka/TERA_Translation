@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1109">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1109">
+        <Page social="4">[EN] We've hurt the shurians, but we're not done here yet.&lt;BR&gt;&lt;BR&gt;There's still the {@LinkCreature:4#3031#tyraks}&amp;#8212;there may be more than one&amp;#8212;lurking near Bahaar's shrine. Do what you do best, &lt;PCNAME&gt;!&lt;br&gt;[ES] Hemos lastimado a los shurians, pero a&amp;#250;n no terminamos.&lt;BR&gt;&lt;BR&gt;Todav&amp;#237;a est&amp;#225;n los {@LinkCreature:4#3031#tyraks}, y podr&amp;#237;a haber m&amp;#225;s de uno, merodeando cerca del santuario de Bahaar. &amp;#161;Haz lo que mejor sabes hacer, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1109">
+        <Page social="4">[EN] You've got a lot of energy, &lt;PCNAME&gt;. And you're putting it to good use!&lt;br&gt;[ES] &amp;#161;Tienes mucha energ&amp;#237;a, &lt;PCNAME&gt;. Y le est&amp;#225;s dando un buen uso!</Page>
+    </Text>
+</QuestDialog>

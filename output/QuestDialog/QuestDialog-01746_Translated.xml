@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="27" prevId="0" villagerId="561">
+        <Page social="0">[EN] Haron asked for help to find his lost daughter.&lt;br&gt;[ES] Haron pidi&amp;#243; ayuda para encontrar a su hija perdida.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="27" prevId="0" villagerId="561">
+        <Page social="4" voiceTypeId="0">[EN] Someone, anyone. Please help me!&lt;BR&gt;&lt;BR&gt;My daughter...I don't even know if she's alive or not...&lt;BR&gt;&lt;BR&gt;She's a federation soldier. I tried to find her at the refugee camp, after the crash, but...&lt;NEXTPAGEBUTTON&gt;Keep listening.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Alguien, quien sea. &amp;#161;Por favor, ay&amp;#250;denme!&lt;BR&gt;&lt;BR&gt;Mi hija... Ni siquiera s&amp;#233; si est&amp;#225; viva o no...&lt;BR&gt;&lt;BR&gt;Es una soldada de la federaci&amp;#243;n. Intent&amp;#233; encontrarla en el campamento de refugiados, despu&amp;#233;s del accidente, pero...&lt;NEXTPAGEBUTTON&gt;Keep listening.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">[EN] I pray to the Gods every second that she still lives, but even if she doesn't, I at least want to give her a decent burial.&lt;BR&gt;&lt;BR&gt;Her name is Zachel. Anything you can find out would be helpful. Please, she's all I have left in this world.&lt;br&gt;[ES] Rezo a los dioses cada segundo para que siga viva, pero incluso si no es as&amp;#237;, al menos quiero darle un entierro digno.&lt;BR&gt;&lt;BR&gt;Se llama Zachel. Cualquier cosa que puedas averiguar ser&amp;#237;a de gran ayuda. Por favor, es lo &amp;#250;nico que me queda en este mundo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="2" villagerId="563">
+        <Page social="4" voiceTypeId="0">[EN] The crash? yes, I saw it.&lt;BR&gt;&lt;BR&gt;Well, most of it, anyway. I lost sight of it just over that ridge.&lt;NEXTPAGEBUTTON&gt;Keep listening.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;El accidente? S&amp;#237;, lo vi.&lt;BR&gt;&lt;BR&gt;Bueno, la mayor parte, al menos. Perd&amp;#237; de vista la nave justo al otro lado de esa cresta.&lt;NEXTPAGEBUTTON&gt;Keep listening.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">[EN] I've never met Zachel, but if her father loves her that much, we have to do something about it. Be careful up there, the air's too thin for flying mounts, and it's a long way down if you fall.&lt;br&gt;[ES] Nunca he conocido a Zachel, pero si su padre la ama tanto, tenemos que hacer algo al respecto. Ten cuidado por all&amp;#225; arriba, el aire es demasiado delgado para las monta&amp;#241;as voladoras y es una ca&amp;#237;da muy larga si caes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" prevId="3" villagerId="566">
+        <Page social="0" voiceTypeId="0">[EN] (This might be the body of Haron's daughter. treat it with respect)&lt;br&gt;[ES] (Este podr&amp;#237;a ser el cuerpo de la hija de Haron. Tr&amp;#225;talo con respeto)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="4" villagerId="561">
+        <Page social="4" voiceTypeId="0">[EN] Oh no! Is that... No!&lt;BR&gt;&lt;BR&gt;That's not my daughter. I don't know who that is.&lt;BR&gt;&lt;BR&gt;This really is hopeless, isn't it?&lt;NEXTPAGEBUTTON&gt;I'm sorry.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Oh, no! &amp;#191;Es eso...? &amp;#161;No!&lt;BR&gt;&lt;BR&gt;Esa no es mi hija. No s&amp;#233; qui&amp;#233;n es.&lt;BR&gt;&lt;BR&gt;Esto realmente no tiene esperanza, &amp;#191;verdad?&lt;NEXTPAGEBUTTON&gt;I'm sorry.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">[EN] No! Don't be sorry!&lt;BR&gt;&lt;BR&gt;But I...I can't stop looking, you know?&lt;BR&gt;&lt;BR&gt;If we find that missing transport, maybe there'll be some news about my daughter.&lt;br&gt;[ES] &amp;#161;No! &amp;#161;No lo sientas!&lt;BR&gt;&lt;BR&gt;Pero yo... no puedo dejar de buscar, &amp;#191;sabes?&lt;BR&gt;&lt;BR&gt;Si encontramos ese transporte desaparecido, tal vez haya alguna noticia sobre mi hija.</Page>
+    </Text>
+</QuestDialog>

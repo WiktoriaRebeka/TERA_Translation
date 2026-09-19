@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1022">
+        <Page social="5">[EN] The {@LinkCreature:22#7#apprentice witches} are the least dangerous, but the most numerous. If this is a contagion, we have to stop it.&lt;BR&gt;&lt;BR&gt;They congregate in the Grand Hall. Kill them and find {@LinkCreature:222#1008#Duani} when you're done.&lt;NEXTPAGEBUTTON&gt;"Kill the students?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Las {@LinkCreature:22#7#apprentice witches} son las menos peligrosas, pero las m&amp;#225;s numerosas. Si esto es un contagio, tenemos que detenerlo.&lt;BR&gt;&lt;BR&gt;Se congregan en el Gran Sal&amp;#243;n. M&amp;#225;talas y busca a {@LinkCreature:222#1008#Duani} cuando termines.&lt;NEXTPAGEBUTTON&gt;"Kill the students?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, damn you. We'll hire an army of mystics to resurrect them when this is over.&lt;BR&gt;&lt;BR&gt;Those clever apprentices will have {@LinkCreature:22#1#angry Mr. Purrfects} and {@LinkCreature:22#2#frisky Mr. Purrfects} protecting them so watch out. &lt;BR&gt;&lt;BR&gt;Collect any notes or letters the apprentices have. They may be clues.&lt;BR&gt;&lt;BR&gt;Be careful when you tell {@LinkCreature:222#1008#Duani}. She'll take their deaths hard.&lt;br&gt;[ES] S&amp;#237;, maldita sea. Contrataremos un ej&amp;#233;rcito de mystics para resucitarlos cuando esto termine.&lt;BR&gt;&lt;BR&gt;Esas inteligentes aprendices tienen {@LinkCreature:22#1#angry Mr. Purrfects} y {@LinkCreature:22#2#frisky Mr. Purrfects} protegi&amp;#233;ndolas, as&amp;#237; que ten cuidado. &lt;BR&gt;&lt;BR&gt;Recoge cualquier nota o carta que tengan las aprendizas. Pueden ser pistas.&lt;BR&gt;&lt;BR&gt;Ten cuidado cuando se lo digas a {@LinkCreature:222#1008#Duani}. Su muerte le afectar&amp;#225; mucho.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1008">
+        <Page social="5">[EN] You slew children simply to find clues?&lt;BR&gt;&lt;BR&gt;What kind of&amp;#8212;no. No, you're right. She's right. This is no time for sentiment.&lt;BR&gt;&lt;BR&gt;We must have answers. I'll look over these letters and see what I can learn.&lt;br&gt;[ES] &amp;#191;Mataste a ni&amp;#241;os simplemente para encontrar pistas?&lt;BR&gt;&lt;BR&gt;Qu&amp;#233; clase de... no. No, tienes raz&amp;#243;n. Ella tiene raz&amp;#243;n. No es momento para sentimentalismos.&lt;BR&gt;&lt;BR&gt;Debemos tener respuestas. Revisar&amp;#233; estas cartas y ver&amp;#233; qu&amp;#233; puedo aprender.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1008">
+        <Page social="0">[EN] I understand you're collecting clues and letters?&lt;BR&gt;&lt;BR&gt;You are? Excellent. Return when you've finished.&lt;br&gt;[ES] &amp;#191;Entiendo que est&amp;#225;s recolectando pistas y cartas?&lt;BR&gt;&lt;BR&gt;&amp;#191;Es as&amp;#237;? Excelente. Regresa cuando hayas terminado.</Page>
+    </Text>
+</QuestDialog>

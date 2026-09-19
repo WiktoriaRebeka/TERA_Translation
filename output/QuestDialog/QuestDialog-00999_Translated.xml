@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1022">
+        <Page social="4">[EN] Miss real food! Don't like bland human and elfy food, though do like spiced humans and elves!&lt;BR&gt;&lt;BR&gt;Really crave some orcan jerky. Took some when I left, but ran out. Sooo goooood!&lt;BR&gt;&lt;BR&gt;Maybe you bring me more?&lt;br&gt;[ES] &amp;#161;Extra&amp;#241;o la comida de verdad! No me gusta la comida sosa de los humanos y los elfos, &amp;#161;aunque s&amp;#237; me gustan los humanos y los elfos con especias!&lt;BR&gt;&lt;BR&gt;Se me antoja mucho la cecina orca. Me llev&amp;#233; un poco cuando me fui, pero se me acab&amp;#243;. &amp;#161;&amp;#161;&amp;#161;Muy rica!!!&lt;BR&gt;&lt;BR&gt;&amp;#191;Tal vez me traigas m&amp;#225;s?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1022">
+        <Page social="0">[EN] Oh, yes! At last! Thank you!&lt;BR&gt;&lt;BR&gt;Yum. Soooo good. You want? Promise, no elf or human in there.&lt;br&gt;[ES] &amp;#161;Oh, s&amp;#237;! &amp;#161;Por fin! &amp;#161;Gracias!&lt;BR&gt;&lt;BR&gt;Mmm. S&amp;#250;per bueno. &amp;#191;Quieres? Prometo que no hay elfo ni humano ah&amp;#237; dentro.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1022">
+        <Page social="0">[EN] I just want orcan jerky. Know there's some where my people gather. Orcans have great taste.&lt;br&gt;[ES] Solo quiero cecina de orcan. S&amp;#233; que hay algo donde se re&amp;#250;ne mi gente. Los orcan tienen un gran gusto.</Page>
+    </Text>
+</QuestDialog>

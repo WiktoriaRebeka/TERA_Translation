@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1007">
+        <Page social="4">[EN] The Atel Akaad reinforce their ranks with Lokian bloodchargers and bloodmaguses.&lt;BR&gt;&lt;BR&gt;We can't afford to let them marshal their strength. Take them out with the utmost dispatch!&lt;br&gt;[ES] Los Atel Akaad refuerzan sus filas con Lokian bloodchargers y bloodmaguses.&lt;BR&gt;&lt;BR&gt;No podemos darnos el lujo de dejar que acumulen fuerzas. &amp;#161;Elim&amp;#237;nalos con la m&amp;#225;xima rapidez!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1007">
+        <Page social="4">[EN] Your skill gives me hope. I suspect Killian is keeping us at bay because the timing of his scheme is delicate.&lt;BR&gt;&lt;BR&gt;That tells me what we need to do. Keep hitting them!&lt;br&gt;[ES] Tu habilidad me da esperanza. Sospecho que Killian nos mantiene a raya porque el momento de su plan es delicado.&lt;BR&gt;&lt;BR&gt;Eso me dice lo que tenemos que hacer. &amp;#161;Sigue golpe&amp;#225;ndolos!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1003">
+        <Page social="5">[EN] {@LinkCreature:6#1061#Gutrend brigands} and {@LinkCreature:6#1062#pillagers}! Because we haven't been killing enough of these things.&lt;BR&gt;&lt;BR&gt;Those are the two main groups giving us trouble now. I know you're sick of the speech, so how about we skip it and you just head out there?&lt;br&gt;[ES] &amp;#161;{@LinkCreature:6#1061#Gutrend brigands} y {@LinkCreature:6#1062#pillagers}! Como si no hubi&amp;#233;ramos estado matando suficientes de estos bichos.&lt;BR&gt;&lt;BR&gt;Esos son los dos grupos principales que nos causan problemas ahora. S&amp;#233; que est&amp;#225;s harto del discurso, as&amp;#237; que &amp;#191;qu&amp;#233; tal si nos lo saltamos y vas all&amp;#225; afuera?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1003">
+        <Page social="5">[EN] Fantastic! Thanks. Wonder which group is going to pop up next.&lt;BR&gt;&lt;BR&gt;Maybe we can do something with these headpieces. Something that would serve as a warning to the rest.&lt;br&gt;[ES] &amp;#161;Fant&amp;#225;stico! Gracias. Me pregunto qu&amp;#233; grupo aparecer&amp;#225; a continuaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Tal vez podamos hacer algo con estos tocados. Algo que sirva como advertencia para el resto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1003">
+        <Page social="0">[EN] Going with the standing around approach, are you? How's that working for you?&lt;br&gt;[ES] &amp;#191;Optando por el enfoque de quedarse quieto, eh? &amp;#191;C&amp;#243;mo te est&amp;#225; funcionando eso?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1532">
+        <Page social="0">[EN] Listen about the mission from Dougal. Dougal is determined to bring success to this mission.&lt;br&gt;[ES] Escucha sobre la misi&amp;#243;n de Dougal. Dougal est&amp;#225; decidido a lograr el &amp;#233;xito en esta misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1532">
+        <Page social="4" voiceTypeId="0">[EN] We can start boarding once the recruits come back.&lt;BR&gt;&lt;BR&gt;I shouldn't keep Zolyn waiting. Let her know the supplies and soldiers are ready to go.&lt;br&gt;[ES] Podemos empezar a abordar una vez que los reclutas regresen.&lt;BR&gt;&lt;BR&gt;No deber&amp;#237;a hacer esperar a Zolyn. Hazle saber que los suministros y los soldados est&amp;#225;n listos para partir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1522">
+        <Page social="4" voiceTypeId="0">[EN] Hmph. &lt;PCNAME&gt;. I know your reputation. Nature reaps and you're her sickle.&lt;BR&gt;&lt;BR&gt;I don't suppose you know Syona, the elin princess?&lt;NEXTPAGEBUTTON&gt;"I'm afraid not."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Mph. &lt;PCNAME&gt;. Conozco tu reputaci&amp;#243;n. La naturaleza cosecha y t&amp;#250; eres su hoz.&lt;BR&gt;&lt;BR&gt;Supongo que no conoces a Syona, &amp;#191;la princesa elin?&lt;NEXTPAGEBUTTON&gt;"I'm afraid not."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] No matter.&lt;BR&gt;&lt;BR&gt;Well, you got our supplies squared away and our troopers back on their feet. That's more than the rest of these tuwangis can say!&lt;BR&gt;&lt;BR&gt;Here's the sky cruiser's actuator. Dougal's waiting for it.&lt;br&gt;[ES] No importa.&lt;BR&gt;&lt;BR&gt;Bueno, arreglaste nuestros suministros y pusiste a nuestros soldados de pie otra vez. &amp;#161;Eso es m&amp;#225;s de lo que el resto de estos tuwangis puede decir!&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; est&amp;#225; el actuador del crucero a&amp;#233;reo. Dougal lo est&amp;#225; esperando.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1521">
+        <Page social="4" voiceTypeId="0">[EN] &lt;PCNAME&gt;! Good to have your courage by our side. Are you ready?&lt;NEXTPAGEBUTTON&gt;"Ready when you are."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! Es bueno tener tu valor de nuestro lado. &amp;#191;Est&amp;#225;s listo?&lt;NEXTPAGEBUTTON&gt;"Ready when you are."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] The actuator. Now we can finally leave. Excellent.&lt;BR&gt;&lt;BR&gt;We're headed to Northern Arun. We believe the demokrons origin lies there&amp;#8230;and a more personal mystery.&lt;BR&gt;&lt;BR&gt;We'll talk more later.&lt;br&gt;[ES] El actuador. Ahora finalmente podemos partir. Excelente.&lt;BR&gt;&lt;BR&gt;Nos dirigimos al norte de Arun. Creemos que el origen de los demokrons radica ah&amp;#237;... y un misterio m&amp;#225;s personal.&lt;BR&gt;&lt;BR&gt;Hablaremos m&amp;#225;s tarde.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1521">
+        <Page social="4" voiceTypeId="0">[EN] Let's board now. I want to get under way.&lt;BR&gt;&lt;BR&gt;Pyon will transport you to the ship when you're ready.&lt;br&gt;[ES] Abordemos ahora. Quiero ponernos en marcha.&lt;BR&gt;&lt;BR&gt;Pyon te transportar&amp;#225; al barco cuando est&amp;#233;s listo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="5" villagerId="1000">
+        <Page social="4" voiceTypeId="0">[EN] Welcome aboard! Isn't she magnificent? Larger than a sailing warship, capable of ferrying a full company of troops.&lt;BR&gt;&lt;BR&gt;I'm not privy to all her secrets, but I know a lot of argon technology led to the sky cruisers.&lt;br&gt;[ES] &amp;#161;Bienvenido a bordo! &amp;#191;No es magn&amp;#237;fica? M&amp;#225;s grande que un barco de guerra a vela, capaz de transportar a una compa&amp;#241;&amp;#237;a completa de tropas.&lt;BR&gt;&lt;BR&gt;No estoy al tanto de todos sus secretos, pero s&amp;#233; que mucha tecnolog&amp;#237;a argon condujo a los cruceros a&amp;#233;reos.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" villagerId="4">
+        <Page social="0">[EN] If you're ready, I'll show you to your cabin.&lt;br&gt;[ES] Si est&amp;#225;s listo, te mostrar&amp;#233; tu camarote.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="6" villagerId="1005">
+        <Page social="4" voiceTypeId="0">[EN] You saved Actol and I, &lt;PCNAME&gt;. Thank you.&lt;BR&gt;&lt;BR&gt;Don't worry; no more filching elixirs for us.&lt;br&gt;[ES] Nos salvaste a Actol y a m&amp;#237;, &lt;PCNAME&gt;. Gracias.&lt;BR&gt;&lt;BR&gt;No te preocupes; no m&amp;#225;s robar elixires para nosotros.</Page>
+    </Text>
+</QuestDialog>

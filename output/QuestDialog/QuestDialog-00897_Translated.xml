@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1015">
+        <Page social="9">[EN] My goal is to study prion relics, but the Gutrends have made off with them.&lt;BR&gt;&lt;BR&gt;I suspect the relics are still somewhere inside their cave. Will you retrieve them for me?&lt;br&gt;[ES] Mi objetivo es estudiar reliquias prion, pero los Gutrends se han apoderado de ellas.&lt;BR&gt;&lt;BR&gt;Sospecho que las reliquias siguen en alg&amp;#250;n lugar dentro de su cueva. &amp;#191;Las recuperar&amp;#225;s para m&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1015">
+        <Page social="7">[EN] Thank you. These should increase my knowledge of Saleron and the prion race.&lt;BR&gt;&lt;BR&gt;You've been very helpful, &lt;PCNAME&gt;.&lt;br&gt;[ES] Gracias. Estas deber&amp;#237;an aumentar mi conocimiento sobre Saleron y la raza prion.&lt;BR&gt;&lt;BR&gt;Has sido de gran ayuda, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1015">
+        <Page social="0">[EN] You were finding prion relics for me. Did you get them yet?&lt;br&gt;[ES] Estabas encontrando reliquias prion para m&amp;#237;. &amp;#191;Ya las conseguiste?</Page>
+    </Text>
+</QuestDialog>

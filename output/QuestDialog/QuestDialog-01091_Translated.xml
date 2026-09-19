@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">[EN] I don't know if it's a good idea, but due to the shortage of rations around here, folks are talking about eating {@Creature:47#1001$$Tirkai grizzly} meat.&lt;BR&gt;&lt;BR&gt;I guess if we salted it enough it would likely eliminate any argon contamination.&lt;BR&gt;&lt;BR&gt;Take some to Jadora at Field Base Lunacy. She has access to lots of salt.&lt;br&gt;[ES] No s&amp;#233; si es una buena idea, pero debido a la escasez de raciones por aqu&amp;#237;, la gente habla de comer carne de {@Creature:47#1001$$Tirkai grizzly}.&lt;BR&gt;&lt;BR&gt;Supongo que, si la salamos lo suficiente, probablemente eliminar&amp;#237;a cualquier contaminaci&amp;#243;n arg&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale un poco a Jadora en Field Base Lunacy. Ella tiene acceso a mucha sal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1001">
+        <Page social="4">[EN] She thinks salt will make it safe, huh? We could sure use an alternate source of food around here. I'll give it a go.&lt;br&gt;[ES] &amp;#191;Ella cree que la sal har&amp;#225; que sea seguro, eh? Sin duda nos vendr&amp;#237;a bien otra fuente de alimento por aqu&amp;#237;. Lo intentar&amp;#233;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1001">
+        <Page social="0">[EN] I have salt. What did you say you need it for? I don't see any meat.&lt;br&gt;[ES] Tengo sal. &amp;#191;Para qu&amp;#233; dijiste que la necesitas? No veo nada de carne.</Page>
+    </Text>
+</QuestDialog>

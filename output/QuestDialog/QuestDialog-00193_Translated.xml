@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1033">
+        <Page social="8">[EN] Lots of animals eat what they kill, but the gulas hunt us, flay us, then serve us up!&lt;BR&gt;&lt;BR&gt;So let's punish the kitchen help! {@LinkCreature:8#3021#Gula skinners} and {@LinkCreature:8#3022#slavering auric imps} are next on your menu, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;And bring back their knives, would you? We might be able to turn them into weapons we can use.&lt;br&gt;[ES] Muchos animales se comen lo que matan, &amp;#161;pero los gulas nos cazan, nos desuellan y luego nos sirven!&lt;BR&gt;&lt;BR&gt;&amp;#161;As&amp;#237; que castiguemos al personal de cocina! Los {@LinkCreature:8#3021#Gula skinners} y los {@LinkCreature:8#3022#slavering auric imps} son los siguientes en tu men&amp;#250;, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Y me traes sus cuchillos, por favor? Tal vez podamos convertirlos en armas que podamos usar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1033">
+        <Page social="4">[EN] Knives! I like knives! Sharp, pointy knives!&lt;br&gt;[ES] &amp;#161;Cuchillos! &amp;#161;Me encantan los cuchillos! &amp;#161;Cuchillos afilados y puntiagudos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1033">
+        <Page social="0">[EN] When you're asleep, they're out there chopping, cooking, gnawing. When you're awake...more chopping, cooking, gnawing.&lt;br&gt;[ES] Cuando est&amp;#225;s dormido, est&amp;#225;n por ah&amp;#237; cortando, cocinando, ro&amp;#237;do. Cuando est&amp;#225;s despierto... m&amp;#225;s cortes, m&amp;#225;s cocina, m&amp;#225;s ro&amp;#237;do.</Page>
+    </Text>
+</QuestDialog>

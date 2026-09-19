@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1006">
+        <Page social="5">[EN] It's good to see the Gutrends put in their place like that. Sooner or later, maybe they'll finally just get out and give us our peace.&lt;BR&gt;&lt;BR&gt;Still, though, we're making excellent progress. Crevan at Vindicator Camp will want to know about this.&lt;BR&gt;&lt;BR&gt;Since you're responsible for so much of our success, why don't you bring him the message yourself?&lt;br&gt;[ES] Es bueno ver a los Gutrends en su lugar de esa manera. Tarde o temprano, tal vez finalmente se larguen y nos den paz.&lt;BR&gt;&lt;BR&gt;Aun as&amp;#237;, estamos logrando un progreso excelente. Crevan en Vindicator Camp querr&amp;#225; saber sobre esto.&lt;BR&gt;&lt;BR&gt;Ya que eres responsable de gran parte de nuestro &amp;#233;xito, &amp;#191;por qu&amp;#233; no le llevas el mensaje t&amp;#250; mismo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1021">
+        <Page social="5">[EN] You've knocked the Gutrend back several notches, have you? Well, this is wonderful news.&lt;BR&gt;&lt;BR&gt;Whimnia will want to hear this as well. Please let her know.&lt;br&gt;[ES] &amp;#191;Has bajado a los Gutrends varios escalones? Bueno, &amp;#161;esta es una noticia maravillosa!&lt;BR&gt;&lt;BR&gt;Whimnia querr&amp;#225; escuchar esto tambi&amp;#233;n. Por favor, h&amp;#225;zselo saber.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1013">
+        <Page social="5">[EN] Oh, this is good news.&lt;BR&gt;&lt;BR&gt;I'll make a note. I guarantee we'll take advantage of this.&lt;br&gt;[ES] Oh, esta es una buena noticia.&lt;BR&gt;&lt;BR&gt;Tomar&amp;#233; nota. Te garantizo que le sacaremos provecho.</Page>
+    </Text>
+</QuestDialog>

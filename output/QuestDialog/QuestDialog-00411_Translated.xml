@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1015">
+        <Page social="5">[EN] Brohua says the crops here have been sickly for years. He thinks it's soil contamination, and further, the contaminant might be the cause of the plague.&lt;BR&gt;&lt;BR&gt;So I was thinking. Toruan shrubs are common around here. If you'll be so kind as to gather their berries, I can screen them for toxic compounds.&lt;br&gt;[ES] Brohua dice que los cultivos aqu&amp;#237; han estado enfermos durante a&amp;#241;os. Cree que es contaminaci&amp;#243;n del suelo y, adem&amp;#225;s, que el contaminante podr&amp;#237;a ser la causa de la plaga.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que estuve pensando. Los arbustos toruan son comunes por aqu&amp;#237;. Si eres tan amable de recolectar sus bayas, puedo analizarlas en busca de compuestos t&amp;#243;xicos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1015">
+        <Page social="5">[EN] You have the berries?&lt;BR&gt;&lt;BR&gt;Superb! I hope this works!&lt;br&gt;[ES] &amp;#191;Tienes las bayas?&lt;BR&gt;&lt;BR&gt;&amp;#161;Magn&amp;#237;fico! &amp;#161;Espero que esto funcione!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1015">
+        <Page social="0">[EN] Little toruan fruits are widespread hereabouts. Keep looking.&lt;br&gt;[ES] Los peque&amp;#241;os frutos toruan est&amp;#225;n muy extendidos por aqu&amp;#237;. Sigue buscando.</Page>
+    </Text>
+</QuestDialog>

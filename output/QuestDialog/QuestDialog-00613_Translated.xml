@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1009">
+        <Page social="5">[EN] One of my patrols hasn't reported back, and with all the dangers of the desert, who knows what's keeping them? Too many ways to die out there.&lt;BR&gt;&lt;BR&gt;Their route took them north. Head out and see if you can find any sign of them.&lt;br&gt;[ES] Una de mis patrullas no ha regresado y, con todos los peligros del desierto, &amp;#191;qui&amp;#233;n sabe qu&amp;#233; los retiene? Hay demasiadas formas de morir ah&amp;#237; fuera.&lt;BR&gt;&lt;BR&gt;Su ruta iba hacia el norte. Sal a ver si encuentras alguna se&amp;#241;al de ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1026">
+        <Page social="0">[EN] (This corpse is badly mutilated, as if mauled by a wild beast.)&lt;br&gt;[ES] (Este cad&amp;#225;ver est&amp;#225; muy mutilado, como si hubiera sido desgarrado por una bestia salvaje.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" prevId="2" villagerId="1027">
+        <Page social="0">[EN] (A deep stab wound splits this corpse's chest. It looks like the mark of an orcan blade.)&lt;br&gt;[ES] (Una profunda herida de pu&amp;#241;alada le abre el pecho a este cad&amp;#225;ver. Parece la marca de una espada orcan.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="224" prevId="2" villagerId="1028">
+        <Page social="0">[EN] (Countless wounds cover this corpse.)&lt;br&gt;[ES] (Innumerables heridas cubren este cad&amp;#225;ver.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="224" prevId="2" villagerId="1029">
+        <Page social="0">[EN] (This corpse looks untouched, but all of the waterskins nearby are empty.)&lt;br&gt;[ES] (Este cad&amp;#225;ver parece intacto, pero todos los odres de agua cercanos est&amp;#225;n vac&amp;#237;os.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="224" prevId="3" villagerId="1009">
+        <Page social="5">[EN] I hoped there'd be a few survivors at least. Damn!&lt;BR&gt;&lt;BR&gt;Thank you for recovering their medals. We must never forget our fallen comrades.&lt;BR&gt;&lt;BR&gt;I have one other soldier out there alone right now. Can you lend him a hand?&lt;BR&gt;&lt;BR&gt;Find Qasimir near the entrance of Sand Wind Village...if he's still there.&lt;br&gt;[ES] Esperaba que hubiera al menos algunos supervivientes. &amp;#161;Maldici&amp;#243;n!&lt;BR&gt;&lt;BR&gt;Gracias por recuperar sus medallas. Nunca debemos olvidar a nuestros camaradas ca&amp;#237;dos.&lt;BR&gt;&lt;BR&gt;Tengo a otro soldado por ah&amp;#237; solo en este momento. &amp;#191;Puedes echarle una mano?&lt;BR&gt;&lt;BR&gt;Encuentra a Qasimir cerca de la entrada de Sand Wind Village... si todav&amp;#237;a est&amp;#225; all&amp;#237;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="224" prevId="7" villagerId="1014">
+        <Page social="4">[EN] Dead? All of them? Blast. Stadrian must feel awful about their loss.&lt;BR&gt;&lt;BR&gt;That patrol was supposed to stop here and help against the kulkaris.&lt;BR&gt;&lt;BR&gt;Feel up to the challenge?&lt;br&gt;[ES] &amp;#191;Muertos? &amp;#191;Todos ellos? Demonios. Stadrian debe sentirse terrible por su p&amp;#233;rdida.&lt;BR&gt;&lt;BR&gt;Se supon&amp;#237;a que esa patrulla se detendr&amp;#237;a aqu&amp;#237; y ayudar&amp;#237;a contra los kulkaris.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te sientes con &amp;#225;nimos para el desaf&amp;#237;o?</Page>
+    </Text>
+</QuestDialog>

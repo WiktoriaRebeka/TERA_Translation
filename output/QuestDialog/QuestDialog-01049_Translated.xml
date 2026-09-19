@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="4">[EN] The argons left huge structures all over the {@Rgn:45005$$Skyfields}. However, {@Creature:45#4003#argonomorph tuwangi warfroggers} are preventing our...less intrepid researchers from investigating them.&lt;BR&gt;&lt;BR&gt;Will you help us clear the area?&lt;br&gt;[ES] Los argons dejaron enormes estructuras por todo {@Rgn:45005$$Skyfields}. Sin embargo, los {@Creature:45#4003#argonomorph tuwangi warfroggers} est&amp;#225;n evitando que nuestros... menos intr&amp;#233;pidos investigadores las investiguen.&lt;BR&gt;&lt;BR&gt;&amp;#191;Nos ayudar&amp;#225;s a despejar la zona?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1029">
+        <Page social="4">[EN] Thank you. I can't wait until we can find out what all those structures are doing there.&lt;br&gt;[ES] Gracias. Ya quiero ver qu&amp;#233; est&amp;#225;n haciendo todas esas estructuras all&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

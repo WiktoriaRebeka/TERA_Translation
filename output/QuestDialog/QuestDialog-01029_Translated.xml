@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="4">[EN] The naga known as {@LinkCreature:42#5006#Maelsaress} is Dagon's highest-ranking officer. She carries a book: The Acts of Dagon.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I can't tell you how badly we need that book if we're going to defeat the nagas and find their treasure. You're our best hope for getting this done.&lt;br&gt;[ES] La naga conocida como {@LinkCreature:42#5006#Maelsaress} es la oficial de mayor rango de Dagon. Lleva un libro: Los Hechos de Dagon.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, no puedo decirte cu&amp;#225;nto necesitamos ese libro si vamos a derrotar a los nagas y encontrar su tesoro. Eres nuestra mejor esperanza para lograrlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1035">
+        <Page social="4">[EN] Defeating Maelsaress was the next best thing to killing Dagon himself. We're all amazed at what you've been able to accomplish here.&lt;BR&gt;&lt;BR&gt;Between you and me, I'd say you're going places in the federation, &lt;PCNAME&gt;.&lt;br&gt;[ES] Derrotar a Maelsaress fue lo siguiente mejor a matar al propio Dagon. Todos estamos sorprendidos por lo que has podido lograr aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Entre t&amp;#250; y yo, dir&amp;#237;a que vas a llegar lejos en la federaci&amp;#243;n, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1035">
+        <Page social="0">[EN] Killing {@LinkCreature:42#5006#Maelsaress} will be a huge blow to the nagas. It would be better to do so quickly.&lt;br&gt;[ES] Matar a {@LinkCreature:42#5006#Maelsaress} ser&amp;#225; un golpe enorme para los nagas. Ser&amp;#237;a mejor hacerlo r&amp;#225;pido.</Page>
+    </Text>
+</QuestDialog>

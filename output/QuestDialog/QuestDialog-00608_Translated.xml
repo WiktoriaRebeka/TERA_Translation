@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1008">
+        <Page social="4">[EN] You look like a hardy sort. Want a job on the side?&lt;BR&gt;&lt;BR&gt; Relics from the giant civilization that once stood here litter the desert. Scholars will drop a pretty coin on the more complete pieces. I'll get the buyers if you get the goods, and we'll split the take.&lt;br&gt;[ES] Tienes pinta de ser alguien resistente. &amp;#191;Quieres un trabajo secundario?&lt;BR&gt;&lt;BR&gt; Las reliquias de la civilizaci&amp;#243;n de gigantes que una vez estuvo aqu&amp;#237; abarrotan el desierto. Los acad&amp;#233;micos pagan una buena suma por las piezas m&amp;#225;s completas. Yo consigo a los compradores si t&amp;#250; consigues la mercanc&amp;#237;a, y nos dividimos las ganancias.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1008">
+        <Page social="4">[EN] Well, you made it back out of the desert. Did you find anything?&lt;BR&gt;&lt;BR&gt;Awfully small for giant relics, but who else would have left them? Anyway, the buyer paid half in advance, so here's yours. Thanks!&lt;br&gt;[ES] Bueno, lograste salir con vida del desierto. &amp;#191;Encontraste algo?&lt;BR&gt;&lt;BR&gt;Demasiado peque&amp;#241;o para ser reliquias de gigantes, pero &amp;#191;qui&amp;#233;n m&amp;#225;s las habr&amp;#237;a dejado? De cualquier manera, el comprador pag&amp;#243; la mitad por adelantado, as&amp;#237; que aqu&amp;#237; tienes tu parte. &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1008">
+        <Page social="0">[EN] You want gold, I want relics. What part of this is confusing you?&lt;br&gt;[ES] T&amp;#250; quieres oro, yo quiero reliquias. &amp;#191;Qu&amp;#233; parte de esto no entiendes?</Page>
+    </Text>
+</QuestDialog>

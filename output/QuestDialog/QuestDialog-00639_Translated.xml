@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1020">
+        <Page social="4">[EN] Jelena needs me, but I can't abandon my men here. I want you to go help my comrade in the city.&lt;BR&gt;&lt;BR&gt;I can't remember who's in charge of the advance scouts... &lt;BR&gt;&lt;BR&gt;Oh! Right. Rendalf. You should talk to him first.&lt;br&gt;[ES] Jelena me necesita, pero no puedo abandonar a mis hombres aqu&amp;#237;. Quiero que vayas a ayudar a mi camarada en la ciudad.&lt;BR&gt;&lt;BR&gt;No recuerdo qui&amp;#233;n est&amp;#225; a cargo de los exploradores de vanguardia... &lt;BR&gt;&lt;BR&gt;&amp;#161;Ah! Claro. Rendalf. Deber&amp;#237;as hablar con &amp;#233;l primero.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">[EN] Are you my reinforcement? Sorry for the short notice, but these cultists are stronger than we thought. Only Elleon and Leander were able to advance any farther.&lt;BR&gt;&lt;BR&gt;We stayed here to build the camp. I'm expecting worse to come.&lt;br&gt;[ES] &amp;#191;Eres mi refuerzo? Perdona el aviso con tan poco tiempo, pero estos cultistas son m&amp;#225;s fuertes de lo que pens&amp;#225;bamos. Solo Elleon y Leander pudieron avanzar m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Nos quedamos aqu&amp;#237; para construir el campamento. Espero cosas peores.</Page>
+    </Text>
+</QuestDialog>

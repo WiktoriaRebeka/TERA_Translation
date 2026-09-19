@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="4">[EN] Several scholars have noted changes to stones exposed to a nexus. If we can identify the causal agent, we might develop a countermeasure.&lt;BR&gt;&lt;BR&gt;We need samples of nexulitic fragments. Feel up to the challenge?&lt;br&gt;[ES] Varios acad&amp;#233;micos han notado cambios en las piedras expuestas a un nexus. Si podemos identificar al agente causal, podr&amp;#237;amos desarrollar una contramedida.&lt;BR&gt;&lt;BR&gt;Necesitamos muestras de fragmentos nexul&amp;#237;ticos. &amp;#191;Te sientes preparado para el desaf&amp;#237;o?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1003">
+        <Page social="4">[EN] We'll study these samples at once. There must be a link.&lt;BR&gt;&lt;BR&gt;Please accept our gratitude.&lt;br&gt;[ES] Estudiaremos estas muestras de inmediato. Debe haber un v&amp;#237;nculo.&lt;BR&gt;&lt;BR&gt;Por favor, acepta nuestra gratitud.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1003">
+        <Page social="0">[EN] You should find fragments in the tainted mountain debris anywhere a nexus has formed recently. Scour the Helkan District and Val Kaeli.&lt;br&gt;[ES] Deber&amp;#237;as encontrar fragmentos en los escombros monta&amp;#241;osos manchados en cualquier lugar donde se haya formado un nexus recientemente. Explora Helkan District y Val Kaeli.</Page>
+    </Text>
+</QuestDialog>

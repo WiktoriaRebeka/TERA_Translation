@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1169">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1169">
+        <Page social="0">[EN] You there! You've got the look of a seasoned veteran. Have you ever faced off against one of the federation's finest? It's an experience not to be missed.&lt;BR&gt;&lt;BR&gt;If the thought intrigues you, seek out Erigar in the Agora. He'll sort you out.&lt;br&gt;[ES] &amp;#161;T&amp;#250; ah&amp;#237;! Tienes aspecto de veterano experimentado. &amp;#191;Te has enfrentado alguna vez a uno de los mejores de la federaci&amp;#243;n? Es una experiencia que no te puedes perder.&lt;BR&gt;&lt;BR&gt;Si la idea te intriga, busca a Erigar en el Agora. &amp;#201;l te ayudar&amp;#225;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1158">
+        <Page social="0">[EN] Another bloodthirsty newcomer, eh?&lt;BR&gt;&lt;BR&gt;Right. Here's how it works. I sell you seeds of rebellion, which you can use to temporarily bypass Velik's blessing against infighting. Believe me, if you've ever heard of the Night of Arrows, you'll be all-too-eager to avoid angering Velik. Sometimes it takes a few seeds to bypass the blessing, sometimes just one.&lt;BR&gt;&lt;BR&gt;What do you say? Ready to get a little bloody?&lt;br&gt;[ES] Otro reci&amp;#233;n llegado sanguinario, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Bien. As&amp;#237; es como funciona. Te vendo semillas de rebeli&amp;#243;n, que puedes usar para evitar temporalmente la bendici&amp;#243;n de Velik contra las luchas internas. Cr&amp;#233;eme, si alguna vez has o&amp;#237;do hablar de la Night of Arrows, estar&amp;#225;s m&amp;#225;s que ansioso por evitar enojar a Velik. A veces se necesitan unas pocas semillas para sortear la bendici&amp;#243;n, a veces solo una.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices? &amp;#191;Listo para mancharte un poco las manos de sangre?</Page>
+    </Text>
+</QuestDialog>

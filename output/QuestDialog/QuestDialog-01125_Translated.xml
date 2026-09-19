@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1030">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1030">
+        <Page social="4">[EN] When the argons hit us, we took heavy casualties. We don't have the resources to ship back bodies, but if we could return the horns of the fallen to their families, it would do them great honor.&lt;BR&gt;&lt;BR&gt;You're a soldier&amp;#8212;you understand, right? Four slain blacksmiths still lie on the field of battle. Recover their horns for me.&lt;br&gt;[ES] Cuando los argons nos atacaron, sufrimos grandes bajas. No tenemos los recursos para enviar los cuerpos de vuelta, pero si pudi&amp;#233;ramos devolver los cuernos de los ca&amp;#237;dos a sus familias, ser&amp;#237;a un gran honor para ellos.&lt;BR&gt;&lt;BR&gt;Eres un soldado, lo entiendes, &amp;#191;verdad? Cuatro herreros ca&amp;#237;dos a&amp;#250;n yacen en el campo de batalla. Recupera sus cuernos para m&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1026">
+        <Page social="6">[EN] (This blacksmith gave his life fighting off the argons.)&lt;br&gt;[ES] (Este herrero dio su vida luchando contra los argons.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1027">
+        <Page social="6">[EN] (This blacksmith gave his life fighting off the argons.)&lt;br&gt;[ES] (Este herrero dio su vida luchando contra los argons.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="1028">
+        <Page social="6">[EN] (This blacksmith gave his life fighting off the argons.)&lt;br&gt;[ES] (Este herrero dio su vida luchando contra los argons.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="1029">
+        <Page social="6">[EN] (This blacksmith gave his life fighting off the argons.)&lt;br&gt;[ES] (Este herrero dio su vida luchando contra los argons.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="3" villagerId="1030">
+        <Page social="4">[EN] Thank you. Their families will be grateful, too.&lt;br&gt;[ES] Gracias. Sus familias tambi&amp;#233;n estar&amp;#225;n agradecidas.</Page>
+    </Text>
+</QuestDialog>

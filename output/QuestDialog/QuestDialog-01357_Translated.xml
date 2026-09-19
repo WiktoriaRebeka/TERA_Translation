@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1006">
+        <Page social="4">[EN] Mekonaris, devas, undead, and now kulkaris? Enough!&lt;BR&gt;&lt;BR&gt;This Bleakrock tribe are just thugs for whoever's in charge. I'm sure they're here in exchange for plunder, but I want them stopped.&lt;BR&gt;&lt;BR&gt;Range out to the east there and kill all of their precious shamans that you can. Don't bloody their nose&amp;#8212;break it!&lt;br&gt;[ES] &amp;#191;Mekonaris, devas, muertos vivientes y ahora kulkaris? &amp;#161;Basta!&lt;BR&gt;&lt;BR&gt;Esta tribu Bleakrock son solo matones para quien est&amp;#233; al mando. Estoy seguro de que est&amp;#225;n aqu&amp;#237; a cambio de bot&amp;#237;n, pero quiero que los detengan.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve hacia el este y mata a todos los chamanes que puedas de esos malditos! &amp;#161;No les des un susto, r&amp;#243;meles las narices!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1006">
+        <Page social="4">[EN] Damn fine work! Give their staves to Keallach. Their loss is our gain!&lt;br&gt;[ES] &amp;#161;Un trabajo excelente! &amp;#161;Dale sus bastones a Keallach! &amp;#161;Su p&amp;#233;rdida es nuestra ganancia!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1006">
+        <Page social="0">[EN] The shamans are kulkari leaders. Slaughter a dozen or so and these bullies will scurry back under their rock!&lt;br&gt;[ES] Los chamanes son l&amp;#237;deres kulkari. &amp;#161;Mata a una docena m&amp;#225;s o menos y estos abusones huir&amp;#225;n de regreso a su cueva!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" prevId="3" villagerId="1023">
+        <Page social="4">[EN] Oh, these are powerful! Hmm, yes! We can use these. My thanks, &lt;PCCLASS:lcase&gt;.&lt;br&gt;[ES] &amp;#161;Oh, estos son poderosos! &amp;#161;Mjum, s&amp;#237;! Podemos usarlos. Muchas gracias, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

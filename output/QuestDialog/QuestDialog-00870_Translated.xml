@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1015">
+        <Page social="5">[EN] It really is quite the most beautiful thing I've ever seen. And the scent... Mesmerizing...&lt;BR&gt;&lt;BR&gt;Wha? Oh, the strelitzia flower. Don't you agree? I get so distracted that I'm almost afraid to go out there and pick them.&lt;BR&gt;&lt;BR&gt;Will you get some for me?&lt;br&gt;[ES] De verdad es la cosa m&amp;#225;s hermosa que he visto en mi vida. Y el aroma... Hipnotizante...&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233;? Ah, la flor de strelitzia. &amp;#191;No est&amp;#225;s de acuerdo? Me distraigo tanto que casi me da miedo salir a recogerlas.&lt;BR&gt;&lt;BR&gt;&amp;#191;Me traer&amp;#225;s algunas?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1015">
+        <Page social="5">[EN] Oh, thank you. I'm going to take cuttings and grow them myself. Acres of strelitzias as far as the eye can see...&lt;br&gt;[ES] Oh, gracias. Voy a tomar esquejes y cultivarlas yo mismo. Acres de strelitzias hasta donde alcance la vista...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1015">
+        <Page social="0">[EN] Will you bring me more just to be safe?&lt;br&gt;[ES] &amp;#191;Me traer&amp;#225;s m&amp;#225;s solo por seguridad?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">[EN] Hey! Want to do something different today? {@LinkCreature:63#3003#Elthienne}'s been bugging me about going out to kill some things, and I'm like, ew&amp;#8212;I'm a city girl! Not interested.&lt;BR&gt;&lt;BR&gt;But I'm sure the task is perfect for a hero like you. Talk to {@LinkCreature:63#3003#Elthienne} for the gruesome particulars.&lt;br&gt;[ES] &amp;#161;Ey! &amp;#191;Quieres hacer algo diferente hoy? {@LinkCreature:63#3003#Elthienne} ha estado molest&amp;#225;ndome con salir a matar algunas cosas, y yo pienso, &amp;#161;qu&amp;#233; asco, soy una chica de ciudad! No me interesa.&lt;BR&gt;&lt;BR&gt;Pero estoy segura de que la tarea es perfecta para un h&amp;#233;roe como t&amp;#250;. Habla con {@LinkCreature:63#3003#Elthienne} para conocer los horripilantes detalles.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">[EN] Doesn't like to kill things? Can you believe she's castanic? What a strange girl.&lt;BR&gt;&lt;BR&gt;Well, I know you aren't squeamish. I need you to do some hunting for the Hands. It will require you to travel, kill some nagas, and bring back body parts.&lt;br&gt;[ES] &amp;#191;No le gusta matar cosas? &amp;#191;Puedes creer que es castanic? Qu&amp;#233; chica tan extra&amp;#241;a.&lt;BR&gt;&lt;BR&gt;Bueno, s&amp;#233; que t&amp;#250; no te escandalizas con poco. Necesito que hagas un poco de caza para los Hands. Requerir&amp;#225; que viajes, mates algunos nagas y traigas de vuelta partes de sus cuerpos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">[EN] Oh boy! fresh skin, claws, and bone...yuck!&lt;BR&gt;&lt;BR&gt;You had this in your pack that whole trip, and you didn't vomit once?&lt;BR&gt;&lt;BR&gt;Did you at least wash your hands first? {@LinkCreature:63#3003#Elthienne} has your payment.&lt;br&gt;[ES] &amp;#161;Vaya, piel fresca, garras y huesos... qu&amp;#233; asco!&lt;BR&gt;&lt;BR&gt;&amp;#191;Llevaste esto en tu mochila durante todo el viaje y no vomitaste ni una vez?&lt;BR&gt;&lt;BR&gt;&amp;#191;Te lavaste las manos primero, al menos? {@LinkCreature:63#3003#Elthienne} tiene tu pago.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] We need things like hide, bone, and claws, all from nagas. Don't ask.&lt;BR&gt;&lt;BR&gt;Hunt the {@LinkCreature:10#8#naga battlemasters} on {@Rgn:10001#Serpentis Isle} and bring back some body parts. The Hands will put them to good use.&lt;br&gt;[ES] Necesitamos cosas como piel, huesos y garras, todo de nagas. No preguntes.&lt;BR&gt;&lt;BR&gt;Caza a los {@LinkCreature:10#8#naga battlemasters} en {@Rgn:10001#Serpentis Isle} y trae de vuelta algunas partes de sus cuerpos. Los Hands les dar&amp;#225;n un buen uso.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">[EN] Gross. I mean, thanks!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} will pay you for your work.&lt;br&gt;[ES] Qu&amp;#233; asco. Digo, &amp;#161;gracias!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} te pagar&amp;#225; por tu trabajo.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] We need things like carapace, bone, and claws, all from nagas. Don't ask.&lt;BR&gt;&lt;BR&gt;Hunt the {@LinkCreature:10#16#naga clawriders} on {@Rgn:10001#Serpentis Isle} and bring back some body parts. The Hands will put them to good use.&lt;br&gt;[ES] Necesitamos cosas como caparazones, huesos y garras, todo proveniente de nagas. No preguntes.&lt;BR&gt;&lt;BR&gt;Caza a los {@LinkCreature:10#16#naga clawriders} en {@Rgn:10001#Serpentis Isle} y trae de vuelta algunas partes de sus cuerpos. Los Hands les dar&amp;#225;n un buen uso.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">[EN] What is that smell? I swear, {@LinkCreature:63#3003#Elthienne} is having you deliver this stuff here just to punish me.&lt;BR&gt;&lt;BR&gt;Talk to that old bag if you want your payment.&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; es ese olor? Lo juro, {@LinkCreature:63#3003#Elthienne} te manda a entregar estas cosas aqu&amp;#237; solo para castigarme.&lt;BR&gt;&lt;BR&gt;Habla con esa vieja bruja si quieres tu pago.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] We need things like carapace, bone, and claws, all from nagas. Don't ask.&lt;BR&gt;&lt;BR&gt;Hunt the {@LinkCreature:10#17#naga clawmasters} on {@Rgn:10001#Serpentis Isle} and bring back some body parts. The Hands will put them to good use.&lt;br&gt;[ES] Necesitamos cosas como caparazones, huesos y garras, todo proveniente de nagas. No preguntes.&lt;BR&gt;&lt;BR&gt;Caza a los {@LinkCreature:10#17#naga clawmasters} en {@Rgn:10001#Serpentis Isle} y trae de vuelta algunas partes de sus cuerpos. Los Hands les dar&amp;#225;n un buen uso.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">[EN] Ugh, that's gross. At least it doesn't smell...yet.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has payment for you.&lt;br&gt;[ES] Uf, qu&amp;#233; asco. Al menos no huele... todav&amp;#237;a.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene tu pago.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] We need things like carapace, bone, and claws, all from nagas. Don't ask.&lt;BR&gt;&lt;BR&gt;Hunt the {@LinkCreature:10#18#naga leviathans} on {@Rgn:10001#Serpentis Isle} and bring back some body parts. The Hands will put them to good use.&lt;br&gt;[ES] Necesitamos cosas como caparazones, huesos y garras, todo proveniente de nagas. No preguntes.&lt;BR&gt;&lt;BR&gt;Caza a los {@LinkCreature:10#18#naga leviathans} en {@Rgn:10001#Serpentis Isle} y trae de vuelta algunas partes de sus cuerpos. Los Hands les dar&amp;#225;n un buen uso.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">[EN] &lt;PCNAME&gt;, you're amazing!&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;, eres incre&amp;#237;ble!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1006">
+        <Page social="0">[EN] Call it a mission of mercy.&lt;BR&gt;&lt;BR&gt;We face many enemies here, but the {@LinkCreature:33#15#mekonari magisters} and {@LinkCreature:33#67#coalheart inquisitors} are the cruelest...the most sadistic.&lt;BR&gt;&lt;BR&gt;They torture the living and the dead alike. Put an end to their cruelty.&lt;br&gt;[ES] Ll&amp;#225;malo una misi&amp;#243;n de piedad.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; enfrentamos a muchos enemigos, pero los {@LinkCreature:33#15#mekonari magisters} y {@LinkCreature:33#67#coalheart inquisitors} son los m&amp;#225;s crueles... los m&amp;#225;s s&amp;#225;dicos.&lt;BR&gt;&lt;BR&gt;Torturan tanto a los vivos como a los muertos. Pon fin a su crueldad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1006">
+        <Page social="0">[EN] You honor both the living and the dead with this brave action, &lt;PCNAME&gt;.&lt;br&gt;[ES] Honras tanto a los vivos como a los muertos con esta valiente acci&amp;#243;n, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

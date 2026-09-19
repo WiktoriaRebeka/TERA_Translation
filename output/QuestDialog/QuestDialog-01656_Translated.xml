@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="4" voiceTypeId="0">[EN] You know why they call it fool's gold? Because only fools would laugh at a serious scientist who's come here to engage in elemental...transmutation!&lt;BR&gt;&lt;BR&gt;And I'm so close to a breakthrough! Soon, the power to create gold will be mine! Mine!&lt;NEXTPAGEBUTTON&gt;"Hooray?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Sabes por qu&amp;#233; lo llaman el oro de los tontos? &amp;#161;Porque solo los tontos se reir&amp;#237;an de un cient&amp;#237;fico serio que ha venido aqu&amp;#237; a dedicarse a la... transmutaci&amp;#243;n elemental!&lt;BR&gt;&lt;BR&gt;&amp;#161;Y estoy tan cerca de un gran avance! &amp;#161;Pronto, el poder de crear oro ser&amp;#225; m&amp;#237;o! &amp;#161;M&amp;#237;o!&lt;NEXTPAGEBUTTON&gt;"Hooray?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] The trick&amp;#8212;and I can't believe my colleagues haven't tried this&amp;#8212;is to use magic, not just a collection of chemical compounds.&lt;BR&gt;&lt;BR&gt;There's a whole sympathetic magic thing going on here. It's rather complicated.&lt;BR&gt;&lt;BR&gt;For various arbitrary and esoteric reasons, I need &lt;B&gt;eyes of avarice&lt;/B&gt;. Pluck them from the heads of {@LinkCreature:472#29#Sihran Avaritians} in the Golden Labyrinth, and bring them to me.&lt;br&gt;[ES] El truco &amp;#8212;y no puedo creer que mis colegas no hayan intentado esto&amp;#8212; es usar magia, no solo una colecci&amp;#243;n de compuestos qu&amp;#237;micos.&lt;BR&gt;&lt;BR&gt;Hay todo un asunto de magia simp&amp;#225;tica ocurriendo aqu&amp;#237;. Es bastante complicado.&lt;BR&gt;&lt;BR&gt;Por varias razones arbitrarias y esot&amp;#233;ricas, necesito &lt;B&gt;eyes of avarice&lt;/B&gt;. Arr&amp;#225;ncalos de las cabezas de los {@LinkCreature:472#29#Sihran Avaritians} en el Golden Labyrinth y tr&amp;#225;emelos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1020">
+        <Page social="6" voiceTypeId="0">[EN] You see, it's sympathetic magic. For transmutation into gold, I need an eye that's been blinded by greed.&lt;BR&gt;&lt;BR&gt;Bring it closer. The light in here isn't so good.&lt;br&gt;[ES] Ves, es magia simp&amp;#225;tica. Para la transmutaci&amp;#243;n en oro, necesito un ojo que haya sido cegado por la avaricia.&lt;BR&gt;&lt;BR&gt;Ac&amp;#233;rcalo. La luz aqu&amp;#237; adentro no es muy buena.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1020">
+        <Page social="0">[EN] I can't do it alone, &lt;PCNAME&gt;!&lt;br&gt;[ES] &amp;#161;No puedo hacerlo solo, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

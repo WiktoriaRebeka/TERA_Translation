@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">[EN] Now, beasts have minds of their own. Training them to obey your subtle commands means limiting their vision.&lt;BR&gt;&lt;BR&gt;What you need is a cowl harness&amp;#8212;they keep the beast's eyes forward. Bring me one of those.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ahora bien, las bestias tienen mente propia. Entrenarlas para que obedezcan tus sutiles comandos significa limitar su visi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Lo que necesitas es un cowl harness; mantienen los ojos de la bestia hacia el frente. Tr&amp;#225;eme uno de esos.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">[EN] Ah, perfect. This will make training much easier on both of you.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ah, perfecto. Esto har&amp;#225; que el entrenamiento sea mucho m&amp;#225;s f&amp;#225;cil para ambos.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">[EN] Yes, you could try to train the beast without the harness, but you'll probably lose a hand or leg or other useful appendage.&lt;BR&gt;&lt;BR&gt;Your call. Done talking.&lt;br&gt;[ES] S&amp;#237;, podr&amp;#237;as intentar entrenar a la bestia sin el harness, pero probablemente pierdas una mano, una pierna u otro ap&amp;#233;ndice &amp;#250;til.&lt;BR&gt;&lt;BR&gt;T&amp;#250; decides. Fin de la charla.</Page>
+    </Text>
+</QuestDialog>

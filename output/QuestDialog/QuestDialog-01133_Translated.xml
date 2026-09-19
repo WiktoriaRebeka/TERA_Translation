@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1001">
+        <Page social="4">[EN] Tamur sent orders for a tough task&amp;#8212;and they've got your name all over them.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:48#14} thwarts our plans at every turn. Gather what allies you need and kill him.&lt;br&gt;[ES] Tamur envi&amp;#243; &amp;#243;rdenes para una tarea dif&amp;#237;cil, y llevan tu nombre escrito por todas partes.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:48#14} frustra nuestros planes a cada paso. Re&amp;#250;ne a los aliados que necesites y m&amp;#225;talo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1001">
+        <Page social="6">[EN] With Darmayan dead, we should face weaker resistance going forward. Excellent.&lt;BR&gt;&lt;BR&gt;Your courage does credit to the Valkyon Federation, &lt;PCNAME&gt;.&lt;br&gt;[ES] Con Darmayan muerto, deber&amp;#237;amos enfrentar una resistencia m&amp;#225;s d&amp;#233;bil de aqu&amp;#237; en adelante. Excelente.&lt;BR&gt;&lt;BR&gt;Tu valor le hace honor a la Valkyon Federation, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

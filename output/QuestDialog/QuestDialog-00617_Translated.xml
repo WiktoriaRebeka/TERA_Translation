@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1002">
+        <Page social="5">[EN] The ruins are a fertile source of information about the fall of the giants' civilization, but the {@LinkCreature:24#10#greedy vulcans} prevent any studies of the area.&lt;BR&gt;&lt;BR&gt;I'm a scholar, not a warrior. Will you aid us and clear the way?&lt;br&gt;[ES] Las ruinas son una fuente f&amp;#233;rtil de informaci&amp;#243;n sobre la ca&amp;#237;da de la civilizaci&amp;#243;n de los gigantes, pero los {@LinkCreature:24#10#greedy vulcans} impiden cualquier estudio de la zona.&lt;BR&gt;&lt;BR&gt;Soy un erudito, no un guerrero. &amp;#191;Nos ayudar&amp;#225;s y despejar&amp;#225;s el camino?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1002">
+        <Page social="5">[EN] With their ranks thinned, perhaps we can make progress on the ruins. &lt;BR&gt;&lt;BR&gt;I am grateful to you.&lt;br&gt;[ES] Con sus filas disminuidas, tal vez podamos avanzar en las ruinas. &lt;BR&gt;&lt;BR&gt;Te estoy agradecido.</Page>
+    </Text>
+</QuestDialog>

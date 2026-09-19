@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1110">
+        <Page social="4">[EN] Terrons are primal spirits&amp;#8212;although who knows why the titans dreamed them up.&lt;BR&gt;&lt;BR&gt;In any event, terrons are particularly sensitive to magical currents. If we could examine them, it might shed some light on why we were attacked.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:13#300944#terrons} are gathered in small groups along the treeline. Kill them and collect the terronite they carry for study.&lt;br&gt;[ES] Los terrons son esp&amp;#237;ritus primigenios... aunque qui&amp;#233;n sabe por qu&amp;#233; los titanes los idearon.&lt;BR&gt;&lt;BR&gt;En cualquier caso, los terrons son particularmente sensibles a las corrientes m&amp;#225;gicas. Si pudi&amp;#233;ramos examinarlos, podr&amp;#237;a arrojar algo de luz sobre por qu&amp;#233; fuimos atacados.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:13#300944#terrons} est&amp;#225;n reunidos en peque&amp;#241;os grupos a lo largo de la l&amp;#237;nea de &amp;#225;rboles. M&amp;#225;talos y recoge la terronita que llevan para estudiarla.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1110">
+        <Page social="4">[EN] This should be sufficient. And the incessant giggling has stopped&amp;#8212;a welcome bonus.&lt;BR&gt;&lt;BR&gt;Let us see. Leander demonstrated this technique...how did it go?&lt;BR&gt;&lt;BR&gt;Ah! There we are. A simple test, but an illuminating one. The terrons bear the corruption of dark magic.&lt;BR&gt;&lt;BR&gt;Interesting.&lt;br&gt;[ES] Esto deber&amp;#237;a ser suficiente. Y las risitas incesantes se han detenido, una bonificaci&amp;#243;n bienvenida.&lt;BR&gt;&lt;BR&gt;A ver. Leander demostr&amp;#243; esta t&amp;#233;cnica... &amp;#191;c&amp;#243;mo era?&lt;BR&gt;&lt;BR&gt;&amp;#161;Ah! Ya est&amp;#225;. Una prueba sencilla, pero esclarecedora. Los terrons portan la corrupci&amp;#243;n de la magia oscura.&lt;BR&gt;&lt;BR&gt;Interesante.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1110">
+        <Page social="0">[EN] Are the samples gathered yet?&lt;BR&gt;&lt;BR&gt;My meager skills should be adequate to this task, but it will be for naught without something to study.&lt;br&gt;[ES] &amp;#191;Ya est&amp;#225;n reunidas las muestras?&lt;BR&gt;&lt;BR&gt;Mis escasas habilidades deber&amp;#237;an ser suficientes para esta tarea, pero no servir&amp;#225; de nada sin algo que estudiar.</Page>
+    </Text>
+</QuestDialog>

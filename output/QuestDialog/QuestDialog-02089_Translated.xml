@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="131">
+        <Page social="0">[EN] The Draakon Pursuers. We must take them down.&lt;BR&gt;&lt;BR&gt;Be careful though. They're known to be the most furious of them all. We'll find the engine room in no time with them gone.&lt;br&gt;[ES] Los Draakon Pursuers. Debemos acabar con ellos.&lt;BR&gt;&lt;BR&gt;Pero ten cuidado. Se sabe que son los m&amp;#225;s furiosos de todos. Encontraremos la sala de m&amp;#225;quinas en un abrir y cerrar de ojos una vez que se hayan ido.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="131">
+        <Page social="0">[EN] You've took care of the pursuers! Nicely done.&lt;BR&gt;This way should be the way down to the engine room.&lt;br&gt;[ES] &amp;#161;Te has ocupado de los pursuers! Bien hecho.&lt;BR&gt;Este deber&amp;#237;a ser el camino hacia la sala de m&amp;#225;quinas.</Page>
+    </Text>
+</QuestDialog>

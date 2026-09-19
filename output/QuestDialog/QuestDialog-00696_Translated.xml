@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">[EN] No time for chitchat. We're busy repairing the camp fences.&lt;BR&gt;&lt;BR&gt;Strong timber would certainly help, but you've heard this song and dance before.&lt;BR&gt;&lt;BR&gt;The best wood in Balder's Refuge is just walking around&amp;#8212;in the form of {@LinkCreature:30#170#viny arbosks}.&lt;BR&gt;&lt;BR&gt;No other tree is that durable, so it's worth the risk.&lt;br&gt;[ES] No hay tiempo para charla. Estamos ocupados reparando las vallas del campamento.&lt;BR&gt;&lt;BR&gt;Una madera fuerte vendr&amp;#237;a de perlas, pero ya has o&amp;#237;do esta canci&amp;#243;n antes.&lt;BR&gt;&lt;BR&gt;La mejor madera del Refugio de Balder simplemente va por ah&amp;#237; caminando: en forma de {@LinkCreature:30#170#viny arbosks}.&lt;BR&gt;&lt;BR&gt;Ning&amp;#250;n otro &amp;#225;rbol es tan duradero, as&amp;#237; que vale la pena correr el riesgo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1066">
+        <Page social="1">[EN] You live up to your reputation, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;No one's ever brought me so much wood before.&lt;BR&gt;&lt;BR&gt;Hey! Come here and take this! And thank you so much.&lt;br&gt;[ES] Haces honor a tu reputaci&amp;#243;n, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nadie me hab&amp;#237;a tra&amp;#237;do tanta madera antes.&lt;BR&gt;&lt;BR&gt;&amp;#161;Oye! &amp;#161;Ven aqu&amp;#237; y toma esto! Y muchas gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1066">
+        <Page social="0">[EN] The wood of {@LinkCreature:30#170#viny arbosks} is so hard that an axe-wielding, rampaging orcan can't hack it apart. I'd never sleep here if I didn't trust these walls.&lt;br&gt;[ES] La madera de los {@LinkCreature:30#170#viny arbosks} es tan dura que ni un furioso orcan armado con un hacha puede partirla. Jam&amp;#225;s dormir&amp;#237;a aqu&amp;#237; si no confiara en estos muros.</Page>
+    </Text>
+</QuestDialog>

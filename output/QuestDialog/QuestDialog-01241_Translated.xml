@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">[EN] Mission Orders&lt;BR&gt;&lt;BR&gt;Thulsa's manipulated the wendigos and turned them against us. We have to kill them to secure our hold on the Vale of Spires.&lt;BR&gt;&lt;BR&gt;Kill the dominated wendigo {@LinkCreature:51#1011#ragers}, {@LinkCreature:51#1021#warlords}, and {@LinkCreature:51#1031#shamans}.&lt;BR&gt;&lt;BR&gt;Report to Raneria in Habere when mission is complete.&lt;br&gt;[ES] &amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Thulsa ha manipulado a los wendigos y los ha vuelto en nuestra contra. Tenemos que matarlos para asegurar nuestro control sobre Vale of Spires.&lt;BR&gt;&lt;BR&gt;Mata a los wendigos dominados {@LinkCreature:51#1011#ragers}, {@LinkCreature:51#1021#warlords} y {@LinkCreature:51#1031#shamans}.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate ante Raneria en Habere cuando la misi&amp;#243;n est&amp;#233; completa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">[EN] You've earned the thanks of the federation! Your guild is an inspiration to all!&lt;br&gt;[ES] &amp;#161;Te has ganado el agradecimiento de la federaci&amp;#243;n! &amp;#161;Tu gremio es una inspiraci&amp;#243;n para todos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">[EN] It looks like you haven't completed your mission yet.&lt;br&gt;[ES] Parece que a&amp;#250;n no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

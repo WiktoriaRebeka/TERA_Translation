@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="79" prevId="0" villagerId="1102">
+        <Page social="0" voiceTypeId="0">[EN] Are you heading for the Ebon Tower? I know I can't be much help to you, but I will be praying for your safe return. Please come back safely.&lt;br&gt;[ES] &amp;#191;Te diriges a Ebon Tower? S&amp;#233; que no puedo ser de mucha ayuda, pero estar&amp;#233; rezando por tu regreso a salvo. Por favor, regresa sano y salvo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] You entered the Ebon Tower and defeated Thulsa, who ran, leaving a trail of blood behind him. Kelsaik was nowhere to be seen...&lt;br&gt;[ES] Entraste a Ebon Tower y derrotaste a Thulsa, quien huy&amp;#243; dejando un rastro de sangre tras de s&amp;#237;. Kelsaik no aparec&amp;#237;a por ning&amp;#250;n lado...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="1" villagerId="1033">
+        <Page social="1" voiceTypeId="0">[EN] The teleportal in the Ebon Tower won't work no matter what you do. There's only one key that works, and it's...&lt;BR&gt;&lt;BR&gt;...Killian's gem? You have it? And you're going in? Here's what we know; it's not much. There are five levels in the tower, and everything is toxic, thanks to Thulsa. Don't forget to use that purification totem.&lt;BR&gt;&lt;BR&gt;But we have faith that you will defeat all threats inside&amp;#8212;especially Thulsa!&lt;br&gt;[ES] El teleportal en Ebon Tower no funcionar&amp;#225; hagas lo que hagas. Solo hay una llave que funciona, y es...&lt;BR&gt;&lt;BR&gt;...&amp;#191;la gema de Killian? &amp;#191;La tienes? &amp;#191;Y vas a entrar? Esto es lo que sabemos, que no es mucho. Hay cinco niveles en la torre y todo es t&amp;#243;xico gracias a Thulsa. No olvides usar ese t&amp;#243;tem de purificaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pero tenemos fe en que derrotar&amp;#225;s a todas las amenazas del interior, especialmente a Thulsa!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" prevId="3" villagerId="1501">
+        <Page social="1" voiceTypeId="0">[EN] You have activated the teleportal using Killian's gem. A portal to the Ebon Tower is opening.&lt;br&gt;[ES] Has activado el teleportal usando la gema de Killian. Se est&amp;#225; abriendo un portal a Ebon Tower.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="251" villagerId="1501">
+        <Page social="0">[EN] It's time to use Killian's gem.&lt;br&gt;[ES] Es hora de usar la gema de Killian.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="251" prevId="4" villagerId="1501">
+        <Page social="1" voiceTypeId="0">[EN] You have investigated the teleportal in the Ebon Tower. Traces of Thulsa's magic sustain it, and it vibrates in resonance with another teleportal nearby...over there!&lt;br&gt;[ES] Has investigado el teleportal en Ebon Tower. Los rastros de la magia de Thulsa lo sostienen, y vibra en resonancia con otro teleportal cercano... &amp;#161;por all&amp;#237;!</Page>
+    </Text>
+</QuestDialog>

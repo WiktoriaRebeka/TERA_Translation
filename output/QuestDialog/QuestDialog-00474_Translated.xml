@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">[EN] I don't have the time to worry about stupid archaeologists when I've got creatures wandering every which way.&lt;BR&gt;&lt;BR&gt;Speaking of which, you look idle. Go kill some of those {@LinkCreature:18#16#rubblemaker golems} and bring me their cores. I want to string them together and make a rope around the city.&lt;br&gt;[ES] No tengo tiempo para preocuparme por arque&amp;#243;logos est&amp;#250;pidos cuando tengo criaturas deambulando por todas partes.&lt;BR&gt;&lt;BR&gt;Hablando de eso, te ves sin hacer nada. Ve a matar algunos de esos {@LinkCreature:18#16#rubblemaker golems} y tr&amp;#225;eme sus n&amp;#250;cleos. Quiero unirlos para hacer una cuerda alrededor de la ciudad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1005">
+        <Page social="4">[EN] Well done! I'd ask you to string these together for me, but I see another slacker who needs a task....&lt;br&gt;[ES] &amp;#161;Bien hecho! Te pedir&amp;#237;a que unieras esto por m&amp;#237;, pero veo a otro holgaz&amp;#225;n que necesita una tarea....</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1005">
+        <Page social="0">[EN] Are you stupid as well as idle? Going to get lost like that useless archaeologist?&lt;BR&gt;&lt;BR&gt;You're after {@LinkCreature:18#16#rubblemaker golems} and {@LinkCreature:18#15#rockcrawler scavengers}. Go on.&lt;br&gt;[ES] &amp;#191;Eres tan est&amp;#250;pido como inactivo? &amp;#191;Te vas a perder como ese arque&amp;#243;logo in&amp;#250;til?&lt;BR&gt;&lt;BR&gt;Vas tras {@LinkCreature:18#16#rubblemaker golems} y {@LinkCreature:18#15#rockcrawler scavengers}. Anda.</Page>
+    </Text>
+</QuestDialog>

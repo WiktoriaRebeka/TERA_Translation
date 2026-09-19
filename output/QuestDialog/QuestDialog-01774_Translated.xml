@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[EN] Omeros needs your help to overcome a serious threat.&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Accepting this quest removes the document "To the Front Lines III" from your inventory.&lt;/font&gt;&lt;br&gt;[ES] Omeros necesita tu ayuda para superar una amenaza grave.&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Aceptar esta misi&amp;#243;n elimina el documento &quot;To the Front Lines III&quot; de tu inventario.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1015">
+        <Page social="4">[EN] You have proven yourself worthy once again, &lt;PCNAME&gt;. Thank you.&lt;BR&gt;&lt;BR&gt;Here is your reward.&lt;br&gt;[ES] Has demostrado ser digno una vez m&amp;#225;s, &lt;PCNAME&gt;. Gracias.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; est&amp;#225; tu recompensa.</Page>
+    </Text>
+</QuestDialog>

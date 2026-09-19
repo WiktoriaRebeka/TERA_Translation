@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="4">[EN] Good to see you, &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;I love doing business. But you know what I hate? Tardiness. It's a small thing, but some of my business associates owe me updated ledgers for recent times.&lt;BR&gt;&lt;BR&gt;Can you gently remind them? And I mean it: gently.&lt;br&gt;[ES] Qu&amp;#233; bueno verte, &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;Me encanta hacer negocios. Pero, &amp;#191;sabes qu&amp;#233; odio? La impuntualidad. Es un detalle menor, pero algunos de mis socios comerciales me deben los libros de contabilidad actualizados de estos &amp;#250;ltimos tiempos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes record&amp;#225;rselo con delicadeza? Y lo digo en serio: con delicadeza.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1702">
+        <Page social="4">[EN] Hey, what brings you here?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Oye, &amp;#191;qu&amp;#233; te trae por aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Here! Here! By the titans, don't kill me!&lt;br&gt;[ES] &amp;#161;Toma! &amp;#161;Toma! &amp;#161;Por los titanes, no me mates!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1703">
+        <Page social="4">[EN] What's up, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; tal, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] I have a family...please. Take it! Take it to Jax and tell him I'll never, ever be late!&lt;br&gt;[ES] Tengo una familia... por favor. &amp;#161;Toma! &amp;#161;Ll&amp;#233;vaselo a Jax y dile que nunca, jam&amp;#225;s volver&amp;#233; a llegar tarde!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="4" villagerId="1704">
+        <Page social="4">[EN] Another day in paradise, eh, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Otro d&amp;#237;a en el para&amp;#237;so, &amp;#191;eh, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] And he sent you to...wait! This doesn't have to end like this&amp;#8212;just let me sign off on it really quickly! It's nearly done!&lt;br&gt;[ES] &amp;#191;Y te mand&amp;#243; a... espera! &amp;#161;Esto no tiene por qu&amp;#233; terminar as&amp;#237;! &amp;#161;Solo d&amp;#233;jame firmarlo muy r&amp;#225;pido! &amp;#161;Ya casi est&amp;#225; listo!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="5" villagerId="1705">
+        <Page social="4">[EN] What can I do for ya?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; puedo hacer por ti?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Don't hurt me! Not in the face! Look, take the ledger...and tell Jax I'm sorry!&lt;br&gt;[ES] &amp;#161;No me hagas da&amp;#241;o! &amp;#161;En la cara no! Mira, toma el libro de contabilidad... &amp;#161;y dile a Jax que lo siento!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1701">
+        <Page social="4">[EN] You came back quickly. No troubles, I hope?&lt;BR&gt;&lt;BR&gt;Here's a little something for your time.&lt;br&gt;[ES] Regresaste r&amp;#225;pido. &amp;#191;Ning&amp;#250;n problema, espero?&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes un peque&amp;#241;o obsequio por tu tiempo.</Page>
+    </Text>
+</QuestDialog>

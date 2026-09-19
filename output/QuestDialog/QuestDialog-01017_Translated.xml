@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">[EN] The nagas used to come here occasionally to worship Dagon, then go their way. Now they come and fight us.&lt;BR&gt;&lt;BR&gt;The answer may lie with the {@LinkCreature:42#200#Dagonite slayers}. If you kill enough of them, we may find some verification, documentation...who knows?&lt;BR&gt;&lt;BR&gt;At the very least, nagas would be dying, and we're always in favor of that.&lt;br&gt;[ES] Los naga sol&amp;#237;an venir aqu&amp;#237; de vez en cuando a adorar a Dagon y luego segu&amp;#237;an su camino. Ahora vienen y luchan contra nosotros.&lt;BR&gt;&lt;BR&gt;La respuesta puede estar en los {@LinkCreature:42#200#Dagonite slayers}. Si matas a suficientes, tal vez encontremos alguna confirmaci&amp;#243;n, documentaci&amp;#243;n... &amp;#191;qui&amp;#233;n sabe?&lt;BR&gt;&lt;BR&gt;Como m&amp;#237;nimo, los naga estar&amp;#237;an muriendo, y siempre estamos a favor de eso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">[EN] Let's see those orders...&lt;BR&gt;&lt;BR&gt;"We elders of Serpentis Isle...complete mission..." Yes, this is what we were looking for.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;. The federation owes you much.&lt;br&gt;[ES] A ver esas &amp;#243;rdenes...&lt;BR&gt;&lt;BR&gt;&quot;Nosotros, los ancianos de Serpentis Isle... completar misi&amp;#243;n...&quot; S&amp;#237;, esto es lo que est&amp;#225;bamos buscando.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;. La federaci&amp;#243;n te debe mucho.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">[EN] Why have the nagas stayed? Do you think the {@LinkCreature:42#200#Dagonite slayers} might know? Do you think killing a few of them might get us the answer?&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; se han quedado los naga? &amp;#191;Crees que los {@LinkCreature:42#200#Dagonite slayers} podr&amp;#237;an saberlo? &amp;#191;Crees que matar a unos cuantos nos dar&amp;#237;a la respuesta?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2140">
+        <Page social="0">[EN] As Rhodos and &lt;PCNAME&gt; confronted Dakuryon, he summoned Zolyn, now a demokron, to protect him. Paesyn tried to talk her down, but the archdevan magic proved too strong and she slew Paesyn. &lt;PCNAME&gt; battled Zolyn while Rhodos attacked Dakuryon. &lt;PCNAME&gt; ended Zolyn's dark existence while Dakuryon escaped.&lt;br&gt;[ES] Cuando Rhodos y &lt;PCNAME&gt; se enfrentaron a Dakuryon, &amp;#233;l invoc&amp;#243; a Zolyn, convertida ahora en un demokron, para que lo protegiera. Paesyn intent&amp;#243; hacerla entrar en raz&amp;#243;n, pero la magia archideva result&amp;#243; ser demasiado fuerte y ella mat&amp;#243; a Paesyn. &lt;PCNAME&gt; luch&amp;#243; contra Zolyn mientras Rhodos atacaba a Dakuryon. &lt;PCNAME&gt; puso fin a la oscura existencia de Zolyn mientras Dakuryon escapaba.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2140">
+        <Page social="4">[EN] Did you hear that? Someone is fighting!&lt;BR&gt;&lt;BR&gt;Hold on, Zolyn! We'll save you!&lt;br&gt;[ES] &amp;#191;Escuchaste eso? &amp;#161;Alguien est&amp;#225; peleando!&lt;BR&gt;&lt;BR&gt;&amp;#161;Aguanta, Zolyn! &amp;#161;Te salvaremos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="821" prevId="2" villagerId="1001">
+        <Page social="4">[EN] Such senseless tragedy.&lt;BR&gt;&lt;BR&gt;I grieve for your little friends, &lt;PCNAME&gt;. Dakuryon will pay for their deaths.&lt;BR&gt;&lt;BR&gt;Run, you coward! We will never stop seeking you!&lt;br&gt;[ES] Qu&amp;#233; tragedia tan absurda.&lt;BR&gt;&lt;BR&gt;Lamento lo de tus peque&amp;#241;os amigos, &lt;PCNAME&gt;. Dakuryon pagar&amp;#225; por sus muertes.&lt;BR&gt;&lt;BR&gt;&amp;#161;Huye, cobarde! &amp;#161;Nunca dejaremos de buscarte!</Page>
+    </Text>
+</QuestDialog>

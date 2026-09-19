@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1012">
+        <Page social="4">[EN] Before we can face the god of death directly, we must eliminate his remaining pawns.&lt;BR&gt;&lt;BR&gt;The Sihranars betrayed Kaiator to follow Kaidun, but now they serve the god who sacked their city? Incredible.&lt;BR&gt;&lt;BR&gt;You know, I trust, what to do?&lt;br&gt;[ES] Antes de que podamos enfrentar al dios de la muerte directamente, debemos eliminar a sus peones restantes.&lt;BR&gt;&lt;BR&gt;&amp;#191;Los Sihranars traicionaron a Kaiator para seguir a Kaidun, y ahora sirven al dios que saque&amp;#243; su ciudad? Incre&amp;#237;ble.&lt;BR&gt;&lt;BR&gt;&amp;#191;Sabes, supongo, qu&amp;#233; hacer?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1012">
+        <Page social="4">[EN] I'd gladly serve a month on the front lines if I could get a good bottle of Allemantheian silver wine.&lt;BR&gt;&lt;BR&gt;Alas, it's just you, me, and our duty. Speaking of which, thanks for handling the Sihranars. The end of this long campaign draws near&amp;#8212;and not a moment too soon.&lt;br&gt;[ES] Servir&amp;#237;a con mucho gusto un mes en las l&amp;#237;neas del frente si pudiera conseguir una buena botella de vino de plata de Allemantheia.&lt;BR&gt;&lt;BR&gt;Por desgracia, solo estamos t&amp;#250;, yo y nuestro deber. Hablando de eso, gracias por encargarte de los Sihranars. El final de esta larga campa&amp;#241;a se acerca, y ni un momento antes.</Page>
+    </Text>
+</QuestDialog>

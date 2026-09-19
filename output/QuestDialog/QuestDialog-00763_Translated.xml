@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="4">[EN] The weapons may not have worked, but this time I have a plan to win Nascha's heart that's foolproof!&lt;BR&gt;&lt;BR&gt;Kaidun awards his strongest and fiercest officers with special rank insignias. Nashwa couldn't refuse such a prize! Would you get them from the {@LinkCreature:32#15#Sihran loyalists} for me? I'd go...but...you've already proven you can handle this sort of thing.&lt;br&gt;[ES] &amp;#161;Puede que las armas no hayan funcionado, pero esta vez tengo un plan infalible para ganar el coraz&amp;#243;n de Nashwa!&lt;BR&gt;&lt;BR&gt;Kaidun premia a sus oficiales m&amp;#225;s fuertes y feroces con insignias de rango especiales. &amp;#161;Nashwa no podr&amp;#237;a rechazar semejante premio! &amp;#191;Podr&amp;#237;as conseguirlas de los {@LinkCreature:32#15#Sihran loyalists} por m&amp;#237;? Ir&amp;#237;a... pero... ya has demostrado que puedes con este tipo de cosas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1004">
+        <Page social="4">[EN] Nashwa will surely fall in love with me when I bring her these! I can't thank you enough, but this reward is a start!&lt;br&gt;[ES] &amp;#161;Nashwa seguramente se enamorar&amp;#225; de m&amp;#237; cuando le lleve esto! No tengo c&amp;#243;mo agradecerte, &amp;#161;pero esta recompensa es un comienzo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1004">
+        <Page social="0">[EN] All I need are the rank insignias worn by the {@LinkCreature:32#15#Sihran loyalists} and Nashwa will see I do care about her. Right?&lt;br&gt;[ES] Todo lo que necesito son las insignias de rango que llevan los {@LinkCreature:32#15#Sihran loyalists} y Nashwa ver&amp;#225; que s&amp;#237; me importa. &amp;#191;Verdad?</Page>
+    </Text>
+</QuestDialog>

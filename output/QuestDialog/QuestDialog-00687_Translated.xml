@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="1">[EN] Today's your lucky day, soldier. It so happens that my master, the sorcerer Oshar, is launching a new venture.&lt;BR&gt;&lt;BR&gt;Under his guidance, I've developed a hair lotion that rejuvenates and volumizes hair, and even regrows it. I need to produce another test batch, but I'm out of ingredients.&lt;BR&gt;&lt;BR&gt;But that's lucky for you!&lt;NEXTPAGEBUTTON&gt;"It is?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Hoy es tu d&amp;#237;a de suerte, soldado. Da la casualidad de que mi maestro, el hechicero Oshar, va a emprender un nuevo negocio.&lt;BR&gt;&lt;BR&gt;Bajo su tutela, he desarrollado una loci&amp;#243;n capilar que rejuvenece, da volumen al cabello e incluso hace que vuelva a crecer. Necesito producir otro lote de prueba, pero me he quedado sin ingredientes.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pero eso es una suerte para ti!&lt;NEXTPAGEBUTTON&gt;"It is?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Indeed! You can help me create this miracle lotion!&lt;BR&gt;&lt;BR&gt;Catch a few azureroot ghilliedhus and check them for beehives.&lt;BR&gt;&lt;BR&gt;Gather the honey and reap the awesome rewards!&lt;br&gt;[ES] &amp;#161;Claro que s&amp;#237;! &amp;#161;Puedes ayudarme a crear esta loci&amp;#243;n milagrosa!&lt;BR&gt;&lt;BR&gt;Atrapa a unos cuantos ghilliedhus de ra&amp;#237;z azulada y rev&amp;#237;salos en busca de panales.&lt;BR&gt;&lt;BR&gt;&amp;#161;Recoge la miel y cosecha unas recompensas incre&amp;#237;bles!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1016">
+        <Page social="1">[EN] I won't forget this, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;In fact, I'm going to add your name under "Contributors" on the recipe. And here is a small token of my gratitude.&lt;br&gt;[ES] No olvidar&amp;#233; esto, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;De hecho, voy a a&amp;#241;adir tu nombre en la secci&amp;#243;n de &quot;Colaboradores&quot; de la receta. Y aqu&amp;#237; tienes una peque&amp;#241;a muestra de mi agradecimiento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1016">
+        <Page social="0">[EN] The completion of Leshoff's Luxurious Lotion is near.&lt;BR&gt;&lt;BR&gt;Once I get enough ghilliedhu tree honey, it's complete!&lt;br&gt;[ES] La finalizaci&amp;#243;n de la Lujosa Loci&amp;#243;n de Leshoff est&amp;#225; cerca.&lt;BR&gt;&lt;BR&gt;&amp;#161;En cuanto consiga suficiente miel de &amp;#225;rbol de ghilliedhu, estar&amp;#225; lista!</Page>
+    </Text>
+</QuestDialog>

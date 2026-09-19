@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1004">
+        <Page social="5">[EN] The Temple of Dagon is the nagas' holy sanctuary. That makes it particularly dangerous for the expedition team who's there now.&lt;BR&gt;&lt;BR&gt;I'd like you to reinforce them, if you're willing. Report to Liyaqat at the Ecdysi Atrium. Good luck.&lt;br&gt;[ES] El Temple of Dagon es el santuario sagrado de los nagas. Eso lo hace particularmente peligroso para el equipo de la expedici&amp;#243;n que est&amp;#225; all&amp;#237; ahora.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a que los refuerces, si est&amp;#225;s dispuesto. Pres&amp;#233;ntate ante Liyaqat en el Ecdysi Atrium. Buena suerte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1033">
+        <Page social="5">[EN] Thank the gods you're here! It looks like the besharans have teamed up with the nagas to drive us out of here. That's a scary alliance if I ever heard one, so I hope I'm wrong.&lt;BR&gt;&lt;BR&gt;Take down a few of those {@LinkCreature:42#400#besharan runners}. See if you can find evidence they're working together.&lt;br&gt;[ES] &amp;#161;Gracias a los dioses que est&amp;#225;s aqu&amp;#237;! Parece que los besharans se han unido con los nagas para expulsarnos de aqu&amp;#237;. Es una alianza aterradora si alguna vez escuch&amp;#233; una, as&amp;#237; que espero estar equivocado.&lt;BR&gt;&lt;BR&gt;Derrota a unos cuantos de esos {@LinkCreature:42#400#besharan runners}. Mira si puedes encontrar pruebas de que est&amp;#225;n trabajando juntos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1033">
+        <Page social="4">[EN] Well done. We'll be studying this.&lt;BR&gt;&lt;BR&gt;Oh, and I have a reward for you.&lt;br&gt;[ES] Bien hecho. Estaremos estudiando esto.&lt;BR&gt;&lt;BR&gt;Ah, y tengo una recompensa para ti.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" villagerId="1033">
+        <Page social="0">[EN] Did you find any proof yet of an alliance between gulas and nagas?&lt;BR&gt;&lt;BR&gt;Just keep killing gulas, then. We'll all be better off.&lt;br&gt;[ES] &amp;#191;Encontraste alguna prueba de una alianza entre gulas y nagas todav&amp;#237;a?&lt;BR&gt;&lt;BR&gt;Solo sigue matando gulas, entonces. Estaremos todos mejor.</Page>
+    </Text>
+</QuestDialog>

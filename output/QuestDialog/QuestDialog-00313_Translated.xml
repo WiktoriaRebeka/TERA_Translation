@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="4">[EN] Mistmoor Island is for sure the place where the Red Pirates and Mitra Merchant Slavers do their business.&lt;BR&gt;&lt;BR&gt; Killing the cruel Slavers is essential to put an end to their acts of brutality.&lt;BR&gt;&lt;BR&gt;Please eliminate the {@LinkCreature:12#21#Mitra Merchant Slavers} roaming around the Mistmoor Island and then go visit {@LinkCreature:212#1005$$Taniel}.&lt;br&gt;[ES] Mistmoor Island es sin duda el lugar donde los Red Pirates y los traficantes de esclavos de Mitra hacen sus negocios.&lt;BR&gt;&lt;BR&gt; &amp;#161;Matar a los crueles esclavistas es esencial para poner fin a sus actos de brutalidad!&lt;BR&gt;&lt;BR&gt;Por favor, elimina a los {@LinkCreature:12#21#Mitra Merchant Slavers} que deambulan por Mistmoor Island y luego ve a visitar a {@LinkCreature:212#1005$$Taniel}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">[EN] Great. You've killed many merchant slavers. I know that they're not easy to deal with. Great job. Make sure that you don't let them surround you. Once they've got you surrounded, they'll overwhelm you, and you'll not come out alive, even if you have nine lives like a cat.&lt;br&gt;[ES] Genial. Has matado a muchos traficantes mercantes. S&amp;#233; que no es f&amp;#225;cil lidiar con ellos. Gran trabajo. Aseg&amp;#250;rate de que no dejen que te rodeen. Una vez que te hayan rodeado, te abrumar&amp;#225;n y no saldr&amp;#225;s con vida, ni aunque tengas nueve vidas como un gato.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1005">
+        <Page social="0">[EN] Take them all out, &lt;PCNAME&gt;. Imagine how many potential slaves you're freeing with each slaver corpse.&lt;br&gt;[ES] Acaba con todos ellos, &lt;PCNAME&gt;. Imagina cu&amp;#225;ntos esclavos potenciales est&amp;#225;s liberando con cada cad&amp;#225;ver de esclavista.</Page>
+    </Text>
+</QuestDialog>

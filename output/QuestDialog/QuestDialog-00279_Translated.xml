@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="4">[EN] At first, I thought it was a trap because the code was so easy to break, but...in any case, the order talks about an imminent, full-fledged assault by the Red Lash pirates!&lt;BR&gt;&lt;BR&gt;The risk is greatest at Vanguard Bastion. I want you to go there and help them, &lt;PCNAME&gt;. If you can do for them what you've done for us here, I'm certain everything will turn out fine.&lt;BR&gt;&lt;BR&gt;One other thing: you're going to have to swim to get there.&lt;br&gt;[ES] Al principio pens&amp;#233; que era una trampa porque el c&amp;#243;digo era muy f&amp;#225;cil de descifrar, pero... en cualquier caso, &amp;#161;la orden habla de un inminente y total asalto por parte de los piratas Red Lash!&lt;BR&gt;&lt;BR&gt;El riesgo es mayor en Vanguard Bastion. Quiero que vayas all&amp;#237; y les ayudes, &lt;PCNAME&gt;. Si puedes hacer por ellos lo que has hecho por nosotros aqu&amp;#237;, estoy seguro de que todo saldr&amp;#225; bien.&lt;BR&gt;&lt;BR&gt;Otra cosa: vas a tener que nadar para llegar all&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1009">
+        <Page social="4">[EN] So, Red Lash pirates are gearing up to mount an attack... It's time for us to do what we came to do.&lt;BR&gt;&lt;BR&gt;And by "we," I'm including you. It's time to put your game face on.&lt;br&gt;[ES] As&amp;#237; que los piratas Red Lash se est&amp;#225;n preparando para montar un ataque... Es hora de que hagamos lo que venimos a hacer.&lt;BR&gt;&lt;BR&gt;Y al decir &quot;nosotros&quot;, te incluyo a ti. Es hora de ponerse las pilas.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="0">[EN] You pass Saleron's test and receive an Ancient Slate in reward.&lt;br&gt;[ES] Superas la prueba de Saleron y recibes una pizarra antigua como recompensa.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="1" voiceTypeId="0">[EN] Torsten sent you&amp;#8212;and you brought tribute, I see. That's good.&lt;BR&gt;I also sense the influence of Kaia and Velik. I'm not exactly fond of my children right now, so that's bad. Very bad.&lt;NEXTPAGEBUTTON&gt;"Kelsaik has risen..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Torsten te envi&amp;#243;, y veo que trajiste un tributo. Eso es bueno.&lt;BR&gt;Tambi&amp;#233;n siento la influencia de Kaia y Velik. No es que mis hijos me caigan muy bien ahora mismo, as&amp;#237; que eso es malo. Muy malo.&lt;NEXTPAGEBUTTON&gt;"Kelsaik has risen..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">[EN] I know, mortal. I gathered that from the questions Killian and Icaruna asked while they tortured me. If I give you a relic fragment, Killian will just overpower you and seize it. A poor strategy. If you could prove you can stand up to Killian, though...hmmm. Perhaps a test?&lt;NEXTPAGEBUTTON&gt;"Willing, ready, and able."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Lo s&amp;#233;, mortal. Lo deduje por las preguntas que Killian e Icaruna hicieron mientras me torturaban. Si te doy un fragmento de reliquia, Killian simplemente te abrumar&amp;#225; y se lo quedar&amp;#225;. Una p&amp;#233;sima estrategia. Sin embargo, si pudieras demostrar que est&amp;#225;s a la altura de Killian... mmm. &amp;#191;Tal vez una prueba?&lt;NEXTPAGEBUTTON&gt;"Willing, ready, and able."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] We'll see, mortal. We'll see. If you truly think yourself ready, I'll send you to a place where few mortals have ever walked&amp;#8212;my sky garden. Let's see if you can survive the journey....&lt;br&gt;[ES] Ya veremos, mortal. Ya veremos. Si de verdad te crees capaz, te enviar&amp;#233; a un lugar donde pocos mortales han pisado jam&amp;#225;s: mi jard&amp;#237;n en los cielos. A ver si sobrevives al viaje...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3007" prevId="2" villagerId="1110">
+        <Page social="1" voiceTypeId="0">[EN] Since you live, you have passed my master's test.&lt;BR&gt;Take the first relic fragment from this ancient slate.&lt;BR&gt;&lt;BR&gt;Would that Saleron could be there when Killian tries to take it from you. But as you know, he doesn't get around like he used to.&lt;br&gt;[ES] Como sigues con vida, has superado la prueba de mi amo.&lt;BR&gt;Toma el primer fragmento de reliquia de esta pizarra antigua.&lt;BR&gt;&lt;BR&gt;Ojal&amp;#225; Saleron pudiera estar ah&amp;#237; cuando Killian intente arrebat&amp;#225;rtelo. Pero como sabes, ya no se desplaza como antes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3007" villagerId="1110">
+        <Page social="0">[EN] So far, I'd give you an "incomplete" grade on this test.&lt;br&gt;[ES] Hasta ahora, te dar&amp;#237;a una calificaci&amp;#243;n de &quot;incompleto&quot; en esta prueba.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3007" prevId="3" villagerId="1113">
+        <Page social="1" voiceTypeId="0">[EN] (The relic fragment shines with divine energy...&lt;BR&gt;&lt;BR&gt;Energy that is quickly absorbed. It's no longer visible, but you feel the thrum of power within.)&lt;br&gt;[ES] (El fragmento de reliquia brilla con energ&amp;#237;a divina...&lt;BR&gt;&lt;BR&gt;Energ&amp;#237;a que se absorbe r&amp;#225;pidamente. Ya no es visible, pero sientes el palpitar del poder en tu interior.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="237" prevId="5" villagerId="1102">
+        <Page social="1" voiceTypeId="0">[EN] Now the relic fragment's power lies within you. Consider it my gift.&lt;BR&gt;&lt;BR&gt;Also, &lt;PCNAME&gt;, you may visit my sky garden again, should you wish to test yourself further.&lt;br&gt;[ES] Ahora el poder del fragmento de reliquia reside en ti. Consid&amp;#233;ralo mi regalo.&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, &lt;PCNAME&gt;, puedes visitar mi jard&amp;#237;n en los cielos de nuevo, por si deseas ponerte a prueba otra vez.</Page>
+    </Text>
+</QuestDialog>

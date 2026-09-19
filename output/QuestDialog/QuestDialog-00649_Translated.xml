@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="4">[EN] Have you seen the sinister people roaming the basement? They're {@LinkCreature:25#3012#shurian champions}. Everyone thought they disappeared with the devan Dark Empire, but they're definitely here. We think they might be members of the Atel Akaad.&lt;BR&gt;&lt;BR&gt;Let's drive them to extinction for real this time! Take them out and bring back their emblems.&lt;br&gt;[ES] &amp;#191;Has visto a esa gente siniestra merodeando por el s&amp;#243;tano? Son {@LinkCreature:25#3012#shurian champions}. Todos pensaban que hab&amp;#237;an desaparecido junto con el devan Dark Empire, &amp;#161;pero definitivamente est&amp;#225;n aqu&amp;#237;! Creemos que podr&amp;#237;an ser miembros de los Atel Akaad.&lt;BR&gt;&lt;BR&gt;&amp;#161;Vamos a llevarlos a la extinci&amp;#243;n de verdad esta vez! Acaba con ellos y trae de vuelta sus emblemas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1019">
+        <Page social="4">[EN] Not bad at all! Even better, these emblems are full of mana, and can be used to activate the teleportal. Good going!&lt;br&gt;[ES] &amp;#161;Nada mal! A&amp;#250;n mejor, estos emblemas est&amp;#225;n llenos de mana y se pueden usar para activar el teleportal. &amp;#161;Bien hecho!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1019">
+        <Page social="0">[EN] Come on&amp;#8212;I really need those emblems.&lt;br&gt;[ES] Vamos, de verdad necesito esos emblemas.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1016">
+        <Page social="4">[EN] Nagas, pirates, and slavers. The Red Lash pirates are bad news. This whole coastline is bad news, actually.&lt;BR&gt;&lt;BR&gt;But I'm not leaving until I'm rich! This coastline owes me some treasure&amp;#8212;owes me for all the bloodshed, all the sacrifice, all the pain.&lt;NEXTPAGEBUTTON&gt;"Wait...treasure?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Nagas, piratas y esclavistas. Los piratas Red Lash son malas noticias. De hecho, toda esta costa es mala noticia.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pero no me ir&amp;#233; hasta que sea rico! Esta costa me debe alg&amp;#250;n tesoro, me debe compensar por todo el derramamiento de sangre, todo el sacrificio, todo el dolor.&lt;NEXTPAGEBUTTON&gt;"Wait...treasure?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Look, I know I'm in over my head. I'd probably be a pirate slave&amp;#8212;or worse&amp;#8212;if it weren't for &lt;PCCLASS:lcase&gt;s like you.&lt;BR&gt;&lt;BR&gt;I got jumped last time I went after those treasure chests. I'd like to see someone try to jump you, though.&lt;BR&gt;&lt;BR&gt;Bring me what's inside, and I'll sort through the junk. I have a knack for antique appraisal, as it turns out.&lt;br&gt;[ES] Mira, s&amp;#233; que estoy fuera de mi elemento. Probablemente ser&amp;#237;a un esclavo pirata&amp;#8212;o peor&amp;#8212;si no fuera por &lt;PCCLASS:lcase&gt; como t&amp;#250;.&lt;BR&gt;&lt;BR&gt;Me emboscaron la &amp;#250;ltima vez que fui tras esos cofres del tesoro. Aunque me gustar&amp;#237;a ver a alguien intentar emboscarte a ti.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme lo que hay dentro, y yo examinar&amp;#233; la chatarra. Resulta que tengo buen ojo para tasar antig&amp;#252;edades.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1029">
+        <Page social="4">[EN] (The old chest is already open and filled with silt.)&lt;br&gt;[ES] (El viejo cofre ya est&amp;#225; abierto y lleno de cieno).</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" prevId="3" villagerId="1030">
+        <Page social="4">[EN] (The old chest is already open and filled with silt.)&lt;br&gt;[ES] (El viejo cofre ya est&amp;#225; abierto y lleno de cieno).</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="4" villagerId="1016">
+        <Page social="4">[EN] The chests were full of silt? Where's the treasure? Wait a minute...&lt;BR&gt;&lt;BR&gt;Oh, I see how it is. You take the goods for yourself and pretend like the chests were worthless.&lt;BR&gt;&lt;BR&gt;I think you're the one who's full of silt. &lt;NEXTPAGEBUTTON&gt;"It's not like that."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Los cofres estaban llenos de cieno? &amp;#191;D&amp;#243;nde est&amp;#225; el tesoro? Espera un momento...&lt;BR&gt;&lt;BR&gt;Ah, ya veo c&amp;#243;mo es esto. Te quedas con los bienes y finges que los cofres no val&amp;#237;an nada.&lt;BR&gt;&lt;BR&gt;Creo que el que est&amp;#225; lleno de cieno eres t&amp;#250;. &lt;BR&gt;&quot;No es as&amp;#237;.&quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Whatever, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Now clear out. I got scheming to do...&lt;br&gt;[ES] Como sea, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Ahora largo de aqu&amp;#237;. &amp;#161;Tengo planes que tramar...!</Page>
+    </Text>
+</QuestDialog>

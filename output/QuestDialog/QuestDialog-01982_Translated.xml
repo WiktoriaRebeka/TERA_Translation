@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">[EN] You cleaned the center area of the temple.&lt;br&gt;[ES] Limpiaste la zona central del templo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">[EN] Kodar needs assistance in the temple center.&lt;BR&gt;&lt;BR&gt;Please enter the temple via the teleportal and ask Kodar what you can do to help. &lt;NEXTPAGEBUTTON&gt;"It would be my honor."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Kodar necesita asistencia en el centro del templo.&lt;BR&gt;&lt;BR&gt;Por favor, entra al templo a trav&amp;#233;s del teleportal y preg&amp;#250;ntale a Kodar qu&amp;#233; puedes hacer para ayudar. &lt;NEXTPAGEBUTTON&gt;"It would be my honor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">[EN] Welcome, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;My duties require my presence elsewhere, but I know that I can count on you to tend to things here in the temple center. The temple incense needs refreshing, the mirrors need cleaning, vermin are getting into the temple, and the snakes are back. For now, though, let's just focus on one thing.&lt;NEXTPAGEBUTTON&gt;"I'll take care of it."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Bienvenido, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Mis deberes requieren mi presencia en otra parte, pero s&amp;#233; que puedo contar contigo para ocuparte de las cosas aqu&amp;#237; en el centro del templo. Hay que renovar el incienso del templo, limpiar los espejos, las alima&amp;#241;as est&amp;#225;n entrando al templo y las serpientes han vuelto. Por ahora, sin embargo, concentr&amp;#233;monos en una sola cosa.&lt;NEXTPAGEBUTTON&gt;"I'll take care of it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">[EN] May Balder's light shine upon you!&lt;br&gt;[ES] &amp;#161;Que la luz de Balder brille sobre ti!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">[EN] May Balder's light shine upon you!&lt;br&gt;[ES] &amp;#161;Que la luz de Balder brille sobre ti!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">[EN] May Balder's light shine upon you!&lt;br&gt;[ES] &amp;#161;Que la luz de Balder brille sobre ti!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="7000">
+        <Page social="4">[EN] Truly, you have been sent by Balder!&lt;BR&gt;&lt;BR&gt;Please accept this humble token of our appreciation.&lt;br&gt;[ES] &amp;#161;De verdad, has sido enviado por Balder!&lt;BR&gt;&lt;BR&gt;Por favor, acepta esta humilde muestra de nuestro agradecimiento.</Page>
+    </Text>
+</QuestDialog>

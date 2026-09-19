@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1015">
+        <Page social="4">[EN] Other wendigos led by {@LinkCreature:34#5001#Kaijas}. He not willing to share shards.&lt;BR&gt;&lt;BR&gt;If you kill him, other wendigos might be willing to listen to Krrevaas.&lt;br&gt;[ES] Otros wendigos son liderados por {@LinkCreature:34#5001#Kaijas}. &amp;#201;l no est&amp;#225; dispuesto a compartir los fragmentos.&lt;BR&gt;&lt;BR&gt;Si lo matas, otros wendigos tal vez est&amp;#233;n dispuestos a escuchar a Krrevaas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1015">
+        <Page social="4">[EN] More important than strength is honor. Madyar has it. &lt;PCNAME&gt; has it also.&lt;BR&gt;&lt;BR&gt;Krrevaas will speak to wendigos. Will talk sharing the shards with your people.&lt;NEXTPAGEBUTTON&gt;"As will I."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] M&amp;#225;s importante que la fuerza es el honor. Madyar lo tiene. &lt;PCNAME&gt; tambi&amp;#233;n lo tiene.&lt;BR&gt;&lt;BR&gt;Krrevaas hablar&amp;#225; con los wendigos. Hablar&amp;#225; de compartir los fragmentos con su gente.&lt;NEXTPAGEBUTTON&gt;"As will I."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Then we part as allies. When next we meet, Krrevaas hopes it will be as friends.&lt;br&gt;[ES] Entonces nos despedimos como aliados. Cuando nos volvamos a encontrar, Krrevaas espera que sea como amigos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1015">
+        <Page social="0">[EN] Both sides lose if the shards disappear. Time running out to work together.&lt;br&gt;[ES] Ambos bandos pierden si los fragmentos desaparecen. El tiempo se agota para trabajar juntos.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="234" prevId="3" villagerId="1009">
+        <Page social="4">[EN] You're returning to Icebase Stalker? I feel I must stay here and aid the wendigos. Will you thank Lalash for his concern?&lt;br&gt;[ES] &amp;#191;Volver&amp;#225;s con Icebase Stalker? Siento que debo quedarme aqu&amp;#237; y ayudar a los wendigos. &amp;#191;Le agradecer&amp;#225;s a Lalash por su preocupaci&amp;#243;n?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="234" prevId="5" villagerId="1005">
+        <Page social="4">[EN] All this fighting and misery over shards of crystal.&lt;BR&gt;&lt;BR&gt;Madyar's point is well taken, we are not the only tenants of this world. I will discuss your reports with the praetor. Perhaps policy can shift in time to avert disaster.&lt;BR&gt;&lt;BR&gt;Dismissed!&lt;br&gt;[ES] Toda esta lucha y miseria por shards de crystal.&lt;BR&gt;&lt;BR&gt;Madyar's point is well taken, no somos los &amp;#250;nicos inquilinos de este mundo. Discutir&amp;#233; tus informes con el praetor. Tal vez la pol&amp;#237;tica pueda cambiar a tiempo para evitar un desastre.&lt;BR&gt;&lt;BR&gt;Dismissed!</Page>
+    </Text>
+</QuestDialog>

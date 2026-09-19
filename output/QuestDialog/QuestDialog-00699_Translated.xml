@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1028">
+        <Page social="1">[EN] Have you heard of Oshar the sorcerer? Of course you have! He's the continent's preeminent magical mind.&lt;BR&gt;&lt;BR&gt;I'm his best pupil, destined to continue his research when Oshar enters the Dream.&lt;BR&gt;&lt;BR&gt;Help me, and you'll earn goodwill from both the current master sorcerer...and the next one.&lt;NEXTPAGEBUTTON&gt;"What do you need?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Has o&amp;#237;do hablar del hechicero Oshar? &amp;#161;Claro que s&amp;#237;! Es la mente m&amp;#225;gica m&amp;#225;s preeminente del continente.&lt;BR&gt;&lt;BR&gt;Soy su mejor alumno, destinado a continuar su investigaci&amp;#243;n cuando Oshar entre en el Sue&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Ay&amp;#250;dame, y te ganar&amp;#225;s el favor tanto del actual maestro hechicero... como del pr&amp;#243;ximo.&lt;NEXTPAGEBUTTON&gt;"What do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">[EN] I want to demonstrate mastery of the intellect by uplifting the intelligence of the local fauna.&lt;BR&gt;&lt;BR&gt;My first efforts focus on the most cunning creature in the refuge: sloths. No, really. From you, I need sloth claws so I can create a potion that will metaphorically "de-claw" them and render them civilized.&lt;br&gt;[ES] Quiero demostrar mi dominio del intelecto elevando la inteligencia de la fauna local.&lt;BR&gt;&lt;BR&gt;Mis primeros esfuerzos se centran en la criatura m&amp;#225;s astuta del refugio: los perezosos. No, en serio. De ti necesito garras de perezoso para poder crear una poci&amp;#243;n que, metaf&amp;#243;ricamente, les &quot;quite las garras&quot; y los civilice.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1028">
+        <Page social="1">[EN] I'll write to Oshar that I can start testing the sloth docility potion soon.&lt;BR&gt;&lt;BR&gt;Imagine returning years from now to find an entire sloth-based civilization, with sloth religion, sloth culture, a sloth economy...like the ancient empire of the giants, but with sloths.&lt;br&gt;[ES] Le escribir&amp;#233; a Oshar que pronto podr&amp;#233; empezar a probar la poci&amp;#243;n de docilidad para perezosos.&lt;BR&gt;&lt;BR&gt;Imagina volver dentro de a&amp;#241;os para encontrar toda una civilizaci&amp;#243;n basada en los perezosos, con religi&amp;#243;n de perezosos, cultura de perezosos, econom&amp;#237;a de perezosos... como el antiguo imperio de los gigantes, &amp;#161;pero con perezosos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1028">
+        <Page social="0">[EN] Today sloths, tomorrow the world!&lt;br&gt;[ES] &amp;#161;Hoy los perezosos, ma&amp;#241;ana el mundo!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="4">[EN] One naga in particular is laying the groundwork for reviving Dagon.&lt;BR&gt;&lt;BR&gt;You probably guess where I'm going with this. And I'd hate to disappoint you. Your target is {@LinkCreature:10#19#Siraxatol}. Take her out.&lt;br&gt;[ES] Una naga en particular est&amp;#225; preparando el terreno para revivir a Dagon.&lt;BR&gt;&lt;BR&gt;Probablemente ya adivines a d&amp;#243;nde voy con esto. Y detestar&amp;#237;a decepcionarte. Tu blanco es {@LinkCreature:10#19#Siraxatol}. Acaba con ella.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1004">
+        <Page social="4">[EN] We're inside the nagas' reaction cycle now, giving them new things to worry about before they've dealt with the last batch of troubles.&lt;BR&gt;&lt;BR&gt;And we have you and your quick work to thank for that, &lt;PCNAME&gt;.&lt;br&gt;[ES] Ahora estamos dentro del ciclo de reacci&amp;#243;n de los nagas, d&amp;#225;ndoles nuevas preocupaciones antes de que hayan lidiado con el lote anterior de problemas.&lt;BR&gt;&lt;BR&gt;Y tenemos que agradecerte a ti y a tu r&amp;#225;pido trabajo por eso, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

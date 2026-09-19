@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="4">[EN] I sent a scout to watch the Crag Stalker kulkari two days ago. No word since. I don't have more scouts, so I'm sending you.&lt;BR&gt;&lt;BR&gt;Head out the west gate and find {@LinkCreature:221#1047#Hebbin}. If she's alive, get her report. If she's not, scout them out yourself and report back.&lt;br&gt;[ES] Mand&amp;#233; un explorador a vigilar a los kulkari de los Crag Stalker hace dos d&amp;#237;as. No he sabido nada desde entonces. No tengo m&amp;#225;s exploradores, as&amp;#237; que te enviar&amp;#233; a ti.&lt;BR&gt;&lt;BR&gt;Sal por la puerta oeste y encuentra a {@LinkCreature:221#1047#Hebbin}. Si est&amp;#225; viva, consigue su informe. Si no lo est&amp;#225;, explora por tu cuenta e inf&amp;#243;rtame.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1047">
+        <Page social="4">[EN] The captain was worried? Huh. Well, I just couldn't sneak away, is all.&lt;BR&gt;&lt;BR&gt;Strangely, the kulkari aren't up to anything in particular. It's been oddly quiet.&lt;br&gt;[ES] &amp;#191;El capit&amp;#225;n estaba preocupado? Ja. Bueno, es que simplemente no pude escaparme, eso es todo.&lt;BR&gt;&lt;BR&gt;Curiosamente, los kulkari no est&amp;#225;n tramando nada en particular. Ha estado extra&amp;#241;amente tranquilo.</Page>
+    </Text>
+</QuestDialog>

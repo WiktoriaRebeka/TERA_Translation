@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="5">[EN] There's no food left in the camp. We've eaten what hasn't been stolen, even with the rations we set up. Morale's dropping.&lt;BR&gt;&lt;BR&gt;Some Echo Ranch folks say there's food in Colchester east of here, and we sent Sozia out to get it, but if there's enough food to support us, she'll probably need help carrying it back.&lt;BR&gt;&lt;BR&gt;Can you go out there and give her a hand?&lt;br&gt;[ES] No queda comida en el campamento. Nos hemos comido lo que no ha sido robado, incluso con las raciones que preparamos. La moral est&amp;#225; bajando.&lt;BR&gt;&lt;BR&gt;Alguna gente de Echo Ranch dice que hay comida en Colchester, al este de aqu&amp;#237;, y enviamos a Sozia a buscarla, pero si hay suficiente comida para sustentarnos, probablemente necesitar&amp;#225; ayuda para llevarla de regreso.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ir all&amp;#225; y echarle una mano?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1003">
+        <Page social="5">[EN] Hmm? Oh, Dakona sent you, did she? Good. There's definitely food in there, but every time I try to gather it up, these things show up and chase me off.&lt;BR&gt;&lt;BR&gt;You might be quicker than me. If you can run in there and grab the sacks, we can bring them back to the base.&lt;br&gt;[ES] &amp;#191;Mmh? Ah, Dakona te envi&amp;#243;, &amp;#191;verdad? Bien. Definitivamente hay comida ah&amp;#237; dentro, pero cada vez que intento juntarla, estas cosas aparecen y me ahuyentan.&lt;BR&gt;&lt;BR&gt;Quiz&amp;#225;s seas m&amp;#225;s r&amp;#225;pido que yo. Si puedes correr ah&amp;#237; dentro y agarrar los sacos, podemos llevarlos de vuelta a la base.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1003">
+        <Page social="5">[EN] Oh good. I was starting to worry that I'd never be able to get this food back there.&lt;BR&gt;&lt;BR&gt;It's good to know we might be able to eat for a while longer!&lt;br&gt;[ES] &amp;#161;Oh, qu&amp;#233; bien! &amp;#161;Empezaba a preocuparme de que nunca pudiera recuperar esta comida para llevarla ah&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Es bueno saber que quiz&amp;#225;s podamos comer por un tiempo m&amp;#225;s!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="206" villagerId="1003">
+        <Page social="0">[EN] Could you not find it? Shall I point it out again?&lt;br&gt;[ES] &amp;#191;No pudiste encontrarla? &amp;#191;Se supone que debo se&amp;#241;alarla de nuevo?</Page>
+    </Text>
+</QuestDialog>

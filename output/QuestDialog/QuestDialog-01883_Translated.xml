@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3001">
+        <Page social="4">[EN] I got a request for your presence at {@Rgn:50003$$Helkir Grotto}.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:250#3002#Sunkuvil} says the prismar watchers are swarming again.&lt;br&gt;[ES] Tengo una solicitud de tu presencia en {@Rgn:50003$$Helkir Grotto}.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:250#3002#Sunkuvil} dice que los prismar watchers est&amp;#225;n invadiendo el lugar de nuevo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="4">[EN] Thanks for coming, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:50#9#prismar watchers} must be spawning. They're swarming an area my federation charges need access to. Care to tally a few?&lt;br&gt;[ES] &amp;#161;Gracias por venir, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:50#9#prismar watchers} deben estar apareciendo. Est&amp;#225;n invadiendo un &amp;#225;rea a la que los reclutas de mi federaci&amp;#243;n necesitan acceder. &amp;#191;Te importar&amp;#237;a acabar con unos cuantos?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="4">[EN] I think the argons moved those watchers here just to frustrate us.&lt;BR&gt;&lt;BR&gt;Thanks for clearing them away.&lt;br&gt;[ES] Creo que los argons movieron a esos vig&amp;#237;as aqu&amp;#237; solo para frustrarnos.&lt;BR&gt;&lt;BR&gt;Gracias por despejarlos.</Page>
+    </Text>
+</QuestDialog>

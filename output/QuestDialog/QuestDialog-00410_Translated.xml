@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1009">
+        <Page social="5">[EN] It's a conspiracy, I tell you! A conspiracy!&lt;BR&gt;&lt;BR&gt;I don't know if they caused it. Maybe they're just feeding it.&lt;BR&gt;&lt;BR&gt;Haha! Feeding!&lt;NEXTPAGEBUTTON&gt;"Uh..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Es una conspiraci&amp;#243;n, te lo digo! &amp;#161;Una conspiraci&amp;#243;n!&lt;BR&gt;&lt;BR&gt;No s&amp;#233; si ellos lo provocaron. Tal vez solo lo est&amp;#233;n alimentando.&lt;BR&gt;&lt;BR&gt;&amp;#161;Jaja! &amp;#161;Alimentando!&lt;NEXTPAGEBUTTON&gt;"Uh..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] The {@LinkCreature:15#1#lunatic yeomans} and {@LinkCreature:15#2#insane farmers} from that Paraanon cult are feeding the crazies. Crazy or not, you can't live without food.&lt;BR&gt;&lt;BR&gt;Kill the farmers. Done talking, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Do it.&lt;br&gt;[ES] Los {@LinkCreature:15#1#lunatic yeomans} y {@LinkCreature:15#2#insane farmers} de ese culto Paraanon est&amp;#225;n alimentando a los locos. Locos o no, no se puede vivir sin comida.&lt;BR&gt;&lt;BR&gt;Mata a los granjeros. Se acab&amp;#243; la charla, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Hazlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1009">
+        <Page social="5">[EN] Excellent.&lt;BR&gt;&lt;BR&gt;I'll go check our food. We have to protect our purity of essence...&lt;br&gt;[ES] Excelente.&lt;BR&gt;&lt;BR&gt;Ir&amp;#233; a revisar nuestra comida. Tenemos que proteger nuestra pureza de esencia...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1009">
+        <Page social="0">[EN] This is vital, &lt;PCNAME&gt;. Those farmers are spreading the disease!&lt;br&gt;[ES] Esto es vital, &lt;PCNAME&gt;. &amp;#161;Esos granjeros est&amp;#225;n propagando la enfermedad!</Page>
+    </Text>
+</QuestDialog>

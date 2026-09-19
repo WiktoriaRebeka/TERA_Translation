@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="5">[EN] They're going to skin me alive if I go back without a good excuse, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;You know, cryptkeeper kulkaris have surrounded the Crypt of the Forsaken. If I said I was late because of them, and that you and I fought together to defeat them, no one would even bring up the "several days late" part.&lt;BR&gt;&lt;BR&gt;And my story would be at least half-true, right?&lt;br&gt;[ES] Van a desollarme vivo si vuelvo sin una buena excusa, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Sabes, los cryptkeeper kulkaris han rodeado la Crypt of the Forsaken. Si dijera que llegu&amp;#233; tarde por su culpa, y que t&amp;#250; y yo luchamos juntos para derrotarlos, nadie sacar&amp;#237;a a relucir la parte de &quot;varios d&amp;#237;as tarde&quot;.&lt;BR&gt;&lt;BR&gt;Y mi historia ser&amp;#237;a al menos medio verdad, &amp;#191;no?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1032">
+        <Page social="6">[EN] Well, &lt;PCNAME&gt;, you've spared me one of Galla's lectures about tardiness.&lt;BR&gt;&lt;BR&gt;She can be very naggy sometimes.&lt;br&gt;[ES] Menos mal, &lt;PCNAME&gt;, que me has librado de otra de las charlas de Galla sobre la puntualidad.&lt;BR&gt;&lt;BR&gt;A veces puede ser muy pesada.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1032">
+        <Page social="0">[EN] It's gonna take more ears than that to impress Galla.&lt;br&gt;[ES] Vas a necesitar m&amp;#225;s orejas que esas para impresionar a Galla.</Page>
+    </Text>
+</QuestDialog>

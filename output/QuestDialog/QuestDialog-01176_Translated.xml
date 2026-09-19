@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="4">[EN] You've hurt the argons, but we're not done. If the federation sends a battalion of troops, we need mobility to use them effectively.&lt;BR&gt;&lt;BR&gt;Hit the argons around the Northern Teleport Platform. If we get reinforcements, I don't intend to waste their lives at an unsecured site.&lt;br&gt;[ES] Has lastimado a los argon, pero no hemos terminado. Si la federaci&amp;#243;n env&amp;#237;a un batall&amp;#243;n de tropas, necesitamos movilidad para usarlas con eficacia.&lt;BR&gt;&lt;BR&gt;Golpea a los argon alrededor de la plataforma de teletransporte del norte. Si conseguimos refuerzos, no tengo intenci&amp;#243;n de desperdiciar sus vidas en un sitio no asegurado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1034">
+        <Page social="6">[EN] Hey &lt;PCNAME&gt;&amp;#8212;hold on a moment. If you're heading to the {@Creature:249#1102} I need a favor.&lt;BR&gt;&lt;BR&gt;There's an unusual argonomorph type called the zariik cyclops. They've got beautiful wings. Can't miss 'em.&lt;BR&gt;&lt;BR&gt;Bring me those wings. I'll put them to good use.&lt;br&gt;[ES] Hola, &lt;PCNAME&gt;, espera un momento. Si te diriges hacia el {@Creature:249#1102}, necesito un favor.&lt;BR&gt;&lt;BR&gt;Hay un tipo de argonomorfo inusual llamado zariik cyclops. Tienen unas alas hermosas. Es imposible no verlos.&lt;BR&gt;&lt;BR&gt; Tr&amp;#225;eme esas alas. Les dar&amp;#233; un buen uso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1034">
+        <Page social="6">[EN] The Mysterium pays well for argonomorph parts. They hope to reverse the process one day.&lt;BR&gt;&lt;BR&gt;A worthy goal...a worthy, well-paying goal.&lt;br&gt;[ES] El Mysterium paga bien por piezas de argonomorfo. Esperan revertir el proceso alg&amp;#250;n d&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Un objetivo digno... un objetivo digno y bien pagado.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" villagerId="1034">
+        <Page social="0">[EN] Look, you'd kill them securing the teleport platform anyway.&lt;BR&gt;&lt;BR&gt;This is just killing two gulas with one spear.&lt;br&gt;[ES] Mira, de todas formas los matar&amp;#237;as al asegurar la plataforma de teletransporte.&lt;BR&gt;&lt;BR&gt;Esto es simplemente matar dos gulas de un tiro.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1024">
+        <Page social="6">[EN] Glad you're back. I'm tired of writing letters to families who'll never see their loved one again.&lt;BR&gt;&lt;BR&gt;All right. You did your job. Let's get on to the next one.&lt;br&gt;[ES] Me alegra que hayas vuelto. Estoy harto de escribir cartas a familias que nunca volver&amp;#225;n a ver a su ser querido.&lt;BR&gt;&lt;BR&gt;Muy bien. Hiciste tu trabajo. Pasemos al siguiente.</Page>
+    </Text>
+</QuestDialog>

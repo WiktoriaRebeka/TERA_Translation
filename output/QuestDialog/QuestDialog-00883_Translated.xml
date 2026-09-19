@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="6">[EN] Galla's right about one thing: those hellhounds are a pain.&lt;BR&gt;&lt;BR&gt;They jumped me&amp;#8212;accursed pack tactics!&amp;#8212;and I lost all the rations.&lt;BR&gt;&lt;BR&gt;Talk about a nightmare assignment: "Hey, Eudon, how about you transport all this meat through hellhound country? Great! Good luck, buddy!" Sheesh.&lt;BR&gt;&lt;BR&gt;If the goldmaw hellhounds haven't eaten it all, can you retrieve the rations for me, &lt;PCNAME&gt;?&lt;br&gt;[ES] Galla tiene raz&amp;#243;n en algo: esos sabuesos infernales son un fastidio.&lt;BR&gt;&lt;BR&gt;Me atacaron (&amp;#161;malditas t&amp;#225;cticas de manada!) y perd&amp;#237; todas las raciones.&lt;BR&gt;&lt;BR&gt;Vaya asignaci&amp;#243;n de pesadilla: &quot;Hola, Eudon, &amp;#191;qu&amp;#233; tal si transportas toda esta carne por territorio de sabuesos infernales? &amp;#161;Genial! &amp;#161;Buena suerte, amigo!&quot;. Rayos.&lt;BR&gt;&lt;BR&gt;Si los sabuesos infernales faucedorada no se lo han comido todo, &amp;#191;puedes recuperar las raciones para m&amp;#237;, &lt;BR&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1033">
+        <Page social="6">[EN] We're starving, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Let us at it!&lt;BR&gt;&lt;BR&gt;And hey...how come it took you so long?&lt;br&gt;[ES] &amp;#161;Nos estamos muriendo de hambre, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#161;D&amp;#233;janos comer!&lt;BR&gt;&lt;BR&gt;Y dime... &amp;#191;por qu&amp;#233; tardaste tanto?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1033">
+        <Page social="0">[EN] What is it?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; pasa?</Page>
+    </Text>
+</QuestDialog>

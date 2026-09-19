@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="4">[EN] {@LinkCreature:247#3510#Toray} at the {@Rgn:47007$$Blightroar Research Station} sent a request for assistance. He's having trouble collecting research samples.&lt;BR&gt;&lt;BR&gt;Your skill set makes you perfect for such a task!&lt;br&gt;[ES] {@LinkCreature:247#3510#Toray} en {@Rgn:47007$$Blightroar Research Station} envi&amp;#243; una solicitud de asistencia. Est&amp;#225; teniendo problemas para recolectar muestras de investigaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#161;Tus habilidades te hacen perfecto para una tarea as&amp;#237;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">[EN] I noticed a clutch of naga eggs nearby that I'm convinced came from argonomorph nagas. Think about the implications of that!&lt;BR&gt;&lt;BR&gt;Unfortunately, without proof it's all speculation. I need samples from the eggs but&amp;#8212;argonomorphs or not&amp;#8212;the nagas aren't having it.&lt;BR&gt;&lt;BR&gt;Think you could help?&lt;br&gt;[ES] Not&amp;#233; un grupo de huevos de naga cerca que estoy convencido de que provienen de argonomorph nagas. &amp;#161;Piensa en las implicaciones de eso!&lt;BR&gt;&lt;BR&gt;Desafortunadamente, sin pruebas todo es especulaci&amp;#243;n. Necesito muestras de los huevos pero&amp;#8212;sean argonomorph o no&amp;#8212;las nagas no lo permitir&amp;#225;n.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que podr&amp;#237;as ayudar?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">[EN] Oh, yes. I can see differences in these shards.&lt;BR&gt;&lt;BR&gt;Curious. How did the argons manage this?&lt;br&gt;[ES] Oh, s&amp;#237;. Puedo ver diferencias en estos fragmentos.&lt;BR&gt;&lt;BR&gt;Curioso. &amp;#191;C&amp;#243;mo se arreglaron los argon para hacer esto?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" villagerId="3510">
+        <Page social="0">[EN] First I must understand how the argons can affect a crystalline race like wendigos.&lt;BR&gt;&lt;BR&gt;Kill any contaminated wendigos you find and collect their shards. They're the key.&lt;br&gt;[ES] Primero debo entender c&amp;#243;mo los argons pueden afectar a una raza crystal como los wendigos.&lt;BR&gt;&lt;BR&gt;Mata a cualquier wendigo contaminado que encuentres y recoge sus fragmentos. Son la clave.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="7" villagerId="3510">
+        <Page social="4">[EN] Fascinating. I've wondered what physical changes occur to argonomorphs when they transition.&lt;BR&gt;&lt;BR&gt;This should prove illuminating.&lt;br&gt;[ES] Fascinante. Me he preguntado qu&amp;#233; cambios f&amp;#237;sicos ocurren en los argonomorph cuando hacen la transici&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Esto resultar&amp;#225; esclarecedor.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="247" villagerId="3510">
+        <Page social="0">[EN] The changes to the nagas go beyond the skin, though.&lt;BR&gt;&lt;BR&gt;I'd like to study some naga hides affected by the argonomorph process.&lt;br&gt;[ES] Sin embargo, los cambios en las nagas van m&amp;#225;s all&amp;#225; de la piel.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a estudiar algunas pieles de naga afectadas por el proceso argonomorph.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="247" prevId="9" villagerId="3510">
+        <Page social="4">[EN] Yolk from a contaminated egg? Fascinating. I wonder if the argon changes pass on to later generations....&lt;br&gt;[ES] &amp;#191;Yema de un huevo contaminado? Fascinante. Me pregunto si los cambios argon se transmiten a las generaciones futuras...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="247" villagerId="3510">
+        <Page social="0">[EN] I'd like to study the contaminated naga eggs. This is the first example of an argonomorph procreating.&lt;BR&gt;&lt;BR&gt;We must learn the threat this poses.&lt;br&gt;[ES] Me gustar&amp;#237;a estudiar los huevos de naga contaminados. Este es el primer ejemplo de un argonomorph reproduci&amp;#233;ndose.&lt;BR&gt;&lt;BR&gt;Debemos conocer la amenaza que esto representa.</Page>
+    </Text>
+</QuestDialog>

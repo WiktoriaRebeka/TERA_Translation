@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1013">
+        <Page social="9">[EN] How did I end up guarding supplies in some camp? I should be on the frontlines!&lt;BR&gt;&lt;BR&gt;Say, you think you could help me out? Deathblossoms are said to have incredible healing properties. I've seen them here in Wyrmgorge.&lt;BR&gt;&lt;BR&gt;Wouldn't you like to know if the rumors are true?&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo termin&amp;#233; custodiando suministros en este campamento? &amp;#161;Deber&amp;#237;a estar en la primera l&amp;#237;nea de combate!&lt;BR&gt;&lt;BR&gt;Dime, &amp;#191;crees que podr&amp;#237;as ayudarme? Se dice que las deathblossoms tienen incre&amp;#237;bles propiedades curativas. Las he visto aqu&amp;#237; en Wyrmgorge.&lt;BR&gt;&lt;BR&gt;&amp;#191;No te gustar&amp;#237;a saber si los rumores son ciertos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1013">
+        <Page social="18">[EN] Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I'll never forget this.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nunca olvidar&amp;#233; esto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1013">
+        <Page social="0">[EN] Those deathblossoms might be my only hope of getting back on the battlefield.&lt;br&gt;[ES] Esas deathblossoms podr&amp;#237;an ser mi &amp;#250;nica esperanza de regresar al campo de batalla.</Page>
+    </Text>
+</QuestDialog>

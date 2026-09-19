@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="13" prevId="0" villagerId="8001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="13" prevId="0" villagerId="8001">
+        <Page social="4">[EN] I'd like to take a closer look at some of these monsters.&lt;BR&gt;&lt;BR&gt;Meet me at the Free Traders Collective Camp. It's just up the road here.&lt;br&gt;[ES] Me gustar&amp;#237;a echar un vistazo m&amp;#225;s de cerca a algunos de estos monstruos.&lt;BR&gt;&lt;BR&gt;Re&amp;#250;nete conmigo en el campamento del Free Traders Collective. Est&amp;#225; justo aqu&amp;#237; arriba en el camino.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="2" villagerId="8027">
+        <Page social="4">[EN] The World Tree is obviously our primary concern, but we can't afford to overlook these monsters.&lt;BR&gt;&lt;BR&gt;At the very least, we need to clear up the road. These sickly beasts make it impossible to get by&amp;#8212;particularly the basilisks, ovoliths, and orisks.&lt;BR&gt;&lt;BR&gt;You take out a few, I'll take out a few, and I'll meet you over at Dulari's Camp.&lt;br&gt;[ES] El World Tree es obviamente nuestra principal preocupaci&amp;#243;n, pero no podemos permitirnos pasar por alto a estos monstruos.&lt;BR&gt;&lt;BR&gt;Como m&amp;#237;nimo, necesitamos despejar el camino. Estas bestias enfermizas hacen imposible pasar, particularmente los basilisks, ovoliths y orisks.&lt;BR&gt;&lt;BR&gt;T&amp;#250; elimina a unos cuantos, yo eliminar&amp;#233; a otros cuantos y nos veremos en el campamento de Dulari.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="8028">
+        <Page social="4">[EN] Good work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;This next round of beats is going to be a bit tougher. Come this way and help me clear out the more brutal of these things&amp;#8212;again, with focus on the basilisks, orisks, and ovoliths. Meet me at the Iron Order camp up on the hill when you're done.&lt;br&gt;[ES] Buen trabajo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Esta siguiente ronda de bestias va a ser un poco m&amp;#225;s dif&amp;#237;cil. Ven por aqu&amp;#237; y ay&amp;#250;dame a eliminar a los m&amp;#225;s brutales de estos seres, centr&amp;#225;ndote de nuevo en los basilisks, orisks y ovoliths. Encu&amp;#233;ntrame en el campamento del Iron Order en la colina cuando termines.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" prevId="4" villagerId="8029">
+        <Page social="4">[EN] Well done, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I've got a reward here for you&amp;#8212;and if you feel like pitching in even more with these monsters, I'm sure the federation will reward you for that, as well.&lt;br&gt;[ES] Bien hecho, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Tengo una recompensa para ti aqu&amp;#237;, y si tienes ganas de colaborar a&amp;#250;n m&amp;#225;s con estos monstruos, estoy seguro de que la federaci&amp;#243;n tambi&amp;#233;n te premiar&amp;#225; por ello.</Page>
+    </Text>
+</QuestDialog>

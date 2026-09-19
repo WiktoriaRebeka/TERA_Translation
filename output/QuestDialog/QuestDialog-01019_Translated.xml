@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">[EN] There are reports of {@LinkCreature:42#800#besharan gulas} in the southern part of the temple. While you're killing them, see what you can find out about how they control the undead, especially those {@LinkCreature:42#700#vicious bone imps}.&lt;br&gt;[ES] Hay informes de {@LinkCreature:42#800#besharan gulas} en la parte sur del templo. Mientras los matas, mira qu&amp;#233; puedes averiguar sobre c&amp;#243;mo controlan a los no-muertos, especialmente a esos {@LinkCreature:42#700#vicious bone imps}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">[EN] So the gulas who were controlling undead carried these crystals? Let me see...&lt;BR&gt;&lt;BR&gt;See this? It's a besharan seal and next to it a naga seal!&lt;BR&gt;&lt;BR&gt;I have to get this news to Frontera. Thank you for your help, &lt;PCNAME&gt;.&lt;br&gt;[ES] &amp;#191;As&amp;#237; que los gulas que controlaban a los no-muertos llevaban estos crystals? D&amp;#233;jame ver...&lt;BR&gt;&lt;BR&gt;&amp;#191;Ves esto? &amp;#161;Es un sello besharan y junto a &amp;#233;l hay un sello naga!&lt;BR&gt;&lt;BR&gt;Tengo que llevarle esta noticia a Frontera. Gracias por tu ayuda, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">[EN] When we know how the gulas are controlling the undead, we can turn that knowledge to our advantage.&lt;br&gt;[ES] Cuando sepamos c&amp;#243;mo los gulas controlan a los no-muertos, podremos usar ese conocimiento a nuestro favor.</Page>
+    </Text>
+</QuestDialog>

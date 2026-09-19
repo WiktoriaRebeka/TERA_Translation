@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3001">
+        <Page social="4" voiceTypeId="0">[EN] Word of your accomplishments reached Velika some time ago, and rumors of your exploits have been spreading like wildfire ever since. That's why we called you here.&lt;BR&gt;&lt;BR&gt;The Hands of Velika is a merchant group like no other. You see, in times like these, the Hands feel that upstanding members of society who wish to live to a ripe old age must wear many hats.&lt;BR&gt;&lt;BR&gt;Velika's big and there's lots that needs doing during war times.&lt;BR&gt;&lt;BR&gt;Your talents would be paramount to our cause&amp;#8212;which is also your cause, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Will you help us?&lt;br&gt;[ES] Las noticias de tus logros llegaron a Velika hace alg&amp;#250;n tiempo, y desde entonces los rumores sobre tus haza&amp;#241;as se han extendido como la p&amp;#243;lvora. Por eso te hemos llamado aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Las Hands of Velika son un grupo de mercaderes como ning&amp;#250;n otro. Ver&amp;#225;s, en tiempos como estos, las Hands consideran que los miembros respetables de la sociedad que deseen llegar a una edad avanzada deben desempe&amp;#241;ar muchos papeles.&lt;BR&gt;&lt;BR&gt;Velika es grande y hay mucho por hacer durante tiempos de guerra.&lt;BR&gt;&lt;BR&gt;Tus talentos ser&amp;#237;an primordiales para nuestra causa, que tambi&amp;#233;n es tu causa, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Nos ayudar&amp;#225;s?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="4" voiceTypeId="0">[EN] Thank you for your help! Hope you won't forget us when we need you again!&lt;br&gt;[ES] &amp;#161;Gracias por tu ayuda! &amp;#161;Esperamos que no nos olvides cuando te volvamos a necesitar!</Page>
+    </Text>
+</QuestDialog>

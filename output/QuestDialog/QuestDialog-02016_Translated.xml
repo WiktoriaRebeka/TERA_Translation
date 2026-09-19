@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="711" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Krakatox turned one of his own bones into this weapon.&lt;BR&gt;&lt;BR&gt;It's still pulsing with powerful energy, even though its owner is dead.&lt;BR&gt;&lt;BR&gt;The legendary Blacksmith Muhrak might know how to make use of the weapon's energy.&lt;BR&gt;&lt;BR&gt;- Krakatox's Weapon vanishes when you accept this quest.&lt;br&gt;[ES] Krakatox convirti&amp;#243; uno de sus propios huesos en esta arma.&lt;BR&gt;&lt;BR&gt;A&amp;#250;n palpita con una energ&amp;#237;a poderosa, a pesar de que su due&amp;#241;o est&amp;#225; muerto.&lt;BR&gt;&lt;BR&gt;El legendario herrero Muhrak podr&amp;#237;a saber c&amp;#243;mo aprovechar la energ&amp;#237;a del arma.&lt;BR&gt;&lt;BR&gt;- Krakatox's Weapon desaparece cuando aceptas esta misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="4">[EN] Wow, this powerful energy! Where did you find this? &lt;PCNAME&gt;, give me a moment. Maybe I can make a new weapon with it.&lt;br&gt;[ES] Vaya, &amp;#161;qu&amp;#233; energ&amp;#237;a tan poderosa! &amp;#191;D&amp;#243;nde encontraste esto? &lt;PCNAME&gt;, dame un momento. Tal vez pueda hacer un arma nueva con ella.</Page>
+    </Text>
+</QuestDialog>

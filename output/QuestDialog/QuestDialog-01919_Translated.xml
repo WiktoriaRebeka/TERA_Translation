@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">[EN] Question for you, &lt;PCNAME&gt;. Do you think it would hurt more to be eviscerated, or have the fingers on your left hand chopped off one by one? Sure, the former would probably kill you, but see, that's why I think it would hurt less.&lt;BR&gt;&lt;BR&gt;Why the left hand? I thought that would be obvious&amp;#8212;he's left-handed.&lt;BR&gt;&lt;BR&gt;Will you ask {@LinkCreature:63#3003#Elthienne} what she thinks?&lt;br&gt;[ES] Una pregunta para ti, &lt;PCNAME&gt;. &amp;#191;Crees que doler&amp;#237;a m&amp;#225;s ser eviscerado o que te corten los dedos de la mano izquierda uno por uno? Claro, lo primero probablemente te matar&amp;#237;a, pero mira, por eso creo que doler&amp;#237;a menos.&lt;PCNAME&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; la mano izquierda? Pens&amp;#233; que ser&amp;#237;a obvio: es zurdo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Le preguntar&amp;#225;s a {@LinkCreature:63#3003#Elthienne} qu&amp;#233; opina?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">[EN] She asked what? That kid's going be the death of me. Although I guess it's not me I should be worried about at the moment. Her boyfriend must have really done something bad this time.&lt;BR&gt;&lt;BR&gt;In other news, the Hands need someone to head to Basilisk Crag on a little hunting trip. Interested?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; pregunt&amp;#243; qu&amp;#233;? Ese mocoso va a ser mi perdici&amp;#243;n. Aunque supongo que no es de m&amp;#237; de quien deber&amp;#237;a preocuparme en este momento. Su novio debi&amp;#243; haber hecho algo realmente malo esta vez.&lt;BR&gt;&lt;BR&gt;Por otra parte, los Hands necesitan que alguien vaya a Basilisk Crag en un peque&amp;#241;o viaje de caza. &amp;#191;Te interesa?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">[EN] You're back! I wanted to tell you, I decided to go with option three&amp;#8212;terron giggle torture.&lt;BR&gt;&lt;BR&gt;I knew you would approve.&lt;BR&gt;&lt;BR&gt;Thanks for these. See {@LinkCreature:63#3003#Elthienne} for your payment.&lt;br&gt;[ES] &amp;#161;Has vuelto! Quer&amp;#237;a decirte que decid&amp;#237; ir con la opci&amp;#243;n tres: tortura de risitas de terron.&lt;BR&gt;&lt;BR&gt;Sab&amp;#237;a que lo aprobar&amp;#237;as.&lt;BR&gt;&lt;BR&gt;Gracias por esto. Ve con {@LinkCreature:63#3003#Elthienne} por tu pago.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] The Hands need to put together some makeshift weapons. For these we need {@LinkCreature:21#1#vicious dusky basilisk} scales. They're particularly tough and sharp.&lt;BR&gt;&lt;BR&gt;Head to {@Rgn:21001#Basilisk Crag} and hunt some down for us.&lt;br&gt;[ES] Los Hands necesitan armar algunas armas improvisadas. Para esto necesitamos escamas de {@LinkCreature:21#1#vicious dusky basilisk}. Son particularmente duras y filosas.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a {@Rgn:21001#Basilisk Crag} y caza algunas para nosotros.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">[EN] Ooh, you got some sun, didn't you? {@Rgn:21001#Basilisk Crag} is so hot and dry. I can't stand that place.&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} you delivered the goods.&lt;br&gt;[ES] Oye, te ha dado un poco el sol, &amp;#191;verdad? {@Rgn:21001#Basilisk Crag} es muy caluroso y seco. No soporto ese lugar.&lt;BR&gt;&lt;BR&gt;Dile a {@LinkCreature:63#3003#Elthienne} que entregaste la mercanc&amp;#237;a.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] The Hands need to put together some makeshift weapons. For these we need {@LinkCreature:21#2#dusky basilisk} scales. They're tough and sharp.&lt;BR&gt;&lt;BR&gt;Head to {@Rgn:21001#Basilisk Crag} and hunt some down for us.&lt;br&gt;[ES] Los Hands necesitan armar algunas armas improvisadas. Para esto necesitamos escamas de {@LinkCreature:21#2#dusky basilisk}. Son duras y filosas.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a {@Rgn:21001#Basilisk Crag} y caza algunas para nosotros.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">[EN] I'm totally over him.&lt;BR&gt;&lt;BR&gt;Who? Whatshisname, of course! I can't even say his name, he's such a jerk!&lt;BR&gt;&lt;BR&gt;Oh, you have the scales. Great!&lt;BR&gt;&lt;BR&gt;Talk to {@LinkCreature:63#3003#Elthienne}. And don't listen if she says I'll be "crawling back" in no time. She knows squat about love.&lt;br&gt;[ES] &amp;#161;Ya lo super&amp;#233; por completo!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qui&amp;#233;n? &amp;#161;Pues &amp;#233;l, el innombrable! &amp;#161;Ni siquiera puedo decir su nombre, es un idiota!&lt;BR&gt;&lt;BR&gt;Oh, tienes las escamas. &amp;#161;Genial!&lt;BR&gt;&lt;BR&gt;Habla con {@LinkCreature:63#3003#Elthienne}. Y no escuches si dice que &quot;volver&amp;#233; arrastr&amp;#225;ndome&quot; en poco tiempo. No sabe nada sobre el amor.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] The Hands need to put together some makeshift weapons. For these we need {@LinkCreature:21#3#vicious orisk} claws. They're inches thick, and sharp as razors.&lt;BR&gt;&lt;BR&gt;Head to {@Rgn:21001#Basilisk Crag}, and be careful! Don't damage the claws.&lt;br&gt;[ES] Los Hands necesitan armar algunas armas improvisadas. Para esto necesitamos garras de {@LinkCreature:21#3#vicious orisk}. &amp;#161;Tienen pulgadas de grosor y son filosas como navajas!&lt;BR&gt;&lt;BR&gt;&amp;#161;Dir&amp;#237;gete a {@Rgn:21001#Basilisk Crag} y ten cuidado! No da&amp;#241;es las garras.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">[EN] What? Oh, hi &lt;PCNAME&gt;. No, I wasn't crying. I&amp;#8212;I'm fine.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} will have...well, you know. Just go away.&lt;br&gt;[ES] &amp;#191;Qu&amp;#233;? Ah, hola &lt;PCNAME&gt;. No, no estaba llorando. Y-yo estoy bien.&lt;BR&gt;&lt;BR&gt; {@LinkCreature:63#3003#Elthienne} tendr&amp;#225;... bueno, ya sabes. Solo vete.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] The Hands need to put together some makeshift weapons, so we need {@LinkCreature:21#4#brutal orisk} claws. They're thick, tough, and and sharp. Perfect for weapon making.&lt;BR&gt;&lt;BR&gt;Head to {@Rgn:21001#Basilisk Crag}, and aim high. You don't want to damage those claws.&lt;br&gt;[ES] Los Hands necesitan armar algunas armas improvisadas, as&amp;#237; que necesitamos garras de {@LinkCreature:21#4#brutal orisk}. Son gruesas, duras y filosas. Perfectas para la fabricaci&amp;#243;n de armas.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a {@Rgn:21001#Basilisk Crag} y apunta alto. No querr&amp;#225;s da&amp;#241;ar esas garras.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">[EN] Ah, wonderful! We'll get to work putting together the weapons. It's amazing how many we go through. We don't have the coin for fancy weapons like yours. Ours break and wear out, and all too soon.&lt;BR&gt;&lt;BR&gt;Guess that means we're doing it right! Or something...&lt;br&gt;[ES] &amp;#161;Ah, maravilla! Nos pondremos a trabajar en el ensamblaje de las armas. Es incre&amp;#237;ble cu&amp;#225;ntas usamos. No tenemos la moneda para armas elegantes como la tuya. Las nuestras se rompen y desgastan muy pronto.&lt;BR&gt;&lt;BR&gt;Supongo que eso significa que lo estamos haciendo bien... &amp;#161;o algo as&amp;#237;!</Page>
+    </Text>
+</QuestDialog>

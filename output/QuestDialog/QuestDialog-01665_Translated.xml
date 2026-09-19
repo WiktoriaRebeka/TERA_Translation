@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1034">
+        <Page social="4" voiceTypeId="0">[EN] When Thulsa catches especially powerful heroes, he traps them in immortal bodies and binds their wills in soultrap shards.&lt;BR&gt;&lt;BR&gt;Cut down tower generals, general's escorts, tower decurions, and zombies in Ebon Tower and bring back those shards.&lt;br&gt;[ES] Cuando Thulsa atrapa a h&amp;#233;roes especialmente poderosos, los encierra en cuerpos inmortales y ata sus voluntades en soultrap shards.&lt;BR&gt;&lt;BR&gt;Derriba a los general de la torre, escoltas del general, decuriones de la torre y zombis en Ebon Tower y trae esos fragmentos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1034">
+        <Page social="4" voiceTypeId="0">[EN] Some of these souls have been forced to serve Thulsa for centuries.&lt;BR&gt;&lt;BR&gt;I'll give the shards to our master smiths, who'll feed them into the heart of the Divine Furnace.&lt;BR&gt;&lt;BR&gt;The spirits of these fallen heroes will finally be laid to rest with the honor they deserve.&lt;br&gt;[ES] Algunas de estas almas han sido obligadas a servir a Thulsa durante siglos.&lt;BR&gt;&lt;BR&gt;Le dar&amp;#233; los fragmentos a nuestros maestros herreros, quienes los alimentar&amp;#225;n al coraz&amp;#243;n de la Divine Furnace.&lt;BR&gt;&lt;BR&gt;Los esp&amp;#237;ritus de estos h&amp;#233;roes ca&amp;#237;dos finalmente descansar&amp;#225;n en paz con el honor que se merecen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1034">
+        <Page social="0">[EN] Every one of those horrors was a hero. Destroy them so we can free them.&lt;br&gt;[ES] Cada uno de esos horrores fue un h&amp;#233;roe. Destr&amp;#250;yelos para que podamos liberarlos.</Page>
+    </Text>
+</QuestDialog>

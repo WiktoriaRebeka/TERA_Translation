@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1103">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1103">
+        <Page social="4">[EN] First thing first: clear the hallways. Can't do research with argons trying to argonify us every ten minutes.&lt;BR&gt;&lt;BR&gt;Start with the tholzak emitters; they give commands like "harvest" and "exterminate" to the argon golems that patrol the halls.&lt;BR&gt;&lt;BR&gt;Keep the broken emitters, though. Maybe the researchers in the Beastroar chamber can come up with a use for them.&lt;br&gt;[ES] Lo primero es lo primero: despejen los pasillos. No se puede investigar con argons intentando argonizarnos cada diez minutos.&lt;BR&gt;&lt;BR&gt;Empiecen con los emisores tholzak; dan &amp;#243;rdenes como &quot;recolectar&quot; y &quot;exterminar&quot; a los g&amp;#243;lems argon que patrullan los pasillos.&lt;BR&gt;&lt;BR&gt;Guarden los emisores rotos, eso s&amp;#237;. Tal vez los investigadores en la sala Beastroar puedan encontrarles alg&amp;#250;n uso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1025">
+        <Page social="5">[EN] That's a lot of emitters. And I bet the hallways are clear, too.&lt;br&gt;[ES] Eso es un mont&amp;#243;n de emisores. Y apuesto a que los pasillos tambi&amp;#233;n est&amp;#225;n despejados.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1025">
+        <Page social="0">[EN] If you can bring us broken emitters, we may be able to take them apart and figure out what makes them work. Or not work, if you catch my meaning.&lt;br&gt;[ES] Si pueden traernos emisores rotos, tal vez podamos desmontarlos y averiguar qu&amp;#233; los hace funcionar. O no funcionar, si entienden a qu&amp;#233; me refiero.</Page>
+    </Text>
+</QuestDialog>

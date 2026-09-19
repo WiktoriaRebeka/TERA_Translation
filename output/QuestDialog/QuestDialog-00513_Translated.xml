@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="4">[EN] It's unlikely there are any other survivors, but please keep an eye out while you're in the mines.&lt;BR&gt;&lt;BR&gt;I can't go back. I just...I can't. But I'd never forgive myself if no one even looked for signs of life.&lt;BR&gt;&lt;BR&gt;My poor brother. He was so young.... It should have been me.&lt;br&gt;[ES] Es poco probable que haya otros sobrevivientes, pero por favor vigila bien mientras est&amp;#233;s en las minas.&lt;BR&gt;&lt;BR&gt;No puedo volver. Simplemente... no puedo. Pero nunca me perdonar&amp;#237;a si nadie siquiera buscara se&amp;#241;ales de vida.&lt;BR&gt;&lt;BR&gt;Mi pobre hermano. Era tan joven... Deb&amp;#237; haber sido yo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1016">
+        <Page social="0">[EN] (A pendant hangs from the neck of this mangled corpse. "Pattek" is inscribed on the back. You put it in your pocket.)&lt;br&gt;[ES] (Un colgante cuelga del cuello de este cad&amp;#225;ver mutilado. &quot;Pattek&quot; est&amp;#225; grabado en la parte posterior. Lo guardas en tu bolsillo.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="3" villagerId="1006">
+        <Page social="4">[EN] They're all dead? It's just as I feared.&lt;BR&gt;&lt;BR&gt;They were alive only a few hours ago....&lt;BR&gt;&lt;BR&gt;Oh, this pendant. I know this pendant. It belonged to Pattek.&lt;BR&gt;&lt;BR&gt;Here, I'll...I'll see to it personally that his family gets it.&lt;br&gt;[ES] &amp;#191;Est&amp;#225;n todos muertos? Es justo como tem&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Estaban vivos hace apenas unas horas...&lt;BR&gt;&lt;BR&gt;Oh, este colgante. Conozco este colgante. Le pertenec&amp;#237;a a Pattek.&lt;BR&gt;&lt;BR&gt;Toma, me... me asegurar&amp;#233; personalmente de que su familia lo reciba.</Page>
+    </Text>
+</QuestDialog>

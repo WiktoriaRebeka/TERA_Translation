@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="57" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1160">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1160">
+        <Page social="0">[EN] You there! You! Oh, thank you for coming over. Please&amp;#8212;my dear friend Haines is just outside Velika Village and he's been having a terrible time with the horses lately. I want you to help him. After you help him, who knows? He may give something for your time and trouble.&lt;br&gt;[ES] &amp;#161;T&amp;#250; ah&amp;#237;! &amp;#161;T&amp;#250;! Oh, gracias por acercarte. Por favor, mi querido amigo Haines est&amp;#225; justo a las afueras de Velika Village y ha estado pasando por un momento terrible con los caballos &amp;#250;ltimamente. Quiero que lo ayudues. Despu&amp;#233;s de ayudarlo, &amp;#191;qui&amp;#233;n sabe? Tal vez te d&amp;#233; algo por tu tiempo y molestia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1149">
+        <Page social="0">[EN] Greetings. Have you come to help me with the horses? Dougal said he'd ask around, but I didn't think he'd find anyone!&lt;BR&gt;&lt;BR&gt;The trouble is, the horses have grown very weak. They're in no shape to ride into battle. I'm sure that &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=1#-11565.4844,-9482.6436,6291.0557&amp;type=1&amp;name=veridia extract"&gt;veridia extract&lt;/A&gt;&lt;/font&gt; would help them, but I can't leave the horses to look for any.&lt;BR&gt;&lt;BR&gt;And I can't send Pokan. Loyal chap, but I'm surprised he doesn't get lost getting out of bed.&lt;BR&gt;&lt;BR&gt;Could you find some for me? For the horses?&lt;br&gt;[ES] Saludos. &amp;#191;Has venido a ayudarme con los caballos? Dougal dijo que preguntar&amp;#237;a por ah&amp;#237;, &amp;#161;pero no cre&amp;#237; que encontrar&amp;#237;a a nadie!&lt;BR&gt;&lt;BR&gt;El problema es que los caballos se han vuelto muy d&amp;#233;biles. No est&amp;#225;n en condiciones de cabalgar a la batalla. Estoy seguro de que el &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=1#-11565.4844,-9482.6436,6291.0557&amp;type=1&amp;name=veridia extract&quot;&gt;veridia extract&lt;/A&gt;&lt;/font&gt; los ayudar&amp;#237;a, pero no puedo dejar a los caballos para ir a buscarlo.&lt;BR&gt;&lt;BR&gt;Y no puedo enviar a Pokan. Es un tipo leal, pero me sorprende que no se pierda al levantarse de la cama.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as buscar un poco para m&amp;#237;? &amp;#191;Por los caballos?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1149">
+        <Page social="0">[EN] Oh, excellent. This is just right! Thank you for the help!&lt;BR&gt;&lt;BR&gt;Here, take this for your kindness. I hope you'll find it useful.&lt;br&gt;[ES] Oh, excelente. &amp;#161;Esto es justo lo que necesitaba! &amp;#161;Gracias por la ayuda!&lt;BR&gt;&lt;BR&gt;Toma, qu&amp;#233;date esto en agradecimiento por tu amabilidad. Espero que te sea &amp;#250;til.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" villagerId="1149">
+        <Page social="0">[EN] Please do get the extract. These horses are for soldiers like you!&lt;br&gt;[ES] Por favor, consigue el extracto. &amp;#161;Estos caballos son para soldados como t&amp;#250;!</Page>
+    </Text>
+</QuestDialog>

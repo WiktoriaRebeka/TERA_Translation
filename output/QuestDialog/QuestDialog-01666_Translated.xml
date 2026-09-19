@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="4" voiceTypeId="0">[EN] Thulsa has pulled in troops from all over to protect his ugly skin.&lt;BR&gt;&lt;BR&gt;His Ebon Tower shamans, Ebon Tower guards, arachnen painspinners, and anguish fiends are all reinforcements from other battlefields.&lt;BR&gt;&lt;BR&gt;He's at the end of his reserves. Kill them off!&lt;br&gt;[ES] Thulsa ha tra&amp;#237;do tropas de todas partes para salvar el pellejo.&lt;BR&gt;&lt;BR&gt;Sus chamanes de Ebon Tower, guardias de Ebon Tower, tejedores de dolor ar&amp;#225;cnidos y demonios de la angustia son refuerzos de otros campos de batalla.&lt;BR&gt;&lt;BR&gt;Est&amp;#225; en las &amp;#250;ltimas. &amp;#161;Acaba con ellos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1035">
+        <Page social="4" voiceTypeId="0">[EN] Fantastic! If you aren't blessed by Kaia, I don't know who is.&lt;br&gt;[ES] &amp;#161;Fant&amp;#225;stico! Si no cuentas con la bendici&amp;#243;n de Kaia, no s&amp;#233; qui&amp;#233;n la tiene.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1035">
+        <Page social="0">[EN] If showing compassion to servants of evil is the virtuous path, I choose the path of the wicked!&lt;br&gt;[ES] Si mostrar compasi&amp;#243;n hacia los sirvientes del mal es el camino virtuoso, &amp;#161;entonces elijo el camino de los malvados!</Page>
+    </Text>
+</QuestDialog>

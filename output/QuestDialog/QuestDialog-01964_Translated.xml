@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="62" prevId="0" villagerId="9904">
+        <Page social="0" voiceTypeId="0">[EN] Everyone loves to have a nice fish dish these days.&lt;BR&gt;Getting the fish we catch into the hands of the consumer is the main way the Fishing Association&amp;#8211;and it's member-anglers&amp;#8211;makes money.&lt;BR&gt;Go to Lake of Tears Fishery and you'll learn how!&lt;br&gt;[ES] A todo el mundo le encanta comer un buen plato de pescado hoy en d&amp;#237;a.&lt;BR&gt;Hacer que el pescado que atrapamos llegue a manos del consumidor es la principal forma en que la Asociaci&amp;#243;n de Pesca, y sus pescadores miembros, ganan dinero.&lt;BR&gt;&amp;#161;Ve a Lake of Tears Fishery y aprender&amp;#225;s c&amp;#243;mo!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Learned how to make and deliver a Fish Crate at the Lake of Tears Fishery.&lt;br&gt;[ES] Aprendiste a hacer y entregar una caja de pescado en Lake of Tears Fishery.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="1" villagerId="9904">
+        <Page social="4" voiceTypeId="0">[EN] Ready to go to the Lake of Tears Fishery?&lt;br&gt;[ES] &amp;#191;Est&amp;#225;s listo para ir a Lake of Tears Fishery?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="1" villagerId="9904">
+        <Page social="0" voiceTypeId="0">[EN] Give my regards to Lushan at the Lake of Tears Fishery.&lt;br&gt;[ES] Dale mis saludos a Lushan en Lake of Tears Fishery.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="3" villagerId="9904">
+        <Page social="3" voiceTypeId="0">[EN] Fishing isn't just about earning money. It's about earning a whole bunch of money, doing something we love!&lt;BR&gt;Sooner or later, everyone will appreciate the Fishing Association for what we do.&lt;NEXTPAGEBUTTON&gt;"I hope so."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] La pesca no se trata solo de ganar dinero. &amp;#161;Se trata de ganar un mont&amp;#243;n de dinero haciendo algo que amamos!&lt;BR&gt;Tarde o temprano, todos apreciar&amp;#225;n a la Asociaci&amp;#243;n de Pesca por lo que hacemos.&lt;NEXTPAGEBUTTON&gt;"I hope so."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">[EN] You can always sell the fish you catch for money, but if you package them together in a Fish Crate, they'll stay fresh longer and command a higher price.&lt;BR&gt;You can get the basic design from me in exchange for some Angler Tokens, so let's get you started on the path to fortune and glory...through fishing!&lt;br&gt;[ES] Siempre puedes vender el pescado que atrapas por dinero, pero si los empaquetas juntos en una caja de pescado, se mantendr&amp;#225;n frescos por m&amp;#225;s tiempo y exigir&amp;#225;n un precio m&amp;#225;s alto.&lt;BR&gt;Puedes conseguir el dise&amp;#241;o b&amp;#225;sico conmigo a cambio de algunos fichas de pescador, &amp;#161;as&amp;#237; que comencemos tu camino hacia la fortuna y la gloria... a trav&amp;#233;s de la pesca!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="223" prevId="5" villagerId="9904">
+        <Page social="2" voiceTypeId="0">[EN] Well done! Now it's time to make your first delivery.&lt;BR&gt;You can sell Fish Crates to Association Fishmongers at any Fishery or major city.&lt;BR&gt;&lt;BR&gt;Like {@linkcreature:223#9905#Genn} over there. It looks like he's eager to talk to you!&lt;br&gt;[ES] &amp;#161;Bien hecho! Ahora es el momento de hacer tu primera entrega.&lt;BR&gt;Puedes vender cajas de pescado a los pescaderos de la asociaci&amp;#243;n en cualquier zona de pesca o ciudad principal.&lt;BR&gt;&lt;BR&gt;Como {@linkcreature:223#9905#Genn} de ah&amp;#237;. &amp;#161;Parece que est&amp;#225; deseando hablar contigo!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="223" villagerId="9904">
+        <Page social="0">[EN] Any Angler Token Vendor can sell you a Fish Crate design.&lt;BR&gt;Why don't you try making one right now?&lt;br&gt;[ES] Cualquier vendedor de fichas de pescador puede venderte un dise&amp;#241;o de caja de pescado.&lt;BR&gt;&amp;#191;Por qu&amp;#233; no intentas hacer una ahora mismo?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="223" prevId="6" villagerId="9905">
+        <Page social="1" voiceTypeId="0">[EN] Hello! I saw you showing off a Fish Crate to Lushan over there. Would you be willing to sell it to me?&lt;BR&gt;Since this is our first deal, I'll open a &lt;font color='#FF0000'&gt;Special Delivery Shop&lt;/font&gt; just for you..&lt;br&gt;[ES] &amp;#161;Hola! Te vi presumiendo una caja de pescado con Lushan por all&amp;#225;. &amp;#191;Estar&amp;#237;as dispuesto a vend&amp;#233;rmela?&lt;BR&gt;Dado que este es nuestro primer trato, abrir&amp;#233; una tienda de entrega especial &lt;font color='#FF0000'&gt;Special Delivery Shop&lt;/font&gt; solo para ti.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="223" prevId="8" villagerId="9925">
+        <Page social="1" voiceTypeId="0">[EN] Thank you. I hope this isn't our last deal.&lt;BR&gt;&lt;BR&gt;There's only so many orders I can fill a day, so be sure and deliver your most the most valuable items first.&lt;br&gt;[ES] Gracias. Espero que este no sea nuestro &amp;#250;ltimo trato.&lt;BR&gt;&lt;BR&gt;Solo hay un n&amp;#250;mero determinado de pedidos que puedo completar al d&amp;#237;a, as&amp;#237; que aseg&amp;#250;rate de entregar primero tus art&amp;#237;culos m&amp;#225;s valiosos.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="223" prevId="9" villagerId="9904">
+        <Page social="1" voiceTypeId="0">[EN] Did you have a nice talk with Genn?&lt;BR&gt;&lt;BR&gt;You probably noticed that the higher level Fish Crates command higher prices! As your skills in fishing and crafting increase, you'll want to learn to make all of them.&lt;br&gt;[ES] &amp;#191;Tuviste una buena charla con Genn?&lt;BR&gt;&lt;BR&gt;&amp;#161;Probablemente notaste que las cajas de pescado de mayor nivel exigen precios m&amp;#225;s altos! A medida que aumenten tus habilidades en pesca y artesan&amp;#237;a, querr&amp;#225;s aprender a hacer todas.</Page>
+    </Text>
+</QuestDialog>

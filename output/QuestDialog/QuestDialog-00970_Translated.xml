@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1037">
+        <Page social="4">[EN] That Podun...what an idiot! He's going to blow my cover&amp;#8212;I just know it.&lt;BR&gt;&lt;BR&gt;Will you create a distraction by attacking those {@LinkCreature:40#31#mutated tribladers}? Buy me some time to gather more intelligence.&lt;BR&gt;&lt;BR&gt;And ask {@LinkCreature:240#1004$$Lashirah} to reassign Podun somewhere away from me!&lt;br&gt;[ES] &amp;#161;Ese Podun... qu&amp;#233; idiota! Va a arruinar mi fachada, lo s&amp;#233;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crear&amp;#225;s una distracci&amp;#243;n atacando a esos {@LinkCreature:40#31#mutated tribladers}? C&amp;#243;mprame algo de tiempo para reunir m&amp;#225;s informaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#161;Y p&amp;#237;dele a {@LinkCreature:240#1004$$Lashirah} que reasigne a Podun a otro lugar lejos de m&amp;#237;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1004">
+        <Page social="4">[EN] Podun's an idiot, but a very observant one.&lt;BR&gt;&lt;BR&gt;Munisk's nerves are shot, that's all.&lt;br&gt;[ES] Podun es un idiota, pero uno muy observador.&lt;BR&gt;&lt;BR&gt;Los nervios de Munisk est&amp;#225;n destrozados, eso es todo.</Page>
+    </Text>
+</QuestDialog>

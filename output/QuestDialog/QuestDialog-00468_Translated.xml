@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1001">
+        <Page social="4">[EN] This place was once the center of the giants' empire. It's ruined now, of course, but...it was once so great.&lt;BR&gt;&lt;BR&gt;It's so exciting to be among so much history! I'm here studying the ancient city&amp;#8212;or I was before the kulkaris arrived.&lt;BR&gt;&lt;BR&gt;As soon as they're gone, though...I'll be back out there.&lt;NEXTPAGEBUTTON&gt;"Can I help in the meantime?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Este lugar fue alguna vez el centro del imperio de los gigantes. Ahora est&amp;#225; en ruinas, por supuesto, pero... alguna vez fue tan grandioso.&lt;BR&gt;&lt;BR&gt;&amp;#161;Es tan emocionante estar entre tanta historia! Estoy aqu&amp;#237; estudiando la antigua ciudad... o lo estaba antes de que llegaran los kulkaris.&lt;BR&gt;&lt;BR&gt;En cuanto se vayan, sin embargo... volver&amp;#233; all&amp;#237;.&lt;NEXTPAGEBUTTON&gt;"Can I help in the meantime?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Well, I can't get back to my research unless I explore outside the camp. If you're willing to brave it, you could investigate the giants' relics in Mags Kurata to the north and Mags Kuchanaru to the west.&lt;BR&gt;&lt;BR&gt;Any fragments with anything that looks like writing would be wonderful.&lt;br&gt;[ES] Bueno, no puedo volver a mi investigaci&amp;#243;n a menos que explore fuera del campamento. Si est&amp;#225;s dispuesto a desafiar el peligro, podr&amp;#237;as investigar las reliquias de los gigantes en Mags Kurata al norte y Mags Kuchanaru al oeste.&lt;BR&gt;&lt;BR&gt;Cualquier fragmento con algo que parezca escritura ser&amp;#237;a maravilloso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1001">
+        <Page social="4">[EN] It's amazing how the giants were able to make such beautiful, delicate things. You always imagine them as clumsy and oafish.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;. We can learn more about the area with these and gain an edge over our enemy.&lt;br&gt;[ES] Es incre&amp;#237;ble c&amp;#243;mo los gigantes eran capaces de hacer cosas tan hermosas y delicadas. Uno siempre los imagina torpes y brutos.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;. Podemos aprender m&amp;#225;s sobre la zona con esto y obtener una ventaja sobre nuestro enemigo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1001">
+        <Page social="0">[EN] Your hands are empty. Have you not gone out yet?&lt;br&gt;[ES] Tienes las manos vac&amp;#237;as. &amp;#191;Acaso no has salido todav&amp;#237;a?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1005">
+        <Page social="4">[EN] I know Tifane is going to keep you busy, but the shurians are out of control!&lt;BR&gt;&lt;BR&gt;The ones in Molten Reach are running around, stabbing people in the face!&lt;BR&gt;&lt;BR&gt;Who knows why they're here? Who cares, really? Just drive them off, &lt;PCNAME&gt;!&lt;br&gt;[ES] S&amp;#233; que Tifane te mantendr&amp;#225; ocupado, &amp;#161;pero los shurianos est&amp;#225;n fuera de control!&lt;BR&gt;&lt;BR&gt;&amp;#161;Los que est&amp;#225;n en Molten Reach andan por ah&amp;#237; apu&amp;#241;alando a la gente en la cara!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qui&amp;#233;n sabe por qu&amp;#233; est&amp;#225;n aqu&amp;#237;? &amp;#191;A qui&amp;#233;n le importa, en realidad? &amp;#161;Solo esp&amp;#250;lsalos, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1005">
+        <Page social="4">[EN] We're making significant progress on getting this area cleared of hostiles. Another victory for the federation!&lt;br&gt;[ES] Estamos logrando un progreso significativo en la limpieza de hostiles en esta &amp;#225;rea. &amp;#161;Otra victoria para la federaci&amp;#243;n!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1005">
+        <Page social="0">[EN] Look, I'm trying to be respectful, but we expect you to pull your weight around here. Go kill some shurians!&lt;br&gt;[ES] Mira, intento ser respetuoso, pero esperamos que pongas de tu parte por aqu&amp;#237;. &amp;#161;Ve a matar algunos shurianos!</Page>
+    </Text>
+</QuestDialog>

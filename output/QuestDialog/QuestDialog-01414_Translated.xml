@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1007">
+        <Page social="5">[EN] We have the continent's best arcanists here in Velika. If you're interested in training here, talk to Tysur at the eastern door of the Collegium Arcane.&lt;br&gt;[ES] Tenemos a los mejores arcanistas del continente aqu&amp;#237; en Velika. Si te interesa entrenar aqu&amp;#237;, habla con Tysur en la puerta este del Collegium Arcane.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1099">
+        <Page social="5">[EN] Welcome to the Collegium Arcane!&lt;BR&gt;&lt;BR&gt;Our training masters await you just inside. They are among the most accomplished arcanists in the federation.&lt;br&gt;[ES] &amp;#161;Bienvenido al Collegium Arcane!&lt;BR&gt;&lt;BR&gt;Nuestros maestros de entrenamiento te esperan justo adentro. Est&amp;#225;n entre los arcanistas m&amp;#225;s destacados de la federaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

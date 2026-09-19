@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1026">
+        <Page social="4">[EN] The poison's run its course. I'm still a little woozy, but I'll be fine.&lt;BR&gt;&lt;BR&gt;Tell Anwold I still have work to do here, so I'm not coming back yet. Don't worry&amp;#8212;I'll be careful this time. Done talking.&lt;br&gt;[ES] El veneno ha cumplido su ciclo. Todav&amp;#237;a estoy un poco mareado, pero estar&amp;#233; bien.&lt;BR&gt;&lt;BR&gt;Dile a Anwold que todav&amp;#237;a tengo trabajo que hacer aqu&amp;#237;, as&amp;#237; que no regresar&amp;#233; todav&amp;#237;a. No te preocupes, tendr&amp;#233; cuidado esta vez. Termin&amp;#233; de hablar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1016">
+        <Page social="4">[EN] Good to hear Animan's alive and well. The little furball's lucky you were there. He may not get so lucky next time.&lt;br&gt;[ES] Qu&amp;#233; bueno saber que Animan est&amp;#225; vivo y coleando. El peque&amp;#241;o peludo tiene suerte de que estuvieras all&amp;#237;. Puede que no tenga tanta suerte la pr&amp;#243;xima vez.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1010">
+        <Page social="5">[EN] {@LinkCreature:223#1054$$Dullulu} scouted out the situation at the Eldritch Academy grounds. Apparently the place is crawling with dangerous beasts. If you plan to go out there, ask him what to watch for.&lt;br&gt;[ES] {@LinkCreature:223#1054$$Dullulu} reconoci&amp;#243; la situaci&amp;#243;n en los terrenos de Eldritch Academy. Aparentemente el lugar est&amp;#225; plagado de bestias peligrosas. Si planeas ir all&amp;#237;, preg&amp;#250;ntale a qu&amp;#233; debes prestar atenci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1054">
+        <Page social="5">[EN] I'll tell you what to watch out for&amp;#8212;your sanity if I can't convince you to stay away from that godsforsaken place.&lt;BR&gt;&lt;BR&gt;But if your determined to go, try to take out as many {@LinkCreature:22#4#Vadoma centaurs}, {@LinkCreature:22#5#redcap artisans}, and {@LinkCreature:22#3#wandmakers} as you can.&lt;BR&gt;&lt;BR&gt;We've got to clear a path in and out of the castle if we're going to be of any help.&lt;NEXTPAGEBUTTON&gt;"I won't let you down."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Te dir&amp;#233; a qu&amp;#233; debes prestar atenci&amp;#243;n: a tu salud mental si no puedo convencerte de que te alejes de ese lugar maldito por los dioses.&lt;BR&gt;&lt;BR&gt;Pero si est&amp;#225;s decidido a ir, intenta acabar con tantos {@LinkCreature:22#4#Vadoma centaurs}, {@LinkCreature:22#5#redcap artisans} y {@LinkCreature:22#3#wandmakers} como puedas.&lt;BR&gt;&lt;BR&gt;Tenemos que despejar un camino de entrada y salida del castillo si vamos a ser de alguna ayuda.&lt;NEXTPAGEBUTTON&gt;"I won't let you down."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] Thanks, &lt;PCNAME&gt;. You're all right, you know that?&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Eres genial, &amp;#191;lo sab&amp;#237;as?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" prevId="3" villagerId="1005">
+        <Page social="5">[EN] Oh, thank the gods you took care of some of those centaurs and redcaps. The dangers here are too many to count at the moment. Perhaps now the path will be clear for others to come to our aid.&lt;BR&gt;&lt;BR&gt;We might stand a chance with brave soldiers like you on our side.&lt;br&gt;[ES] Oh, gracias a los dioses que te encargaste de algunos de esos centaurs y redcaps. Los peligros aqu&amp;#237; son demasiados para contar en este momento. Tal vez ahora el camino est&amp;#233; despejado para que otros vengan en nuestra ayuda.&lt;BR&gt;&lt;BR&gt;Podr&amp;#237;amos tener una oportunidad con soldados valientes como t&amp;#250; de nuestro lado.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">[EN] Scouts have reported something they're calling {@LinkCreature:42#5002#Tragoleth} leading the skeletal soldiers in the western part of the chamber of the dead.&lt;BR&gt;&lt;BR&gt;We don't need them to be better organized, so would &lt;PCNAME&gt; be up to the task of taking him out?&lt;br&gt;[ES] Los exploradores han informado sobre alguien a quien llaman {@LinkCreature:42#5002#Tragoleth} liderando a los soldados esquel&amp;#233;ticos en la parte occidental de la c&amp;#225;mara de los muertos.&lt;BR&gt;&lt;BR&gt;No necesitamos que est&amp;#233;n mejor organizados, as&amp;#237; que &amp;#191;estar&amp;#237;a &lt;PCNAME&gt; a la altura de la tarea de eliminarlo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">[EN] Well done. It's always a happy task to reward brave deeds, and taking on Tragoleth was certainly that. Take this, and use it well.&lt;br&gt;[ES] Bien hecho. Siempre es una tarea feliz premiar las acciones valientes, y enfrentarse a Tragoleth fue sin duda una de ellas. Toma esto y &amp;#250;salo bien.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">[EN] The sooner Tragoleth is dead, the sooner those skeletal troops will be leaderless.&lt;br&gt;[ES] Cuanto antes est&amp;#233; muerto Tragoleth, antes esas tropas esquel&amp;#233;ticas se quedar&amp;#225;n sin l&amp;#237;der.</Page>
+    </Text>
+</QuestDialog>

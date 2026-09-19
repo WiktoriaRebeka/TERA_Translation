@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1034">
+        <Page social="4">[EN] I'm exclusively researching the center hall, as it appears to be the towers' core. Like every other chamber, there's something broken or left behind. In our case, it's those machines over there.&lt;br&gt;[ES] Estoy investigando exclusivamente el sal&amp;#243;n central, ya que parece ser el n&amp;#250;cleo de las torres. Como en cualquier otra c&amp;#225;mara, hay algo roto o abandonado. En nuestro caso, son esas m&amp;#225;quinas de all&amp;#225;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1034">
+        <Page social="5">[EN] This component looks similar to the innards of our teleportals.&lt;BR&gt;&lt;BR&gt;I wonder what the argons were teleporting?&lt;br&gt;[ES] Este componente se parece a las entra&amp;#241;as de nuestros teleportals.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; estar&amp;#237;an teletransportando los argons?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1034">
+        <Page social="0">[EN] If you can recover something useful from a machine, I can probably figure out what it does.&lt;br&gt;[ES] Si puedes recuperar algo &amp;#250;til de una m&amp;#225;quina, probablemente pueda averiguar para qu&amp;#233; sirve.</Page>
+    </Text>
+</QuestDialog>

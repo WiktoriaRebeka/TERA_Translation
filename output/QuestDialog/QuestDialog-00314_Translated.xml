@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="5">[EN] Run west from Vindicator Outpost, and you'll reach the slave market&amp;#8212;the Rain Cages. Here's the least surprising order you'll ever get: destroy that market!&lt;BR&gt;&lt;BR&gt;Yeah, I try to craft straightforward missions.&lt;BR&gt;&lt;BR&gt;Your first step: Eliminate the {@LinkCreature:12#15#Red Lash cleavers} guarding the slave market. With them out of the picture, the rest should be easier.&lt;br&gt;[ES] Corre hacia el oeste desde Vindicator Outpost y llegar&amp;#225;s al mercado de esclavos: Rain Cages. Aqu&amp;#237; va la orden menos sorprendente que recibir&amp;#225;s jam&amp;#225;s: &amp;#161;destruye ese mercado!&lt;BR&gt;&lt;BR&gt;S&amp;#237;, intento crear misiones directas.&lt;BR&gt;&lt;BR&gt;Tu primer paso: elimina a los {@LinkCreature:12#15#Red Lash cleavers} que custodian el mercado de esclavos. Con ellos fuera de juego, el resto deber&amp;#237;a ser m&amp;#225;s f&amp;#225;cil.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1004">
+        <Page social="5">[EN] The path is clear, then?&lt;BR&gt;&lt;BR&gt;I can see it now. Dozens of babies all named "&lt;PCNAME&gt;" by their grateful parents...who were all slaves you freed when you seized the Kazuur Syndicate's slave market.&lt;br&gt;[ES] &amp;#191;El camino est&amp;#225; despejado entonces?&lt;BR&gt;&lt;BR&gt;Ya puedo verlo. Docenas de beb&amp;#233;s llamados todos &quot;&lt;PCNAME&gt;&quot; por sus agradecidos padres... que eran todos esclavos que liberaste cuando tomaste el mercado de esclavos de Kazuur Syndicate.</Page>
+    </Text>
+</QuestDialog>

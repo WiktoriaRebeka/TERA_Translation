@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1017">
+        <Page social="4">[EN] I don't know what's happening. The kulkaris and their allies have never been this hostile before. I mean, I suffer no delusions that we had an alliance, but really.&lt;BR&gt;&lt;BR&gt;Everything's different now. We can't just sit around and wait for them to take us out. We need to take action.&lt;BR&gt;&lt;BR&gt;Get rid of the {@LinkCreature:18#1#Desert Fire thrashers} and {@LinkCreature:18#2#Desert Fire shamans}. Go see {@LinkCreature:218#1003#Kardelen} at Camp Marrakeen when you've finished.&lt;br&gt;[ES] No s&amp;#233; qu&amp;#233; est&amp;#225; pasando. Los kulkaris y sus aliados nunca hab&amp;#237;an sido tan hostiles. O sea, no me hago ilusiones de que tuvi&amp;#233;ramos una alianza, pero de verdad.&lt;BR&gt;&lt;BR&gt;Todo es diferente ahora. No podemos quedarnos de brazos cruzados a esperar a que nos eliminen. Debemos tomar medidas.&lt;BR&gt;&lt;BR&gt;Deshazte de los {@LinkCreature:18#1#Desert Fire thrashers} y {@LinkCreature:18#2#Desert Fire shamans}. Ve a ver a {@LinkCreature:218#1003#Kardelen} en Camp Marrakeen cuando hayas terminado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">[EN] Got rid of the kulkaris, did you? Glad to hear it&amp;#8212;I needed a break!&lt;BR&gt;&lt;BR&gt;I remember when my biggest complaint was boredom. Be careful what you wish for, eh?&lt;br&gt;[ES] &amp;#191;Te deshiciste de los kulkaris? Me alegra o&amp;#237;rlo, &amp;#161;necesitaba un respiro!&lt;BR&gt;&lt;BR&gt;Recuerdo cuando mi mayor queja era el aburrimiento. Ten cuidado con lo que deseas, &amp;#191;eh?</Page>
+    </Text>
+</QuestDialog>

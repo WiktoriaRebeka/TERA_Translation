@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1014">
+        <Page social="5">[EN] Nice thing about cultists? Not good at thinking for themselves! Keep doing whatever they're doing 'til someone stops 'em.&lt;BR&gt;&lt;BR&gt;Oh, don't give me that look. This'll be cub's play for you! {@LinkCreature:17#305#Heavens Fall dervishes} are the cult's pride and joy. Kill them, and the rest just stand there with those barrels over their heads and look stupid. Well, stupider.&lt;BR&gt;&lt;BR&gt;Helpful tip? Easier to keep count if you take those amulets they all wear. I have fifty myself!&lt;br&gt;[ES] &amp;#191;Lo bueno de los cultistas? &amp;#161;No son buenos pensando por s&amp;#237; mismos! Sigue haciendo lo que sea que hagan hasta que alguien los detenga.&lt;BR&gt;&lt;BR&gt;Oh, no me pongas esa cara. &amp;#161;Esto ser&amp;#225; juego de ni&amp;#241;os para ti! Los {@LinkCreature:17#305#Heavens Fall dervishes} son el orgullo y la alegr&amp;#237;a del culto. M&amp;#225;talos, y el resto se quedar&amp;#225; ah&amp;#237; parado con esos barriles en la cabeza luciendo est&amp;#250;pidos. Bueno, m&amp;#225;s est&amp;#250;pidos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Un consejo &amp;#250;til? &amp;#161;Es m&amp;#225;s f&amp;#225;cil llevar la cuenta si te quedas con los amuletos que todos llevan! &amp;#161;Yo tengo cincuenta!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1014">
+        <Page social="5">[EN] Excellent! You've now learned Puran's Second Maxim: Kill officers to kill momentum.&lt;BR&gt;&lt;BR&gt;What a day! You've learned two lessons in soldiering and it seems I'm done with all my work for the week! I suggest we take a break. Nature knows we've both earned one!&lt;BR&gt;&lt;BR&gt;You're all right, soldier.&lt;br&gt;[ES] &amp;#161;Excelente! Ahora has aprendido la segunda m&amp;#225;xima de Puran: mata oficiales para acabar con su impulso.&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; d&amp;#237;a! &amp;#161;Has aprendido dos lecciones de milicia y parece que he terminado todo mi trabajo para la semana! Sugiero que tomemos un descanso. &amp;#161;El cielo sabe que ambos nos lo hemos ganado!&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Est&amp;#225;s bien, soldado.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1014">
+        <Page social="0">[EN] Dervishes? Crazy-looking women with horns and swords and no sense of humor?&lt;BR&gt;&lt;BR&gt;Go! Kill!&lt;br&gt;[ES] &amp;#191;Derviches? &amp;#191;Mujeres de aspecto loco con cuernos y espadas y sin sentido del humor?&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve! &amp;#161;Mata!</Page>
+    </Text>
+</QuestDialog>

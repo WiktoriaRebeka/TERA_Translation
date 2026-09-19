@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="4">[EN] One last obstacle&amp;#8212;the mekonari dedicants on the stairway, the ones who organized this slaughter. The others brought the victims, but these wielded the knives. It's time they pay.&lt;br&gt;[ES] Un &amp;#250;ltimo obst&amp;#225;culo: los mekonari dedicants en la escalera, los que organizaron esta masacre. Los otros trajeron a las v&amp;#237;ctimas, pero estos empu&amp;#241;aron los cuchillos. Es hora de que paguen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1010">
+        <Page social="4">[EN] Good riddance. No more sacrifices. We couldn't have stopped them without you, &lt;PCNAME&gt;.&lt;br&gt;[ES] Qu&amp;#233; bueno librarse de ellos. No m&amp;#225;s sacrificios. No podr&amp;#237;amos haberlos detenido sin ti, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

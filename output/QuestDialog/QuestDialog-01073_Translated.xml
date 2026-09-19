@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1028">
+        <Page social="4">[EN] The argons were up to something here in Raga Shadi&amp;#8212;I just know it. &lt;BR&gt;&lt;BR&gt;Not many clues, though. Just the thick, keratinized skin of {@LinkCreature:46#303#argonomorph blood fiends}. It's a grisly task, but could you gather some, um, "fresh" skin so I can compare with the, um, "vintage" samples I have?&lt;br&gt;[ES] Los argons tramaban algo aqu&amp;#237; en Raga Shadi, lo s&amp;#233;. &lt;BR&gt;&lt;BR&gt;Aunque no hay muchas pistas. Solo la piel gruesa y queratinizada de los {@LinkCreature:46#303#argonomorph blood fiends}. Es una tarea espeluznante, pero &amp;#191;podr&amp;#237;as recolectar algo de piel, digamos, &quot;fresca&quot; para poder compararla con las muestras &quot;a&amp;#241;ejas&quot; que tengo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1028">
+        <Page social="4">[EN] Now I get to employ the taxidermy skills my uncle taught me. Not exactly how I thought I'd put that skill to use.&lt;BR&gt;&lt;BR&gt;Raga Evala needs your help more than I do here...unless you were a taxidermist before the war? No? I thought not.&lt;BR&gt;&lt;BR&gt;Bring them this. It's a simple wildflower that's been argonized. Creepy, but rather interesting.&lt;br&gt;[ES] Ahora puedo poner en pr&amp;#225;ctica las habilidades de taxidermia que me ense&amp;#241;&amp;#243; mi t&amp;#237;o. No es exactamente c&amp;#243;mo pens&amp;#233; que usar&amp;#237;a esa habilidad.&lt;BR&gt;&lt;BR&gt;Raga Evala necesita tu ayuda m&amp;#225;s que yo aqu&amp;#237;... &amp;#191;a menos que fueras taxidermista antes de la guerra? &amp;#191;No? Ya me parec&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vales esto. Es una simple flor silvestre que ha sido argonizada. Da miedo, pero es bastante interesante.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1028">
+        <Page social="0">[EN] Please bring me the keratinized skin of the argonomorph blood fiends. It's for research, not trophies.&lt;br&gt;[ES] Por favor, tr&amp;#225;eme la piel queratinizada de los argonomorph blood fiends. Es para investigar, no para trofeos.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1029">
+        <Page social="4">[EN] You have an intact argonized wildflower? So far we've just found fragments.&lt;BR&gt;&lt;BR&gt;The argons are clearly capable of transforming the vegetation of an entire region, but we don't know how they do it, much less how to stop it.&lt;br&gt;[ES] &amp;#191;Tienes una flor silvestre argonizada intacta? Hasta ahora solo hemos encontrado fragmentos.&lt;BR&gt;&lt;BR&gt;Los argons son claramente capaces de transformar la vegetaci&amp;#243;n de toda una regi&amp;#243;n, pero no sabemos c&amp;#243;mo lo hacen, y mucho menos c&amp;#243;mo detenerlo.</Page>
+    </Text>
+</QuestDialog>

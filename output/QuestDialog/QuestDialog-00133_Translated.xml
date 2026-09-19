@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1011">
+        <Page social="5">[EN] Our weapons are thrashed from dealing with the gutrends day in and day out. We desperately need to repair them, but we don't have enough Shadmetal Ore.&lt;BR&gt;&lt;BR&gt;I've got so many other things to fix that I don't have time to find the &lt;font color='#660000'&gt;{@RawItem:206808}&lt;/font&gt; we need&amp;#8212;but if you don't have any pressing business, maybe you could collect some for me?&lt;br&gt;[ES] Nuestros armas est&amp;#225;n destrozadas de lidiar con los gutrends d&amp;#237;a tras d&amp;#237;a. Necesitamos repararlas urgentemente, pero no tenemos suficiente Shadmetal Ore.&lt;BR&gt;&lt;BR&gt;Tengo tantas otras cosas que arreglar que no tengo tiempo de buscar el &lt;font color='#660000'&gt;{@RawItem:206808}&lt;/font&gt; que necesitamos, pero si no tienes ning&amp;#250;n asunto urgente, &amp;#191;tal vez podr&amp;#237;as recolectar un poco para m&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1011">
+        <Page social="5">[EN] Excellent! This is just what I need to make the repairs! Thanks so much.&lt;br&gt;[ES] &amp;#161;Excelente! &amp;#161;Esto es justo lo que necesito para hacer las reparaciones! &amp;#161;Much&amp;#237;simas gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1011">
+        <Page social="0">[EN] Please&amp;#8212;without that {@RawItem:206808}, our soldiers can't fight!&lt;br&gt;[ES] Por favor, sin ese {@RawItem:206808}, &amp;#161;nuestros soldados no pueden luchar!</Page>
+    </Text>
+</QuestDialog>

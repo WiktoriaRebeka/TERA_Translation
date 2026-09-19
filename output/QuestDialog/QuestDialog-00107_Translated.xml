@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">[EN] I can make an extremely potent antidote, but most find it distasteful. It tastes so awful, those who drink it say they would rather die if they ever become poisoned again.&lt;BR&gt;&lt;BR&gt;Be that as it may, many find the ingredient gathering more distressing than the taste. I hope you're up to the task. I'll need the eyes of the garangkas those {@LinkCreature:5#1#Tuwangi Overseers} ride around on. Yes, just the eyeballs.&lt;br&gt;[ES] Puedo hacer un ant&amp;#237;doto extremadamente potente, pero a la mayor&amp;#237;a les resulta desagradable. Sabe tan mal que los que lo beben dicen que preferir&amp;#237;an morir si vuelven a ser envenenados.&lt;BR&gt;&lt;BR&gt;Sea como fuere, a muchos la recolecci&amp;#243;n de ingredientes les resulta m&amp;#225;s angustiosa que el sabor. Espero que est&amp;#233;s a la altura de la tarea. Necesitar&amp;#233; los ojos de los garangkas que montan esos {@LinkCreature:5#1#Tuwangi Overseers}. S&amp;#237;, solo los globos oculares.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="9">[EN] I was hoping you'd bring me bigger ones, but these will do for now. Here, I know it wasn't easy.&lt;br&gt;[ES] Esperaba que trajeras unos m&amp;#225;s grandes, pero estos servir&amp;#225;n por ahora. Toma, s&amp;#233; que no fue f&amp;#225;cil.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">[EN] Bring me the eyes of the garangkas that the {@LinkCreature:5#1#Tuwangi Overseers} ride around on. They aren't going to roll here themselves.&lt;br&gt;[ES] Tr&amp;#225;eme los ojos de los garangkas que montan los {@LinkCreature:5#1#Tuwangi Overseers}. No van a rodar hasta aqu&amp;#237; por s&amp;#237; solos.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2002">
+        <Page social="0">[EN] You gathered flowers for Pond Faire.&lt;br&gt;[ES] Recolectaste flores para la Pond Faire.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2002">
+        <Page social="4">[EN] Need more flowers to bring tuwangis!&lt;NEXTPAGEBUTTON&gt;I'll help.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Necesitamos m&amp;#225;s flores para traer a los tuwangis!&lt;NEXTPAGEBUTTON&gt;I'll help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2002">
+        <Page social="4">[EN] Pretty flowers! Good! More tuwangis come.&lt;NEXTPAGEBUTTON&gt;Hand over the flowers.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Flores bonitas! &amp;#161;Bien! M&amp;#225;s tuwangis vienen.&lt;NEXTPAGEBUTTON&gt;Hand over the flowers.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="2002">
+        <Page social="0">[EN] Need flowers.&lt;br&gt;[ES] Necesito flores.</Page>
+    </Text>
+</QuestDialog>

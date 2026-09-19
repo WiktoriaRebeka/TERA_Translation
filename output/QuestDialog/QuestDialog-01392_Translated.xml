@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1014">
+        <Page social="4">[EN] We've discovered what hold Killian has over us. If we don't do as Killian asks, he'll destroy our eggs!&lt;BR&gt;&lt;BR&gt;Those hatchlings are the future of our people!&lt;BR&gt;&lt;BR&gt;We need your help. My people may not deserve it, but our children are innocents in this. Hurry to Accipiter Watchpost and find Qrawkil!&lt;br&gt;[ES] Hemos descubierto qu&amp;#233; control tiene Killian sobre nosotros. &amp;#161;Si no hacemos lo que Killian pide, destruir&amp;#225; nuestros huevos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Esos polluelos son el futuro de nuestra gente!&lt;BR&gt;&lt;BR&gt;Necesitamos tu ayuda. Puede que mi gente no se lo merezca, pero nuestros ni&amp;#241;os son inocentes en esto. &amp;#161;Corre a Accipiter Watchpost y encuentra a Qrawkil!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1017">
+        <Page social="4">[EN] I'll rend those wretches who threaten our young! To compel our obedience in this way is unforgiveable.&lt;BR&gt;&lt;BR&gt;We're ready to risk everything to stop Killian. Will you help us?&lt;br&gt;[ES] &amp;#161;Destrozar&amp;#233; a esos miserables que amenazan a nuestros j&amp;#243;venes! &amp;#161;Forzar nuestra obediencia de esta manera es imperdonable!&lt;BR&gt;&lt;BR&gt;Estamos listos para arriesgarlo todo para detener a Killian. &amp;#191;Nos ayudar&amp;#225;s?</Page>
+    </Text>
+</QuestDialog>

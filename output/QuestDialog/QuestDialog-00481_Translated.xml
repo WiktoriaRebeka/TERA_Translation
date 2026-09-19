@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">[EN] Oh, I'm so close! I just need one more piece of the puzzle to crack the mystery here.&lt;BR&gt;&lt;BR&gt;You've been so helpful so far. I feel like you should be the one to close this out, don't you? Besides, I have to start sorting these other things you've brought.&lt;BR&gt;&lt;BR&gt;If you could collect the final piece from {@LinkCreature:18#105#metatrons}, we can make this discovery together. Sort of.&lt;br&gt;[ES] &amp;#161;Oh, estoy tan cerca! Solo necesito una pieza m&amp;#225;s del rompecabezas para descifrar el misterio aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Has sido de tanta ayuda hasta ahora. Siento que t&amp;#250; deber&amp;#237;as ser quien cierre esto, &amp;#191;no crees? Adem&amp;#225;s, tengo que empezar a ordenar estas otras cosas que trajiste.&lt;BR&gt;&lt;BR&gt;Si pudieras conseguir la &amp;#250;ltima pieza de los {@LinkCreature:18#105#metatrons}, podremos hacer este descubrimiento juntos. M&amp;#225;s o menos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">[EN] Yes. YES! This will take some time to decode, but it'll be worth it!&lt;BR&gt;&lt;BR&gt;You've contributed so much to my research that I might even credit you when I take it public!&lt;BR&gt;&lt;BR&gt;Thank you.&lt;br&gt;[ES] &amp;#161;S&amp;#237;. S&amp;#205;! Esto tomar&amp;#225; algo de tiempo en decodificarse, &amp;#161;pero valdr&amp;#225; la pena!&lt;BR&gt;&lt;BR&gt;&amp;#161;Has contribuido tanto a mi investigaci&amp;#243;n que tal vez hasta te d&amp;#233; cr&amp;#233;dito cuando la haga p&amp;#250;blica!&lt;BR&gt;&lt;BR&gt;Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">[EN] I thought you'd left. You won't find important relics lying around me!&lt;BR&gt;&lt;BR&gt;Well, I mean, I suppose you will, but not the ones you're after.&lt;br&gt;[ES] Pens&amp;#233; que te hab&amp;#237;as ido. &amp;#161;No encontrar&amp;#225;s reliquias importantes tiradas por aqu&amp;#237; conmigo!&lt;BR&gt;&lt;BR&gt;Bueno, o sea, supongo que s&amp;#237;, pero no las que est&amp;#225;s buscando.</Page>
+    </Text>
+</QuestDialog>

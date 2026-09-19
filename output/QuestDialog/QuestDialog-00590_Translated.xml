@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="5">[EN] I was scouting the southern end of the lake and spotted some ludicrously dressed {@LinkCreature:23#11#malicious jesters} helping some {@LinkCreature:23#12#kobold mercenaries}.&lt;BR&gt;&lt;BR&gt;This is not an alliance we can allow. Put an end to it&amp;#8212;and them.&lt;br&gt;[ES] Estaba explorando el extremo sur del lago y vi a unos {@LinkCreature:23#11#malicious jesters} rid&amp;#237;culamente vestidos ayudando a unos {@LinkCreature:23#12#kobold mercenaries}.&lt;BR&gt;&lt;BR&gt;Esta no es una alianza que podamos permitir. Ponle fin a esto, y a ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1037">
+        <Page social="5">[EN] Fighting kobolds is one thing&amp;#8212;fighting those jesters is another. I hate those things.&lt;BR&gt;&lt;BR&gt;Thank you. We would have lost a lot of soldiers if you hadn't handled this.&lt;br&gt;[ES] Luchar contra kobolds es una cosa, luchar contra esos bufones es otra. &amp;#161;Odio esas cosas!&lt;BR&gt;&lt;BR&gt;Gracias. Habr&amp;#237;amos perdido a muchos soldados si no te hubieras encargados de esto.</Page>
+    </Text>
+</QuestDialog>

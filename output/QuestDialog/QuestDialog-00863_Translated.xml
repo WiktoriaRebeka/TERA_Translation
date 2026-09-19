@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1023">
+        <Page social="6">[EN] Killian's been sighted everywhere lately. We need to capture that little maniac before he does much more damage.&lt;BR&gt;&lt;BR&gt;Checkpoint Ebony is the best place to get more information about Killian.&lt;BR&gt;&lt;BR&gt;Belei can tell you how to get there and catch you up on more information.&lt;br&gt;[ES] Killian ha sido visto por todas partes &amp;#250;ltimamente. Necesitamos capturar a ese peque&amp;#241;o mani&amp;#225;tico antes de que haga m&amp;#225;s da&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Checkpoint Ebony es el mejor lugar para obtener m&amp;#225;s informaci&amp;#243;n sobre Killian.&lt;BR&gt;&lt;BR&gt;Belei puede decirte c&amp;#243;mo llegar y ponerte al d&amp;#237;a con m&amp;#225;s informaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1027">
+        <Page social="5">[EN] Melrasa thought I had more information?&lt;BR&gt;&lt;BR&gt;Let's see...weird god sharing his body with his dead half-sister on the loose, trying to collect relics for Thulsa. That about cover it?&lt;BR&gt;&lt;BR&gt;That's the same info Melrasa has&amp;#8212;the same info we all have.&lt;BR&gt;&lt;BR&gt;Anyway, Checkpoint Ebony is just through this cave. It's quite dark inside. Be careful.&lt;br&gt;[ES] &amp;#191;Melrasa pens&amp;#243; que ten&amp;#237;a m&amp;#225;s informaci&amp;#243;n?&lt;BR&gt;&lt;BR&gt;A ver... un dios raro que comparte su cuerpo con su media hermana muerta andando suelto, intentando recolectar reliquias para Thulsa. &amp;#191;Con eso basta?&lt;BR&gt;&lt;BR&gt;Esa es la misma informaci&amp;#243;n que tiene Melrasa, la misma informaci&amp;#243;n que todos tenemos.&lt;BR&gt;&lt;BR&gt;De todos modos, Checkpoint Ebony est&amp;#225; pasando por esta cueva. Est&amp;#225; bastante oscuro adentro. Ten cuidado.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1017">
+        <Page social="6">[EN] Melrasa sent you?&lt;BR&gt;&lt;BR&gt;Well, let's see what we can do with you, eh?&lt;br&gt;[ES] &amp;#191;Te mand&amp;#243; Melrasa?&lt;BR&gt;&lt;BR&gt;Bueno, a ver qu&amp;#233; podemos hacer contigo, &amp;#191;eh?</Page>
+    </Text>
+</QuestDialog>

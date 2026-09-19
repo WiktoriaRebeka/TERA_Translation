@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1010">
+        <Page social="10">[EN] Why isn't he here? I know these tunnels go on forever, but that doesn't mean I can wait forever!&lt;BR&gt;&lt;BR&gt;&lt;PCCLASS&gt;, if you're not busy, can you go to the crypt and check on Eudon?&lt;BR&gt;&lt;BR&gt;Oldest story in the world. Guy gets sent to deliver rations to the scouts in the crypt, but doesn't come back on schedule.&lt;BR&gt;&lt;BR&gt;And on your way, make sure something bad happens to the hellhounds wandering around. Hard to do your duty when the endless baying prevents an honest sleep!&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; no est&amp;#225; aqu&amp;#237;? S&amp;#233; que estos t&amp;#250;neles son interminables, &amp;#161;pero eso no significa que pueda esperar eternamente!&lt;BR&gt;&lt;BR&gt;&lt;PCCLASS&gt;, si no est&amp;#225;s ocupado, &amp;#191;puedes ir a la cripta y ver c&amp;#243;mo est&amp;#225; Eudon?&lt;BR&gt;&lt;BR&gt;La historia m&amp;#225;s vieja del mundo. Mandan al tipo a entregar raciones a los exploradores en la cripta, pero no regresa a la hora acordada.&lt;BR&gt;&lt;BR&gt;Y de camino, aseg&amp;#250;rate de que algo malo les pase a los sabuesos infernales que deambulan por ah&amp;#237;. &amp;#161;Es dif&amp;#237;cil cumplir con tu deber cuando los aullidos interminables te impiden dormir un poco!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1032">
+        <Page social="20">[EN] You're from Elenea, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;Yeah, yeah, I know I'm overdue.&lt;BR&gt;&lt;BR&gt;Is it so hard to fathom why I got lost?&lt;br&gt;[ES] &amp;#191;Eres de Elenea, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;S&amp;#237;, s&amp;#237;, ya s&amp;#233; que voy tarde.&lt;BR&gt;&lt;BR&gt;&amp;#191;Acaso es tan dif&amp;#237;cil entender por qu&amp;#233; me perd&amp;#237;?</Page>
+    </Text>
+</QuestDialog>

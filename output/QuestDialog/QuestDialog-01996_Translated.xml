@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2007">
+        <Page social="0">[EN] You delivered carving material to Dolme and received a Horn Helm.&lt;br&gt;[ES] Entregaste material de tallado a Dolme y recibiste un Horn Helm.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2007">
+        <Page social="4">[EN] Hello, &lt;PCNAME&gt;! Listen, do you have any more of those wonderful carved horns? No?&lt;BR&gt;&lt;BR&gt;Hm. Pity...I've started a collection. I tell you what: If you can get some more for me, I'll give you a bottle of my best summer wine!&lt;BR&gt;&lt;BR&gt;I think Wahmel and Chelton were offering horn statues as prizes...&lt;br&gt;[ES] &amp;#161;Hola, &lt;PCNAME&gt;! Oye, &amp;#191;tienes m&amp;#225;s de esos maravillosos cuernos tallados? &amp;#191;No?&lt;BR&gt;&lt;BR&gt;Mh. Qu&amp;#233; l&amp;#225;stima... He empezado una colecci&amp;#243;n. Te dir&amp;#233; algo: si puedes conseguirme m&amp;#225;s, &amp;#161;te dar&amp;#233; una botella de mi mejor vino de verano!&lt;BR&gt;&lt;BR&gt;Creo que Wahmel y Chelton estaban ofreciendo estatuas de cuernos como premios...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2007">
+        <Page social="4">[EN] Hoho. Thank you. This will do nicely!&lt;BR&gt;&lt;BR&gt;You've earned this bottle of summer wine, &lt;PCNAME&gt;! Drink it in good health, hoho!&lt;br&gt;[ES] Ho, ho. Gracias. &amp;#161;Esto servir&amp;#225; perfectamente!&lt;BR&gt;&lt;BR&gt;&amp;#161;Te has ganado esta botella de vino de verano, &lt;PCNAME&gt;! &amp;#161;B&amp;#233;betela con buena salud, ho, ho!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="2007">
+        <Page social="0">[EN] Participate in the melon bash or splash cannon mini-games to earn horn statues.&lt;br&gt;[ES] Participa en los minijuegos de aplastar melones o ca&amp;#241;ones de agua para ganar estatuas de cuerno.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="4">[EN] Balrug's going to have to handle the apprentices himself for a few days. I can't go back, not yet. I'm short of funds and need to bring a big shipment back to town.&lt;NEXTPAGEBUTTON&gt;"Perhaps I could help."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Balrug va a tener que encargarse de los aprendices &amp;#233;l solo durante unos d&amp;#237;as. No puedo volver, todav&amp;#237;a no. Me falta dinero y necesito llevar un gran cargamento de vuelta a la ciudad.&lt;NEXTPAGEBUTTON&gt;"Perhaps I could help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] I wasn't asking for charity! I'm just&amp;#8212;blast!&lt;BR&gt;&lt;BR&gt;Look, my daughter's ill&amp;#8212;very ill. The healers say she'll live if she can get a special medicine from the Mysterium, but it's bloody expensive. If I can bring enough fine hides in, I can just afford it. If you're serious about helping, get after the sabertooths. I need perfect, pristine hides.&lt;br&gt;[ES] &amp;#161;No estaba pidiendo caridad! Solo estoy... &amp;#161;maldici&amp;#243;n!&lt;BR&gt;&lt;BR&gt;Mira, mi hija est&amp;#225; enferma, muy enferma. Los sanadores dicen que vivir&amp;#225; si puede conseguir una medicina especial del Mysterium, pero es maldici&amp;#243;n de cara. Si puedo traer suficientes pieles finas, podr&amp;#233; pagarla. Si hablas en serio sobre ayudar, ve tras los sabertooths. Necesito pieles perfectas e impolutas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1032">
+        <Page social="4">[EN] I'm not used to saying thanks. I try to make my own way in the world, but these hides will fetch a fine price and I can get my daughter's medicine.&lt;BR&gt;&lt;BR&gt;I'm in your debt, &lt;PCNAME&gt;.&lt;br&gt;[ES] No estoy acostumbrado a dar las gracias. Intento abrirme camino por mi cuenta en el mundo, pero estas pieles alcanzar&amp;#225;n un buen precio y podr&amp;#233; conseguir la medicina de mi hija.&lt;BR&gt;&lt;BR&gt;Estoy en deuda contigo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1032">
+        <Page social="0">[EN] My daughter's medicine's expensive. Please&amp;#8212;kill those sabertooths and bring me their hides.&lt;br&gt;[ES] La medicina de mi hija es cara. Por favor, mata a esos sabertooths y tr&amp;#225;eme sus pieles.</Page>
+    </Text>
+</QuestDialog>

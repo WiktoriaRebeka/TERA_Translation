@@ -1,0 +1,79 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3008">
+        <Page social="4">[EN] One of our younger researchers, {@LinkCreature:77#3002#Paruru}, lost his two prized dogs. The problem is we can't risk his safety to find the dogs, so we'd like your help.&lt;BR&gt;&lt;BR&gt;You know, because you're a soldier.&lt;br&gt;[ES] Uno de nuestros investigadores m&amp;#225;s j&amp;#243;venes, {@LinkCreature:77#3002#Paruru}, perdi&amp;#243; a sus dos perros m&amp;#225;s preciados. El problema es que no podemos arriesgar su seguridad para buscar a los perros, as&amp;#237; que nos gustar&amp;#237;a contar con tu ayuda.&lt;BR&gt;&lt;BR&gt;Ya sabes, porque eres un soldado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="4">[EN] I don't care if the argons turn blue in the face, I'm not working on anything until I know my dogs are on their way back.&lt;NEXTPAGEBUTTON&gt;"Fine. What are their names?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No me importa si a los argons les da un patat&amp;#250;s, no voy a trabajar en nada hasta que sepa que mis perros est&amp;#225;n de regreso.&lt;NEXTPAGEBUTTON&gt;"Fine. What are their names?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Yes! Prince and Sweetie! Help me find my dogs and I promise to get back to work.&lt;BR&gt;&lt;BR&gt;I know they really like smoked jerky. Use that to coax them home, all right?&lt;BR&gt;&lt;BR&gt;Mmmm...jerky.&lt;br&gt;[ES] &amp;#161;S&amp;#237;! &amp;#161;Prince y Sweetie! Ay&amp;#250;dame a encontrar a mis perros y prometo volver al trabajo.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que les encanta la carne seca ahumada. &amp;#218;sala para convencerlos de que vuelven a casa, &amp;#191;de acuerdo?&lt;BR&gt;&lt;BR&gt;Mmmm... carne seca.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="77" prevId="2" villagerId="3015">
+        <Page social="4">[EN] (The dog glares at you, as if expecting you to place a vomit-colored sweater on it.)&lt;br&gt;[ES] (El perro te mira fijamente, como si esperara que le pongas un su&amp;#233;ter del color del v&amp;#243;mito.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="77" prevId="8" villagerId="3017">
+        <Page social="4">[EN] (The dog glares at you, as if expecting you to place a vomit-colored sweater on it.))&lt;br&gt;[ES] (El perro te mira fijamente, como si esperara que le pongas un su&amp;#233;ter del color del v&amp;#243;mito.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="77" prevId="9" villagerId="3018">
+        <Page social="4">[EN] (The dog glares at you, as if expecting you to place a vomit-colored sweater on it.)&lt;br&gt;[ES] (El perro te mira fijamente, como si esperara que le pongas un su&amp;#233;ter del color del v&amp;#243;mito.)</Page>
+    </Text>
+    <Text id="11" huntingZoneId="77" prevId="10" villagerId="3019">
+        <Page social="4">[EN] (The dog glares at you, as if expecting you to place a vomit-colored sweater on it.))&lt;br&gt;[ES] (El perro te mira fijamente, como si esperara que le pongas un su&amp;#233;ter del color del v&amp;#243;mito.)</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="4">[EN] Did you give Sweetie the jerky? Is she on her way back?&lt;BR&gt;&lt;BR&gt;You didn't eat all the jerky, did you?&lt;br&gt;[ES] &amp;#191;Le diste la carne seca a Sweetie? &amp;#191;Est&amp;#225; de regreso?&lt;BR&gt;&lt;BR&gt;No te habr&amp;#225;s comido toda la carne seca, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="14" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="15" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="16" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="17" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="18" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="19" huntingZoneId="245" prevId="11" villagerId="3517">
+        <Page social="4">[EN] (The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)&lt;br&gt;[ES] (El perro te devuelve la mirada con los ojos recelosos de alguien obligado a llevar cintas en el pelo.)</Page>
+    </Text>
+    <Text id="20" huntingZoneId="245" prevId="19" villagerId="3518">
+        <Page social="4">[EN] (The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)&lt;br&gt;[ES] (El perro te devuelve la mirada con los ojos recelosos de alguien obligado a llevar cintas en el pelo.)</Page>
+    </Text>
+    <Text id="21" huntingZoneId="245" prevId="20" villagerId="3519">
+        <Page social="4">[EN] (The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)&lt;br&gt;[ES] (El perro te devuelve la mirada con los ojos recelosos de alguien obligado a llevar cintas en el pelo.)</Page>
+    </Text>
+    <Text id="22" huntingZoneId="247" prevId="21" villagerId="3515">
+        <Page social="4">[EN] (The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)&lt;br&gt;[ES] (El perro te devuelve la mirada con los ojos recelosos de alguien obligado a llevar cintas en el pelo.)</Page>
+    </Text>
+    <Text id="23" huntingZoneId="247" prevId="22" villagerId="3516">
+        <Page social="4">[EN] (The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)&lt;br&gt;[ES] (El perro te devuelve la mirada con los ojos recelosos de alguien obligado a llevar cintas en el pelo.)</Page>
+    </Text>
+    <Text id="24" huntingZoneId="247" prevId="23" villagerId="3517">
+        <Page social="4">[EN] (The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)&lt;br&gt;[ES] (El perro te devuelve la mirada con los ojos recelosos de alguien obligado a llevar cintas en el pelo.)</Page>
+    </Text>
+    <Text id="25" huntingZoneId="77" prevId="24" villagerId="3002">
+        <Page social="4">[EN] Did you find Prince? Did he eat the jerky? He loves jerky so much he would come running from miles away for it.&lt;BR&gt;&lt;BR&gt;I'm grateful for your help. I promise to work diligently on our research.&lt;br&gt;[ES] &amp;#191;Encontraste a Prince? &amp;#191;Comi&amp;#243; la carne seca? Le gusta tanto la carne seca que correr&amp;#237;a desde millas de distancia por ella.&lt;BR&gt;&lt;BR&gt;Te agradezco tu ayuda. Prometo trabajar diligentemente en nuestra investigaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

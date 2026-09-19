@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1008">
+        <Page social="4">[EN] I wonder if I might ask a favor, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nema wants me to collect &lt;font color='#660000'&gt;marked fragments&lt;/font&gt; from the bodies of {@LinkCreature:18#14#piledriver golems}. The problem is they terrify me. And I can't tell Nema, because she terrifies me, too.&lt;BR&gt;&lt;BR&gt;Would you mind collecting them for me and bringing them back here?&lt;br&gt;[ES] Me pregunto si podr&amp;#237;a pedirte un favor, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nema quiere que recolecte &lt;font color='#660000'&gt;fragmentos marcados&lt;/font&gt; de los cuerpos de los {@LinkCreature:18#14#piledriver golems}. El problema es que me aterran. Y no puedo decirle a Nema, porque ella tambi&amp;#233;n me aterra.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te importar&amp;#237;a recolectarlos por m&amp;#237; y traerlos de vuelta aqu&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1008">
+        <Page social="4">[EN] Oh, thank you! I really didn't want to upset Nema.&lt;BR&gt;&lt;BR&gt;Could you maybe not tell her about this?&lt;br&gt;[ES] &amp;#161;Oh, gracias! En verdad no quer&amp;#237;a molestar a Nema.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as tal vez no decirle nada de esto?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1008">
+        <Page social="0">[EN] Oh, please hurry. Nema has already been waiting on me for quite some time.&lt;br&gt;[ES] Por favor, date prisa. Nema ya lleva bastante tiempo esper&amp;#225;ndome.</Page>
+    </Text>
+</QuestDialog>

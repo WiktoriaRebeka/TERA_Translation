@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1107">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1107">
+        <Page social="4">[EN] Larusia swears that howling ghosts are keeping her awake. But I keep telling her: it's the wolves!&lt;BR&gt;&lt;BR&gt;Prove I'm right&amp;#8212;and let me sleep&amp;#8212;by killing the {@LinkCreature:4#1041#ashstalker wolves} out there!&lt;br&gt;[ES] Larusia jura que los fantasmas aulladores la mantienen despierta. Pero yo sigo dici&amp;#233;ndole: &amp;#161;son los lobos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Demuestra que tengo raz&amp;#243;n &amp;#8212;y d&amp;#233;jame dormir&amp;#8212; matando a los {@LinkCreature:4#1041#ashstalker wolves} que est&amp;#225;n ah&amp;#237; fuera!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1107">
+        <Page social="4">[EN] It's quiet. Almost...too quiet.&lt;BR&gt;&lt;BR&gt;But not too quiet for a nap, once this shift ends.&lt;BR&gt;&lt;BR&gt;Thanks, &lt;PCNAME&gt;. And I'll be thanking you in my dreams!&lt;br&gt;[ES] Hay silencio. Casi... demasiado silencio.&lt;BR&gt;&lt;BR&gt;Pero no demasiado silencio para una siesta, una vez que termine este turno.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;BR&gt;. &amp;#161;Y te lo agradecer&amp;#233; en mis sue&amp;#241;os!</Page>
+    </Text>
+</QuestDialog>

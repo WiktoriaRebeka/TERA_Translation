@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="5">[EN] Bloody prions drove us out of the field. We dropped everything and ran. And I do mean everything. Now all our tools are out there, and we're here.&lt;BR&gt;&lt;BR&gt;Can you find them before something big and ugly steps on them?&lt;br&gt;[ES] Los malditos prions nos sacaron del campo. Lo dejamos todo y corremos. Y digo todo. Ahora todas nuestras herramientas est&amp;#225;n all&amp;#225; afuera y nosotros estamos aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes encontrarlas antes de que algo grande y feo las pise?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1024">
+        <Page social="6">[EN] You found them! And they're not broken! This is a good day, &lt;PCNAME&gt;.&lt;br&gt;[ES] &amp;#161;Las encontraste! &amp;#161;Y no est&amp;#225;n rotas! Este es un buen d&amp;#237;a, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1024">
+        <Page social="0">[EN] I'm afraid something's going to happen to our excavation tools if they're out there much longer.&lt;br&gt;[ES] Me temo que algo le va a pasar a nuestras herramientas de excavaci&amp;#243;n si se quedan ah&amp;#237; fuera mucho m&amp;#225;s tiempo.</Page>
+    </Text>
+</QuestDialog>

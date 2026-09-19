@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1018">
+        <Page social="4">[EN] What's going on? First the faeries go mad, now the sporewalkers are thrashing us.&lt;BR&gt;&lt;BR&gt;It's like someone's setting all of our allies against us.&lt;BR&gt;&lt;BR&gt;I hate to ask, but we have to hold our position. Can you deal with the sporewalkers?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; est&amp;#225; pasando? Primero las hadas enloquecen, ahora los sporewalkers nos est&amp;#225;n destrozando.&lt;BR&gt;&lt;BR&gt;Es como si alguien estuviera poniendo a todos nuestros aliados en nuestra contra.&lt;BR&gt;&lt;BR&gt;Odio pedirlo, pero tenemos que mantener nuestra posici&amp;#243;n. &amp;#191;Puedes encargarte de los sporewalkers?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1018">
+        <Page social="4">[EN] I heard someone mention Thulsa's name. It might well be that he's stirring up trouble against us, trying to keep us distracted.&lt;BR&gt;&lt;BR&gt;Thanks to you, we can stay focused. Well fought, &lt;PCNAME&gt;.&lt;br&gt;[ES] Escuch&amp;#233; a alguien mencionar el nombre de Thulsa. Bien podr&amp;#237;a ser que est&amp;#233; causando problemas contra nosotros, intentando mantenernos distra&amp;#237;dos.&lt;BR&gt;&lt;BR&gt;Gracias a ti, podemos mantenernos concentrados. Bien luchado, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="4" voiceTypeId="0">[EN] Grandpa gave me this map. "Avil," he'd say, "this map shows exactly where Baracos, Lord of the Labyrinth, keeps his treasures."&lt;BR&gt;&lt;BR&gt;My sister said that Grandpa would say almost anything to get us to bed, but she's a bitter hag. I believe!&lt;BR&gt;&lt;BR&gt;You're going deep into the Golden Labyrinth. Can you keep an eye out for these hidden treasures?&lt;NEXTPAGEBUTTON&gt;"You don't want to come?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Mi abuelo me dio este mapa. &quot;Avil&quot;, sol&amp;#237;a decirme, &quot;este mapa muestra exactamente d&amp;#243;nde guarda Baracos, Lord of the Labyrinth, sus tesoros&quot;.&lt;BR&gt;&lt;BR&gt;Mi hermana dec&amp;#237;a que el abuelo dec&amp;#237;a cualquier cosa con tal de mandarnos a la cama, &amp;#161;pero ella es una bruja amargada. Yo s&amp;#237; le creo!&lt;BR&gt;&lt;BR&gt;Te adentrar&amp;#225;s en el Golden Labyrinth. &amp;#191;Podr&amp;#237;as vigilar por si ves estos tesoros ocultos?&lt;NEXTPAGEBUTTON&gt;"You don't want to come?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] Thank you, no. When I was a kid, my sister once threw me down a well, and there were baby caimans at the bottom.&lt;BR&gt;&lt;BR&gt;Ever since then, I can't stand anything scaly.&lt;BR&gt;&lt;BR&gt;I'd be a wreck before we got inside the door, &lt;PCNAME&gt;.&lt;br&gt;[ES] No, gracias. Cuando era ni&amp;#241;o, mi hermana una vez me tir&amp;#243; a un pozo, y hab&amp;#237;a cr&amp;#237;as de caim&amp;#225;n en el fondo.&lt;BR&gt;&lt;BR&gt;Desde entonces, no soporto nada que tenga escamas.&lt;BR&gt;&lt;BR&gt;Estar&amp;#237;a hecho un desastre antes de cruzar la puerta, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3005" prevId="2" villagerId="1017">
+        <Page social="0" voiceTypeId="0">[EN] (Old sundries, disintegrating bandages, and a rusty dagger. All worthless.)&lt;br&gt;[ES] (Art&amp;#237;culos viejos, vendas desintegradas y una daga oxidada. Todo sin valor.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3005" prevId="2" villagerId="1018">
+        <Page social="0" voiceTypeId="0">[EN] (A faintly glowing bracelet lies amid some chunks of wood.)&lt;br&gt;[ES] (Un brazalete que brilla tenuemente yace entre unos trozos de madera.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="208" prevId="3" villagerId="1021">
+        <Page social="4" voiceTypeId="0">[EN] A rusty dagger and a shiny bracelet? Maybe Grandpa was spinning tales after all.&lt;br&gt;[ES] &amp;#191;Una daga oxidada y un brazalete brillante? Tal vez el abuelo s&amp;#237; estaba inventando historias despu&amp;#233;s de todo.</Page>
+    </Text>
+</QuestDialog>

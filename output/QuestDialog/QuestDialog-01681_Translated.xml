@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1015">
+        <Page social="4" voiceTypeId="0">[EN] Heading into the Labyrinth? Step carefully. Some of the statues are traps.&lt;BR&gt;&lt;BR&gt;I'm here on behalf of Kanmur, my...former...commander.&lt;BR&gt;&lt;BR&gt;I've been in there on and off for days looking for the honorless, cowardly wretch who ripped out Kanmur's horns. A mad clown named Aleister. &lt;NEXTPAGEBUTTON&gt;"I remember him."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Te diriges al Labyrinth? Ve con cuidado. Algunas de las estatuas son trampas.&lt;BR&gt;&lt;BR&gt;Estoy aqu&amp;#237; en nombre de Kanmur, mi... ex... comandante.&lt;BR&gt;&lt;BR&gt;He estado entrando y saliendo durante d&amp;#237;as buscando al desgraciado cobarde y sin honor que le arranc&amp;#243; los cuernos a Kanmur. Un payaso loco llamado Aleister. &lt;NEXTPAGEBUTTON&gt;"I remember him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">[EN] You&amp;#8212;you're &lt;PCNAME&gt;! Yes, I heard you were there when Aleister came to Kaiator.&lt;BR&gt;&lt;BR&gt;I won't rest until we find and kill Aleister and the general's horns are where they belong.&lt;br&gt;[ES] T-t&amp;#250; eres &lt;PCNAME&gt;! S&amp;#237;, escuch&amp;#233; que estabas all&amp;#237; cuando Aleister lleg&amp;#243; a Kaiator.&lt;BR&gt;&lt;BR&gt;No descansar&amp;#233; hasta que encontremos y matemos a Aleister y los cuernos del general est&amp;#233;n donde pertenecen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1015">
+        <Page social="4" voiceTypeId="0">[EN] Th-thank you.&lt;BR&gt;&lt;BR&gt;An aman's body isn't whole without its horns.&lt;BR&gt;&lt;BR&gt;The general can finally rest.&lt;br&gt;[ES] Gr-gracias.&lt;BR&gt;&lt;BR&gt;El cuerpo de un aman no est&amp;#225; completo sin sus cuernos.&lt;BR&gt;&lt;BR&gt;El general por fin puede descansar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1015">
+        <Page social="0">[EN] Have you found Aleister?&lt;BR&gt;&lt;BR&gt;If you find him, he's yours, but once I've healed, I'm going inside to find that clown and rip him in two!&lt;br&gt;[ES] &amp;#191;Has encontrado a Aleister?&lt;BR&gt;&lt;BR&gt;Si lo encuentras, es tuyo, pero una vez que me haya curado, &amp;#161;entrar&amp;#233; a buscar a ese payaso y lo partir&amp;#233; en dos!</Page>
+    </Text>
+</QuestDialog>

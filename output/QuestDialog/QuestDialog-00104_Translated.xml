@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="5">[EN] The tuwangis keep wandering out of their area. It was all fine and good until they started attacking our soldiers.&lt;BR&gt;&lt;BR&gt;There's just nothing to be done about them! I can't talk to them, but killing them seems...extreme. They're almost people!&lt;NEXTPAGEBUTTON&gt;"Is there no other way?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Los tuwangis no paran de salir de su zona. Todo iba bien hasta que empezaron a atacar a nuestros soldados.&lt;BR&gt;&lt;BR&gt;&amp;#161;No hay nada que hacer con ellos! No puedo hablar con ellos, pero matarlos parece... extremo. &amp;#161;Son casi personas!&lt;NEXTPAGEBUTTON&gt;"Is there no other way?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] Well, now that you mention it, I've heard rumors from herb gatherers here and there that there is actually a potion that allows the drinker to speak the tuwangi language.&lt;BR&gt;&lt;BR&gt;If the ingredients I heard were right, I'll need {@LinkCreature:205#1023#Quagmire Herb Sap} and {@LinkCreature:5#5#Muddy Sporewalker Mucus}.&lt;BR&gt;&lt;BR&gt;Not pleasant to handle, but easy enough to find. What do you say?&lt;br&gt;[ES] Bueno, ahora que lo mencionas, he o&amp;#237;do rumores de recolectores de hierbas aqu&amp;#237; y all&amp;#225; de que en realidad existe una poci&amp;#243;n que le permite al bebedor hablar el idioma tuwangi.&lt;BR&gt;&lt;BR&gt;Si los ingredientes que escuch&amp;#233; son correctos, necesitar&amp;#233; {@LinkCreature:205#1023#Quagmire Herb Sap} y {@LinkCreature:5#5#Muddy Sporewalker Mucus}.&lt;BR&gt;&lt;BR&gt;No es agradable de manipular, pero es bastante f&amp;#225;cil de encontrar. &amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1023">
+        <Page social="0">[EN] (This quagmire herb has fresh, healthy leaves. It looks to be exactly what you were asked to gather.)&lt;br&gt;[ES] (Esta hierba de ci&amp;#233;naga tiene hojas frescas y sanas. Parece ser exactamente lo que te pidieron que recolectaras.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1002">
+        <Page social="5">[EN] Wow. I forgot how terrible that stuff smelled! And you want me to do what with it? Hrm.&lt;BR&gt;&lt;BR&gt;Well, since it's for Jaedon, go ahead and give it here.&lt;br&gt;[ES] Vaya. &amp;#161;Olvid&amp;#233; lo terrible que ol&amp;#237;a esa porquer&amp;#237;a! &amp;#191;Y quieres que haga qu&amp;#233; con eso? Mjum.&lt;BR&gt;&lt;BR&gt;Bueno, ya que es para Jaedon, adelante y dalo ac&amp;#225;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" villagerId="1002">
+        <Page social="0">[EN] Do you have what I need?&lt;br&gt;[ES] &amp;#191;Tienes lo que necesito?</Page>
+    </Text>
+</QuestDialog>

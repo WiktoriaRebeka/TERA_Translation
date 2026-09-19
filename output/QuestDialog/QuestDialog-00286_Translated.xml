@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="4">[EN] It's all well and good to slaughter the Red Lash here in the grotto, but we have to make sure they can't take to the high seas, too.&lt;BR&gt;&lt;BR&gt;Most of the Red Lash fleet is in for repairs, so our timing couldn't be better.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:11#3003#Red Lash injenirs} do most of the repair work. Kill them and steal their tools.&lt;br&gt;[ES] Est&amp;#225; muy bien masacrar a los Red Lash aqu&amp;#237; en la gruta, pero tambi&amp;#233;n tenemos que asegurarnos de que no puedan zarpar a alta mar.&lt;BR&gt;&lt;BR&gt;La mayor parte de la flota Red Lash est&amp;#225; en reparaciones, as&amp;#237; que nuestro momento no podr&amp;#237;a ser mejor.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:11#3003#Red Lash injenirs} hacen la mayor parte del trabajo de reparaci&amp;#243;n. M&amp;#225;talos y r&amp;#243;bale sus herramientas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1028">
+        <Page social="4">[EN] Good luck repairing a hull with no tools and no workers. Can't call yourselves pirates if you never leave the dock!&lt;br&gt;[ES] Buena suerte reparando un casco sin herramientas y sin trabajadores. &amp;#161;No pueden llamarse piratas si nunca abandonan el muelle!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1028">
+        <Page social="0">[EN] It's the {@LinkCreature:11#3003#Red Lash injenirs}. Without them, those pirate ships will never leave the docks.&lt;br&gt;[ES] Son los {@LinkCreature:11#3003#Red Lash injenirs}. &amp;#161;Sin ellos, esos barcos piratas nunca saldr&amp;#225;n de los muelles!</Page>
+    </Text>
+</QuestDialog>

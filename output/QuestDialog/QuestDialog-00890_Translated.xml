@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1035">
+        <Page social="12">[EN] Killian's minions, prions, argons, and us...it's a mess down here.&lt;BR&gt;&lt;BR&gt;Occasionally, it's a good mess. Right now, for instance, the argons and Killian's servants are fighting each other.&lt;BR&gt;&lt;BR&gt;If they eliminate each other, I think we win by default!&lt;BR&gt;&lt;BR&gt;I don't know how widespread the fighting is, though. We sent a herald, Geron, down to see what was going on, but we haven't heard from him.&lt;BR&gt;&lt;BR&gt;Yeah, that happens a lot around here. Accursed endless, twisting caves! Can you find him?&lt;br&gt;[ES] Los sirvientes de Killian, los prions, los argons y nosotros... esto es un desastre por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;A veces, es un buen desastre. Ahora mismo, por ejemplo, los argons y los sirvientes de Killian est&amp;#225;n luchando entre s&amp;#237;.&lt;BR&gt;&lt;BR&gt;Si se eliminan mutuamente, &amp;#161;creo que ganamos por defecto!&lt;BR&gt;&lt;BR&gt;Sin embargo, no s&amp;#233; qu&amp;#233; tan extendida est&amp;#225; la pelea. Enviamos un heraldo, Geron, a ver qu&amp;#233; pasaba, pero no hemos sabido nada de &amp;#233;l.&lt;BR&gt;&lt;BR&gt;S&amp;#237;, eso pasa mucho por aqu&amp;#237;. &amp;#161;Malditas cuevas interminables y retorcidas! &amp;#191;Puedes encontrarlo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1039">
+        <Page social="5">[EN] Sursanak sent you?&lt;BR&gt;&lt;BR&gt;I thought you were an argon, but you're from the federation. I'm saved!&lt;br&gt;[ES] &amp;#191;Sursanak te envi&amp;#243;?&lt;BR&gt;&lt;BR&gt;Pens&amp;#233; que eras un argon, pero eres de la federaci&amp;#243;n. &amp;#161;Estoy salvado!</Page>
+    </Text>
+</QuestDialog>

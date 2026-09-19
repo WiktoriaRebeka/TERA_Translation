@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1021">
+        <Page social="4">[EN] There's another argon here, directing the avengers and reporting up the chain.&lt;BR&gt;&lt;BR&gt;Unless you want an argon rescue squad jumping you, spill its big, blue, commanding guts before you hit the altar.&lt;BR&gt;&lt;BR&gt;And take its staff. I think that's how it controls the avengers.&lt;br&gt;[ES] Hay otro argon aqu&amp;#237;, que dirige a los avengers y reporta a sus superiores.&lt;BR&gt;&lt;BR&gt;A menos que quieras que un escuadr&amp;#243;n de rescate argon te caiga encima, s&amp;#225;cale las tripas a este gran comandante azul antes de llegar al altar.&lt;BR&gt;&lt;BR&gt;Y qu&amp;#233;date con su bast&amp;#243;n. &amp;#161;Creo que as&amp;#237; es como controla a los avengers!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1021">
+        <Page social="4">[EN] You got him?&lt;BR&gt;&lt;BR&gt;Good. Those things can report in over great distances. Offing it buys you time to stop the ceremonies.&lt;BR&gt;&lt;BR&gt;And this staff's going to teach me how the argons communicate!&lt;br&gt;[ES] &amp;#191;Lo venciste?&lt;BR&gt;&lt;BR&gt;Bien. Esas cosas pueden reportarse a grandes distancias. Acabarlo te da tiempo para detener las ceremonias.&lt;BR&gt;&lt;BR&gt;&amp;#161;Y este bast&amp;#243;n me ense&amp;#241;ar&amp;#225; c&amp;#243;mo se comunican los argons!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1021">
+        <Page social="0">[EN] The argon's named Gelgatum. Hunt around on the Raven Altar.&lt;br&gt;[ES] El argon se llama Gelgatum. Busca por el Raven Altar.</Page>
+    </Text>
+</QuestDialog>

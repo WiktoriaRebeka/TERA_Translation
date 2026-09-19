@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1023">
+        <Page social="4">[EN] Our scouts reported a new type of argon near the {@Rgn:49002}. They said the creatures ate iteris shards, if you can believe that.&lt;BR&gt;&lt;BR&gt;Head out there, kill some suulvir raptors, and bring any shards you find. We must learn if the argons can change the shards on their own.&lt;br&gt;[ES] Nuestros exploradores informaron sobre un nuevo tipo de argon cerca de {@Rgn:49002}. Dijeron que las criaturas com&amp;#237;an fragmentos de iteris, si puedes creerlo.&lt;BR&gt;&lt;BR&gt;Sal ah&amp;#237; fuera, mata algunos suulvir raptors y trae cualquier fragmento que encuentres. Debemos averiguar si los argons pueden cambiar los fragmentos por s&amp;#237; mismos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1023">
+        <Page social="6">[EN] Intriguing. I can feel the difference, but I can't explain it. Bah. I'll leave that to our Mysterium friends.&lt;BR&gt;&lt;BR&gt;They're not using them against us and for now, that'll suffice. Fine work.&lt;br&gt;[ES] Interesante. Puedo sentir la diferencia, pero no puedo explicarla. Bah. Se lo dejar&amp;#233; a nuestros amigos del Mysterium.&lt;BR&gt;&lt;BR&gt;No los est&amp;#225;n usando contra nosotros y, por ahora, eso ser&amp;#225; suficiente. Buen trabajo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1023">
+        <Page social="0">[EN] The iteris shards are vital to the war effort&amp;#8212;ours and theirs. Kill some raptors and bring me at least three shards for comparison.&lt;br&gt;[ES] Los fragmentos de iteris son vitales para el esfuerzo de guerra, tanto el nuestro como el de ellos. Mata algunos raptors y tr&amp;#225;eme al menos tres fragmentos para comparar.</Page>
+    </Text>
+</QuestDialog>

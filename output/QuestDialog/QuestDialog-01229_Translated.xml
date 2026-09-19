@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1039">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1039">
+        <Page social="4">[EN] Someone brought a bunch of arachnens to Frostclaw Crag. No one's sure who, but given their nasty dispositions, we know why.&lt;BR&gt;&lt;BR&gt;We have enough trouble without some fool arcanist spawning more for us, so kill 'em quick!&lt;br&gt;[ES] Alguien trajo un mont&amp;#243;n de arachnens a Frostclaw Crag. Nadie est&amp;#225; seguro de qui&amp;#233;n, pero dado su desagradable temperamento, sabemos por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ya tenemos suficientes problemas sin que alg&amp;#250;n arcanista tonto genere m&amp;#225;s para nosotros, as&amp;#237; que m&amp;#225;talos r&amp;#225;pido!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1039">
+        <Page social="4">[EN] Well, it's a start. I'll see if I can talk Thenuvia into putting a bounty on the arachnens. That'll bring hunters to do some of the dirty work for us.&lt;BR&gt;&lt;BR&gt;Well done!&lt;br&gt;[ES] Bueno, es un comienzo. Ver&amp;#233; si puedo convencer a Thenuvia de poner una recompensa por los arachnens. Eso traer&amp;#225; a cazadores para hacer parte del trabajo sucio por nosotros.&lt;BR&gt;&lt;BR&gt;&amp;#161;Bien hecho!</Page>
+    </Text>
+</QuestDialog>

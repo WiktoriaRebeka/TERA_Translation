@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="10">[EN] The supply carriage from Allemantheia should have been here by now&amp;#8212;I don't really know what could be keeping it.&lt;BR&gt;&lt;BR&gt;Could you report it to Captain Cerenon? We're understaffed and I can't leave my post.&lt;BR&gt;&lt;BR&gt;The captain should be at the gates to the Magistrate Residence.&lt;br&gt;[ES] El carruaje de suministros procedente de Allemantheia ya deber&amp;#237;a estar aqu&amp;#237;; la verdad no s&amp;#233; qu&amp;#233; lo pueda estar retrasando.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as informarle al capit&amp;#225;n Cerenon? Estamos cortos de personal y no puedo abandonar mi puesto.&lt;BR&gt;&lt;BR&gt;El capit&amp;#225;n deber&amp;#237;a estar en las puertas de la residencia del magistrado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="74" prevId="2" villagerId="1007">
+        <Page social="6">[EN] Yeah, we expected the carriage a while ago.&lt;BR&gt;&lt;BR&gt;Can you go to Runner's Watch and find out what's keeping it?&lt;BR&gt;&lt;BR&gt;Oh...you should know we've had some trouble with rasptusk sabertooths lately. You may need to clear some of them out to get through.&lt;br&gt;[ES] S&amp;#237;, esper&amp;#225;bamos el carruaje hace un rato.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ir a Runner's Watch y averiguar qu&amp;#233; lo est&amp;#225; retrasando?&lt;BR&gt;&lt;BR&gt;Ah... debes saber que &amp;#250;ltimamente hemos tenido problemas con los rasptusk sabertooths. Es posible que tengas que eliminar a algunos para poder pasar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1010">
+        <Page social="6">[EN] You're from Elenea?&lt;BR&gt;&lt;BR&gt;Oh, the carriage? Hmm.&lt;BR&gt;&lt;BR&gt;You should probably speak to Tarnan about that.&lt;br&gt;[ES] &amp;#191;Eres de Elenea?&lt;BR&gt;&lt;BR&gt;&amp;#191;Ah, el carruaje? Mjum.&lt;BR&gt;&lt;BR&gt;Probablemente deber&amp;#237;as hablar con Tarnan al respecto.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="236" prevId="4" villagerId="1004">
+        <Page social="6">[EN] The supply carriage?&lt;BR&gt;&lt;BR&gt;Oh dear.&lt;br&gt;[ES] &amp;#191;El carruaje de suministros?&lt;BR&gt;&lt;BR&gt;Vaya.</Page>
+    </Text>
+</QuestDialog>

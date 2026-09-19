@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1031">
+        <Page social="4">[EN] B-Big lithikumas turned b-bad. Guardians b-betrayed the fey. I've stopped two b-by myself.&lt;BR&gt;&lt;BR&gt;Can you stop more? Want to place a b-bet?&lt;br&gt;[ES] &amp;#161;Los Big lithikumas se volvieron malos! Los Guardians traicionaron al fey. Ya detuve a dos yo solito.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes detener a m&amp;#225;s? &amp;#191;Quieres hacer una apuesta?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1031">
+        <Page social="4">[EN] You did it! I'll have to b-battle four next time.&lt;BR&gt;&lt;BR&gt;You sure you did this all b-by yourself?&lt;br&gt;[ES] &amp;#161;Lo lograste! Tendr&amp;#233; que pelear contra cuatro la pr&amp;#243;xima vez.&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s seguro de que hiciste todo esto t&amp;#250; solito?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="4">[EN] I can't ignore the danger the basilisks pose any longer. Velika says no one goes in, but Chebika won't be safe until someone does.&lt;BR&gt;&lt;BR&gt;You're authorized to enter the Vale of Graves and kill {@LinkCreature:21#2#dusky basilisks}. Report back once you're finished.&lt;br&gt;[ES] Ya no puedo ignorar el peligro que representan los basilisks. Velika dice que nadie entra, pero Chebika no estar&amp;#225; a salvo hasta que alguien lo haga.&lt;BR&gt;&lt;BR&gt;Est&amp;#225;s autorizado para entrar al Vale of Graves y matar {@LinkCreature:21#2#dusky basilisks}. Inf&amp;#243;rmanos una vez que hayas terminado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1029">
+        <Page social="6">[EN] Basilisks are nothing to trifle with. I salute your courage, &lt;PCNAME&gt;!&lt;br&gt;[ES] &amp;#161;No hay que tomarse a la ligera a los basilisks! &amp;#161;Saludo tu valor, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1029">
+        <Page social="0">[EN] Chebika is under federation protection. I have my orders, as do you. Take out the basilisks.&lt;br&gt;[ES] Chebika est&amp;#225; bajo la protecci&amp;#243;n de la federaci&amp;#243;n. Tengo mis &amp;#243;rdenes, y t&amp;#250; tambi&amp;#233;n. Acaba con los basilisks.</Page>
+    </Text>
+</QuestDialog>

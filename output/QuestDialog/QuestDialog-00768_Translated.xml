@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">[EN] The witches are connected to the power of the titans by ouijic energy.&lt;BR&gt;&lt;BR&gt;Even if we can eliminate the witches, there's lots of ouijic ore around so reinforcements can always be brought to fill their places.&lt;BR&gt;&lt;BR&gt;We need someone to sever the connections from the ouijic ore at Tyrant's Overwatch and Frigid Vigil.&lt;br&gt;[ES] Las brujas est&amp;#225;n conectadas al poder de los titanes mediante energ&amp;#237;a ouijic.&lt;BR&gt;&lt;BR&gt;Incluso si podemos eliminar a las brujas, hay mucho mineral ouijic por los alrededores, por lo que siempre se pueden traer refuerzos para ocupar sus lugares.&lt;BR&gt;&lt;BR&gt;Necesitamos a alguien que corte las conexiones del mineral ouijic en Tyrant's Overwatch y Frigid Vigil.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">[EN] Great job! Now those hags can't cause any more trouble.&lt;br&gt;[ES] &amp;#161;Gran trabajo! Ahora esas brujas no podr&amp;#225;n causar m&amp;#225;s problemas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">[EN] Did you solve our problem with the ouijic ore?&lt;br&gt;[ES] &amp;#191;Resolviste nuestro problema con el mineral ouijic?</Page>
+    </Text>
+</QuestDialog>

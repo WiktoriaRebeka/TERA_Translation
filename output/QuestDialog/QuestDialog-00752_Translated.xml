@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="4">[EN] Kaidun! The name holds many meanings for we amani. Once he was a symbol of our glory and strength. Those days are long gone.&lt;BR&gt;&lt;BR&gt;Kaidun emerged from the Citadel of Torment a mad, ruthless tyrant. He conquered Mount Tyrannas&amp;#8212;and without the sacrifice of our people, he'd be right here slaughtering us all.&lt;BR&gt;&lt;BR&gt;The battle has dragged on so long, we are in dire need of supplies. We have soldiers, but no way to arm them.&lt;BR&gt;&lt;BR&gt;Bring us weapons. I don't care how. In fact, if you should pry them from the cold, dead hands of {@LinkCreature:32#1#Sihran fighters} and {@LinkCreature:32#2#tuwangi hornheads}, I'd be downright pleased.&lt;br&gt;[ES] &amp;#161;Kaidun! El nombre tiene muchos significados para nosotros los amani. Una vez fue un s&amp;#237;mbolo de nuestra gloria y fuerza. Esos d&amp;#237;as quedaron muy atr&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Kaidun emergi&amp;#243; de la Ciudadela del Tormento convertido en un tirano loco y despiadado. Conquist&amp;#243; el Monte Tyrannas, y sin el sacrificio de nuestra gente, estar&amp;#237;a aqu&amp;#237; mismo masacr&amp;#225;ndonos a todos.&lt;BR&gt;&lt;BR&gt;La batalla se ha prolongado tanto que estamos necesitados de suministros con urgencia. Tenemos soldados, pero ninguna forma de armarlos.&lt;BR&gt;&lt;BR&gt; Tr&amp;#225;enos armas. No me importa c&amp;#243;mo. De hecho, si se las arrancas de las manos fr&amp;#237;as y muertas a los {@LinkCreature:32#1#Sihran fighters} y {@LinkCreature:32#2#tuwangi hornheads}, me dar&amp;#237;a much&amp;#237;simo gusto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1019">
+        <Page social="4">[EN] Great job! Thanks to you, our new recruits will be armed with high-quality weapons.&lt;BR&gt;&lt;BR&gt;Knowing our enemies will be punished with their own weapons brings a smile to my face.&lt;br&gt;[ES] &amp;#161;Gran trabajo! Gracias a ti, nuestros nuevos reclutas estar&amp;#225;n armados con armas de alta calidad.&lt;BR&gt;&lt;BR&gt;Saber que nuestros enemigos ser&amp;#225;n castigados con sus propias armas me saca una sonrisa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1019">
+        <Page social="0">[EN] Find the {@LinkCreature:32#1#Sihran fighters} and {@LinkCreature:32#2#tuwangi hornheads} around Daunting Pass east of here. We need their weapons.&lt;br&gt;[ES] Encuentra a los {@LinkCreature:32#1#Sihran fighters} y {@LinkCreature:32#2#tuwangi hornheads} alrededor del Paso Intimidante al este de aqu&amp;#237;. Necesitamos sus armas.</Page>
+    </Text>
+</QuestDialog>

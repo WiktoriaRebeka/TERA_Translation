@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1029">
+        <Page social="4">[EN] In this part of Raga Evala, the argons were doing some sort of strange botanical research. They gathered, and apparently argonized, some faeries&amp;#8212;probably for their close connection to the natural world.&lt;BR&gt;&lt;BR&gt;You could never get me to harm a faerie creature in the real world, but in here everything's backward and upside-down.&lt;BR&gt;&lt;BR&gt;Can you obtain the horns of the argonomorph jalmaraks? Maybe I can come up with some sort of cure for argonification.&lt;br&gt;[ES] En esta parte de Raga Evala, los argons estaban haciendo alg&amp;#250;n tipo de extra&amp;#241;a investigaci&amp;#243;n bot&amp;#225;nica. Reunieron, y al parecer argonizaron, a algunas faeries, probablemente por su estrecha conexi&amp;#243;n con el mundo natural.&lt;BR&gt;&lt;BR&gt;Nunca lograr&amp;#237;as que da&amp;#241;ara a una criatura faerie en el mundo real, pero aqu&amp;#237; todo est&amp;#225; al rev&amp;#233;s y patas arriba.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes conseguir los cuernos de los argonomorph jalmaraks? Tal vez pueda encontrar alg&amp;#250;n tipo de cura para la argonificaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1029">
+        <Page social="4">[EN] This kind of research isn't easy, and it's not exactly the safest laboratory I've ever worked in.&lt;BR&gt;&lt;BR&gt;Still, the argons may be monstrous horrors from another dimension, but you have to admire their knack for botany.&lt;BR&gt;&lt;BR&gt;I wish you could stay, but while you were out, we got a message from Soulsurge Chamber. They need your help.&lt;br&gt;[ES] Este tipo de investigaci&amp;#243;n no es f&amp;#225;cil, y no es precisamente el laboratorio m&amp;#225;s seguro en el que he trabajado.&lt;BR&gt;&lt;BR&gt;Aun as&amp;#237;, los argons pueden ser horribles monstruos de otra dimensi&amp;#243;n, pero hay que admirar su talento para la bot&amp;#225;nica.&lt;BR&gt;&lt;BR&gt;Desear&amp;#237;a que pudieras quedarte, pero mientras estabas fuera, recibimos un mensaje de Soulsurge Chamber. Necesitan tu ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1029">
+        <Page social="0">[EN] Don't worry. The horns are safe to touch. Just don't eat them.&lt;br&gt;[ES] No te preocupes. Los cuernos se pueden tocar sin peligro. Solo no te los comas.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1102">
+        <Page social="4">[EN] I'm glad you're here, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The argons are corruptive to body, mind, and soul, and we're just on the edge of learning how they transform life so utterly.&lt;br&gt;[ES] Me alegra que est&amp;#233;s aqu&amp;#237;, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Los argons corrompen el cuerpo, la mente y el alma, y estamos a punto de descubrir c&amp;#243;mo transforman la vida de forma tan absoluta.</Page>
+    </Text>
+</QuestDialog>

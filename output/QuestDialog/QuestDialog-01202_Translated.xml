@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="4">[EN] {@LinkCreature:250#1013} is anxious to conduct field research, but it's too dangerous for her. Her safety, not her happiness, is my top priority.&lt;BR&gt;&lt;BR&gt;On the other hand, if you thinned out the manaathol executors and athakela east of here, perhaps she could risk a trip.&lt;BR&gt;&lt;BR&gt;What do you say?&lt;br&gt;[ES] {@LinkCreature:250#1013} est&amp;#225; ansiosa por realizar trabajo de campo, pero es demasiado peligroso para ella. Su seguridad, no su felicidad, es mi m&amp;#225;xima prioridad.&lt;BR&gt;&lt;BR&gt;Por otro lado, si diezmas a los manaathol executors y athakela al este de aqu&amp;#237;, tal vez pueda arriesgarse a un viaje.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1018">
+        <Page social="6">[EN] Shirka heard about your mission. She's pestering me to let her explore the region.&lt;BR&gt;&lt;BR&gt;Thanks to you, it might be safe enough now.&lt;br&gt;[ES] Shirka se enter&amp;#243; de tu misi&amp;#243;n. Me est&amp;#225; molestando para que la deje explorar la regi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Gracias a ti, ahora podr&amp;#237;a ser lo suficientemente seguro.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="4">[EN] Morale'd improve if people had a hot meal, preferably with some meat.&lt;BR&gt;&lt;BR&gt;Don't take this the wrong way, but we need strong spirits more than we need sharp weapons.&lt;BR&gt;&lt;BR&gt;Think you can knock off a few of the boars around Dragonfall? They'd cook up well.&lt;br&gt;[ES] La moral mejorar&amp;#237;a si la gente tuviera una comida caliente, preferiblemente con algo de carne.&lt;BR&gt;&lt;BR&gt;No te tomes esto a mal, pero necesitamos esp&amp;#237;ritus fuertes m&amp;#225;s que armas afiladas.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que puedes acabar con unos cuantos jabal&amp;#237;es alrededor de Dragonfall? Se cocinar&amp;#237;an muy bien.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="80" prevId="2" villagerId="1020">
+        <Page social="4">[EN] It may not seem heroic to a veteran like you, but giving people like this hope is sometimes the greater victory.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] Puede que no parezca heroico para un veterano como t&amp;#250;, sino que dar esperanza a gente as&amp;#237; a veces es la mayor victoria.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="80" villagerId="1020">
+        <Page social="0">[EN] If the people don't see some sign of improvement soon, I fear they'll break and abandon the town. That'd give our enemies a stronghold right outside of Kaiator.&lt;br&gt;[ES] Si la gente no ve pronto alguna se&amp;#241;al de mejora, me temo que se rendir&amp;#225;n y abandonar&amp;#225;n la ciudad. Eso le dar&amp;#237;a a nuestros enemigos un basti&amp;#243;n justo a las afueras de Kaiator.</Page>
+    </Text>
+</QuestDialog>

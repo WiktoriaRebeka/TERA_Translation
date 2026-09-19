@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="4" voiceTypeId="0">[EN] &lt;PCNAME&gt;, a word. There's a rumor going around that Thulsa has captured General Kanmur's soul.&lt;BR&gt;&lt;BR&gt;General...Kanmur. The hero of Kaiator. I believe you were there when Killian...returned his body.&lt;BR&gt;&lt;BR&gt;I don't care if it's really him or not. Find this abomination and tear it apart!&lt;br&gt;[ES] &lt;PCNAME&gt;, una palabra. Corre el rumor de que Thulsa ha capturado el alma del General Kanmur.&lt;BR&gt;&lt;BR&gt;El General... Kanmur. El h&amp;#233;roe de Kaiator. Creo que estabas ah&amp;#237; cuando Killian... devolvi&amp;#243; su cuerpo.&lt;BR&gt;&lt;BR&gt;&amp;#161;No me importa si realmente es &amp;#233;l o no! &amp;#161;Encuentra esta abominaci&amp;#243;n y destr&amp;#250;tela!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1035">
+        <Page social="4" voiceTypeId="0">[EN] Well, if it was Kanmur, his soul is free now, as it should be. If it wasn't him, it's good it never saw daylight.&lt;br&gt;[ES] Bueno, si era Kanmur, su alma ya es libre, como deber&amp;#237;a ser. Si no era &amp;#233;l, qu&amp;#233; bueno que nunca vio la luz del sol.</Page>
+    </Text>
+</QuestDialog>

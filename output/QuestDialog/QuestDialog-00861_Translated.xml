@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1015">
+        <Page social="11">[EN] The desert harts around here are beautiful&amp;#8212;particularly their horns.&lt;BR&gt;&lt;BR&gt;Unfortunately, those Tenebrara's evil tricks seem to have spread to those handsome creatures as well.&lt;BR&gt;&lt;BR&gt;I can't get rid of them because Felion might find me if I leave my bush.&lt;BR&gt;&lt;BR&gt;Since you're going to have to kill them anyway&amp;#8212;you know, because they're evil&amp;#8212;you may as well bring me their horns, too.&lt;br&gt;[ES] Los ciervos del desierto por aqu&amp;#237; son hermosos, en particular sus cuernos.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, los malvados trucos de Tenebrara parecen haberse extendido tambi&amp;#233;n a esas hermosas criaturas.&lt;BR&gt;&lt;BR&gt;No puedo deshacerme de ellos porque Felion podr&amp;#237;a encontrarme si salgo de mi arbusto.&lt;BR&gt;&lt;BR&gt;Ya que vas a tener que matarlos de todos modos &amp;#8212;ya sabes, porque son malvados&amp;#8212;, bien podr&amp;#237;as traerme sus cuernos tambi&amp;#233;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1015">
+        <Page social="16">[EN] Excellent! I have been waiting years to get my hands on these horns!&lt;BR&gt;&lt;BR&gt;Uh, I mean...tragic. Tragic that such handsome beasts had to be slain.&lt;BR&gt;&lt;BR&gt;Here, just take your cut and get out, yeah?&lt;br&gt;[ES] &amp;#161;Excelente! &amp;#161;Llevo a&amp;#241;os esperando ponerle las manos encima a estos cuernos!&lt;BR&gt;&lt;BR&gt;Eh, o sea... tr&amp;#225;gico. Es tr&amp;#225;gico que bestias tan hermosas hayan tenido que ser aniquiladas.&lt;BR&gt;&lt;BR&gt;Toma, qu&amp;#233;date con tu parte y vete, &amp;#191;s&amp;#237;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1015">
+        <Page social="0">[EN] Look, I know it's tragic to kill such beautiful animals, but it's really very important that I get those horns.&lt;BR&gt;&lt;BR&gt;Because of that horrible spell. The spell has affected all the animals, you know.&lt;br&gt;[ES] Mira, s&amp;#233; que es tr&amp;#225;gico matar animales tan hermosos, pero es muy importante que consiga esos cuernos.&lt;BR&gt;&lt;BR&gt;Debido a ese horrible hechizo. El hechizo ha afectado a todos los animales, ya sabes.</Page>
+    </Text>
+</QuestDialog>

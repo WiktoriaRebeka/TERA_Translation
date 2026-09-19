@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">[EN] There was a time I happily made starling nestcaps&amp;#8212;but then they got so popular that everyone wanted one.&lt;BR&gt;&lt;BR&gt;Problem is, making one requires a vale starling egg, and all those hat-hunters snatched up every last one.&lt;BR&gt;&lt;BR&gt;No more eggs, no more starlings. And no more hats.&lt;NEXTPAGEBUTTON&gt;"You mean an egg like this?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Hubo un tiempo en el que con mucho gusto hac&amp;#237;a gorros de nido de estornino, pero luego se volvieron tan populares que todo el mundo quer&amp;#237;a uno.&lt;BR&gt;&lt;BR&gt;El problema es que hacer uno requiere un huevo de estornino del valle, y todos esos cazadores de sombreros se llevaron hasta el &amp;#250;ltimo.&lt;BR&gt;&lt;BR&gt;No m&amp;#225;s huevos, no m&amp;#225;s estorninos. Y no m&amp;#225;s sombreros.&lt;NEXTPAGEBUTTON&gt;"You mean an egg like this?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">[EN] You've got a starling egg? Well, um, it'd be a shame to waste it...&lt;BR&gt;&lt;BR&gt;Okay, what color starling works best with your armor?&lt;NEXTPAGEBUTTON&gt;"Let's see..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Tienes un huevo de estornino? Bueno, em, ser&amp;#237;a una pena desperdiciarlo...&lt;BR&gt;&lt;BR&gt;Bien, &amp;#191;qu&amp;#233; color de estornino combina mejor con tu armadura?&lt;NEXTPAGEBUTTON&gt;"Let's see..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">[EN] The Hyderad Legacy used to import starling eggs, but that business just dried up when the starlings died out. You'll never find one.&lt;br&gt;[ES] El Hyderad Legacy sol&amp;#237;a importar huevos de estornino, pero ese negocio simplemente se vino abajo cuando los estorninos se extinguieron. Nunca encontrar&amp;#225;s uno.</Page>
+    </Text>
+</QuestDialog>

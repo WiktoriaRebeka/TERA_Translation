@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">[EN] Aviator cap? Those are so last year.&lt;BR&gt;&lt;BR&gt;It's the cyasma-infused leather, you see. Rough hide and grave hide are plentiful, but nobody makes the cyasma-infused leather. So don't even ask.&lt;NEXTPAGEBUTTON&gt;"But I already have some..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Gorra de aviador? Eso ya pas&amp;#243; de moda.&lt;BR&gt;&lt;BR&gt;Es por el cuero impregnado de cyasma, &amp;#191;ves? La piel &amp;#225;spera y la piel de tumba abundan, pero nadie hace el cuero impregnado de cyasma. As&amp;#237; que ni lo pidas.&lt;NEXTPAGEBUTTON&gt;"But I already have some..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">[EN] You actually had some cyasma-infused leather? Well, I suppose I can make one more aviator cap, if you're sure you want one.&lt;NEXTPAGEBUTTON&gt;"I am!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;De verdad ten&amp;#237;as algo de cuero impregnado de cyasma? Bueno, supongo que puedo hacer una gorra de aviador m&amp;#225;s, si est&amp;#225;s seguro de que quieres una.&lt;NEXTPAGEBUTTON&gt;"I am!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">[EN] Even the Invalesco don't trade in cyasma-infused leather anymore&amp;#8212;and if they don't have it, no one would.&lt;br&gt;[ES] Ni siquiera los Invalesco comercian ya con cuero impregnado de cyasma; y si ellos no lo tienen, nadie lo tendr&amp;#237;a.</Page>
+    </Text>
+</QuestDialog>

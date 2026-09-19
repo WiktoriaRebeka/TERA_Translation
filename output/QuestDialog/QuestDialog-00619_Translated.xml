@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1023">
+        <Page social="5">[EN] This shore is famous for its derasa clams with their magical shells. Not the same call for them in the open market as there once was, but the amani claim the shells are aphrodisiacs&amp;#8212;and that people will pay anything for a quick fix from a discreet source, if you know what I mean.&lt;BR&gt;&lt;BR&gt;I'll pay by the shell. Don't eat them, though&amp;#8212;I haven't got time for that.&lt;br&gt;[ES] Esta costa es famosa por sus almejas derasa con sus conchas m&amp;#225;gicas. Ya no tienen la misma demanda en el mercado abierto que antes, pero los amani afirman que las conchas son afrodis&amp;#237;acas, y que la gente pagar&amp;#225; lo que sea por una soluci&amp;#243;n r&amp;#225;pida de una fuente discreta, si sabes a qu&amp;#233; me refiero.&lt;BR&gt;&lt;BR&gt;Pagar&amp;#233; por concha. Sin embargo, no te las comas; no tengo tiempo para eso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1023">
+        <Page social="5">[EN] Fantastic! There are enough shells here to keep the entire Valkyon army happy. If you know what I mean.&lt;br&gt;[ES] &amp;#161;Fant&amp;#225;stico! Hay suficientes conchas aqu&amp;#237; para mantener feliz a todo el ej&amp;#233;rcito de Valkyon. Si sabes a qu&amp;#233; me refiero.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1023">
+        <Page social="0">[EN] Concentrate on the waterline. That's where the clams live.&lt;br&gt;[ES] Conc&amp;#233;ntrate en la l&amp;#237;nea de flotaci&amp;#243;n. Ah&amp;#237; es donde viven las almejas.</Page>
+    </Text>
+</QuestDialog>

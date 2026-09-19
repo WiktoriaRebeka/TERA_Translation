@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1008">
+        <Page social="5">[EN] You're the one they sent from Elenea! Maybe you can do something about the prions that burned our camp. We fled here, but it's scarcely more defensible, and the prions are at our doorstep again.&lt;BR&gt;&lt;BR&gt;Will you help us?&lt;br&gt;[ES] &amp;#161;Eres a quien enviaron desde Elenea! Tal vez puedas hacer algo con los prions que quemaron nuestro campamento. Huimos hacia aqu&amp;#237;, pero apenas es m&amp;#225;s defendible, y los prions est&amp;#225;n de nuevo a nuestra puerta.&lt;BR&gt;&lt;BR&gt;&amp;#191;Nos ayudar&amp;#225;s?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1008">
+        <Page social="5">[EN] Thank you. Soon we'll be excavating again, probably just in time to fend off some rogue god or other.&lt;br&gt;[ES] Gracias. Pronto estaremos excavando de nuevo, probablemente justo a tiempo para espantar a alg&amp;#250;n dios p&amp;#237;caro u otro.</Page>
+    </Text>
+</QuestDialog>

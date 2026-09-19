@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1034">
+        <Page social="4">[EN] We're struggling to keep the nagas from gaining enough strength to be a real threat.&lt;BR&gt;&lt;BR&gt;To that end, we're collecting naga eggs from the temple and disposing of them. Better now than after they've hatched and killed soldiers.&lt;BR&gt;&lt;BR&gt;Get in there and poach some eggs!&lt;br&gt;[ES] Estamos luchando para evitar que los nagas ganen la fuerza suficiente para ser una amenaza real.&lt;BR&gt;&lt;BR&gt;Para tal fin, estamos recolectando huevos de naga del templo y deshaci&amp;#233;ndonos de ellos. Es mejor ahora que despu&amp;#233;s de que eclosionen y maten soldados.&lt;BR&gt;&lt;BR&gt;&amp;#161;Entra ah&amp;#237; y roba algunos huevos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1034">
+        <Page social="0">[EN] Excellent. We have enough trouble without an army of nagas pouring out of the temple.&lt;br&gt;[ES] Excelente. Ya tenemos suficientes problemas sin un ej&amp;#233;rcito de nagas saliendo del templo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1034">
+        <Page social="0">[EN] We can't afford to have the nagas breeding an army in the temple. We need those eggs.&lt;br&gt;[ES] No podemos darnos el lujo de que los nagas cr&amp;#237;en un ej&amp;#233;rcito en el templo. Necesitamos esos huevos.</Page>
+    </Text>
+</QuestDialog>

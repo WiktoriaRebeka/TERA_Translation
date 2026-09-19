@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1016">
+        <Page social="5">[EN] Princess Arin's ordered more herbs to create healing draughts for the soldiers, but with all the bears around the lake, I'd be killed!&lt;BR&gt;&lt;BR&gt;If you could kill off some {@LinkCreature:23#1#bristleback bears}, I could safely complete my work.&lt;BR&gt;&lt;BR&gt;Would you help me? It's for soldiers like you, after all!&lt;br&gt;[ES] La princesa Arin ha ordenado m&amp;#225;s hierbas para crear pociones curativas para los soldados, &amp;#161;pero con todos los osos alrededor del lago, me matar&amp;#237;an!&lt;BR&gt;&lt;BR&gt;Si pudieras acabar con algunos {@LinkCreature:23#1#bristleback bears}, podr&amp;#237;a terminar mi trabajo de forma segura.&lt;BR&gt;&lt;BR&gt;&amp;#191;Me ayudar&amp;#237;as? &amp;#161;Es para soldados como t&amp;#250;, despu&amp;#233;s de todo!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1016">
+        <Page social="5">[EN] With the bears dead or run off, I can fulfill my quota on time. Thanks for your help! I know it was risky work!&lt;br&gt;[ES] Con los osos muertos o ahuyentados, puedo cumplir con mi cuota a tiempo. &amp;#161;Gracias por tu ayuda! &amp;#161;S&amp;#233; que era un trabajo arriesgado!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1001">
+        <Page social="4">[EN] Parlan asked me to help him with his research, but his request is slightly insane. He wants me, ME, to bring him some ghilliedhu roots.&lt;BR&gt;&lt;BR&gt;I can barely weed a garden, I'm not about to go toe-to-toe with a growling, walking tree. Could you go into the northern Bestial Vale and collect roots from {@LinkCreature:3#3#Mossy Ghilliedhus}?&lt;br&gt;[ES] Parlan me pidi&amp;#243; que lo ayudara con su investigaci&amp;#243;n, pero su petici&amp;#243;n es un poco demente. Quiere que yo, &amp;#161;YO!, le lleve algunas ra&amp;#237;ces de ghilliedhu.&lt;BR&gt;&lt;BR&gt;Apenas puedo desherbar un jard&amp;#237;n, no voy a enfrentarme cara a cara con un &amp;#225;rbol gru&amp;#241;&amp;#243;n que camina. &amp;#191;Podr&amp;#237;as ir al norte de Bestial Vale y recolectar ra&amp;#237;ces de {@LinkCreature:3#3#Mossy Ghilliedhus}?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1001">
+        <Page social="4">[EN] You're a lifesaver, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;This is just what Parlan wants. Would you mind taking them to him? I've some notes to finish on some other flora.&lt;br&gt;[ES] &amp;#161;Me salvas la vida, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Esto es justo lo que quiere Parlan. &amp;#191;Te importar&amp;#237;a llev&amp;#225;rselas? Tengo algunas notas que terminar sobre otra flora.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1001">
+        <Page social="0">[EN] I'm pretty sure Parlan only wants roots from {@LinkCreature:3#3#Mossy Ghilliedhus}. I doubt I could fool him with a substitute.&lt;br&gt;[ES] Estoy bastante seguro de que Parlan solo quiere ra&amp;#237;ces de {@LinkCreature:3#3#Mossy Ghilliedhus}. Dudo que pueda enga&amp;#241;arlo con un sustituto.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1009">
+        <Page social="4">[EN] &lt;PCNAME&gt;! Good to see you again. And you brought ghilliedhu roots? Excellent!&lt;BR&gt;&lt;BR&gt;It's all part of my elixir research. It's dangerous, I know, but a priest or mystic isn't always around to save the fallen. A potion that could do it would be a treasure beyond price for the Valkyon Federation!&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! Qu&amp;#233; bueno verte de nuevo. &amp;#191;Y trajiste ra&amp;#237;ces de ghilliedhu? &amp;#161;Excelente!&lt;BR&gt;&lt;BR&gt;Es parte de mi investigaci&amp;#243;n sobre el elixir. S&amp;#233; que es peligroso, pero un priest o mystic no siempre est&amp;#225; ah&amp;#237; para salvar a los ca&amp;#237;dos. &amp;#161;Una poci&amp;#243;n que pudiera hacer eso ser&amp;#237;a un tesoro sin precio para la Valkyon Federation!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1018">
+        <Page social="5">[EN] These weakling researchers don't stand a chance here without protection. That's where we come in.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:15#8#mutant castanic cutters} and {@LinkCreature:15#9#amani thumpers} are walking weapons, but I wager you could disarm them, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Show me what you're made of and bring me a few trophies.&lt;br&gt;[ES] Estos investigadores debiluchos no tienen ninguna oportunidad aqu&amp;#237; sin protecci&amp;#243;n. Ah&amp;#237; es donde entramos nosotros.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:15#8#mutant castanic cutters} y los {@LinkCreature:15#9#amani thumpers} son armas vivientes, pero apuesto a que podr&amp;#237;as desarmarlos, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt; Demu&amp;#233;strame de qu&amp;#233; est&amp;#225;s hecho y tr&amp;#225;eme unos cuantos trofeos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1018">
+        <Page social="5">[EN] What are these?&lt;BR&gt;&lt;BR&gt;They carry little piggie dolls into combat?&lt;BR&gt;&lt;BR&gt;Let's just put them down on the forms as "wild boar totems," shall we?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; es esto?&lt;BR&gt;&lt;BR&gt;&amp;#191;Llevan mu&amp;#241;ecos de cerditos a la batalla?&lt;BR&gt;&lt;BR&gt;Mejor anotemos en los formularios &quot;t&amp;#243;tems de jabal&amp;#237; salvaje&quot;, &amp;#191;te parece?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1018">
+        <Page social="0">[EN] What are you waiting for? They're only a bunch of mutants!&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; est&amp;#225;s esperando? &amp;#161;Solo son un mont&amp;#243;n de mutantes!</Page>
+    </Text>
+</QuestDialog>

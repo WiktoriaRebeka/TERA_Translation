@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="1023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="1023" prevId="0" villagerId="200028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="1023" prevId="1" villagerId="200028">
+        <Page social="0" />
+    </Text>
+    <Text id="4" huntingZoneId="1023" prevId="1" villagerId="200028">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

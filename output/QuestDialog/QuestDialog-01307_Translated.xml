@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1010">
+        <Page social="4">[EN] For eons, the faeries of Seeliewood never worried about dangers dropping in from above&amp;#8212;up until the day emberheart dracoloths broke through their protective shield. Now the fey are constantly battling illness, argons, and all the other threats to their sacred land.&lt;BR&gt;&lt;BR&gt;I don't care why the dracoloths decided to land here. I'm more concerned about how they got through.&lt;BR&gt;&lt;BR&gt;I have a theory: there must be something special about the hides of the dracoloths. Would you bring me some to examine?&lt;br&gt;[ES] Durante eones, las hadas de Seeliewood nunca se preocuparon por los peligros que ca&amp;#237;an desde arriba, hasta el d&amp;#237;a en que los emberheart dracoloths atravesaron su escudo protector. Ahora las hadas luchan constantemente contra enfermedades, argons y todas las dem&amp;#225;s amenazas a su tierra sagrada.&lt;BR&gt;&lt;BR&gt;No me importa por qu&amp;#233; los dracoloths decidieron aterrizar aqu&amp;#237;. Me preocupa m&amp;#225;s c&amp;#243;mo lograron atravesarlo.&lt;BR&gt;&lt;BR&gt;Tengo una teor&amp;#237;a: debe haber algo especial en las pieles de los dracoloths. &amp;#191;Me traer&amp;#237;as algunas para examinarlas?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1010">
+        <Page social="4">[EN] Thank you for these.&lt;BR&gt;&lt;BR&gt;This emberhide could teach me a lot about how the dracoloths circumvented the magic barriers. Or I just might get a fancy new suit out of it.&lt;BR&gt;&lt;BR&gt;Thank you in either case.&lt;br&gt;[ES] Gracias por esto.&lt;BR&gt;&lt;BR&gt;Esta piel de brasa podr&amp;#237;a ense&amp;#241;arme mucho sobre c&amp;#243;mo los dracoloths eludieron las barreras m&amp;#225;gicas. O tal vez consiga un nuevo y elegante traje con ella.&lt;BR&gt;&lt;BR&gt;Gracias de todas formas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" villagerId="1010">
+        <Page social="0">[EN] The dracoloths broke through a protective shield that Isren and the fey set up.&lt;BR&gt;&lt;BR&gt;That's worth investigating.&lt;br&gt;[ES] Los dracoloths atravesaron un escudo protector que Isren y las hadas establecieron.&lt;BR&gt;&lt;BR&gt;Eso vale la pena investigarlo.</Page>
+    </Text>
+</QuestDialog>

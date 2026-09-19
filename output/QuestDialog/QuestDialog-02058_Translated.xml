@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="1183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] {@linkcreature:183#1015#Omeros} has something for you. Speak with Omeros.&lt;br&gt;[ES] {@linkcreature:183#1015#Omeros} tiene algo para ti. Habla con Omeros.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Omeros gives &lt;PCNAME&gt; a book of the ancient Valkyries.&lt;br&gt;[ES] Omeros le da &lt;PCNAME&gt; un libro de las antiguas Valkyries.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1015">
+        <Page social="4" voiceTypeId="0">[EN] You shine just like the moonlight &lt;PCNAME&gt;.&lt;BR&gt;While you were at the hall, I grabbed a book.&lt;BR&gt;I just read it, and there's something that you should know.&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Brillas igual que la luz de la luna &lt;PCNAME&gt;.&lt;BR&gt;Mientras estabas en la sala, tom&amp;#233; un libro.&lt;BR&gt;Lo acabo de leer y hay algo que debes saber.&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">[EN] It's another tale about the ancient Valkyries.&lt;BR&gt;I know that you already read about the ancient Valkyries, but this handles another side of them.&lt;BR&gt;&lt;BR&gt;Would you like to read it?&lt;NEXTPAGEBUTTON&gt;"I'll give it a try."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Es otra historia sobre las antiguas Valkyries.&lt;BR&gt;S&amp;#233; que ya le&amp;#237;ste sobre las antiguas Valkyries, pero esta aborda otro lado de ellas.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te gustar&amp;#237;a leerlo?&lt;NEXTPAGEBUTTON&gt;"I'll give it a try."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1015">
+        <Page social="4" voiceTypeId="0">[EN] I wonder how they met.&lt;BR&gt;Since you travel around the world, I'm certain that you'll be able to find the rest of the story.&lt;BR&gt;&lt;BR&gt;If you find out what happened, please let me know.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Me pregunto c&amp;#243;mo se conocieron.&lt;BR&gt;Como viajas por todo el mundo, estoy seguro de que podr&amp;#225;s encontrar el resto de la historia.&lt;BR&gt;&lt;BR&gt;Si descubres qu&amp;#233; pas&amp;#243;, por favor h&amp;#225;zmelo saber.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

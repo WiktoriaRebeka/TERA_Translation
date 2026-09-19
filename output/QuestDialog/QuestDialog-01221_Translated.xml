@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="4">[EN] Thulsa's taken over the Vale of Spires and deployed some pylons made with argon technology. They appear to make the denizens of the vale hostile to us, but not to his forces.&lt;BR&gt;&lt;BR&gt;We must locate these pylons and find a way to destroy them. Report to Thenuvia. She'll have more details for you.&lt;br&gt;[ES] Thulsa se ha apodado de Vale of Spires y ha desplegado unos pilones hechos con tecnolog&amp;#237;a argon. Parece que hacen que los habitantes del valle se vuelvan hostiles hacia nosotros, pero no hacia sus fuerzas.&lt;BR&gt;&lt;BR&gt;Debemos localizar estos pilones y encontrar la manera de destruirlos. Pres&amp;#233;ntate ante Thenuvia. Ella tendr&amp;#225; m&amp;#225;s detalles para ti.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">[EN] Yes, these draelkar pylons are vicious things. I wish we had some! Send the argons to go fight themselves while we down a few tankards, eh?&lt;BR&gt;&lt;BR&gt;The vanguards compiled a list of pylon locations. The sooner they're destroyed, the sooner we can take the fight straight to Thulsa!&lt;br&gt;[ES] S&amp;#237;, estos pilones draelkar son cosas malvadas. &amp;#161;Ojal&amp;#225; tuvi&amp;#233;ramos algunos! &amp;#191;Hacer que los argons peleen entre s&amp;#237; mientras nos tomamos unas jarras de cerveza, eh?&lt;BR&gt;&lt;BR&gt;Las vanguardias compilaron una lista de ubicaciones de los pilones. Cuanto antes sean destruidos, &amp;#161;antes podremos llevar la pelea directamente hacia Thulsa!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="4">[EN] What a gula doesn't eat, it enslaves. And after a while, the slaves wish they'd been chosen for the butcher's block instead.&lt;BR&gt;&lt;BR&gt;If we take out enough {@LinkCreature:8#2031#gula slavers} and {@LinkCreature:8#2041#taskmasters}, we'll cut their slavery operation off at the knees!&lt;BR&gt;&lt;BR&gt;That's worth a little risk, don't you think?&lt;br&gt;[ES] Lo que un gula no se come, lo esclaviza. Y al cabo de un tiempo, los esclavos desear&amp;#237;an haber sido elegidos para el tajo del carnicero en su lugar.&lt;BR&gt;&lt;BR&gt;Si eliminamos a suficientes {@LinkCreature:8#2031#gula slavers} y {@LinkCreature:8#2041#taskmasters}, &amp;#161;cortaremos su operaci&amp;#243;n de esclavitud de ra&amp;#237;z!&lt;BR&gt;&lt;BR&gt;Eso vale un peque&amp;#241;o riesgo, &amp;#191;no crees?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="4">[EN] Nicely done, &lt;PCNAME&gt;. There's enough cruelty in the world without the gulas adding to it.&lt;br&gt;[ES] Bien hecho, &lt;PCNAME&gt;. Hay suficiente crueldad en el mundo sin que los gulas le sumen m&amp;#225;s.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1001">
+        <Page social="0">[EN] Slavery doesn't bother you? Not even a little?&lt;br&gt;[ES] &amp;#191;La esclavitud no te molesta? &amp;#191;Ni un poquito?</Page>
+    </Text>
+</QuestDialog>

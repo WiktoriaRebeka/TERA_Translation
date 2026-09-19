@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1006">
+        <Page social="1">[EN] &lt;PCCLASS&gt;, I'd like a word with you.&lt;BR&gt;&lt;BR&gt;The azureroot ghilliedhus are in bloom, and their pollen can cause rashes.&lt;BR&gt;&lt;BR&gt;Would you ask Lashinuk if he has a treatment?&lt;br&gt;[ES] &lt;PCCLASS&gt;, me gustar&amp;#237;a hablar contigo.&lt;BR&gt;&lt;BR&gt;Los azureroot ghilliedhus est&amp;#225;n floreciendo y su polen puede causar sarpullidos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Le preguntar&amp;#237;as a Lashinuk si tiene un tratamiento?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1007">
+        <Page social="1">[EN] Ah, yes. The pollen's a defense mechanism. Luckily there's a treatment.&lt;BR&gt;&lt;BR&gt;I can make a batch if you'll go to {@Rgn:30005$$Seren's Garden} and find some moon shadow plants.&lt;br&gt;[ES] Ah, s&amp;#237;. El polen es un mecanismo de defensa. Por suerte hay un tratamiento.&lt;BR&gt;&lt;BR&gt;Puedo preparar un lote si vas a {@Rgn:30005$$Seren's Garden} y encuentras algunas plantas de moon shadow.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1007">
+        <Page social="1">[EN] This is plenty.&lt;BR&gt;&lt;BR&gt;High elves make tea from the dried leaves, but if you mash them while they're still fresh, they make a soothing salve.&lt;BR&gt;&lt;BR&gt;Let me grind these up.&lt;NEXTPAGEBUTTON&gt;"Very fragrant."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Esto es suficiente.&lt;BR&gt;&lt;BR&gt;Los high elves hacen t&amp;#233; con las hojas secas, pero si las machacas mientras a&amp;#250;n est&amp;#225;n frescas, hacen un ung&amp;#252;ento relajante.&lt;BR&gt;&lt;BR&gt;D&amp;#233;jame moler esto.&lt;NEXTPAGEBUTTON&gt;"Very fragrant."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">[EN] Aren't they?&lt;BR&gt;&lt;BR&gt;Spread this on twice a day. It should reduce the rash within hours.&lt;BR&gt;&lt;BR&gt;Oh, it's for a friend of yours? I'm sure it is.&lt;br&gt;[ES] &amp;#191;A que s&amp;#237;?&lt;BR&gt;&lt;BR&gt;Unta esto dos veces al d&amp;#237;a. Deber&amp;#237;a reducir el sarpullido en cuesti&amp;#243;n de horas.&lt;BR&gt;&lt;BR&gt;Oh, &amp;#191;es para un amigo tuyo? Seguro que s&amp;#237;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1007">
+        <Page social="0">[EN] Did you find any moon shadow plants?&lt;br&gt;[ES] &amp;#191;Encontraste alguna planta de moon shadow?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="4" villagerId="1006">
+        <Page social="1">[EN] Thank the titans you're back. The itching was driving me mad.&lt;BR&gt;&lt;BR&gt;Forgive me for being brusque, but please accept my thanks...and then go away so I can slather this on.&lt;br&gt;[ES] Gracias a los titanes que has vuelto. La picaz&amp;#243;n me estaba volviendo loco.&lt;BR&gt;&lt;BR&gt;Perdona que sea brusco, pero por favor acepta mi agradecimiento... y luego vete para que pueda untarme esto.</Page>
+    </Text>
+</QuestDialog>

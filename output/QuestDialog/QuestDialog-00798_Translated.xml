@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1009">
+        <Page social="4">[EN] Blast and damnation! These cursed Junaidar mercenaries can't work for a living, so they steal our crystals!&lt;BR&gt;&lt;BR&gt;The attacks are getting worse. Shipments to Acarum are ambushed&amp;#8212;it's got to stop.&lt;BR&gt;&lt;BR&gt;Hunt down and kill {@LinkCreature:34#410#Junaidar raiders}. Find Praetor Nunahd in Bleakrock when the deed is done.&lt;br&gt;[ES] &amp;#161;Maldici&amp;#243;n y condenaci&amp;#243;n! &amp;#161;Estos malditos mercenarios Junaidar no pueden ganarse la vida honradamente, as&amp;#237; que nos roban los crystals!&lt;BR&gt;&lt;BR&gt;Los ataques est&amp;#225;n empeorando. Los cargamentos hacia Acarum sufren emboscadas; esto tiene que parar.&lt;BR&gt;&lt;BR&gt;Caza y mata a los {@LinkCreature:34#410#Junaidar raiders}. Busca al Pretor Nunahd en Bleakrock cuando hayas terminado la tarea.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1004">
+        <Page social="4">[EN] So, ya gutted those Junaidar scum? Fine work. Could use a lot more help like that.&lt;BR&gt;&lt;BR&gt;See, this region's rich in eldritch shards. Intriguing crystals, extremely useful for magical shields. Allemantheia pays a premium for them, as well they should!&lt;BR&gt;&lt;BR&gt;I've got to get back to work. Thanks again!&lt;br&gt;[ES] &amp;#191;As&amp;#237; que destripaste a esa escoria Junaidar? Buen trabajo. Nos vendr&amp;#237;a bien mucha m&amp;#225;s ayuda como esa.&lt;BR&gt;&lt;BR&gt;Mira, esta regi&amp;#243;n es rica en eldritch shards. Intriguing crystals, sumamente &amp;#250;tiles para escudos m&amp;#225;gicos. &amp;#161;Allemantheia paga muy bien por ellos, y con raz&amp;#243;n!&lt;BR&gt;&lt;BR&gt;Tengo que volver al trabajo. &amp;#161;Gracias de nuevo!</Page>
+    </Text>
+</QuestDialog>

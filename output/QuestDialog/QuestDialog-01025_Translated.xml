@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="4">[EN] Okay, here's my plan. If there were fewer {@LinkCreature:42#1100#naga guardians}, it would be a lot easier to reach the naga leaders.&lt;BR&gt;&lt;BR&gt;I didn't promise it would be a big, complicated plan, did I? Just trust me. Get rid of as many as you can, and take out whoever they're guarding for good measure.&lt;br&gt;[ES] Bien, este es mi plan. Si hubiera menos {@LinkCreature:42#1100#naga guardians}, ser&amp;#237;a mucho m&amp;#225;s f&amp;#225;cil llegar a los l&amp;#237;deres naga.&lt;BR&gt;&lt;BR&gt;No promet&amp;#237; que fuera un plan grande y complicado, &amp;#191;verdad? Solo conf&amp;#237;a en m&amp;#237;. Deshazte de tantos como puedas y elimina a quien sea que est&amp;#233;n protegiendo para asegurar el resultado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1036">
+        <Page social="5">[EN] Thanks, &lt;PCNAME&gt;. I know that couldn't have been easy.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. S&amp;#233; que no debi&amp;#243; ser f&amp;#225;cil.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1036">
+        <Page social="0">[EN] Just kill them one at a time, &lt;PCNAME&gt;. What's bad for {@LinkCreature:42#1100#naga guardians} is good for us.&lt;br&gt;[ES] Simplemente m&amp;#225;talos uno por uno, &lt;PCNAME&gt;. Lo que es malo para los {@LinkCreature:42#1100#naga guardians} es bueno para nosotros.</Page>
+    </Text>
+</QuestDialog>

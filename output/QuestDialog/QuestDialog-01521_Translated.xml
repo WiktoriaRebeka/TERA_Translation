@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1200">
+        <Page social="0">[EN] An attempt to repair Intrepid's engine failed, but the mission goes on.&lt;br&gt;[ES] Un intento de reparar el motor de Intrepid fall&amp;#243;, pero la misi&amp;#243;n contin&amp;#250;a.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1200">
+        <Page social="0">[EN] I found one piece of Intrepid's engine assembly. I'm not sure, but we might be able to repair it.&lt;BR&gt;&lt;BR&gt;Will you help me find the pieces?&lt;BR&gt;&lt;BR&gt;Oh, and watch out! There are a lot of angry birds around here.&lt;br&gt;[ES] Encontr&amp;#233; una pieza del ensamblaje del motor de Intrepid. No estoy seguro, pero tal vez podamos repararlo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Me ayudar&amp;#225;s a encontrar las piezas?&lt;BR&gt;&lt;BR&gt;&amp;#161;Ah, y ten cuidado! Hay muchos p&amp;#225;jaros enojados por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1200">
+        <Page social="4">[EN] Now, let's find the engine. From the scatter pattern, it must be farther up this hill.&lt;BR&gt;&lt;BR&gt;You'll need to fight through the Parthians up there, but I'm not scared. You'll be fine!&lt;br&gt;[ES] Ahora, busquemos el motor. Por el patr&amp;#243;n de dispersi&amp;#243;n, debe estar m&amp;#225;s arriba en esta colina.&lt;BR&gt;&lt;BR&gt;Tendr&amp;#225;s que abrirte paso luchando contra los Parthians all&amp;#237; arriba, &amp;#161;pero no tengo miedo. Estar&amp;#225;s bien!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" villagerId="1200">
+        <Page social="0">[EN] Nope. It's not safe yet.&lt;br&gt;[ES] Nones. Todav&amp;#237;a no es seguro.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="3" villagerId="1401">
+        <Page social="4">[EN] I'm not an engineer, but it looks salvageable.&lt;BR&gt;&lt;BR&gt;What do you say?&lt;NEXTPAGEBUTTON&gt;"Unfortunately not."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No soy ingeniero, pero parece recuperable.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices?&lt;NEXTPAGEBUTTON&gt;"Unfortunately not."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Then let us leave this foul encampment.&lt;BR&gt;&lt;BR&gt;Beyond those bloodclaw wolves, Rhodos waits for us. I will see you there. Stay safe!&lt;br&gt;[ES] Entonces salgamos de este asqueroso campamento.&lt;BR&gt;&lt;BR&gt;M&amp;#225;s all&amp;#225; de esos bloodclaw wolves, Rhodos nos espera. &amp;#161;Te ver&amp;#233; all&amp;#237;. &amp;#161;Mantente a salvo!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1406">
+        <Page social="4">[EN] Glad to see you again.&lt;BR&gt;&lt;BR&gt;How is that huge thing you used to come here?&lt;NEXTPAGEBUTTON&gt;"Damaged beyond repair."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Qu&amp;#233; bueno verte de nuevo.&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo est&amp;#225; esa cosa enorme que sol&amp;#237;as usar para venir aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Damaged beyond repair."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] A pity. Such a device might have given us an edge in battle.&lt;br&gt;[ES] Una l&amp;#225;stima. Un dispositivo as&amp;#237; podr&amp;#237;a habernos dado una ventaja en la batalla.</Page>
+    </Text>
+</QuestDialog>

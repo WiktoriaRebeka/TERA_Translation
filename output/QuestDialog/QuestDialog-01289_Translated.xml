@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1028">
+        <Page social="4">[EN] How did the argons corrupt our people with their very presence?&lt;BR&gt;&lt;BR&gt;We can fight invaders that take people. But how can we fight an ill wind?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, won't you let Eltarun know you're here to help?&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo corrompieron los argons a nuestra gente con su sola presencia?&lt;BR&gt;&lt;BR&gt;Podemos luchar contra invasores que se llevan a la gente. Pero &amp;#191;c&amp;#243;mo podemos luchar contra un viento maligno?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#191;no le har&amp;#225;s saber a Eltarun que est&amp;#225;s aqu&amp;#237; para ayudar?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1011">
+        <Page social="4">[EN] Salutations, &lt;PCCLASS:lcase&gt;! Auspicious timing.&lt;BR&gt;&lt;BR&gt;Contaminated fey abound in this wood, but we can't tell if some are truly corrupted or just naturally violent.&lt;BR&gt;&lt;BR&gt;To the north, feral popori wander the wood. Not the civilized kind in your federation or my Mysterium, but ferocious creatures who may or may not be tainted.&lt;BR&gt;&lt;BR&gt;I need you to collect some of their blood, so I might analyze their condition.&lt;br&gt;[ES] &amp;#161;Saludos, &lt;PCCLASS:lcase&gt;! Qu&amp;#233; momento tan oportuno.&lt;BR&gt;&lt;BR&gt;Abundan los fey contaminados en este bosque, pero no podemos saber si algunos est&amp;#225;n verdaderamente corrompidos o solo son naturalmente violentos.&lt;BR&gt;&lt;BR&gt;Hacia el norte, poporis salvajes deambulan por el bosque. No del tipo civilizado de tu federaci&amp;#243;n o de mi Mysterium, sino criaturas feroces que pueden estar contaminadas o no.&lt;BR&gt;&lt;BR&gt;Necesito que recolectes algo de su sangre para poder analizar su condici&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" prevId="3" villagerId="1011">
+        <Page social="4">[EN] It's conclusive. They contain the same contaminant we've discovered in the other fey.&lt;BR&gt;&lt;BR&gt;I fear no one in Seeliewood will be able to escape this sinister affliction. Curiously, though, it appears particularly virulent with the fey.&lt;br&gt;[ES] Es concluyente. Contienen el mismo contaminante que hemos descubierto en los dem&amp;#225;s fey.&lt;BR&gt;&lt;BR&gt;Me temo que nadie en Seeliewood podr&amp;#225; escapar de esta siniestra aflicci&amp;#243;n. Curiosamente, sin embargo, parece ser particularmente virulenta con los fey.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="81" villagerId="1011">
+        <Page social="0">[EN] The quarry's to the north.&lt;BR&gt;&lt;BR&gt;My research is important, and I don't like to be kept waiting.&lt;br&gt;[ES] La presa est&amp;#225; al norte.&lt;BR&gt;&lt;BR&gt;Mi investigaci&amp;#243;n es importante y no me gusta que me hagan esperar.</Page>
+    </Text>
+</QuestDialog>

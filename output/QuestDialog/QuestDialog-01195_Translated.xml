@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="4">[EN] It's good to see you again, &lt;PCNAME&gt;. {@LinkCreature:250#1013}'s here, too.&lt;BR&gt;&lt;BR&gt;She's still working on her research. In fact, I heard her say that she needs some help. Why don't you talk to her?&lt;br&gt;[ES] Qu&amp;#233; bueno verte otra vez, &lt;PCNAME&gt;. {@LinkCreature:250#1013} tambi&amp;#233;n est&amp;#225; aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Ella sigue trabajando en su investigaci&amp;#243;n. De hecho, le escuch&amp;#233; decir que necesita ayuda. &amp;#191;Por qu&amp;#233; no hablas con ella?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1013">
+        <Page social="6">[EN] Your help proved invaluable last time, &lt;PCNAME&gt;. Are you interested in a repeat performance?&lt;BR&gt;&lt;BR&gt;See those massive...I'm going to say roots? They're of argon manufacture, obviously, but I must learn their purpose.&lt;NEXTPAGEBUTTON&gt;"What do you need?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Tu ayuda result&amp;#243; invaluable la &amp;#250;ltima vez, &lt;PCNAME&gt;. &amp;#191;Te interesa repetir la actuaci&amp;#243;n?&lt;BR&gt;&amp;#191;Ves esas enormes... iba a decir ra&amp;#237;ces? Son de manufactura argon, obviamente, pero debo averiguar su prop&amp;#243;sito.&lt;NEXTPAGEBUTTON&gt;"What do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Think you can grab me a sample?&lt;br&gt;[ES] &amp;#191;Crees que puedes conseguirme una muestra?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1013">
+        <Page social="6">[EN] As I feared, this alloy is infused with copious amounts of iteris shards.&lt;BR&gt;&lt;BR&gt;No wonder we can't collect enough shards&amp;#8212;the argons are using them up!&lt;br&gt;[ES] Como tem&amp;#237;a, esta aleaci&amp;#243;n est&amp;#225; infundida con abundantes fragmentos de iteris.&lt;BR&gt;&lt;BR&gt;&amp;#161;Con raz&amp;#243;n no podemos recolectar suficientes fragmentos; los argons los est&amp;#225;n usando!</Page>
+    </Text>
+</QuestDialog>

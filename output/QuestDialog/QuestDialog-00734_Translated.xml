@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="4">[EN] The naga pirates keep invading the garrison. It's infuriating&amp;#8212;as if they don't even care we're here and we're armed!&lt;BR&gt;&lt;BR&gt;One good counterstrike ought to show them. Kill some {@LinkCreature:31#20#naga deathreapers} and confiscate their helmets. We'll hang them on the gate. See if we can't freeze their cold blood a little more.&lt;br&gt;[ES] Los naga pirates siguen invadiendo la guarnici&amp;#243;n. &amp;#161;Es exasperante, como si ni siquiera les importara que estemos aqu&amp;#237; y vayamos armados!&lt;BR&gt;&lt;BR&gt;Un buen contraataque deber&amp;#237;a ense&amp;#241;arles. Mata a algunos {@LinkCreature:31#20#naga deathreapers} y confisca sus cascos. Los colgaremos en la puerta. A ver si as&amp;#237; congelamos un poco m&amp;#225;s su fr&amp;#237;a sangre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1013">
+        <Page social="4">[EN] It warms me up just to think of the fear these helmets will instill in those wretched nagas. Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] Me calienta solo pensar en el miedo que estos cascos infundir&amp;#225;n en esos miserables nagas. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1013">
+        <Page social="0">[EN] Do you have those {@LinkCreature:31#20#naga deathreaper} helmets?&lt;br&gt;[ES] &amp;#191;Tienes esos cascos de {@LinkCreature:31#20#naga deathreaper}?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1704">
+        <Page social="4">[EN] Profit is more than earning revenue. Cutting expenses is just as important.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, we need to eliminate some underperforming assets. Specifically, the vulcans in Azarel's Labyrinth.&lt;br&gt;[ES] Las ganancias son m&amp;#225;s que generar ingresos. Reducir gastos es igual de importante.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, necesitamos eliminar algunos activos de bajo rendimiento. Espec&amp;#237;ficamente, los vulcans en Azarel's Labyrinth.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1704">
+        <Page social="4">[EN] Our organization demands a high level of performance from each asset. So far, you're a bright spot on the balance sheet, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Here's a little "performance bonus" from Jax.&lt;br&gt;[ES] Nuestra organizaci&amp;#243;n exige un alto nivel de rendimiento de cada activo. Hasta ahora, eres un punto brillante en el balance, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes un peque&amp;#241;o &quot;bono de rendimiento&quot; de parte de Jax.</Page>
+    </Text>
+</QuestDialog>

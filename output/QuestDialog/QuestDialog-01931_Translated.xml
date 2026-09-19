@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="4">[EN] If we're going to stop the nexus attacks, we must learn what makes them possible. We've seen small boxes&amp;#8212;teinocrons&amp;#8212;carried by the intruders.&lt;BR&gt;&lt;BR&gt;Kill nexus creatures and recover their teinocrons. We must have answers and those represent our best chance.&lt;br&gt;[ES] Si vamos a detener los ataques del nexus, debemos descubrir qu&amp;#233; los hace posibles. Hemos visto peque&amp;#241;as cajas, teinocrones, transportadas por los intrusos.&lt;BR&gt;&lt;BR&gt;Mata criaturas del nexus y recupera sus teinocrones. Debemos tener respuestas y esos representan nuestra mejor oportunidad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1002">
+        <Page social="4">[EN] Oh, these will do. Yes, indeed.&lt;BR&gt;&lt;BR&gt;Please accept my thanks. You're a credit to the Valkyon Federation, &lt;PCNAME&gt;.&lt;br&gt;[ES] Oh, estos servir&amp;#225;n. S&amp;#237;, de verdad.&lt;BR&gt;&lt;BR&gt;Por favor, acepta mi agradecimiento. Eres un orgullo para la Valkyon Federation, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1002">
+        <Page social="0">[EN] We must learn the true function of the nexus teinocrons. Please recover some for us.&lt;br&gt;[ES] Debemos conocer la verdadera funci&amp;#243;n de los teinocrones del nexus. Por favor, recupera algunos para nosotros.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7006">
+        <Page social="0">[EN] You helped Millia work on a Farmer's Almanac.&lt;br&gt;[ES] Ayudaste a Millia a trabajar en un almanaque de agricultores.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7006">
+        <Page social="4">[EN] Freeholds is famous for its specialty produce. I would like to make a Farmer's Almanac to sell, but I am just too busy.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, would you help me with it? I'll credit you as a contributor. Think about it. This idea could catch on!&lt;NEXTPAGEBUTTON&gt;"Make me "co-author," and I'm in."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Freeholds es famoso por sus productos especiales. Me gustar&amp;#237;a hacer un almanaque de agricultores para venderlo, pero estoy demasiado ocupado.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#191;me ayudar&amp;#237;as con ello? Te dar&amp;#233; cr&amp;#233;dito como colaborador. Pi&amp;#233;nsalo. &amp;#161;Esta idea podr&amp;#237;a triunfar!&lt;NEXTPAGEBUTTON&gt;"Make me "co-author," and I'm in."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] It's a deal. Here's what I've got so far. Just try to fill in the missing parts.&lt;BR&gt;&lt;BR&gt;The general structure is already complete, so all you really need to do is collect some fruits and vegetables and sketch them in on the proper pages.&lt;BR&gt;&lt;BR&gt;Thank you so much!&lt;br&gt;[ES] Es un trato. Esto es lo que tengo hasta ahora. Solo intenta rellenar las partes que faltan.&lt;BR&gt;&lt;BR&gt;La estructura general ya est&amp;#225; completa, as&amp;#237; que lo &amp;#250;nico que tienes que hacer es recolectar algunas frutas y verduras y dibujarlas en las p&amp;#225;ginas correctas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Much&amp;#237;simas gracias!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7006">
+        <Page social="4">[EN] How's it going with the almanac? Let's see what you've got so far...&lt;BR&gt;&lt;BR&gt;You finished it! That's great! Thank you so much. &lt;PCNAME&gt;, I'll make sure you get listed as co-author.&lt;BR&gt;&lt;BR&gt;In the meantime, here: Let me give you this as a token of my appreciation. You should find it very useful.&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo va el almanaque? Veamos qu&amp;#233; tienes hasta ahora...&lt;BR&gt;&lt;BR&gt;&amp;#161;Lo terminaste! &amp;#161;Qu&amp;#233; bien! Much&amp;#237;simas gracias. &lt;PCNAME&gt;, me asegurar&amp;#233; de que aparezcas como coautor.&lt;BR&gt;&lt;BR&gt;Mientras tanto, toma: d&amp;#233;jame darte esto como muestra de mi agradecimiento. Te ser&amp;#225; muy &amp;#250;til.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="7006">
+        <Page social="0">[EN] &lt;PCNAME&gt;, any progress on the almanac?&lt;br&gt;[ES] &lt;PCNAME&gt;, &amp;#191;alg&amp;#250;n progreso con el almanaque?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1012">
+        <Page social="4">[EN] The sikandaris, for reasons we might never understand, accepted Killian's help to awaken Sikander from his long slumber.&lt;BR&gt;&lt;BR&gt;Good intentions or not, we can't let Killian's vicious machinations shape Sikander's rebirth. Get in there and kill the sikandari lifebringers and their minions as they prepare for the final rituals.&lt;br&gt;[ES] Los sikandaris, por razones que quiz&amp;#225;s nunca entendamos, aceptaron la ayuda de Killian para despertar a Sikander de su largo sue&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Con buenas intenciones o no, no podemos permitir que las maquinaciones viciosas de Killian den forma al renacimiento de Sikander. Entra all&amp;#237; y mata a los sikandari lifebringers y a sus esbirros mientras se preparan para los rituales finales.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1012">
+        <Page social="4">[EN] No matter what Killian promised them, Sikander's return was never his goal. We've served the sikandaris' purpose better than they have.&lt;BR&gt;&lt;BR&gt;Perhaps, in time, they'll come to realize that.&lt;br&gt;[ES] No importa lo que Killian les prometi&amp;#243;, el regreso de Sikander nunca fue su objetivo. Hemos servido al prop&amp;#243;sito de los sikandaris mejor de lo que ellos lo han hecho.&lt;BR&gt;&lt;BR&gt;Tal vez, con el tiempo, se den cuenta de eso.</Page>
+    </Text>
+</QuestDialog>

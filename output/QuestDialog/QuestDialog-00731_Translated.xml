@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="4">[EN] The {@LinkCreature:31#22#frosthowl sirens} rampaging around the coast have stirred up quite a chilly breeze with their cries.&lt;BR&gt;&lt;BR&gt;If the temperature around here gets any colder, the explorers out on the shipwrecks will freeze to death! Killing the frosthowl sirens won't warm things up, but it should keep it from getting any colder.&lt;BR&gt;&lt;BR&gt;After you're done, could you check on Tantan at the camp on the south of Frostclaw Lake? Make sure his explorers are all right.&lt;br&gt;[ES] Las {@LinkCreature:31#22#frosthowl sirens} que arrasan la costa han provocado una brisa bastante helada con sus gritos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Si la temperatura por aqu&amp;#237; baja a&amp;#250;n m&amp;#225;s, los exploradores en los naufragios van a morir congelados! Matar a las frosthowl sirens no calentar&amp;#225; las cosas, pero al menos evitar&amp;#225; que haga m&amp;#225;s fr&amp;#237;o.&lt;BR&gt;&lt;BR&gt;Cuando termines, &amp;#191;podr&amp;#237;as ver c&amp;#243;mo est&amp;#225; Tantan en el campamento al sur del Frostclaw Lake? Aseg&amp;#250;rate de que sus exploradores est&amp;#233;n bien.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1025">
+        <Page social="4">[EN] Oh? Who are you? Have you come to learn how to explore?&lt;BR&gt;&lt;BR&gt;Oh. Halwyn sent you. We're fine, me and Goratong. Better now that those frosthowl sirens aren't so much trouble. Thanks for checking.&lt;NEXTPAGEBUTTON&gt;"Okay. See you later."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Oh? &amp;#191;Qui&amp;#233;n eres? &amp;#191;Has venido a aprender a explorar?&lt;BR&gt;&lt;BR&gt;Oh. Halwyn te envi&amp;#243;. Estamos bien, Goratong y yo. Mejor ahora que esas frosthowl sirens ya no dan tantos problemas. Gracias por revisar.&lt;NEXTPAGEBUTTON&gt;"Okay. See you later."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Hey, wait! How would you like to make some money?&lt;br&gt;[ES] &amp;#161;Oye, espera! &amp;#191;Te gustar&amp;#237;a ganar un poco de dinero?</Page>
+    </Text>
+</QuestDialog>

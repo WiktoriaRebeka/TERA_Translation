@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] [Message]&lt;BR&gt;&lt;BR&gt;Aheaf found something important. Please come to me when you see this message.&lt;BR&gt;&lt;BR&gt;- Vogzu&lt;br&gt;[ES] [Message]&lt;BR&gt;&lt;BR&gt;Aheaf encontr&amp;#243; algo importante. Por favor, ven a verme cuando veas este mensaje.&lt;BR&gt;&lt;BR&gt;- Vogzu</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Vogzu sent an urgent message. It seems to be something important.&lt;BR&gt;&lt;BR&gt;If you complete the quest, you can start &lt;font color='#FF3333'&gt;[Dungeon - 463] Hidden Enemy&lt;/font&gt;. Afterwards, the quest &lt;font color='#7F00FF'&gt;[Important] Kaia&amp;#8217;s Anvil&lt;/font&gt; will be activated automatically.&lt;br&gt;[ES] Vogzu envi&amp;#243; un mensaje urgente. Parece ser algo importante.&lt;BR&gt;&lt;BR&gt;Si completas la misi&amp;#243;n, puedes comenzar &lt;font color='#FF3333'&gt;[Dungeon - 463] Hidden Enemy&lt;/font&gt;. Despu&amp;#233;s, la misi&amp;#243;n &lt;font color='#7F00FF'&gt;[Important] Kaia&amp;#8217;s Anvil&lt;/font&gt; se activar&amp;#225; autom&amp;#225;ticamente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="4" voiceTypeId="0">[EN] I was waiting for you &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Aheaf found out that there's an unknown force at a quarentine area in the fortress.&lt;BR&gt;&lt;BR&gt;I was hoping you would go and take a look what they are.&lt;br&gt;[ES] Te estaba esperando, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Aheaf descubri&amp;#243; que hay una fuerza desconocida en un &amp;#225;rea de cuarentena de la fortaleza.&lt;BR&gt;&lt;BR&gt;Esperaba que fueras a echar un vistazo para ver qu&amp;#233; son.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="4">[EN] There are so many hired hands out here...&lt;BR&gt;&lt;BR&gt;I've heard the emblems the {@LinkCreature:40#27#Crestarath mercenaries} wear look like skulls. Will you get some for me? I'd like to see for myself.&lt;br&gt;[ES] Hay tantos empleados por aqu&amp;#237;...&lt;BR&gt;&lt;BR&gt;He o&amp;#237;do que los emblemas que llevan los {@LinkCreature:40#27#Crestarath mercenaries} parecen calaveras. &amp;#191;Me conseguir&amp;#225;s algunos? Me gustar&amp;#237;a verlo por m&amp;#237; mismo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1002">
+        <Page social="4">[EN] I was afraid of that. These match crests given by the Legion of Thulsa. Not good news at all.&lt;BR&gt;&lt;BR&gt;Not to mention, they're creepy...&lt;br&gt;[ES] Me tem&amp;#237;a eso. Estos coinciden con los emblemas otorgados por la Legion of Thulsa. No son buenas noticias en absoluto.&lt;BR&gt;&lt;BR&gt;Sin mencionar que son espeluznantes...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1002">
+        <Page social="0">[EN] I'm still waiting for those skull emblems the {@LinkCreature:40#27#mercenaries} wear. Have you found any?&lt;br&gt;[ES] Sigo esperando los emblemas de calavera que llevan los {@LinkCreature:40#27#mercenaries}. &amp;#191;Has encontrado alguno?</Page>
+    </Text>
+</QuestDialog>

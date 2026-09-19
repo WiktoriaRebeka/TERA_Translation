@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="5">[EN] Have a job for you, soldier. We lose supplies to the Heavens Fall cultists. Every mouthful they eat strengthens them and weakens us! Need you to get back all you can from the {@LinkCreature:17#300551#barrelhead harvesters} east of here. Distasteful, but we have to stop these locusts to survive!&lt;br&gt;[ES] Tengo un trabajo para ti, soldado. Perdemos suministros a manos de los cultistas de Heavens Fall. &amp;#161;Cada bocado que comen los fortalece a ellos y nos debilita a nosotros! Necesito que recuperes todo lo que puedas de los {@LinkCreature:17#300551#barrelhead harvesters} al este de aqu&amp;#237;. Es desagradable, &amp;#161;pero tenemos que detener a estas langostas para sobrevivir!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1023">
+        <Page social="5">[EN] Well done, soldier. Don't forget this lesson: hungry enemies are desperate enemies, and desperation causes mistakes. Just have to keep the pressure on.&lt;br&gt;[ES] Bien hecho, soldado. No olvides esta lecci&amp;#243;n: los enemigos hambrientos son enemigos desesperados, y la desesperaci&amp;#243;n causa errores. Solo hay que mantener la presi&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1023">
+        <Page social="0">[EN] Know it's not pleasant, but each cultist you kill is a double victory for us. Done talking.&lt;br&gt;[ES] S&amp;#233; que no es agradable, pero cada cultista que matas es una doble victoria para nosotros. Termin&amp;#233; de hablar.</Page>
+    </Text>
+</QuestDialog>

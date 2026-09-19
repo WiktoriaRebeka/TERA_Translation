@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1014">
+        <Page social="4">[EN] Those big mushrooms you see release contaminating spores&amp;#8212;part of the argons' contamination plan.&lt;BR&gt;&lt;BR&gt;They're remarkably tough, but explosives work quite well, so I'll give you some.&lt;BR&gt;&lt;BR&gt;When you run out of bombs, stop by {@Rgn:47008$$Eastwatch} and see if they need anything.&lt;br&gt;[ES] Esos grandes hongos que ves liberan esporas contaminantes, parte del plan de contaminaci&amp;#243;n de los argones.&lt;BR&gt;&lt;BR&gt;Son sumamente resistentes, pero los explosivos funcionan bastante bien, as&amp;#237; que te dar&amp;#233; algunos.&lt;BR&gt;&lt;BR&gt;Cuando te quedes sin bombas, p&amp;#225;sate por {@Rgn:47008$$Eastwatch} y mira si necesitan algo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1018">
+        <Page social="4">[EN] They say the argons are gone, but this place is so crowded with their leavings that we haven't been able to plant the saplings the faeries sent us from Seeliewood. It's all we can do to maintain a close perimeter.&lt;br&gt;[ES] Dicen que los argones se han ido, pero este lugar est&amp;#225; tan lleno de sus restos que no hemos podido plantar los brotes que las hadas nos enviaron desde Seeliewood. Todo lo que podemos hacer es mantener un per&amp;#237;metro cercano.</Page>
+    </Text>
+</QuestDialog>

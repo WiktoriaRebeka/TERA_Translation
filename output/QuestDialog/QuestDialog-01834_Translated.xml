@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="827" prevId="0" villagerId="105">
+        <Page social="4" voiceTypeId="0">[EN] It got dark...I don't think Tiaran feels good.&lt;BR&gt;&lt;BR&gt;I'm scared, &lt;PCNAME&gt;.&lt;br&gt;[ES] Se puso oscuro... No creo que Tiaran se sienta bien.&lt;BR&gt;&lt;BR&gt;Tengo miedo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] After playing with Anya, &lt;PCNAME&gt; and the young girl encountered a small horde of agitated ghilliedhus.&lt;BR&gt;&lt;BR&gt;The ghilliedhus were attempting to feed off of Tiaran's roots, until &lt;PCNAME&gt; stopped them.&lt;br&gt;[ES] Tras jugar con Anya, &lt;PCNAME&gt; y la joven se encontraron con una peque&amp;#241;a horda de ghilliedhus alterados.&lt;BR&gt;&lt;BR&gt;Los ghilliedhus intentaban alimentarse de las ra&amp;#237;ces de Tiaran, hasta que &lt;PCNAME&gt; los detuvo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="827" prevId="1" villagerId="105">
+        <Page social="4" voiceTypeId="0">[EN] Oh, no! Ghilliedhus!&lt;BR&gt;&lt;BR&gt;They're mean! They steal the sap from Tiaran's roots and it makes her sick!&lt;BR&gt;&lt;BR&gt;You have to stop them, &lt;PCNAME&gt;! I'll go get Uncle Emun!&lt;NEXTPAGEBUTTON&gt;"I'll stop them, Anya. You be careful!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Oh, no! &amp;#161;Ghilliedhus!&lt;BR&gt;&lt;BR&gt;&amp;#161;Son malos! &amp;#161;Le roban la savia a las ra&amp;#237;ces de Tiaran y la enferman!&lt;BR&gt;&lt;BR&gt;&amp;#161;Tienes que detenerlos, &lt;BR&gt;! &amp;#161;Ir&amp;#233; a buscar al t&amp;#237;o Emun!&lt;NEXTPAGEBUTTON&gt;"I'll stop them, Anya. You be careful!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="827" prevId="3" villagerId="222">
+        <Page social="4" voiceTypeId="0">[EN] You just defeated three ghilliedhus pretty much by yourself, &lt;PCNAME&gt;! If I hadn't seen it, I wouldn't have believed it!&lt;BR&gt;&lt;BR&gt;I wonder what they're doing here? We've never had ghilliedhus out on the island before...&lt;NEXTPAGEBUTTON&gt;"How did they get here?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Acabas de derrotar a tres ghilliedhus casi t&amp;#250; solo, &lt;PCNAME&gt;! Si no lo hubiera visto, &amp;#161;no lo habr&amp;#237;a cre&amp;#237;do!&lt;BR&gt;&lt;BR&gt;Me pregunto qu&amp;#233; estar&amp;#225;n haciendo aqu&amp;#237;. Nunca antes hab&amp;#237;amos tenido ghilliedhus en la isla...&lt;NEXTPAGEBUTTON&gt;"How did they get here?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

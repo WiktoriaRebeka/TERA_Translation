@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="0" voiceTypeId="0">[EN] Cultists in that cave, huh? Fascinating stuff.&lt;BR&gt;&lt;BR&gt;Listen, though, they carry tokens with onyx set into them. Onyx is pretty valuable.&lt;BR&gt;&lt;BR&gt;Bring me those tokens, and I'll gladly pay you for them.&lt;br&gt;[ES] &amp;#191;Cultistas en esa cueva, eh? Cosa fascinante.&lt;BR&gt;&lt;BR&gt;Pero escucha, llevan fichas con &amp;#243;nix incrustado. El &amp;#243;nix es bastante valioso.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme esas fichas y con gusto te pagar&amp;#233; por ellas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1022">
+        <Page social="5" voiceTypeId="0">[EN] Eh, they're smaller than I'd hoped.&lt;BR&gt;&lt;BR&gt;Still, you did the job, and I appreciate that. Take this, and thanks.&lt;br&gt;[ES] Eh, son m&amp;#225;s peque&amp;#241;os de lo que esperaba.&lt;BR&gt;&lt;BR&gt;A&amp;#250;n as&amp;#237;, hiciste el trabajo y te lo agradezco. Toma esto y gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1022">
+        <Page social="0">[EN] I'll pay for them. I will.&lt;BR&gt;&lt;BR&gt;Go on, now.&lt;br&gt;[ES] Pagar&amp;#233; por ellos. Lo har&amp;#233;.&lt;BR&gt;&lt;BR&gt;Anda ahora.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="4">[EN] Loxetrius awaits you at Vanguard Post Alpha. That's where the real trouble is: underground. So naturally, that's where we're sending our favorite kind of "trouble:" you.&lt;BR&gt;&lt;BR&gt;Don't keep him waiting.&lt;br&gt;[ES] Loxetrius te espera en Vanguard Post Alpha. Ah&amp;#237; es donde est&amp;#225; el verdadero problema: bajo tierra. As&amp;#237; que, naturalmente, ah&amp;#237; es a donde enviamos a nuestro tipo de &quot;problema&quot; favorito: t&amp;#250;.&lt;BR&gt;&lt;BR&gt;No lo hagas esperar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1022">
+        <Page social="4">[EN] I hope you're ready for some real fighting, &lt;PCNAME&gt;. Gory stuff doesn't make you retch, right?&lt;br&gt;[ES] Espero que est&amp;#233;s listo para un combate de verdad, &lt;PCNAME&gt;. Las cosas sangrientas no te dan arcadas, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

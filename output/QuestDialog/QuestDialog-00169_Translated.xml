@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1003">
+        <Page social="5">[EN] The Scions of Lok seized the Cardovek Remnants east of here. Our researchers dare not approach&amp;#8212;they're scholars, not soldiers.&lt;BR&gt;&lt;BR&gt;Go on the offensive and kill the {@LinkCreature:7#11#Bloodguards}. The primacy of our mission must be assured!&lt;br&gt;[ES] Los Scions of Lok se han apropiado de los Cardovek Remnants al este de aqu&amp;#237;. Nuestros investigadores no se atreven a acercarse; son eruditos, no soldados.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pasa a la ofensiva y mata a los {@LinkCreature:7#11#Bloodguards}! &amp;#161;Debemos asegurar la primac&amp;#237;a de nuestra misi&amp;#243;n!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1003">
+        <Page social="5">[EN] The task is complete? Excellent. Our researchers can begin. Time is short and we're not about to lose to those wretched cultists!&lt;br&gt;[ES] &amp;#191;La tarea est&amp;#225; completa? Excelente. Nuestros investigadores pueden comenzar. &amp;#161;El tiempo es corto y no estamos dispuestos a perder contra esos malditos cultistas!</Page>
+    </Text>
+</QuestDialog>

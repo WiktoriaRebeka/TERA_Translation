@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">[EN] Hello. My name is Mystel,&lt;BR&gt;&lt;BR&gt;and the goddess of fate.&lt;BR&gt;&lt;BR&gt;This world is in danger.&lt;BR&gt;&lt;BR&gt;Please help Lok protect it!&lt;br&gt;[ES] Hola. Mi nombre es Mystel,&lt;BR&gt;&lt;BR&gt;y soy la diosa del destino.&lt;BR&gt;&lt;BR&gt;Este mundo est&amp;#225; en peligro.&lt;BR&gt;&lt;BR&gt;&amp;#161;Por favor, ayuda a Lok a protegerlo!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] The mysterious woman has run away.&lt;BR&gt;&lt;BR&gt;Find and stop her from doing whatever it is she's trying to do.&lt;br&gt;[ES] La misteriosa mujer ha huido.&lt;BR&gt;&lt;BR&gt;Encu&amp;#233;ntrala y evita que haga lo que sea que est&amp;#233; intentando hacer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="200">
+        <Page social="4">[EN] I don't know where she went.&lt;BR&gt;&lt;BR&gt;I'll let you know if something comes up again.&lt;BR&gt;&lt;BR&gt;You can help me again then.&lt;br&gt;[ES] No s&amp;#233; a d&amp;#243;nde fue.&lt;BR&gt;&lt;BR&gt;Te avisar&amp;#233; si vuelve a surgir algo.&lt;BR&gt;&lt;BR&gt;Entonces podr&amp;#225;s ayudarme de nuevo.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="4">[EN] I haven't received any news from the research base. The last news was that hyenas were following their leader. Kill the hyenas and collect their hearts.&lt;br&gt;[ES] No he recibido noticias de la base de investigaci&amp;#243;n. Lo &amp;#250;ltimo que se supo fue que las hienas segu&amp;#237;an a su l&amp;#237;der. Mata a las hienas y recolecta sus corazones.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">[EN] Thank you!&lt;BR&gt;&lt;BR&gt;We can send our Herald now.&lt;br&gt;[ES] &amp;#161;Gracias!&lt;BR&gt;&lt;BR&gt;Ahora podemos enviar a nuestro Herald.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1003">
+        <Page social="0">[EN] You see the hyenas?&lt;BR&gt;I can send my guys out there after you kill some more of the hyenas.&lt;br&gt;[ES] &amp;#191;Ves a las hienas?&lt;BR&gt;Puedo enviar a mis hombres por ah&amp;#237; despu&amp;#233;s de que mates a unas cuantas hienas m&amp;#225;s.</Page>
+    </Text>
+</QuestDialog>

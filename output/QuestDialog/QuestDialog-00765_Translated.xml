@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1015">
+        <Page social="4">[EN] Hesitation in battle means death. But who can help but hesitate when you draw your weapon and find your enemy is your former comrade, fallen to the darkness?&lt;BR&gt;&lt;BR&gt;Some of us have loved ones fighting as one of the {@LinkCreature:32#12#Sihran templars}. They will not yield, and I dread putting my sword in my own brother's chest. But to you they are strangers...the enemy!&lt;BR&gt;&lt;BR&gt;Will you release them from Kaidun's wicked grasp?&lt;br&gt;[ES] La vacilaci&amp;#243;n en la batalla significa la muerte. Pero &amp;#191;c&amp;#243;mo evitar dudar cuando desenfundas tu arma y descubres que tu enemigo es tu excompa&amp;#241;ero, ca&amp;#237;do en la oscuridad?&lt;BR&gt;&lt;BR&gt;Algunos de nosotros tenemos seres queridos luchando como uno de los {@LinkCreature:32#12#Sihran templars}. No ceder&amp;#225;n, y me temo clavar mi espada en el pecho de mi propio hermano. &amp;#161;Pero para ti son extra&amp;#241;os... el enemigo!&lt;BR&gt;&lt;BR&gt;&amp;#191;Los liberar&amp;#225;s de las garras malvadas de Kaidun?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1015">
+        <Page social="4">[EN] You did it? That's...good. Thank you.&lt;BR&gt;&lt;BR&gt;It's never an easy thing, killing a good soldier.&lt;BR&gt;&lt;BR&gt;I'd like to be alone now.&lt;br&gt;[ES] &amp;#191;Lo hiciste? Eso es... bueno. Gracias.&lt;BR&gt;&lt;BR&gt;Nunca es f&amp;#225;cil matar a un buen soldado.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a estar a solas ahora.</Page>
+    </Text>
+</QuestDialog>

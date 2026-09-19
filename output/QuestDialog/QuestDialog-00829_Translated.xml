@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="6">[EN] Thulsa invaded this region because the Croskurn Mines are rich with mana ore&amp;#8212;the same used to power the shields of Allemantheia.&lt;BR&gt;&lt;BR&gt;We can surmise that Thulsa is planning an attack on a scale the federation may not survive.&lt;NEXTPAGEBUTTON&gt;"Can he be stopped?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Thulsa invadi&amp;#243; esta regi&amp;#243;n porque las Croskurn Mines son ricas en mineral de mana, el mismo que se usa para alimentar los escudos de Allemantheia.&lt;BR&gt;&lt;BR&gt;Podemos deducir que Thulsa est&amp;#225; planeando un ataque a una escala que la federaci&amp;#243;n tal vez no sobreviva.&lt;NEXTPAGEBUTTON&gt;"Can he be stopped?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] Those who would see our demise will see it soon enough if we lose faith.&lt;BR&gt;&lt;BR&gt;First and foremost, retrieve the mana ore gathered by the legion...before it reaches Thulsa.&lt;br&gt;[ES] Aquellos que desean nuestra perdici&amp;#243;n la ver&amp;#225;n muy pronto si perdemos la fe.&lt;BR&gt;&lt;BR&gt;Primero que nada, recupera el mineral de mana recolectado por la legi&amp;#243;n... antes de que llegue a Thulsa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1003">
+        <Page social="5">[EN] Congratulations!&lt;BR&gt;&lt;BR&gt;It's safe to say you stalled Thulsa's plan.&lt;br&gt;[ES] &amp;#161;Felicitaciones!&lt;BR&gt;&lt;BR&gt;Es seguro decir que frenaste el plan de Thulsa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1003">
+        <Page social="0">[EN] Please, get that ore before it becomes fuel for Thulsa's fury.&lt;br&gt;[ES] Por favor, consigue ese mineral antes de que se convierta en combustible para la furia de Thulsa.</Page>
+    </Text>
+</QuestDialog>

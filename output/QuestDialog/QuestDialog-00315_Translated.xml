@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1007">
+        <Page social="5">[EN] The good news is we found all those missing weapons...the ones we thought were lost in transit when we got here.&lt;BR&gt;&lt;BR&gt;The bad news is we found them in crates that the pirates were transporting.&lt;BR&gt;&lt;BR&gt;And they've got more! We've got to get those weapons back before the pirates use them to spill Valkyon blood!&lt;br&gt;[ES] La buena noticia es que encontramos todas esas armas perdidas... las que cre&amp;#237;amos que se hab&amp;#237;an perdido en el transporte cuando llegamos aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;La mala noticia es que las encontramos en cajas que los piratas estaban transportando.&lt;BR&gt;&lt;BR&gt;&amp;#161;Y tienen m&amp;#225;s! &amp;#161;Tenemos que recuperar esas armas antes de que los piratas las usen para derramar sangre valkyon!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1007">
+        <Page social="4">[EN] Lesson learned: Just because you're out in the jungle doesn't mean you don't have to worry about pilfering, petty theft, and worse.&lt;br&gt;[ES] Lecci&amp;#243;n aprendida: el hecho de que est&amp;#233;s en la selva no significa que no tengas que preocuparte por el pillaje, el hurto menor y cosas peores.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1007">
+        <Page social="0">[EN] You want the pirates to equip themselves with our weapons before they start stabbing us?&lt;BR&gt;&lt;BR&gt;Do you have the concept of "poetic justice" completely reversed in your mind?&lt;br&gt;[ES] &amp;#191;Quieres que los piratas se equipen con nuestras armas antes de empezar a apu&amp;#241;alarnos?&lt;BR&gt;&lt;BR&gt;&amp;#191;Tienes el concepto de &quot;justicia po&amp;#233;tica&quot; completamente al rev&amp;#233;s en tu mente?</Page>
+    </Text>
+</QuestDialog>

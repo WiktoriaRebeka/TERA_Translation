@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1031">
+        <Page social="4">[EN] Have you heard of {@LinkCreature:21#5003#Bloodjaw}? It's the most vicious basilisk in this crag. None of us can match it.&lt;BR&gt;&lt;BR&gt;Think you're an exception?&lt;br&gt;[ES] &amp;#191;Has o&amp;#237;do hablar de {@LinkCreature:21#5003#Bloodjaw}? Es el basilisk m&amp;#225;s feroz de este risco. Ninguno de nosotros puede con &amp;#233;l.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que eres una excepci&amp;#243;n?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1031">
+        <Page social="8">[EN] Hah! I knew you could do it, &lt;PCNAME&gt;. In fact, I bet heavily on you!&lt;BR&gt;&lt;BR&gt;With that bloody basilisk dead, the rest of us might be able to make some headway out here. Well done. This is well-earned!&lt;br&gt;[ES] &amp;#161;Ja! Sab&amp;#237;a que pod&amp;#237;as hacerlo, &lt;PCNAME&gt;. De hecho, &amp;#161;apost&amp;#233; fuerte por ti!&lt;BR&gt;&lt;BR&gt;Con ese sangriento basilisk muerto, el resto de nosotros tal vez pueda avanzar un poco por aqu&amp;#237;. &amp;#161;Bien hecho! &amp;#161;Te lo has ganado!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1031">
+        <Page social="0">[EN] I put down a big pile of coins on your success. I don't want to talk out of school, but the odds are long and the money is good! If you survive, you'll make a tidy profit!&lt;br&gt;[ES] Puse una gran pila de monedas en tu &amp;#233;xito. No quiero irme de la lengua, &amp;#161;pero las probabilidades son altas y el dinero es bueno! Si sobrevives, &amp;#161;obtendr&amp;#225;s una buena ganancia!</Page>
+    </Text>
+</QuestDialog>

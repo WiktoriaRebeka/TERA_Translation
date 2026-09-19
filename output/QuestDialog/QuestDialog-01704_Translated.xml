@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="489" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1019">
+        <Page social="4" voiceTypeId="0">[EN] Ksharans...why does it always have to be ksharans? And how do you even pronounce it?&lt;BR&gt;&lt;BR&gt;Doesn't matter. What matters is this: their mercenary berserkers have a &lt;b&gt;core of darkness&lt;/b&gt; where we all have a heart. Bring me them.&lt;BR&gt;&lt;BR&gt;My ex-wife was heartless. Wonder if she was really a ksharan?&lt;br&gt;[ES] Ksharans... &amp;#191;por qu&amp;#233; siempre tienen que ser ksharans? &amp;#191;Y c&amp;#243;mo se supone que se pronuncia?&lt;BR&gt;&lt;BR&gt;No importa. Lo que importa es esto: sus mercenarios berserkers tienen un &lt;b&gt;core of darkness&lt;/b&gt; donde todos tenemos un coraz&amp;#243;n. Tr&amp;#225;emelos.&lt;BR&gt;&lt;BR&gt;Mi exmujer no ten&amp;#237;a coraz&amp;#243;n. Me pregunto si en realidad era una ksharan.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1019">
+        <Page social="4" voiceTypeId="0">[EN] Great, &lt;PCNAME&gt;. I think I have a clever use for these.&lt;br&gt;[ES] Genial, &lt;PCNAME&gt;. Creo que se me ocurre un uso inteligente para esto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1019">
+        <Page social="0">[EN] I don't like fighting ksharans either. Their strange consonant clusters disturb me.&lt;br&gt;[ES] Tampoco me gusta pelear con ksharans. Sus extra&amp;#241;os c&amp;#250;mulos de consonantes me perturban.</Page>
+    </Text>
+</QuestDialog>

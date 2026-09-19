@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1028">
+        <Page social="4">[EN] The mekonari depredators and their urisks are massing, probably for an attack.&lt;BR&gt;&lt;BR&gt;We're the outpost closest to the Staff of Isren. We cannot surrender our position.&lt;BR&gt;&lt;BR&gt;Get out there and hit them first. We must regain control of the staff!&lt;br&gt;[ES] Los depredadores mekonari y sus urisks se est&amp;#225;n congregando, probablemente para un ataque.&lt;BR&gt;&lt;BR&gt;Somos el puesto de avanzada m&amp;#225;s cercano al Staff of Isren. No podemos entregar nuestra posici&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Sal ah&amp;#237; fuera y golp&amp;#233;alos primero. &amp;#161;Debemos recuperar el control del b&amp;#225;culo!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1028">
+        <Page social="4">[EN] You have our gratitude, &lt;PCNAME&gt;. Now we can take the staff back from Thulsa's playthings.&lt;br&gt;[ES] Tienes nuestra gratitud, &lt;PCNAME&gt;. Ahora podemos recuperar el b&amp;#225;culo de los juguetes de Thulsa.</Page>
+    </Text>
+</QuestDialog>

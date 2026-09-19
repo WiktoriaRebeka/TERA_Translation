@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">[EN] The closest draelkar pylon is in Wendigo's Howl. Thulsa's got some Sihranar lackeys guarding it.&lt;BR&gt;&lt;BR&gt;Slit those traitors' throats, or torch them&amp;#8212;whatever it is you do to kill people&amp;#8212;then destroy the pylon.&lt;BR&gt;&lt;BR&gt;Quickly now! Thulsa waits for no &lt;PCCLASS:lcase&gt;.&lt;br&gt;[ES] El pylon draelkar m&amp;#225;s cercano est&amp;#225; en Wendigo's Howl. Los lacayos sihranar de Thulsa lo est&amp;#225;n custodiando.&lt;BR&gt;&lt;BR&gt;C&amp;#243;rtales el cuello a esos traidores, o quemalos &amp;#8212;lo que sea que hagas para matar gente&amp;#8212; y luego destruye el pylon.&lt;BR&gt;&lt;BR&gt;&amp;#161;R&amp;#225;pido ahora! Thulsa no espera a ning&amp;#250;n &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">[EN] Interesting. The wendigos are still aggressive, but they seem confused. I bet they don't know who to fight at this point.&lt;BR&gt;&lt;BR&gt;Excellent. That's progress we can take advantage of. Fine work!&lt;br&gt;[ES] Interesante. Los wendigos siguen agresivos, pero parecen confundidos. Apuesto a que no saben con qui&amp;#233;n pelear en este punto.&lt;BR&gt;&lt;BR&gt;Excelente. Ese es un progreso que podemos aprovechar. &amp;#161;Buen trabajo!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1019">
+        <Page social="4">[EN] You see the tower up there&amp;#8212;the one with the blue drek pouring out the top? That's the Cyasma Spire.&lt;BR&gt;&lt;BR&gt;I need to study it to find a way to hurt them, but the entrance is heavily guarded. I need you to kill the master of the spire and its kalash defenders. If you can keep them busy, I can get all of my research done in one go.&lt;BR&gt;&lt;BR&gt;Find Ginea when you're done.&lt;br&gt;[ES] &amp;#191;Ves la torre all&amp;#225; arriba, la que tiene el drek azul saliendo por la parte superior? Esa es la Cyasma Spire.&lt;BR&gt;&lt;BR&gt;Necesito estudiarla para encontrar una forma de hacerles da&amp;#241;o, pero la entrada est&amp;#225; fuertemente custodiada. Necesito que mates al maestro de la torre y a sus defensores kalash. Si puedes mantenerlos ocupados, puedo terminar toda mi investigaci&amp;#243;n de un solo golpe.&lt;BR&gt;&lt;BR&gt;Busca a Ginea cuando termines.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1024">
+        <Page social="6">[EN] Thanks to you, we've held our own and weakened our foe considerably. I didn't think it possible.&lt;BR&gt;&lt;BR&gt;We're also closer to finding this argon queen&amp;#8212;Shandra Manaya.&lt;NEXTPAGEBUTTON&gt;"Any news about her?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Gracias a ti, nos hemos mantenido firmes y hemos debilitado considerablemente a nuestro enemigo. No cre&amp;#237; que fuera posible.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n estamos m&amp;#225;s cerca de encontrar a esta reina argon: Shandra Manaya.&lt;NEXTPAGEBUTTON&gt;"Any news about her?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] My younger sister's on her trail, so that's where you're going next. Report to {@LinkCreature:250#1006} at Shroud Outpost.&lt;BR&gt;&lt;BR&gt;And please take good care of her.&lt;br&gt;[ES] Mi hermana menor est&amp;#225; tras su rastro, as&amp;#237; que ah&amp;#237; es a donde ir&amp;#225;s a continuaci&amp;#243;n. Pres&amp;#233;ntate ante {@LinkCreature:250#1006} en Shroud Outpost.&lt;BR&gt;&lt;BR&gt;Y por favor cu&amp;#237;dala bien.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1006">
+        <Page social="6">[EN] Welcome to the argons' back door. My brother uses glowing terms about you.&lt;BR&gt;&lt;BR&gt;Let's get down to business.&lt;br&gt;[ES] Bienvenido a la puerta trasera de los argon. Mi hermano habla maravillas de ti.&lt;BR&gt;&lt;BR&gt;Vayamos al grano.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">[EN] Noruks are normally docile enough, but damned if they don't get skittish at the slightest magical twinge.&lt;BR&gt;&lt;BR&gt;I need you to kill several {@LinkCreature:13#300921#noruks} and bring samples of their fur up to Neziir at the Northern Overwatch.&lt;BR&gt;&lt;BR&gt;Think you can manage? Noruks are a little tougher than ghilliedhus.&lt;br&gt;[ES] Los noruks son normalmente lo suficientemente d&amp;#243;ciles, pero maldita sea si no se asustan ante el m&amp;#225;s m&amp;#237;nimo indicio m&amp;#225;gico.&lt;BR&gt;&lt;BR&gt;Necesito que mates a varios {@LinkCreature:13#300921#noruks} y lleves muestras de su pelaje a Neziir en el Puesto de vigilancia norte.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que puedas manejarlo? Los noruks son un poco m&amp;#225;s duros que los ghilliedhus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1004">
+        <Page social="4">[EN] You've done well &lt;PCNAME&gt;! Thank you!&lt;br&gt;[ES] &amp;#161;Lo has hecho bien, &lt;PCNAME&gt;! &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1004">
+        <Page social="0">[EN] Watch out for the noruk's charge attack. It's deadly!&lt;br&gt;[ES] Cuidado con el ataque de carga del noruk. &amp;#161;Es mortal!</Page>
+    </Text>
+</QuestDialog>

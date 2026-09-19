@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">[EN] The Hands of Velika want to prove our worth in the fight against evil. Today we're looking to make a dent in {@Rgn:9002#Azarel's Labyrinth}.&lt;BR&gt;&lt;BR&gt;Talk to {@LinkCreature:63#3003#Elthienne} if you want to aid in the cause.&lt;br&gt;[ES] Las Manos de Velika quieren demostrar nuestro valor en la lucha contra el mal. Hoy buscamos dar un golpe en {@Rgn:9002#Azarel's Labyrinth}.&lt;BR&gt;&lt;BR&gt;Habla con {@LinkCreature:63#3003#Elthienne} si quieres ayudar en la causa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">[EN] You're a federation soldier, obviously, so this is a little sneaky of us.&lt;BR&gt;&lt;BR&gt;Basically, we'd like you to take out a bunch of monsters in the labyrinth, and let the Hands of Velika take the credit. It would be really good for our reputation, er, cause.&lt;BR&gt;&lt;BR&gt;What do you say?&lt;br&gt;[ES] Eres un soldado de la federaci&amp;#243;n, obviamente, as&amp;#237; que esto es un poco furtivo de nuestra parte.&lt;BR&gt;&lt;BR&gt;B&amp;#225;sicamente, nos gustar&amp;#237;a que acabaras con un mont&amp;#243;n de monstruos en el laberinto, y dejar que las Manos de Velika se lleven el cr&amp;#233;dito. Ser&amp;#237;a muy bueno para nuestra reputaci&amp;#243;n, eh, causa.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">[EN] {@Rgn:9002#Azarel's Labyrinth} is crawling with weird monsters, right?&lt;BR&gt;&lt;BR&gt;I wouldn't last a minute in that labyrinth. But you work for me, so it's just like I did it, right?&lt;BR&gt;&lt;BR&gt;Plus, Elthienne will make sure you get paid. Win-win.&lt;br&gt;[ES] {@Rgn:9002#Azarel's Labyrinth} est&amp;#225; repleto de monstruos extra&amp;#241;os, &amp;#191;no?&lt;BR&gt;&lt;BR&gt;Yo no durar&amp;#237;a ni un minuto en ese laberinto. Pero trabajas para m&amp;#237;, as&amp;#237; que es como si lo hubiera hecho yo, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, Elthienne se asegurar&amp;#225; de que te paguen. Todos ganan.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Take out {@LinkCreature:9#1400#Azarel's juggernauts} in {@Rgn:9002#Azarel's Labyrinth} and bring back proof of their deaths.&lt;br&gt;[ES] Elimina {@LinkCreature:9#1400#Azarel's juggernauts} en {@Rgn:9002#Azarel's Labyrinth} y trae pruebas de sus muertes.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] Thanks for all you've done for us, &lt;PCNAME&gt;. You've become a real friend to the Hands. It means a lot.&lt;BR&gt;&lt;BR&gt;Elthienne has your payment, as usual.&lt;br&gt;[ES] Gracias por todo lo que has hecho por nosotros, &lt;PCNAME&gt;. Te has convertido en un verdadero amigo de las Manos. Significa mucho.&lt;BR&gt;&lt;BR&gt;Elthienne tiene tu pago, como de costumbre.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Hunt {@LinkCreature:9#1410#Labyrinthine stalkers} in {@Rgn:9002#Azarel's Labyrinth} and bring back proof of their deaths.&lt;br&gt;[ES] Caza {@LinkCreature:9#1410#Labyrinthine stalkers} en {@Rgn:9002#Azarel's Labyrinth} y trae pruebas de sus muertes.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">[EN] Thank you, &lt;PCNAME&gt;. This means so much to the Hands of Velika. Your service to us is invaluable.&lt;BR&gt;&lt;BR&gt;Invaluable or no, here's your payment for a job well done, as usual.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Esto significa mucho para las Manos de Velika. Tu servicio para nosotros es invaluable.&lt;BR&gt;&lt;BR&gt;Sea invaluable o no, aqu&amp;#237; tienes tu pago por un trabajo bien hecho, como de costumbre.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="4">[EN] {@LinkCreature:230#3002#Ersilla} is out of seeds, and we all need...tea. Yes, tea.&lt;BR&gt;&lt;BR&gt;If you're out that way, can you help out?&lt;br&gt;[ES] {@LinkCreature:230#3002#Ersilla} se qued&amp;#243; sin semillas, y todos necesitamos... t&amp;#233;. S&amp;#237;, t&amp;#233;.&lt;BR&gt;&lt;BR&gt;Si vas por all&amp;#225;, &amp;#191;puedes ayudar?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3002">
+        <Page social="4">[EN] Good to see you!&lt;BR&gt;&lt;BR&gt;Aaah...why are you here?&lt;NEXTPAGEBUTTON&gt;"Buram's tea?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Qu&amp;#233; bueno verte!&lt;BR&gt;&lt;BR&gt;Aah... &amp;#191;por qu&amp;#233; est&amp;#225;s aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Buram's tea?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Tea? Oh, right. Tea!&lt;BR&gt;&lt;BR&gt;I need more bellflower and primrose seeds.&lt;BR&gt;&lt;BR&gt;We grow them to make a...tea...that helps with...ahem, stuff. Go on. Get them for me.&lt;br&gt;[ES] &amp;#191;T&amp;#233;? Ah, claro. &amp;#161;T&amp;#233;!&lt;BR&gt;&lt;BR&gt;Necesito m&amp;#225;s semillas de campanilla y primula.&lt;BR&gt;&lt;BR&gt;Las cultivamos para hacer un... t&amp;#233;... que ayuda con... ejem, cosas. Anda. Cons&amp;#237;gueme m&amp;#225;s.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3013">
+        <Page social="4">[EN] (The flower's scent is hypnotic.)&lt;br&gt;[ES] (El aroma de la flor es hipn&amp;#243;tico.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="3014">
+        <Page social="4">[EN] (This flower's smell clears your head.)&lt;br&gt;[ES] (El olor de esta flor te despeja la mente.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="5" villagerId="3015">
+        <Page social="4">[EN] (The flower smells like grass right after rainfall.)&lt;br&gt;[ES] (La flor huele a hierba reci&amp;#233;n llovida.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="6" villagerId="3002">
+        <Page social="4">[EN] Thank you very much. I was running out of these.&lt;BR&gt;&lt;BR&gt;Now I can start brewing.&lt;br&gt;[ES] Muchas gracias. Me estaba quedando sin estas.&lt;BR&gt;&lt;BR&gt;Ahora puedo empezar a preparar.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="3002">
+        <Page social="0">[EN] Do you have my seeds?&lt;BR&gt;&lt;BR&gt;I gotta have my tea!&lt;br&gt;[ES] &amp;#191;Tienes mis semillas?&lt;BR&gt;&lt;BR&gt;&amp;#161;Tengo que tomar mi t&amp;#233;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">[EN] A popo hat? Keep your voice down!&lt;BR&gt;&lt;BR&gt;Listen: I got word that certain popori really weren't pleased by me making popori hats, so I had to stop.&lt;NEXTPAGEBUTTON&gt;"Well, what do I do with this moppet?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Un sombrero popo? &amp;#161;Baja la voz!&lt;BR&gt;&lt;BR&gt;Escucha: me lleg&amp;#243; la noticia de que ciertos popori no estaban nada contentos con que yo hiciera sombreros de popori, as&amp;#237; que tuve que parar.&lt;NEXTPAGEBUTTON&gt;"Well, what do I do with this moppet?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">[EN] Well, seeing as how you already had the popori moppet, I suppose I could make just one more.&lt;BR&gt;&lt;BR&gt;Now, what were you thinking for the fur color?&lt;NEXTPAGEBUTTON&gt;"Let's see..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Bueno, viendo que ya ten&amp;#237;as el moppet popori, supongo que podr&amp;#237;a hacer uno m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Ahora bien, &amp;#191;qu&amp;#233; color de pelaje ten&amp;#237;as en mente?&lt;NEXTPAGEBUTTON&gt;"Let's see..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">[EN] The Hands of Velika tell me that the popori don't find these hats all that amusing. But, if you already have the moppet&amp;#8212;and you really, really want one&amp;#8212;I suppose it's better I make it for you.&lt;br&gt;[ES] Las Hands of Velika me dicen que a los popori no les hacen mucha gracia estos sombreros. Pero, si ya tienes el moppet, y de verdad, de verdad quieres uno, supongo que es mejor que te lo haga.</Page>
+    </Text>
+</QuestDialog>

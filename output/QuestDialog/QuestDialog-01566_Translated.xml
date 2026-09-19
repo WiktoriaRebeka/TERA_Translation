@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[EN] (This document appears blank, but when held with both hands displays a glowing rune. Examining it, you remember seeing someone in Highwatch with a similar design on his armor.) &lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Accepting this quest will destroy this document.&lt;/font&gt;&lt;br&gt;[ES] (Este documento parece en blanco, pero al sostenerlo con ambas manos muestra una runa brillante. Al examinarlo, recuerdas haber visto a alguien en Highwatch con un dise&amp;#241;o similar en su armadura.) &lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Aceptar esta misi&amp;#243;n destruir&amp;#225; este documento.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="9999">
+        <Page social="4">[EN] That rune! By Kaia's mercy, I thought all of those were lost to time!&lt;BR&gt;&lt;BR&gt;What you have in your hands is a knowledge rune, used by ancient amani master craftsmen to record their most powerful designs. My own family has done quite well translating and applying these to modern weapons and armor.&lt;BR&gt;&lt;BR&gt;With your permission, may I examine the document?&lt;br&gt;[ES] &amp;#161;Esa runa! Por la misericordia de Kaia, &amp;#161;pens&amp;#233; que todas se hab&amp;#237;an perdido en el tiempo!&lt;BR&gt;&lt;BR&gt;Lo que tienes en tus manos es una runa de conocimiento, utilizada por los antiguos maestros artesanos amani para registrar sus dise&amp;#241;os m&amp;#225;s poderosos. Mi propia familia se ha ido bastante bien traduciendo y aplicando estos a armas y armaduras modernas.&lt;BR&gt;&lt;BR&gt;Con tu permiso, &amp;#191;puedo examinar el documento?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="9999">
+        <Page social="4">[EN] Fantastic. These designs...if your skill is sufficient to the task, you will soon craft some remarkable things.&lt;BR&gt;&lt;BR&gt;I have translated the document so that you can upgrade your equipment. I look forward fighting alongside you someday, and seeing the results.&lt;br&gt;[ES] Fant&amp;#225;stico. Estos dise&amp;#241;os... si tu habilidad es suficiente para la tarea, pronto fabricar&amp;#225;s cosas notables.&lt;BR&gt;&lt;BR&gt;He traducido el documento para que puedas mejorar tu equipo. Espero luchar a tu lado alg&amp;#250;n d&amp;#237;a y ver los resultados.</Page>
+    </Text>
+</QuestDialog>

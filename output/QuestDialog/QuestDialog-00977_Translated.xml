@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1027">
+        <Page social="4">[EN] Why did they send me here? I'm not a soldier! Guard the watchpost, they said. Kill {@LinkCreature:40#4#armored piglings} and {@LinkCreature:40#3#enraged armored piglings}, they said. I'll be the one getting killed.&lt;BR&gt;&lt;BR&gt;Unless I could pay you to kill them for me, of course.&lt;BR&gt;&lt;BR&gt;My friend {@LinkCreature:240#1026$$Grada} owes me a gambling debt. Kill the pigs and it's yours.&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; me mandaron aqu&amp;#237;? &amp;#161;No soy un soldado! &amp;#171;Vigilen el puesto de guardia&amp;#187;, dijeron. &amp;#171;Maten {@LinkCreature:40#4#armored piglings} y {@LinkCreature:40#3#enraged armored piglings}&amp;#187;, dijeron. Al final el que va a terminar muerto soy yo.&lt;BR&gt;&lt;BR&gt;A menos que pueda pagarte para que los mates por m&amp;#237;, claro.&lt;BR&gt;&lt;BR&gt;Mi amigo {@LinkCreature:240#1026$$Grada} me debe una apuesta de juego. Mata a los cerdos y es tuyo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1026">
+        <Page social="4">[EN] Wooron sent you? Old scoundrel cheats at dice, you know.&lt;br&gt;[ES] &amp;#191;Te mand&amp;#243; Wooron? Sabes que ese viejo sinverg&amp;#252;enza hace trampa en los dados.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1026">
+        <Page social="0">[EN] I'm not forking over Wooron's cash unless you kill those {@LinkCreature:40#4#armored piglings} and {@LinkCreature:40#3#enraged armored piglings}.&lt;br&gt;[ES] No voy a soltar el dinero de Wooron a menos que mates a esos {@LinkCreature:40#4#armored piglings} y {@LinkCreature:40#3#enraged armored piglings}.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="5">[EN] I am vexed by this creature, Nakarash. I can't deduce why he's so hard to kill. To their credit, the soldiers did their best, but he cut them down like so much chaff.&lt;BR&gt;&lt;BR&gt;I won't lie to you, this will be a difficult battle. If you can kill {@LinkCreature:7#18#Nakarash}, we'll be one step closer to finishing our research. Then, perhaps, we can turn our attention to retaking this region for the federation.&lt;br&gt;[ES] Estoy desconcertado por esta criatura, Nakarash. No puedo deducir por qu&amp;#233; es tan dif&amp;#237;cil de matar. Hay que reconocer que los soldados hicieron lo mejor que pudieron, pero &amp;#233;l los derrib&amp;#243; como si fueran paja.&lt;BR&gt;&lt;BR&gt;No te voy a mentir, esta ser&amp;#225; una batalla dif&amp;#237;cil. Si puedes matar a {@LinkCreature:7#18#Nakarash}, estaremos un paso m&amp;#225;s cerca de terminar nuestra investigaci&amp;#243;n. Entonces, tal vez podamos centrar nuestra atenci&amp;#243;n en recuperar esta regi&amp;#243;n para la federaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1008">
+        <Page social="5">[EN] You slew Nakarash? And you brought me a scale to study? I'm beginning to think your talents are wasted here in the field. You should be at the Legion of Arms training our finest soldiers!&lt;BR&gt;&lt;BR&gt;Thanks to you, my insanely intrepid companion and I can finish our research and return to the sanctuary of Allemantheia. Gratitude, &lt;PCNAME&gt;.&lt;br&gt;[ES] &amp;#191;Mataste a Nakarash? &amp;#191;Y me trajiste una escama para estudiar? Comienzo a pensar que tus talentos se desperdician aqu&amp;#237; en el campo. &amp;#161;Deber&amp;#237;as estar en la Legion of Arms entrenando a nuestros mejores soldados!&lt;BR&gt;&lt;BR&gt;Gracias a ti, mi intr&amp;#233;pido compa&amp;#241;ero y yo podemos terminar nuestra investigaci&amp;#243;n y regresar al santuario de Allemantheia. Gratitud, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1008">
+        <Page social="0">[EN] I dare not continue my studies as long as Nakarash is stomping around the hills. I urge you to end his life and thus preserve ours.&lt;br&gt;[ES] No me atrevo a continuar mis estudios mientras Nakarash ande pisoteando por las colinas. Te insto a que acabes con su vida y as&amp;#237; preserves la nuestra.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="3" villagerId="1001">
+        <Page social="5">[EN] A piece of Nakarash's armor? Intriguing. You must be skilled indeed to take down a beast such as he.&lt;BR&gt;&lt;BR&gt;We will study this carefully and add its strength to our own. You have our gratitude.&lt;br&gt;[ES] &amp;#191;Un pedazo de la armadura de Nakarash? Intrigante. Debes de ser muy h&amp;#225;bil para derribar a una bestia como &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Estudiaremos esto cuidadosamente y a&amp;#241;adiremos su fuerza a la nuestra. Tienes nuestro agradecimiento.</Page>
+    </Text>
+</QuestDialog>

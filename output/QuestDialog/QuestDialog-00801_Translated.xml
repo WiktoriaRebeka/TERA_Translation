@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1012">
+        <Page social="4">[EN] Bleakrock depends upon the eldritch shard trade for its economic survival. We'd like to diversify but Allemantheia pays so well for the shards that nothing else is as profitable.&lt;BR&gt;&lt;BR&gt;We're running out of deposits, however.&lt;BR&gt;&lt;BR&gt;We've sent someone along the Ice Trail to look. Would you check in with Dio? Find out if there are other areas to mine.&lt;br&gt;[ES] Bleakrock depende del comercio de fragmentos arcanos para su supervivencia econ&amp;#243;mica. Nos gustar&amp;#237;a diversificarnos, pero Allemantheia paga tan bien por los fragmentos que nada m&amp;#225;s es igual de rentable.&lt;BR&gt;&lt;BR&gt;Sin embargo, nos estamos quedando sin yacimientos.&lt;BR&gt;&lt;BR&gt;Hemos enviado a alguien por el Ice Trail a investigar. &amp;#191;Podr&amp;#237;as hablar con Dio? Averigua si hay otras zonas para minar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1006">
+        <Page social="4">[EN] Yes, yes&amp;#8212;everyone wants to know where the next deposit is. To be honest, our existing mines are just about tapped out, but the plains are showing promise.&lt;BR&gt;&lt;BR&gt;Here, take my report back. It explains everything. Be careful, though. The Junaidar would slit your throat for that report.&lt;br&gt;[ES] S&amp;#237;, s&amp;#237;, todos quieren saber d&amp;#243;nde est&amp;#225; el pr&amp;#243;ximo yacimiento. Para ser sincero, nuestras minas actuales est&amp;#225;n casi agotadas, pero las llanuras son prometedoras.&lt;BR&gt;&lt;BR&gt;Toma, ll&amp;#233;vate mi informe de vuelta. Lo explica todo. Ten cuidado, eso s&amp;#237;. Los Junaidar te cortar&amp;#237;an el cuello por ese informe.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" prevId="3" villagerId="1012">
+        <Page social="4">[EN] This is bad. These suggestions take us deeper into wendigo territory. We'll be fighting more than mining.&lt;BR&gt;&lt;BR&gt;Take this report to Praetor Nunahd and see if he thinks it possible.&lt;BR&gt;&lt;BR&gt;We chose this life to test ourselves; I only hope we've not bitten off more than we can chew&amp;#8212;or that can chew us!&lt;br&gt;[ES] Esto es malo. Estas sugerencias nos adentran m&amp;#225;s en el territorio wendigo. Estaremos peleando m&amp;#225;s que minando.&lt;BR&gt;&lt;BR&gt;Lleva este informe al Praetor Nunahd y mira si cree que es posible.&lt;BR&gt;&lt;BR&gt;Elegimos esta vida para ponernos a prueba; &amp;#161;solo espero que no hayamos abarcado m&amp;#225;s de lo que podemos masticar, o que pueda masticarnos a nosotros!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="4" villagerId="1004">
+        <Page social="4">[EN] Hmph. Possible, yes. Desirable, no.&lt;BR&gt;&lt;BR&gt;The wendigos present a different threat than the Junaidar. If we have to fight just to mine, we'll lose a lot of lives.&lt;BR&gt;&lt;BR&gt;Well, that magistrate has spoken. I'll get the troops ready.&lt;br&gt;[ES] Mph. Posible, s&amp;#237;. Deseable, no.&lt;BR&gt;&lt;BR&gt;Los wendigos presentan una amenaza diferente a la de los Junaidar. Si tenemos que luchar solo para minar, perderemos muchas vidas.&lt;BR&gt;&lt;BR&gt;Bueno, ese magistrado ha hablado. Preparar&amp;#233; a las tropas.</Page>
+    </Text>
+</QuestDialog>

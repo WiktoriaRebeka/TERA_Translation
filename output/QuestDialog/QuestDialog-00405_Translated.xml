@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1016">
+        <Page social="5">[EN] My master was an expert strategist. He always said, "A good soldier defeats her enemies, but a smart soldier defeats her enemies and takes their stuff."&lt;NEXTPAGEBUTTON&gt;"Indeed."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Mi maestro era un estratega experto. Siempre dec&amp;#237;a: &quot;Un buen soldado derrota a sus enemigos, pero un soldado inteligente derrota a sus enemigos y se queda con sus cosas&quot;.&lt;NEXTPAGEBUTTON&gt;"Indeed."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Listen up, &lt;PCNAME&gt;. The {@LinkCreature:15#11#cruel jockeys}, and {@LinkCreature:15#12#mutant dwarf fodder} and {@LinkCreature:15#13#scrappers} to the north wear the most interesting pendants. Such unique tokens of the federation's victory over evil will be invaluable one day. You see where I'm going with this?&lt;br&gt;[ES] Escucha, &lt;PCNAME&gt;. Los {@LinkCreature:15#11#cruel jockeys}, los {@LinkCreature:15#12#mutant dwarf fodder} y los {@LinkCreature:15#13#scrappers} del norte llevan los colgantes m&amp;#225;s interesantes. Esos fichas tan &amp;#250;nicas de la victoria de la federaci&amp;#243;n sobre el mal ser&amp;#225;n de un valor incalculable alg&amp;#250;n d&amp;#237;a. &amp;#191;Ves a d&amp;#243;nde quiero llegar?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1016">
+        <Page social="5">[EN] Oh &lt;PCNAME&gt;, it's such a relief to meet a soldier with an entreprenurial spirit. Thank you.&lt;br&gt;[ES] Oh &lt;PCNAME&gt;, es un gran alivio conocer a un soldado con esp&amp;#237;ritu emprendedor. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1016">
+        <Page social="0">[EN] &lt;PCNAME&gt;, history is written not only in words, but in symbols. Those pendants are the symbols of my&amp;#8212;our&amp;#8212;future wealth.&lt;BR&gt;&lt;BR&gt;Go get them.&lt;br&gt;[ES] &lt;PCNAME&gt;, la historia no solo se escribe con palabras, sino con s&amp;#237;mbolos. Esos colgantes son los s&amp;#237;mbolos de mi&amp;#8212;nuestra&amp;#8212;futura riqueza.&lt;BR&gt;&lt;BR&gt;Ve a por ellos.</Page>
+    </Text>
+</QuestDialog>

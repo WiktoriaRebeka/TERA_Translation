@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1021">
+        <Page social="9">[EN] I ran out of water, so I melted some snow and drank that. Now my stomach is killing me!&lt;BR&gt;&lt;BR&gt;I can hardly stand, let alone work. I've heard that wispy iceflowers are a good cure for stomachaches, but I can't go hunting for plants.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, if you see any, can you pick a few for me? They're very small, and they grow along the path toward the Maelstrom.&lt;br&gt;[ES] Se me acab&amp;#243; el agua, as&amp;#237; que derret&amp;#237; algo de nieve y la beb&amp;#237;. &amp;#161;Ahora me duele much&amp;#237;simo el est&amp;#243;mago!&lt;BR&gt;&lt;BR&gt;apenas puedo ponerme de pie, y mucho menos trabajar. He o&amp;#237;do que las tenues flores de hielo son un buen remedio para los dolores de est&amp;#243;mago, pero no puedo salir a cazar plantas.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, si ves alguna, &amp;#191;puedes recoger algunas para m&amp;#237;? Son muy peque&amp;#241;as y crecen a lo largo del camino hacia el Maelstrom.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1021">
+        <Page social="4">[EN] Oh thank you so much! I've been so miserable. I can't wait to make a tea from these wispy iceflowers and see if it helps.&lt;br&gt;[ES] &amp;#161;Oh, muchas gracias! Lo he pasado muy mal. &amp;#161;Ya quiero prepararme un t&amp;#233; con estas tenues flores de hielo y ver si ayuda!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1021">
+        <Page social="0">[EN] It feels like there's an angry dragon in my stomach.&lt;br&gt;[ES] Siento como si hubiera un drag&amp;#243;n enojado en mi est&amp;#243;mago.</Page>
+    </Text>
+</QuestDialog>

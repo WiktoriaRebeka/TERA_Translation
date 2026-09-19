@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1015">
+        <Page social="4">[EN] The path to the Staff of Isren is blocked by orisks. They're not normally found in this area, so someone wants us to stay as far from the staff as possible.&lt;BR&gt;&lt;BR&gt;We need to reach the staff. I don't care if you lure them away with steamcakes and firewhiskey, but dead or alive, they've got to go.&lt;br&gt;[ES] El camino hacia el Staff of Isren est&amp;#225; bloqueado por orisks. No suelen encontrarse en esta zona, as&amp;#237; que alguien quiere que nos mantengamos lo m&amp;#225;s lejos posible del b&amp;#225;culo.&lt;BR&gt;&lt;BR&gt;Tenemos que llegar al b&amp;#225;culo. No me importa si los atraes con pasteles de vapor y whiskey de fuego, pero muertos o vivos, tienen que desaparecer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1015">
+        <Page social="4">[EN] It's just as well you didn't waste food or drink on the orisks. Rations are a bit thin lately. Folks might have killed you for the firewhiskey.&lt;br&gt;[ES] Menos mal que no desperdiciaste comida ni bebida con los orisks. Las raciones escasean un poco &amp;#250;ltimamente. La gente te habr&amp;#237;a matado por el whiskey de fuego.</Page>
+    </Text>
+</QuestDialog>

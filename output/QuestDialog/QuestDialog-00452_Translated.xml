@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1021">
+        <Page social="5">[EN] Cultists neglect the land and murder our stewards. See the southwest there? Every day I watch those fat boars root up the plants and foul the soil. Farmland into dust pits! Hogs should be in the woods where they belong. Never would have happened before.&lt;BR&gt;&lt;BR&gt;Can't run them off because it's not the army's job! Have me killing my neighbors instead! Nature's upside down.&lt;BR&gt;&lt;BR&gt;Kept some money from my last harvest before...this. Kill those {@LinkCreature:17#300050#wary gutspiller warthogs} and {@LinkCreature:17#104#forked tusk warthogs}, and it's yours.&lt;br&gt;[ES] Los cultistas descuidan la tierra y asesinan a nuestros mayordomos. &amp;#191;Ves el suroeste por ah&amp;#237;? Todos los d&amp;#237;as veo a esos puercos gordos desenterrar las plantas y ensuciar el suelo. &amp;#161;Tierra de cultivo convertida en pozos de polvo! Los cerdos deber&amp;#237;an estar en el bosque donde pertenecen. Eso nunca habr&amp;#237;a pasado antes.&lt;BR&gt;&lt;BR&gt;&amp;#161;No puedo ahuyentarlos porque no es trabajo del ej&amp;#233;rcito! &amp;#161;Hacer que mate a mis vecinos en su lugar! La naturaleza est&amp;#225; al rev&amp;#233;s.&lt;BR&gt;&lt;BR&gt;Guard&amp;#233; algo de dinero de mi &amp;#250;ltima cosecha antes de... esto. Mata a esos {@LinkCreature:17#300050#wary gutspiller warthogs} y {@LinkCreature:17#104#forked tusk warthogs}, y es tuyo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1021">
+        <Page social="5">[EN] Nature smiles, friend. That was good work. Wish I was still a farmer, a hunter. Money was worth it, just to see them run!&lt;br&gt;[ES] La naturaleza sonr&amp;#237;e, amigo. Buen trabajo. &amp;#161;Ojal&amp;#225; todav&amp;#237;a fuera granjero, cazador! &amp;#161;El dinero vali&amp;#243; la pena, solo para verlos huir!</Page>
+    </Text>
+</QuestDialog>

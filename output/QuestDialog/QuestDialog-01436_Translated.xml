@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">[EN] Naturally, riding a beast this majestic takes a special saddle. You can't just slap something meant for a mere horse on top of a leopard.&lt;BR&gt;&lt;BR&gt;It'll need to be tailor made to fit your rump. I suggest not cheapening out on the materials.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Naturalmente, montar a una bestia tan majestuosa requiere una silla especial. No puedes simplemente colocar algo pensado para un simple caballo sobre un leopard.&lt;BR&gt;&lt;BR&gt;Tendr&amp;#225; que estar hecha a medida para que encaje en tu trasero. Sugiero no escatimar en los materiales.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">[EN] Excellent choice! Supple noruk leather is just the right material for a saddle of this quality.&lt;BR&gt;&lt;BR&gt;Now, let me sketch your rump, a few measurements...perfect! I'll get this made right away.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Excelente elecci&amp;#243;n! El flexible cuero de noruk es justo el material adecuado para una montura de esta calidad.&lt;BR&gt;&lt;BR&gt;Ahora, d&amp;#233;jame tomarte las medidas, unas cuantas dimensiones... &amp;#161;Perfecto! &amp;#161;Lo mandar&amp;#233; a hacer de inmediato!&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">[EN] Trust me on this. If the beast isn't comfortable, you won't be comfortable.&lt;br&gt;[ES] conf&amp;#237;a en m&amp;#237;. Si la bestia no est&amp;#225; c&amp;#243;moda, t&amp;#250; tampoco lo estar&amp;#225;s.</Page>
+    </Text>
+</QuestDialog>

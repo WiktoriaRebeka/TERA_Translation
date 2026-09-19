@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1003">
+        <Page social="5">[EN] This camp's strategic significance rose when those enormous {@LinkCreature:15#15#fimbrilisks} moved into the ruins north of here.&lt;BR&gt;&lt;BR&gt;If we're overrun, Pora Elinu will be in grave danger.&lt;BR&gt;&lt;BR&gt;We must eliminate the threat. Could you gather some people and take care of that, &lt;PCNAME&gt;?&lt;br&gt;[ES] La importancia estrat&amp;#233;gica de este campamento aument&amp;#243; cuando esos enormes {@LinkCreature:15#15#fimbrilisks} se mudaron a las ruinas al norte de aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Si nos invaden, Pora Elinu estar&amp;#225; en grave peligro.&lt;BR&gt;&lt;BR&gt;Debemos eliminar la amenaza. &amp;#191;Podr&amp;#237;as reunir a algunas personas y encargarte de eso, &lt;BR&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1003">
+        <Page social="5">[EN] Such bravery. The federation is safe in your hands. Take this humble reward for a job well done.&lt;br&gt;[ES] Qu&amp;#233; valent&amp;#237;a. La federaci&amp;#243;n est&amp;#225; a salvo en tus manos. Toma esta humilde recompensa por un trabajo bien hecho.</Page>
+    </Text>
+</QuestDialog>

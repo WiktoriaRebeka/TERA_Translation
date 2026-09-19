@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1021">
+        <Page social="4">[EN] Our scouts spotted pieces of argon-style pylons in an old Valkyon post northeast of here. Is that even possible?&lt;BR&gt;&lt;BR&gt;You'll have to fight your way past {@LinkCreature:45#2001#argonomorph blood fiends} to find out, but I really need to know.&lt;br&gt;[ES] Nuestros exploradores detectaron piezas de pilones estilo argon en un viejo puesto de Valkyon al noreste de aqu&amp;#237;. &amp;#191;Es eso posible?&lt;BR&gt;&lt;BR&gt;Tendr&amp;#225;s que abrirte paso luchando contra los {@LinkCreature:45#2001#argonomorph blood fiends} para averiguarlo, pero realmente necesito saberlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1021">
+        <Page social="5">[EN] These samples should tell the tale. I hope they don't tell me what I'm afraid they're going to.&lt;br&gt;[ES] Estas muestras deber&amp;#237;an revelar la verdad. Espero que no confirmen lo que me temo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1021">
+        <Page social="0">[EN] If I had samples of those pylons, I could get some tests started.&lt;br&gt;[ES] Si tuviera muestras de esos pilares, podr&amp;#237;a empezar algunas pruebas.</Page>
+    </Text>
+</QuestDialog>

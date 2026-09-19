@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1014">
+        <Page social="4" voiceTypeId="0">[EN] Killian has rounded out his forces with paid help&amp;#8212;chaos mistresses and Sihranar mercenaries.&lt;BR&gt;&lt;BR&gt;They're dangerous, but not as devoted to Killian as his followers.&lt;BR&gt;&lt;BR&gt;Kill them and take their pay. Once we remove the profit from the job, they'll go looking for other work.&lt;br&gt;[ES] Killian ha completado sus fuerzas con ayuda pagada: maestras del caos y mercenarios Sihranar.&lt;BR&gt;&lt;BR&gt;Son peligrosos, pero no tan devotos a Killian como sus seguidores.&lt;BR&gt;&lt;BR&gt;M&amp;#225;talos y qu&amp;#233;date con su paga. Una vez que quitemos el lucro del trabajo, ir&amp;#225;n a buscar otro empleo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1014">
+        <Page social="4" voiceTypeId="0">[EN] Exceptional work! Mercenaries are all about business. They'll leave Killian's service once it's clear there's no upside.&lt;BR&gt;&lt;BR&gt;Plus, you just funded Habere's bereavement program for a month. Look at all these coins!&lt;br&gt;[ES] &amp;#161;Trabajo excepcional! Los mercenarios solo buscan hacer negocios. Dejar&amp;#225;n el servicio de Killian en cuanto sea evidente que no hay ganancias.&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, acabas de financiar el programa de duelo de Habere por un mes. &amp;#161;Mira todas estas monedas!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1014">
+        <Page social="0">[EN] Target the chaos mistresses and Sihranar mercenaries. Those paid soldiers won't stay with Killian if it's clear his end is coming.&lt;br&gt;[ES] Ataca a las maestras del caos y a los mercenarios Sihranar. Esos soldados pagados no se quedar&amp;#225;n con Killian si es evidente que su final se acerca.</Page>
+    </Text>
+</QuestDialog>

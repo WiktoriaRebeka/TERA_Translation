@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">[EN] It's hard to report back to Otus. The {@LinkCreature:11#2003#Red Lash sentinels} may not be smart, but they're sharp-eyed.&lt;BR&gt;&lt;BR&gt;I think they're noticing some inconsistencies in my disguise. Body language, maybe? I'm not sure.&lt;BR&gt;&lt;BR&gt;If they were too worried about a murderous &lt;PCCLASS:lcase&gt; to notice, me, though...hey, that's a plan!&lt;br&gt;[ES] Es dif&amp;#237;cil reportarse con Otus. Los {@LinkCreature:11#2003#Red Lash sentinels} tal vez no sean inteligentes, pero tienen buena vista.&lt;BR&gt;&lt;BR&gt;Creo que est&amp;#225;n notando algunas inconsistencias en mi disfraz. &amp;#191;El lenguaje corporal, tal vez? No estoy seguro.&lt;BR&gt;&lt;BR&gt;Si estuvieran demasiado preocupados por un asesino &lt;PCCLASS:lcase&gt; como para notarme, sin embargo... &amp;#161;oye, eso es un plan!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">[EN] What a relief. Getting this disguise together took a lot of work. All it takes is one overly curious sentinel to ruin everything.&lt;br&gt;[ES] Qu&amp;#233; alivio. Armar este disfraz tom&amp;#243; mucho trabajo. Solo hace falta un centinela demasiado curioso para arruinarlo todo.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="4">[EN] This isn't well-known, but a number of our officers seem too intrigued with the cultists. Samael isn't the only one who disappeared into thin air when the campaign against them.&lt;BR&gt;&lt;BR&gt;I'm looking for a volunteer to collect their possessions.&lt;NEXTPAGEBUTTON&gt;"To return to the families?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Esto no es muy conocido, pero varios de nuestros oficiales parecen demasiado intrigados por los cultistas. Samael no es el &amp;#250;nico que desapareci&amp;#243; en el aire cuando la campa&amp;#241;a en su contra.&lt;BR&gt;&lt;BR&gt;Estoy buscando a un voluntario para recoger sus pertenencias.&lt;NEXTPAGEBUTTON&gt;"To return to the families?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] After we go through them. Most of them will be destroyed, and we'll announce their deaths from a more honorable source. The federation can't afford to be linked to cultists. You can get the names of the other traitors from Madragath. He'll tell you whose things need to be gathered.&lt;br&gt;[ES] Despu&amp;#233;s de que los revisemos. La mayor&amp;#237;a ser&amp;#225;n destruidos y anunciaremos sus muertes por una fuente m&amp;#225;s honorable. La federaci&amp;#243;n no puede permitirse estar vinculada a los cultistas. Puedes conseguir los nombres de los otros traidores con Madragath. &amp;#201;l te dir&amp;#225; cuyas cosas deben ser recolectadas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1002">
+        <Page social="4">[EN] If you're trying to scare me, you'll have to do better. I've seen terrible things.&lt;BR&gt;&lt;BR&gt;The officers always gathered in the Vault of Tomes. Poor fools thought they wouldn't be abandoned, but everyone's expendable to Akia and Terkasia.&lt;br&gt;[ES] Si est&amp;#225;s tratando de asustarme, tendr&amp;#225;s que esforzarte m&amp;#225;s. He visto cosas terribles.&lt;BR&gt;&lt;BR&gt;Los oficiales siempre se reun&amp;#237;an en el Vault of Tomes. Los pobres ilusos pensaron que no ser&amp;#237;an abandonados, pero todos son prescindibles para Akia y Terkasia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" prevId="3" villagerId="1025">
+        <Page social="4">[EN] (This ring is imprinted with the emblem of the Valkyon Federation. "Secretary" is the only readable word on the inscription.)&lt;br&gt;[ES] (Este anillo tiene impreso el emblema de la Valkyon Federation. &quot;Secretary&quot; es la &amp;#250;nica palabra legible en la inscripci&amp;#243;n.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="3" villagerId="1030">
+        <Page social="4">[EN] (These pieces of paper appear to be from confidential documents.)&lt;br&gt;[ES] (Estos pedazos de papel parecen pertenecer a documentos confidenciales.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="225" prevId="3" villagerId="1026">
+        <Page social="4">[EN] (This is the insignia of the Counterintelligence Corps. Perhaps its members were hiding here to avoid arrest.)&lt;br&gt;[ES] (Esta es la insignia del Counterintelligence Corps. Tal vez sus miembros se estaban escondiendo aqu&amp;#237; para evitar el arresto.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="225" prevId="4" villagerId="1028">
+        <Page social="4">[EN] I don't have to ask you to keep this a secret, do I? Samael's treason has the entire army on edge, and headquarters doesn't want this public. Once I destroy this evidence, everything will be smoothed over.&lt;BR&gt;&lt;BR&gt;I just need to wait for further orders. You ought to head back to Rendalf and see if he has anything else for you to do.&lt;br&gt;[ES] No tengo que pedirte que mantengas esto en secreto, &amp;#191;verdad? La traici&amp;#243;n de Samael tiene a todo el ej&amp;#233;rcito al borde del colapso y el cuartel general no quiere que esto se haga p&amp;#250;blico. Una vez que destruya esta evidencia, todo quedar&amp;#225; arreglado.&lt;BR&gt;&lt;BR&gt;Solo necesito esperar nuevas &amp;#243;rdenes. Deber&amp;#237;as volver con Rendalf y ver si tiene algo m&amp;#225;s para ti.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="225" prevId="7" villagerId="1027">
+        <Page social="4">[EN] You're back. I'm sorry I had to ask you to help with that mission. I'm sure it wasn't easy.&lt;br&gt;[ES] Has vuelto. Siento haber tenido que pedirte ayuda con esa misi&amp;#243;n. Estoy seguro de que no fue f&amp;#225;cil.</Page>
+    </Text>
+</QuestDialog>

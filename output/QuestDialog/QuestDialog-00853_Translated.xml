@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="5">[EN] Yes, that carriage should have passed by here, but I certainly haven't seen it.&lt;BR&gt;&lt;BR&gt;If you head north toward Allemantheia, you might be able to find out what happened to it.&lt;BR&gt;&lt;BR&gt;Be careful, though&amp;#8212;there's a reason it didn't come by. Just watch your step out there.&lt;br&gt;[ES] S&amp;#237;, ese carruaje deber&amp;#237;a haber pasado por aqu&amp;#237;, pero ciertamente no lo he visto.&lt;BR&gt;&lt;BR&gt;Si te diriges al norte hacia Allemantheia, tal vez puedas averiguar qu&amp;#233; le pas&amp;#243;.&lt;BR&gt;&lt;BR&gt;Pero ten cuidado; hay una raz&amp;#243;n por la cual no ha pasado por aqu&amp;#237;. Solo ten cuidado por all&amp;#225; afuera.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1026">
+        <Page social="5">[EN] (The people are dead and the food supplies are gone.)&lt;BR&gt;&lt;BR&gt;(There is a weapon on the ground. You should probably take it back to Tarnan.)&lt;br&gt;[ES] (La gente est&amp;#225; muerta y los suministros de comida han desaparecido.)&lt;BR&gt;&lt;BR&gt;(Hay un arma en el suelo. Probablemente deber&amp;#237;as llev&amp;#225;rsela de regreso a Tarnan.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1004">
+        <Page social="6">[EN] Attacked? Yeah, I worried you'd say that.&lt;BR&gt;&lt;BR&gt;Found a weapon, though? Let me see that.&lt;NEXTPAGEBUTTON&gt;"Sure, have a look."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Atacado? S&amp;#237;, me tem&amp;#237;a que dir&amp;#237;as eso.&lt;BR&gt;&lt;BR&gt;&amp;#191;Pero encontraste un arma? D&amp;#233;jame ver eso.&lt;NEXTPAGEBUTTON&gt;"Sure, have a look."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">[EN] This is a Tenebrara weapon! Why would they attack us?&lt;BR&gt;&lt;BR&gt;This doesn't make any sense!&lt;br&gt;[ES] &amp;#161;Esto es un arma de Tenebrara! &amp;#191;Por qu&amp;#233; nos atacar&amp;#237;an?&lt;BR&gt;&lt;BR&gt;&amp;#161;Esto no tiene ning&amp;#250;n sentido!</Page>
+    </Text>
+</QuestDialog>

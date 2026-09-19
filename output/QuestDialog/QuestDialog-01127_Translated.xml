@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1008">
+        <Page social="4">[EN] Pardon me, friend. Do you have a moment?&lt;NEXTPAGEBUTTON&gt;"Absolutely."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Disculpa, amigo. &amp;#191;Tienes un momento?&lt;NEXTPAGEBUTTON&gt;"Absolutely."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Thank you. My bondmate was helping Princess Syona write her memoirs of the first Argon War.&lt;BR&gt;&lt;BR&gt;He died not long ago, in the attack on Magthulk Crater. Many pages of his book were lost.&lt;BR&gt;&lt;BR&gt;If you find any of them, will you return them to me?&lt;br&gt;[ES] Gracias. Mi compa&amp;#241;ero de uni&amp;#243;n ayudaba a la Princesa Syona a escribir sus memorias sobre la primera Argon War.&lt;BR&gt;&lt;BR&gt;Muri&amp;#243; hace poco, en el ataque a Magthulk Crater. Muchas p&amp;#225;ginas de su libro se perdieron.&lt;BR&gt;&lt;BR&gt;Si encuentras alguna, &amp;#191;me las devolver&amp;#225;s?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1008">
+        <Page social="5">[EN] This is all of them! Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I'll send a copy of this to our son in Allemantheia. I'm sure he'll appreciate having a book his father wrote.&lt;BR&gt;&lt;BR&gt;Please accept this copy and my gratitude.&lt;br&gt;[ES] &amp;#161;Estas son todas! Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Le enviar&amp;#233; una copia de esto a nuestro hijo en Allemantheia. Seguro que apreciar&amp;#225; tener un libro que escribi&amp;#243; su padre.&lt;BR&gt;&lt;BR&gt;Por favor, acepta esta copia y mi agradecimiento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" villagerId="1008">
+        <Page social="0">[EN] Have you seen the missing pages? I fear they may be lost forever.&lt;br&gt;[ES] &amp;#191;Has visto las p&amp;#225;ginas que faltan? Me temo que puedan haberse perdido para siempre.</Page>
+    </Text>
+</QuestDialog>

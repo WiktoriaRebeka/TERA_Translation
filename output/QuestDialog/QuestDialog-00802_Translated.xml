@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="4">[EN] The eldritch shards are what makes this region strategically valuable. It used to be so easy.&lt;BR&gt;&lt;BR&gt;We had a good rapport with the wendigos&amp;#8212;at least until the giants came. Between the giants, devan mercs, and angry wendigos, this is a rough posting.&lt;BR&gt;&lt;BR&gt;It's time to take the offensive. Report to Dena. She'll have your orders.&lt;br&gt;[ES] Los fragmentos arcanos son lo que hace que esta regi&amp;#243;n sea estrat&amp;#233;gicamente valiosa. Sol&amp;#237;a ser tan f&amp;#225;cil.&lt;BR&gt;&lt;BR&gt;Ten&amp;#237;amos una buena relaci&amp;#243;n con los wendigos, al menos hasta que llegaron los gigantes. Entre los gigantes, los mercenarios devan y los wendigos furiosos, este es un puesto dif&amp;#237;cil.&lt;BR&gt;&lt;BR&gt;Es hora de pasar a la ofensiva. Pres&amp;#233;ntate ante Dena. Ella te dar&amp;#225; tus &amp;#243;rdenes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1010">
+        <Page social="4">[EN] I greet you. There is much for you to do.&lt;BR&gt;&lt;BR&gt;The Junaidar struck a mining camp a few days ago. Many miners were killed and quite a few eldritch shards stolen.&lt;BR&gt;&lt;BR&gt;We need you to strike back and recover the shards. Kill the {@LinkCreature:34#300#Junaidar thieves}, {@LinkCreature:34#400#scourges}, and {@LinkCreature:34#310#bandits}, and retrieve their shard packs.&lt;br&gt;[ES] Te saludo. Hay mucho por hacer.&lt;BR&gt;&lt;BR&gt;Los Junaidar atacaron un campamento minero hace unos d&amp;#237;as. Muchos mineros murieron y bastantes fragmentos arcanos fueron robados.&lt;BR&gt;&lt;BR&gt;Necesitamos que contraataques y recuperes los fragmentos. Mata a los {@LinkCreature:34#300#Junaidar thieves}, {@LinkCreature:34#400#scourges} y {@LinkCreature:34#310#bandits}, y recupera sus paquetes de fragmentos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" prevId="3" villagerId="1010">
+        <Page social="4">[EN] Your efforts are appreciated. These remarkable crystals are used in magical shields.&lt;BR&gt;&lt;BR&gt;If the Mysterium can make it practical, each federation city will be guarded by such a device.&lt;BR&gt;&lt;BR&gt;We'll see that the miners' families are compensated for what you recovered.&lt;br&gt;[ES] Se agradecen tus esfuerzos. Estos notables crystals se usan en escudos m&amp;#225;gicos.&lt;BR&gt;&lt;BR&gt;Si el Mysterium puede hacerlo pr&amp;#225;ctico, cada ciudad de la federaci&amp;#243;n estar&amp;#225; protegida por tal dispositivo.&lt;BR&gt;&lt;BR&gt;Nos aseguraremos de que las familias de los mineros reciban una compensaci&amp;#243;n por lo que recuperaste.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" villagerId="1010">
+        <Page social="0">[EN] Much blood was spilled to collect those shards. If you recover them, I will make certain their families are paid.&lt;br&gt;[ES] Se derram&amp;#243; mucha sangre para recolectar esos fragmentos. Si los recuperas, me asegurar&amp;#233; de que se les pague a sus familias.</Page>
+    </Text>
+</QuestDialog>

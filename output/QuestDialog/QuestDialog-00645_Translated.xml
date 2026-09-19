@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="4">[EN] These cultists aren't giving up! We'll need to eliminate all of them!&lt;BR&gt;&lt;BR&gt;Start with the {@LinkCreature:25#2061#devan vanguards} and {@LinkCreature:25#2081#caiman scavengers}. They may not look tough, but they're definitely troublesome.&lt;br&gt;[ES] &amp;#161;Estos cultistas no se van a rendir! &amp;#161;Tendremos que eliminarlos a todos!&lt;BR&gt;&lt;BR&gt;Empieza con los {@LinkCreature:25#2061#devan vanguards} y los {@LinkCreature:25#2081#caiman scavengers}. Puede que no parezcan fuertes, pero sin duda son muy molestos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">[EN] That's a good-sized dent in their numbers. Sometimes I wonder if we'll ever have an assignment that ISN'T killing cultists.&lt;br&gt;[ES] Es un buen golpe a sus n&amp;#250;meros. A veces me pregunto si alguna vez tendremos una misi&amp;#243;n que NO sea matar cultistas.</Page>
+    </Text>
+</QuestDialog>

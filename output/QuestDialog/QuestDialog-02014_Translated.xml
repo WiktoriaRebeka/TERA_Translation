@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">[EN] You learned about the Freeholds Specialty drink just when your thrist hit its peak.&lt;br&gt;[ES] Te enteraste de la bebida especial de Freeholds justo cuando tu sed llegaba al l&amp;#237;mite.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="4" voiceTypeId="0">[EN] Feeling thirsty, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Let me introduce you to the &lt;font color='#0000FF'&gt;Freeholds Specialty&lt;/font&gt; drink!&lt;br&gt;[ES] &amp;#191;Tienes sed, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;&amp;#161;D&amp;#233;jame presentarte la bebida &lt;font color='#0000FF'&gt;Freeholds Specialty&lt;/font&gt;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4" voiceTypeId="0">[EN] Greetings &lt;PCNAME&gt;. Are you enjoying the festival?&lt;BR&gt;&lt;BR&gt;Please allow me to teach you how to make a &lt;font color='#0000FF'&gt;Freeholds Specialty&lt;/font&gt; drink.&lt;BR&gt;&lt;BR&gt;Why don't you try one first?&lt;br&gt;[ES] Saludos &lt;PCNAME&gt;. &amp;#191;Est&amp;#225;s disfrutando del festival?&lt;BR&gt;&lt;BR&gt;Por favor, perm&amp;#237;teme ense&amp;#241;arte a preparar una bebida &lt;font color='#0000FF'&gt;Freeholds Specialty&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; no pruebas una primero?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4" voiceTypeId="0">[EN] How was it? Every single drop was delicious, right?&lt;BR&gt;&lt;BR&gt;Trust me, it wasn't easy finding the right combination of flavors. To make a &lt;font color='#0000FF'&gt;Freeholds Specialty&lt;/font&gt; drink for yourself, you need a special ingredient.&lt;BR&gt;&lt;BR&gt;Here's the recipe.&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; tal estuvo? Cada una de las gotas fue deliciosa, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Cr&amp;#233;eme, no fue f&amp;#225;cil encontrar la combinaci&amp;#243;n correcta de sabores. Para preparar una bebida &lt;font color='#0000FF'&gt;Freeholds Specialty&lt;/font&gt; por tu cuenta, necesitas un ingrediente especial.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes la receta.</Page>
+    </Text>
+</QuestDialog>

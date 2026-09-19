@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0">[EN] &lt;PCNAME&gt;, are you any good at jumping?&lt;BR&gt;&lt;BR&gt;How about falling?&lt;BR&gt;&lt;BR&gt;We need someone to jump through the caved-in floor and descend&amp;#8212;plummet, really&amp;#8212;to the basement.&lt;BR&gt;&lt;BR&gt;There's a scout there, Waqaar, whom we haven't heard from in some time. Check on him, then fight your way back up here when you're done down there.&lt;br&gt;[ES] &lt;PCNAME&gt;, &amp;#191;qu&amp;#233; tal se te da saltar?&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; tal caer?&lt;BR&gt;&lt;BR&gt;Necesitamos a alguien que salte por el suelo derrumbado y descienda &amp;#8212;en ca&amp;#237;da libre, en realidad&amp;#8212; hasta el s&amp;#243;tano.&lt;BR&gt;&lt;BR&gt;Hay un explorador all&amp;#237;, Waqaar, de quien no hemos tenido noticias en un buen tiempo. Rev&amp;#237;salo y luego &amp;#225;brete paso luchando de regreso aqu&amp;#237; cuando termines all&amp;#225; abajo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1024">
+        <Page social="4">[EN] The bad news: that's the hole you're jumping through. And no, there's no other way down.&lt;BR&gt;&lt;BR&gt;The good news: we sent a teleport master down there yesterday, so you should be able to get back.&lt;BR&gt;&lt;BR&gt;Assuming the teleport master survived the drop, that is...&lt;br&gt;[ES] Las malas noticias: ese es el agujero por el que vas a saltar. Y no, no hay otra forma de bajar.&lt;BR&gt;&lt;BR&gt;Las buenas noticias: enviamos a un maestro de teletransporte all&amp;#225; abajo ayer, as&amp;#237; que deber&amp;#237;as poder regresar.&lt;BR&gt;&lt;BR&gt;Suponiendo que el maestro de teletransporte haya sobrevivido a la ca&amp;#237;da, claro...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1013">
+        <Page social="4">[EN] What a rush, eh?&lt;BR&gt;&lt;BR&gt;I hope you've mastered combat as well as you've mastered gravity, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;We've got a lot of work to do down here.&lt;br&gt;[ES] Qu&amp;#233; descarga de adrenalina, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Espero que domines el combate tan bien como has dominado la gravedad, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Tenemos mucho trabajo que hacer aqu&amp;#237; abajo.</Page>
+    </Text>
+</QuestDialog>

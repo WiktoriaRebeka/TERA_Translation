@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="5">[EN] Say, one of our soldiers went missing while we were on patrol near the temple guesthouse. It was a terrible shock to everyone, of course&amp;#8212;we turned around and he was gone.&lt;BR&gt;&lt;BR&gt;It would mean a lot to me if you'd look for Tilian. Will you?&lt;br&gt;[ES] Mira, uno de nuestros soldados desapareci&amp;#243; mientras patrull&amp;#225;bamos cerca de la casa de hu&amp;#233;spedes del templo. Fue un golpe terrible para todos, por supuesto; nos dimos la vuelta y ya no estaba.&lt;BR&gt;&lt;BR&gt;Significar&amp;#237;a mucho para m&amp;#237; si buscaras a Tilian. &amp;#191;Lo har&amp;#225;s?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1006">
+        <Page social="4">[EN] So he's dead. I was certain he must be, but still....&lt;BR&gt;&lt;BR&gt;Will you tell his brother, Burtrand?&lt;br&gt;[ES] As&amp;#237; que est&amp;#225; muerto. Estaba seguro de que lo estaba, pero aun as&amp;#237;...&lt;BR&gt;&lt;BR&gt;&amp;#191;Se lo dir&amp;#225;s a su hermano, Burtrand?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1006">
+        <Page social="0">[EN] Please find Tilian. Not knowing what happened to him is hard on all of us.&lt;br&gt;[ES] Por favor, encuentra a Tilian. No saber qu&amp;#233; le pas&amp;#243; es dif&amp;#237;cil para todos nosotros.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="3" villagerId="1016">
+        <Page social="4">[EN] Tilian is dead? I suppose I was still holding on to some hope that he'd be back. I can only hope it was quick.&lt;BR&gt;&lt;BR&gt;I'll be all right. Really. And every one of those bastards I kill will be for him.&lt;br&gt;[ES] &amp;#191;Tilian est&amp;#225; muerto? Supongo que a&amp;#250;n ten&amp;#237;a la esperanza de que volviera. Solo espero que haya sido r&amp;#225;pido.&lt;BR&gt;&lt;BR&gt;Estar&amp;#233; bien. De verdad. Y cada uno de esos bastardos que mate ser&amp;#225; por &amp;#233;l.</Page>
+    </Text>
+</QuestDialog>

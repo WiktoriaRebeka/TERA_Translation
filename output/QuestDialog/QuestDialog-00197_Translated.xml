@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="4">[EN] There's still tons to do, &lt;PCNAME&gt;. Rendia's requested reinforcements and I'd be cruel to send her anyone but you.&lt;BR&gt;&lt;BR&gt;Head to Vanguard Post Beta and help pacify the lower chambers.&lt;br&gt;[ES] Todav&amp;#237;a hay much&amp;#237;simo por hacer, &lt;PCNAME&gt;. Rendia ha solicitado refuerzos y ser&amp;#237;a cruel enviarle a alguien que no seas t&amp;#250;.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a Vanguard Post Beta y ayuda a pacificar las c&amp;#225;maras inferiores.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1014">
+        <Page social="4">[EN] Loxetrius sent you. Good. I was starting to think he was hoarding all the reinforcements.&lt;br&gt;[ES] Loxetrius te envi&amp;#243;. Qu&amp;#233; bien. Ya empezaba a pensar que se estaba guardando todos los refuerzos.</Page>
+    </Text>
+</QuestDialog>

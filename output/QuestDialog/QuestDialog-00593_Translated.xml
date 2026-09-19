@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="5">[EN] Reports are coming in about {@LinkCreature:23#25#guerrilla officers} and other {@LinkCreature:23#19#popori rebels} skulking about the lake. They might be scouting for an attack or simply gathering intelligence. It doesn't matter. They must die.&lt;BR&gt;&lt;BR&gt;While they're watching us, you'll watch them...die! No mercy to traitors of the kingdom.&lt;br&gt;[ES] Est&amp;#225;n llegando informes sobre {@LinkCreature:23#25#guerrilla officers} y otros {@LinkCreature:23#19#popori rebels} merodeando por el lago. Podr&amp;#237;an estar explorando para un ataque o simplemente recopilando informaci&amp;#243;n. No importa. &amp;#161;Deben morir!&lt;BR&gt;&lt;BR&gt;Mientras ellos nos vigilan, t&amp;#250; los ver&amp;#225;s... &amp;#161;morir! Sin piedad para los traidores del reino.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1018">
+        <Page social="5">[EN] Those who turn against the kingdom turn against nature herself. They deserved their fate.&lt;BR&gt;&lt;BR&gt;General {@LinkCreature:223#1003$$Menani} has asked about your progress. Report in and bring her up to speed.&lt;BR&gt;&lt;BR&gt;Don't waste the general's time, though. Stick to the facts.&lt;br&gt;[ES] Los que se vuelven contra el reino se vuelven contra la naturaleza misma. Se merec&amp;#237;an su destino.&lt;BR&gt;&lt;BR&gt;La general {@LinkCreature:223#1003$$Menani} ha preguntado por tu progreso. Inf&amp;#243;rmale y ponla al d&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Sin embargo, no le hagas perder el tiempo a la general. Lim&amp;#237;tate a los hechos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1003">
+        <Page social="5">[EN] This is a dark time for our kingdom. Your efforts may help us resolve this pointless conflict and restore balance to Poporia. Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] Este es un momento oscuro para nuestro reino. Tus esfuerzos pueden ayudarnos a resolver este conflicto sin sentido y restaurar el equilibrio en Poporia. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

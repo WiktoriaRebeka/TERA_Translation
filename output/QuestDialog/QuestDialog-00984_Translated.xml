@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1005">
+        <Page social="4">[EN] I have a favor to ask. We're supposed to be observing the Black Claw orcans, but we're overrun with {@LinkCreature:41#1003#sable sabertooths} and {@LinkCreature:41#1002#noralk kamaras}.&lt;BR&gt;&lt;BR&gt;Keeping their numbers down doesn't leave us much time, not to mention the problem of injuries. Will you join the hunt while you're here? {@LinkCreature:241#1003$$Jaebel} will pay you.&lt;br&gt;[ES] Tengo un favor que pedir. Supuestamente debemos vigilar a los orcans de Black Claw, pero estamos plagados de {@LinkCreature:41#1003#sable sabertooths} y {@LinkCreature:41#1002#noralk kamaras}.&lt;BR&gt;&lt;BR&gt;Mantener sus n&amp;#250;meros bajos no nos deja mucho tiempo, sin mencionar el problema de las heridas. &amp;#191;Te unir&amp;#225;s a la cacer&amp;#237;a mientras est&amp;#225;s aqu&amp;#237;? {@LinkCreature:241#1003$$Jaebel} te pagar&amp;#225;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1003">
+        <Page social="4">[EN] You've helped us a great deal. I'd like you to have this token of our gratitude.&lt;br&gt;[ES] Nos has ayudado much&amp;#237;simo. Me gustar&amp;#237;a que tengas esta muestra de nuestra gratitud.</Page>
+    </Text>
+</QuestDialog>

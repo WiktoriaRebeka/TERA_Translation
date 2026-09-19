@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="4">[EN] First thing's going to be taking care of the ones we can see&amp;#8212;those {@LinkCreature:16#2205#Stalker Company scouts}, {@LinkCreature:16#2206#warriors}, {@LinkCreature:16#2207#blademasters} and {@LinkCreature:16#2208#assassins}.&lt;BR&gt;&lt;BR&gt;With them in the lead, it won't take long for the threat to reach Popolion. We can't have that.&lt;BR&gt;&lt;BR&gt;Bring back those rings they wear&amp;#8212;we'll show their friends that we can be in it for the money, too.&lt;br&gt;[ES] Lo primero ser&amp;#225; encargarnos de los que podemos ver: los {@LinkCreature:16#2205#Stalker Company scouts}, {@LinkCreature:16#2206#warriors}, {@LinkCreature:16#2207#blademasters} y {@LinkCreature:16#2208#assassins}.&lt;BR&gt;&lt;BR&gt;Con ellos a la cabeza, la amenaza tardar&amp;#225; poco en llegar a Popolion. No podemos permitir eso.&lt;BR&gt;&lt;BR&gt;Trae de vuelta los anillos que llevan; les demostraremos a sus amigos que nosotros tambi&amp;#233;n podemos estar en esto por el dinero.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1008">
+        <Page social="5">[EN] You've got the rings? Good, give them here.&lt;BR&gt;&lt;BR&gt;Oh, I know just what to do with these.&lt;BR&gt;&lt;BR&gt;Good work, &lt;PCNAME&gt;.&lt;br&gt;[ES] &amp;#191;Tienes los anillos? Bien, dales ac&amp;#225;.&lt;BR&gt;&lt;BR&gt;Oh, ya s&amp;#233; exactamente qu&amp;#233; hacer con esto.&lt;BR&gt;&lt;BR&gt;Buen trabajo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1008">
+        <Page social="0">[EN] Haven't left yet? Not scared, are ya?&lt;br&gt;[ES] &amp;#191;A&amp;#250;n no te has ido? No tienes miedo, &amp;#191;o s&amp;#237;?</Page>
+    </Text>
+</QuestDialog>

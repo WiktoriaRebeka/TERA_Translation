@@ -1,0 +1,9 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="1022" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] How many more must you kill before it ends? Will it end? Is this the last?&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;- Warning! - &lt;/font&gt;&lt;BR&gt;&lt;font color='#660000'&gt;A maximum of 120 players can work in this area on this quest. If you leave this area, your quest will be canceled.&lt;/font&gt;&lt;br&gt;[ES] &amp;#191;Cu&amp;#225;ntos m&amp;#225;s debes matar antes de que termine? &amp;#191;Terminar&amp;#225;? &amp;#191;Es este el &amp;#250;ltimo?&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;- &amp;#161;Advertencia! - &lt;/font&gt;&lt;BR&gt;&lt;font color='#660000'&gt;Un m&amp;#225;ximo de 120 jugadores pueden trabajar en esta &amp;#225;rea en esta misi&amp;#243;n. Si abandonas esta &amp;#225;rea, tu misi&amp;#243;n ser&amp;#225; cancelada.&lt;/font&gt;</Page>
+    </Text>
+</QuestDialog>

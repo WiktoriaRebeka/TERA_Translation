@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="6101">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="6101">
+        <Page social="4" voiceTypeId="0">[EN] &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;After the Challenger Cannon's shot was reflected, our troops were scattered.&lt;BR&gt;&lt;BR&gt;I located most of them, but there are still many I couldn't find.&lt;BR&gt;&lt;BR&gt;Can you do another search?&lt;br&gt;[ES] &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de que el disparo del Challenger Cannon fuera reflejado, nuestras tropas se dispersaron.&lt;BR&gt;&lt;BR&gt;Localic&amp;#233; a la mayor&amp;#237;a, pero todav&amp;#237;a hay muchos que no pude encontrar.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes hacer otra b&amp;#250;squeda?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="6101">
+        <Page social="4" voiceTypeId="0">[EN] Thank you for your help.&lt;BR&gt;&lt;BR&gt;Those soldiers might have died if you weren't here.&lt;BR&gt;&lt;BR&gt;We thought this would be easy...and paid a terrible price for our pride.&lt;BR&gt;&lt;BR&gt;We need another plan to defeat Exodor.&lt;br&gt;[ES] Gracias por tu ayuda.&lt;BR&gt;&lt;BR&gt;Esos soldados habr&amp;#237;an muerto si no hubieras estado aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Pensamos que esto ser&amp;#237;a f&amp;#225;cil... y pagamos un precio terrible por nuestro orgullo.&lt;BR&gt;&lt;BR&gt;Necesitamos otro plan para derrotar a Exodor.</Page>
+    </Text>
+</QuestDialog>

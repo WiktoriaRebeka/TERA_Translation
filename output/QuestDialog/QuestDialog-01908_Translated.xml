@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">[EN] Have some time on your hands, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"As a matter of fact, I do."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Tienes tiempo libre, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"As a matter of fact, I do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] {@LinkCreature:63#3002#Taratia} needs a hand. Poor thing only has two&amp;#8212;as she keeps telling me. What I wouldn't give for a trained cephalopod.&lt;BR&gt;&lt;BR&gt;Anyway, I'm sure she can put your idle hands to work.&lt;br&gt;[ES] {@LinkCreature:63#3002#Taratia} necesita una mano. La pobre solo tiene dos, como no se cansa de decirme. Lo que dar&amp;#237;a por un cefal&amp;#243;podo entrenado.&lt;BR&gt;&lt;BR&gt;En fin, estoy seguro de que ella sabr&amp;#225; poner a trabajar tus ociosas manos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">[EN] Did {@LinkCreature:63#3003#Elthienne} tell you I couldn't handle this on my own? She has some nerve. I'll show her what I'm made of, she'll see...&lt;BR&gt;&lt;BR&gt;Sorry. I'm a little on edge today. I have a "friend" visiting from out of town.&lt;BR&gt;&lt;BR&gt;All right, well go to it then.&lt;br&gt;[ES] &amp;#191;Te dijo {@LinkCreature:63#3003#Elthienne} que no pod&amp;#237;a encargarme de esto sola? Qu&amp;#233; descarada. Ya le mostrar&amp;#233; de qu&amp;#233; estoy hecha, ya ver&amp;#225;...&lt;BR&gt;&lt;BR&gt;Disculpa. Estoy un poco tensa hoy. Me visita un &quot;amigo&quot; de fuera de la ciudad.&lt;BR&gt;&lt;BR&gt;Muy bien, manos a la obra entonces.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">[EN] Thanks, friend.&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has a little something for your trouble.&lt;br&gt;[ES] Gracias, amigo.&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene algo peque&amp;#241;o para ti por las molestias.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Where's the {@RawItem:206801} I asked you to get? This is making me look bad, you realize.&lt;br&gt;[ES] &amp;#191;D&amp;#243;nde est&amp;#225; el {@RawItem:206801} que te ped&amp;#237; que trajeras? Te das cuenta de que esto me hace quedar mal.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] Thanks, friend.&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has a little something for your trouble.&lt;br&gt;[ES] Gracias, amigo.&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene algo peque&amp;#241;o para ti por las molestias.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Where's the {@RawItem:206802} I asked you to get? This is making me look bad, you realize.&lt;br&gt;[ES] &amp;#191;D&amp;#243;nde est&amp;#225; el {@RawItem:206802} que te ped&amp;#237; que trajeras? Te das cuenta de que esto me hace quedar mal.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] Thanks, friend.&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has a little something for your trouble.&lt;br&gt;[ES] Gracias, amigo.&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene algo peque&amp;#241;o para ti por las molestias.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Where's the {@RawItem:206803} I asked you to get? This is making me look bad, you realize.&lt;br&gt;[ES] &amp;#191;D&amp;#243;nde est&amp;#225; el {@RawItem:206803} que te ped&amp;#237; que trajeras? Te das cuenta de que esto me hace quedar mal.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] Thanks, friend.&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has a little something for your trouble.&lt;br&gt;[ES] Gracias, amigo.&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene algo peque&amp;#241;o para ti por las molestias.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Where's the {@RawItem:206804} I asked you to get? This is making me look bad, you realize.&lt;br&gt;[ES] &amp;#191;D&amp;#243;nde est&amp;#225; el {@RawItem:206804} que te ped&amp;#237; que trajeras? Te das cuenta de que esto me hace quedar mal.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] Thanks, friend.&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has a little something for your trouble.&lt;br&gt;[ES] Gracias, amigo.&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene algo peque&amp;#241;o para ti por las molestias.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Where's the {@RawItem:206805} I asked you to get? This is making me look bad, you realize.&lt;br&gt;[ES] &amp;#191;D&amp;#243;nde est&amp;#225; el {@RawItem:206805} que te ped&amp;#237; que trajeras? Te das cuenta de que esto me hace quedar mal.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">[EN] Thanks, &lt;PCNAME&gt;! Taratia has you to thank for her continued employment.&lt;br&gt;[ES] &amp;#161;Gracias, &lt;PCNAME&gt;! Taratia te debe el que pueda conservar su empleo.</Page>
+    </Text>
+</QuestDialog>

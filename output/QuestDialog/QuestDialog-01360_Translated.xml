@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1014">
+        <Page social="4">[EN] By elven doctrine, our armies have few officers and many soldiers. No officers means no discipline&amp;#8212;too many are inefficient.&lt;BR&gt;&lt;BR&gt;After all these battles so many of the deva footsoldiers are dead, and yet their officers&amp;#8212;the viziers and reavers&amp;#8212;still live.&lt;BR&gt;&lt;BR&gt;I draw near my point. Bringing them to proper elven trim is overambitious, but might we not...even their numbers?&lt;br&gt;[ES] Seg&amp;#250;n la doctrina &amp;#233;lfica, nuestros ej&amp;#233;rcitos tienen pocos oficiales y muchos soldados. Sin oficiales no hay disciplina; demasiados son ineficientes.&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de todas estas batallas, muchos de los soldados rasos deva est&amp;#225;n muertos, y sin embargo sus oficiales &amp;#8212;los visires y saqueadores&amp;#8212; siguen vivos.&lt;BR&gt;&lt;BR&gt;Me acerco a mi punto. Dejarlos en una correcta forma &amp;#233;lfica es demasiado ambicioso, pero &amp;#191;no podr&amp;#237;amos... igualar sus n&amp;#250;meros?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1014">
+        <Page social="4">[EN] Aah, blessed symmetry. I'm sure the devas will thank us for it later.&lt;br&gt;[ES] Ah, simetr&amp;#237;a bendita. Estoy seguro de que los devas nos lo agradecer&amp;#225;n m&amp;#225;s tarde.</Page>
+    </Text>
+</QuestDialog>

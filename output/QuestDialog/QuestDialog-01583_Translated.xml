@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="60" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Dougal asked you to investigate the argon raptor issue.&lt;br&gt;[ES] Dougal te pidi&amp;#243; que investigaras el problema de los raptores de argones.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] &lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;I need your help again. This time it's...well, you might only believe it if I can show you. Find me in Highwatch.&lt;BR&gt;&lt;BR&gt;&amp;#8212;Dougal&lt;br&gt;[ES] &lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Necesito tu ayuda otra vez. Esta vez es... bueno, quiz&amp;#225;s solo lo creas si puedo mostr&amp;#225;rtelo. Encu&amp;#233;ntrame en Highwatch.&lt;BR&gt;&lt;BR&gt;&amp;#8212;Dougal</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1021">
+        <Page social="4">[EN] Good to see you again! Now, let's talk raptors.&lt;BR&gt;&lt;BR&gt;Yes, raptors! And not just any raptors. Argon raptors.&lt;BR&gt;&lt;BR&gt;I could give you a long preamble about why I need you to clear them out, but I think the phrase "argon raptors" more or less explains it, don't you?&lt;br&gt;[ES] &amp;#161;Qu&amp;#233; bueno verte de nuevo! Ahora hablemos de raptores.&lt;BR&gt;&lt;BR&gt;&amp;#161;S&amp;#237;, raptors! Y no cualquier raptor. &amp;#161;Raptors de argones!&lt;BR&gt;&lt;BR&gt;Podr&amp;#237;a darte un largo pre&amp;#225;mbulo sobre por qu&amp;#233; necesito que los elimines, pero creo que la frase &amp;quot;raptors de argones&amp;quot; lo explica m&amp;#225;s o menos, &amp;#191;no crees?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1021">
+        <Page social="4">[EN] Great work, as always. Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Please take this reward on behalf of the federation.&lt;br&gt;[ES] Gran trabajo, como siempre. Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Por favor, acepta esta recompensa de parte de la federation.</Page>
+    </Text>
+</QuestDialog>

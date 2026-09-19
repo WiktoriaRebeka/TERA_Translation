@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1024">
+        <Page social="4">[EN] Elsine's work requires a lot of mana. It wouldn't have been a problem if we had cores, but they're almost impossible to find in places like this.&lt;BR&gt;&lt;BR&gt;The good news is that the Cultists near the ruins, such as the {@LinkCreature:24#17#eldritch masters} and {@LinkCreature:24#18#skullcleavers}, have mana. Of course, their mana is tainted with evil, but purifying it is easy. Bring me their mana orbs.&lt;BR&gt;&lt;BR&gt;Well, they're not exactly orbs, but hearts. Either way, bring them to me.&lt;br&gt;[ES] El trabajo de Elsine requiere mucho man&amp;#225;. No habr&amp;#237;a sido un problema si tuvi&amp;#233;ramos n&amp;#250;cleos, pero son casi imposibles de encontrar en lugares como este.&lt;BR&gt;&lt;BR&gt;La buena noticia es que los Cultistas cerca de las ruinas, como los {@LinkCreature:24#17#eldritch masters} y {@LinkCreature:24#18#skullcleavers}, tienen man&amp;#225;. Por supuesto, su man&amp;#225; est&amp;#225; contaminado con maldad, pero purificarlo es f&amp;#225;cil. Tr&amp;#225;eme sus orbes de man&amp;#225;.&lt;BR&gt;&lt;BR&gt;Bueno, no son exactamente orbes, sino corazones. De cualquier manera, tr&amp;#225;emelos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1024">
+        <Page social="5">[EN] Thank you&amp;#8212;that can't have been pleasant, but it needed to be done. Please take these hearts to Elsine now.&lt;br&gt;[ES] Gracias. Seguro que no fue agradable, pero ten&amp;#237;a que hacerse. Por favor, lleva estos corazones a Elsine ahora.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1024">
+        <Page social="0">[EN] Did you collect those hearts? You still think you can do it, right?&lt;br&gt;[ES] &amp;#191;Recogiste esos corazones? Todav&amp;#237;a crees que puedes hacerlo, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="224" prevId="3" villagerId="1002">
+        <Page social="4">[EN] Allow me to express my gratitude for your diligence. These are just what is required.&lt;br&gt;[ES] Perm&amp;#237;teme expresar mi agradecimiento por tu diligencia. Estos son justo lo que se necesita.</Page>
+    </Text>
+</QuestDialog>

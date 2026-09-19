@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1026">
+        <Page social="5">[EN] My sisters found an altar in the catacombs.&lt;BR&gt;&lt;BR&gt;Mahagi spotted it. She's hiding in the Malefic Laboratories, east of here.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:22#23#mekonari sorcerers}, {@LinkCreature:22#24#ebon imp thralls}, and {@LinkCreature:22#25#mekonari darkweavers} stand in your way. Obliterate them and find her.&lt;br&gt;[ES] Mis hermanas encontraron un altar en las catacumbas.&lt;BR&gt;&lt;BR&gt;Mahagi lo vio. Ella se est&amp;#225; escondiendo en los Malefic Laboratories, al este de aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:22#23#mekonari sorcerers}, {@LinkCreature:22#24#ebon imp thralls} y {@LinkCreature:22#25#mekonari darkweavers} se interponen en tu camino. Oblit&amp;#233;ralos y encu&amp;#233;ntrala.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1020">
+        <Page social="5">[EN] I've heard a lot about you from the others.&lt;BR&gt;&lt;BR&gt;Your hands are covered with the blood of my sister witches, but this is a day all of us are so stained.&lt;BR&gt;&lt;BR&gt;Let's put an end to this.&lt;br&gt;[ES] He o&amp;#237;do mucho sobre ti por los dem&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Tus manos est&amp;#225;n cubiertas con la sangre de mis hermanas brujas, pero este es un d&amp;#237;a en el que todos estamos tan manchados.&lt;BR&gt;&lt;BR&gt;Pongamos fin a esto.</Page>
+    </Text>
+</QuestDialog>

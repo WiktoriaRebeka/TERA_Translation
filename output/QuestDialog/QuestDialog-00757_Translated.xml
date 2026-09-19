@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="4">[EN] How can I think of war when all my heart thinks of is Nashwa?&lt;BR&gt;&lt;BR&gt;I would throw myself headlong into battle to win her interest, but she is too distracted by our weapons shortage to notice anything.&lt;BR&gt;&lt;BR&gt;I hear Acarum arms their recruits by raiding mercenary camps. Could you do that for us?&lt;BR&gt;&lt;BR&gt;We don't have soldiers to spare for such a mission, but if you hit the camps, the {@LinkCreature:32#8#Stalker Company destroyers} should have weapons enough for our recruits. Then Nashwa will be free to think about other things...like me!&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo puedo pensar en la guerra cuando todo en lo que piensa mi coraz&amp;#243;n es en Nashwa?&lt;BR&gt;&lt;BR&gt;Me lanzar&amp;#237;a de cabeza a la batalla para ganarme su inter&amp;#233;s, pero est&amp;#225; demasiado distra&amp;#237;da por nuestra escasez de armas como para notar cualquier otra cosa.&lt;BR&gt;&lt;BR&gt;Escuch&amp;#233; arman a sus reclutas asaltando campamentos mercenarios. &amp;#191;Podr&amp;#237;as hacer eso por nosotros?&lt;BR&gt;&lt;BR&gt;No tenemos soldados de sobra para una misi&amp;#243;n as&amp;#237;, pero si atacas los campamentos, los {@LinkCreature:32#8#Stalker Company destroyers} deber&amp;#237;an tener suficientes armas para nuestros reclutas. &amp;#161;Entonces Nashwa ser&amp;#225; libre de pensar en otras cosas... como en m&amp;#237;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1004">
+        <Page social="4">[EN] This is superb. If I bring these to Nashwa, I'll be her hero!&lt;BR&gt;&lt;BR&gt;Here's a token of my appreciation. Buy something nice to wear to our wedding!&lt;br&gt;[ES] Esto es magn&amp;#237;fico. Si le llevo esto a Nashwa, &amp;#161;ser&amp;#233; su h&amp;#233;roe!&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes una muestra de mi agradecimiento. &amp;#161;Compra algo bonito para ponerte en nuestra boda!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1004">
+        <Page social="0">[EN] The mercenary camps in the Gloomy Tundra are the best place to find weapons. You just have to kill the {@LinkCreature:32#8#Stalker Company destroyers}.&lt;br&gt;[ES] Los campamentos mercenarios en la Gloomy Tundra son el mejor lugar para encontrar armas. Solo tienes que matar a los {@LinkCreature:32#8#Stalker Company destroyers}.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" prevId="3" villagerId="1005">
+        <Page social="4">[EN] What kind of fool does he think I am? Khasib just brought me a pile of weapons as if they were a bouquet of flowers. What did he think I would do?&lt;BR&gt;&lt;BR&gt;We're in the middle of a war and he's acting like a schoolboy. I think I let him down too gently. Next time I'm not going to be so patient.&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; clase de tonto cree que soy? Khasib acaba de traerme un mont&amp;#243;n de armas como si fueran un ramo de flores. &amp;#191;Qu&amp;#233; cre&amp;#237;a que har&amp;#237;a?&lt;BR&gt;&lt;BR&gt;Estamos en medio de una guerra y &amp;#233;l act&amp;#250;a como un colegial. Creo que fui demasiado blanda con &amp;#233;l. La pr&amp;#243;xima vez no voy a ser tan paciente.</Page>
+    </Text>
+</QuestDialog>

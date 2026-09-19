@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="5" voiceTypeId="0">[EN] {@LinkCreature:488#17#Chaos Witches} gather wherever souls are in turmoil&amp;#8212;or there's a lot of death.&lt;BR&gt;&lt;BR&gt;They extract some kind of powder from those who died violently, then use it for their magic.&lt;BR&gt;&lt;BR&gt;Dying is bad enough. You shouldn't also become an ingredient for a witch's spell!&lt;br&gt;[ES] Las {@LinkCreature:488#17#Chaos Witches} se re&amp;#250;nen donde hay almas en turbulencia, o donde hay mucha muerte.&lt;BR&gt;&lt;BR&gt;Extraen alg&amp;#250;n tipo de polvo de aquellos que murieron violentamente, y luego lo usan para su magia.&lt;BR&gt;&lt;BR&gt;Morir ya es bastante malo. &amp;#161;Tampoco deber&amp;#237;as convertirte en un ingrediente para el hechizo de una bruja!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1031">
+        <Page social="4" voiceTypeId="0">[EN] I'll take this powder and bury it with full military honors. It's the right thing to do.&lt;br&gt;[ES] Tomar&amp;#233; este polvo y lo enterrar&amp;#233; con todos los honores militares. Es lo correcto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1031">
+        <Page social="0">[EN] Please, get that powder back. It's a question of honor.&lt;br&gt;[ES] Por favor, recupera ese polvo. Es una cuesti&amp;#243;n de honor.</Page>
+    </Text>
+</QuestDialog>

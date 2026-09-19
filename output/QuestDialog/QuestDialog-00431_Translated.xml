@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1021">
+        <Page social="5">[EN] I was gathering herbs with my dad, and we got separated. Then the {@LinkCreature:16#2209#gloomtusks} attacked, so I ran and hid.&lt;BR&gt;&lt;BR&gt;My dad must be so worried. Do you think you could take care of those animals for me? Just enough to clear the path, so I can find my dad?&lt;br&gt;[ES] Estaba recolectando hierbas con mi pap&amp;#225; y nos separamos. Entonces los {@LinkCreature:16#2209#gloomtusks} atacaron, as&amp;#237; que corr&amp;#237; y me escond&amp;#237;.&lt;BR&gt;&lt;BR&gt;Mi pap&amp;#225; debe estar muy preocupado. &amp;#191;Crees que podr&amp;#237;as encargarte de esos animales por m&amp;#237;? &amp;#191;Lo suficiente para despejar el camino y as&amp;#237; poder encontrar a mi pap&amp;#225;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1021">
+        <Page social="4">[EN] That was so fast!&lt;BR&gt;&lt;BR&gt;I hate to think of my dad worrying about me&amp;#8212;do you think we could go find him right now? Please?&lt;br&gt;[ES] &amp;#161;Fue muy r&amp;#225;pido!&lt;BR&gt;&lt;BR&gt;Me da pena pensar que mi pap&amp;#225; est&amp;#233; preocupado por m&amp;#237;; &amp;#191;crees que podemos ir a buscarlo ahora mismo? &amp;#191;Por favor?</Page>
+    </Text>
+</QuestDialog>

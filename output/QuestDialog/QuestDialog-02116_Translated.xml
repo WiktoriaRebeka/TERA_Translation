@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3035" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="3035" prevId="0" villagerId="1001">
+        <Page social="0">[EN] Now, let's see how you set up Glyphs and EP.&lt;br&gt;[ES] Ahora, veamos c&amp;#243;mo configuras los Glyphs y los EP.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] After arriving in Velik&amp;#8217;s Sanctum, you started your training to become a true hero.&lt;br&gt;[ES] Tras llegar a Velik&amp;#8217;s Sanctum, comenzaste tu entrenamiento para convertirte en un verdadero h&amp;#233;roe.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3035" prevId="1" villagerId="1001">
+        <Page social="0">[EN] Please equip the Glyphs you have. We&amp;#8217;ll move on to setting up your Glyphs and EP.&lt;br&gt;[ES] Por favor, equ&amp;#237;pate los Glyphs que tienes. Continuaremos con la configuraci&amp;#243;n de tus Glyphs y EP.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3035" prevId="3" villagerId="1001">
+        <Page social="0">[EN] Good job! Now, on to the Skill Advancement.&lt;br&gt;[ES] &amp;#161;Buen trabajo! Ahora, pasemos a la Skill Advancement.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3035" prevId="4" villagerId="1001">
+        <Page social="0">[EN] Good job! Now, next will be about the partners.&lt;br&gt;[ES] &amp;#161;Buen trabajo! Ahora, lo siguiente tratar&amp;#225; sobre los partners.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="3035" prevId="5" villagerId="1001">
+        <Page social="0">[EN] Good job! Now, let's move on to the Card Collection.&lt;br&gt;[ES] &amp;#161;Buen trabajo! Ahora, pasemos a la Card Collection.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="3035" prevId="6" villagerId="1001">
+        <Page social="0">[EN] This time, let&amp;#8217;s try and fight monsters.&lt;br&gt;[ES] Esta vez, intentemos luchar contra los monstruos.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="3035" prevId="7" villagerId="1001">
+        <Page social="0">[EN] You've completed all the tutorials. Now, it's time you for you to enter the world and become the hero I know you can be.&lt;BR&gt;Please use the "Reset Instances" button to leave this place.&lt;br&gt;[ES] Has completado todos los tutoriales. Ahora es el momento de que entres al mundo y te conviertas en el h&amp;#233;roe que s&amp;#233; que puedes ser.&lt;BR&gt;Usa el bot&amp;#243;n &quot;Restablecer estancias&quot; para salir de este lugar.</Page>
+    </Text>
+</QuestDialog>

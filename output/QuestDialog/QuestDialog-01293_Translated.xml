@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1019">
+        <Page social="4">[EN] You see these poor souls? Not napping! The sickness makes them writhe in pain! I'm doing all I can do.&lt;BR&gt;&lt;BR&gt;You? You can bring plants for medicine. I've tried plants from all over&amp;#8212;now it's time to try something local. Spiritlace, it's called. Grows north of here.&lt;BR&gt;&lt;BR&gt;You pick the flowers; I heal the faeries. Got it?&lt;br&gt;[ES] &amp;#191;Ves a estas pobres almas? &amp;#161;No est&amp;#225;n tomando una siesta! &amp;#161;La enfermedad las hace retorcerse de dolor! Estoy haciendo todo lo que puedo.&lt;BR&gt;&lt;BR&gt;&amp;#191;T&amp;#250;? Puedes traer plantas para la medicina. He probado plantas de todas partes; ahora es el momento de probar algo local. Spiritlace, se llama. Crece al norte de aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;T&amp;#250; arrancas las flores; yo curo a las hadas. &amp;#191;Entendido?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1019">
+        <Page social="4">[EN] Spiritlace will ease the pain. With my alchemical skills, I bet I can make something to cure the sickness, too.&lt;BR&gt;&lt;BR&gt;Good thing you brought so much!&lt;br&gt;[ES] El Spiritlace aliviar&amp;#225; el dolor. Con mis habilidades alqu&amp;#237;micas, apuesto a que tambi&amp;#233;n puedo hacer algo para curar la enfermedad.&lt;BR&gt;&lt;BR&gt;&amp;#161;Menos mal que trajiste tanto!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" villagerId="1019">
+        <Page social="0">[EN] Spiritlace. Little flower on the ground. Get picking!&lt;br&gt;[ES] Spiritlace. Peque&amp;#241;a flor en el suelo. &amp;#161;A recogerla!</Page>
+    </Text>
+</QuestDialog>

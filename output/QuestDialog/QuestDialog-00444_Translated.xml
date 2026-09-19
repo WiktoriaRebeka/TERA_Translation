@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="4">[EN] You see the ovoliths hanging around here? Bad. Very bad. They make my soldiers nervous.&lt;BR&gt;&lt;BR&gt;You're already helping&amp;#8212;go kill a few and bring back their eyes. That should pick the soldiers up&amp;#8212;show them we're getting the upper hand!&lt;br&gt;[ES] &amp;#191;Ves los ovoliths merodeando por aqu&amp;#237;? Malo. Muy malo. Ponen nerviosos a mis soldados.&lt;BR&gt;&lt;BR&gt;Ya est&amp;#225;s ayudando, ve a matar a unos cuantos y tr&amp;#225;eme sus ojos. &amp;#161;Eso deber&amp;#237;a levantarles el &amp;#225;nimo a los soldados y mostrarles que estamos tomando la delantera!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="4">[EN] These will be just fine. A little morale-booster.&lt;BR&gt;&lt;BR&gt;Thank you.&lt;br&gt;[ES] Estos estar&amp;#225;n perfectos. Un peque&amp;#241;o est&amp;#237;mulo para la moral.&lt;BR&gt;&lt;BR&gt;Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1011">
+        <Page social="0">[EN] Have you gone yet?&lt;br&gt;[ES] &amp;#191;Ya te fuiste?</Page>
+    </Text>
+</QuestDialog>

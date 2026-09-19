@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="4">[EN] We're here to keep the undead in their place. To me, that means dead, but in the broader sense it means they shouldn't be coming up out of their cave.&lt;BR&gt;&lt;BR&gt;If you can get rid of the {@LinkCreature:20#30114002#ossugon prefects}, then I think you'll be able to quell the rest of them for a while.&lt;BR&gt;&lt;BR&gt;Oh! And don't forget their skulls. They can't reanimate without them.&lt;br&gt;[ES] Estamos aqu&amp;#237; para mantener a los no-muertos en su lugar. Para m&amp;#237;, eso significa muertos, pero en un sentido m&amp;#225;s amplio significa que no deber&amp;#237;an estar saliendo de su cueva.&lt;BR&gt;&lt;BR&gt;Si puedes deshacerte de los {@LinkCreature:20#30114002#ossugon prefects}, entonces creo que podr&amp;#225;s someter al resto por un tiempo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ah! Y no olvides sus cr&amp;#225;neos. No pueden reanimarse sin ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1027">
+        <Page social="4">[EN] Excellent. They no longer pose a threat as long as they're in pieces like this.&lt;BR&gt;&lt;BR&gt;Hopefully the rest will stay put.&lt;br&gt;[ES] Excelente. Ya no representan una amenaza siempre y cuando est&amp;#233;n en pedazos como estos.&lt;BR&gt;&lt;BR&gt;Esperemos que el resto se quede quieto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1027">
+        <Page social="0">[EN] Do you want to see them up and running around outside of that cave?&lt;br&gt;[ES] &amp;#191;Quieres verlos levantados y corriendo por ah&amp;#237; fuera de esa cueva?</Page>
+    </Text>
+</QuestDialog>

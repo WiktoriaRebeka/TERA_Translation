@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="4">[EN] Our scouts reported {@LinkCreature:418#2008#vendron capacitors} in the Argon Catacombs. These devices feed energy to argon units on the surface.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:418#2002#Tibonel} knows where the capacitors are.&lt;BR&gt;&lt;BR&gt;Your mission is to destroy them.&lt;br&gt;[ES] Nuestros exploradores informaron sobre {@LinkCreature:418#2008#vendron capacitors} en las Argon Catacombs. Estos dispositivos suministran energ&amp;#237;a a las unidades argon en la superficie.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:418#2002#Tibonel} sabe d&amp;#243;nde est&amp;#225;n los condensadores.&lt;BR&gt;&lt;BR&gt;Tu misi&amp;#243;n es destruirlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2002">
+        <Page social="4">[EN] The {@LinkCreature:418#2008#vendron capacitors}?&lt;BR&gt;&lt;BR&gt;They're just north of here, but they're not just pieces of metal you can slag with one strike. The argons will try to protect them.&lt;br&gt;[ES] &amp;#191;Los {@LinkCreature:418#2008#vendron capacitors}?&lt;BR&gt;&lt;BR&gt;Est&amp;#225;n justo al norte de aqu&amp;#237;, pero no son simples pedazos de metal que puedas fundir de un solo golpe. Los argons intentar&amp;#225;n protegerlos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="3" villagerId="2002">
+        <Page social="4">[EN] Hah! With the capacitors out of action, the argons might find our next engagement goes in our favor, not theirs!&lt;BR&gt;&lt;BR&gt;Long live the Shariar!&lt;br&gt;[ES] &amp;#161;Ja! Con los condensadores fuera de combate, es posible que nuestro pr&amp;#243;ximo enfrentamiento sea a nuestro favor y no al de ellos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Larga vida a los Shariar!</Page>
+    </Text>
+</QuestDialog>

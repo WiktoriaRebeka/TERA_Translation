@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2000" prevId="0" villagerId="20403">
+        <Page social="5">[EN] All right, I'll stay here and keep searching for anything that can create a cure.&lt;BR&gt;&lt;BR&gt;Researching the ecosystem is as important as rescuing the villagers. If we can make a cure, we can save everyone who's suffering from the crystallization.&lt;BR&gt;&lt;BR&gt;And, can you do me a favor?&lt;NEXTPAGEBUTTON&gt;"What can I do?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Muy bien, me quedar&amp;#233; aqu&amp;#237; y seguir&amp;#233; buscando algo que pueda crear una cura.&lt;BR&gt;&lt;BR&gt;Investigar el ecosistema es tan importante como rescatar a los aldeanos. Si podemos hacer una cura, podremos salvar a todos los que sufren por la crystalization.&lt;BR&gt;&lt;BR&gt;Y, &amp;#191;me puedes hacer un favor?&lt;NEXTPAGEBUTTON&gt;"What can I do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] First, I need fresh jewel glands.&lt;BR&gt;&lt;BR&gt;All of the glands we found before were dry.&lt;BR&gt;&lt;BR&gt;Now that we're up here, if we can get a fresh one, it just might give me some ideas on the cure.&lt;BR&gt;Please get those glands for me!&lt;br&gt;[ES] Primero, necesito gl&amp;#225;ndulas de joyas frescas.&lt;BR&gt;&lt;BR&gt;Todas las gl&amp;#225;ndulas que encontramos antes estaban secas.&lt;BR&gt;&lt;BR&gt;Ahora que estamos aqu&amp;#237; arriba, si podemos conseguir una fresca, tal vez me d&amp;#233; algunas ideas para la cura.&lt;BR&gt;&amp;#161;Por favor, consigue esas gl&amp;#225;ndulas para m&amp;#237;!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20403">
+        <Page social="5">[EN] Thank you so much &lt;PCNAME&gt;! I wonder how much different it is from the one I examined at home.&lt;BR&gt;&lt;BR&gt;Now, let me take a look and tell you what to get next.&lt;br&gt;[ES] &amp;#161;Muchas gracias &lt;PCNAME&gt;! Me pregunto qu&amp;#233; tan diferente es de la que examin&amp;#233; en casa.&lt;BR&gt;&lt;BR&gt;Ahora d&amp;#233;jame echarle un vistazo y decirte qu&amp;#233; conseguir despu&amp;#233;s.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" villagerId="20403">
+        <Page social="0">[EN] Please gather more glands. I need lots of samples.&lt;br&gt;[ES] Por favor, junta m&amp;#225;s gl&amp;#225;ndulas. Necesito muchas muestras.</Page>
+    </Text>
+</QuestDialog>

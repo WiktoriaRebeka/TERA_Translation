@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">[EN] Those disgusting {@LinkCreature:47#2003#argonomorph gulas} are still hanging around the {@Rgn:47003$$Bridgehead} in the {@Rgn:47001$$Tirkai Forest}. Also {@LinkCreature:47#1003#argonomorph mugatos} and {@LinkCreature:47#2002#argonomorph faeries}. &lt;BR&gt;&lt;BR&gt;{@Creature:247#1002$$Salaine} at {@Rgn:47006$$Field Base Lunacy} wants them gone. Can you blame her?&lt;BR&gt;&lt;BR&gt;Talk to her when it's done.&lt;br&gt;[ES] Esos repugnantes {@LinkCreature:47#2003#argonomorph gulas} todav&amp;#237;a merodean por el {@Rgn:47003$$Bridgehead} en el {@Rgn:47001$$Tirkai Forest}. Tambi&amp;#233;n los {@LinkCreature:47#1003#argonomorph mugatos} y las {@LinkCreature:47#2002#argonomorph faeries}. &lt;BR&gt;&lt;BR&gt;{@Creature:247#1002$$Salaine} en {@Rgn:47006$$Field Base Lunacy} quiere que desaparezcan. &amp;#191;Puedes culparla?&lt;BR&gt;&lt;BR&gt;Habla con ella cuando termine.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1002">
+        <Page social="5">[EN] Thanks, &lt;PCNAME&gt;. That helped a lot.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Eso ayud&amp;#243; mucho.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1002">
+        <Page social="0">[EN] Just kill some {@LinkCreature:47#1003#argonomorph mugatos}, {@LinkCreature:47#2002#argonomorph faeries}, and {@LinkCreature:47#2003#argonomorph gulas}. Check back when you've done it.&lt;br&gt;[ES] Solo acaba con algunos {@LinkCreature:47#1003#argonomorph mugatos}, {@LinkCreature:47#2002#argonomorph faeries} y {@LinkCreature:47#2003#argonomorph gulas}. Vuelve a informarme cuando lo hayas hecho.</Page>
+    </Text>
+</QuestDialog>

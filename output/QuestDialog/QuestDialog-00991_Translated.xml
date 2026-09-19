@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1018">
+        <Page social="0">[EN] Far too many orcans are happy to war with the federation forever. That way lies ruin and death.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:41#4004#Black Claw berserkers}, {@LinkCreature:41#4005#slaughterers}, and {@LinkCreature:41#3006#blood fighters} are the most warlike of all. I would like to take their insane eyes to {@LinkCreature:241#1023$$Majduk} as proof of their madness. Will you help me do this?&lt;br&gt;[ES] Demasiados orcanos est&amp;#225;n felices de hacer la guerra a la federaci&amp;#243;n para siempre. Ese camino conduce a la ruina y a la muerte.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:41#4004#Black Claw berserkers}, {@LinkCreature:41#4005#slaughterers} y {@LinkCreature:41#3006#blood fighters} son los m&amp;#225;s belicosos de todos. Me gustar&amp;#237;a llevar sus ojos dementes a {@LinkCreature:241#1023$$Majduk} como prueba de su locura. &amp;#191;Me ayudar&amp;#225;s a hacer esto?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1023">
+        <Page social="0">[EN] Now I'll take these eyes to the other tribes and try to convince them to lay down their arms. Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] Ahora llevar&amp;#233; estos ojos a las otras tribus e intentar&amp;#233; convencerlas de que depongan las armas. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1023">
+        <Page social="0">[EN] Kill the {@LinkCreature:41#4004#Black Claw berserkers}, {@LinkCreature:41#4005#slaughterers}, and {@LinkCreature:41#3006#blood fighters} and bring me their eyeballs.&lt;br&gt;[ES] Mata a los {@LinkCreature:41#4004#Black Claw berserkers}, {@LinkCreature:41#4005#slaughterers} y {@LinkCreature:41#3006#blood fighters} y tr&amp;#225;eme sus globos oculares.</Page>
+    </Text>
+</QuestDialog>

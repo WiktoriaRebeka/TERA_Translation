@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1006">
+        <Page social="5">[EN] Things are getting out of hand! The {@LinkCreature:22#10#senior apprentices} tried to kill me!&lt;BR&gt;&lt;BR&gt;These are no mewing children content with a flash and a pop. These young witches actually have some power.&lt;BR&gt;&lt;BR&gt;There are too many to leave them in control of the halls. Stop them quickly or there'll be no cakes today.&lt;br&gt;[ES] &amp;#161;Las cosas se est&amp;#225;n saliendo de control! &amp;#161;Los {@LinkCreature:22#10#senior apprentices} intentaron matarme!&lt;BR&gt;&lt;BR&gt;Estos no son ni&amp;#241;os maulladores conformes con un destello y un estallido. Estas j&amp;#243;venes brujas realmente tienen algo de poder.&lt;BR&gt;&lt;BR&gt;Hay demasiados para dejarles el control de los pasillos. Detenlos r&amp;#225;pido o no habr&amp;#225; pasteles hoy.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1006">
+        <Page social="5">[EN] Whomever is behind this nightmare will pay with pain most exquisite. It will take them months to die! &lt;BR&gt;&lt;BR&gt;Your decisiveness is appreciated, &lt;PCNAME&gt;. If everyone was in their right minds, they'd thank you.&lt;br&gt;[ES] Quien est&amp;#233; detr&amp;#225;s de esta pesadilla pagar&amp;#225; con el dolor m&amp;#225;s exquisito. &amp;#161;Les tomar&amp;#225; meses morir! &lt;BR&gt;&lt;BR&gt;Se agradece tu determinaci&amp;#243;n, &lt;PCNAME&gt;. Si todos estuvieran en su sano juicio, te lo agradecer&amp;#237;an.</Page>
+    </Text>
+</QuestDialog>

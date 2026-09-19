@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">[EN] A hood? I don't make those anymore.&lt;BR&gt;&lt;BR&gt; Luria fibers and sun essence are easy to come by, but innerlid leather? You can't even find that in a museum, these days.&lt;NEXTPAGEBUTTON&gt;"I already have some."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Una capucha? Ya no hago esas.&lt;BR&gt;&lt;BR&gt; Las fibras de Luria y la esencia solar son f&amp;#225;ciles de conseguir, &amp;#191;pero el cuero de innerlid? Ni siquiera puedes encontrarlo en un museo hoy en d&amp;#237;a.&lt;NEXTPAGEBUTTON&gt;"I already have some."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">[EN] Oh, my! You actually have some?&lt;BR&gt;&lt;BR&gt;Quick! Let's make you a hood! What tailor-made color would you like?&lt;NEXTPAGEBUTTON&gt;"Well..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Vaya! &amp;#191;De verdad tienes un poco?&lt;BR&gt;&lt;BR&gt;&amp;#161;R&amp;#225;pido! &amp;#161;Hag&amp;#225;mosete una capucha! &amp;#191;Qu&amp;#233; color hecho a medida te gustar&amp;#237;a?&lt;NEXTPAGEBUTTON&gt;"Well..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">[EN] Look: Innerlid leather only comes from the eyelids of certain breeds of dracoloth&amp;#8212;and that particular breed doesn't exist anymore.&lt;BR&gt;&lt;BR&gt;Hunted to extinction for their eyelids, of all things...&lt;br&gt;[ES] Mira: El cuero de innerlid solo proviene de los p&amp;#225;rpados de ciertas razas de dracoloth, y esa raza en particular ya no existe.&lt;BR&gt;&lt;BR&gt;Cazadas hasta la extinci&amp;#243;n por sus p&amp;#225;rpados, de todas las cosas...</Page>
+    </Text>
+</QuestDialog>

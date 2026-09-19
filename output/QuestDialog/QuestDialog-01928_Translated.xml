@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">[EN] Wow! We've sent you on a lot of boring crafting missions, but it's because your work is outstanding.&lt;BR&gt;&lt;BR&gt;Rare, high quality materials are how we support the precious cause we're all fighting for, and your support to the Hands of Velika is appreciated.&lt;BR&gt;&lt;BR&gt;Enough of me blubbering. Go talk to {@LinkCreature:63#3003#Elthienne}.&lt;br&gt;[ES] &amp;#161;Vaya! Te hemos enviado a un mont&amp;#243;n de misiones de artesan&amp;#237;a aburridas, pero es porque tu trabajo es sobresaliente.&lt;BR&gt;&lt;BR&gt;Los materiales raros y de alta calidad son la forma en que apoyamos la valiosa causa por la que todos luchamos, y se agradece tu apoyo a Hands of Velika.&lt;BR&gt;&lt;BR&gt;Basta de mis lloriqueos. Ve a hablar con {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">[EN] I hate to keep asking you, but could you craft some items for {@LinkCreature:63#3001#Barian}? Supplies are low, and we have to keep them coming in to stay in business.&lt;BR&gt;&lt;BR&gt;Without our merchant trade, there would be no Hands of Velika. Yeah. We're that important.&lt;br&gt;[ES] Odia seguir pidi&amp;#233;ndotelo, pero &amp;#191;podr&amp;#237;as fabricar algunos objetos para {@LinkCreature:63#3001#Barian}? Los suministros son escasos y tenemos que seguir tray&amp;#233;ndolos para mantenernos en el negocio.&lt;BR&gt;&lt;BR&gt;Sin nuestro comercio mercantil, no existir&amp;#237;a Hands of Velika. S&amp;#237;. Somos as&amp;#237; de importantes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">[EN] Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will pay you.&lt;BR&gt;&lt;BR&gt;Help out again next time!&lt;br&gt;[ES] &amp;#161;Maravilloso!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} te pagar&amp;#225;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ayuda de nuevo la pr&amp;#243;xima vez!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3001">
+        <Page social="0">[EN] Craft four {@RawItem:206812} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.&lt;br&gt;[ES] Fabrica cuatro {@RawItem:206812} y entr&amp;#233;gamelo tan pronto como puedas.&lt;BR&gt;Me salvas la vida.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3001">
+        <Page social="5">[EN] Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will pay you.&lt;BR&gt;&lt;BR&gt;Help out again next time!&lt;br&gt;[ES] &amp;#161;Maravilloso!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} te pagar&amp;#225;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ayuda de nuevo la pr&amp;#243;xima vez!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3001">
+        <Page social="0">[EN] Craft four {@RawItem:206813} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.&lt;br&gt;[ES] Fabrica cuatro {@RawItem:206813} y entr&amp;#233;gamelo tan pronto como puedas.&lt;BR&gt;Me salvas la vida.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3001">
+        <Page social="5">[EN] Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will pay you.&lt;BR&gt;&lt;BR&gt;Help out again next time!&lt;br&gt;[ES] &amp;#161;Maravilloso!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} te pagar&amp;#225;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ayuda de nuevo la pr&amp;#243;xima vez!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3001">
+        <Page social="0">[EN] Craft four {@RawItem:206814} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.&lt;br&gt;[ES] Fabrica cuatro {@RawItem:206814} y entr&amp;#233;gamelo tan pronto como puedas.&lt;BR&gt;Me salvas la vida.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="13" villagerId="3001">
+        <Page social="5">[EN] Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will pay you.&lt;BR&gt;&lt;BR&gt;Help out again next time!&lt;br&gt;[ES] &amp;#161;Maravilloso!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} te pagar&amp;#225;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ayuda de nuevo la pr&amp;#243;xima vez!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3001">
+        <Page social="0">[EN] Craft four {@RawItem:206815} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.&lt;br&gt;[ES] Fabrica cuatro {@RawItem:206815} y entr&amp;#233;gamelo tan pronto como puedas.&lt;BR&gt;Me salvas la vida.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="15" villagerId="3001">
+        <Page social="5">[EN] Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will pay you.&lt;BR&gt;&lt;BR&gt;Help out again next time!&lt;br&gt;[ES] &amp;#161;Maravilloso!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} te pagar&amp;#225;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ayuda de nuevo la pr&amp;#243;xima vez!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3001">
+        <Page social="0">[EN] Craft four {@RawItem:206816} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.&lt;br&gt;[ES] Fabrica cuatro {@RawItem:206816} y entr&amp;#233;gamelo tan pronto como puedas.&lt;BR&gt;Me salvas la vida.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="3002">
+        <Page social="4">[EN] Wow, &lt;PCNAME&gt;! Not only do you work hard and produce quality materials, you're fast!&lt;BR&gt;&lt;BR&gt;Thanks.&lt;br&gt;[ES] &amp;#161;Vaya, &lt;PCNAME&gt;! No solo trabajas duro y produces materiales de calidad, &amp;#161;sino que eres r&amp;#225;pido!&lt;BR&gt;&lt;BR&gt;Gracias.</Page>
+    </Text>
+</QuestDialog>

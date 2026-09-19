@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2001" prevId="0" villagerId="22001">
+        <Page social="5">[EN] Good thing that we found a place. But this place isn't suitable to stay for a long time.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, before you go, can you do a favor for us here?&lt;NEXTPAGEBUTTON&gt;"Of course."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Qu&amp;#233; bueno que encontramos un lugar. Pero este sitio no es adecuado para quedarse por mucho tiempo.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, antes de irte, &amp;#191;puedes hacernos un favor aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Of course."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I'd knew you'd say yes.&lt;BR&gt;&lt;BR&gt;We'll need some food and supplies.&lt;BR&gt;&lt;BR&gt;Please hunt the Exodor Fennecs and collect the leather and flesh.&lt;br&gt;[ES] Sab&amp;#237;a que dir&amp;#237;as que s&amp;#237;.&lt;BR&gt;&lt;BR&gt;Necesitaremos algo de comida y suministros.&lt;BR&gt;&lt;BR&gt;Por favor, caza a los Exodor Fennecs y recolecta el cuero y la carne.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="22001">
+        <Page social="5">[EN] Thank you so much, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;There's still more that you can help.&lt;br&gt;[ES] &amp;#161;Much&amp;#237;simas gracias, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Todav&amp;#237;a hay m&amp;#225;s en lo que puedes ayudar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" villagerId="22001">
+        <Page social="0">[EN] Please, we need those materials.&lt;br&gt;[ES] Por favor, necesitamos esos materiales.</Page>
+    </Text>
+</QuestDialog>

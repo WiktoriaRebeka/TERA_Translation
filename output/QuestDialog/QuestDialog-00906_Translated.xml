@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="12">[EN] We're surrounded by hyenas. Not ordinary hyenas, but someone's pets.&lt;BR&gt;&lt;BR&gt;I think they're spying on us for the prions&amp;#8212;they sneak closer when they think I'm not paying attention. They watch...they listen...&lt;BR&gt;&lt;BR&gt;I'd pay anyone who'd rid us of them.&lt;br&gt;[ES] Estamos rodeados de hienas. No hienas comunes, sino las mascotas de alguien.&lt;BR&gt;&lt;BR&gt;Creo que nos est&amp;#225;n esp&amp;#237;a&amp;#769;ndose para los prions; se acercan sigilosamente cuando creen que no les presto atenci&amp;#243;n. Observan... escuchan...&lt;BR&gt;&lt;BR&gt;Le pagar&amp;#237;a lo que fuera a quien nos libere de ellas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1024">
+        <Page social="8">[EN] Finally! They'll carry no more tales back to their prion masters.&lt;br&gt;[ES] &amp;#161;Por fin! No llevar&amp;#225;n m&amp;#225;s cuentos a sus amos prion.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="4">[EN] After all we had to do to get rid of the hyenas, here we are, facing yet another problem: scarecrow golems.&lt;BR&gt;&lt;BR&gt;This place is overrun with {@linkcreature:19#3003#reaping harvester golems} and {@linkcreature:19#3001#berserk harvester golems}! Their weakness is their &lt;font color='#660000'&gt;crystal hearts&lt;/font&gt;; destroy that, and the golem shuts down for good.&lt;BR&gt;&lt;BR&gt;Please smash the golems and destroy their &lt;font color='#660000'&gt;crystal hearts&lt;/font&gt;, then bring the debris to me. I can't escort the merchants until we know the scarecrow golems are no longer a threat.&lt;br&gt;[ES] Despu&amp;#233;s de todo lo que tuvimos que hacer para deshacernos de las hienas, aqu&amp;#237; estamos, enfrentando otro problema: &amp;#161;los g&amp;#243;lems espantap&amp;#225;jaros!&lt;BR&gt;&lt;BR&gt;&amp;#161;Este lugar est&amp;#225; infestados de {@linkcreature:19#3003#reaping harvester golems} y {@linkcreature:19#3001#berserk harvester golems}! Su debilidad son sus &lt;font color='#660000'&gt;crystal hearts&lt;/font&gt;; destruye eso y el g&amp;#243;lem se apagar&amp;#225; para siempre.&lt;BR&gt;&lt;BR&gt;Por favor, aplasta a los g&amp;#243;lems y destruye sus &lt;font color='#660000'&gt;crystal hearts&lt;/font&gt;, luego tr&amp;#225;eme los restos. No puedo escoltar a los comerciantes hasta que sepamos que los g&amp;#243;lems espantap&amp;#225;jaros ya no son una amenaza.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1019">
+        <Page social="4">[EN] Without their &lt;font color='#660000'&gt;crystal hearts&lt;/font&gt;, these golems will never threaten anyone again. Thank you. You've saved the day, &lt;PCNAME&gt;.&lt;br&gt;[ES] Sin sus &lt;font color='#660000'&gt;crystal hearts&lt;/font&gt;, estos g&amp;#243;lems no volver&amp;#225;n a amenazar a nadie. Gracias. Has salvado el d&amp;#237;a, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1019">
+        <Page social="0">[EN] Destroy the {@linkcreature:19#3003#reaping harvester golems} and {@linkcreature:19#3001#berserk harvester golems} around Filton's Dairy Farm and collect their &lt;font color='#660000'&gt;crystal hearts&lt;/font&gt;.&lt;br&gt;[ES] Destruye los {@linkcreature:19#3003#reaping harvester golems} y {@linkcreature:19#3001#berserk harvester golems} alrededor de Filton's Dairy Farm y consigue sus &lt;font color='#660000'&gt;crystal hearts&lt;/font&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2004">
+        <Page social="0">[EN] You delivered carving material to Dolme and received a Horn Helm.&lt;br&gt;[ES] Entregaste material de tallado a Dolme y recibiste un Horn Helm.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2004">
+        <Page social="4">[EN] &lt;PCNAME&gt;, welcome to the beach party.&lt;BR&gt;&lt;BR&gt;If you're interested in procuring a horn helm, you might be out of luck. Lots of customers looking to buy horn helms this year, and I bring near enough horns with me.&lt;BR&gt;&lt;BR&gt;I tell you what, though, &lt;PCNAME&gt;: You go get me two arachnen horns from Serpentis Isle, and I'll make you a horn helm. Deal?&lt;br&gt;[ES] &lt;PCNAME&gt;, bienvenido a la fiesta en la playa.&lt;BR&gt;&lt;BR&gt;Si est&amp;#225;s interesado en conseguir un horn helm, tal vez no tengas suerte. Hay muchos clientes buscando comprar horn helm este a&amp;#241;o, y traigo casi suficientes cuernos conmigo.&lt;BR&gt;&lt;BR&gt;Te dir&amp;#233; algo, sin embargo, &lt;PCNAME&gt;: Vas y me traes dos cuernos de arachnen de Serpentis Isle, y te har&amp;#233; un horn helm. &amp;#191;Trato?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2004">
+        <Page social="4">[EN] Well done, &lt;PCNAME&gt;! These are some fine horns, and they should last me through the rest of the day.&lt;BR&gt;&lt;BR&gt;Here's your horn helm, and thank you.&lt;br&gt;[ES] &amp;#161;Bien hecho, &lt;PCNAME&gt;! Estos son unos cuernos excelentes, y deber&amp;#237;an durarme el resto del d&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes tu horn helm y gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="2004">
+        <Page social="0">[EN] I know getting arachnen horns isn't easy, &lt;PCNAME&gt;. But I'd very much appreciate it if you could hurry.&lt;br&gt;[ES] S&amp;#233; que conseguir cuernos de arachnen no es f&amp;#225;cil, &lt;PCNAME&gt;. Pero te agradecer&amp;#237;a much&amp;#237;simo si pudieras darte prisa.</Page>
+    </Text>
+</QuestDialog>

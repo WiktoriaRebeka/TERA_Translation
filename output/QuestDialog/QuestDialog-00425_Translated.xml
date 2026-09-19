@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">[EN] I need my messenger Jadan to deliver a package that just arrived, but he's nowhere to be found in the village.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, can you go ask {@LinkCreature:67#1008$$Okon} at the northern gate if he saw Jadan leave?&lt;br&gt;[ES] Necesito que mi mensajero Jadan entregue un paquete que acaba de llegar, pero no aparece por ninguna parte en el pueblo.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#191;puedes ir a preguntarle a {@LinkCreature:67#1008$$Okon} en la puerta norte si vio salir a Jadan?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1008">
+        <Page social="5">[EN] Jadan? No, I haven't seen him pass by today.&lt;BR&gt;&lt;BR&gt;Check with {@LinkCreature:67#1019#Kripa} over there, though, just to be sure.&lt;br&gt;[ES] &amp;#191;Jadan? No, no lo he visto pasar hoy.&lt;BR&gt;&lt;BR&gt;Sin embargo, cons&amp;#250;ltalo con {@LinkCreature:67#1019#Kripa} por all&amp;#225;, solo para estar seguro.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="67" prevId="3" villagerId="1019">
+        <Page social="5">[EN] Say the name again...Jadan? Oh, sure. He and his boy came through a while ago, headed toward the &lt;font color='#660000'&gt;Vale of the Fang&lt;/font&gt;. Said he had herbs to gather.&lt;BR&gt;&lt;BR&gt;Now that you mention it, it's been quite some time.&lt;br&gt;[ES] Di el nombre otra vez... &amp;#191;Jadan? Ah, claro. &amp;#201;l y su muchacho pasaron por aqu&amp;#237; hace un rato, dirigi&amp;#233;ndose hacia el &lt;font color='#660000'&gt;Vale of the Fang&lt;/font&gt;. Dijo que ten&amp;#237;a hierbas que recolectar.&lt;BR&gt;&lt;BR&gt;Ahora que lo mencionas, ha pasado bastante tiempo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="216" prevId="4" villagerId="1013">
+        <Page social="5">[EN] (It's a popori corpse lying next to some freshly pulled herbs. The fur makes it difficult to examine, but with some effort you discover that all of his blood has been drained.)&lt;br&gt;[ES] (Es el cad&amp;#225;ver de un popori tirado junto a unas hierbas reci&amp;#233;n arrancadas. El pelaje dificulta la revisi&amp;#243;n, pero con algo de esfuerzo descubres que le han drenado toda la sangre).</Page>
+    </Text>
+    <Text id="6" huntingZoneId="67" prevId="5" villagerId="1019">
+        <Page social="5">[EN] He...what? That...that doesn't sound right. How does something like that happen?&lt;BR&gt;&lt;BR&gt;You should let Paka know immediately.&lt;br&gt;[ES] &amp;#191;&amp;#201;l... qu&amp;#233;? Eso... eso no suena bien. &amp;#191;C&amp;#243;mo pasa algo as&amp;#237;?&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as avisarle a Paka inmediatamente.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="67" prevId="6" villagerId="1007">
+        <Page social="5">[EN] Jadan is dead? That's horrible. Strange things are happening lately, that's for sure. We should initiate a buddy system.&lt;BR&gt;&lt;BR&gt;But wait, where's his son, Dipa?&lt;br&gt;[ES] &amp;#191;Jadan est&amp;#225; muerto? Qu&amp;#233; horror. &amp;#218;ltimamente est&amp;#225;n pasando cosas extra&amp;#241;as, eso es seguro. Deber&amp;#237;amos implementar un sistema de parejas.&lt;BR&gt;&lt;BR&gt;Pero espera, &amp;#191;d&amp;#243;nde est&amp;#225; su hijo, Dipa?</Page>
+    </Text>
+</QuestDialog>

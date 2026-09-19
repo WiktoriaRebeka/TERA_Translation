@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="4">[EN] There are some species here in Balder's Refuge that are extinct in the rest of the world.&lt;BR&gt;&lt;BR&gt;Want to help recover them? Talk to {@LinkCreature:71#3018#Meiga}.&lt;br&gt;[ES] Hay algunas especies aqu&amp;#237; en Balder's Refuge que est&amp;#225;n extintas en el resto del mundo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres ayudar a recuperarlas? Habla con {@LinkCreature:71#3018#Meiga}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="4">[EN] Of course you can help!&lt;BR&gt;&lt;BR&gt;Let me see who needs you today.&lt;br&gt;[ES] &amp;#161;Claro que puedes ayudar!&lt;BR&gt;&lt;BR&gt;D&amp;#233;jame ver qui&amp;#233;n te necesita hoy.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3003">
+        <Page social="4">[EN] Great to see you, &lt;PCNAME&gt;! Our breeding pool is full.&lt;BR&gt;&lt;BR&gt;Head north to the stream and bring one of the babies back.&lt;br&gt;[ES] &amp;#161;Qu&amp;#233; bueno verte, &lt;PCNAME&gt;! Nuestra reserva de reproducci&amp;#243;n est&amp;#225; llena.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete al norte hacia el arroyo y trae a una de las cr&amp;#237;as de regreso.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="604" villagerId="7">
+        <Page social="0">[EN] Greep!&lt;BR&gt;&lt;BR&gt;Greep!&lt;br&gt;[ES] &amp;#161;Greep!&lt;BR&gt;&lt;BR&gt;&amp;#161;Greep!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="6" villagerId="3024">
+        <Page social="4">[EN] The seal breeding program is going smoothly. Could use someone to count new seal pups, though.&lt;BR&gt;&lt;BR&gt;Sound fun?&lt;br&gt;[ES] El programa de reproducci&amp;#243;n de focas va sobre ruedas. Sin embargo, vendr&amp;#237;a bien alguien que cuente los nuevos cachorros de foca.&lt;BR&gt;&lt;BR&gt;&amp;#191;Suena divertido?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="3033">
+        <Page social="4">[EN] Aar! Aar!&lt;BR&gt;&lt;BR&gt;Aaar-aar!&lt;br&gt;[ES] &amp;#161;Aar! &amp;#161;Aar!&lt;BR&gt;&lt;BR&gt;&amp;#161;Aaar-aar!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="9" villagerId="3034">
+        <Page social="4">[EN] Aaar! Aar!&lt;br&gt;[ES] &amp;#161;Aaar! &amp;#161;Aar!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="10" villagerId="3035">
+        <Page social="4">[EN] Aaarr! Aar-aar!&lt;br&gt;[ES] &amp;#161;Aaarr! &amp;#161;Aar-aar!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" prevId="11" villagerId="3003">
+        <Page social="4">[EN] Oh, he's a big one!&lt;BR&gt;&lt;BR&gt;Nice work!&lt;br&gt;[ES] &amp;#161;Oh, este es grande!&lt;BR&gt;&lt;BR&gt;&amp;#161;Buen trabajo!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="230" prevId="12" villagerId="3024">
+        <Page social="4">[EN] Nice work!&lt;BR&gt;&lt;BR&gt;Aaah, I can think of worse jobs than swimming this river and counting the seals.&lt;br&gt;[ES] &amp;#161;Buen trabajo!&lt;BR&gt;&lt;BR&gt;Aaah, se me ocurren trabajos peores que nadar en este r&amp;#237;o y contar las focas.</Page>
+    </Text>
+</QuestDialog>

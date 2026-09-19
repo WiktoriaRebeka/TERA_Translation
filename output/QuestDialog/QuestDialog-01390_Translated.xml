@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1014">
+        <Page social="4">[EN] My nestbrothers will never let us near Sikander, nor the temple. They've forgotten their mission, their sacred duty!&lt;BR&gt;&lt;BR&gt;You must kill the sikandari defenders and weaken the heretics.&lt;BR&gt;&lt;BR&gt;Bring back their crests. They don't deserve to wear them any longer.&lt;br&gt;[ES] &amp;#161;Mis hermanos de nido NUNCA nos dejar&amp;#225;n acercarnos a Sikander, ni al templo! &amp;#161;Han olvidado su misi&amp;#243;n, su sagrado deber!&lt;BR&gt;&lt;BR&gt;Debes matar a los defensores sikandaris y debilitar a los herejes.&lt;BR&gt;&lt;BR&gt;Trae de vuelta sus crestas. Ya no merecen usarlas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1014">
+        <Page social="4">[EN] I grieve for my nestbrothers, but Sikander would never sanction the deaths of your people for his sake.&lt;BR&gt;&lt;BR&gt;Don't let their deaths be in vain, &lt;PCNAME&gt;.&lt;br&gt;[ES] Me entristecen mis hermanos de nido, pero Sikander nunca aprobar&amp;#237;a la muerte de tu gente por su bien.&lt;BR&gt;&lt;BR&gt;No dejes que sus muertes sean en vano, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" villagerId="1014">
+        <Page social="0">[EN] Did you deal with the defenders already?&lt;br&gt;[ES] &amp;#191;Ya te encargaste de los defensores?</Page>
+    </Text>
+</QuestDialog>

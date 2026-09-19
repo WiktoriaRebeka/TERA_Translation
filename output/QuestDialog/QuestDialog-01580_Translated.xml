@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="55" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Supplies arrived from the federation to help you defeat the archdevan army.&lt;br&gt;[ES] Llegaron suministros de la federaci&amp;#243;n para ayudarte a derrotar al ej&amp;#233;rcito archidevano.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[EN] &lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;The archdevan threat we've seen surging is far from over, and we should prepare for another battle.&lt;BR&gt;&lt;BR&gt;I have new supplies from the federation that might help.&lt;BR&gt;&lt;BR&gt;Come find me in Highwatch when you're ready.&lt;br&gt;[ES] &lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;La amenaza archidevana que hemos visto surgir est&amp;#225; lejos de terminar, y debemos prepararnos para otra batalla.&lt;BR&gt;&lt;BR&gt;Tengo nuevos suministros de la federaci&amp;#243;n que podr&amp;#237;an ayudar.&lt;BR&gt;&lt;BR&gt;Ven a buscarme a Highwatch cuando est&amp;#233;s listo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1021">
+        <Page social="4">[EN] Nice to see you agan, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;I have new armor for you from the federation's best smiths. You can never go wrong with fresh gear. Good luck out there.&lt;br&gt;[ES] &amp;#161;Qu&amp;#233; bueno verte de nuevo, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Tengo una armadura nueva para ti de los mejores herreros de la federaci&amp;#243;n. Nunca te equivocas con un equipo nuevo. &amp;#161;Buena suerte por ah&amp;#237;!</Page>
+    </Text>
+</QuestDialog>

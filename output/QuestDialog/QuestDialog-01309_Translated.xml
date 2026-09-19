@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1033">
+        <Page social="4">[EN] Can you believe something likes this vicious mist? Once that mist arrived, suddenly cullars and tentacullars appeared.&lt;BR&gt;&lt;BR&gt;Not only do they thrive on the mist, their wings fan it, stirring it up so the fey breathe even more of it. Why does nature let such an abomination exist? How can we let them live?&lt;br&gt;[ES] &amp;#191;Puedes creer que exista algo como esta niebla viciosa? Una vez que lleg&amp;#243; esa niebla, de repente aparecieron cullars y tentacullars.&lt;BR&gt;&lt;BR&gt;No solo prosperan en la niebla, sino que sus alas la abanican, agit&amp;#225;ndola para que las hadas respiren a&amp;#250;n m&amp;#225;s de ella. &amp;#191;Por qu&amp;#233; la naturaleza permite que exista tal abominaci&amp;#243;n? &amp;#191;C&amp;#243;mo podemos dejar que vivan?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1033">
+        <Page social="4">[EN] We're not out of the woods yet, but the fey can breathe easier thanks to you.&lt;br&gt;[ES] Todav&amp;#237;a no estamos fuera de peligro, pero las hadas pueden respirar m&amp;#225;s tranquilas gracias a ti.</Page>
+    </Text>
+</QuestDialog>

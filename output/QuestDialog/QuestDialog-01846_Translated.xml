@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">[EN] The Invalescos devoted considerable resources to understanding how the argons reshape our world. Their technological prowess is both inspiring and terrifying.&lt;BR&gt;&lt;BR&gt;I'd like to know where we are in our studies. Head to Field Base Reciprocity and check in with our researchers.&lt;br&gt;[ES] Los Invalescos dedicaron considerables recursos a comprender c&amp;#243;mo los argons remodelan nuestro mundo. Su destreza tecnol&amp;#243;gica es tanto inspiradora como aterradora.&lt;BR&gt;&lt;BR&gt;Me gustar&amp;#237;a saber en qu&amp;#233; punto se encuentran nuestros estudios. Dir&amp;#237;gete a Field Base Reciprocity e inf&amp;#243;rmate con nuestros investigadores.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="4">[EN] Argon-shaping technology? Sure, that's what we're studying, but I'm not in charge. The boss is up the ladder there, enjoying the view and the lack of argon attacks!&lt;br&gt;[ES] &amp;#191;Tecnolog&amp;#237;a de modelado argon? Claro, eso es lo que estamos estudiando, pero yo no estoy a cargo. &amp;#161;El jefe est&amp;#225; all&amp;#225; arriba en la escalera, disfrutando de la vista y de la falta de ataques argon!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="4">[EN] I forgot! I had the report all along.&lt;BR&gt;&lt;BR&gt;I swear, I'd lose my horns if they weren't attached.&lt;br&gt;[ES] &amp;#161;Lo olvid&amp;#233;! Ten&amp;#237;a el informe todo este tiempo.&lt;BR&gt;&lt;BR&gt;Te lo juro, perder&amp;#237;a mis cuernos si no estuvieran conectados.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="8" villagerId="3502">
+        <Page social="4">[EN] I just updated the report this morning. I hope it helps {@LinkCreature:77#3001#Nithan} with our mission.&lt;br&gt;[ES] Acabo de actualizar el informe esta ma&amp;#241;ana. Espero que le ayude a {@LinkCreature:77#3001#Nithan} con nuestra misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" prevId="9" villagerId="3504">
+        <Page social="4">[EN] The implications in this report chill my blood. I wonder what {@LinkCreature:77#3001#Nithan} will make of it.&lt;br&gt;[ES] Las implicaciones en este informe me hielan la sangre. Me pregunto qu&amp;#233; har&amp;#225; {@LinkCreature:77#3001#Nithan} con &amp;#233;l.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="10" villagerId="3505">
+        <Page social="4">[EN] The argons are reshaping our world, making it less hospitable to us and more suitable for them. It implies, to some extent, that our races aren't wholly compatible.&lt;BR&gt;&lt;BR&gt;This report summarizes our findings. Deliver it to {@LinkCreature:77#3001#Nithan}.&lt;br&gt;[ES] Los argon est&amp;#225;n remodelando nuestro mundo, haci&amp;#233;ndolo menos hospitalario para nosotros y m&amp;#225;s adecuado para ellos. Implica, hasta cierto punto, que nuestras razas no son del todo compatibles.&lt;BR&gt;&lt;BR&gt;Este informe resume nuestros hallazgos. Entr&amp;#233;gaselo a {@LinkCreature:77#3001#Nithan}.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" prevId="11" villagerId="3001">
+        <Page social="4">[EN] Excellent. I'm eager to see what our finest minds make of this latest problem.&lt;BR&gt;&lt;BR&gt;Thanks for your help, &lt;PCNAME&gt;.&lt;br&gt;[ES] Excelente. Estoy ansioso por ver qu&amp;#233; hacen nuestras mejores mentes con este &amp;#250;ltimo problema.&lt;BR&gt;&lt;BR&gt;Gracias por tu ayuda, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="77" villagerId="3001">
+        <Page social="0">[EN] I need that report, &lt;PCNAME&gt;. We can't proceed without it.&lt;br&gt;[ES] Necesito ese informe, &lt;PCNAME&gt;. No podemos continuar sin &amp;#233;l.</Page>
+    </Text>
+</QuestDialog>

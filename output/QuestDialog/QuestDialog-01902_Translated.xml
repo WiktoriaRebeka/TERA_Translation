@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">[EN] A slow day so far.&lt;BR&gt;&lt;BR&gt;Go see {@LinkCreature:71#3015#Umma}. You two can relax by the fish pond!&lt;br&gt;[ES] Un d&amp;#237;a tranquilo hasta ahora.&lt;BR&gt;&lt;BR&gt;Ve a ver a {@LinkCreature:71#3015#Umma}. &amp;#161;Ustedes dos pueden relajarse junto al estanque de peces!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">[EN] &lt;PCNAME&gt;! It's a cub-time day.&lt;BR&gt;&lt;BR&gt;Well, we should feed the fish, but after that I have a treat for you. Let's go!&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! Hoy es un d&amp;#237;a de cachorros.&lt;BR&gt;&lt;BR&gt;Bueno, deber&amp;#237;amos alimentar a los peces, pero despu&amp;#233;s tengo un regalo para ti. &amp;#161;Vamos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">[EN] Great job! &lt;BR&gt;&lt;BR&gt;Remember what I said? Raise 'em, feed 'em...eat 'em! Here's your reward, my friend. Kick back and enjoy it!&lt;br&gt;[ES] &amp;#161;Gran trabajo! &lt;BR&gt;&lt;BR&gt;&amp;#191;Recuerdas lo que dije? &amp;#161;Cr&amp;#237;alos, alim&amp;#233;ntalos... c&amp;#243;melos! Aqu&amp;#237; tienes tu recompensa, amigo. &amp;#161;Recu&amp;#233;state y disfr&amp;#250;tala!</Page>
+    </Text>
+</QuestDialog>

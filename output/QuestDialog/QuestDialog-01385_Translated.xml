@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1019">
+        <Page social="4">[EN] The sikandaris are keeping us far from the Temple of Sikander. If we're going to end this, we've got to punch through.&lt;BR&gt;&lt;BR&gt;That means starting with the sikandari stalwarts. They want to die for their god? Let's oblige them.&lt;br&gt;[ES] Los sikandaris nos mantienen lejos del Temple of Sikander. Si vamos a terminar con esto, tenemos que abrirnos paso a golpes.&lt;BR&gt;&lt;BR&gt;Eso significa empezar con los sikandari stalwarts. &amp;#191;Quieren morir por su dios? Complazc&amp;#225;moslos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1019">
+        <Page social="4">[EN] Nice work. I don't know what possessed the sikandaris to side with Killian and Thulsa, but we've got to protect our own first. This is a good start.&lt;BR&gt;&lt;BR&gt;There's more to do. Don't wait for me.&lt;br&gt;[ES] Buen trabajo. No s&amp;#233; qu&amp;#233; se les meti&amp;#243; en la cabeza a los sikandaris para ponerse del lado de Killian y Thulsa, pero primero debemos proteger a los nuestros. Esto es un buen comienzo.&lt;BR&gt;&lt;BR&gt;Hay m&amp;#225;s por hacer. No me esperes.</Page>
+    </Text>
+</QuestDialog>

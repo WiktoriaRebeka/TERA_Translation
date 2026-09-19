@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1014">
+        <Page social="4">[EN] The wretched ice giants won't let us recover the bodies of our honored dead.&lt;BR&gt;&lt;BR&gt;We've got a duty to our comrades to do what we can for them&amp;#8212;even in death.&lt;BR&gt;&lt;BR&gt;Head to Raseri Festning and recover whatever you can from our fallen soldiers.&lt;br&gt;[ES] Los miserables gigantes de hielo no nos dejan recuperar los cuerpos de nuestros venerados muertos.&lt;BR&gt;&lt;BR&gt;Tenemos el deber con nuestros camaradas de hacer lo que podamos por ellos, incluso en la muerte.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a Raseri Festning y recupera todo lo que puedas de nuestros soldados ca&amp;#237;dos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1014">
+        <Page social="4">[EN] I appreciate this, &lt;PCNAME&gt;. We all die alone, but that doesn't mean we should be forgotten. The families of our friends will grieve easier thanks to you.&lt;br&gt;[ES] Te lo agradezco, &lt;PCNAME&gt;. Todos morimos solos, pero eso no significa que debamos ser olvidados. Las familias de nuestros amigos sufrir&amp;#225;n un poco menos gracias a ti.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1014">
+        <Page social="0">[EN] Bring back any tokens or amulets you find. I'll send them along with the letters of condolence.&lt;br&gt;[ES] Trae de vuelta cualquier ficha o amuleto que encuentres. Los enviar&amp;#233; junto con las cartas de condolencia.</Page>
+    </Text>
+</QuestDialog>

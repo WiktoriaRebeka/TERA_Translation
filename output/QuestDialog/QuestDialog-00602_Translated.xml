@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1009">
+        <Page social="4">[EN] Your federation begged us to join and where's it gotten us? Up to our knees in kobolds and kulkari!&lt;BR&gt;&lt;BR&gt; If they want to convince me all this is worth it, someone ought to thin out all the {@LinkCreature:24#1#Sand Wind kobold looters}, {@LinkCreature:24#2#Sand Wind kobold lobbers}, and {@LinkCreature:24#3#Sand Wind kobold headhunters} they've attracted.&lt;br&gt;[ES] &amp;#161;Su federaci&amp;#243;n nos rog&amp;#243; que nos uni&amp;#233;ramos y miren a d&amp;#243;nde nos ha llevado! &amp;#161;Hasta las rodillas de kobolds y kulkari!&lt;BR&gt;&lt;BR&gt; Si quieren convencerme de que todo esto vale la pena, alguien deber&amp;#237;a reducir el n&amp;#250;mero de {@LinkCreature:24#1#Sand Wind kobold looters}, {@LinkCreature:24#2#Sand Wind kobold lobbers} y {@LinkCreature:24#3#Sand Wind kobold headhunters} que han atra&amp;#237;do.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1009">
+        <Page social="4">[EN] Hmph. Those damned kobolds will be back, but it's a start. Glad to see you held up your end.&lt;br&gt;[ES] Hmph. Esos malditos kobolds volver&amp;#225;n, pero es un comienzo. Me alegra ver que cumpliste tu parte.</Page>
+    </Text>
+</QuestDialog>

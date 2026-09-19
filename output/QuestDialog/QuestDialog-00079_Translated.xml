@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1136">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1136">
+        <Page social="4">[EN] Even the simplest nature spirits cower in fear when the shurians walk the earth. I don't know what brings them this far south, but it's probably something even worse than a shurian.&lt;BR&gt;&lt;BR&gt;I'll bet shurians don't scare the federation's finest &lt;PCCLASS:lcase&gt;, though, eh?&lt;BR&gt;&lt;BR&gt;Show those {@LinkCreature:4#2021#shurian foe-hammers} how we roll, Castanica-style!&lt;br&gt;[ES] Hasta los esp&amp;#237;ritus de la naturaleza m&amp;#225;s sencillos se acobardan de miedo cuando los shurians caminan por la tierra. No s&amp;#233; qu&amp;#233; los trae tan al sur, pero probablemente sea algo incluso peor que un shurian.&lt;BR&gt;&lt;BR&gt;Apuesto a que los shurians no asustan a los mejores &lt;PCCLASS:lcase&gt; de la federaci&amp;#243;n, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;&amp;#161;Mu&amp;#233;strales a esos {@LinkCreature:4#2021#shurian foe-hammers} c&amp;#243;mo nos movemos, al estilo Castanica!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1136">
+        <Page social="4">[EN] You returned in one piece! Um, not that I doubted you.&lt;BR&gt;&lt;BR&gt;No. Definitely no doubt on my part!&lt;BR&gt;&lt;BR&gt;Let's keep those shurians up north where they belong!&lt;br&gt;[ES] &amp;#161;Regresaste de una pieza! Eh, no es que dudara de ti.&lt;BR&gt;&lt;BR&gt;No. &amp;#161;Definitivamente ninguna duda de mi parte!&lt;BR&gt;&lt;BR&gt;&amp;#161;Mantengamos a esos shurians en el norte, a donde pertenecen!</Page>
+    </Text>
+</QuestDialog>

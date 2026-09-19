@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2108">
+        <Page social="0">[EN] Rhodos wanted a way to free the Parthians from the archdevan magic. Tirene, a Mysterium researcher with the Vanguard Initiative, examined an archdevan seal and said it might be possible to save the Parthians. Relieved, Rhodos vowed vengeance against Dakuryon.&lt;br&gt;[ES] Rhodos quer&amp;#237;a una forma de liberar a los parthians de la magia archdevana. Tirene, una investigadora del Mysterium con la Vanguard Initiative, examin&amp;#243; un sello archdev&amp;#225;n y dijo que podr&amp;#237;a ser posible salvar a los parthians. Aliviado, Rhodos jur&amp;#243; venganza contra Dakuryon.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2108">
+        <Page social="4">[EN] Jitt's final words change everything. We can't simply slaughter the Parthians. We must find another way.&lt;BR&gt;&lt;BR&gt;I know nothing of magic. Find someone who does and bring me the answer I seek.&lt;br&gt;[ES] Las &amp;#250;ltimas palabras de Jitt lo cambian todo. No podemos simplemente masacrar a los Parthians. Debemos encontrar otra manera.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; nada de magia. Encuentra a alguien que sepa y tr&amp;#225;eme la respuesta que busco.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2109">
+        <Page social="4">[EN] If the archdevan spell lifted just before death, we might be able to undo it en masse. There must be a focus, however. That's the key.&lt;BR&gt;&lt;BR&gt;The seal! Examine several other fallen Parthians. Retrieve anything that looks out of place.&lt;br&gt;[ES] Si el hechizo archdevan se disip&amp;#243; justo antes de morir, tal vez podamos deshacerlo en masa. Sin embargo, debe haber un foco. Esa es la clave.&lt;BR&gt;&lt;BR&gt;&amp;#161;El sello! Examina a otros Parthians ca&amp;#237;dos. Recupera cualquier cosa que parezca fuera de lugar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2109">
+        <Page social="4">[EN] A malignant power dwells within.&lt;BR&gt;&lt;BR&gt;Give me a moment to study it.&lt;br&gt;[ES] Un poder maligno habita en su interior.&lt;BR&gt;&lt;BR&gt;Dame un momento para estudiarlo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2109">
+        <Page social="4">[EN] I'm an arcanist, but not a soldier.&lt;BR&gt;&lt;BR&gt;The magic that transforms someone into a demokron cannot be undone, but we might free these poor people from the archdevas.&lt;BR&gt;&lt;BR&gt;Perhaps.&lt;BR&gt;&lt;BR&gt;With the aid of the baraka, we must try.&lt;br&gt;[ES] Soy un arcanista, no un soldado.&lt;BR&gt;&lt;BR&gt;La magia que transforma a alguien en un demokron no se puede deshacer, pero tal vez podamos liberar a esta pobre gente de los archdevas.&lt;BR&gt;&lt;BR&gt;Tal vez.&lt;BR&gt;&lt;BR&gt;Con la ayuda de los baraka, debemos intentarlo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" prevId="5" villagerId="2108">
+        <Page social="4">[EN] I don't understand magic, but I understood Tirene. There might be hope for my people.&lt;BR&gt;&lt;BR&gt;Dakuryon will pay for pitting my brothers against me!&lt;br&gt;[ES] No entiendo de magia, pero entend&amp;#237; a Tirene. Podr&amp;#237;a haber esperanza para mi gente.&lt;BR&gt;&lt;BR&gt;&amp;#161;Dakuryon pagar&amp;#225; por poner a mis hermanos en mi contra!</Page>
+    </Text>
+</QuestDialog>

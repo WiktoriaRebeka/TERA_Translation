@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="5">[EN] When you were over dealing with the Gutrend escorts, did you happen to run into a guard named {@LinkCreature:206#1020#Dakona}? She's guarding the temporary outpost north of Echo Ranch. The only one there, actually.&lt;BR&gt;&lt;BR&gt;Truth be told, I'm worried about her. It's hard to be the only guard in an area.&lt;BR&gt;&lt;BR&gt;Could you maybe check on her?&lt;br&gt;[ES] Cuando estabas lidiando con las escoltas de los Gutrends, &amp;#191;casualmente te topaste con una guardia llamada {@LinkCreature:206#1020#Dakona}? Ella est&amp;#225; custodiando el puesto temporal al norte de Echo Ranch. La &amp;#250;nica all&amp;#237;, en realidad.&lt;BR&gt;&lt;BR&gt;A decir verdad, estoy preocupado por ella. Es dif&amp;#237;cil ser el &amp;#250;nico guardia en un &amp;#225;rea.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as tal vez ir a ver c&amp;#243;mo est&amp;#225;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1020">
+        <Page social="13">[EN] Lethar sent you to check on me? Really? Stupid fool.&lt;BR&gt;&lt;BR&gt;He seems to think that the way to show affection for someone is to show a total lack of faith in their abilities. Honestly.&lt;br&gt;[ES] &amp;#191;Lethar te envi&amp;#243; a ver c&amp;#243;mo estoy? &amp;#191;De verdad? Est&amp;#250;pido tonto.&lt;BR&gt;&lt;BR&gt;Parece pensar que la forma de mostrar afecto por alguien es demostrar una total falta de fe en sus habilidades. Sinceramente.</Page>
+    </Text>
+</QuestDialog>

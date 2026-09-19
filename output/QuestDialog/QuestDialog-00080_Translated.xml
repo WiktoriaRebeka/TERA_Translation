@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1108">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1108">
+        <Page social="4">[EN] They do some crazy stuff in Castanica, &lt;PCCLASS:lcase&gt;. You walk into an alley, and some guy will be selling you some weird thing you've never even heard of.&lt;BR&gt;&lt;BR&gt;And I hear&amp;#8212;from a friend of a friend, of course&amp;#8212;that one of the things they sell are the bones of {@LinkCreature:4#2031#eldritch cardinals}.&lt;BR&gt;&lt;BR&gt;Medicinal purposes, maybe? Don't know, don't wanna know. But I like money just fine...&lt;br&gt;[ES] Hacen cosas muy locas en Castanica, &lt;PCCLASS:lcase&gt;. Entras a un callej&amp;#243;n y alg&amp;#250;n tipo te vende algo extra&amp;#241;o del que ni siquiera has o&amp;#237;do hablar.&lt;BR&gt;&lt;BR&gt;Y escuch&amp;#233; &amp;#8212;por un amigo de un amigo, por supuesto&amp;#8212; que una de las cosas que venden son los huesos de {@LinkCreature:4#2031#eldritch cardinals}.&lt;BR&gt;&lt;BR&gt;&amp;#191;Para fines medicinales, tal vez? No lo s&amp;#233;, no quiero saberlo. Pero el dinero me agrada bastante...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1108">
+        <Page social="4">[EN] I'll send these off to Castanica. Here's your cut. And don't tell the other soldiers. I want to keep a good thing quiet.&lt;br&gt;[ES] Se los enviar&amp;#233; a Castanica. Aqu&amp;#237; tienes tu parte. Y no se lo digas a los otros soldados. Quiero mantener este buen negocio en silencio.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1108">
+        <Page social="0">[EN] Your business, friend. If you aren't going to help out, though, I'd appreciate a little discretion on your part.&lt;BR&gt;&lt;BR&gt;Don't tell anyone about how I'm paying top coin for eldritch bones, eh?&lt;br&gt;[ES] Tus asuntos son tuyos, amigo. Si no vas a ayudar, sin embargo, agradecer&amp;#237;a un poco de discreci&amp;#243;n de tu parte.&lt;BR&gt;&lt;BR&gt;No le cuentes a nadie sobre c&amp;#243;mo estoy pagando una fortuna por huesos eldritch, &amp;#191;eh?</Page>
+    </Text>
+</QuestDialog>

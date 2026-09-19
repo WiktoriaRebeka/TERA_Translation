@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="9004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="9004">
+        <Page social="0">[EN] Hey! My quests are old and frozen. To compete in Wintera Snowfield, use Battleground Matching.&lt;BR&gt;&lt;BR&gt;&amp;#8212;&amp;#8212;Ambrrr&lt;br&gt;[ES] &amp;#161;Oye! Mis misiones son antiguas y est&amp;#225;n congeladas. Para competir en Wintera Snowfield, usa la b&amp;#250;squeda de campos de batalla.&lt;BR&gt;&lt;BR&gt;&amp;#8212;&amp;#8212;Ambrrr</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="9004">
+        <Page social="1">[EN] You came!&lt;BR&gt;&lt;BR&gt;Are you ready to learn about our Wintera snowball battle?&lt;br&gt;[ES] &amp;#161;Viniste!&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s listo para aprender sobre nuestra batalla de bolas de nieve en Wintera?</Page>
+    </Text>
+</QuestDialog>

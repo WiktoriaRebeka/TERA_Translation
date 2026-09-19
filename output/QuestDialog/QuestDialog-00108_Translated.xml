@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">[EN] It's so strange that they'd choose to poison me now&amp;#8212;it's not like they don't know me. I've been selling wares here for quite some time.&lt;BR&gt;&lt;BR&gt;After I was incapacitated, though, they took my things and ran off.&lt;BR&gt;&lt;BR&gt;Do you suppose you could collect my &lt;font color='#660000'&gt;belongings&lt;/font&gt; for me? I'm sure they're at the Babok Hollow west of here.&lt;br&gt;[ES] Es muy extra&amp;#241;&amp;#243; que elijan envenenarme ahora... No es como si no me conocieran. Llevo vendiendo mercanc&amp;#237;a aqu&amp;#237; desde hace un buen tiempo.&lt;BR&gt;&lt;BR&gt;Sin embargo, despu&amp;#233;s de que me incapacitaron, tomaron mis cosas y huyeron.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as recoger mis &lt;font color='#660000'&gt;pertenencias&lt;/font&gt; por m&amp;#237;? Estoy seguro de que est&amp;#225;n en el Babok Hollow, al oeste de aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="7">[EN] Yes, that's it! Thank you so much!&lt;BR&gt;&lt;BR&gt;And here is something for you.&lt;br&gt;[ES] &amp;#161;S&amp;#237;, eso es! &amp;#161;Muchas gracias!&lt;BR&gt;&lt;BR&gt;Y aqu&amp;#237; tienes algo para ti.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">[EN] Without my merchandise, I'm lost. Please, can you go retrieve it for me?&lt;br&gt;[ES] Sin mi mercanc&amp;#237;a, estoy perdido. Por favor, &amp;#191;puedes ir a recuperarla por m&amp;#237;?</Page>
+    </Text>
+</QuestDialog>

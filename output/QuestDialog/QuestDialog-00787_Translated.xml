@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="4">[EN] You're &lt;PCNAME&gt;, right? Maybe you can help me. The ordinary soldiers are useless.&lt;BR&gt;&lt;BR&gt;They sent me here to study the undead and find a weakness, but the troops can't gather...um...specimens.&lt;BR&gt;&lt;BR&gt;Kill {@LinkCreature:33#16#anguished minions} and {@LinkCreature:33#17#ebon inquisitors}.&lt;BR&gt;&lt;BR&gt;And take it from me: you're doing their trapped souls a favor by returning them to the Dream.&lt;br&gt;[ES] T&amp;#250; eres &lt;PCNAME&gt;, &amp;#191;verdad? Tal vez puedas ayudarme. Los soldados comunes y corrientes no sirven para nada.&lt;BR&gt;&lt;BR&gt;Me enviaron aqu&amp;#237; para estudiar a los muertos vivientes y encontrar una debilidad, pero las tropas no pueden recolectar... ejem... espec&amp;#237;menes.&lt;BR&gt;&lt;BR&gt;Mata {@LinkCreature:33#16#esclavos angustiados} y {@LinkCreature:33#17#inquisidores de &amp;#233;bano}.&lt;BR&gt;&lt;BR&gt;Y cr&amp;#233;eme: le est&amp;#225;s haciendo un favor a sus almas atrapadas al devolverlas al Dream.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1008">
+        <Page social="0">[EN] Trust me: if you die down here, you'd rather your soul return to the titans' Dream than to be trapped in an undead body for years. If not centuries...&lt;br&gt;[ES] Cr&amp;#233;eme: si mueres aqu&amp;#237; abajo, preferir&amp;#237;as que tu alma regresara al Dream de los titanes antes de quedar atrapada en un cuerpo de muerto viviente durante a&amp;#241;os. Si no siglos...</Page>
+    </Text>
+</QuestDialog>

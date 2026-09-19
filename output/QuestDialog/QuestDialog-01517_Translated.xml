@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1001">
+        <Page social="0">[EN] Moving on after Intrepid's crash, the Vanguard Initiative encountered the Khirians.&lt;br&gt;[ES] Avanzando tras el accidente del Intrepid, la Vanguard Initiative se encontr&amp;#243; con los Khirians.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1001">
+        <Page social="4">[EN] We can't stay here forever. We have a duty to our soldiers and the Valkyon Federation.&lt;NEXTPAGEBUTTON&gt;"Your orders, sir?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No podemos quedarnos aqu&amp;#237; para siempre. Tenemos un deber con nuestros soldados y la Valkyon Federation.&lt;NEXTPAGEBUTTON&gt;"Your orders, sir?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I've dispatched a scout. Catch up with him and assist with the reconnaissance.&lt;br&gt;[ES] He enviado a un explorador. Alc&amp;#225;nzalo y ay&amp;#250;dalo con el reconocimiento.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1019">
+        <Page social="4">[EN] I saw the wreckage, but you can't get there from here.&lt;BR&gt;&lt;BR&gt;I'm supposed to fire off a flare, but the launcher won't work. Why don't you try it?&lt;br&gt;[ES] Vi los restos, pero no se puede llegar all&amp;#237; desde aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Se supone que debo disparar una bengala, pero el lanzador no funciona. &amp;#191;Por qu&amp;#233; no lo intentas t&amp;#250;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1019">
+        <Page social="4">[EN] There's the answering flare. We're to press on.&lt;BR&gt;&lt;BR&gt;I don't know about the wounded, but I can't fight these mandrills. Maybe you could clear us a small path?&lt;br&gt;[ES] Ah&amp;#237; est&amp;#225; la bengala de respuesta. Debemos seguir adelante.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; qu&amp;#233; pasa con los heridos, pero no puedo pelear contra estos mandrills. &amp;#191;Tal vez podr&amp;#237;as abrirnos un peque&amp;#241;o camino?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1005">
+        <Page social="4">[EN] I don't recognize your garb or armaments. Who are you?&lt;NEXTPAGEBUTTON&gt;"I'm from the far south."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No reconozco tus vestimentas ni tus armas. &amp;#191;Qui&amp;#233;n eres?&lt;NEXTPAGEBUTTON&gt;"I'm from the far south."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] That should not be possible. The dark clouds keep us trapped. If what you say is true, Rhodos must hear it.&lt;BR&gt;&lt;BR&gt;Cross this bridge to get to our camp. Ask to see Rhodos. Give him this scroll. I will vouch for you.&lt;br&gt;[ES] Eso no deber&amp;#237;a ser posible. Las nubes oscuras nos mantienen atrapados. Si lo que dices es verdad, Rhodos debe escucharlo.&lt;BR&gt;&lt;BR&gt;Cruza este puente para llegar a nuestro campamento. Pide ver a Rhodos. Entrale este pergamino. Yo dar&amp;#233; fe de ti.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1006">
+        <Page social="4">[EN] What's this? Bagi writes that you're from the south. Is this true?&lt;NEXTPAGEBUTTON&gt;"It is true."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; es esto? Bagi escribe que vienes del sur. &amp;#191;Es esto verdad?&lt;NEXTPAGEBUTTON&gt;"It is true."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Why are you here? How is it you encounter my camp?&lt;NEXTPAGEBUTTON&gt;"Our ship crashed in the jungle."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; est&amp;#225;s aqu&amp;#237;? &amp;#191;C&amp;#243;mo es que te encuentras con mi campamento?&lt;NEXTPAGEBUTTON&gt;"Our ship crashed in the jungle."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] You may be clever, but I can't tell if you're lying, but there is one who can.&lt;BR&gt;&lt;BR&gt;Across the trail from our camp, you will see a horned hut. Madat can judge the truth of your words.&lt;br&gt;[ES] Podr&amp;#225;s ser astuto, pero no puedo saber si est&amp;#225;s mintiendo; sin embargo, hay alguien que s&amp;#237; puede.&lt;BR&gt;&lt;BR&gt;Cruzando el sendero desde nuestro campamento, ver&amp;#225;s una choza con cuernos. Madat puede juzgar la verdad de tus palabras.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1007">
+        <Page social="4">[EN] Ah, the skyfaller.&lt;NEXTPAGEBUTTON&gt;"What did you say?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ah, el que cay&amp;#243; del cielo.&lt;NEXTPAGEBUTTON&gt;"What did you say?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Don't look so surprised. I watched your great air fish fall out of the sky. You must be from the outside.&lt;BR&gt;&lt;BR&gt;Perhaps our time has come.&lt;BR&gt;&lt;BR&gt;I believe your arrival heralds the coming of the Khirian victory over the cursed archdevas!&lt;BR&gt;&lt;BR&gt;Hatishna! Tell Rhodos, "Hatishna!"&lt;br&gt;[ES] No pongas esa cara de sorpresa. Vi a tu gran pez volador caer del cielo. Debes ser del exterior.&lt;BR&gt;&lt;BR&gt;Tal vez ha llegado nuestro momento.&lt;BR&gt;&lt;BR&gt;&amp;#161;Creo que tu llegada anuncia la victoria de los Khirian sobre los malditos archdevas!&lt;BR&gt;&lt;BR&gt;&amp;#161;Hatishna! Dile a Rhodos: &quot;&amp;#161;Hatishna!&quot;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1006">
+        <Page social="4">[EN] What did Madat say?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; dijo Madat?</Page>
+    </Text>
+</QuestDialog>

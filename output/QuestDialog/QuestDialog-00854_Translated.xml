@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1009">
+        <Page social="12">[EN] I heard the Tenebrara attacked the supply carriage.&lt;BR&gt;&lt;BR&gt;That's terrible, but it seems out of the blue. I can't think what we might have done recently to anger them.&lt;BR&gt;&lt;BR&gt;In any case, we still need those supplies. I'll need you to find them and get them back to us.&lt;br&gt;[ES] Escuch&amp;#233; que los Tenebrara atacaron el carro de suministros.&lt;BR&gt;&lt;BR&gt;Eso es terrible, pero parece muy repentino. No se me ocurre qu&amp;#233; podr&amp;#237;amos haber hecho recientemente para hacerlos enojar.&lt;BR&gt;&lt;BR&gt;De cualquier modo, todav&amp;#237;a necesitamos esos suministros. Necesito que los encuentres y nos los devu&amp;#233;lvas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1009">
+        <Page social="8">[EN] Oh, good! We'll get to handing these out as needed immediately.&lt;BR&gt;&lt;BR&gt;You've helped a lot here, &lt;PCNAME&gt;. Thank you.&lt;br&gt;[ES] &amp;#161;Ah, qu&amp;#233; bien! Empezaremos a repartirlos seg&amp;#250;n sea necesario de inmediato.&lt;BR&gt;&lt;BR&gt;Has ayudado mucho aqu&amp;#237;, &lt;PCNAME&gt;. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1009">
+        <Page social="0">[EN] Did you get lost? You're going to Outlaws' Nest.&lt;br&gt;[ES] &amp;#191;Te perdiste? Te diriges a Outlaws' Nest.</Page>
+    </Text>
+</QuestDialog>

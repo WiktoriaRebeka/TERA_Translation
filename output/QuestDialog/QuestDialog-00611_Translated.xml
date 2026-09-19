@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1021">
+        <Page social="5">[EN] You don't look to be...overly-burdened with ethics. Interested in making a tidy bag of gold?&lt;BR&gt;&lt;BR&gt;The kumases wear a necklace with an enormous crystal in the middle. I've got arcanists asking after one with a whole lot of coins on the table. If you kill a {@LinkCreature:24#9#desert lightning kumas} and bring me the crystal, I'll see you're well-paid.&lt;br&gt;[ES] No pareces... estar muy abrumado por la &amp;#233;tica. &amp;#191;Te interesa ganar una buena bolsa de oro?&lt;BR&gt;&lt;BR&gt;Los kumases llevan un collar con un crystal enorme en el medio. Tengo arcanistas preguntando por uno con un mont&amp;#243;n de monedas sobre la mesa. Si matas a un {@LinkCreature:24#9#desert lightning kumas} y me traes el crystal, me asegurar&amp;#233; de que recibas una buena paga.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1021">
+        <Page social="5">[EN] That is quite a stone! Pleasure doing business with you!&lt;br&gt;[ES] &amp;#161;Esa es una piedra impresionante! Un placer hacer negocios contigo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1021">
+        <Page social="0">[EN] Come on&amp;#8212;you're not going to try and tell me you can't find a kumas the size of a house? Hurry up and get that necklace!&lt;br&gt;[ES] Vamos, &amp;#191;no vas a intentar decirme que no puedes encontrar un kumas del tama&amp;#241;o de una casa? &amp;#161;Date prisa y consigue ese collar!</Page>
+    </Text>
+</QuestDialog>

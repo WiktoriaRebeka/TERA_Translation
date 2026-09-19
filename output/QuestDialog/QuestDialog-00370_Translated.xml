@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1126">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1126">
+        <Page social="4">[EN] Orcans in the camp below are continuously reinforcing from somewhere. It is only a matter of time before they build to a strength capable of seriously threatening the federation presence on the island. The proper military response is to remove them by force&amp;#8212;but the scouts here are all those assigned to the problem.&lt;BR&gt;&lt;BR&gt;An excellent start would be to thin the ranks of {@LinkCreature:13#5#Orcan Raiders} patrolling the edge of their encampment.&lt;br&gt;[ES] Los orcans en el campamento de abajo se est&amp;#225;n reforzando continuamente desde alg&amp;#250;n lugar. Es solo cuesti&amp;#243;n de tiempo antes de que alcancen una fuerza capaz de amenazar seriamente la presencia de la federaci&amp;#243;n en la isla. La respuesta militar adecuada es eliminarlos por fuerza, pero los exploradores aqu&amp;#237; son todos los asignados al problema.&lt;BR&gt;&lt;BR&gt;Un excelente comienzo ser&amp;#237;a reducir las filas de los {@LinkCreature:13#5#Orcan Raiders} que patrullan el borde de su campamento.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1126">
+        <Page social="4">[EN] Watching orcans run and hide is quite enjoyable. Come back and kill with us any time.&lt;br&gt;[ES] Ver a los orcans correr y esconderse es bastante divertido. Ven a matar con nosotros cuando quieras.</Page>
+    </Text>
+</QuestDialog>

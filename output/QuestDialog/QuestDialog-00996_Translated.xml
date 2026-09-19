@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1007">
+        <Page social="4">[EN] This liquor not only makes the Black Claw tribe more violent, it makes them stronger. I think the besharan merchants are using the Black Claw tribe orcans as weapons against the federation. Karba needs to know about this.&lt;br&gt;[ES] Este licor no solo hace que la tribu Black Claw sea m&amp;#225;s violenta, sino que tambi&amp;#233;n los hace m&amp;#225;s fuertes. Creo que los comerciantes besharan est&amp;#225;n usando a los orcos de la tribu Black Claw como armas contra la federaci&amp;#243;n. Karba necesita saber esto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1021">
+        <Page social="0">[EN] They drank some sort of liquor to give them power? They do not deserve to be called warriors! Hunt down the {@LinkCreature:41#3004#Black Claw crushers} and {@LinkCreature:41#3005#Black Claw ragers} and take their warrior tokens, so all the tribes will know how they let themselves be used as tools of the besharan merchants!&lt;br&gt;[ES] &amp;#191;Bebieron alg&amp;#250;n tipo de licor para ganar poder? &amp;#161;No merecen ser llamados guerreros! &amp;#161;Caza a los {@LinkCreature:41#3004#Black Claw crushers} y {@LinkCreature:41#3005#Black Claw ragers} y toma sus fichas de guerrero, para que todas las tribus sepan c&amp;#243;mo se dejaron usar como herramientas de los comerciantes besharan!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1021">
+        <Page social="0">[EN] Death was too good for them. When I show the other tribes these tokens and tell them of the Black Claw tribe's shame, they will know the truth of it.&lt;br&gt;[ES] La muerte fue demasiado buena para ellos. Cuando les muestre estas fichas a las otras tribus y les hable de la verg&amp;#252;enza de la tribu Black Claw, sabr&amp;#225;n la verdad.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" villagerId="1021">
+        <Page social="0">[EN] The Black Claw tribe do not deserve to wear the tokens of warriors. Help me to shame them in the eyes of all orcans.&lt;br&gt;[ES] La tribu Black Claw no merece llevar las fichas de los guerreros. Ay&amp;#250;dame a avergonzarlos ante los ojos de todos los orcos.</Page>
+    </Text>
+</QuestDialog>

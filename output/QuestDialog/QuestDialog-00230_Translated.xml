@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1026">
+        <Page social="0">[EN] (The centurion's dead hand holds a map of the maze. There's an "X" &lt;font color='#660000'&gt;past the end of the southeast side of the depths&lt;/font&gt;, and a note: "Dangerous!")&lt;br&gt;[ES] (La mano muerta del centuri&amp;#243;n sostiene un mapa del laberinto. Hay una &quot;X&quot; &lt;font color='#660000'&gt;m&amp;#225;s all&amp;#225; del final del lado sureste de las profundidades&lt;/font&gt;, y una nota: &quot;&amp;#161;Peligro!&quot;)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">[EN] That's the face that haunts my nightmares: Lamakus!&lt;BR&gt;&lt;BR&gt;But the fact that it's not attached anymore&amp;#8212;that belongs in my wildest dreams!&lt;BR&gt;&lt;BR&gt;A thousand thanks, &lt;PCNAME&gt;. Leaderless gulas are disorganized, and disorganized gulas are no match for us.&lt;br&gt;[ES] Esa es la cara que atormenta mis pesadillas: &amp;#161;Lamakus!&lt;BR&gt;&lt;BR&gt;&amp;#161;Pero el hecho de que ya no est&amp;#233; unida... eso pertenece a mis sue&amp;#241;os m&amp;#225;s salvajes!&lt;BR&gt;&lt;BR&gt;Mil gracias, &lt;BR&gt;. Los gulas sin l&amp;#237;der est&amp;#225;n desorganizados, y los gulas desorganizados no son rival para nosotros.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">[EN] What's that in your hand?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; tienes en la mano?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] Tell Amarre that you must rescue the villagers.&lt;br&gt;[ES] Dile a Amarre que debes rescatar a los aldeanos.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Infused with Killian's power, Elleon faced Kalligar. &lt;PCNAME&gt; and Titus went after Elleon.&lt;br&gt;[ES] Infundido con el poder de Killian, Elleon se enfrent&amp;#243; a Kalligar. &lt;PCNAME&gt; y Titus fueron tras Elleon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="130">
+        <Page social="4" voiceTypeId="0">[EN] Yes, rescuing the people should be first. I'm sure that Elleon went for them as well.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, go with Titus and help Elleon.&lt;NEXTPAGEBUTTON&gt;"You're not coming?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] S&amp;#237;, rescatar a la gente deber&amp;#237;a ser lo primero. Estoy seguro de que Elleon fue por ellos tambi&amp;#233;n.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, ve con Titus y ayuda a Elleon.&lt;NEXTPAGEBUTTON&gt;"You're not coming?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I'll go with Basheek and study the manufacture of the cure and gather more ingredients.&lt;BR&gt;&lt;BR&gt;If I can work out the components of the cure, it'll be a great help for everyone at home.&lt;BR&gt;&lt;BR&gt;I'll join you later.&lt;BR&gt;&lt;BR&gt;Basheek said that our people are being held prisoner.&lt;br&gt;[ES] Ir&amp;#233; con Basheek a estudiar la fabricaci&amp;#243;n de la cura y a reunir m&amp;#225;s ingredientes.&lt;BR&gt;&lt;BR&gt;Si logro descifrar los componentes de la cura, ser&amp;#225; de gran ayuda para todos en casa.&lt;BR&gt;&lt;BR&gt;Me unir&amp;#233; a ti m&amp;#225;s tarde.&lt;BR&gt;&lt;BR&gt;Basheek dijo que nuestra gente est&amp;#225; prisionera.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" prevId="3" villagerId="140">
+        <Page social="7" voiceTypeId="0">[EN] You came!&lt;BR&gt;&lt;BR&gt;Elleon told me to wait here, but I was having second thoughts!&lt;BR&gt;&lt;BR&gt;Elleon went to the cages above the valley. Please go and help Elleon!&lt;br&gt;[ES] &amp;#161;Viniste!&lt;BR&gt;&lt;BR&gt;Elleon me dijo que esperara aqu&amp;#237;, &amp;#161;pero lo estaba pensando mejor!&lt;BR&gt;&lt;BR&gt;Elleon fue a las jaulas arriba del valle. &amp;#161;Por favor, ve y ayuda a Elleon!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2002" prevId="4" villagerId="141">
+        <Page social="4" voiceTypeId="0">[EN] Aaargh!&lt;BR&gt;&lt;BR&gt;Oh it's you...this place is a living hell...&lt;BR&gt;&lt;BR&gt;There was a lot of screaming and yelling above...be careful!&lt;br&gt;[ES] &amp;#161;Aaargh!&lt;BR&gt;&lt;BR&gt;Oh, eres t&amp;#250;... este lugar es un infierno viviente...&lt;BR&gt;&lt;BR&gt;Hubo muchos gritos y alaridos arriba... &amp;#161;ten cuidado!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2002" prevId="5" villagerId="142">
+        <Page social="4" voiceTypeId="0">[EN] It's relief to see you here.&lt;BR&gt;&lt;BR&gt;Elleon went to the cages up the valley. I thought I just heard a loud noise...&lt;BR&gt;&lt;BR&gt;I think the draakons are here now.&lt;BR&gt;&lt;BR&gt;Please! Teach those reptiles a lesson and save our people!&lt;br&gt;[ES] Es un alivio verte aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Elleon fue a las jaulas arriba del valle. Me pareci&amp;#243; escuchar un ruido fuerte...&lt;BR&gt;&lt;BR&gt;Creo que los draakons est&amp;#225;n aqu&amp;#237; ahora.&lt;BR&gt;&lt;BR&gt;&amp;#161;Por favor! &amp;#161;Dale una lecci&amp;#243;n a esos reptiles y salva a nuestra gente!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2102" prevId="6" villagerId="100">
+        <Page social="4" voiceTypeId="0">[EN] &lt;PCNAME&gt;! I didn't think you'd come so quick.&lt;BR&gt;&lt;BR&gt;I think we've recovered all of the people. Now, we must get out of here.&lt;BR&gt;&lt;BR&gt;I'll lead the way. You make sure that the people go to a safe place.&lt;BR&gt;&lt;BR&gt;Urgh!&lt;NEXTPAGEBUTTON&gt;"Are you all right?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! No pens&amp;#233; que llegar&amp;#237;as tan r&amp;#225;pido.&lt;BR&gt;&lt;BR&gt;Creo que hemos rescatado a todas las personas. Ahora debemos salir de aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Yo abrir&amp;#233; el camino. Aseg&amp;#250;rate de que la gente vaya a un lugar seguro.&lt;BR&gt;&lt;BR&gt;&amp;#161;Urgh!&lt;NEXTPAGEBUTTON&gt;"Are you all right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes...it...it's nothing.&lt;BR&gt;&lt;BR&gt;Let's go now.&lt;br&gt;[ES] S&amp;#237;... es... no es nada.&lt;BR&gt;&lt;BR&gt;V&amp;#225;monos ahora.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2102" prevId="7" villagerId="110">
+        <Page social="4" voiceTypeId="0">[EN] I think something's happening to Elleon.&lt;BR&gt;&lt;BR&gt;I think we should help him. Free Exodor will take care of the people.&lt;BR&gt;&lt;BR&gt;Hurry. We must not lose Elleon.&lt;br&gt;[ES] Creo que algo le pasa a Elleon.&lt;BR&gt;&lt;BR&gt;Pienso que deber&amp;#237;amos ayudarlo. Free Exodor se encargar&amp;#225; de la gente.&lt;BR&gt;&lt;BR&gt;Date prisa. No debemos perder a Elleon.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2002" prevId="8" villagerId="150">
+        <Page social="4" voiceTypeId="0">[EN] A garden is the last thing I thought I'd see here.&lt;BR&gt;&lt;BR&gt;Look at the size of those flowers. Maybe it's for those enormous butterflies?&lt;BR&gt;&lt;BR&gt;But I thought that they only ate animals?&lt;BR&gt;&lt;BR&gt;We should go....This place gives me the creeps.&lt;br&gt;[ES] Un jard&amp;#237;n es lo &amp;#250;ltimo que pens&amp;#233; ver aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Mira el tama&amp;#241;o de esas flores. &amp;#191;Tal vez sea para esas mariposas enormes?&lt;BR&gt;&lt;BR&gt;Pero, &amp;#191;no se supone que solo comen animales?&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;amos irnos... Este lugar me da escalofr&amp;#237;os.</Page>
+    </Text>
+</QuestDialog>

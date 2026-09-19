@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1013">
+        <Page social="5">[EN] Hmm. Bad, this ledger business. Not sure who to trust. Just you and Puran. He's the commander at Gloomy Outpost. Smart. He'll have a plan. Take the ledger there. Don't tell anyone else. And move fast! Too long and they'll find out we have it!&lt;br&gt;[ES] Mmm. Malo, este asunto de los registros. No s&amp;#233; en qui&amp;#233;n confiar. Solo en ti y en Puran. &amp;#201;l es el comandante en Gloomy Outpost. Es inteligente. Tendr&amp;#225; un plan. Lleva el registro all&amp;#225;. &amp;#161;No se lo digas a nadie m&amp;#225;s! &amp;#161;Y mu&amp;#233;vete r&amp;#225;pido! &amp;#161;Si pasa mucho tiempo descubrir&amp;#225;n que lo tenemos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1023">
+        <Page social="5">[EN] A transport ledger? One of mine? Ah!&lt;BR&gt;&lt;BR&gt;Keep my ledgers in a strongbox here. Only other person with a key is Quartermaster Licinza. Hmm. Wonder why Licinza would do it?&lt;br&gt;[ES] &amp;#191;Un registro de transporte? &amp;#191;Uno de los m&amp;#237;os? &amp;#161;Ah!&lt;BR&gt;&lt;BR&gt;Guardo mis registros en una caja fuerte aqu&amp;#237;. La &amp;#250;nica otra persona con llave es el quartermaster Licinza. Mmm. &amp;#191;Me pregunto por qu&amp;#233; Licinza har&amp;#237;a algo as&amp;#237;?</Page>
+    </Text>
+</QuestDialog>

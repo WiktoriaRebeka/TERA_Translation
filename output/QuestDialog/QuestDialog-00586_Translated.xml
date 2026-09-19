@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1017">
+        <Page social="5">[EN] You seem to be very popular, &lt;PCNAME&gt;. The camp west of Pora Elinu needs a capable soldier and they've asked for you by name.&lt;BR&gt;&lt;BR&gt;Would you go and help them? Speak with {@LinkCreature:223#1010$$Lohona} at the Valkyon Federation camp.&lt;br&gt;[ES] Pareces ser muy popular, &lt;PCNAME&gt;. El campamento al oeste de Pora Elinu necesita un soldado capaz y han preguntado por ti por tu nombre.&lt;BR&gt;&lt;BR&gt;&amp;#191;Ir&amp;#237;as a ayudarles? Habla con {@LinkCreature:223#1010$$Lohona} en el campamento de la Valkyon Federation.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1010">
+        <Page social="5">[EN] You're &lt;PCNAME&gt;? Not what I expected. From the tales surrounding you. I thought you'd be as tall as a dracoloth.&lt;BR&gt;&lt;BR&gt;Well, let's put you to work and see if the stories hold up.&lt;br&gt;[ES] &amp;#191;Eres &lt;PCNAME&gt;? No es lo que esperaba por las historias que te rodean. Pens&amp;#233; que ser&amp;#237;as tan alto como un dracoloth.&lt;BR&gt;&lt;BR&gt;Bueno, pong&amp;#225;monos a trabajar y veamos si las historias son ciertas.</Page>
+    </Text>
+</QuestDialog>

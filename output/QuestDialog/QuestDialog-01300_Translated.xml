@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1038">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1038">
+        <Page social="4">[EN] Imps are b-bound by magic to protect the faeries. The b-beasts of the forest turned against the fey; my b-brothers b-battered them b-back.&lt;BR&gt;&lt;BR&gt;Strange b-blue b-beasts invade and our numbers shrink from b-battle and illness. Too many b-brothers lost.&lt;BR&gt;&lt;BR&gt;I don't know if Jurik and Rabak have fallen to the sickness or they're just too stubborn; they'd stay out there until the sickness takes them.&lt;BR&gt;&lt;BR&gt;You, you can help. Federation &lt;PCCLASS:lcase&gt;, find Jurik!&lt;br&gt;[ES] Los imps est&amp;#225;n v-vinculados por magia para proteger a las hadas. Las b-bestias del bosque se volvieron contra las fey; mis h-hermanos las a-atajaron de v-vuelta.&lt;BR&gt;&lt;BR&gt;Extra&amp;#241;as b-bestias azules invaden y nuestras filas se reducen por la b-batalla y la enfermedad. Demasiados h-hermanos perdidos.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; si Jurik y Rabak han ca&amp;#237;do ante la enfermedad o son demasiado tercos; se quedar&amp;#237;an ah&amp;#237; fuera hasta que la enfermedad se los lleve.&lt;BR&gt;&lt;BR&gt;T&amp;#250;, t&amp;#250; puedes ayudar. &amp;#161;Federaci&amp;#243;n &lt;PCCLASS:lcase&gt;, encuentra a Jurik!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1031">
+        <Page social="4">[EN] Inmaru b-bleats too much. We're b-brave fighters. No b-beasts can stop us.&lt;BR&gt;&lt;BR&gt;And many b-beasts still need stopping.&lt;br&gt;[ES] Inmaru b-brama demasiado. Somos b-bravos combatientes. Ninguna b-bestia puede detenernos.&lt;BR&gt;&lt;BR&gt;Y muchas b-bestias a&amp;#250;n necesitan ser detenidas.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">[EN] A copper coin for your thoughts? Specifically, what are your thoughts on gathering?&lt;NEXTPAGEBUTTON&gt;"Never turn down the opportunity."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Una moneda de cobre por tus pensamientos? Espec&amp;#237;ficamente, &amp;#191;qu&amp;#233; opinas sobre la recolecci&amp;#243;n?&lt;NEXTPAGEBUTTON&gt;"Never turn down the opportunity."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I knew you'd say that.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} knows our current needs. She's my little gath-master. I just made that up.&lt;br&gt;[ES] Sab&amp;#237;a que dir&amp;#237;as eso.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} conoce nuestras necesidades actuales. Es mi peque&amp;#241;a maestra recolectora. Acabo de inventar eso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">[EN] "Gath-master?" You're kidding, right? That woman, I swear.&lt;BR&gt;&lt;BR&gt;As usual, I need some pretty rare materials. I know you can handle it, &lt;PCNAME&gt;.&lt;br&gt;[ES] &quot;&amp;#191;Maestra recolectora?&quot; Est&amp;#225;s bromeando, &amp;#191;verdad? Esa mujer, te lo juro.&lt;BR&gt;&lt;BR&gt;Como de costumbre, necesito algunos materiales bastante raros. S&amp;#233; que puedes manejarlo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">[EN] Amazing! It must not have been easy to get this.&lt;br&gt;[ES] &amp;#161;Incre&amp;#237;ble! No debi&amp;#243; ser f&amp;#225;cil conseguir esto.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] I know, {@RawItem:206801} isn't easy to come by.&lt;br&gt;[ES] Lo s&amp;#233;, {@RawItem:206801} no es f&amp;#225;cil de conseguir.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] Amazing! It couldn't have been easy to get this.&lt;br&gt;[ES] &amp;#161;Incre&amp;#237;ble! No debi&amp;#243; ser f&amp;#225;cil conseguir esto.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] I know, {@RawItem:206802} isn't easy to come by.&lt;br&gt;[ES] Lo s&amp;#233;, {@RawItem:206802} no es f&amp;#225;cil de conseguir.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] Amazing! It must not have been easy to get this.&lt;br&gt;[ES] &amp;#161;Incre&amp;#237;ble! No debi&amp;#243; ser f&amp;#225;cil conseguir esto.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] I know, {@RawItem:206803} isn't easy to come by.&lt;br&gt;[ES] Lo s&amp;#233;, {@RawItem:206803} no es f&amp;#225;cil de conseguir.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] Amazing! It must not have been easy to get this.&lt;br&gt;[ES] &amp;#161;Incre&amp;#237;ble! No debi&amp;#243; ser f&amp;#225;cil conseguir esto.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] I know, {@RawItem:206804} isn't easy to come by.&lt;br&gt;[ES] Lo s&amp;#233;, {@RawItem:206804} no es f&amp;#225;cil de conseguir.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] Amazing! It must not have been easy to get this.&lt;br&gt;[ES] &amp;#161;Incre&amp;#237;ble! No debi&amp;#243; ser f&amp;#225;cil conseguir esto.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] I know, {@RawItem:206805} isn't easy to come by.&lt;br&gt;[ES] Lo s&amp;#233;, {@RawItem:206805} no es f&amp;#225;cil de conseguir.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">[EN] You know what? You need an awesome nickname, too. From now on, I shall call you the Great Doer! Like, do-er, you know? Someone who does stuff?&lt;BR&gt;&lt;BR&gt;Oh man, that's just terrible, isn't it?&lt;br&gt;[ES] &amp;#191;Sabes qu&amp;#233;? T&amp;#250; tambi&amp;#233;n necesitas un apodo incre&amp;#237;ble. &amp;#161;A partir de ahora, te llamar&amp;#233; el Gran Hacedor! O sea, que hace cosas, &amp;#191;sabes? &amp;#191;Alguien que hace cosas?&lt;BR&gt;&lt;BR&gt;Ay, hombre, eso es simplemente terrible, &amp;#191;no?</Page>
+    </Text>
+</QuestDialog>

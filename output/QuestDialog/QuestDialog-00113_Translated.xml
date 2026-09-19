@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1022">
+        <Page social="0" voiceTypeId="0">[EN] Will you help us?&lt;BR&gt;&lt;BR&gt;Pangari is a great magician, very powerful, but without the &lt;font color='#660000'&gt;{@RawItem:206818}&lt;/font&gt;, for his potions, he can do nothing!&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;{@RawItem:206818} can be gathered from Crimson Essence. If you can't find any out in the field, then you might be able to buy them...but they're very expensive!&lt;br&gt;[ES] &amp;#191;Nos ayudar&amp;#225;s?&lt;BR&gt;&lt;BR&gt;Pangari es un gran mago, muy poderoso, pero sin el &lt;font color='#660000'&gt;{@RawItem:206818}&lt;/font&gt; para sus pociones, &amp;#161;no puede hacer nada!&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;El {@RawItem:206818} se puede recolectar de la Esencia Carmes&amp;#237;. Si no encuentras ninguna en el campo, es posible que puedas comprarla... &amp;#161;pero son muy caras!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1022">
+        <Page social="0" voiceTypeId="0">[EN] Yay! Done, and quickly! This will help Pangari greatly.&lt;BR&gt;&lt;BR&gt;Thank you, thank you!&lt;br&gt;[ES] &amp;#161;Yupi! &amp;#161;Hecho, y r&amp;#225;pido! Esto ayudar&amp;#225; mucho a Pangari.&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias, gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1022">
+        <Page social="0">[EN] Ingredients? Where are the essences of wind? Did you collect them?&lt;br&gt;[ES] &amp;#191;Ingredientes? &amp;#191;D&amp;#243;nde est&amp;#225;n las esencias de viento? &amp;#191;Las recolectaste?</Page>
+    </Text>
+</QuestDialog>

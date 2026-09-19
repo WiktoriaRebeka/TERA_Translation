@@ -1,0 +1,106 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="4">[EN] "A book is more powerful than any weapon," says an old proverb. Read books and teach yourself about a wiser life.&lt;br&gt;[ES] &quot;Un libro es m&amp;#225;s poderoso que cualquier arma&quot;, dice un viejo refr&amp;#225;n. Lee libros y ens&amp;#233;&amp;#241;ate a ti mismo sobre una vida m&amp;#225;s sabia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1709">
+        <Page social="4">[EN] &lt;font color='#0000FF'&gt;Allemantheia&lt;/font&gt; is the city of magic built by the high elves. (Details omitted.)&lt;BR&gt;&lt;BR&gt;To control the energy from the &lt;font color='#0000FF'&gt;Flower of Life&lt;/font&gt;, &lt;font color='#0000FF'&gt;Serion&lt;/font&gt; created&amp;#8212;and became&amp;#8212;the Core. (Details omitted.)&lt;BR&gt;&lt;BR&gt;The &lt;font color='#0000FF'&gt;Core&lt;/font&gt; supplies the high elves with an unlimited supply of mana. (Details omitted.)&lt;br&gt;[ES] &lt;font color='#0000FF'&gt;Allemantheia&lt;/font&gt; es la ciudad de magia construida por los high elves. (Detalles omitidos.)&lt;BR&gt;&lt;BR&gt;Para controlar la energ&amp;#237;a de la &lt;font color='#0000FF'&gt;Flower of Life&lt;/font&gt;, &lt;font color='#0000FF'&gt;Serion&lt;/font&gt; cre&amp;#243; &amp;#8212;y se convirti&amp;#243; en&amp;#8212; el Core. (Detalles omitidos.)&lt;BR&gt;&lt;BR&gt;El &lt;font color='#0000FF'&gt;Core&lt;/font&gt; provee a los high elves un suministro ilimitado de MP. (Detalles omitidos.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="4">[EN] Finish studying already? You must be smarter than you look.&lt;BR&gt;&lt;BR&gt;Get ready to take a test. We do a lot of tests around here.&lt;br&gt;[ES] &amp;#191;Terminaste de estudiar ya? Debes ser m&amp;#225;s inteligente de lo que pareces.&lt;BR&gt;&lt;BR&gt;Prep&amp;#225;rate para tomar un examen. Hacemos muchos ex&amp;#225;menes por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] Who created the Core?&lt;br&gt;[ES] &amp;#191;Qui&amp;#233;n cre&amp;#243; el Core?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] Bingo! You didn't just skip the reading.&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Bingo! No te saltaste la lectura.&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, you did. I expected nothing less.&lt;br&gt;[ES] S&amp;#237;, lo hiciste. No esperaba menos.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] He's an important figure, but not the right answer.&lt;NEXTPAGEBUTTON&gt;"I might have, um, skimmed the book."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Es una figura importante, pero no es la respuesta correcta.&lt;NEXTPAGEBUTTON&gt;"I might have, um, skimmed the book."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Go back to Collegium Arcane and study harder, &lt;PCNAME&gt;!&lt;br&gt;[ES] &amp;#161;Regresa al Collegium Arcane y estudia m&amp;#225;s duro, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] I'm sorry, but the Flower of Life held the energy that the Core now holds.&lt;NEXTPAGEBUTTON&gt;"I should study more."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Lo siento, pero la Flower of Life ten&amp;#237;a la energ&amp;#237;a que el Core tiene ahora.&lt;NEXTPAGEBUTTON&gt;"I should study more."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, you should indeed study harder.&lt;br&gt;[ES] S&amp;#237;, de verdad deber&amp;#237;as estudiar m&amp;#225;s.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] She isn't the right answer.&lt;NEXTPAGEBUTTON&gt;"Was that really in the book?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ella no es la respuesta correcta.&lt;NEXTPAGEBUTTON&gt;"Was that really in the book?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] It's all in the book. Go back to Collegium Arcane and read it again.&lt;br&gt;[ES] Est&amp;#225; todo en el libro. Vuelve a Collegium Arcane y l&amp;#233;elo de nuevo.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] Where do High Elves get their mana from?&lt;br&gt;[ES] &amp;#191;De d&amp;#243;nde obtienen su MP los High Elf?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] The Flower of Life was once a power source, but it is no more.&lt;NEXTPAGEBUTTON&gt;"Can I guess again?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] La Flor de la Vida fue en su d&amp;#237;a una fuente de poder, pero ya no lo es.&lt;NEXTPAGEBUTTON&gt;"Can I guess again?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, guess again&amp;#8212;after you go to Collegium Arcane and read the book.&lt;br&gt;[ES] S&amp;#237;, adivina otra vez, despu&amp;#233;s de ir a Collegium Arcane y leer el libro.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] Bingo!&lt;BR&gt;You studied hard, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Bingo!&lt;BR&gt;Has estudiado mucho, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, you did. Success as expected!&lt;br&gt;[ES] S&amp;#237;, as&amp;#237; fue. &amp;#161;&amp;#201;xito como se esperaba!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] These are not supposed to be difficult, &lt;PCNAME&gt;!&lt;NEXTPAGEBUTTON&gt;"I'll study harder."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Se supone que esto no debe ser dif&amp;#237;cil, &lt;PCNAME&gt;!&lt;NEXTPAGEBUTTON&gt;"I'll study harder."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] See that you do. Go back to Collegium Arcane.&lt;br&gt;[ES] M&amp;#225;s te vale. Vuelve a Collegium Arcane.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] Serion is the high elf who created the Core&amp;#8212;by becoming the Core.&lt;NEXTPAGEBUTTON&gt;"I will study more."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Serion es el high elf que cre&amp;#243; el Core, al convertirse en el Core.&lt;NEXTPAGEBUTTON&gt;"I will study more."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, go back to Collegium Arcane, and pay attention this time.&lt;br&gt;[ES] S&amp;#237;, vuelve a Collegium Arcane y presta atenci&amp;#243;n esta vez.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] Here's an easy one; the answer is all around you. High elves built this city of magic on the continent of Shara. What's the name of this city?&lt;br&gt;[ES] Aqu&amp;#237; tienes una f&amp;#225;cil; la respuesta est&amp;#225; a tu alrededor. Los high elves construyeron esta ciudad de magia en el continente de Shara. &amp;#191;C&amp;#243;mo se llama esta ciudad?</Page>
+    </Text>
+    <Text id="20" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] No, that's not it at all.&lt;NEXTPAGEBUTTON&gt;"I'll pay more attention next time."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No, no es eso en absoluto.&lt;NEXTPAGEBUTTON&gt;"I'll pay more attention next time."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Hit the books! Go back to Collegium Arcane and study harder.&lt;br&gt;[ES] &amp;#161;A empollar! Vuelve a Collegium Arcane y estudia m&amp;#225;s duro.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] He's an important figure, but not the right answer.&lt;NEXTPAGEBUTTON&gt;"I should have taken notes."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Es una figura importante, pero no la respuesta correcta.&lt;NEXTPAGEBUTTON&gt;"I should have taken notes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Use whatever study technique you like, but go back to Collegium Arcane and study harder.&lt;br&gt;[ES] Usa la t&amp;#233;cnica de estudio que prefieras, pero vuelve a Collegium Arcane y estudia m&amp;#225;s duro.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] A simple question, and a correct answer.&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Una pregunta sencilla y una respuesta correcta.&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, you did. You're a quick study.&lt;br&gt;[ES] S&amp;#237;, lo hiciste. Aprendes r&amp;#225;pido.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] That's not just incorrect. It's unbelievably wrong!&lt;NEXTPAGEBUTTON&gt;"Can it be an open-book test?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Eso no es solo incorrecto. &amp;#161;Es incre&amp;#237;blemente err&amp;#243;neo!&lt;NEXTPAGEBUTTON&gt;"Can it be an open-book test?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] No, you must study and remember. Go back to Collegium Arcane and study harder.&lt;br&gt;[ES] No, debes estudiar y recordar. Vuelve a Collegium Arcane y estudia m&amp;#225;s duro.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] Serion stored energy from here within the Core. Where did the energy come from?&lt;br&gt;[ES] Serion almacen&amp;#243; energ&amp;#237;a de aqu&amp;#237; dentro del Core. &amp;#191;De d&amp;#243;nde vino esa energ&amp;#237;a?</Page>
+    </Text>
+    <Text id="25" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] That's the name of an elf. Are you just guessing?&lt;NEXTPAGEBUTTON&gt;"Incorrectly, it seems."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ese es el nombre de un elfo. &amp;#191;Est&amp;#225;s adivinando?&lt;NEXTPAGEBUTTON&gt;"Incorrectly, it seems."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] We prefer certainty to guesswork. Go back to Collegium Arcane and study harder.&lt;br&gt;[ES] Preferimos la certeza a las suposiciones. Regresa al Collegium Arcane y estudia m&amp;#225;s.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] He's an important figure, but not the right answer.&lt;NEXTPAGEBUTTON&gt;"Do I get a second chance?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Es una figura importante, pero no es la respuesta correcta.&lt;NEXTPAGEBUTTON&gt;"Do I get a second chance?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, after you go back to Collegium Arcane and study the book again.&lt;br&gt;[ES] S&amp;#237;, despu&amp;#233;s de regresar al Collegium Arcane y estudiar el libro de nuevo.</Page>
+    </Text>
+    <Text id="27" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] Your ignorance leaves me speechless! Well, nearly speechless...&lt;NEXTPAGEBUTTON&gt;"I can do better!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Tu ignorancia me deja sin palabras! Bueno, casi sin palabras...&lt;NEXTPAGEBUTTON&gt;"I can do better!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] You'll have your chance. Go back to Collegium Arcane and study harder.&lt;br&gt;[ES] Tendr&amp;#225;s tu oportunidad. Regresa al Collegium Arcane y estudia m&amp;#225;s.</Page>
+    </Text>
+    <Text id="28" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">[EN] Your answer matches the truth.&lt;NEXTPAGEBUTTON&gt;"I got it right?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Tu respuesta coincide con la verdad.&lt;NEXTPAGEBUTTON&gt;"I got it right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Indeed, you were correct.&lt;br&gt;[ES] En efecto, estabas en lo correcto.</Page>
+    </Text>
+    <Text id="29" huntingZoneId="72" prevId="24" villagerId="1702">
+        <Page social="4">[EN] Keep studying hard, &lt;PCNAME&gt;. You'll become a great theoretician one day.&lt;br&gt;[ES] Sigue estudiando mucho, &lt;PCNAME&gt;. Te convertir&amp;#225;s en un gran te&amp;#243;rico alg&amp;#250;n d&amp;#237;a.</Page>
+    </Text>
+</QuestDialog>

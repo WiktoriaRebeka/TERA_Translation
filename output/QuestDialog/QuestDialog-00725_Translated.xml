@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1018">
+        <Page social="4">[EN] Mansur is rebuilding many of the houses the storm destroyed, but as you can see, trees don't grow so well out here.&lt;BR&gt;&lt;BR&gt;He needs some help collecting usable lumber from the damaged buildings.&lt;NEXTPAGEBUTTON&gt;"I can do that."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Mansur est&amp;#225; reconstruyendo muchas de las casas que destruy&amp;#243; la tormenta pero, como puedes ver, los &amp;#225;rboles no crecen muy bien por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Necesita algo de ayuda para recolectar madera &amp;#250;til de los edificios da&amp;#241;ados.&lt;NEXTPAGEBUTTON&gt;"I can do that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] You can find a lot of unused timber and scrap around the abandoned house near the Frost Wastes. It should still be solid if you just knock off the ice.&lt;BR&gt;&lt;BR&gt;I hope there's enough for Mansur to finish his work&amp;#8212;we'd all like our lives back to normal.&lt;br&gt;[ES] Puedes encontrar mucha madera y chatarra sin usar cerca de la casa abandonada cerca de Frost Wastes. Deber&amp;#237;a seguir estando s&amp;#243;lida si solo le quitas el hielo.&lt;BR&gt;&lt;BR&gt;Espero que haya suficiente para que Mansur termine su trabajo; a todos nos gustar&amp;#237;a que nuestras vidas volvieran a la normalidad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1016">
+        <Page social="4">[EN] You have my lumber?&lt;BR&gt;&lt;BR&gt;Bah! The ice goes all the way through. We'll be lucky if half of it holds together. Just like every other bit of wood in this place.&lt;BR&gt;&lt;BR&gt;Well, waste not, want not. Lucky I'm the best carpenter in Westonia.&lt;br&gt;[ES] &amp;#191;Tienes mi madera?&lt;BR&gt;&lt;BR&gt;&amp;#161;Bah! El hielo ha calado hasta el fondo. Tendremos suerte si la mitad se mantiene unida. Justo como cualquier otro trozo de madera en este lugar.&lt;BR&gt;&lt;BR&gt;Bueno, de lo perdido, lo que aparezca. Qu&amp;#233; suerte que soy el mejor carpintero de Westonia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1016">
+        <Page social="0">[EN] You got my timber?&lt;br&gt;[ES] &amp;#191;Conseguiste mi madera?</Page>
+    </Text>
+</QuestDialog>

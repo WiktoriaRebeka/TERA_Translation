@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="4">[EN] Our scouts followed up on some of the other maps you recovered and found a strange, red structure near the center of Kaidun's base.&lt;BR&gt;&lt;BR&gt;Sihran forces chased them off before they could examine it too closely. I need you to bring back a piece of it...or destroy it if need be.&lt;br&gt;[ES] Nuestros exploradores siguieron la pista de algunos de los otros mapas que recuperaste y encontraron una extra&amp;#241;a estructura roja cerca del centro de la base de Kaidun.&lt;BR&gt;&lt;BR&gt;Las fuerzas de Sihran los ahuyentaron antes de que pudieran examinarla con m&amp;#225;s detalle. Necesito que traigas un trozo de ella... o que la destruyas si es necesario.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1008">
+        <Page social="0">[EN] (With a few well-placed strikes, a small fragment of the structure breaks off.)&lt;br&gt;[ES] (Con unos pocos golpes bien dados, un peque&amp;#241;o fragmento de la estructura se desprende).</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1002">
+        <Page social="4">[EN] Interesting. This is all you could chip off? The sorcerers in the rear camp will have to look carefully at this.&lt;BR&gt;&lt;BR&gt;Good work, &lt;PCNAME&gt;.&lt;br&gt;[ES] Interesante. &amp;#191;Esto es todo lo que pudiste desprender? Los hechiceros del campamento trasero tendr&amp;#225;n que examinar esto con atenci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Buen trabajo, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1011">
+        <Page social="4">[EN] My husband died protecting Acarum. The {@LinkCreature:32#3#Sihran berserkers} cut off his hands, and let him bleed to death.&lt;BR&gt;&lt;BR&gt;His spirit haunts me, begging me to bring him some justice. I know what he wants, but I can't do it, and everyone in the village thinks I'm mad so they won't help.&lt;BR&gt;&lt;BR&gt;It's such a simple request&amp;#8212;just kill the {@LinkCreature:32#3#Sihran berserkers}, cut off their hands, and offer them to Batuk's spirit on Mount Tyrannas.&lt;BR&gt;&lt;BR&gt;Here, you may need this sack.&lt;br&gt;[ES] Mi esposo muri&amp;#243; protegiendo Acarum. Los {@LinkCreature:32#3#Sihran berserkers} le cortaron las manos y lo dejaron desangrarse hasta morir.&lt;BR&gt;&lt;BR&gt;Su esp&amp;#237;ritu me persigue y me suplica que le haga justicia. S&amp;#233; lo que quiere, pero no puedo hacerlo, y todos en la aldea creen que estoy loca, as&amp;#237; que no me ayudar&amp;#225;n.&lt;BR&gt;&lt;BR&gt;Es una petici&amp;#243;n muy simple: solo mata a los {@LinkCreature:32#3#Sihran berserkers}, c&amp;#243;rtales las manos y ofr&amp;#233;ceselas al esp&amp;#237;ritu de Batuk en el Monte Tyrannas.&lt;BR&gt;&lt;BR&gt;Toma, puede que necesites este saco.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1006">
+        <Page social="4">[EN] (The path to the grave is well-worn by travelers' feet. You put the sack of hands in a place already stained with blood. What's going on here?)&lt;br&gt;[ES] (El camino hacia la tumba est&amp;#225; muy trillado por los pasos de los viajeros. Colocas el saco de manos en un lugar ya manchado de sangre. &amp;#191;Qu&amp;#233; est&amp;#225; pasando aqu&amp;#237;?)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1006">
+        <Page social="0">[EN] Batuk died at Daunting Pass.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:32#3#Sihran berserkers} that murdered him and {@LinkCreature:32#1$$fighters} and take their hands.&lt;br&gt;[ES] Batuk muri&amp;#243; en Daunting Pass.&lt;BR&gt;&lt;BR&gt;Mata a los {@LinkCreature:32#3#Sihran berserkers} que lo asesinaron y a {@LinkCreature:32#1$$fighters} y toma sus manos.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" prevId="3" villagerId="1019">
+        <Page social="4">[EN] You believed her too, huh? She hasn't been the same since Batuk died. Haunted.&lt;BR&gt;&lt;BR&gt;She keeps sending people out after hands. At least it's Sihran hands...and not anyone else's.&lt;BR&gt;&lt;BR&gt;Can we just keep this between us? Thanks.&lt;br&gt;[ES] T&amp;#250; tambi&amp;#233;n le cre&amp;#237;ste, &amp;#191;eh? No ha sido la misma desde que Batuk muri&amp;#243;. Est&amp;#225; atormentada.&lt;BR&gt;&lt;BR&gt;Sigue mandando gente a buscar manos. Al menos son manos de Sihran... y no las de cualquier otro.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podemos mantener esto entre nosotros? Gracias.</Page>
+    </Text>
+</QuestDialog>

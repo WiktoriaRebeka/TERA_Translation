@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">[EN] Already we see native plants and animals recovering from near extinction. For example, eclipse thistles have many medicinal properties.&lt;NEXTPAGEBUTTON&gt;"They're useful?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ya vemos c&amp;#243;mo las plantas y animales nativos se recuperan de casi la extinci&amp;#243;n. Por ejemplo, los cardos de eclipse tienen muchas propiedades medicinales.&lt;NEXTPAGEBUTTON&gt;"They're useful?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] The thistles? Yes, if properly prepared.&lt;BR&gt;&lt;BR&gt;Gather up a bunch and take them to Lenorele at {@Rgn:47006$$Field Base Lunacy} if you're headed that way. She'll know what to do with them.&lt;br&gt;[ES] &amp;#191;Los cardos? S&amp;#237;, si se preparan adecuadamente.&lt;BR&gt;&lt;BR&gt;Re&amp;#250;ne un buen pu&amp;#241;ado y ll&amp;#233;vaselos a Lenorele en {@Rgn:47006$$Field Base Lunacy} si vas por ese camino. Ella sabr&amp;#225; qu&amp;#233; hacer con ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1014">
+        <Page social="4">[EN] Thank you. I can use these to make a potion that counters the effects of argon contamination. Gods know we need it.&lt;br&gt;[ES] Gracias. Puedo usar esto para hacer una poci&amp;#243;n que contrarreste los efectos de la contaminaci&amp;#243;n arg&amp;#243;n. Los dioses saben que la necesitamos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1014">
+        <Page social="0">[EN] Can I help you?&lt;br&gt;[ES] &amp;#191;Te puedo ayudar?</Page>
+    </Text>
+</QuestDialog>

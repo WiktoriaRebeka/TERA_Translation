@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="4">[EN] I know there are survivors up here. I can hear them scream, but the skeletons keep me from rescuing them.&lt;BR&gt;&lt;BR&gt;I feel like I've tried a dozen times.&lt;BR&gt;&lt;BR&gt;Please, &lt;PCNAME&gt;&amp;#8212;I could really use your help here.&lt;br&gt;[ES] S&amp;#233; que hay supervivientes aqu&amp;#237; arriba. Puedo o&amp;#237;rlos gritar, pero los esqueletos me impiden rescatarlos.&lt;BR&gt;&lt;BR&gt;Siento que lo he intentado una docena de veces.&lt;BR&gt;&lt;BR&gt;Por favor, &lt;PCNAME&gt;&amp;#8212;realmente necesito tu ayuda aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1030">
+        <Page social="4">[EN] Ah! Door! Open door, open door. Bye!&lt;br&gt;[ES] &amp;#161;Ah! &amp;#161;Puerta! Abre puerta, abre puerta. &amp;#161;Adi&amp;#243;s!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="2" villagerId="1031">
+        <Page social="4">[EN] Thank you! I thought...just thank you!&lt;br&gt;[ES] &amp;#161;Gracias! Pens&amp;#233;... &amp;#161;simplemente gracias!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="220" prevId="2" villagerId="1032">
+        <Page social="4">[EN] I'd love to stay and thank you properly, but I have to go!&lt;br&gt;[ES] &amp;#161;Me encantar&amp;#237;a quedarme y agradecerte como corresponde, pero tengo que irme!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="220" prevId="2" villagerId="1033">
+        <Page social="4">[EN] I need to get to my family. Thank you!&lt;br&gt;[ES] Tengo que llegar con mi familia. &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="220" prevId="2" villagerId="1034">
+        <Page social="4">[EN] Thank you.&lt;br&gt;[ES] Gracias.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="220" prevId="3" villagerId="1006">
+        <Page social="4">[EN] Oh, thank you. The villagers you rescued have been transported to Chebika.&lt;BR&gt;&lt;BR&gt;It was so good of you to help. It was killing me not being able to help.&lt;br&gt;[ES] Oh, gracias. Los aldeanos que rescataste han sido transportados a Chebika.&lt;BR&gt;&lt;BR&gt;Fue muy amable de tu parte ayudar. Me estaba matando no poder ayudar.</Page>
+    </Text>
+</QuestDialog>

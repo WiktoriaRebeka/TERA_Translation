@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1037">
+        <Page social="4">[EN] Thulsa sure doesn't like to fight his own battles, does he? Always getting someone, willing or otherwise, to do his dirty work for him.&lt;BR&gt;&lt;BR&gt;We've located the draelkar pylon northeast of here. It's guarded by Sihranars. Be careful, and you'll do just fine.&lt;br&gt;[ES] A Thulsa seguro que no le gusta librar sus propias batallas, &amp;#191;verdad? Siempre consiguiendo que alguien, de buen grado o no, le haga el trabajo sucio.&lt;BR&gt;&lt;BR&gt;Hemos localizado el draelkar pylon al noreste de aqu&amp;#237;. Est&amp;#225; custodiado por Sihranars. Ten cuidado y te ir&amp;#225; muy bien.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1037">
+        <Page social="4">[EN] Excellent!&lt;BR&gt;&lt;BR&gt;Glad I could count on you. With the pylon destroyed, the creatures should slowly get back to normal.&lt;BR&gt;&lt;BR&gt;It won't make the arachnens and barsicores any fuzzier toward us, but it's a start.&lt;br&gt;[ES] &amp;#161;Excelente!&lt;BR&gt;&lt;BR&gt;Me alegra poder contar contigo. Con el pylon destruido, las criaturas deber&amp;#237;an volver a la normalidad poco a poco.&lt;BR&gt;&lt;BR&gt;No har&amp;#225; que los arachnens y barsicores nos tengan m&amp;#225;s cari&amp;#241;o, pero es un comienzo.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1018">
+        <Page social="5">[EN] The Gutrends have the cattle so nervous they'll no longer eat what we have available here. I know they'll eat &lt;font color='#660000'&gt;Sweet Hayblossom&lt;/font&gt;, but the only place to collect it is over by those Gutrends.&lt;BR&gt;&lt;BR&gt;I can't go over there or I'll die, but if you could gather some...why, you could save the village!&lt;br&gt;[ES] Los gutrends tienen al ganado tan nervioso que ya no quieren comer lo que tenemos disponible aqu&amp;#237;. S&amp;#233; que comer&amp;#225;n &lt;font color='#660000'&gt;Sweet Hayblossom&lt;/font&gt;, pero el &amp;#250;nico lugar para recolectarlo es cerca de esos gutrends.&lt;BR&gt;&lt;BR&gt;No puedo ir all&amp;#237; o morir&amp;#233;, pero si pudieras recolectar un poco... vaya, &amp;#161;podr&amp;#237;as salvar la aldea!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1018">
+        <Page social="5">[EN] Oh! I can smell it from here! This should calm them down and get them eating again.&lt;BR&gt;&lt;BR&gt;I can't thank you enough.&lt;br&gt;[ES] &amp;#161;Oh! &amp;#161;Puedo olerlo desde aqu&amp;#237;! Esto deber&amp;#237;a calmar al ganado y hacer que vuelvan a comer.&lt;BR&gt;&lt;BR&gt;No tengo c&amp;#243;mo agradecerte lo suficiente.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1018">
+        <Page social="0">[EN] How did it go? Did you find the hay?&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo te fue? &amp;#191;Encontraste el heno?</Page>
+    </Text>
+</QuestDialog>

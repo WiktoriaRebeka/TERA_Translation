@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4">[EN] One of my men, Parlan, sent a brief message asking for help.&lt;BR&gt;&lt;BR&gt;I don't know what's wrong but I need someone who could handle anything, and that's you. He's north of here, probably studying basilisks.&lt;BR&gt;&lt;BR&gt;Tell him I sent you and be careful!&lt;br&gt;[ES] Uno de mis hombres, Parlan, envi&amp;#243; un breve mensaje pidiendo ayuda.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; qu&amp;#233; pasa, pero necesito a alguien que pueda encargarse de cualquier cosa, y ese eres t&amp;#250;. Est&amp;#225; al norte de aqu&amp;#237;, probablemente estudiando basiliscos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Dile que te mand&amp;#233; yo y ten cuidado!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1009">
+        <Page social="4">[EN] My message got through? Thank goodness.&lt;BR&gt;&lt;BR&gt;I need your help. Let's get to work.&lt;br&gt;[ES] &amp;#191;Mi mensaje lleg&amp;#243;? Menos mal.&lt;BR&gt;&lt;BR&gt;Necesito tu ayuda. A trabajar.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="83" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1136">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1136">
+        <Page social="0">[EN] Hey, I don't suppose you're on your way to the Creation Workshop in Velika, are you? I'm waiting for a weapon from them&amp;#8212;do you think you could stop in and ask Santia when it will be finished? Only if you happen to find yourself going that way, of course.&lt;br&gt;[ES] Oye, supongo que no estar&amp;#225;s de camino al Creation Workshop en Velika, &amp;#191;verdad? Estoy esperando un arma de ellos; &amp;#191;crees que podr&amp;#237;as pasar a preguntarle a Santia cu&amp;#225;ndo estar&amp;#225; lista? Solo si casualmente vas en esa direcci&amp;#243;n, por supuesto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="0">[EN] Oh, Velik's left...well, nevermind. I completely forgot about Jefaln's weapon. I'm absolutely swamped, though&amp;#8212;it would really help me out if you could lend me a hand. Here! take this {@RawItem:206809} and get materials and a design from that merchant, and then do the processing for me. Don't worry, I'll make the actual weapon, and it won't take long, but it would go so much faster if the {@RawItem:206814} was already processed.&lt;br&gt;[ES] Oh, por Velik... bueno, no importa. Me olvid&amp;#233; por completo del arma de Jefaln. Sin embargo, estoy abrumado de trabajo; me ayudar&amp;#237;a mucho si pudieras echarme una mano. &amp;#161;Toma! Toma esto {@RawItem:206809} y consigue los materiales y un dise&amp;#241;o de ese mercader, y luego haz el procesamiento por m&amp;#237;. No te preocupes, yo har&amp;#233; el arma real y no tomar&amp;#225; mucho tiempo, pero ir&amp;#237;a mucho m&amp;#225;s r&amp;#225;pido si el {@RawItem:206814} ya estuviera procesado.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1190">
+        <Page social="0">[EN] Yes, I'm in charge of the materials and design...&lt;BR&gt;&lt;BR&gt;When processing a stone, all you need is a stone, a kit, and a design.&lt;BR&gt;&lt;BR&gt;You can gather stones or buy them from the brokerage, and you can buy kits and designs from merchants.&lt;BR&gt;&lt;BR&gt;I see that you need to make a {@RawItem:206814}. You'll need a {@RawItem:206809} and a {@RawItem:204050}. Since it's your first time here, the {@RawItem:204050} is free.&lt;br&gt;[ES] S&amp;#237;, estoy a cargo de los materiales y el dise&amp;#241;o...&lt;BR&gt;&lt;BR&gt;Al procesar una piedra, todo lo que necesitas es una piedra, un kit y un dise&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Puedes recolectar piedras o comprarlas en el intermediario, y puedes comprar kits y dise&amp;#241;os a los mercaderes.&lt;BR&gt;&lt;BR&gt;Veo que necesitas fabricar un {@RawItem:206814}. Necesitar&amp;#225;s un {@RawItem:206809} y un {@RawItem:204050}. Como es tu primera vez aqu&amp;#237;, el {@RawItem:204050} es gratis.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1196">
+        <Page social="0">[EN] Designs, designs, I'm up to my eyeballs in designs. You look rather plaid. Ha! Ha ha! Ha? Eh, design merchant humor. You wouldn't get it. Anyhow, here's the design you'll need.&lt;br&gt;[ES] Dise&amp;#241;os, dise&amp;#241;os, estoy hasta el cuello de dise&amp;#241;os. Te ves un poco a cuadros. &amp;#161;Ja! &amp;#161;Ja, ja! &amp;#161;Ja? Eh, humor de mercader de dise&amp;#241;os. No lo entender&amp;#237;as. De cualquier modo, aqu&amp;#237; tienes el dise&amp;#241;o que necesitar&amp;#225;s.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1098">
+        <Page social="0">[EN] You did well! I'll give you another design just so you can try something else. Choose what you wish.&lt;br&gt;[ES] &amp;#161;Lo hiciste bien! Te dar&amp;#233; otro dise&amp;#241;o solo para que puedas probar otra cosa. Elige lo que desees.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] What are you staring at? Your arms broken? Well, I didn't see any {@RawItem:206814}, so I assumed you had trouble lifting it.&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; est&amp;#225;s mirando? &amp;#191;Tienes los brazos rotos? Bueno, no vi ning&amp;#250;n {@RawItem:206814}, as&amp;#237; que asum&amp;#237; que tuviste problemas para levantarlo.</Page>
+    </Text>
+</QuestDialog>

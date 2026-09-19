@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="49" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="49" prevId="0" villagerId="1006">
+        <Page social="4">[EN] My friend, I wish to investigate the Casian Tree, but the path isn't safe. Might I prevail upon your combat skill to help me reach my destination?&lt;NEXTPAGEBUTTON&gt;"Of course."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Amigo m&amp;#237;o, deseo investigar el Casian Tree, pero el camino no es seguro. &amp;#191;Podr&amp;#237;a contar con tu habilidad en combate para ayudarme a llegar a mi destino?&lt;NEXTPAGEBUTTON&gt;"Of course."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Splendid. It's northwest of here. Let me know when you're ready to depart.&lt;br&gt;[ES] Magn&amp;#237;fico. Est&amp;#225; al noroeste de aqu&amp;#237;. Av&amp;#237;same cuando est&amp;#233;s listo para partir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="49" villagerId="35">
+        <Page social="0">[EN] Shall we?&lt;br&gt;[ES] &amp;#191;Nos vamos?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="2" villagerId="1001">
+        <Page social="6">[EN] Breathtaking, isn't it? Oh, and look&amp;#8212;a small shrine.&lt;BR&gt;&lt;BR&gt;I suspect this investigation will prove most stimulating.&lt;br&gt;[ES] Impresionante, &amp;#191;verdad? Oh, y mira, un peque&amp;#241;o santuario.&lt;BR&gt;&lt;BR&gt;Sospecho que esta investigaci&amp;#243;n resultar&amp;#225; de lo m&amp;#225;s estimulante.</Page>
+    </Text>
+</QuestDialog>

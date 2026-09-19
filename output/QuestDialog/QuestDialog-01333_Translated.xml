@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1015">
+        <Page social="4">[EN] Apparently, the Mysterium wants to study the local mushrooms. Something about recording the energy corruption or&amp;#8212;look, the Mysterium wants mushrooms, so they're going to get them.&lt;BR&gt;&lt;BR&gt;Shadow mushrooms aren't hard to find. They're around the Skyleaves area. Collect some and give them to Tethan at Dusk Camp.&lt;BR&gt;&lt;BR&gt;He'll be thrilled, or as thrilled as an elf gets.&lt;br&gt;[ES] Aparentemente, el Mysterium quiere estudiar los hongos locales. Algo sobre registrar la energ&amp;#237;a de corrupci&amp;#243;n o... mira, el Mysterium quiere hongos, as&amp;#237; que los van a conseguir.&lt;BR&gt;&lt;BR&gt;Los hongos de sombra no son dif&amp;#237;ciles de encontrar. Est&amp;#225;n por el &amp;#225;rea de Skyleaves. Recolecta algunos y d&amp;#225;selos a Tethan en Dusk Camp.&lt;BR&gt;&lt;BR&gt;Estar&amp;#225; encantado, o tan encantado como lo est&amp;#233; un elfo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1031">
+        <Page social="4">[EN] These specimens will help us identify the source of the unseelie treachery. We suspect Thulsa, but there's enough argon activity around here to point to them as well.&lt;BR&gt;&lt;BR&gt;Jola has apparently started a pool on the outcome.&lt;br&gt;[ES] Estos espec&amp;#237;menes nos ayudar&amp;#225;n a identificar la fuente de la traici&amp;#243;n de los unseelie. Sospechamos de Thulsa, pero hay suficiente actividad argon por aqu&amp;#237; como para apuntar hacia ellos tambi&amp;#233;n.&lt;BR&gt;&lt;BR&gt;Al parecer, Jola ha abierto una apuesta sobre el resultado.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1031">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="4">[EN] If Thulsa's really behind all this, it would explain the Ksharans we've gotten word of.&lt;BR&gt;&lt;BR&gt;Arast at Dusk Camp said he saw a Ksharan near his post. Ksharans are undead made through argon artifice. They're definitely a threat.&lt;BR&gt;&lt;BR&gt;Confirm their presence and report to Arast directly.&lt;br&gt;[ES] Si Thulsa realmente est&amp;#225; detr&amp;#225;s de todo esto, explicar&amp;#237;a los Ksharans de los que hemos tenido noticias.&lt;BR&gt;&lt;BR&gt;Arast en Dusk Camp dijo que vio a un Ksharan cerca de su puesto. Los Ksharans son muertos vivientes creados mediante artificio argon. Definitivamente son una amenaza.&lt;BR&gt;&lt;BR&gt;Confirma su presencia e inf&amp;#243;rmale a Arast directamente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1025">
+        <Page social="4">[EN] These are definitely Thulsan amulets. Thulsa's cast his net wide and gathered numerous allies to shield his work.&lt;BR&gt;&lt;BR&gt;That explains why the unseelie are so bold. They think Thulsa will support them. Fools.&lt;BR&gt;&lt;BR&gt;Thulsa's only loyalty is to himself.&lt;br&gt;[ES] Estos son definitivamente amuletos de Thulsa. Thulsa ha lanzado su red ampliamente y ha reunido numerosos aliados para proteger su trabajo.&lt;BR&gt;&lt;BR&gt;Eso explica por qu&amp;#233; los unseelie son tan audaces. Piensan que Thulsa los apoyar&amp;#225;. Insensatos.&lt;BR&gt;&lt;BR&gt;La &amp;#250;nica lealtad de Thulsa es hacia s&amp;#237; mismo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1025">
+        <Page social="0">[EN] I must know if the roads are safe. Please ensure they're clear or bring something tangible we can share with command.&lt;br&gt;[ES] Debo saber si los caminos son seguros. Por favor, aseg&amp;#250;rate de que est&amp;#233;n despejados o trae algo tangible que podamos compartir con el mando.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">[EN] The mercenary camp is somehow receiving regular reinforcements, but we don't know how or where they're coming from. No matter how many we kill, their numbers aren't shrinking.&lt;BR&gt;&lt;BR&gt;No matter how many mercenaries there are, though, they're useless without their commanders.&lt;BR&gt;&lt;BR&gt;We just have to find out where the commanders are camped. Here's a list of sectors to scout, but you'll need Uzair's approval first.&lt;br&gt;[ES] El campamento mercenario de alguna manera est&amp;#225; recibiendo refuerzos regulares, pero no sabemos c&amp;#243;mo ni de d&amp;#243;nde vienen. No importa cu&amp;#225;ntos matemos, sus n&amp;#250;meros no disminuyen.&lt;BR&gt;&lt;BR&gt;No importa cu&amp;#225;ntos mercenarios haya, sin embargo, son in&amp;#250;tiles sin sus comandantes.&lt;BR&gt;&lt;BR&gt;Solo tenemos que averiguar d&amp;#243;nde est&amp;#225;n acampados los comandantes. Aqu&amp;#237; tienes una lista de sectores para explorar, pero primero necesitar&amp;#225;s la aprobaci&amp;#243;n de Uzair.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1003">
+        <Page social="4">[EN] I'd love to go ahead with Nashwa's plan&amp;#8212;it's a great idea&amp;#8212;but the scouts we sent out in that area haven't come back.&lt;BR&gt;&lt;BR&gt;You'll do, though. Go find their commander, {@LinkCreature:32#20#Baalark}, and take him out before these mercenaries get any more ideas.&lt;br&gt;[ES] Me encantar&amp;#237;a seguir adelante con el plan de Nashwa, es una gran idea, pero los exploradores que enviamos a esa zona no han vuelto.&lt;BR&gt;&lt;BR&gt;T&amp;#250; sirves, sin embargo. Ve a buscar a su comandante, {@LinkCreature:32#20#Baalark}, y ac&amp;#225;balo antes de que a estos mercenarios se les ocurran m&amp;#225;s ideas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1003">
+        <Page social="4">[EN] Bastard finally got what he deserved&amp;#8212;I swear on the blood of the soldiers he slaughtered, his head will hang for a week for the crows to feast on and his mercenaries to consider.&lt;BR&gt;&lt;BR&gt;Everyone will be thrilled to hear the news. I can't wait to tell Nashwa her plan paid off.&lt;br&gt;[ES] El infeliz por fin obtuvo lo que se merec&amp;#237;a; lo juro por la sangre de los soldados que masacr&amp;#243;, su cabeza colgar&amp;#225; durante una semana para que los cuervos se den un fest&amp;#237;n y los mercenarios reflexionen.&lt;BR&gt;&lt;BR&gt;Todos estar&amp;#225;n encantados de escuchar la noticia. No veo la hora de decirle a Nashwa que su plan dio frutos.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" villagerId="1003">
+        <Page social="0">[EN] You'll find the mercenary camp north of here. There's no time to waste.&lt;br&gt;[ES] Encontrar&amp;#225;s el campamento mercenario al norte de aqu&amp;#237;. No hay tiempo que perder.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">[EN] We're low on food. Like, really low. {@LinkCreature:63#3003#Elthienne} wants someone to go to {@Rgn:7001#Celestial Hills} right away and get us some rations.&lt;BR&gt;&lt;BR&gt;Tell her you're available, as clearly, you are. Look at me, I'm shaking!&lt;br&gt;[ES] Estamos sin comida. O sea, de verdad muy mal. {@LinkCreature:63#3003#Elthienne} quiere que alguien vaya a {@Rgn:7001#Celestial Hills} ahora mismo a conseguirnos raciones.&lt;BR&gt;&lt;BR&gt;Dile que est&amp;#225;s disponible, porque claramente lo est&amp;#225;s. &amp;#161;M&amp;#237;rame, estoy temblando!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">[EN] &lt;PCNAME&gt;, did Taratia tell you we need someone to go to the {@Rgn:7001#Celestial Hills} for a good, old-fashioned hunt? Will you go?&lt;br&gt;[ES] &lt;PCNAME&gt;, &amp;#191;te dijo Taratia que necesitamos a alguien que vaya a {@Rgn:7001#Celestial Hills} para una buena y cl&amp;#225;sica cacer&amp;#237;a? &amp;#191;Ir&amp;#225;s?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">[EN] Whoohoo! {@LinkCreature:63#3003#Elthienne} will be so glad you're back. We're practically starving to death.&lt;BR&gt;&lt;BR&gt;You wouldn't think that'd be possible in the big city, would you?&lt;br&gt;[ES] &amp;#161;Guau! {@LinkCreature:63#3003#Elthienne} se alegrar&amp;#225; tanto de que hayas vuelto. Pr&amp;#225;cticamente nos estamos muriendo de hambre.&lt;BR&gt;&lt;BR&gt;No pensar&amp;#237;as que eso ser&amp;#237;a posible en la gran ciudad, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Hunt {@LinkCreature:7#1$$naga mercenaries} in the {@Rgn:7001#Celestial Hills} and bring back some fresh meat.&lt;BR&gt;&lt;BR&gt;Go! Quickly! I've never been so hungry in all my life. You wouldn't believe how greedy people are around here. Sharing is not caring in Velika. Not lately.&lt;br&gt;[ES] Caza {@LinkCreature:7#1$$naga mercenarios} en {@Rgn:7001#Celestial Hills} y trae algo de carne fresca.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve! &amp;#161;R&amp;#225;pido! Nunca hab&amp;#237;a tenido tanta hambre en toda mi vida. No te imaginas lo codiciosa que es la gente por aqu&amp;#237;. Compartir no importa en Velika. No &amp;#250;ltimamente.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">[EN] Thanks, &lt;PCNAME&gt;. This is fresh, right? It smells okay.&lt;BR&gt;&lt;BR&gt;Let {@LinkCreature:63#3003#Elthienne} know you're back. Cause she probably can't see you. I'm being sarcastic.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Esto es fresco, &amp;#191;verdad? Huele bien.&lt;BR&gt;&lt;BR&gt;Hazle saber a {@LinkCreature:63#3003#Elthienne} que has vuelto. Porque probablemente no te vea. Estoy siendo sarc&amp;#225;stico.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Hunt {@LinkCreature:7#3$$indolent kumases} in the {@Rgn:7001#Celestial Hills} and bring back some delicious kumas blubber.&lt;BR&gt;&lt;BR&gt;It's actually really good. Hey! Beggars can't be choosers.&lt;br&gt;[ES] Caza {@LinkCreature:7#3$$indolent kumases} en {@Rgn:7001#Celestial Hills} y trae un poco de deliciosa grasa de kumas.&lt;BR&gt;&lt;BR&gt;En realidad es muy buena. &amp;#161;Oye! A caballo regalado no se le mira el colmillo.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">[EN] I can't wait to make something tasty out of this. Thanks, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has your payment.&lt;br&gt;[ES] No veo la hora de preparar algo sabroso con esto. &amp;#161;Gracias, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene tu pago.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Hunt {@LinkCreature:7#4$$torpid kumases} in the {@Rgn:7001#Celestial Hills} and bring back kumas blubber.&lt;BR&gt;&lt;BR&gt;If we weren't so hungry, I could make lipstick out of that blubber. You have to dye it, of course, if you want your lips to really pop. Eew, that was a weird visual.&lt;br&gt;[ES] Caza {@LinkCreature:7#4$$torpid kumases} en {@Rgn:7001#Celestial Hills} y trae grasa de kumas.&lt;BR&gt;&lt;BR&gt;Si no tuvi&amp;#233;ramos tanta hambre, podr&amp;#237;a hacer l&amp;#225;piz labial con esa grasa. Tienes que te&amp;#241;irla, por supuesto, si quieres que tus labios resalten de verdad. Uf, esa fue una imagen extra&amp;#241;a.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">[EN] Thanks, &lt;PCNAME&gt;. This is fresh and wonderful. Want to come back for dinner?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} will be happy to put an extra place setting at the table for you.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Esto es fresco y maravilloso. &amp;#191;Quieres volver a cenar?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} se alegrar&amp;#225; de poner un cubierto extra en la mesa para ti.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Hunt {@LinkCreature:7#23$$juggernaut mercenaries} in {@Rgn:7001#Celestial Hills} and bring back some meat. That stuff is tough, but it makes decent jerky.&lt;br&gt;[ES] Caza {@LinkCreature:7#23$$juggernaut mercenarios} en {@Rgn:7001#Celestial Hills} y trae algo de carne. Eso es duro, pero sirve para hacer una buena carne seca.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">[EN] Thank the gods for you, &lt;PCNAME&gt;. We'll live to see another day.&lt;br&gt;[ES] Gracias a los dioses por ti, &lt;PCNAME&gt;. Viviremos para ver otro d&amp;#237;a.</Page>
+    </Text>
+</QuestDialog>

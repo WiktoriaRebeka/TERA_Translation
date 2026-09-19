@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1025">
+        <Page social="4">[EN] It's not enough to weaken the unseelie. We must take out Sinarl, their so-called regent.&lt;BR&gt;&lt;BR&gt;Amline ventured into the Plaza of the Fallen to find Sinarl.&lt;BR&gt;&lt;BR&gt;Catch up to her and help her finish the mission.&lt;br&gt;[ES] No basta con debilitar a los unseelie. Debemos eliminar a Sinarl, su autoproclamado regente.&lt;BR&gt;&lt;BR&gt;Amline se aventur&amp;#243; en la Plaza of the Fallen para encontrar a Sinarl.&lt;BR&gt;&lt;BR&gt;Alc&amp;#225;nzala y ay&amp;#250;dale a terminar la misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1024">
+        <Page social="4">[EN] Arast sent you? Welcome.&lt;BR&gt;&lt;BR&gt;Sinarl's nearby, down in the valley actually, but I can't get close. Surrounded by jalmaraks or urisks, no doubt. &lt;BR&gt;&lt;BR&gt;You've killed every foe you've come across. Think you're up for an unseelie regent?&lt;br&gt;[ES] &amp;#191;Te mand&amp;#243; Arast? Bienvenid&lt;BR&gt;&lt;BR&gt;Sinarl est&amp;#225; cerca, abajo en el valle de hecho, pero no puedo acercarme. Rodeado de jalmaraks o urisks, sin duda.&lt;BR&gt;&lt;BR&gt;Has matado a cada enemigo con el que te has cruzado. &amp;#191;Crees que est&amp;#225;s preparado para un regente unseelie?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" prevId="3" villagerId="1025">
+        <Page social="4">[EN] Sinarl's death means we can try to reconcile with the rest of the jalmaraks, bring them back to our side. I don't know what possessed them to aid Thulsa in the first place.&lt;BR&gt;&lt;BR&gt;You're an incredible soldier, &lt;PCNAME&gt;. Thanks!&lt;br&gt;[ES] La muerte de Sinarl significa que podemos intentar reconciliarnos con el resto de los jalmaraks y traerlos de vuelta a nuestro lado. No s&amp;#233; qu&amp;#233; se les cruz&amp;#243; por la cabeza para ayudar a Thulsa en primer lugar.&lt;BR&gt;&lt;BR&gt;&amp;#161;Eres un soldado incre&amp;#237;ble, &lt;PCNAME&gt;! &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="255" villagerId="1025">
+        <Page social="0">[EN] Sinarl is cautious. He'll have allies to protect him. It's dangerous to go alone. Take others.&lt;br&gt;[ES] Sinarl es cauteloso. Tendr&amp;#225; aliados para protegerlo. Es peligroso ir solo. Lleva a otros.</Page>
+    </Text>
+</QuestDialog>

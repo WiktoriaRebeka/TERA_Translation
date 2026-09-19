@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1008">
+        <Page social="4">[EN] I hear you're thinking about entering that cave. You are? Wonderful! For you, I mean. I mean I hear it's...great, but I wouldn't be excited for me that you're going in. That'd be dumb.&lt;BR&gt;&lt;BR&gt;Although...&lt;BR&gt;&lt;BR&gt;Well, as long as you're going in, it would be pretty neat if you could grab a few &lt;b&gt;cave mushroom spores&lt;/b&gt;. Just if you happen to see them, of course.&lt;BR&gt;&lt;BR&gt;And then, maybe you could, I don't know, deliver them to Ruanal?&lt;br&gt;[ES] Me enter&amp;#233; de que est&amp;#225;s pensando en entrar a esa cueva. &amp;#191;De verdad? &amp;#161;Maravilloso! Para ti, digo. O sea, escuch&amp;#233; que es... genial, pero no me emocionar&amp;#237;a por m&amp;#237; si fueras a entrar. Eso ser&amp;#237;a tonto.&lt;BR&gt;&lt;BR&gt;Aunque...&lt;BR&gt;&lt;BR&gt;Bueno, ya que vas a entrar, ser&amp;#237;a bastante genial si pudieras conseguir unas cuantas &lt;b&gt;cave mushroom spores&lt;/b&gt;. Solo si te las encuentras, por supuesto.&lt;BR&gt;&lt;BR&gt;Y luego, tal vez podr&amp;#237;as, no s&amp;#233;, &amp;#191;entreg&amp;#225;rselas a Ruanal?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1028">
+        <Page social="4">[EN] Cave mushrooms? How wonderful. I'm starving!&lt;BR&gt;&lt;BR&gt;Did Nadr send these? What a guy. He's been looking out for me since we were green.&lt;br&gt;[ES] &amp;#191;Cave mushrooms? Qu&amp;#233; maravilla. &amp;#161;Me muero de hambre!&lt;BR&gt;&lt;BR&gt;&amp;#191;Nadr envi&amp;#243; esto? Qu&amp;#233; gran tipo. Ha estado cuidando de m&amp;#237; desde que &amp;#233;ramos novatos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1028">
+        <Page social="0">[EN] Mmm...mushrooms.&lt;br&gt;[ES] Mmm... champi&amp;#241;ones.</Page>
+    </Text>
+</QuestDialog>

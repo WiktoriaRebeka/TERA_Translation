@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1009">
+        <Page social="5">[EN] Why is it every conversation about you has the word "corpse" in it?&lt;BR&gt;&lt;BR&gt;It doesn't matter. The {@LinkCreature:22#28#dark prelates} and the {@LinkCreature:22#27#ensorceled disc reapers} are guarding the chapel. I think there's a link between their altar and what's happened here, so you're going to kill them.&lt;BR&gt;&lt;BR&gt;These cultists are so over.&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; cada conversaci&amp;#243;n sobre ti tiene la palabra &quot;cad&amp;#225;ver&quot; en ella?&lt;BR&gt;&lt;BR&gt;No importa. Los {@LinkCreature:22#28#dark prelates} y los {@LinkCreature:22#27#ensorceled disc reapers} est&amp;#225;n custodiando la capilla. Creo que hay un v&amp;#237;nculo entre su altar y lo que ha pasado aqu&amp;#237;, as&amp;#237; que vas a matarlos.&lt;BR&gt;&lt;BR&gt;Estos sectarios son insoportables.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1009">
+        <Page social="5">[EN] Thanks to you, the Scions of Lok have been crushed and this mindmagic thingy is weakened.&lt;BR&gt;&lt;BR&gt;Now, perhaps, we can begin retaking our home. All thanks to me.&lt;BR&gt;&lt;BR&gt;Well, and you.&lt;br&gt;[ES] Gracias a ti, los Scions of Lok han sido aplastados y esta cosa de magia mental est&amp;#225; debilitada.&lt;BR&gt;&lt;BR&gt;Ahora, tal vez, podamos empezar a recuperar nuestro hogar. Todo gracias a m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Bueno, y a ti.</Page>
+    </Text>
+</QuestDialog>

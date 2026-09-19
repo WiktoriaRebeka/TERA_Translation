@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="2503">
+        <Page social="4" voiceTypeId="0">[EN] I'm Paesyn, of the Valkyon Federation's Special Forces.&lt;BR&gt;&lt;BR&gt;I want to save Zolyn and myself,&lt;BR&gt;&lt;BR&gt;so I've done a lot of research.&lt;NEXTPAGEBUTTON&gt;"On what?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Soy Paesyn, de las Fuerzas Especiales de la Valkyon Federation.&lt;BR&gt;&lt;BR&gt;Quiero salvar a Zolyn y a m&amp;#237; misma,&lt;BR&gt;&lt;BR&gt;as&amp;#237; que he investigado mucho.&lt;NEXTPAGEBUTTON&gt;"On what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] On moving to different worlds.&lt;BR&gt;&lt;BR&gt;I've been so busy studying that I didn't have time to develop good fighting skills, though.&lt;BR&gt;&lt;BR&gt;Also, my research is not complete. I can only stay in another world for a very short amount of time.&lt;NEXTPAGEBUTTON&gt;"I see."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Sobre viajar a diferentes mundos.&lt;BR&gt;&lt;BR&gt;Sin embargo, he estado tan ocupada estudiando que no tuve tiempo de desarrollar buenas habilidades de combate.&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, mi investigaci&amp;#243;n no est&amp;#225; completa. Solo puedo permanecer en otro mundo durante muy poco tiempo.&lt;NEXTPAGEBUTTON&gt;"I see."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">[EN] That's why I need your help.&lt;BR&gt;&lt;BR&gt;You'll help me, won't you?&lt;NEXTPAGEBUTTON&gt;"Sure."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Por eso necesito tu ayuda.&lt;BR&gt;&lt;BR&gt;Me ayudar&amp;#225;s, &amp;#191;verdad?&lt;NEXTPAGEBUTTON&gt;"Sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Really? Thanks!&lt;BR&gt;&lt;BR&gt;Alright, I'm going to send you to another dimension.&lt;BR&gt;&lt;BR&gt;Please take care of things that happen in there.&lt;BR&gt;&lt;BR&gt;I'll be there for the main event.&lt;br&gt;[ES] &amp;#191;De verdad? &amp;#161;Gracias!&lt;BR&gt;&lt;BR&gt;Bien, voy a enviarte a otra dimensi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Por favor, enc&amp;#225;rgate de lo que suceda all&amp;#237;.&lt;BR&gt;&lt;BR&gt;Estar&amp;#233; all&amp;#237; para el evento principal.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] You&amp;#8217;ve saved Paesyn and Zolyn in another world.&lt;br&gt;[ES] Has salvado a Paesyn y a Zolyn en otro mundo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="2503">
+        <Page social="5">[EN] Thank you. I couldn't have saved Paesyn and Zolyn if it weren't for you!&lt;br&gt;[ES] Gracias. &amp;#161;No habr&amp;#237;a podido salvar a Paesyn y a Zolyn si no fuera por ti!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2500" prevId="3" villagerId="10100">
+        <Page social="2">[EN] Because of you, Zolyn and I came back to life.&lt;BR&gt;&lt;BR&gt;I'm happy just to look at Zolyn like this.&lt;BR&gt;&lt;BR&gt;Thank you so much.&lt;br&gt;[ES] Gracias a ti, Zolyn y yo volvimos a la vida.&lt;BR&gt;&lt;BR&gt;Soy feliz con solo mirar a Zolyn as&amp;#237;.&lt;BR&gt;&lt;BR&gt;Muchas gracias.</Page>
+    </Text>
+</QuestDialog>

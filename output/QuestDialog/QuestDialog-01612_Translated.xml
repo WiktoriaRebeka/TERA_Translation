@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="0">[EN] Paesyn tried to atone for Zolyn's capture, but ended up needing his own rescue. You calmed him down and helped get the supplies to Tempest Outpost.&lt;br&gt;[ES] Paesyn intent&amp;#243; expiar la captura de Zolyn, pero termin&amp;#243; necesitando su propio rescate. Lo calmaste y ayudaste a llevar los suministros a Tempest Outpost.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="4">[EN] Paesyn went ahead. Crazy furball kept saying 'It's my fault. It's all my fault.'&lt;NEXTPAGEBUTTON&gt;"Where did he go?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Paesyn se adelant&amp;#243;. Esa bola de pelo loca no paraba de decir: &quot;Es mi culpa. Es todo mi culpa&quot;.&lt;NEXTPAGEBUTTON&gt;"Where did he go?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] He grabbed those wrenches of his and charged across the valley, sabertooths be damned. Maybe he went to protect the supply wagons.&lt;BR&gt;&lt;BR&gt;Watch out for him. Great engineer, but not much of a fighter.&lt;br&gt;[ES] Agarr&amp;#243; sus llaves inglesas y cruz&amp;#243; el valle a toda velocidad, malditos sean los sabertooths. Tal vez fue a proteger los carros de suministros.&lt;BR&gt;&lt;BR&gt;Ten cuidado con &amp;#233;l. Es un gran ingeniero, pero no muy buen peleador.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2131">
+        <Page social="4">[EN] &lt;PCNAME&gt;! I-I wanted to save her. I wanted to protect Zolyn, but I failed.&lt;BR&gt;&lt;BR&gt;My heart feels so heavy. I'm no hero. I just like to tinker with mechanical things. It's my fault she was captured.&lt;NEXTPAGEBUTTON&gt;"No, it's not."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! Q-quer&amp;#237;a salvarla. Quer&amp;#237;a proteger a Zolyn, pero fall&amp;#233;.&lt;BR&gt;&lt;BR&gt;Siento el coraz&amp;#243;n muy pesado. No soy un h&amp;#233;roe. Solo me gusta juguetear con cosas mec&amp;#225;nicas. Es mi culpa que la hayan capturado.&lt;NEXTPAGEBUTTON&gt;"No, it's not."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Yes, it is. She needed a hero, not a friend.&lt;BR&gt;&lt;BR&gt;I bet we can find her together, though. You're strong and I'm brave, at least a little bit.&lt;BR&gt;&lt;BR&gt;Let's get these wagons moving, then find Zolyn.&lt;br&gt;[ES] S&amp;#237;, lo es. Ella necesitaba un h&amp;#233;roe, no un amigo.&lt;BR&gt;&lt;BR&gt;Apuesto a que podemos encontrarla juntos, sin embargo. Eres fuerte y yo soy valiente, al menos un poco.&lt;BR&gt;&lt;BR&gt;Pongamos estos carros en marcha y luego encontremos a Zolyn.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" villagerId="3">
+        <Page social="0">[EN] (Various mechanical parts lie inside. They look like they would fit an airship.)&lt;br&gt;[ES] (Varias piezas mec&amp;#225;nicas yacen en el interior. Parecen encajar en una aeronave.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="3" villagerId="2134">
+        <Page social="4">[EN] Thanks for getting the supplies to us. Our airships have been grounded and we're losing ground to the archdevas.&lt;BR&gt;&lt;BR&gt;Now, we are ready.&lt;br&gt;[ES] Gracias por traernos los suministros. Nuestras aeronaves han estado en tierra y estamos perdiendo terreno ante los archdevas.&lt;BR&gt;&lt;BR&gt;Ahora estamos listos.</Page>
+    </Text>
+</QuestDialog>

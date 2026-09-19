@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="1">[EN] &lt;PCNAME&gt;! Can I ask you a favor? I need someone tough and fast.&lt;NEXTPAGEBUTTON&gt;"Why? What's happening?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! &amp;#191;Puedo pedirte un favor? Necesito a alguien fuerte y r&amp;#225;pido.&lt;NEXTPAGEBUTTON&gt;"Why? What's happening?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">[EN] I need reports from our field teams.&lt;BR&gt;&lt;BR&gt;None of them are far away, but when they send runners back here, they usually arrive half-dead and smelling of sloth. No, really.&lt;BR&gt;&lt;BR&gt;Can you stop by each team in the course of your other work?&lt;br&gt;[ES] Necesito informes de nuestros equipos de campo.&lt;BR&gt;&lt;BR&gt;Ninguno est&amp;#225; muy lejos, pero cuando env&amp;#237;an corredores de vuelta aqu&amp;#237;, por lo general llegan medio muertos y oliendo a sloth. No, en serio.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes pasar por cada equipo en el transcurso de tu otro trabajo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1085">
+        <Page social="1">[EN] Anyone who would run that route is either brave or foolish.&lt;br&gt;[ES] Cualquiera que correr&amp;#237;a por esa ruta es valiente o insensato.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1086">
+        <Page social="1">[EN] I was going to turn this report in myself, but I'm deeply grateful I don't have to, friend.&lt;br&gt;[ES] Iba a entregar este informe yo mismo, pero estoy profundamente agradecido de no tener que hacerlo, amigo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1087">
+        <Page social="1">[EN] {@LinkCreature:230#1005$$Naisas} is running us ragged.&lt;BR&gt;&lt;BR&gt;I think he wants to get out of the field and back to town. Personally, I enjoy field work!&lt;br&gt;[ES] {@LinkCreature:230#1005$$Naisas} nos trae de un lado para otro.&lt;BR&gt;&lt;BR&gt;Creo que quiere salir del campo y volver a la ciudad. &amp;#161;Personalmente, disfruto del trabajo de campo!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="1088">
+        <Page social="1">[EN] Careful of that edge! Here's my report. Tell {@LinkCreature:230#1005$$Naisas} the towers are amazing!&lt;br&gt;[ES] &amp;#161;Cuidado con ese borde! Aqu&amp;#237; est&amp;#225; mi informe. &amp;#161;Dile a {@LinkCreature:230#1005$$Naisas} que las torres son incre&amp;#237;bles!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="1005">
+        <Page social="1">[EN] Superb work, and quickly done.&lt;BR&gt;&lt;BR&gt;Furthermore, you have fewer sloth bites than the usual messenger.&lt;br&gt;[ES] Un trabajo magn&amp;#237;fico y hecho con rapidez.&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, tienes menos mordiscos de perezoso que el mensajero habitual.</Page>
+    </Text>
+</QuestDialog>

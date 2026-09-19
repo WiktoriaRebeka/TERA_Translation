@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1006">
+        <Page social="4">[EN] The argons are increasing their activity in the {@Rgn:50004}. If the argons can regenerate their lost forces, we're finished.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:250#1016} is on-site. We're sending you to help him.&lt;br&gt;[ES] Los argons est&amp;#225;n aumentando su actividad en {@Rgn:50004}. Si los argons pueden regenerar sus fuerzas perdidas, estamos acabados.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:250#1016} est&amp;#225; en el lugar. Te enviamos para ayudarlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1016">
+        <Page social="4">[EN] Some argons are built for battle, but others, like the suulvir harvester, support the argon war machine by mining iteris shards.&lt;BR&gt;&lt;BR&gt;If we cut through their support structure, the rest may come tumbling down.&lt;br&gt;[ES] Algunos argons est&amp;#225;n hechos para la batalla, pero otros, como el suulvir harvester, apoyan la m&amp;#225;quina de guerra argon extrayendo fragmentos de iteris.&lt;BR&gt;&lt;BR&gt;Si destruimos su estructura de apoyo, el resto podr&amp;#237;a venirse abajo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1016">
+        <Page social="6">[EN] I've never seen bigger shards. Great work.&lt;BR&gt;&lt;BR&gt;The war effort can use these. Thanks.&lt;br&gt;[ES] Nunca hab&amp;#237;a visto fragmentos tan grandes. Gran trabajo.&lt;BR&gt;&lt;BR&gt;El esfuerzo de guerra puede usar esto. Gracias.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="250" villagerId="1016">
+        <Page social="0">[EN] You'll need to kill the suulvir harvesters to collect their shards.&lt;br&gt;[ES] Necesitar&amp;#225;s matar a los suulvir harvesters para recolectar sus fragmentos.</Page>
+    </Text>
+</QuestDialog>

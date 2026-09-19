@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1010">
+        <Page social="4">[EN] Your people take all the shards, wendigos die because of it.&lt;BR&gt;&lt;BR&gt;Madyar say your people not want war with wendigos, but he not stop mining. What will you do? Will you help us find a solution?&lt;NEXTPAGEBUTTON&gt;"I'm here to help."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Su gente se lleva todos los fragmentos, los wendigos mueren por su culpa.&lt;BR&gt;&lt;BR&gt;Madyar dice que su gente no quiere la guerra con los wendigos, pero &amp;#233;l no detiene la miner&amp;#237;a. &amp;#191;Qu&amp;#233; har&amp;#225;n? &amp;#191;Nos ayudar&amp;#225;n a encontrar una soluci&amp;#243;n?&lt;NEXTPAGEBUTTON&gt;"I'm here to help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Strength important to wendigos. Wendigo {@LinkCreature:34#510#frostweavers} and {@LinkCreature:34#500#frostmages} take energy from yellow stones on ground. Make them look strong.&lt;BR&gt;&lt;BR&gt;If you take yellow stones, they will be weak. Other wendigos see mages not strong. They'll see Uchamba is strong. They'll see Uchamba is right.&lt;br&gt;[ES] La fuerza es importante para los wendigos. Los {@LinkCreature:34#510#frostweavers} y {@LinkCreature:34#500#frostmages} wendigos toman energ&amp;#237;a de las piedras amarillas en el suelo. Los hace lucir fuertes.&lt;BR&gt;&lt;BR&gt;Si tomas las piedras amarillas, ser&amp;#225;n d&amp;#233;biles. Otros wendigos ver&amp;#225;n que los magos no son fuertes. Ver&amp;#225;n que Uchamba es fuerte. Ver&amp;#225;n que Uchamba tiene raz&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1010">
+        <Page social="4">[EN] Your deeds match words. Uchamba respect you and Madyar.&lt;BR&gt;&lt;BR&gt;Now, we can build future.&lt;br&gt;[ES] Tus acciones coinciden con tus palabras. Uchamba te respeta a ti y a Madyar.&lt;BR&gt;&lt;BR&gt;Ahora podemos construir un futuro.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1010">
+        <Page social="0">[EN] Madyar call yellow stones "xanthic shards." Take away mages' power.&lt;br&gt;[ES] Madyar llama a las piedras amarillas &quot;fragmentos x&amp;#225;nticos&quot;. Qu&amp;#237;tales el poder a los magos.</Page>
+    </Text>
+</QuestDialog>

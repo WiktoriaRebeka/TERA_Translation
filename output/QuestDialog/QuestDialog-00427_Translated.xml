@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="5">[EN] We believe that the new soldiers here are merceneries, so money is their primary objective.&lt;BR&gt;&lt;BR&gt;To be so organized, though, they can't be working independently. More importantly, we think we've identified their leader. Find {@LinkCreature:16#1007#Captain Kirithia} and bring me her head. That should throw a wrench in their wheel.&lt;br&gt;[ES] Creemos que los nuevos soldados aqu&amp;#237; son mercenarios, as&amp;#237; que el dinero es su objetivo principal.&lt;BR&gt;&lt;BR&gt;Sin embargo, para estar tan organizados, no pueden estar trabajando de forma independiente. Y lo que es m&amp;#225;s importante, creemos que hemos identificado a su lideresa. Encuentra a {@LinkCreature:16#1007#Captain Kirithia} y tr&amp;#225;eme su cabeza. Eso deber&amp;#237;a estropearles los planes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1008">
+        <Page social="5">[EN] Marvelous!&lt;BR&gt;&lt;BR&gt;Good job. I'm sure we'll see the fruits of this soon.&lt;br&gt;[ES] &amp;#161;Maravilloso!&lt;BR&gt;&lt;BR&gt;Buen trabajo. Seguro que pronto veremos los frutos de esto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1008">
+        <Page social="0">[EN] What, you thought I was being figurative?&lt;BR&gt;&lt;BR&gt;No, I literally want the woman's head!&lt;BR&gt;&lt;BR&gt;Now go, quickly, and get it!&lt;br&gt;[ES] &amp;#191;Qu&amp;#233;, pensaste que estaba hablando en sentido figurado?&lt;BR&gt;&lt;BR&gt;&amp;#161;No, literalmente quiero la cabeza de la mujer!&lt;BR&gt;&lt;BR&gt;&amp;#161;Ahora ve, r&amp;#225;pido, y cons&amp;#237;guela!</Page>
+    </Text>
+</QuestDialog>

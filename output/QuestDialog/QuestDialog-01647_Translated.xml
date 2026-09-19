@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1026">
+        <Page social="4" voiceTypeId="0">[EN] Ksharans killed my husband, &lt;PCNAME&gt;, and I want revenge.&lt;BR&gt;&lt;BR&gt;After all the close scrapes we shared, I guess I assumed that we'd always be together.&lt;BR&gt;&lt;BR&gt;Beware, though&amp;#8212;those ksharans are lethal. My poor husband never knew what hit him.&lt;br&gt;[ES] Los ksharans mataron a mi esposo, &lt;PCNAME&gt;, y quiero venganza.&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de todos los apuros que compartimos, supongo que asum&amp;#237; que siempre estar&amp;#237;amos juntos.&lt;BR&gt;&lt;BR&gt;Pero ten cuidado: esos ksharans son letales. Mi pobre esposo ni siquiera supo qu&amp;#233; lo alcanz&amp;#243;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1026">
+        <Page social="6" voiceTypeId="0">[EN] This doesn't make the loneliness go away, but I'll admit it.&lt;BR&gt;&lt;BR&gt;It puts a bit of a smile on my face. Thanks, &lt;PCNAME&gt;.&lt;br&gt;[ES] Esto no hace que la soledad desaparezca, pero lo admito.&lt;BR&gt;&lt;BR&gt;Me dibuja una peque&amp;#241;a sonrisa en el rostro. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1026">
+        <Page social="0">[EN] Avenge my husband, &lt;PCNAME&gt;. Kill those ksharans!&lt;br&gt;[ES] &amp;#161;Venganza para mi esposo, &lt;PCNAME&gt;! &amp;#161;Mata a esos ksharans!</Page>
+    </Text>
+</QuestDialog>

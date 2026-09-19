@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="5" voiceTypeId="0">[EN] The noble vampir rebels and insurgents will pay for their insolence!&lt;BR&gt;&lt;BR&gt;Pull their fangs. Maybe that will teach them to watch their mouths.&lt;br&gt;[ES] &amp;#161;Los nobles rebeldes e insurgentes vampir pagar&amp;#225;n por su insolencia!&lt;BR&gt;&lt;BR&gt;Arr&amp;#225;ncales los colmillos. Tal vez eso les ense&amp;#241;e a cuidar su lenguaje.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1031">
+        <Page social="4" voiceTypeId="0">[EN] That'll teach 'em, &lt;PCNAME&gt;.&lt;br&gt;[ES] Eso les ense&amp;#241;ar&amp;#225;, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1031">
+        <Page social="0">[EN] I want their fangs. More importantly, I want to teach them a lesson.&lt;br&gt;[ES] Quiero sus colmillos. Y lo que es m&amp;#225;s importante, quiero darles una lecci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

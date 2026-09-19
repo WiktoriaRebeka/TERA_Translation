@@ -1,0 +1,84 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">[EN] We do lots of magic around here, but mechanical engineering is the key to a future of convenience and efficiency.&lt;BR&gt;&lt;BR&gt;The Collegium Arcane carries various textbooks on mechanical engineering. Study them, then come back. We'll take a test.&lt;BR&gt;&lt;BR&gt;You like tests, right?&lt;br&gt;[ES] Hacemos mucha magia por aqu&amp;#237;, pero la ingenier&amp;#237;a mec&amp;#225;nica es la clave para un futuro de comodidad y eficiencia.&lt;BR&gt;&lt;BR&gt;El Collegium Arcane tiene varios libros de texto sobre ingenier&amp;#237;a mec&amp;#225;nica. Est&amp;#250;dialos y luego regresa. Haremos un examen.&lt;BR&gt;&lt;BR&gt;Te gustan los ex&amp;#225;menes, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1710">
+        <Page social="4">[EN] Mechanical engineering includes &lt;font color='#0000FF'&gt;material studies&lt;/font&gt; that explain the solidity and transformation of materials. (Details omitted.)&lt;BR&gt;&lt;BR&gt;Kinetophysics explains &lt;font color='#0000FF'&gt;velocity, acceleration, and vibration&lt;/font&gt; caused by external forces or motion. (Details omitted.)&lt;BR&gt;&lt;BR&gt;The &lt;font color='#0000FF'&gt;theory of mechanics&lt;/font&gt; explains interactions among mechanical components. (Details omitted.)&lt;br&gt;[ES] La ingenier&amp;#237;a mec&amp;#225;nica incluye &lt;font color='#0000FF'&gt;estudios de materiales&lt;/font&gt; que explican la solidez y transformaci&amp;#243;n de los materiales. (Detalles omitidos.)&lt;BR&gt;&lt;BR&gt;La cinetof&amp;#237;sica explica &lt;font color='#0000FF'&gt;la velocidad, aceleraci&amp;#243;n y vibraci&amp;#243;n&lt;/font&gt; causadas por fuerzas externas o movimiento. (Detalles omitidos.)&lt;BR&gt;&lt;BR&gt;La &lt;font color='#0000FF'&gt;teor&amp;#237;a de la mec&amp;#225;nica&lt;/font&gt; explica las interacciones entre los componentes mec&amp;#225;nicos. (Detalles omitidos.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">[EN] Did you study hard?&lt;BR&gt;&lt;BR&gt;Then let's take a test.&lt;br&gt;[ES] &amp;#191;Estudiaste mucho?&lt;BR&gt;&lt;BR&gt;Entonces hagamos un examen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] What's the name of the science that explains the solidity and transformation of materials?&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo se llama la ciencia que explica la solidez y transformaci&amp;#243;n de los materiales?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] You're completely off base.&lt;NEXTPAGEBUTTON&gt;"But studying is hard!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Est&amp;#225;s totalmente equivocado.&lt;NEXTPAGEBUTTON&gt;"But studying is hard!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Too bad. Go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] Qu&amp;#233; mal. Regresa al Collegium Arcane y estudia m&amp;#225;s.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] No, kinetophysics explains dynamics caused by external forces and motion.&lt;NEXTPAGEBUTTON&gt;"I always get them confused."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No, la cinetof&amp;#237;sica explica la din&amp;#225;mica causada por fuerzas externas y movimiento.&lt;NEXTPAGEBUTTON&gt;"I always get them confused."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Well, the cure for your confusion is to go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] Bueno, la cura para tu confusi&amp;#243;n es regresar al Collegium Arcane y estudiar m&amp;#225;s.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] Wrong! I even gave you a hint: the word "materials."&lt;NEXTPAGEBUTTON&gt;"I should have studied."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Incorrecto! Incluso te di una pista: la palabra &quot;materiales&quot;.&lt;NEXTPAGEBUTTON&gt;"I should have studied."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Indeed. Here's your chance: go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] En efecto. Aqu&amp;#237; tienes tu oportunidad: regresa al Collegium Arcane y estudia m&amp;#225;s.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] Correct. I see you actually read the book. These days, so few do.&lt;NEXTPAGEBUTTON&gt;"So that was right?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Correcto. Veo que de verdad le&amp;#237;ste el libro. Hoy en d&amp;#237;a, muy pocos lo hacen.&lt;NEXTPAGEBUTTON&gt;"So that was right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, you may have a knack for kinetophysics.&lt;br&gt;[ES] S&amp;#237;, parece que tienes talento para la cinetof&amp;#237;sica.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] What's the name of the science that explains interactions among mechanical components?&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo se llama la ciencia que explica las interacciones entre los componentes mec&amp;#225;nicos?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] Furniture science? Only someone as dumb as doorknob would answer that!&lt;NEXTPAGEBUTTON&gt;"I should have paid attention."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Ciencia de los muebles? &amp;#161;Solo alguien tan tonto como una puerta responder&amp;#237;a eso!&lt;NEXTPAGEBUTTON&gt;"I should have paid attention."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I'll give you another chance. Go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] Te dar&amp;#233; otra oportunidad. Vuelve al Collegium Arcane y estudia m&amp;#225;s.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] Correct again, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"These questions aren't that hard."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Correcto de nuevo, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"These questions aren't that hard."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Oh, you'd be surprised at the mouth-breathers we get in here.&lt;br&gt;[ES] Oh, te sorprender&amp;#237;a el tipo de imb&amp;#233;ciles que recibimos por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] Acceleration is a type of motion, yes, but I'm asking about the grand theory that incorporates everything.&lt;NEXTPAGEBUTTON&gt;"This was in the book?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] La aceleraci&amp;#243;n es un tipo de movimiento, s&amp;#237;, pero te estoy preguntando por la gran teor&amp;#237;a que lo engloba todo.&lt;NEXTPAGEBUTTON&gt;"This was in the book?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, it was. Go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] S&amp;#237;, lo estaba. Vuelve al Collegium Arcane y estudia m&amp;#225;s.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] Wrong answer. And we demand perfection!&lt;NEXTPAGEBUTTON&gt;"Can I try again?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Respuesta incorrecta. &amp;#161;Y nosotros exigimos perfecci&amp;#243;n!&lt;NEXTPAGEBUTTON&gt;"Can I try again?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] How could I say no to a second chance at perfection? Back to the Collegium Arcane with you!&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo podr&amp;#237;a negarle una segunda oportunidad a la perfecci&amp;#243;n? &amp;#161;De vuelta al Collegium Arcane contigo!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] These three elements of kinetophysics are caused by external forces and motion. What are they?&lt;br&gt;[ES] Estos tres elementos de la cinetof&amp;#237;sica son causados por fuerzas externas y el movimiento. &amp;#191;Cu&amp;#225;les son?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] You forgot vibration, and you need all three.&lt;NEXTPAGEBUTTON&gt;"It was on the tip of my tongue."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Olvidaste la vibraci&amp;#243;n, y necesitas los tres.&lt;NEXTPAGEBUTTON&gt;"It was on the tip of my tongue."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Then you won't need much more study. Go back to the Collegium Arcane and hit the books!&lt;br&gt;[ES] Entonces no necesitar&amp;#225;s estudiar mucho m&amp;#225;s. &amp;#161;Vuelve al Collegium Arcane y ponte a estudiar!</Page>
+    </Text>
+    <Text id="20" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] Psychokinesis? Let me stop you there. Completely wrong.&lt;NEXTPAGEBUTTON&gt;"I've been reading a lot lately."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Psicoquinesis? D&amp;#233;jame detenerte ah&amp;#237;. Completamente incorrecto.&lt;NEXTPAGEBUTTON&gt;"I've been reading a lot lately."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Not enough, it seems. Go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] No lo suficiente, al parecer. Vuelve al Collegium Arcane y estudia m&amp;#225;s.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] Perhaps we have a master among us!&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Tal vez tengamos a un maestro entre nosotros!&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Indeed you did! Kinetophysics seems to suit you.&lt;br&gt;[ES] &amp;#161;As&amp;#237; es! La cinetof&amp;#237;sica parece sentarte bien.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">[EN] Wrong! Are you sure you studied?&lt;NEXTPAGEBUTTON&gt;"Well, it felt like studying."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Incorrecto! &amp;#191;Est&amp;#225;s seguro de que estudiaste?&lt;NEXTPAGEBUTTON&gt;"Well, it felt like studying."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Did it really? Recapture that sensation! Go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] &amp;#191;De verdad? &amp;#161;Recupera esa sensaci&amp;#243;n! Vuelve al Collegium Arcane y estudia m&amp;#225;s.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="72" prevId="18" villagerId="1704">
+        <Page social="4">[EN] Mechanical engineering is the foundation of unified theory. Study it hard if you want to become a great theoretician.&lt;br&gt;[ES] La ingenier&amp;#237;a mec&amp;#225;nica es la base de la teor&amp;#237;a unificada. Est&amp;#250;diala a fondo si quieres convertirte en un gran te&amp;#243;rico.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="5">[EN] The argons are reinforcing as fast as we can kill them. I need you to take the fight to them.&lt;BR&gt;&lt;BR&gt;Head out and kill hulrap bashers, vulnaq threshers, zariik dazzlers and cyclopses, iknephar prelates, kalash sentinels, and syndrene dragoons wherever you find them.&lt;BR&gt;&lt;BR&gt;Report to Sistiren at Khanovar Citadel when your mission is complete.&lt;br&gt;[ES] Los argons se est&amp;#225;n reforzando tan r&amp;#225;pido como podemos matarlos. Necesito que les lleves la pelea.&lt;BR&gt;&lt;BR&gt;Sal y mata hulrap bashers, vulnaq threshers, zariik dazzlers y cyclopses, iknephar prelates, kalash sentinels y syndrene dragoons donde los encuentres.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate ante Sistiren en Khanovar Citadel cuando tu misi&amp;#243;n est&amp;#233; completa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1002">
+        <Page social="5">[EN] Fine work, &lt;PCNAME&gt;. Hopefully, that gives our forces time to forge ahead.&lt;br&gt;[ES] Buen trabajo, &lt;PCNAME&gt;. Con suerte, eso le dar&amp;#225; tiempo a nuestras fuerzas para avanzar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1002">
+        <Page social="0">[EN] It doesn't look like you've completed your objectives.&lt;br&gt;[ES] No parece que hayas completado tus objetivos.</Page>
+    </Text>
+</QuestDialog>

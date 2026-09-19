@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="4">[EN] I hate to ask, but a Mysterium operative sneaked past our lines and headed into southern Basilisk Crag.&lt;BR&gt;&lt;BR&gt;He might be dead or he might be some kulkari's dinner. If you could find him and bring him back, I'd be grateful.&lt;br&gt;[ES] Odio pedirlo, pero un agente del Mysterium se col&amp;#243; tras nuestras l&amp;#237;neas y se dirigi&amp;#243; al sur de Basilisk Crag.&lt;BR&gt;&lt;BR&gt;Podr&amp;#237;a estar muerto o ser la cena de alg&amp;#250;n kulkari. Si pudieras encontrarlo y traerlo de vuelta, te lo agradecer&amp;#237;a.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1041">
+        <Page social="0">[EN] (The man is obviously dead. A Mysterium amulet is around his neck. You should gather his belongings and return them to Rhysart.)&lt;br&gt;[ES] (El hombre est&amp;#225; claramente muerto. Hay un amuleto del Mysterium alrededor de su cuello. Debes recoger sus pertenencias y devolv&amp;#233;rselas a Rhysart.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" prevId="3" villagerId="1029">
+        <Page social="4">[EN] These are Jerod's things. Blast it, I warned him about going in there.&lt;BR&gt;&lt;BR&gt;Now you know why we've tried to keep the Mysterium out of here in the first place!&lt;BR&gt;&lt;BR&gt;I'm sorry he's dead, but at least we can tell his family what happened. Thanks.&lt;br&gt;[ES] Estas son las cosas de Jerod. Maldita sea, le advert&amp;#237; sobre ir all&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ahora ya sabes por qu&amp;#233; hemos intentado mantener al Mysterium fuera de aqu&amp;#237; desde un principio!&lt;BR&gt;&lt;BR&gt;Lamento que est&amp;#233; muerto, pero al menos podemos decirle a su familia qu&amp;#233; pas&amp;#243;. Gracias.</Page>
+    </Text>
+</QuestDialog>

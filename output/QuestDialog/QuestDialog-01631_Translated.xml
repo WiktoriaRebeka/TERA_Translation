@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="411" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] The vision document reads, "Seek the legendary blacksmith, Muhrak in his workshop in {@LinkCreature:79#1501#Habere}."&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- When you accept the quest, the vision document will vanish.&lt;/font&gt;&lt;br&gt;[ES] El documento de visi&amp;#243;n dice: &quot;Busca al legendario herrero Muhrak en su taller en {@LinkCreature:79#1501#Habere}.&quot;&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Al aceptar la misi&amp;#243;n, el documento de visi&amp;#243;n desaparecer&amp;#225;.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="4">[EN] So, the vision document led you to me? Well met, &lt;PCNAME&gt;! Are you ready to learn the secrets of my most ambitious creations yet?&lt;br&gt;[ES] &amp;#191;As&amp;#237; que el documento de visi&amp;#243;n te condujo hasta m&amp;#237;? &amp;#161;Encantado de conocerte, &lt;PCNAME&gt;! &amp;#191;Est&amp;#225;s listo para aprender los secretos de mis creaciones m&amp;#225;s ambiciosas hasta la fecha?</Page>
+    </Text>
+</QuestDialog>

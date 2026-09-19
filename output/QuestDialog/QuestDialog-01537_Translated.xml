@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] While battling the Archdevan Imperial Army, &lt;PCNAME&gt; noticed that they were protecting mysterious ore carts.&lt;BR&gt;Guessing they might contain something of importance, &lt;PCNAME&gt; grabbed samples of the "devastones" inside.&lt;br&gt;[ES] Mientras luchaba contra el Archdevan Imperial Army, &lt;PCNAME&gt;not&amp;#243; que estaban protegiendo unos misteriosos carros de mineral.&lt;BR&gt;Imaginando que pod&amp;#237;an contener algo importante, &lt;PCNAME&gt; tom&amp;#243; muestras de las &quot;devastones&quot; que hab&amp;#237;a dentro.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] (The Parthian elites seem to be particularly protective of these ore carts. What's in them that's so valuable?)&lt;br&gt;[ES] (Las &amp;#233;lites Parthian parecen ser particularmente protectoras de estos carros de mineral. &amp;#191;Qu&amp;#233; tienen dentro que es tan valioso?)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3001">
+        <Page social="4" voiceTypeId="0">[EN] Damn, but you're a clever one, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Anyone else would've just run for it, then come back later!&lt;BR&gt;&lt;BR&gt;I'll show these stones to Hagand. Maybe he can figure out what they're for.&lt;NEXTPAGEBUTTON&gt;"My pleasure."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Maldici&amp;#243;n, qu&amp;#233; listo eres, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Cualquier otro habr&amp;#237;a salido corriendo y luego habr&amp;#237;a vuelto!&lt;BR&gt;&lt;BR&gt;Le mostrar&amp;#233; estas piedras a Hagand. Tal vez pueda averiguar para qu&amp;#233; sirven.&lt;NEXTPAGEBUTTON&gt;"My pleasure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

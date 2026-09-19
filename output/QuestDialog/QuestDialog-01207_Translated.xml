@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[EN] That {@LinkCreature:250#1001} I saw in {@Rgn:76001} went down into Viridian Caverns. What's going on?&lt;NEXTPAGEBUTTON&gt;"I'll get it. You stay put."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ese {@LinkCreature:250#1001} que vi en {@Rgn:76001} baj&amp;#243; a Viridian Caverns. &amp;#191;Qu&amp;#233; est&amp;#225; pasando?&lt;NEXTPAGEBUTTON&gt;"I'll get it. You stay put."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Yes. I'll be right here.&lt;BR&gt;&lt;BR&gt;And be careful.&lt;br&gt;[ES] S&amp;#237;. Estar&amp;#233; aqu&amp;#237; mismo.&lt;BR&gt;&lt;BR&gt;Y ten cuidado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1001">
+        <Page social="4">[EN] I remember you. Can you help me again? I need to fuse the iteris shards with the metal for the weapon. If I had a certain sap, an alchemist could make a fusion draught for me.&lt;NEXTPAGEBUTTON&gt;"I'll get it for you."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Te recuerdo. &amp;#191;Puedes ayudarme de nuevo? Necesito fusionar los iteris shards con el metal para el arma. Si tuviera cierta savia, un alquimista podr&amp;#237;a hacerme un brebaje de fusi&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"I'll get it for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Thank you! I need the sap from the rati tree. It's in a nearby cavern. I thought I could find it, but I might be a bit lost.&lt;br&gt;[ES] &amp;#161;Gracias! Necesito la savia del rati tree. Est&amp;#225; en una caverna cercana. Pens&amp;#233; que podr&amp;#237;a encontrarla, pero tal vez estoy un poco perdida.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1023">
+        <Page social="6">[EN] (This is the rati tree.)&lt;BR&gt;&lt;BR&gt;(You should collect the sap.)&lt;br&gt;[ES] (Este es el &amp;#225;rbol rati.)&lt;BR&gt;&lt;BR&gt;(Debes recolectar la savia.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="4" villagerId="1001">
+        <Page social="6">[EN] I'm forever in your debt. Thanks to you, I can finish constructing my weapon and complete my hushang ceremony.&lt;BR&gt;&lt;BR&gt;I'd better get back to Kanstria. Thanks again!&lt;br&gt;[ES] Estoy eternamente en deuda contigo. Gracias a ti, puedo terminar de construir mi arma y completar mi ceremonia hushang.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ser&amp;#225; mejor que vuelva a Kanstria! &amp;#161;Gracias de nuevo!</Page>
+    </Text>
+</QuestDialog>

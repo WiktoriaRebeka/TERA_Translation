@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="29" prevId="0" villagerId="1043">
+        <Page social="0">[EN] Hennika noticed your suspicions about the Red Raiders' activities in Essenia, and tried to show you the truth.&lt;br&gt;[ES] Hennika not&amp;#243; tus sospechas sobre las actividades de los Red Raiders en Essenia, y trat&amp;#243; de mostrarte la verdad.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="29" prevId="0" villagerId="1043">
+        <Page social="4" voiceTypeId="0">[EN] After all this time, &lt;PCNAME&gt;, you still have doubts as to my intentions.&lt;NEXTPAGEBUTTON&gt;"To be honest, yes."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Despu&amp;#233;s de todo este tiempo, &lt;PCNAME&gt;, todav&amp;#237;a tienes dudas sobre mis intenciones.&lt;NEXTPAGEBUTTON&gt;"To be honest, yes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] You hero types always jump to the wrong conclusions.&lt;BR&gt;&lt;BR&gt;The "federation's finest." So superior. Well we haven't been waiting around for you to save us all this time, we're working to effect real change in the world, no matter the cost.&lt;BR&gt;&lt;BR&gt; Why don't you go see for yourself. I'll give you a location where you can see the truth of the matter.&lt;br&gt;[ES] Ustedes los h&amp;#233;roes siempre sacan conclusiones apresuradas.&lt;BR&gt;&lt;BR&gt;Los &quot;mejores de la federaci&amp;#243;n&quot;. Tan superiores. Bueno, no hemos estado esperando a que nos salven todo este tiempo, estamos trabajando para lograr un cambio real en el mundo, cueste lo que cueste.&lt;BR&gt;&lt;BR&gt; &amp;#191;Por qu&amp;#233; no vas a comprobarlo por ti mismo? Te dar&amp;#233; una ubicaci&amp;#243;n donde podr&amp;#225;s ver la verdad del asunto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="29" prevId="2" villagerId="1029">
+        <Page social="4" voiceTypeId="0">[EN] (These raider corpses are studded with Amber Essenses.)&lt;br&gt;[ES] (Estos cad&amp;#225;veres de raiders est&amp;#225;n llenos de Amber Essenses.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="29" prevId="3" villagerId="1032">
+        <Page social="0" voiceTypeId="0">[EN] Some of the crystals are larger than others.&lt;BR&gt;&lt;BR&gt;They seem to grow as time passes.&lt;br&gt;[ES] Algunos de los Crystals son m&amp;#225;s grandes que otros.&lt;BR&gt;&lt;BR&gt;Parecen crecer a medida que pasa el tiempo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="29" prevId="4" villagerId="1030">
+        <Page social="4" voiceTypeId="0">[EN] I can't feel...Urgh...Hennika? Is that you? I cared for the others... I tried...&lt;NEXTPAGEBUTTON&gt;"Are you alright?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No puedo sentir... Ugh... &amp;#191;Hennika? &amp;#191;Eres t&amp;#250;? Cuid&amp;#233; de los dem&amp;#225;s... Lo intent&amp;#233;...&lt;NEXTPAGEBUTTON&gt;"Are you alright?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">[EN] Our sacrifice... for the children. It was the only way... to fight the infection...&lt;BR&gt;&lt;BR&gt;It spread...so... fast...(The raider has breathed his last.)&lt;br&gt;[ES] Nuestro sacrificio... por los ni&amp;#241;os. Era la &amp;#250;nica manera... de combatir la infecci&amp;#243;n...&lt;BR&gt;&lt;BR&gt;Se extendi&amp;#243;... tan... r&amp;#225;pido...(El raider ha dado su &amp;#250;ltimo respiro.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="29" prevId="5" villagerId="1043">
+        <Page social="4" voiceTypeId="0">[EN] Now can you believe me?&lt;BR&gt;&lt;BR&gt;We're not spreading this contamination, we're sacrificing ourselves to stop it!&lt;BR&gt;&lt;BR&gt;Take that news back to your federation masters, and leave us alone!&lt;br&gt;[ES] &amp;#191;Ahora puedes creerme?&lt;BR&gt;&lt;BR&gt;&amp;#161;No estamos propagando esta contaminaci&amp;#243;n, nos estamos sacrificando para detenerla!&lt;BR&gt;&lt;BR&gt;&amp;#161;Ll&amp;#233;vale esas noticias a tus amos de la federaci&amp;#243;n y d&amp;#233;janos en paz!</Page>
+    </Text>
+</QuestDialog>

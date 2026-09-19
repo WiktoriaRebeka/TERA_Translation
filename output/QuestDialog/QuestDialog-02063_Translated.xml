@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2000" prevId="0" villagerId="20403">
+        <Page social="5">[EN] Thanks for waiting &lt;PCNAME&gt;.&lt;BR&gt;I've just finished inspecting the gland.&lt;BR&gt;&lt;BR&gt;For some reason, the toxicity of the gland is far more severe compared to the ones I inspected at home. This makes me wonder...&lt;BR&gt;&lt;BR&gt;Just how do other creatures live alongside this toxic creature?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"You got me there."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Gracias por esperar &lt;PCNAME&gt;.&lt;BR&gt;Acabo de terminar de inspeccionar la gl&amp;#225;ndula.&lt;BR&gt;&lt;BR&gt;Por alguna raz&amp;#243;n, la toxicidad de la gl&amp;#225;ndula es mucho m&amp;#225;s grave en comparaci&amp;#243;n con las que inspeccion&amp;#233; en casa. Esto me hace pensar...&lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo viven las dem&amp;#225;s criaturas junto a esta criatura t&amp;#243;xica?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"You got me there."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] If we can figure that out, it might be a big step toward the cure.&lt;BR&gt;&lt;BR&gt;First, I'll need stingers of the nearby eyestalkers.&lt;BR&gt;&lt;BR&gt;I've watched the butterflies and the stinger is their most common diet. I'm certain that it'll give us a clue.&lt;br&gt;[ES] Si podemos averiguar eso, podr&amp;#237;a ser un gran paso hacia la cura.&lt;BR&gt;&lt;BR&gt;Primero, necesitar&amp;#233; aguijones de los eyestalkers cercanos.&lt;BR&gt;&lt;BR&gt;He observado a las mariposas y el aguij&amp;#243;n es su dieta m&amp;#225;s com&amp;#250;n. Estoy seguro de que nos dar&amp;#225; una pista.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20403">
+        <Page social="5">[EN] Excellent. That should be enough. Now, it's time to analyze the stingers.&lt;BR&gt;&lt;BR&gt;Wait! Don't go. Just give me a minute. There's something else I need you to do for me.&lt;BR&gt;&lt;BR&gt;Thanks for helping me out.&lt;br&gt;[ES] Excelente. Eso deber&amp;#237;a ser suficiente. Ahora es momento de analizar los aguijones.&lt;BR&gt;&lt;BR&gt;&amp;#161;Espera! No te vayas. Dame solo un minuto. Hay algo m&amp;#225;s que necesito que hagas por m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Gracias por ayudarme.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" villagerId="20403">
+        <Page social="0">[EN] Without enough samples, I can't continue the research.&lt;br&gt;[ES] Sin suficientes muestras, no puedo continuar con la investigaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

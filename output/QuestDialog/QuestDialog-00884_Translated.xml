@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1033">
+        <Page social="5">[EN] It's bad enough that you can't tell day from night in the crypt. But those destroyers will keep you from getting any rest.&lt;BR&gt;&lt;BR&gt;Killian left them behind&amp;#8212;something about stealing the rest of Saleron's power.&lt;BR&gt;&lt;BR&gt;And if you see any of our scouts, tell them to return to base. We don't need scouts to tell us these crypts are endless and overrun with the enemy.&lt;br&gt;[ES] Ya es bastante malo que no se pueda distinguir el d&amp;#237;a de la noche en la cripta. Pero esos destructores no te dejar&amp;#225;n descansar.&lt;BR&gt;&lt;BR&gt;Killian los dej&amp;#243; atr&amp;#225;s, algo sobre robar el resto del poder de Saleron.&lt;BR&gt;&lt;BR&gt;Y si ves a alguno de nuestros exploradores, diles que regresen a la base. No necesitamos exploradores para saber que estas criptas son interminables y est&amp;#225;n plagadas de enemigos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1026">
+        <Page social="6">[EN] Return to camp? Fine by me!&lt;BR&gt;&lt;BR&gt;I've got news to report anyway: It's not just Killian's minions down here.&lt;BR&gt;&lt;BR&gt;The argons are down deeper...and I've even seen them up here on occasion.&lt;BR&gt;&lt;BR&gt;So yes, I'll return to base. I'm a scout, not a martyr.&lt;br&gt;[ES] &amp;#191;Regresar al campamento? &amp;#161;Por m&amp;#237; perfecto!&lt;BR&gt;&lt;BR&gt;De todos modos tengo noticias que informar: los esbirros de Killian no son los &amp;#250;nicos aqu&amp;#237; abajo.&lt;BR&gt;&lt;BR&gt;Los argons est&amp;#225;n m&amp;#225;s abajo... y hasta los he visto por aqu&amp;#237; arriba en algunas ocasiones.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que s&amp;#237;, volver&amp;#233; a la base. Soy un explorador, no un m&amp;#225;rtir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" prevId="3" villagerId="1033">
+        <Page social="10">[EN] That took longer than I thought it would, &lt;PCNAME&gt;. Everything all right?&lt;BR&gt;&lt;BR&gt;Argons? Here?&lt;BR&gt;&lt;BR&gt;Things just got very bad, didn't they?&lt;br&gt;[ES] Eso tom&amp;#243; m&amp;#225;s tiempo de lo que pensaba, &lt;PCNAME&gt;. &amp;#191;Est&amp;#225; todo bien?&lt;BR&gt;&lt;BR&gt;&amp;#191;Argons? &amp;#191;Aqu&amp;#237;?&lt;BR&gt;&lt;BR&gt;La situaci&amp;#243;n acaba de empeorar much&amp;#237;simo, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

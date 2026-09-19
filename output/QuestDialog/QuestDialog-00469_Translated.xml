@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0">[EN] Other gutrend go crazy. Cah-razy! Don't know what happened. Go over mountain for a week, come back, everyone crazy.&lt;BR&gt;&lt;BR&gt;Gutrend listen no more. Must get rid of them. Only way. Desert Fire tribe {@LinkCreature:18#8#destroyers} and {@LinkCreature:18#9#prophets} need to be gone.&lt;br&gt;[ES] Otro gutrend volverse loco. &amp;#161;Lo-co! No s&amp;#233; qu&amp;#233; pas&amp;#243;. Ir al otro lado de la monta&amp;#241;a por una semana, volver, todos locos.&lt;BR&gt;&lt;BR&gt;Gutrend no escuchar m&amp;#225;s. Debemos deshacernos de ellos. &amp;#218;nica forma. Tribu Desert Fire {@LinkCreature:18#8#destroyers} y {@LinkCreature:18#9#prophets} necesitan desaparecer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1002">
+        <Page social="4">[EN] May not have told full truth before. May have cast spell. Bad spell.&lt;BR&gt;&lt;BR&gt;You clean up Kunchara's mess. Take this.&lt;br&gt;[ES] Puede que no haya dicho toda la verdad antes. Puede que haya lanzado un hechizo. Un mal hechizo.&lt;BR&gt;&lt;BR&gt;T&amp;#250; limpia el desastre de Kunchara. Toma esto.</Page>
+    </Text>
+</QuestDialog>

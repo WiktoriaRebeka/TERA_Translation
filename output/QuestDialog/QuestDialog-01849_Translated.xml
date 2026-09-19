@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">[EN] {@LinkCreature:245#3510#Surdan} put in a request for field support. Naturally, we thought of you.&lt;BR&gt;&lt;BR&gt;Head to Field Bace Tenacity and do what you can to help.&lt;br&gt;[ES] {@LinkCreature:245#3510#Surdan} envi&amp;#243; una solicitud de apoyo de campo. Naturalmente, pensamos en ti.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a Field Base Tenacity y haz lo que puedas para ayudar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="4">[EN] Oh, yes. There's so much to study and so little time.&lt;BR&gt;&lt;BR&gt;You could best aid me by collecting specimens for study. Nothing too dangerous for a soldier like you, of course.&lt;br&gt;[ES] Oh, s&amp;#237;. Hay tanto que estudiar y tan poco tiempo.&lt;BR&gt;&lt;BR&gt;Podr&amp;#237;as ayudarme mejor recolectando espec&amp;#237;menes para su estudio. Nada demasiado peligroso para un soldado como t&amp;#250;, por supuesto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">[EN] Ah, horntoad ichor. Intriguing.&lt;BR&gt;&lt;BR&gt;I detect several differences in this&amp;#8212;argon contamination, no doubt.&lt;br&gt;[ES] Ah, icor de horntoad. Intrigued.&lt;BR&gt;&lt;BR&gt;Detecto varias diferencias en esto; sin duda, contaminaci&amp;#243;n de argon.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" villagerId="3510">
+        <Page social="0">[EN] Ichor from {@LinkCreature:45#2002#argonomorph horntoads} will make an excellent research sample.&lt;br&gt;[ES] El icor de {@LinkCreature:45#2002#argonomorph horntoads} ser&amp;#225; una excelente muestra para la investigaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">[EN] I'll analyze the blood and try to find the source of the contamination. &lt;BR&gt;&lt;BR&gt;Let's hope we get something.&lt;br&gt;[ES] Analizar&amp;#233; la sangre e intentar&amp;#233; encontrar la fuente de la contaminaci&amp;#243;n. &lt;BR&gt;&lt;BR&gt;Esperemos conseguir algo.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" villagerId="3510">
+        <Page social="0">[EN] The corrupted blood of {@LinkCreature:45#2001#argonomorph blood fiends} would make an excellent subject of study.&lt;br&gt;[ES] La sangre corrupta de los {@LinkCreature:45#2001#argonomorph blood fiends} ser&amp;#237;a un excelente objeto de estudio.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">[EN] Perhaps we'll unlock some link between the corrupted creatures. Thank you.&lt;br&gt;[ES] Tal vez descubramos alg&amp;#250;n v&amp;#237;nculo entre las criaturas corruptas. Gracias.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" villagerId="3510">
+        <Page social="0">[EN] I want to analyze duckweed growing near the natural habitat of the {@LinkCreature:45#2002#argonomorph horntoads}.&lt;BR&gt;&lt;BR&gt;It might help isolate the argons' changes.&lt;br&gt;[ES] Quiero analizar la lenteja de agua que crece cerca del h&amp;#225;bitat natural de los {@LinkCreature:45#2002#argonomorph horntoads}.&lt;BR&gt;&lt;BR&gt;Podr&amp;#237;a ayudar a aislar los cambios de los argons.</Page>
+    </Text>
+</QuestDialog>

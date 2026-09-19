@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="4">[EN] I want the weapons of the {@LinkCreature:20#30114001#ossugon centurions} and the {@LinkCreature:20#30031000#skeleton spearmen}. I want to study them and see how they've held up over all these years.&lt;BR&gt;&lt;BR&gt;I mean yes, they're rusty, but they've yet to fall apart.&lt;BR&gt;&lt;BR&gt;I have to know why. Collect them for me. I don't care what you do with the skeletons.&lt;br&gt;[ES] Quiero las armas de los {@LinkCreature:20#30114001#ossugon centurions} y de los {@LinkCreature:20#30031000#skeleton spearmen}. Quiero estudiarlas y ver c&amp;#243;mo han resistido durante todos estos a&amp;#241;os.&lt;BR&gt;&lt;BR&gt;Quiero decir, s&amp;#237;, est&amp;#225;n oxidadas, pero a&amp;#250;n no se han deshecho.&lt;BR&gt;&lt;BR&gt;Tengo que saber por qu&amp;#233;. Recolectarlas para m&amp;#237;. No me importa lo que hagas con los esqueletos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1014">
+        <Page social="4">[EN] You clearly have more arms than you let on to be able to bring so many back by yourself.&lt;BR&gt;&lt;BR&gt;Anyway, thank you. I'll get to them right away.&lt;br&gt;[ES] Claramente tienes m&amp;#225;s brazos de los que aparentas para poder traer tantas de vuelta t&amp;#250; solo.&lt;BR&gt;&lt;BR&gt;De cualquier forma, gracias. Me pondr&amp;#233; con ellas de inmediato.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1014">
+        <Page social="0">[EN] I want to know why those weapons aren't broken! I want to know, so I need you to bring them to me!&lt;br&gt;[ES] &amp;#161;Quiero saber por qu&amp;#233; esas armas no est&amp;#225;n rotas! &amp;#161;Quiero saberlo, as&amp;#237; que necesito que me las traigas!</Page>
+    </Text>
+</QuestDialog>

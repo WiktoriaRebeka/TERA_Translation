@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="6">[EN] Care to test your mettle in the Champions' Skyring? The best and bravest soldiers from around the federation face each other for glory...and other perquisites.&lt;BR&gt;&lt;BR&gt;You need only a few allies you can trust, a bit of gumption, and a thirst for battle.&lt;BR&gt;&lt;BR&gt;What say you?&lt;br&gt;[ES] &amp;#191;Te apetece poner a prueba tu temple en el Champions' Skyring? Los mejores y m&amp;#225;s valientes soldados de toda la federaci&amp;#243;n se enfrentan entre s&amp;#237; por la gloria... y otras prerrogativas.&lt;BR&gt;&lt;BR&gt;Solo necesitas unos pocos aliados en los que puedas confiar, un poco de valor y sed de batalla.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="6">[EN] Excellent! What magnificent valor! This is but one step. If you choose, great glories&amp;#8212;and challenges&amp;#8212;await you in future matches.&lt;br&gt;[ES] &amp;#161;Excelente! &amp;#161;Qu&amp;#233; valor tan magn&amp;#237;fico! Este es solo un paso. Si lo deseas, grandes glorias &amp;#8212;y desaf&amp;#237;os&amp;#8212; te aguardan en futuros combates.</Page>
+    </Text>
+</QuestDialog>

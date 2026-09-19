@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1134">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1134">
+        <Page social="4">[EN] I know Castanica is worried about durignite for their shields, but they're running short on ore needed for the war effort, too.&lt;BR&gt;&lt;BR&gt;&lt;B&gt;{@RawItem:206807}&lt;/B&gt; is in particularly short supply. The good news is that you don't need to excavate an entire mine to get to it. Bring me some {@RawItem:206807}, and all of Castanica will shout your praises.&lt;br&gt;[ES] S&amp;#233; que Castanica est&amp;#225; preocupada por la durignita para sus escudos, pero tambi&amp;#233;n se est&amp;#225;n quedando sin el mineral necesario para el esfuerzo b&amp;#233;lico.&lt;BR&gt;&lt;BR&gt;&lt;B&gt;{@RawItem:206807}&lt;/B&gt; es especialmente escaso. La buena noticia es que no necesitas excavar una mina entera para conseguirlo. Tr&amp;#225;eme algo de {@RawItem:206807} y todo Castanica cantar&amp;#225; tus alabanzas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1134">
+        <Page social="4">[EN] This is perfect. Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] Esto es perfecto. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1134">
+        <Page social="0">[EN] With the mines shut down, Castanica is in crisis. Every little bit of {@RawItem:206807} helps, friend!&lt;br&gt;[ES] Con las minas cerradas, Castanica est&amp;#225; en crisis. &amp;#161;Cada peque&amp;#241;o fragmento de {@RawItem:206807} ayuda, amigo!</Page>
+    </Text>
+</QuestDialog>

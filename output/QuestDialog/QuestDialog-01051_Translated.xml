@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="0">[EN] I need a sample, a shard&amp;#8212;anything from the fragments of the fallen argon fortress. They're in the {@Rgn:45005$$Skyfields} near the collapsed entrance.&lt;BR&gt;&lt;BR&gt;Can you save me a trip, and probably my life, and collect one for me? Kill the wendigos before you go near them, though&amp;#8212;they'll protect the fragments.&lt;br&gt;[ES] Necesito una muestra, un fragmento, cualquier cosa de los restos de la fortaleza argon ca&amp;#237;da. Est&amp;#225;n en {@Rgn:45005$$Skyfields} cerca de la entrada colapsada.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ahorrarme el viaje, y probablemente la vida, y recolectar uno para m&amp;#237;? Mata a los wendigos antes de acercarte a ellos, eso s&amp;#237;; proteger&amp;#225;n los fragmentos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1029">
+        <Page social="4">[EN] There's no getting inside the fortress, I fear. But the more we know about what the argons were doing here, the better.&lt;BR&gt;&lt;BR&gt;Fortunately, we control a much more functional fortress&amp;#8212;the Three Towers.&lt;BR&gt;&lt;BR&gt;Take this report and give it to Borskan in Pathfinder Post. Thank you for your assistance.&lt;br&gt;[ES] Me temo que es imposible entrar a la fortaleza. Pero cuanto m&amp;#225;s sepamos sobre lo que hac&amp;#237;an los argons aqu&amp;#237;, mejor.&lt;BR&gt;&lt;BR&gt;Por suerte, controlamos una fortaleza mucho m&amp;#225;s funcional: las Tres Torres.&lt;BR&gt;&lt;BR&gt;Toma este reporte y d&amp;#225;selo a Borskan en Pathfinder Post. Gracias por tu ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="3" villagerId="1009">
+        <Page social="4">[EN] Give your report to Ellisiana, and follow her instructions. There's still much to learn about this supposed argon retreat.&lt;br&gt;[ES] Entrega tu reporte a Ellisiana y sigue sus instrucciones. A&amp;#250;n hay mucho que aprender sobre esta supuesta retirada argon.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="4" villagerId="1011">
+        <Page social="4">[EN] This report troubles me. It raises uncomfortable questions&amp;#8212;possibly with even more uncomfortable answers.&lt;BR&gt;&lt;BR&gt;We need to know why the argons abandoned this region. Will you help us?&lt;br&gt;[ES] Este reporte me preocupa. Plantea preguntas inc&amp;#243;modas, posiblemente con respuestas a&amp;#250;n m&amp;#225;s inc&amp;#243;modas.&lt;BR&gt;&lt;BR&gt;Necesitamos saber por qu&amp;#233; los argons abandonaron esta regi&amp;#243;n. &amp;#191;Nos ayudar&amp;#225;s?</Page>
+    </Text>
+</QuestDialog>

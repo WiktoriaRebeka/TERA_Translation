@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0">[EN] We need to get samples of this liquor to the {@LinkCreature:241#1007#wise woman} who taught the orcans at the old orcan campsite. Can you help?&lt;br&gt;[ES] Necesitamos llevar muestras de este licor a la {@LinkCreature:241#1007#wise woman} que ense&amp;#241;aba a los orcos en el antiguo campamento orco. &amp;#191;Puedes ayudar?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1007">
+        <Page social="10">[EN] So this is what the besharan merchants have been selling to the orcans. I'll see what I can find out about it. Thank you for bringing it to me.&lt;br&gt;[ES] As&amp;#237; que esto es lo que los comerciantes besharan le han estado vendiendo a los orcos. Ver&amp;#233; qu&amp;#233; puedo averiguar al respecto. Gracias por tra&amp;#233;rmelo.</Page>
+    </Text>
+</QuestDialog>

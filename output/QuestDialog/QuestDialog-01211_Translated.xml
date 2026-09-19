@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="4">[EN] The appeal of the {@Rgn:50008} to me as a scholar is that it somehow avoids most of the argons' corruption. How did it stave off the argon transformative magic?&lt;BR&gt;&lt;BR&gt;The implications stagger the imagination.&lt;NEXTPAGEBUTTON&gt;"And you need some help."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] El atractivo de {@Rgn:50008} para m&amp;#237; como erudito es que de alg&amp;#250;n modo evita la mayor parte de la corrupci&amp;#243;n de los argons. &amp;#191;C&amp;#243;mo logr&amp;#243; contener la magia de transformaci&amp;#243;n de los argons?&lt;BR&gt;&lt;BR&gt;Las implicaciones asombran a la imaginaci&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"And you need some help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Quite so. These shambling creepers were once gorgeous flowers before the argons reshaped them.&lt;BR&gt;&lt;BR&gt;Use this tyalinth blossom on the creepers. Let's see if we can undo the argons' damage.&lt;br&gt;[ES] As&amp;#237; es. Estas enredaderas andantes sol&amp;#237;an ser flores hermosas antes de que los argons las reconfiguraran.&lt;BR&gt;&lt;BR&gt;Usa esta flor de tyalinth en las enredaderas. Veamos si podemos deshacer el da&amp;#241;o de los argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1002">
+        <Page social="6">[EN] Most promising results! If I can adapt the method to other creatures, we might just reclaim our world.&lt;br&gt;[ES] &amp;#161;Resultados muy prometedores! Si puedo adaptar el m&amp;#233;todo a otras criaturas, tal vez podamos reclamar nuestro mundo.</Page>
+    </Text>
+</QuestDialog>

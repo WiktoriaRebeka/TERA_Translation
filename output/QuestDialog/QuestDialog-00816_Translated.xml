@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1004">
+        <Page social="4">[EN] It's not just two-legged foes we must fear. The barsicores are ferocious. They can eat a whole family in a single meal!&lt;BR&gt;&lt;BR&gt;Since we're running out of families, I want you to kill some {@LinkCreature:34#1110#frosthunter bariscores}. Let their deaths be a lesson to other predators.&lt;br&gt;[ES] No solo debemos temer a los enemigos de dos patas. Los barsicores son feroces. &amp;#161;Pueden comerse a una familia entera en una sola comida!&lt;BR&gt;&lt;BR&gt;Como nos estamos quedando sin familias, quiero que mates algunos {@LinkCreature:34#1110#frosthunter bariscores}. Que sus muertes sean una lecci&amp;#243;n para otros depredadores.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1004">
+        <Page social="4">[EN] Did you know barsicore meat tastes wretched? It's like rotten mutton, only worse.&lt;BR&gt;&lt;BR&gt;Well, I only needed you to kill them. We'll let the creatures of the waste eat what they can.&lt;br&gt;[ES] &amp;#191;Sab&amp;#237;as que la carne de barsicore sabe horrible? Es como cordero podrido, solo que peor.&lt;BR&gt;&lt;BR&gt;Bueno, solo necesitaba que los mataras. Dejaremos que las criaturas del yermo se coman lo que puedan.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1004">
+        <Page social="0">[EN] You can do it! I believe in you.&lt;BR&gt;&lt;BR&gt;Barsicores aren't that big. Smaller than a dozen baraka, easily.&lt;br&gt;[ES] &amp;#161;T&amp;#250; puedes hacerlo! Creo en ti.&lt;BR&gt;&lt;BR&gt;Los barsicores no son tan grandes. M&amp;#225;s peque&amp;#241;os que una docena de baraka, f&amp;#225;cilmente.</Page>
+    </Text>
+</QuestDialog>

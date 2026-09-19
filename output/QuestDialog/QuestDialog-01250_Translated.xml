@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Legendary Blacksmith Muhrak asked you for some materials to compensate for shortcomings in his new workshop. Once you supplied them, Muhrak created a super-weapon: the Torch of the Gods.&lt;br&gt;[ES] El legendario herrero Muhrak te pidi&amp;#243; algunos materiales para compensar las deficiencias de su nuevo taller. Una vez que se los suministraste, Muhrak cre&amp;#243; un superarma: la Torch of the Gods.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] Come to my workshop. I need some materials.&lt;BR&gt;&lt;BR&gt;&amp;#8212;Muhrak&lt;br&gt;[ES] Ven a mi taller. Necesito algunos materiales.&lt;BR&gt;&lt;BR&gt;&amp;#8212;Muhrak</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="1" voiceTypeId="0">[EN] If the Divine Furnace was working, I'd be at work now, but there are certain...inefficiencies involved. We need icemarrow, firemarrow, and glacier fragments.&lt;BR&gt;&lt;BR&gt;What do you mean, "Why?" Who's the legendary blacksmith here? Fine. Combining the relic fragments with the essence of the Core requires enormous heat, then cold. Satisfied?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Where can I get them?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Si el Divine Furnace estuviera funcionando, estar&amp;#237;a trabajando ahora mismo, pero hay ciertas... ineficiencias involucradas. Necesitamos icemarrow, firemarrow y fragmentos de glaciar.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; quieres decir con &quot;&amp;#191;Por qu&amp;#233;?&quot; &amp;#191;Qui&amp;#233;n es el herrero legendario aqu&amp;#237;? Bien. Combinar los fragmentos de reliquia con la esencia del Core requiere un calor enorme y luego fr&amp;#237;o. &amp;#191;Satisfecho?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Where can I get them?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] Head to Raseri Festning in the Vale of Spires. The giants there have icemarrow and firemarrow, especially the chieftains. Glacier fragments? Collect them under the bridge from the Scorched Snowfield to Frostclaw Crag.&lt;br&gt;[ES] Dir&amp;#237;gete a Raseri Festning en el Vale of Spires. Los gigantes de all&amp;#237; tienen icemarrow y firemarrow, especialmente los jefes. &amp;#191;Fragmentos de glaciar? Rec&amp;#243;gelos bajo el puente que va de Scorched Snowfield a Frostclaw Crag.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="411" prevId="3" villagerId="5001">
+        <Page social="1" voiceTypeId="0">[EN] Excellent! This will allow you to combine the Inscribed Fragment and Essence of the Core.&lt;br&gt;[ES] &amp;#161;Excelente! Esto te permitir&amp;#225; combinar el Inscribed Fragment y Essence of the Core.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="411" villagerId="5001">
+        <Page social="0">[EN] I need materials!&lt;br&gt;[ES] &amp;#161;Necesito materiales!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="411" prevId="4" villagerId="5001">
+        <Page social="1" voiceTypeId="0">[EN] Finally! The Inscribed Fragment and Essence of Core are combined! Now you can defeat Kelsaik! Go get rid of him! Oh, stop by Habere and meet the Gacius, the Castanic Engineer before you go to the Ebon Tower.&lt;br&gt;[ES] &amp;#161;Por fin! &amp;#161;El Inscribed Fragment y Essence of Core est&amp;#225;n combinados! &amp;#161;Ahora puedes derrotar a Kelsaik! &amp;#161;Deshazte de &amp;#233;l! Oh, pasa por Habere y conoce a Gacius, el Castanic Engineer antes de ir a Ebon Tower.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="79" prevId="6" villagerId="1102">
+        <Page social="1" voiceTypeId="0">[EN] Muhurak sent you here? And you want to enter the Ebon Tower, don't you?&lt;BR&gt;&lt;BR&gt;No one has gone near it because of the powerful malice surrounding that place. But Muhurak has asked me to install devices that would remove the malice. It is mostly gone now.&lt;BR&gt;I wouldn't advise others to go in there, but you, I believe, can withstand it.&lt;br&gt;[ES] &amp;#191;Muhurak te envi&amp;#243; aqu&amp;#237;? Y quieres entrar a Ebon Tower, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Nadie se ha acercado debido a la poderosa malicia que rodea ese lugar. Pero Muhurak me ha pedido que instale dispositivos que eliminen dicha malicia. Ya casi ha desaparecido.&lt;BR&gt;No le aconsejar&amp;#237;a a otros que entren all&amp;#237;, pero creo que t&amp;#250; puedes soportarlo.</Page>
+    </Text>
+</QuestDialog>

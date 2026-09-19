@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="4" voiceTypeId="0">[EN] The leaders of the Tower Guard are Durzured and Vardas, located on Secundus. They're high-value targets&amp;#8212;the top of the guards' chain of command.&lt;BR&gt;&lt;BR&gt;Take them down.&lt;br&gt;[ES] Los l&amp;#237;deres de la Tower Guard son Durzured y Vardas, ubicados en Secundus. Son objetivos de alto valor, lo m&amp;#225;s alto de la cadena de mando de la guardia.&lt;BR&gt;&lt;BR&gt;Acabad con ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1035">
+        <Page social="4" voiceTypeId="0">[EN] Nice work, &lt;PCNAME&gt;. With their guards in disarray, the tower's vulnerable to our saboteurs.&lt;BR&gt;&lt;BR&gt;I can't wait to see that poisonous eyesore shut down.&lt;br&gt;[ES] Buen trabajo, &lt;PCNAME&gt;. Con sus guardias desorganizados, la torre es vulnerable ante nuestros saboteadores.&lt;BR&gt;&lt;BR&gt;No veo la hora de ver ese feo y venenoso lugar clausurado.</Page>
+    </Text>
+</QuestDialog>

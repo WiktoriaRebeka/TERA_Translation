@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1019">
+        <Page social="5">[EN] Gutrends are running around everywhere! Preying on the weak. Our children can't even play anymore! It's just terrible!&lt;BR&gt;&lt;BR&gt;There are some that seem to be targeting the kids. I assume those are the weakest of the group&amp;#8212;the {@LinkCreature:6#2051#Gutrend reapers} and {@LinkCreature:6#2061#sentries}.&lt;BR&gt;&lt;BR&gt;Knock 'em back and maybe we'll be able to let the children outside the house, at least.&lt;br&gt;[ES] &amp;#161;Los Gutrends andan sueltos por todas partes! Saqueando a los d&amp;#233;biles. &amp;#161;Nuestros hijos ya ni siquiera pueden jugar! &amp;#161;Es simplemente terrible!&lt;BR&gt;&lt;BR&gt;Hay algunos que parecen estar apuntando a los ni&amp;#241;os. Supongo que esos son los m&amp;#225;s d&amp;#233;biles del grupo: los {@LinkCreature:6#2051#Gutrend reapers} y los {@LinkCreature:6#2061#sentries}.&lt;BR&gt;&lt;BR&gt;Dales sumerecido y tal vez podamos dejar salir a los ni&amp;#241;os de la casa, al menos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1019">
+        <Page social="5">[EN] Well, it's a step in the right direction. More to be done, but we'll be safer for a while.&lt;br&gt;[ES] Bueno, es un paso en la direcci&amp;#243;n correcta. Falta mucho por hacer, pero estaremos m&amp;#225;s seguros por un tiempo.</Page>
+    </Text>
+</QuestDialog>

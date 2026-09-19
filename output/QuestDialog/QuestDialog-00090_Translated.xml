@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="4">[EN] A power source...that's the next step.&lt;BR&gt;&lt;BR&gt;And what power source could be better than fire&amp;#8212;especially when you're standing on the very ground where Bahaar, the god of fire, lurks.&lt;BR&gt;&lt;BR&gt;Flamelicked ore, infused with the essence of Bahaar himself. That's what we need.&lt;br&gt;[ES] Una fuente de poder... ese es el siguiente paso.&lt;BR&gt;&lt;BR&gt;Y qu&amp;#233; mejor fuente de poder que el fuego, especialmente cuando est&amp;#225;s parado en el mism&amp;#237;simo suelo donde acecha Bahaar, el dios del fuego.&lt;BR&gt;&lt;BR&gt;Mineral lamido por las flamas, infundido con la esencia del propio Bahaar. Eso es lo que necesitamos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1133">
+        <Page social="4">[EN] The pure power of fire...now for us to command.&lt;br&gt;[ES] El poder puro del fuego... ahora para que lo dominemos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1133">
+        <Page social="0">[EN] All the mirrors in the world won't help us without flamelicked ore to serve as our power source.&lt;br&gt;[ES] Todos los espejos del mundo no nos servir&amp;#225;n de nada sin mineral lamido por las flamas para que sirva como nuestra fuente de poder.</Page>
+    </Text>
+</QuestDialog>

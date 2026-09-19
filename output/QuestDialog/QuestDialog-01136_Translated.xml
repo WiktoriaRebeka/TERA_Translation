@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1001">
+        <Page social="4">[EN] The sheer number of gilgash guardians wandering the front is demoralizing the troops. Who can blame them? Those things are massive and deadly.&lt;BR&gt;&lt;BR&gt;Time for a little attrition. Take a squad out and kill the gilgashes.&lt;BR&gt;&lt;BR&gt;Dismissed.&lt;br&gt;[ES] La pura cantidad de gilgash guardians deambulando por el frente est&amp;#225; desmoralizando a las tropas. &amp;#191;Qui&amp;#233;n puede culparlos? Esas cosas son masivas y mortales.&lt;BR&gt;&lt;BR&gt;Es hora de un poco de desgaste. Sigue a un escuadr&amp;#243;n y mata a los gilgashes.&lt;BR&gt;&lt;BR&gt;Est&amp;#225;s despedido.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1001">
+        <Page social="6">[EN] I wandered through the mess line a little while ago. They're talking about your exploits. That's a good sign.&lt;BR&gt;&lt;BR&gt;They're laughing more now. That's a better sign. Thanks.&lt;br&gt;[ES] Pase&amp;#233; por la l&amp;#237;nea de comida hace un rato. Est&amp;#225;n hablando de tus haza&amp;#241;as. Es una buena se&amp;#241;al.&lt;BR&gt;&lt;BR&gt;Se est&amp;#225;n riendo m&amp;#225;s ahora. Eso es una mejor se&amp;#241;al. Gracias.</Page>
+    </Text>
+</QuestDialog>

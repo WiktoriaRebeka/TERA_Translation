@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1016">
+        <Page social="4">[EN] Every day the {@LinkCreature:40#17#mutagenic wolves} come closer. We once swore we would never leave this place, but our lives may soon depend upon it.&lt;BR&gt;&lt;BR&gt;Will &lt;PCNAME&gt; help us?&lt;br&gt;[ES] Cada d&amp;#237;a los {@LinkCreature:40#17#mutagenic wolves} se acercan m&amp;#225;s. Una vez juramos que nunca abandonar&amp;#237;amos este lugar, pero nuestras vidas pronto podr&amp;#237;an depender de ello.&lt;BR&gt;&lt;BR&gt;&amp;#191;&lt;PCNAME&gt; nos ayudar&amp;#225;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1016">
+        <Page social="4">[EN] The defense force will be here soon to finish the job, and for now the wolves are fewer. It has given us hope.&lt;br&gt;[ES] Las fuerzas de defensa llegar&amp;#225;n pronto para terminar el trabajo, y por ahora los lobos son menos. Nos ha dado esperanza.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="4">[EN] We're lucky that Akia and Terkasia aren't giving the ossugon warchiefs orders anymore&amp;#8212;all thanks to you. The {@LinkCreature:25#2011#ossugon warchiefs} will be easier to divide and eliminate without their leaders.&lt;BR&gt;&lt;BR&gt;Make sure you bring back their skulls so they can't resurrect. Without the generals, their armies will scatter for sure.&lt;BR&gt;&lt;BR&gt;This is a critical mission, &lt;PCNAME&gt;. I can't think of anyone better to take on the generals. Our future rests on your shoulders.&lt;br&gt;[ES] Tenemos suerte de que Akia y Terkasia ya no den &amp;#243;rdenes a los warchiefs ossugon, y todo gracias a ti. Los {@LinkCreature:25#2011#ossugon warchiefs} ser&amp;#225;n m&amp;#225;s f&amp;#225;ciles de dividir y eliminar sin sus l&amp;#237;deres.&lt;BR&gt;&lt;BR&gt;Aseg&amp;#250;rate de traer sus cr&amp;#225;neos para que no puedan resucitar. Sin los generales, sus ej&amp;#233;rcitos se dispersar&amp;#225;n con seguridad.&lt;BR&gt;&lt;BR&gt;Esta es una misi&amp;#243;n cr&amp;#237;tica, &lt;PCNAME&gt;. No se me ocurre nadie mejor para enfrentarse a los generales. Nuestro futuro descansa sobre tus hombros.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">[EN] That's how it's done! Without the generals, the remnants of the army don't dare proceed with their attack plans! You saved the day!&lt;br&gt;[ES] &amp;#161;As&amp;#237; es como se hace! &amp;#161;Sin los generales, los restos del ej&amp;#233;rcito no se atreven a continuar con sus planes de ataque! &amp;#161;Salvaste el d&amp;#237;a!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1027">
+        <Page social="0">[EN] Hurry! Kill the {@LinkCreature:25#2011#ossugon warchiefs} before their army attacks!&lt;br&gt;[ES] &amp;#161;Date prisa! &amp;#161;Mata a los {@LinkCreature:25#2011#ossugon warchiefs} antes de que su ej&amp;#233;rcito ataque!</Page>
+    </Text>
+</QuestDialog>

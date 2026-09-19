@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1038">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1038">
+        <Page social="4">[EN] Let me make one thing perfectly clear: I think Krudo is crazy.&lt;BR&gt;&lt;BR&gt;But he's not stupid. When he says he can turn imp horns into gold, I'm pretty sure that's crazy talk, but I'm not totally sure.&lt;BR&gt;&lt;BR&gt;So humor the crazy coot. Get horns from the {@LinkCreature:8#1031#Caprin imps}, give them to Krudo, and see what happens. Go south from Castanica, then head to the western cavern.&lt;br&gt;[ES] D&amp;#233;jame dejar algo en claro: creo que Krudo est&amp;#225; loco.&lt;BR&gt;&lt;BR&gt;Pero no es est&amp;#250;pido. Cuando dice que puede convertir cuernos de imp en oro, estoy bastante seguro de que son habladur&amp;#237;as de loco, pero no del todo.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que s&amp;#237;guele la corriente al viejo loco. Consigue cuernos de los {@LinkCreature:8#1031#Caprin imps}, d&amp;#225;selos a Krudo y mira qu&amp;#233; pasa. Ve al sur desde Castanica y luego dir&amp;#237;gete a la caverna occidental.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1020">
+        <Page social="4">[EN] Imp horns! Imp horns! Hooray! I can turn them into...solid gold! You want gold, right?&lt;BR&gt;&lt;BR&gt;In just forty years...solid gold!&lt;BR&gt;&lt;BR&gt;You're in a hurry? Kids today...(sigh). Take this for your trouble, then. And check back in forty years!&lt;br&gt;[ES] &amp;#161;Cuernos de imp! &amp;#161;Cuernos de imp! &amp;#161;Uju! &amp;#161;Puedo convertirlos en... oro macizo! Quieres oro, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;En solo cuarenta a&amp;#241;os... &amp;#161;oro macizo!&lt;BR&gt;&lt;BR&gt;&amp;#191;Tienes prisa? Los j&amp;#243;venes de hoy... (suspiro). &amp;#161;Toma esto por las molestias entonces! &amp;#161;Y vuelve en cuarenta a&amp;#241;os!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1020">
+        <Page social="0">[EN] Can I help you? Or is it the other way around?&lt;br&gt;[ES] &amp;#191;Puedo ayudarte? &amp;#191;O es al rev&amp;#233;s?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">[EN] You want a gilded feather? Sorry, but I made myself a promise: I don't make those anymore.&lt;BR&gt;&lt;BR&gt;It's the downy struthio feathers, you see: The Shariar made struthio-poaching illegal. It's not worth it to me to invoke their wrath.&lt;NEXTPAGEBUTTON&gt;"But I already have this feather..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Quieres una pluma dorada? Lo siento, pero me hice una promesa: ya no hago esas.&lt;BR&gt;&lt;BR&gt;Son las plumas suaves de struthio, &amp;#191;ves? Los Shariar declararon ilegal la caza furtiva de struthio. No vale la pena para m&amp;#237; atraer su ira.&lt;NEXTPAGEBUTTON&gt;"But I already have this feather..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">[EN] You've already got the feather? Well, the Shariar only enforce the "no-hunt" law, so I guess I could make one more.&lt;NEXTPAGEBUTTON&gt;"Great news."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Ya tienes la pluma? Bueno, los Shariar solo hacen cumplir la ley de &quot;no cazar&quot;, supongo que podr&amp;#237;a hacer una m&amp;#225;s.&lt;NEXTPAGEBUTTON&gt;"Great news."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">[EN] Sorry, but the valiant fighters of the Shariar made struthio-hunting a crime. My advice is to sell off your xermetal ore and luria fibers and forget all about struthio feathers.&lt;br&gt;[ES] Lo siento, pero los valientes combatientes de los Shariar hicieron que cazar struthios sea un delito. Mi consejo es que vendas tu xermetal ore y luria fibras y te olvides por completo de las struthio feathers.</Page>
+    </Text>
+</QuestDialog>

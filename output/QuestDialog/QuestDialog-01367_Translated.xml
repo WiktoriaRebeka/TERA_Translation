@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1011">
+        <Page social="4">[EN] Killian must have designed this ritual. Nobody's more versed in pain&amp;#8212;I'm sure Thulsa knew that.&lt;BR&gt;&lt;BR&gt;Killian sent a vicious spectre to torture the victims&amp;#8212;before and after they die&amp;#8212;and channel all that misery for power.&lt;BR&gt;&lt;BR&gt;Well, no more. Kill that spectre!&lt;br&gt;[ES] Killian debi&amp;#243; haber dise&amp;#241;ado este ritual. Nadie domina mejor el dolor; estoy seguro de que Thulsa lo sab&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Killian envi&amp;#243; un espectro vicioso para torturar a las v&amp;#237;ctimas, antes y despu&amp;#233;s de morir, y canalizar toda esa miseria para obtener poder.&lt;BR&gt;&lt;BR&gt;Bueno, no m&amp;#225;s. &amp;#161;Mata a ese espectro!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1011">
+        <Page social="4">[EN] Fates be damned, you did it! I could hear Vaelmir screaming from here!&lt;BR&gt;&lt;BR&gt;No consolation for the dead, but don't you dare pay for your own drinks when we get back to town.&lt;br&gt;[ES] &amp;#161;Malditos hados, lo lograste! &amp;#161;Pude escuchar a Vaelmir gritando desde aqu&amp;#237;!&lt;BR&gt;&lt;BR&gt;No es consuelo para los muertos, pero ni te atrevas a pagar tus propias bebidas cuando volvamos al pueblo.</Page>
+    </Text>
+</QuestDialog>

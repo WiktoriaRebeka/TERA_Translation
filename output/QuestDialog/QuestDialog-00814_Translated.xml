@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1004">
+        <Page social="4">[EN] Those awful {@LinkCreature:34#1010#icereaver giants} attacked a mining team and stalked off with their eldritch shards.&lt;BR&gt;&lt;BR&gt;I don't know what the giants would do with shards, but we want them back.&lt;BR&gt;&lt;BR&gt;The shards, of course. The giants, not so much.&lt;br&gt;[ES] Esos horribles {@LinkCreature:34#1010#icereaver giants} atacaron a un equipo minero y se marcharon con sus fragmentos arcanos.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; qu&amp;#233; har&amp;#237;an los gigantes con los fragmentos, pero los queremos de vuelta.&lt;BR&gt;&lt;BR&gt;Los fragmentos, por supuesto. Los gigantes, no tanto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1004">
+        <Page social="4">[EN] With this shipment of shards safely returned, we can get this shipment out and pay for resupply.&lt;BR&gt;&lt;BR&gt;Aren't the giants just awful? Hard to imagine the civilized baraka are even remotely related.&lt;BR&gt;&lt;BR&gt;Well, thanks!&lt;br&gt;[ES] Con este cargamento de fragmentos devuelto a salvo, podemos enviar este cargamento y pagar por los suministros.&lt;BR&gt;&lt;BR&gt;&amp;#191;A que los gigantes son horribles? Es dif&amp;#237;cil imaginar que los baraka civilizados est&amp;#233;n remotamente emparentados.&lt;BR&gt;&lt;BR&gt;Bueno, &amp;#161;gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1004">
+        <Page social="0">[EN] Oh, they're around. Scour the Howling Glacier and the Screaming Snowfield.&lt;br&gt;[ES] Oh, andan por ah&amp;#237;. Registra el Howling Glacier y el Screaming Snowfield.</Page>
+    </Text>
+</QuestDialog>

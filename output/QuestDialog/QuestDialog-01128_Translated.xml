@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="4">[EN] Do you know how to make {@RawItem:206816}? There's plenty of {@RawItem:206811} around here, but it's not all that safe to recover. Could you procure some {@RawItem:206816} for me? Don't look at me like that&amp;#8212;I'm unarmed!&lt;br&gt;[ES] &amp;#191;Sabes c&amp;#243;mo hacer {@RawItem:206816}? Hay un mont&amp;#243;n de {@RawItem:206811} por aqu&amp;#237;, pero no es muy seguro recuperarlo. &amp;#191;Podr&amp;#237;as conseguir algo de {@RawItem:206816} para m&amp;#237;? &amp;#161;No me mires as&amp;#237;, estoy desarmado!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1025">
+        <Page social="4">[EN] Oh, this will do nicely. Much obliged, &lt;PCNAME&gt;. I'll put this to good use.&lt;br&gt;[ES] Oh, esto servir&amp;#225; perfectamente. Muy agradecido, &lt;PCNAME&gt;. Le dar&amp;#233; un buen uso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1025">
+        <Page social="0">[EN] You haven't got it yet? You know how to mine and polish, right?&lt;br&gt;[ES] &amp;#191;A&amp;#250;n no lo tienes? Sabes c&amp;#243;mo minar y pulir, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

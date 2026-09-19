@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="78" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] Tell Dougal that you are fully prepared for the Gridiron.&lt;br&gt;[ES] Dile a Dougal que est&amp;#225;s totalmente preparado para el Gridiron.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Dougal invites &lt;PCNAME&gt; to the Gridiron.&lt;br&gt;[ES] Dougal invita a &lt;PCNAME&gt; al Gridiron.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1021">
+        <Page social="4" voiceTypeId="0">[EN] Are you ready to fight in the Gridiron?&lt;BR&gt;&lt;BR&gt;The best of the federation's competitors are gathering for a big match.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you are one of the greatest heroes I've ever met. Join them and test your prowess...then come back and let me know how you liked the competition.&lt;br&gt;[ES] &amp;#191;Est&amp;#225;s listo para luchar en el Gridiron?&lt;BR&gt;&lt;BR&gt;Los mejores competidores de la federaci&amp;#243;n se est&amp;#225;n reuniendo para un gran combate.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, eres uno de los mayores h&amp;#233;roes que he conocido. &amp;#218;nete a ellos y pon a prueba tu destreza... luego regresa y cu&amp;#233;ntame qu&amp;#233; te pareci&amp;#243; la competencia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1021">
+        <Page social="4" voiceTypeId="0">[EN] &lt;PCNAME&gt;! Did you enjoy the competition?&lt;BR&gt;&lt;BR&gt;I always knew that your combat skills were beyond comparison. Sometimes it feels good to just leave all the elaborate quests behind and just focus purely on the fighting. Really good for relieving stress!&lt;BR&gt;&lt;BR&gt;Visit the Gridiron again soon!&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! &amp;#191;Disfrutaste la competencia?&lt;BR&gt;&lt;BR&gt;Siempre supo que tus habilidades de combate no tienen comparaci&amp;#243;n. A veces se siente bien dejar atr&amp;#225;s todas las misiones complejas y concentrarse &amp;#250;nicamente en la lucha. &amp;#161;Muy bueno para liberar estr&amp;#233;s!&lt;BR&gt;&lt;BR&gt;&amp;#161;Visita el Gridiron pronto otra vez!</Page>
+    </Text>
+</QuestDialog>

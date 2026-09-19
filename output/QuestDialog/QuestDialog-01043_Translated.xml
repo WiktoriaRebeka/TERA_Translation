@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="4">[EN] We have a unique opportunity here to learn what makes the argons tick. There's another bubble, and more of those {@Creature:45#7003#spires}, by the northwestern swamp. Check them out, and bring back some fragments. I'll compare them to the others.&lt;BR&gt;&lt;BR&gt;If you see the argonomorph tuwangi leader while you're there, take him out.&lt;br&gt;[ES] Tenemos una oportunidad &amp;#250;nica aqu&amp;#237; para aprender c&amp;#243;mo funcionan los argons. Hay otra burbuja, y m&amp;#225;s de esas {@Creature:45#7003#spires}, junto al pantano del noroeste. &amp;#201;chales un vistazo y tr&amp;#225;eme algunos fragmentos. Los comparar&amp;#233; con los otros.&lt;BR&gt;&lt;BR&gt;Si ves al l&amp;#237;der tuwangi argonomorfo mientras est&amp;#225;s all&amp;#237;, acaba con &amp;#233;l.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1013">
+        <Page social="5">[EN] Thank you. Did everything go smoothly?&lt;NEXTPAGEBUTTON&gt;"A tuwangi called me an intruder."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Gracias. &amp;#191;Sali&amp;#243; todo bien?&lt;NEXTPAGEBUTTON&gt;"A tuwangi called me an intruder."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Intruder, eh?&lt;BR&gt;&lt;BR&gt;So perhaps the spires are an alarm of some sort. The federation could use something like that.&lt;BR&gt;&lt;BR&gt;The tuwangis are protecting the spires. I hope killing the leader will cause the others to scatter so we can investigate further.&lt;br&gt;[ES] &amp;#191;Intruso, eh?&lt;BR&gt;&lt;BR&gt;As&amp;#237; que tal vez las agujas sean una especie de alarma. A la federaci&amp;#243;n le vendr&amp;#237;a bien algo as&amp;#237;.&lt;BR&gt;&lt;BR&gt;Los tuwangis est&amp;#225;n protegiendo las agujas. Espero que matar al l&amp;#237;der haga que los dem&amp;#225;s se dispersen para que podamos investigar m&amp;#225;s a fondo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1013">
+        <Page social="0">[EN] I need pieces of those controller spires from the northwestern swamp.&lt;br&gt;[ES] Necesito trozos de esas agujas de control del pantano del noroeste.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1035">
+        <Page social="4">[EN] In the deepest part of Raga Shadi are argons, of course. But what fascinates me are the argonomorph nightmare fiends. We think their blood somehow reacts to dreaming mortals. They get stronger whenever we sleep, in other words.&lt;br&gt;[ES] En la parte m&amp;#225;s profunda de Raga Shadi hay argons, por supuesto. Pero lo que me fascina son los argonomorph nightmare fiends. Creemos que su sangre de alg&amp;#250;n modo reacciona ante los mortales que sue&amp;#241;an. En otras palabras, se vuelven m&amp;#225;s fuertes cada vez que dormimos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1035">
+        <Page social="4">[EN] Don't get the blood on you. Nightmare-tainted blood could drive you insane if you're exposed to enough of it.&lt;BR&gt;&lt;BR&gt;You know your way around the towers, right? Been to Soulsurge Chamber to the east? Well, that's your next destination.&lt;br&gt;[ES] No dejes que te manche la sangre. La sangre corrompida por las pesadillas podr&amp;#237;a volverte loco si te expones lo suficiente a ella.&lt;BR&gt;&lt;BR&gt;Te sabes mover por las torres, &amp;#191;verdad? &amp;#191;Has estado en Soulsurge Chamber hacia el este? Bien, ese es tu pr&amp;#243;ximo destino.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1035">
+        <Page social="0">[EN] The blood of {@Creature:46#402#argonomorph nightmare fiends} reacts to mortal dreams. We need to figure out how.&lt;br&gt;[ES] La sangre de los {@Creature:46#402#argonomorph nightmare fiends} reacciona ante los sue&amp;#241;os de los mortales. Necesitamos averiguar c&amp;#243;mo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1036">
+        <Page social="4">[EN] Flinton sent you onward rather quickly. Either you're quite efficient, or...no, that must be it. You're just good at what you do.&lt;br&gt;[ES] Flinton te mand&amp;#243; a seguir tu camino bastante r&amp;#225;pido. O eres muy eficiente, o... no, tiene que ser eso. Simplemente eres bueno en lo que haces.</Page>
+    </Text>
+</QuestDialog>

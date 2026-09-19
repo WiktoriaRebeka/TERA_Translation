@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Mission Orders&lt;BR&gt;&lt;BR&gt;We must demoralize the Kulkari Crag Stalkers spread out throughout the Basilisk Crag.&lt;BR&gt;&lt;BR&gt;Kill {@LinkCreature:21#9#Crag Stalker ragers}, {@LinkCreature:21#10#Crag Stalker crushers} and {@LinkCreature:21#5#Crag Stalker prophets}.&lt;BR&gt;&lt;BR&gt;Report to Kayina when mission is complete.&lt;br&gt;[ES] &amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Debemos desmoralizar a los Kulkari Crag Stalkers repartidos por todo el Basilisk Crag.&lt;BR&gt;&lt;BR&gt;Mata {@LinkCreature:21#9#Crag Stalker ragers}, {@LinkCreature:21#10#Crag Stalker crushers} y {@LinkCreature:21#5#Crag Stalker prophets}.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate ante Kayina cuando la misi&amp;#243;n est&amp;#233; completa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">[EN] You've earned the thanks of the federation. Your guild is an inspiration to all!&lt;br&gt;[ES] Te has ganado el agradecimiento de la federaci&amp;#243;n. &amp;#161;Tu hermandad es una inspiraci&amp;#243;n para todos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">[EN] It looks like you haven't completed your mission yet.&lt;br&gt;[ES] Parece que a&amp;#250;n no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

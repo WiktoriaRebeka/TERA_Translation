@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1014">
+        <Page social="5">[EN] I'm drowning in work here! Of course, by "I," I mean "you."&lt;NEXTPAGEBUTTON&gt;"Crazybearsayswhatnow?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Me ahogo en trabajo aqu&amp;#237;! Claro que, por &quot;yo&quot;, quiero decir &quot;t&amp;#250;&quot;.&lt;NEXTPAGEBUTTON&gt;"Crazybearsayswhatnow?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] We're both part of the federation, yes? So my work is yours!&lt;BR&gt;&lt;BR&gt;That's how the military works, pup. Don't think too hard about it and you'll go far.&lt;BR&gt;&lt;BR&gt;My job is cutting the cult's chain of command&amp;#8212;specifically the {@LinkCreature:17#300442#Heavens Fall guards}. If we kill some, and a few {@LinkCreature:17#300552#barrelhead threshers} to boot, they'll have to fall back to reorganize.&lt;BR&gt;&lt;BR&gt;So, slip onto the farm, slit some throats, and watch the chaos. Oh, and bring me their weapons!&lt;br&gt;[ES] Ambos somos parte de la federation, &amp;#191;s&amp;#237;? &amp;#161;As&amp;#237; que mi trabajo es tuyo!&lt;BR&gt;&lt;BR&gt;As&amp;#237; funciona el ej&amp;#233;rcito, cachorro. No lo pienses demasiado y llegar&amp;#225;s lejos.&lt;BR&gt;&lt;BR&gt;Mi trabajo es cortar la cadena de mando del culto, espec&amp;#237;ficamente los {@LinkCreature:17#300442#Heavens Fall guards}. Si matamos a algunos, y a unos cuantos {@LinkCreature:17#300552#barrelhead threshers} para rematar, tendr&amp;#225;n que retroceder para reorganizarse.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que inf&amp;#233;rnate en la granja, corta algunas gargantas y observa el caos. &amp;#161;Ah, y tr&amp;#225;eme sus armas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1014">
+        <Page social="5">[EN] Nice work! As my C.O. would say, ruin the discipline and you ruin the unit! A wise man, Puran. You'd like him. Keeps us alive!&lt;BR&gt;&lt;BR&gt;Now, how else can we trip them up?&lt;br&gt;[ES] &amp;#161;Buen trabajo! Como dir&amp;#237;a mi oficial al mando: &amp;#161;ruina la disciplina y arruinas la unidad! Un hombre sabio, Puran. Te agradar&amp;#237;a. &amp;#161;Nos mantiene con vida!&lt;BR&gt;&lt;BR&gt;Ahora, &amp;#191;de qu&amp;#233; otra manera podemos hacerlos tropezar?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1014">
+        <Page social="0">[EN] Didn't you hear me? Move!&lt;br&gt;[ES] &amp;#191;No me escuchaste? &amp;#161;M&amp;#250;evete!</Page>
+    </Text>
+</QuestDialog>

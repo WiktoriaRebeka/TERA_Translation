@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2011">
+        <Page social="0">[EN] As requested by Stefanna, you delivered tanning oil to a Castanic who is tanning.&lt;br&gt;[ES] A petici&amp;#243;n de Stefanna, entregaste aceite bronceador a una Castanic que se est&amp;#225; bronceando.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2011">
+        <Page social="6">[EN] Hello there, &lt;PCNAME&gt;. Are you enjoying some fun in the sun?&lt;BR&gt;&lt;BR&gt;Unfortunately, I can't relax, myself. I've fallen behind in my delivery orders, and I can't take a break until everyone has their tanning oil.&lt;BR&gt;&lt;BR&gt;I don't suppose you could help me with that...?&lt;br&gt;[ES] Hola, &lt;PCNAME&gt;. &amp;#191;Est&amp;#225;s disfrutando un poco de diversi&amp;#243;n bajo el sol?&lt;BR&gt;&lt;BR&gt;Desafortunadamente, yo no puedo relajarme. Me he retrasado con mis pedidos de entrega y no puedo tomar un descanso hasta que todos tengan su aceite bronceador.&lt;BR&gt;&lt;BR&gt;Supongo que no podr&amp;#237;as ayudarme con eso...?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="4">[EN] Thank you so much, &lt;PCNAME&gt;! Now let's see...&lt;BR&gt;&lt;BR&gt;I have four different clients waiting for tanning oil, but this one's been waiting the longest. Here. Could you take this bottle of tanning oil to her?&lt;br&gt;[ES] &amp;#161;Much&amp;#237;simas gracias, &lt;PCNAME&gt;! Ahora veamos...&lt;BR&gt;&lt;BR&gt;Tengo cuatro clientes diferentes esperando aceite bronceador, pero esta es la que lleva m&amp;#225;s tiempo esperando. Toma. &amp;#191;Podr&amp;#237;as llevarle esta botella de aceite bronceador?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="210" prevId="3" villagerId="2201">
+        <Page social="4">[EN] You aren't Stefanna. That's...disappointing. Did she say anything about me?&lt;br&gt;[ES] T&amp;#250; no eres Stefanna. Eso es... decepcionante. &amp;#191;Dijo algo sobre m&amp;#237;?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="210" prevId="3" villagerId="2203">
+        <Page social="4">[EN] It's about time! I was starting to smolder!&lt;br&gt;[ES] &amp;#161;Ya era hora! &amp;#161;Empezaba a achicharrarme!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="210" prevId="3" villagerId="2116">
+        <Page social="4">[EN] What took you so long? Oh, I see: Stefanna's relaxing on the beach while you run her errands. Typical.&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; tardaste tanto? Ah, ya veo: Stefanna est&amp;#225; relaj&amp;#225;ndose en la playa mientras t&amp;#250; haces sus mandados. T&amp;#237;pico.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="210" prevId="3" villagerId="2118">
+        <Page social="4">[EN] Ah, Stefanna's tanning oil, at last! Have you tried it? You simply must! It's the absolute best!&lt;br&gt;[ES] &amp;#161;Ah, el aceite bronceador de Stefanna, al fin! &amp;#191;Lo has probado? &amp;#161;Simplemente debes hacerlo! &amp;#161;Es absolutamente el mejor!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="210" prevId="11" villagerId="2011">
+        <Page social="4">[EN] Thank you so much, &lt;PCNAME&gt;! It's just too hot out to be making deliveries. You should take a break.&lt;BR&gt;&lt;BR&gt;Here, put this on&amp;#8212;it'll keep the sun out of your eyes.&lt;br&gt;[ES] &amp;#161;Much&amp;#237;simas gracias, &lt;PCNAME&gt;! Hace demasiado calor afuera como para andar haciendo entregas. Deber&amp;#237;as tomarte un descanso.&lt;BR&gt;&lt;BR&gt;Toma, ponte esto, mantendr&amp;#225; el sol fuera de tus ojos.</Page>
+    </Text>
+</QuestDialog>

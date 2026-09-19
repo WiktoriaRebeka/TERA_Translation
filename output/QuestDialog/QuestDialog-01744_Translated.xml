@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="29" prevId="0" villagerId="1042">
+        <Page social="0">[EN] Jelena worried that the Red Raiders' stockpile of amber powder was a greater threat than expected, and asked you to help her put a stop to it.&lt;br&gt;[ES] A Jelena le preocupa que la reserva de polvo de &amp;#225;mbar de los Red Raiders sea una amenaza mayor de lo esperado, y te pidi&amp;#243; ayuda para ponerle fin.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="29" prevId="0" villagerId="1042">
+        <Page social="4" voiceTypeId="0">[EN] The Red Raiders may not be the cause of this mess, but their plan isn't helping things much.&lt;BR&gt;&lt;BR&gt;If the amber powder is causing the crystallization, gathering it all up and storing it near infected people will kill them all!&lt;BR&gt;&lt;BR&gt;We need a better plan.&lt;NEXTPAGEBUTTON&gt;"Do you have anything in mind?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Los Red Raiders quiz&amp;#225;s no sean la causa de este l&amp;#237;o, pero su plan no ayuda mucho que digamos.&lt;BR&gt;&lt;BR&gt;Si el polvo &amp;#225;mbar est&amp;#225; causando la crystallization, &amp;#161;recogerlo todo y almacenarlo cerca de personas infectadas las matar&amp;#225; a todas!&lt;BR&gt;&lt;BR&gt;Necesitamos un plan mejor.&lt;NEXTPAGEBUTTON&gt;"Do you have anything in mind?"&lt;/NEXTPAGEBUTTON&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] We have to get rid of the powder itself, or at least neutralize it!&lt;BR&gt;&lt;BR&gt;The Raiders are just storing it in crates and sacks. We have to get rid of it before there's an accident they can't walk away from.&lt;BR&gt;&lt;BR&gt;Let's go.&lt;br&gt;[ES] &amp;#161;Tenemos que deshacernos del polvo en s&amp;#237;, o al menos neutralizarlo!&lt;BR&gt;&lt;BR&gt;Los Raiders solo lo guardan en cajas y sacos. Tenemos que deshacernos de &amp;#233;l antes de que ocurra un accidente del que no puedan escapar.&lt;BR&gt;&lt;BR&gt;Vamos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="29" prevId="2" villagerId="1023">
+        <Page social="4" voiceTypeId="0">[EN] These boxes are empty. These nearby Raiders must still have the powder on them..&lt;br&gt;[ES] Estas cajas est&amp;#225;n vac&amp;#237;as. Los Raiders cercanos a&amp;#250;n deben tener el polvo encima...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="29" prevId="3" villagerId="1042">
+        <Page social="4" voiceTypeId="0">[EN] Well done.&lt;BR&gt;&lt;BR&gt;So?&lt;BR&gt;Did you run into any trouble?&lt;NEXTPAGEBUTTON&gt;"Sort of."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Bien hecho.&lt;BR&gt;&lt;BR&gt;&amp;#191;Y bien?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Sort of."&lt;/NEXTPAGEBUTTON&gt;&quot;Algo as&amp;#237;.&quot;</Page>
+        <Page social="0" voiceTypeId="0">[EN] I'll shed no tears over traitors to the federation.&lt;BR&gt;&lt;BR&gt;Now we have to find a way to destroy it. Care to have a go?&lt;br&gt;[ES] No derramar&amp;#233; ninguna l&amp;#225;grima por los traidores a la federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ahora tenemos que encontrar una manera de destruirlo. &amp;#191;Te animas a intentarlo?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="29" prevId="4" villagerId="1042">
+        <Page social="4" voiceTypeId="0">[EN] Hey!&lt;BR&gt;&lt;BR&gt;Are you alright?&lt;BR&gt;&lt;BR&gt;This material is too dangerous to leave in the hands of traitors. I'll take our remaining samples to the Mysterium.&lt;br&gt;[ES] &amp;#161;Oye!&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s bien?&lt;BR&gt;&lt;BR&gt;Este material es demasiado peligroso para dejarlo en manos de traidores. Llevar&amp;#233; nuestras muestras restantes al Mysterium.</Page>
+    </Text>
+</QuestDialog>

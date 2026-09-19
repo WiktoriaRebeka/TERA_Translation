@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="4">[EN] If the argons were still building when they left, they may have left valuable equipment behind in the {@Rgn:45005$$Skyfields}. Will you look around for it?&lt;br&gt;[ES] Si los argons segu&amp;#237;an construyendo cuando se fueron, puede que hayan dejado equipo valioso en {@Rgn:45005$$Skyfields}. &amp;#191;Echar&amp;#225;s un vistazo para encontrarlo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1029">
+        <Page social="4">[EN] This is so much more than I expected. They must have left in a great hurry.&lt;br&gt;[ES] Esto es mucho m&amp;#225;s de lo que esperaba. Debieron haberse ido con mucha prisa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1029">
+        <Page social="0">[EN] Were you able to find any argon equipment in the {@Rgn:45005$$Skyfields}?&lt;br&gt;[ES] &amp;#191;Pudiste encontrar algo de equipo argon en {@Rgn:45005$$Skyfields}?</Page>
+    </Text>
+</QuestDialog>

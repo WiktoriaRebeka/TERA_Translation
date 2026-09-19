@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="4">[EN] Ready for another delivery, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;This one is for Andersen in Pora Elinu. Use a pegasus, and don't attract attention. Our customers appreciate our discretion.&lt;br&gt;[ES] &amp;#191;Listo para otra entrega, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Esta es para Andersen en Pora Elinu. Usa un pegaso y no llames la atenci&amp;#243;n. Nuestros clientes aprecian nuestra discreci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="68" prevId="2" villagerId="1003">
+        <Page social="4">[EN] How may I help you today?&lt;NEXTPAGEBUTTON&gt;"This is from Imesti."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo puedo ayudarte hoy?&lt;NEXTPAGEBUTTON&gt;"This is from Imesti."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] My package? It's here? Give it to me now! I must have it! It's mine!&lt;BR&gt;&lt;BR&gt;Ahem. Sorry about that. Take this for your trouble, and tell Imesti she's a lifesaver.&lt;br&gt;[ES] &amp;#191;Mi paquete? &amp;#191;Est&amp;#225; aqu&amp;#237;? &amp;#161;D&amp;#225;melo ahora! &amp;#161;Debo tenerlo! &amp;#161;Es m&amp;#237;o!&lt;BR&gt;&lt;BR&gt;Ejem. Disculpa por eso. Toma esto por las molestias y dile a Imesti que me ha salvado la vida.</Page>
+    </Text>
+</QuestDialog>

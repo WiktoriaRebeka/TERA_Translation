@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="4" voiceTypeId="0">[EN] I'm Jax, master of the Jax Trust.&lt;BR&gt;&lt;BR&gt;I've heard you've been very helpful for our business, so I wanted to thank you in person.&lt;BR&gt;&lt;BR&gt;I treat my business like a family, and now you're officially a "friend of the family."&lt;BR&gt;&lt;BR&gt;When we profit, all of Cutthroat Harbor profits. I look forward to many great things from you.&lt;br&gt;[ES] Soy Jax, maestro del Jax Trust.&lt;BR&gt;&lt;BR&gt;He o&amp;#237;do que has sido de gran ayuda para nuestro negocio, as&amp;#237; que quer&amp;#237;a agradecerte en persona.&lt;BR&gt;&lt;BR&gt;Trato a mi negocio como a una familia, y ahora eres oficialmente un &quot;amigo de la familia&quot;.&lt;BR&gt;&lt;BR&gt;Cuando obtenemos ganancias, todo Cutthroat Harbor obtiene ganancias. Espero muchas cosas grandiosas de ti.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1701">
+        <Page social="4" voiceTypeId="0">[EN] I'm glad you are willing to help.&lt;br&gt;[ES] Me alegra que est&amp;#233;s dispuesto a ayudar.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="4">[EN] It would be unwise to send you into the fray without knowing what you're capable of.&lt;BR&gt;&lt;BR&gt;So demonstrate&amp;#8212;show me what you've got.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:4#2011#voracious fangspawns} should prove a worthy test. Let's see you bring me their hearts.&lt;br&gt;[ES] Ser&amp;#237;a imprudente enviarte a la batalla sin saber de qu&amp;#233; eres capaz.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que demu&amp;#233;stramelo, mu&amp;#233;strame lo que tienes.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:4#2011#voracious fangspawns} deber&amp;#237;an resultar una prueba digna. Veamos si me traes sus corazones.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1003">
+        <Page social="4">[EN] If you intended to demonstrate the concept of "ease," then you succeeded, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Most soldiers who arrive here find the fangspawns more of a challenge.&lt;br&gt;[ES] Si tu intenci&amp;#243;n era demostrar el concepto de &amp;#171;facilidad&amp;#187;, entonces tuviste &amp;#233;xito, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;La mayor&amp;#237;a de los soldados que llegan aqu&amp;#237; encuentran que los fangspawns son un mayor desaf&amp;#237;o.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1003">
+        <Page social="0">[EN] If you think you're too good for a simple assessment, then contemplate this: your arrogance is part of the assessment!&lt;br&gt;[ES] Si crees que eres demasiado bueno para una simple evaluaci&amp;#243;n, entonces medita en esto: &amp;#161;tu arrogancia es parte de la evaluaci&amp;#243;n!</Page>
+    </Text>
+</QuestDialog>

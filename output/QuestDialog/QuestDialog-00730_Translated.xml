@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1010">
+        <Page social="4">[EN] I always get the worst scouting missions.&lt;BR&gt;&lt;BR&gt;Now Georrif wants me to go up into those frozen frigates, but the way is crawling with {@LinkCreature:31#3#frigid ossugons} and {@LinkCreature:31#7#deathfrost cavaliers}! I'll never make it back alive!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, for the safety of your fellow federation soldiers...ummm, me...could you clear the way?&lt;br&gt;[ES] Siempre me tocan las peores misiones de reconocimiento.&lt;BR&gt;&lt;BR&gt;Ahora Georrif quiere que suba a esas fragatas congeladas, &amp;#161;pero el camino est&amp;#225; lleno de {@LinkCreature:31#3#frigid ossugons} y {@LinkCreature:31#7#deathfrost cavaliers}! &amp;#161;Nunca saldr&amp;#233; con vida!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, por la seguridad de tus compa&amp;#241;eros soldados de la federaci&amp;#243;n... ejem, yo... &amp;#191;podr&amp;#237;as despejar el camino?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1010">
+        <Page social="4">[EN] But now that the area is really cleared, there's no thrill anymore.&lt;BR&gt;&lt;BR&gt;What am I saying? Thank you so much. You're a life saver!&lt;br&gt;[ES] Pero ahora que el &amp;#225;rea est&amp;#225; realmente despejada, ya no hay emoci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; estoy diciendo? &amp;#161;Muchas-uchas gracias! &amp;#161;Me has salvado la vida!</Page>
+    </Text>
+</QuestDialog>

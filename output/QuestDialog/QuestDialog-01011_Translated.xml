@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="4">[EN] The way east is blocked by {@LinkCreature:42#1300#besharan sellswords}. Those fiends can't interfere with our work.&lt;BR&gt;&lt;BR&gt;Kill them and collect their signets. I'll pay handsomely for each one.&lt;br&gt;[ES] El camino hacia el este est&amp;#225; bloqueado por {@LinkCreature:42#1300#besharan sellswords}. Esos demonios no pueden interferir con nuestro trabajo.&lt;BR&gt;&lt;BR&gt;M&amp;#225;talos y recoge sus sortijas. Pagar&amp;#233; muy bien por cada una.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1033">
+        <Page social="4">[EN] Good work. I knew you could get it done.&lt;br&gt;[ES] Buen trabajo. Sab&amp;#237;a que pod&amp;#237;as lograrlo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1033">
+        <Page social="0">[EN] You're taking care of those {@LinkCreature:42#1300#besharan sellswords}, right? No signets means no reward.&lt;br&gt;[ES] Te est&amp;#225;s encargando de esos {@LinkCreature:42#1300#besharan sellswords}, &amp;#191;verdad? Sin sortijas no hay recompensa.</Page>
+    </Text>
+</QuestDialog>

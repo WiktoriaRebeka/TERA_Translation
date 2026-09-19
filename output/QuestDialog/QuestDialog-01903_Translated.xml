@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">[EN] Not much happening today.&lt;BR&gt;&lt;BR&gt;Find {@LinkCreature:71#3014#Arura} and see if he needs help.&lt;br&gt;[ES] No pasa gran cosa hoy.&lt;BR&gt;&lt;BR&gt;Busca a {@LinkCreature:71#3014#Arura} y mira si necesita ayuda.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">[EN] Always nice to see your face.&lt;BR&gt;&lt;BR&gt;I can use some more fruit, if you're looking for something to do.&lt;BR&gt;&lt;BR&gt;Once you bring those back, just relax for a while and soak up the sun!&lt;br&gt;[ES] Siempre da gusto ver tu cara.&lt;BR&gt;&lt;BR&gt;Me vendr&amp;#237;a bien algo m&amp;#225;s de fruta, si buscas algo que hacer.&lt;BR&gt;&lt;BR&gt;Una vez que los traigas de vuelta, &amp;#161;rel&amp;#225;jate un rato y toma el sol!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">[EN] Great job. &lt;BR&gt;&lt;BR&gt;Now sit down against this wall and peel one of these.&lt;br&gt;[ES] Gran trabajo. &lt;BR&gt;&lt;BR&gt;Ahora si&amp;#233;ntate contra esta pared y pela uno de estos.</Page>
+    </Text>
+</QuestDialog>

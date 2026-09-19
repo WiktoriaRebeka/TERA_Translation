@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="4">[EN] Why would these spiders attack in such an organized fashion? Are they doing their own thinking, or...&lt;BR&gt;&lt;BR&gt;Go talk to Ordinio. He believes something else is controlling them. I laughed at him, of course, but perhaps he was right all along.&lt;BR&gt;&lt;BR&gt;Just talk to him, okay?&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; estas ara&amp;#241;as atacar&amp;#237;an de una manera tan organizada? &amp;#191;Est&amp;#225;n pensando por s&amp;#237; mismas, o...?&lt;BR&gt;&lt;BR&gt;Ve a hablar con Ordinio. &amp;#201;l cree que algo m&amp;#225;s los est&amp;#225; controlando. Me re&amp;#237; de &amp;#233;l, por supuesto, pero tal vez ten&amp;#237;a raz&amp;#243;n todo este tiempo.&lt;BR&gt;&lt;BR&gt;Solo habla con &amp;#233;l, &amp;#191;de acuerdo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1005">
+        <Page social="4">[EN] Oh! Hello! You startled me for a moment. Anyone who's spent time down here gets a little jumpy. It's the sounds they make, the clicks of their claws.&lt;br&gt;[ES] &amp;#161;Oh! &amp;#161;Hola! Me asustaste por un momento. Cualquiera que haya pasado tiempo aqu&amp;#237; abajo se pone un poco nervioso. Son los sonidos que hacen, los chasquidos de sus garras.</Page>
+    </Text>
+</QuestDialog>

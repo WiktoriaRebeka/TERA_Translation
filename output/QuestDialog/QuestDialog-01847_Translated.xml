@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="4">[EN] {@LinkCreature:247#3509} at {@Rgn:47006$$Field Base Lunacy} has a problem he can no longer...bear.&lt;BR&gt;&lt;BR&gt;Find Helvarian and see if you can help him out.&lt;br&gt;[ES] {@LinkCreature:247#3509} en {@Rgn:47006$$Field Base Lunacy} tiene un problema que ya no puede... soportar.&lt;BR&gt;&lt;BR&gt;Busca a Helvarian y mira si puedes ayudarlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="4">[EN] Ah, reinforcements! Just what I hoped for.&lt;BR&gt;&lt;BR&gt;The Tirkai grizzlies and mugatos around the base, not to mention the argonomorph variants, make it too dangerous to do field work.&lt;BR&gt;&lt;BR&gt;Kill them, drive them off&amp;#8212;heck, adopt them and send them to Pora Elinu, just keep them off my back.&lt;br&gt;[ES] &amp;#161;Ah, refuerzos! Justo lo que esperaba.&lt;BR&gt;&lt;BR&gt;Los Tirkai grizzlies y mugatos alrededor de la base, sin mencionar las variantes argonomorph, hacen que sea demasiado peligroso hacer trabajo de campo.&lt;BR&gt;&lt;BR&gt; M&amp;#225;talos, ahuy&amp;#233;ntalos; diablos, ad&amp;#243;ptalos y m&amp;#225;ndalos a Pora Elinu, pero mant&amp;#233;nlos alejados de m&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="2" villagerId="3509">
+        <Page social="4">[EN] Dead bears, happy researcher. Thanks, &lt;PCNAME&gt;.&lt;br&gt;[ES] Osos muertos, investigador feliz. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

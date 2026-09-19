@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">[EN] The argons keep our soldiers and civilian prisoners in the Three Towers.&lt;BR&gt;&lt;BR&gt;I've seen what the argons do to prisoners. It's abominable. We must rescue those poor people.&lt;br&gt;[ES] Los argon mantienen a nuestros soldados y prisioneros civiles en Three Towers.&lt;BR&gt;&lt;BR&gt;He visto lo que los argon les hacen a los prisioneros. Es abominable. Debemos rescatar a esa pobre gente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="4">[EN] I know {@LinkCreature:77#3001#Nithan} briefed you already. Find the prisoners and get them back to {@Rgn:46015$$Hexheart Chamber}.&lt;BR&gt;&lt;BR&gt;We'll have operatives ready to get them to safety.&lt;BR&gt;&lt;BR&gt;This isn't some routine errand. Stay sharp and stay alive. We certainly don't want to have to rescue you.&lt;br&gt;[ES] S&amp;#233; que {@LinkCreature:77#3001#Nithan} ya te inform&amp;#243;. Encuentra a los prisioneros y ll&amp;#233;valos de vuelta a {@Rgn:46015$$Hexheart Chamber}.&lt;BR&gt;&lt;BR&gt;Tendremos operativos listos para llevarlos a un lugar seguro.&lt;BR&gt;&lt;BR&gt;Esto no es un recado rutinario. Mantente alerta y con vida. Desde luego no queremos tener que rescatarte a ti.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3012">
+        <Page social="4">[EN] Thank you so much! I just knew I was...I don't want to think about it.&lt;br&gt;[ES] &amp;#161;Much&amp;#237;simas gracias! Sab&amp;#237;a que estaba... No quiero ni pensar en ello.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="7" villagerId="3013">
+        <Page social="4">[EN] Get me out of here!&lt;br&gt;[ES] &amp;#161;S&amp;#225;came de aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="8" villagerId="3014">
+        <Page social="4">[EN] Thanks for getting me out of there.&lt;BR&gt;&lt;BR&gt;I thought I was a goner for sure.&lt;br&gt;[ES] Gracias por sacarme de ah&amp;#237;.&lt;BR&gt;&lt;BR&gt;Pens&amp;#233; que ya no la contaba.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" prevId="9" villagerId="3002">
+        <Page social="4">[EN] You saved them from a fate far worse than death, &lt;PCNAME&gt;. That's the kind of difference we try to make every day out here.&lt;BR&gt;&lt;BR&gt;Fine work, soldier.&lt;br&gt;[ES] Los salvaste de un destino mucho peor que la muerte, &lt;PCNAME&gt;. Ese es el tipo de diferencia que intentamos marcar todos los d&amp;#237;as por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Buen trabajo, soldado.</Page>
+    </Text>
+</QuestDialog>

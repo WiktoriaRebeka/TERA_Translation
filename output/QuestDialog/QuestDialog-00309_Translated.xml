@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="4">[EN] We may be undermanned here, but we're actually oversupplied, &lt;PCNAME&gt;. A lot of this stuff is just gonna rot in the jungle.&lt;BR&gt;&lt;BR&gt;That benefits no one! I can't abide such waste.&lt;BR&gt;&lt;BR&gt;I'm on supply duty this week, and I got this anonymous note: "Trade supplies for coin&amp;#8212;secret passage to west."&lt;BR&gt;&lt;BR&gt;I'm not saying do the deal, and I'm not saying don't do the deal. I'm saying you should see who shows up at whatever "secret passage" you find.&lt;br&gt;[ES] Puede que aqu&amp;#237; nos falte personal, pero en realidad nos sobran suministros, &lt;PCNAME&gt;. Muchas de estas cosas se van a pudrir en la selva.&lt;BR&gt;&lt;BR&gt;&amp;#161;Eso no beneficia a nadie! No soporto tanto desperdicio.&lt;BR&gt;&lt;BR&gt;Esta semana estoy a cargo de los suministros y recib&amp;#237; esta nota an&amp;#243;nima: &amp;#171;Cambia suministros por monedas: pasaje secreto al oeste&amp;#187;.&lt;BR&gt;&lt;BR&gt;No digo que hagas el trato, y no digo que no lo hagas. Digo que deber&amp;#237;as ver qui&amp;#233;n aparece en cualquier &amp;#171;pasaje secreto&amp;#187; que encuentres.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1009">
+        <Page social="4">[EN] Great supplies, yes...thank you.&lt;BR&gt;&lt;BR&gt;You like working with Dirken, yes? Drives a hard bargain, he does!&lt;br&gt;[ES] Grandes suministros, s&amp;#237;... gracias.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te gusta trabajar con Dirken, s&amp;#237;? &amp;#161;Es duro para negociar, vaya que lo es!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1009">
+        <Page social="0">[EN] You're not Dirken! And no supplies? Outrage!&lt;BR&gt;&lt;BR&gt;We complain to Dirken! And maybe kill you, yes?&lt;br&gt;[ES] &amp;#161;T&amp;#250; no eres Dirken! &amp;#191;Y sin suministros? &amp;#161;Qu&amp;#233; indignaci&amp;#243;n!&lt;BR&gt;&lt;BR&gt;&amp;#161;Nos quejaremos con Dirken! Y tal vez te matemos, &amp;#191;s&amp;#237;?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="3" villagerId="1008">
+        <Page social="4">[EN] Wait...they thought we were working with Dirken?&lt;BR&gt;&lt;BR&gt;Um, &lt;PCNAME&gt;, that isn't exactly good for our careers.&lt;BR&gt;&lt;BR&gt;Wait a minute. That means Dirken is selling federation supplies to the pirates, doesn't it?&lt;br&gt;[ES] Espera... &amp;#191;pensaron que est&amp;#225;bamos trabajando con Dirken?&lt;BR&gt;&lt;BR&gt;Mch, &lt;PCNAME&gt;, eso no es exactamente bueno para nuestras carreras.&lt;BR&gt;&lt;BR&gt;Espera un minuto. Eso significa que Dirken les est&amp;#225; vendiendo suministros de la federaci&amp;#243;n a los piratas, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

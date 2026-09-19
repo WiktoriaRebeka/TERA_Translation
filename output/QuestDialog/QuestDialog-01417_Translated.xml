@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1007">
+        <Page social="5">[EN] I'd like you to check in at the Legion of Arms. Report to Midian at the western door, then get whatever training you need. The masters there are the very best.&lt;br&gt;[ES] Me gustar&amp;#237;a que te presentes en la Legion of Arms. Pres&amp;#233;ntate ante Midian en la puerta oeste y luego recibe el entrenamiento que necesites. Los maestros de all&amp;#237; son los mejores.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1100">
+        <Page social="5">[EN] Hmm. Turn around. Yes. Yes, you'll do fine. We can do a lot with you.&lt;BR&gt;&lt;BR&gt;There are lot of new recruits here, fresh from their adventures, cocky and falsely self-sure. Avoid that trap and you'll live longer.&lt;br&gt;[ES] Mjum. Date la vuelta. S&amp;#237;. S&amp;#237;, lo har&amp;#225;s bien. Podemos hacer mucho contigo.&lt;BR&gt;&lt;BR&gt;Hay muchos reclutos nuevos aqu&amp;#237;, reci&amp;#233;n llegados de sus aventuras, arrogantes y con una falsa seguridad en s&amp;#237; mismos. Evita esa trampa y vivir&amp;#225;s m&amp;#225;s tiempo.</Page>
+    </Text>
+</QuestDialog>

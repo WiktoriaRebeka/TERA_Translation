@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1013">
+        <Page social="4">[EN] {@LinkCreature:49#21} is a potent argon&amp;#8212;my evil opposite, if you will.&lt;BR&gt;&lt;BR&gt;He's behind the argon assault on the Casian Tree. Killing him disrupts their activities and helps ours, while protecting our friend here.&lt;br&gt;[ES] {@LinkCreature:49#21} es un poderoso argon; mi alter ego maligno, por decirlo as&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#201;l est&amp;#225; detr&amp;#225;s del ataque de los argons al Casian Tree. Matarlo interrumpe sus actividades y ayuda a las nuestras, al tiempo que protege a nuestro amigo de aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1013">
+        <Page social="6">[EN] I sense a change in our foes&amp;#8212;and within our ancient ally. The deed is done?&lt;BR&gt;&lt;BR&gt;Excellent.&lt;BR&gt;&lt;BR&gt;I sense this battle is about to come to a head. Thanks to you, we're better prepared.&lt;br&gt;[ES] Siento un cambio en nuestros enemigos y en nuestro antiguo aliado. &amp;#191;El trabajo est&amp;#225; hecho?&lt;BR&gt;&lt;BR&gt;Excelente.&lt;BR&gt;&lt;BR&gt;Siento que esta batalla est&amp;#225; a punto de llegar a su punto &amp;#225;lgido. Gracias a ti, estamos mejor preparados.</Page>
+    </Text>
+</QuestDialog>

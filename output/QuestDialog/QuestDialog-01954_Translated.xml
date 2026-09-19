@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1705">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1705">
+        <Page social="4">[EN] Jax hires only the best. Our people are our best asset.&lt;BR&gt;&lt;BR&gt;And we need some help hiring...hiring workers who'll do anything for the organization, if you know what I mean. See what you can find around Cutthroat Harbor.&lt;br&gt;[ES] Jax solo contrata a los mejores. Nuestra gente es nuestro mejor activo.&lt;BR&gt;&lt;BR&gt;Y necesitamos algo de ayuda para contratar... contratar trabajadores que har&amp;#237;an cualquier cosa por la organizaci&amp;#243;n, si sabes a qu&amp;#233; me refiero. Mira qu&amp;#233; puedes encontrar por Cutthroat Harbor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1707">
+        <Page social="4">[EN] A job with Jax?&lt;BR&gt;&lt;BR&gt;Beats starving. I'm in.&lt;br&gt;[ES] &amp;#191;Un trabajo con Jax?&lt;BR&gt;&lt;BR&gt;Es mejor que morir de hambre. Cuenta conmigo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1708">
+        <Page social="4">[EN] Are you kidding? I'd kill for a job!&lt;br&gt;[ES] &amp;#191;Est&amp;#225;s bromeando? &amp;#161;Matar&amp;#237;a por un trabajo!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="4" villagerId="1705">
+        <Page social="4">[EN] For what we have in mind, those hobos are perfect.&lt;BR&gt;&lt;BR&gt;Take your reward, and remember: this is a labor-intensive industry. We always need more workers who'll do whatever it takes.&lt;br&gt;[ES] Para lo que tenemos en mente, esos vagabundos son perfectos.&lt;BR&gt;&lt;BR&gt;Toma tu recompensa y recuerda: esta es una industria exigente en mano de obra. Siempre necesitamos m&amp;#225;s trabajadores que est&amp;#233;n dispuestos a hacer lo que sea necesario.</Page>
+    </Text>
+</QuestDialog>

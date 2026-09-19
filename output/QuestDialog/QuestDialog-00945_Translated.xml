@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1005">
+        <Page social="4">[EN] You've been a tremendous asset for us. Thank you. Kaleon is stalking several additional threats and could use your help.&lt;BR&gt;&lt;BR&gt;He was heading east, on the upper tiers, last time I saw him.&lt;br&gt;[ES] Has sido un activo tremendo para nosotros. Gracias. Kaleon est&amp;#225; acechando varias amenazas adicionales y podr&amp;#237;a usar tu ayuda.&lt;BR&gt;&lt;BR&gt;Se dirig&amp;#237;a al este, en los niveles superiores, la &amp;#250;ltima vez que lo vi.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1100">
+        <Page social="5">[EN] Welcome, &lt;PCNAME&gt;! You've earned quite the reputation within the Mysterium. Let's see what we can accomplish together!&lt;br&gt;[ES] &amp;#161;Bienvenido, &lt;PCNAME&gt;! Te has ganado una gran reputaci&amp;#243;n dentro del Mysterium. &amp;#161;Veamos qu&amp;#233; podemos lograr juntos!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">[EN] Be prepared. That's my motto, or it would be if I started having a motto.&lt;BR&gt;&lt;BR&gt;If your experience with your leopard friend goes...poorly, I want a soporific on hand to put the beast safely to sleep. Something dreamy would be nice.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Est&amp;#233; preparado. Ese es mi lema, o lo ser&amp;#237;a si empezara a tener un lema.&lt;BR&gt;&lt;BR&gt;Si tu experiencia con tu amigo leopard sale... mal, quiero tener un sopor&amp;#237;fico a mano para dormir a la bestia de forma segura. Algo de ensue&amp;#241;o estar&amp;#237;a bien.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">[EN] Ah, yes. A morpheutic draught. That will do nicely.&lt;BR&gt;&lt;BR&gt;We don't want to hurt the animal, just make it so it doesn't eat your face.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ah, s&amp;#237;. Una morpheutic draught. Eso servir&amp;#225; muy bien.&lt;BR&gt;&lt;BR&gt;No queremos hacerle da&amp;#241;o al animal, solo lograr que no se coma tu cara.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">[EN] I certainly wouldn't approach a beast this size without a draught.&lt;br&gt;[ES] Ciertamente no me acercar&amp;#237;a a una bestia de este tama&amp;#241;o sin una draught.</Page>
+    </Text>
+</QuestDialog>

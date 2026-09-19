@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1010">
+        <Page social="5">[EN] They keep saying we should wait for confirmation, wait to find out why the Tenebrara randomly attacked us.&lt;BR&gt;&lt;BR&gt;Waiting is for cowards! We must take action! They know my plans, though, and if they see me leave, they'll stop me.&lt;BR&gt;&lt;BR&gt;If you get out there and kill enough of them, I'll see to it that you're known for your bravery.&lt;br&gt;[ES] No paran de decir que deber&amp;#237;amos esperar la confirmaci&amp;#243;n, esperar a averiguar por qu&amp;#233; los Tenebrara nos atacaron al azar.&lt;BR&gt;&lt;BR&gt;&amp;#161;Esperar es de cobardes! &amp;#161;Debemos tomar medidas! Sin embargo, conocen mis planes, y si me ven irme, me detendr&amp;#225;n.&lt;BR&gt;&lt;BR&gt;Si vas all&amp;#225; afuera y matas a suficientes de ellos, me encargar&amp;#233; de que seas reconocido por tu valent&amp;#237;a.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1010">
+        <Page social="8">[EN] Ha! Wonderful!&lt;BR&gt;&lt;BR&gt;I'll keep my promise. You'll be known.&lt;br&gt;[ES] &amp;#161;Ja! &amp;#161;Maravilloso!&lt;BR&gt;&lt;BR&gt;Mantendr&amp;#233; mi promesa. Ser&amp;#225;s conocido.</Page>
+    </Text>
+</QuestDialog>

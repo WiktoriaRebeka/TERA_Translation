@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="62" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="183" prevId="0" villagerId="200030">
+        <Page social="0">[EN] We meet again, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The wall between worlds is threatened again.&lt;BR&gt;&lt;BR&gt;An Underworld Nightmare is attacking the wall even as we speak. You must stop them.&lt;BR&gt;&lt;BR&gt;The Underworld Nightmare's power should help restore the wall.&lt;br&gt;[ES] Nos volvemos a encontrar, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;La pared entre los mundos est&amp;#225; amenazada otra vez.&lt;BR&gt;&lt;BR&gt;Un Underworld Nightmare est&amp;#225; atacando la pared incluso mientras hablamos. Debes detenerlos.&lt;BR&gt;&lt;BR&gt;El poder de Underworld Nightmare deber&amp;#237;a ayudar a restaurar la pared.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="200030">
+        <Page social="0">[EN] I can feel the wall strengthening.&lt;BR&gt;&lt;BR&gt;I thank you for your help.&lt;br&gt;[ES] Puedo sentir que la pared se fortalece.&lt;BR&gt;&lt;BR&gt;Te agradezco tu ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="1" villagerId="200030">
+        <Page social="0">[EN] If the wall breaks down, both your world and this one are doomed.&lt;br&gt;[ES] Si la pared se derriba, tanto tu mundo como este est&amp;#225;n condenados.</Page>
+    </Text>
+</QuestDialog>

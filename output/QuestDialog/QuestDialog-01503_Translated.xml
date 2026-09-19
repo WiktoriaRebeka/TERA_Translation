@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="63" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0">[EN] Here, take this design and try to make a Blazing Powder I.&lt;br&gt;[ES] Toma, lleva este dise&amp;#241;o e intenta hacer Blazing Powder I.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1606">
+        <Page social="0">[EN] There is nothing more I can teach you. You now know everything I know about how to create etchings. From now on, improving your skill is up to you. If you upgrade your crafting skill, you can expand your production points.&lt;br&gt;[ES] No hay nada m&amp;#225;s que pueda ense&amp;#241;arte. Ahora sabes todo lo que s&amp;#233; sobre c&amp;#243;mo crear etchings. A partir de ahora, mejorar tu habilidad depende de ti. Si mejoras tu habilidad de artesan&amp;#237;a, puedes expandir tus puntos de producci&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" villagerId="1606">
+        <Page social="0">[EN] Are you unclear on the process, &lt;PCNAME&gt;? Or are you just taking a break?&lt;br&gt;[ES] &amp;#191;No te queda claro el proceso, &lt;PCNAME&gt;? &amp;#191;O solo te est&amp;#225;s tomando un descanso?</Page>
+    </Text>
+</QuestDialog>

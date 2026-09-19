@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1031">
+        <Page social="4">[EN] The only good thing about these massive argon machines is that they're not sentient. Take out their controllers and they're useless&amp;#8212;won't do a blasted thing.&lt;NEXTPAGEBUTTON&gt;"I sense a mission."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Lo &amp;#250;nico bueno de estas masivas m&amp;#225;quinas argon es que no son sintientes. Elimina a sus controladores y ser&amp;#225;n in&amp;#250;tiles; no har&amp;#225;n absolutamente nada.&lt;NEXTPAGEBUTTON&gt;"I sense a mission."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Three dread factors control the navashad&amp;#8212;that giant tentacled monstrosity. Kill them and recover the control mechanism.&lt;BR&gt;&lt;BR&gt;I'll ready what troops I can. With luck, we can take the argons by surprise.&lt;br&gt;[ES] Tres factores de terror controlan al navashad, esa monstruosidad gigantesca con tent&amp;#225;culos. M&amp;#225;talos y recupera el mecanismo de control.&lt;BR&gt;&lt;BR&gt;Preparar&amp;#233; a las tropas que pueda. Con suerte, podremos tomar a los argons por sorpresa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">[EN] The navashad lies dormant? Yes!&lt;BR&gt;&lt;BR&gt;This is what we've needed. The navashad knocks our transports out of the sky and crushes our siege engines. You've aided us immensely.&lt;BR&gt;&lt;BR&gt;I'll get the controller to our best scientists. We'll unlock its mysteries.&lt;br&gt;[ES] &amp;#191;El navashad yace inactivo? &amp;#161;S&amp;#237;!&lt;BR&gt;&lt;BR&gt;Esto es lo que necesit&amp;#225;bamos. El navashad derriba nuestros transportes del cielo y aplasta nuestras m&amp;#225;quinas de asedio. Nos has ayudado enormemente.&lt;BR&gt;&lt;BR&gt;Llevar&amp;#233; el controlador con nuestros mejores cient&amp;#237;ficos. Descifraremos sus misterios.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="5">[EN] Know I can trust you, at least. I'm sure Licinza's a spy. Report a spy, they go to jail. But TRAP a spy and you can use them! I can deal with Licinza, but the cult spymaster {@LinkCreature:17#205#Vilastasia} will figure out about the ledger.&lt;BR&gt;&lt;BR&gt;So we kill him. Yes! Perfect. Protect the secret and the spy. Think you can do it?&lt;br&gt;[ES] S&amp;#233; que al menos puedo confiar en ti. Estoy seguro de que Licinza es una esp&amp;#237;a. Denuncias a una esp&amp;#237;a y va a la c&amp;#225;rcel, &amp;#161;pero si ATRAPAS a una esp&amp;#237;a puedes usarla! Puedo lidiar con Licinza, pero la jefa de esp&amp;#237;as del culto, {@LinkCreature:17#205#Vilastasia}, se enterar&amp;#225; del libro de cuentas.&lt;BR&gt;&lt;BR&gt;As&amp;#237; que la matamos. &amp;#161;S&amp;#237;! Perfecto. Protegemos el secreto y a la esp&amp;#237;a. &amp;#191;Crees que puedes hacerlo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1023">
+        <Page social="5">[EN] Good soldier! Now we send their raiders where we want!&lt;BR&gt;&lt;BR&gt;Winning wars is all about logistics and intelligence. &lt;PCCLASS&gt;, you just helped us with both.&lt;br&gt;[ES] &amp;#161;Buen soldado! &amp;#161;Ahora enviaremos a sus asaltantes a donde queramos!&lt;BR&gt;&lt;BR&gt;Ganar guerras se trata de log&amp;#237;stica e inteligencia. &lt;PCCLASS&gt;, acabas de ayudarnos con ambas.</Page>
+    </Text>
+</QuestDialog>

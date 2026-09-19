@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1016">
+        <Page social="5">[EN] These Scions of Lok aren't fools. We&amp;#8212;I underestimated them badly. Between the orcans to harass us and the kumases and nagas to keep us at bay, they've done too damned well.&lt;BR&gt;&lt;BR&gt;If you could kill more of the nagas, that might give us the chance to take the initiative for once. Take the field and slay several {@LinkCreature:7#23#juggernaut mercenaries}. That ought to get their attention.&lt;br&gt;[ES] Estos Scions of Lok no son tontos. Nosotros... yo los subestim&amp;#233; gravemente. Entre los orcans para acosarnos y los kumases y nagas para mantendernos a raya, lo han hecho demasiado bien.&lt;BR&gt;&lt;BR&gt;Si pudieras matar a m&amp;#225;s nagas, eso podr&amp;#237;a darnos la oportunidad de tomar la iniciativa por una vez. Sal al campo y elimina a varios {@LinkCreature:7#23#juggernaut mercenaries}. Eso deber&amp;#237;a llamar su atenci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1016">
+        <Page social="5">[EN] With those nagas dead, the cultists are vulnerable. I just wish more of my troops were alive to take advantage of it.&lt;BR&gt;&lt;BR&gt;Still, you did good work. Thanks, &lt;PCNAME&gt;.&lt;br&gt;[ES] Con esos nagas muertos, los cultistas son vulnerables. Solo desear&amp;#237;a que m&amp;#225;s de mis tropas estuvieran vivas para aprovecharlo.&lt;BR&gt;&lt;BR&gt;A&amp;#250;n as&amp;#237;, hiciste un buen trabajo. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

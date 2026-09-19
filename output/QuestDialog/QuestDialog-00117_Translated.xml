@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="5">[EN] Pangari is absolutely right&amp;#8212;{@LinkCreature:5#19#Moong} is definitely the number one problem. We've got to eliminate him if we're going to get anywhere with the other tuwangis.&lt;BR&gt;&lt;BR&gt;I only have a handful of soldiers here, though, and I need them right where they are.&lt;BR&gt;&lt;BR&gt;I realize you've done a lot of work for this effort already, but if you could help just a bit longer, we'd be so grateful.&lt;br&gt;[ES] Pangari tiene toda la raz&amp;#243;n: {@LinkCreature:5#19#Moong} es definitivamente el problema n&amp;#250;mero uno. Tenemos que eliminarlo si queremos lograr algo con los otros tuwangis.&lt;BR&gt;&lt;BR&gt;Sin embargo, solo tengo un pu&amp;#241;ado de soldados aqu&amp;#237;, y los necesito justo donde est&amp;#225;n.&lt;BR&gt;&lt;BR&gt;Me doy cuenta de que ya has hecho mucho trabajo para este esfuerzo, pero si pudieras ayudar un poco m&amp;#225;s, estar&amp;#237;amos muy agradecidos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1012">
+        <Page social="5">[EN] Oh, he's finally dead. This is great news. Maybe now the tuwangis will be able to pull their tribes back together once again!&lt;BR&gt;&lt;BR&gt;Then maybe they'll be easier to convince when it comes to scaling back this troublesome swamp.&lt;br&gt;[ES] Ah, por fin est&amp;#225; muerto. Esta es una gran noticia. &amp;#161;Quiz&amp;#225;s ahora los tuwangis puedan volver a unir a sus tribus una vez m&amp;#225;s!&lt;BR&gt;&lt;BR&gt;Entonces tal vez sea m&amp;#225;s f&amp;#225;cil convencerlos cuando se trate de reducir este molesto pantano.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1012">
+        <Page social="0">[EN] You haven't gone yet? Please, either go or tell me that you won't so I can find someone else. It must get done today.&lt;br&gt;[ES] &amp;#191;A&amp;#250;n no te has ido? Por favor, vete o dime que no lo har&amp;#225;s para poder buscar a alguien m&amp;#225;s. Hay que terminarlo hoy.</Page>
+    </Text>
+</QuestDialog>

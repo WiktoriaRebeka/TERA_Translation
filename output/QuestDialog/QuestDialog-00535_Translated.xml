@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="4">[EN] It seems the Kulkari have their own unique chain of command. Those {@LinkCreature:21#5#Crag Stalker Prophets} and {@LinkCreature:21#30#Crag Stalker shamans} over there are like the commanders.&lt;BR&gt;&lt;BR&gt;To the prophets and shamans, as well as the combatants under their control, the staves they carry around are holy. If we take their staves, we will effectively eliminate their objects of worship. &lt;BR&gt;&lt;BR&gt;Once their faith starts to falter, their will to fight will soon follow.&lt;br&gt;[ES] Parece que los kulkari tienen su propia cadena de mando &amp;#250;nica. Esos {@LinkCreature:21#5#Crag Stalker Prophets} y {@LinkCreature:21#30#Crag Stalker shamans} de all&amp;#237; act&amp;#250;an como los comandantes.&lt;BR&gt;&lt;BR&gt;Para los profetas y chamanes, as&amp;#237; como para los combatientes bajo su control, los b&amp;#225;culos que llevan son sagrados. Si les quitamos sus b&amp;#225;culos, eliminaremos efectivamente sus objetos de culto.&lt;BR&gt;&lt;BR&gt;Una vez que su fe empiece a flaquear, su voluntad de luchar no tardar&amp;#225; en hacer lo mismo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1048">
+        <Page social="4">[EN] Look over there! Unrest stewing among the Crag Stalkers, just as we planned! You've done an excellent job.&lt;br&gt;[ES] &amp;#161;Mira hacia all&amp;#225;! &amp;#161;Se est&amp;#225; gestando inquietud entre los Crag Stalkers, tal como lo planeamos! Has hecho un trabajo excelente.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1048">
+        <Page social="0">[EN] The best way to break their morale in half is to eliminate the very objects they worship. You should perhaps hurry up.&lt;br&gt;[ES] La mejor manera de destruir su moral por completo es eliminar los objetos mismos que veneran. Tal vez deber&amp;#237;as darte prisa.</Page>
+    </Text>
+</QuestDialog>

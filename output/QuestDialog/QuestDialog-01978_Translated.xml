@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">[EN] You assisted the Consos Clan with the temple by rekindling the Flames of Sacrifice, Honor, and Mercy.&lt;br&gt;[ES] Ayudaste al Consos Clan con el templo avivando las Llamas del Sacrificio, el Honor y la Misericordia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">[EN] Under the name of Balder! I am Modan.&lt;BR&gt;&lt;BR&gt;It is my duty to maintain the Flames of Balder, so that all who visit the temple might reflect upon his nobility.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, would you like to take charge of my duties for a short time? &lt;NEXTPAGEBUTTON&gt;"It would be an honor."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;En el nombre de Balder! Soy Modan.&lt;BR&gt;&lt;BR&gt;Es mi deber mantener las Llamas de Balder para que todos los que visiten el templo puedan reflexionar sobre su nobleza.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#191;te gustar&amp;#237;a hacerte cargo de mis deberes por un corto tiempo? &lt;NEXTPAGEBUTTON&gt;"It would be an honor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Visit each of the three flames, in turn. Ensure that they are burning, and do not lack for fuel.&lt;BR&gt;&lt;BR&gt;Spend as much time at each flame as you like; think about what Balder's sacrifice, honor, and mercy mean to you. When you have seen to each of the three flames, return to me here.&lt;br&gt;[ES] Visita cada una de las tres llamas a su vez. Aseg&amp;#250;rate de que est&amp;#233;n ardiendo y no les falte combustible.&lt;BR&gt;&lt;BR&gt;Pasa todo el tiempo que quieras en cada llama; piensa en lo que significan para ti el sacrificio, el honor y la misericordia de Balder. Cuando hayas visto cada una de las tres llamas, regresa conmigo aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="8101">
+        <Page social="4">[EN] The Flame of Sacrifice is burning brightly.&lt;br&gt;[ES] La Llama del Sacrificio est&amp;#225; ardiendo intensamente.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="8102">
+        <Page social="4">[EN] The Flame of Honor is burning properly.&lt;br&gt;[ES] La Llama del Honor est&amp;#225; ardiendo adecuadamente.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="8103">
+        <Page social="4">[EN] The Flame of Mercy is burning warmly.&lt;br&gt;[ES] La Llama de la Misericordia est&amp;#225; ardiendo c&amp;#225;lidamente.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="3" villagerId="7001">
+        <Page social="4">[EN] Thank you for your work. I trust you feel closer to Balder now?&lt;BR&gt;&lt;BR&gt;Ah, I had almost forgotten. Please accept these small tokens of the Consos Clan's appreciation.&lt;br&gt;[ES] Gracias por tu trabajo. Conf&amp;#237;o en que ahora te sientas m&amp;#225;s cerca de Balder.&lt;BR&gt;&lt;BR&gt;Ah, casi lo olvidaba. Por favor, acepta estas peque&amp;#241;as muestras de agradecimiento del Consos Clan.</Page>
+    </Text>
+</QuestDialog>

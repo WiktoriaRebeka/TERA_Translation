@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="4">[EN] Take a good look. Drink it in. You stand before the most influential person you will ever meet.&lt;BR&gt;&lt;BR&gt;Well, I will be as soon as my goods arrive. Stupid carriage is three days late! If I go check on it, it will show up as soon as I leave. It's always the way.&lt;BR&gt;&lt;BR&gt;Can you go find it? I am willing to part with some money if that'd help.&lt;br&gt;[ES] &amp;#201;chale un buen vistazo. Emp&amp;#225;pate de esto. Est&amp;#225;s ante la persona m&amp;#225;s influyente que jam&amp;#225;s conocer&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Bueno, lo ser&amp;#233; en cuanto llegue mi mercanc&amp;#237;a. &amp;#161;El est&amp;#250;pido carruaje lleva tres d&amp;#237;as de retraso! Si voy a ver qu&amp;#233; pasa, aparecer&amp;#225; en cuanto me vaya. Siempre pasa lo mismo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ir a buscarlo? Estoy dispuesto a dar algo de dinero si eso ayuda.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1029">
+        <Page social="0">[EN] (This carriage is destroyed. Supplies and merchants' goods lie scattered everywhere. Everything of value is already gone.&lt;BR&gt;&lt;BR&gt;It was most likely attacked by {@LinkCreature:18#3#Desert Fire ragers}s. They probably have the missing goods.)&lt;br&gt;[ES] (Este carruaje est&amp;#225; destruido. Suministros y mercanc&amp;#237;as de comerciantes yacen esparcidos por todas partes. Todo lo de valor ya ha desaparecido.&lt;BR&gt;&lt;BR&gt;Lo m&amp;#225;s probable es que haya sido atacado por {@LinkCreature:18#3#Desert Fire ragers}s. Probablemente tengan la mercanc&amp;#237;a faltante.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1028">
+        <Page social="4">[EN] Oh no! So much money dissolved into the sand....&lt;BR&gt;&lt;BR&gt;Well, thank you for what you were able to bring back.&lt;br&gt;[ES] &amp;#161;Oh, no! Tanto dinero disuelto en la arena...&lt;BR&gt;&lt;BR&gt;Bueno, gracias por lo que pudiste traer de vuelta.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1028">
+        <Page social="0">[EN] Keep an eye on those Desert Fire {@LinkCreature:18#2#shamans} and {@LinkCreature:18#3#ragers}!&lt;br&gt;[ES] &amp;#161;Vigila a esos {@LinkCreature:18#2#shamans} y {@LinkCreature:18#3#ragers} de Desert Fire!</Page>
+    </Text>
+</QuestDialog>

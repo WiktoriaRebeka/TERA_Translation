@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="2504">
+        <Page social="4" voiceTypeId="0">[EN] I'm Elleon.&lt;BR&gt;&lt;BR&gt;Titus and I are trying to fend off Exodor's invasion.&lt;BR&gt;&lt;BR&gt;We really could use your help.&lt;br&gt;[ES] Soy Elleon.&lt;BR&gt;&lt;BR&gt;Titus y yo estamos intentando repeler la invasi&amp;#243;n de Exodor.&lt;BR&gt;&lt;BR&gt;Realmente nos vendr&amp;#237;a bien tu ayuda.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] You&amp;#8217;ve helped Elleon destroy Exodor.&lt;BR&gt;&lt;BR&gt;But the other Elleon, the powerful one, has disappeared.&lt;br&gt;[ES] Has ayudado a Elleon a destruir Exodor.&lt;BR&gt;&lt;BR&gt;Pero el otro Elleon, el poderoso, ha desaparecido.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="2504">
+        <Page social="4">[EN] Thank you.&lt;BR&gt;&lt;BR&gt;I would have been in big trouble if it weren&amp;#8217;t for you.&lt;NEXTPAGEBUTTON&gt;"I&amp;#8217;m glad."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Gracias.&lt;BR&gt;&lt;BR&gt;Habr&amp;#237;a estado en un gran aprieto si no fuera por ti.&lt;NEXTPAGEBUTTON&gt;"I&amp;#8217;m glad."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] By the way, that other me was incomparably more powerful than myself.&lt;BR&gt;&lt;BR&gt;Okay!&lt;BR&gt;&lt;BR&gt;I&amp;#8217;d better train hard.&lt;br&gt;[ES] Por cierto, ese otro yo era incomparablemente m&amp;#225;s poderoso que yo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Bien!&lt;BR&gt;&lt;BR&gt;Ser&amp;#225; mejor que entrene duro.</Page>
+    </Text>
+</QuestDialog>

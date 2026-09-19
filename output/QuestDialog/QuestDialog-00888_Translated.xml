@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1016">
+        <Page social="9">[EN] Runicar Research Post wants supplies, but it's been forever since we've been resupplied ourselves.&lt;BR&gt;&lt;BR&gt;The eldritch reapers, on the other hand, seem to have excellent equipment. Killian must have better supply lines...&lt;BR&gt;&lt;BR&gt;No reason we can't benefit from Killian's dedication to logistics, huh? Take the reapers' supplies, then bring them to Runicar.&lt;br&gt;[ES] El Runicar Research Post necesita suministros, pero ha pasado una eternidad desde que nos reabastecimos por &amp;#250;ltima vez.&lt;BR&gt;&lt;BR&gt;Los eldritch reapers, por otro lado, parecen tener un equipo excelente. Killian debe tener mejores l&amp;#237;neas de suministro...&lt;BR&gt;&lt;BR&gt;No hay raz&amp;#243;n por la que no podamos beneficiarnos de la dedicaci&amp;#243;n de Killian a la log&amp;#237;stica, &amp;#191;eh? Toma los suministros de los reapers y ll&amp;#233;valos a Runicar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1010">
+        <Page social="14">[EN] Now our camp can do its job. About time we saw some supplies around here!&lt;br&gt;[ES] Ahora nuestro campamento puede hacer su trabajo. &amp;#161;Ya era hora de que vi&amp;#233;ramos algunos suministros por aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1010">
+        <Page social="0">[EN] What is it?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; pasa?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] The effect of potion suddenly faded in the heart of enemy territory, but &lt;PCNAME&gt; escaped swiftly, defeating enemies along the way.&lt;br&gt;[ES] El efecto de la poci&amp;#243;n se desvaneci&amp;#243; de repente en el coraz&amp;#243;n del territorio enemigo, pero &lt;PCNAME&gt; escap&amp;#243; r&amp;#225;pidamente, derrotando a los enemigos en el camino.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] (Hagand's invisibility potion has worn off! The Parthians can see you&amp;#8212;and they don't look happy about it!)&lt;br&gt;[ES] (&amp;#161;La poci&amp;#243;n de invisibilidad de Hagand se ha agotado! Los Parthians pueden verte, &amp;#161;y no parecen muy felices por eso!)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3001">
+        <Page social="4" voiceTypeId="0">[EN] I talked to Hagand, and he told me that he'd given you an invisibility potion. Didn't you bother with it?&lt;BR&gt;&lt;BR&gt;Typical &lt;PCNAME&gt;! No wonder everyone's always talking about you!&lt;BR&gt;&lt;BR&gt;Did you get the Relativity Stones?&lt;NEXTPAGEBUTTON&gt;"Got about a dozen of them."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Habl&amp;#233; con Hagand y me dijo que te hab&amp;#237;a dado una poci&amp;#243;n de invisibilidad. &amp;#191;Acaso no la usaste?&lt;BR&gt;&lt;BR&gt;&amp;#161;El t&amp;#237;pico &lt;PCNAME&gt;! &amp;#161;Con raz&amp;#243;n todo el mundo siempre habla de ti!&lt;BR&gt;&lt;BR&gt;&amp;#191;Conseguiste las Relativity Stones?&lt;NEXTPAGEBUTTON&gt;"Got about a dozen of them."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

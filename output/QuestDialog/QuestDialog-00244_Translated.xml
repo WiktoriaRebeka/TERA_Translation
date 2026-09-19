@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1006">
+        <Page social="0">[EN] There's more to be done, but you're being transferred. You've done good work. I hate to lose you.&lt;BR&gt;&lt;BR&gt;Head to Kerozen Isle and check in with Ecryl at the Beachhead. Get moving!&lt;br&gt;[ES] Hay m&amp;#225;s por hacer, pero te van a reasignar. Has hecho un buen trabajo. Me da pena perderte.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a Kerozen Isle y pres&amp;#233;ntate ante Ecryl en el Beachhead. &amp;#161;En marcha!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1001">
+        <Page social="0">[EN] This is the major naga stronghold in Southern Arun. If we can keep them bottled up, everyone benefits.&lt;BR&gt;&lt;BR&gt;I'm told the slithering fools are trying to wake Dagon up. Let them waste their time and resources. Makes 'em easier to fight. See what Edine needs you to do and get on it.&lt;br&gt;[ES] Esta es la principal fortaleza naga en el sur de Arun. Si podemos mantenerlos retenidos, todos salimos ganando.&lt;BR&gt;&lt;BR&gt;Me han dicho que esos idiotas escamosos est&amp;#225;n intentando despertar a Dagon. Que desperdicien su tiempo y recursos. As&amp;#237; ser&amp;#225; m&amp;#225;s f&amp;#225;cil luchar contra ellos. Averigua qu&amp;#233; necesita que hagas Edine y ponte a ello.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="3" villagerId="1002">
+        <Page social="0">[EN] Kerozen Isle is dangerous, but strategically valuable. Almost everything there wants to kill us, but that should sound familiar, eh &lt;PCNAME&gt;?&lt;br&gt;[ES] Kerozen Isle es peligrosa, pero estrat&amp;#233;gicamente valiosa. Casi todo lo que hay ah&amp;#237; quiere matarnos, pero eso deber&amp;#237;a resultarte familiar, &amp;#191;eh, &lt;PCNAME&gt;?</Page>
+    </Text>
+</QuestDialog>

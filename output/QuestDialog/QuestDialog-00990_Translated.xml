@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0">[EN] Many of your soldiers have poisoned themselves by eating unknown plants. I know something that will help.&lt;BR&gt;&lt;BR&gt;On either side of the Black Claw stronghold are &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-25525,64884,1811&amp;type=1&amp;name=Caves"&gt;caves&lt;/A&gt;&lt;/font&gt;. Inside grow &lt;font color='#660000'&gt;azurebond stalks&lt;/font&gt;, whose flowers neutralize many kinds of poison. Bring some to {@LinkCreature:241#1019$$Hoorik} to make antidotes for your soldiers.&lt;BR&gt;&lt;BR&gt;After all, we're friends now.&lt;br&gt;[ES] Muchos de vuestros soldados se han envenenado al comer plantas desconocidas. S&amp;#233; algo que ayudar&amp;#225;.&lt;BR&gt;&lt;BR&gt;A ambos lados de la fortaleza de los Black Claw hay &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7013#-25525,64884,1811&amp;type=1&amp;name=Caves&quot;&gt;caves&lt;/A&gt;&lt;/font&gt;. Dentro crecen &lt;font color='#660000'&gt;azurebond stalks&lt;/font&gt;, cuyas flores neutralizan muchos tipos de veneno. Ll&amp;#233;gale algunas a {@LinkCreature:241#1019$$Hoorik} para hacer ant&amp;#237;dotos para tus soldados.&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de todo, ahora somos amigos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1019">
+        <Page social="0">[EN] I've made an antidote from the juice of the azurebond flowers. Give it to {@LinkCreature:241#1003#Jaebel}. She may trust it more if it comes from you.&lt;br&gt;[ES] He hecho un ant&amp;#237;doto con el jugo de las flores azurebond. D&amp;#225;selo a {@LinkCreature:241#1003#Jaebel}. Puede que conf&amp;#237;e m&amp;#225;s en &amp;#233;l si viene de ti.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1019">
+        <Page social="0">[EN] The cave entrance is near the Black Claw stronghold. The flowers grow inside.&lt;br&gt;[ES] La entrada de la cueva est&amp;#225; cerca de la fortaleza de los Black Claw. Las flores crecen dentro.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="3" villagerId="1003">
+        <Page social="4">[EN] You say Hoorik sent it? He seems friendly, but I'll try it first, just in case.&lt;BR&gt;&lt;BR&gt;Eeeurgh. That's foul, but I feel all right. I doubt it will harm anyone. If it actually helps my soldiers, I'll send Kabalka a special gift of kamara meat! Thanks for your help, &lt;PCNAME&gt;.&lt;br&gt;[ES] &amp;#191;Dices que lo mand&amp;#243; Hoorik? Parece amistoso, pero lo probar&amp;#233; primero, por si acaso.&lt;BR&gt;&lt;BR&gt;Eeeurgh. Sabe mal, pero me siento bien. Dudo que le haga da&amp;#241;o a nadie. Si realmente ayuda a mis soldados, &amp;#161;le enviar&amp;#233; a Kabalka un regalo especial de carne de kamara! Gracias por tu ayuda, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

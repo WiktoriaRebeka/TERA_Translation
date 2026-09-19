@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="5">[EN] From what I know of gulas, their alliance with the nagas is a business arrangement. What I'd like to know is, what kind of business?&lt;BR&gt;&lt;BR&gt; And what do the {@LinkCreature:42#1200#naga masakari} know about it?&lt;BR&gt;&lt;BR&gt;Let me know what you find out.&lt;br&gt;[ES] Por lo que s&amp;#233; de los gulas, su alianza con los nagas es un acuerdo de negocios. Lo que me gustar&amp;#237;a saber es, &amp;#191;qu&amp;#233; clase de negocios?&lt;BR&gt;&lt;BR&gt; &amp;#191;Y qu&amp;#233; saben los {@LinkCreature:42#1200#naga masakari} al respecto?&lt;BR&gt;&lt;BR&gt;Av&amp;#237;same qu&amp;#233; descubres.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1035">
+        <Page social="4">[EN] I don't know what you've got there, but {@LinkCreature:242#1036#Bartosia} might be able to make sense of it. Ask her to look it over.&lt;br&gt;[ES] No s&amp;#233; qu&amp;#233; tienes ah&amp;#237;, pero {@LinkCreature:242#1036#Bartosia} podr&amp;#237;a darle sentido. P&amp;#237;dele que le eche un vistazo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1035">
+        <Page social="0">[EN] Are the {@LinkCreature:42#1200#naga masakaris} a bit tougher than you expected? I hope you're up to the job, &lt;PCNAME&gt;.&lt;br&gt;[ES] &amp;#191;Son los {@LinkCreature:42#1200#naga masakaris} un poco m&amp;#225;s duros de lo que esperabas? Espero que est&amp;#233;s a la altura del trabajo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="3" villagerId="1036">
+        <Page social="5">[EN] It's basically a contract. It says the gulas provide the muscle, the nagas kidnap people from around Frontera and deliver them back to the gulas. Oh, no...&lt;BR&gt;&lt;BR&gt;It also says the gulas are selling those people into slavery.&lt;BR&gt;&lt;BR&gt;Ibar needs to know of this right away. Go to Frontera as soon as you can.&lt;br&gt;[ES] B&amp;#225;sicamente es un contrato. Dice que los gulas ponen la fuerza bruta, y los nagas secuestran gente por los al rededores de Frontera y se la entregan a los gulas. Oh, no...&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n dice que los gulas est&amp;#225;n vendiendo a esa gente como esclavos.&lt;BR&gt;&lt;BR&gt;Ibar necesita saber esto de inmediato. Ve a Frontera tan pronto como puedas.</Page>
+    </Text>
+</QuestDialog>

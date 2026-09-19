@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="4">[EN] I could give Shalim more personal instruction if I wasn't always worried about being attacked by giants.&lt;BR&gt;&lt;BR&gt;They're vicious and come out of nowhere!&lt;BR&gt;&lt;BR&gt;If you kill some {@LinkCreature:34#1000#icecleaver giants}, I'll make time to tutor Shalim, but I won't risk his life just to ease his boredom.&lt;br&gt;[ES] Podr&amp;#237;a darle a Shalim una instrucci&amp;#243;n m&amp;#225;s personal si no estuviera siempre preocupado por ser atacado por gigantes.&lt;BR&gt;&lt;BR&gt;&amp;#161;Son feroces y aparecen de la nada!&lt;BR&gt;&lt;BR&gt;Si matas a algunos {@LinkCreature:34#1000#icecleaver giants}, me har&amp;#233; tiempo para tutorizar a Shalim, pero no arriesgar&amp;#233; su vida solo para aliviar su aburrimiento.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1012">
+        <Page social="4">[EN] Your skill shames mine, &lt;PCNAME&gt;. I am glad the federation has soldiers like you out here.&lt;BR&gt;&lt;BR&gt;Thanks for thinning out the giants. Shalim will be elated!&lt;br&gt;[ES] Tu habilidad averg&amp;#252;za a la m&amp;#237;a, &lt;PCNAME&gt;. Me alegra que la federaci&amp;#243;n tenga soldados como t&amp;#250; por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias por reducir el n&amp;#250;mero de gigantes. Shalim estar&amp;#225; euf&amp;#243;rico!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1012">
+        <Page social="0">[EN] If the giants are eliminated, the miners will benefit greatly. Everyone prospers&amp;#8212;except the giants.&lt;br&gt;[ES] Si los gigantes son eliminados, los mineros se beneficiar&amp;#225;n enormemente. Todos prosperan, excepto los gigantes.</Page>
+    </Text>
+</QuestDialog>

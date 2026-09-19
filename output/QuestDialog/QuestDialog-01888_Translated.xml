@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">[EN] Seen the sloths yet? Like them?&lt;BR&gt;&lt;BR&gt;No? Want to do something about them?&lt;BR&gt;&lt;BR&gt;Go see {@LinkCreature:71#3014#Arura}.&lt;br&gt;[ES] &amp;#191;Has visto a los perezosos ya? &amp;#191;Te gustan?&lt;BR&gt;&lt;BR&gt;&amp;#191;No? &amp;#191;Quieres hacer algo al respecto?&lt;BR&gt;&lt;BR&gt;Ve a ver a {@LinkCreature:71#3014#Arura}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">[EN] Hey, hero! Guessing you've got your share of sloth bites, eh?&lt;BR&gt;&lt;BR&gt;Time to get even. That fruit they love? Bring me as many as you can carry.&lt;BR&gt;&lt;BR&gt;Easy! Just shake a few {@WorkObject:75}s.&lt;br&gt;[ES] &amp;#161;Oye, h&amp;#233;roe! Supongo que ya te habr&amp;#225;s ganado tu buena parte de mordiscos de perezoso, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Es hora de desquitarse. &amp;#191;Esa fruta que tanto les gusta? Tr&amp;#225;eme todas las que puedas cargar.&lt;BR&gt;&lt;BR&gt;&amp;#161;F&amp;#225;cil! Solo sacude unos cuantos {@WorkObject:75}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">[EN] Great job. Now the fun part&amp;#8212;poisoning them!&lt;BR&gt;&lt;BR&gt;Don't worry. Only things here that eat 'em are the sloths!&lt;BR&gt;&lt;BR&gt;And me.&lt;br&gt;[ES] Gran trabajo. Ahora viene la parte divertida: &amp;#161;envenenarlos!&lt;BR&gt;&lt;BR&gt;No te preocupes. &amp;#161;Las &amp;#250;nicas cosas aqu&amp;#237; que se los comen son los perezosos!&lt;BR&gt;&lt;BR&gt;Y yo.</Page>
+    </Text>
+</QuestDialog>

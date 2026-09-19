@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="6">[EN] We left a lot of weapons out there on the battlefield, and a lot of comrades, too. We can't get our friends back, but having those weapons back would make a big difference.&lt;BR&gt;&lt;BR&gt;Will you help?&lt;br&gt;[ES] Dejamos muchas armas en el campo de batalla, y tambi&amp;#233;n a muchos camaradas. No podemos recuperar a nuestros amigos, pero recuperar esas armas marcar&amp;#237;a una gran diferencia.&lt;BR&gt;&lt;BR&gt;&amp;#191;Nos ayudar&amp;#225;s?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1007">
+        <Page social="7">[EN] Bless you, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;If we're as brave as you, we'll be all right.&lt;br&gt;[ES] &amp;#161;Dios te bendiga, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Si somos tan valientes como t&amp;#250;, saldremos adelante.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1007">
+        <Page social="0">[EN] We really need those weapons.&lt;br&gt;[ES] De verdad necesitamos esas armas.</Page>
+    </Text>
+</QuestDialog>

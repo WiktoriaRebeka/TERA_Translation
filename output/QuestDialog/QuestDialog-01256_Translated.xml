@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1001">
+        <Page social="4">[EN] The Legion of Thulsa are awake and heading down south from the Vale of Spires. They're not yet posing a threat, but they're gathering, and that's not good.&lt;BR&gt;&lt;BR&gt;I want you to move on the Cursed Legion Praetors and their leader, Bosskar.&lt;br&gt;[ES] La Legi&amp;#243;n de Thulsa ha despertado y se dirige hacia el sur desde el Vale of Spires. Todav&amp;#237;a no representan una amenaza, pero se est&amp;#225;n reuniendo, y eso no es bueno.&lt;BR&gt;&lt;BR&gt;Quiero que vayas tras los Cursed Legion Praetors y su l&amp;#237;der, Bosskar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1001">
+        <Page social="4">[EN] Outstanding! You eliminated the legion singlehandedly. Kaia must be watching your every move!&lt;br&gt;[ES] &amp;#161;Sobresaliente! Eliminaste a la legi&amp;#243;n t&amp;#250; solo. &amp;#161;Kaia debe estar vigilando cada uno de tus movimientos!</Page>
+    </Text>
+</QuestDialog>

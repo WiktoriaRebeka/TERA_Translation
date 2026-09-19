@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Having annihilated the Lok believers, you returned to Velika.&lt;BR&gt;&lt;BR&gt;Commander Seir organized a ceremony to celebrate your achievements, and Elleon complimented you for playing a pivotal role in bringing down the Scions of Lok.&lt;br&gt;[ES] Tras haber aniquilado a los creyentes de Lok, regresaste a Velika.&lt;BR&gt;&lt;BR&gt;El comandante Seir organiz&amp;#243; una ceremonia para celebrar tus logros, y Elleon te felicit&amp;#243; por jugar un papel fundamental en la ca&amp;#237;da de los Scions of Lok.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] Mission Orders&lt;BR&gt;&lt;BR&gt;Report to Baruch in Tulufan when circumstances permit.&lt;br&gt;[ES] &amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate ante Baruch en Tulufan cuando las circunstancias lo permitan.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">[EN] There you are! Glad to see you made it back.&lt;BR&gt;&lt;BR&gt;Velika's planned an event to celebrate the defeat of the Scions of Lok! They want you there right away. Troius will be waiting for you at the pegasus platform.&lt;br&gt;[ES] &amp;#161;Ah&amp;#237; est&amp;#225;s! Qu&amp;#233; bueno ver que lograste volver.&lt;BR&gt;&lt;BR&gt;&amp;#161;Velika ha planeado un evento para celebrar la derrota de los Scions of Lok! Te quieren all&amp;#237; de inmediato. Troius te estar&amp;#225; esperando en la plataforma de pegasos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1107">
+        <Page social="4" voiceTypeId="0">[EN] &lt;PCNAME&gt;, I heard about how you helped Elleon. Tremendous job! You have to tell Uriela you're here. She wanted to talk to you.&lt;br&gt;[ES] &lt;PCNAME&gt;, me enter&amp;#233; de c&amp;#243;mo ayudaste a Elleon. &amp;#161;Un trabajo tremendo! Tienes que decirle a Uriela que est&amp;#225;s aqu&amp;#237;. Quer&amp;#237;a hablar contigo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1101">
+        <Page social="4" voiceTypeId="0">[EN] &lt;PCNAME&gt;! Everyone's talking about your gallantry and heroism today!&lt;BR&gt;&lt;BR&gt;Commander Seir is waiting for you inside.&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! &amp;#161;Todos hablan de tu valent&amp;#237;a y hero&amp;#237;smo de hoy!&lt;BR&gt;&lt;BR&gt;El comandante Seir te espera adentro.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1102">
+        <Page social="4" voiceTypeId="0">[EN] You've done great work, &lt;PCNAME&gt;! Your toppling the Scions of Lok&amp;#8212;again&amp;#8212;is no mean feat.&lt;BR&gt;&lt;BR&gt;We are proud to have you in our ranks. You're a credit to the service and the entire federation! Elleon is looking for you as well. Don't keep him waiting.&lt;br&gt;[ES] &amp;#161;Has hecho un gran trabajo, &lt;PCNAME&gt;! Derrocar a los Scions of Lok, otra vez, no es poca cosa.&lt;BR&gt;&lt;BR&gt;Estamos orgullosos de tenerte en nuestras filas. &amp;#161;Eres un honor para el servicio y para toda la federaci&amp;#243;n! Elleon tambi&amp;#233;n te est&amp;#225; buscando. No lo hagas esperar.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1169">
+        <Page social="4" voiceTypeId="0">[EN] It's hard to chastise a hero for being late to their own celebration, though we were thinking of ways to try!&lt;BR&gt;&lt;BR&gt;Come! Let's not keep Seir waiting any longer. He so adores this sort of thing.&lt;br&gt;[ES] Es dif&amp;#237;cil rega&amp;#241;ar a un h&amp;#233;roe por llegar tarde a su propia celebraci&amp;#243;n, &amp;#161;aunque estuvimos pensando en formas de intentarlo!&lt;BR&gt;&lt;BR&gt;&amp;#161;Ven! No hagamos esperar m&amp;#225;s a Seir. Le fascina este tipo de cosas.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1169">
+        <Page social="4" voiceTypeId="0">[EN] Your courage helped uncover the traitorous Samael, the insidious Scions of Lok, and not one, but two threats to kill Velik.&lt;BR&gt;&lt;BR&gt;The Valkyon Federation is still in danger&amp;#8212;our work is never done, but with allies like you, we can dream of a brighter future. It's been a tremendous honor to work with you, &lt;PCNAME&gt;. We shall, as always, remember.&lt;br&gt;[ES] Tu valor ayud&amp;#243; a descubrir al traicionero Samael, a los insidiosos Scions of Lok y ni a una, sino a dos amenazas para matar a Velik.&lt;BR&gt;&lt;BR&gt;La Valkyon Federation sigue en peligro; nuestro trabajo nunca termina, pero con aliados como t&amp;#250;, podemos so&amp;#241;ar con un futuro m&amp;#225;s brillante. Ha sido un honor tremendo trabajar contigo, &lt;PCNAME&gt;. Te recordaremos, como siempre.</Page>
+    </Text>
+</QuestDialog>

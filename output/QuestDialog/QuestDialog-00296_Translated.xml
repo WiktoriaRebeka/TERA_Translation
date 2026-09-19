@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1012">
+        <Page social="4">[EN] The Press Camp...we called it that because anyone who was captured was pressed in to service.&lt;BR&gt;&lt;BR&gt;Now we're using it to press on. The camp's location turned out to be more important than we thought, and we've managed to hold on to it through thick and thin.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:11#1009#Red Lash reapers} are trying to take it from us. Stop them, &lt;PCNAME&gt;!&lt;br&gt;[ES] El campamento de la prensa... lo llam&amp;#225;bamos as&amp;#237; porque cualquiera que fuera capturado era reclutado a la fuerza.&lt;BR&gt;&lt;BR&gt;Ahora lo usamos para seguir adelante. La ubicaci&amp;#243;n del campamento result&amp;#243; ser m&amp;#225;s importante de lo que pens&amp;#225;bamos, y nos las hemos arreglado para mantenerlo en las buenas y en las malas.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:11#1009#Red Lash reapers} est&amp;#225;n intentando arrebat&amp;#225;rnoslo. &amp;#161;Detenlos, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1012">
+        <Page social="4">[EN] That's a lot of kill trophies, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;And now you see why the camp is so important, eh?&lt;br&gt;[ES] Son muchos trofeos de bajas, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Y ahora ves por qu&amp;#233; el campamento es tan importante, &amp;#191;eh?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1012">
+        <Page social="0">[EN] {@LinkCreature:11#1009#Red Lash reapers} want this camp. And we're not giving it to them!&lt;br&gt;[ES] Los {@LinkCreature:11#1009#Red Lash reapers} quieren este campamento. &amp;#161;Y no se lo vamos a dar!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="18">[EN] I've suspected the Tenebrara for some time. I've been sending a scout to keep an eye out just in case I was right.&lt;BR&gt;&lt;BR&gt;Go meet up with Pastin and find out what's going on.&lt;br&gt;[ES] He sospechado de los Tenebrara desde hace alg&amp;#250;n tiempo. He estado enviando a un explorador para vigilar por si acaso ten&amp;#237;a raz&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ve a reunirte con Pastin y averigua qu&amp;#233; est&amp;#225; pasando.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1028">
+        <Page social="5">[EN] Hmm? Oh, Tarnan sent you to collect the report?&lt;BR&gt;&lt;BR&gt;Well, let's see. I've been watching these Tenebrara priests for a few days now. They've been casting spell after spell. Some of them look exhausted.&lt;BR&gt;&lt;BR&gt;I'm not sure what their motivation is, but I'm pretty sure their spells are what's affecting all the nearby animals. We can't just let them keep on.&lt;br&gt;[ES] &amp;#191;Mh? &amp;#191;Ah, Tarnan te envi&amp;#243; a recoger el informe?&lt;BR&gt;&lt;BR&gt;Bueno, veamos. Llevo unos d&amp;#237;as observando a estos sacerdotes Tenebrara. Han estado lanzando hechizo tras hechizo. Algunos de ellos se ven exhaustos.&lt;BR&gt;&lt;BR&gt;No estoy seguro de cu&amp;#225;l sea su motivaci&amp;#243;n, pero estoy bastante seguro de que sus hechizos son los que est&amp;#225;n afectando a todos los animales cercanos. No podemos simplemente dejar que sigan as&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1028">
+        <Page social="10">[EN] That can't have been easy. Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Now that we've managed to put a hold on these spells, we should find out what's caused the Tenebrara's sudden change in behavior.&lt;BR&gt;&lt;BR&gt;Search the documents in their base. See if you can find any clues.&lt;br&gt;[ES] Eso no debi&amp;#243; haber sido f&amp;#225;cil. Gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ahora que hemos logrado detener estos hechizos, deber&amp;#237;amos averiguar qu&amp;#233; caus&amp;#243; el repentino cambio de comportamiento de los Tenebrara.&lt;BR&gt;&lt;BR&gt;Busca en los documentos de su base. Mira si puedes encontrar alguna pista.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="236" prevId="4" villagerId="1111">
+        <Page social="1">[EN] (There is a scroll in this file cabinet.)&lt;NEXTPAGEBUTTON&gt;Read the scroll.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] (Hay un pergamino en este archivador.)&lt;NEXTPAGEBUTTON&gt;Read the scroll.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2">[EN] (The scroll reads:&lt;BR&gt;&lt;BR&gt;Thulsa has not abandoned you, but you have let yourselves become weak.&lt;BR&gt;&lt;BR&gt;You must regroup and collect your strength before you can continue.&lt;BR&gt;&lt;BR&gt;-Killian)&lt;br&gt;[ES] (El pergamino dice:&lt;BR&gt;&lt;BR&gt;Thulsa no los ha abandonado, pero se han dejado debilitar.&lt;BR&gt;&lt;BR&gt;Deben reagruparse y recuperar sus fuerzas antes de poder continuar.&lt;BR&gt;&lt;BR&gt;-Killian)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="236" prevId="5" villagerId="1028">
+        <Page social="9">[EN] Killian? He must have gotten the Tenebrara leaders on his side. That explains so much.&lt;BR&gt;&lt;BR&gt;Unfortunately, that means this is worse than I thought.&lt;BR&gt;&lt;BR&gt;Can you catch Tarnan up on what's going on?&lt;br&gt;[ES] &amp;#191;Killian? Debe haber puesto a los l&amp;#237;deres Tenebrara de su lado. Eso lo explica casi todo.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, eso significa que esto es peor de lo que pensaba.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes poner al d&amp;#237;a a Tarnan sobre lo que est&amp;#225; pasando?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="236" prevId="6" villagerId="1004">
+        <Page social="10">[EN] Killian?&lt;BR&gt;&lt;BR&gt;Oh, this is terrible. I must speak to Melrasa right away.&lt;BR&gt;&lt;BR&gt;Thank you. Without your help, we wouldn't have this...horrifying news.&lt;br&gt;[ES] &amp;#191;Killian?&lt;BR&gt;&lt;BR&gt;Oh, esto es terrible. Debo hablar con Melrasa de inmediato.&lt;BR&gt;&lt;BR&gt;Gracias. Sin tu ayuda, no tendr&amp;#237;amos esta... horripilante noticia.</Page>
+    </Text>
+</QuestDialog>

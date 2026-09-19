@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="4">[EN] The argons are here. Of course.&lt;BR&gt;&lt;BR&gt;I don't know whether they're working for Thulsa or vice versa.&lt;BR&gt;&lt;BR&gt;But their presence is...unnatural. It defiles this place, which is practically sacred to my people!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, punish the argons and their leader, Tarnos, for stepping into our furnace!&lt;br&gt;[ES] Los argons est&amp;#225;n aqu&amp;#237;. Por supuesto.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; si est&amp;#225;n trabajando para Thulsa o viceversa.&lt;BR&gt;&lt;BR&gt;Pero su presencia es... antinatural. &amp;#161;Profana este lugar, que es pr&amp;#225;cticamente sagrado para mi gente!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#161;castiga a los argons y a su l&amp;#237;der, Tarnos, por pisar nuestra forja!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1034">
+        <Page social="4">[EN] Thank you for protecting the furnace. Our ancestors approve of your bravery.&lt;BR&gt;&lt;BR&gt;And someday, that bravery will be repaid&amp;#8212;with interest!&lt;br&gt;[ES] Gracias por proteger la forja. &amp;#161;Nuestros ancestros aprueban tu valent&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Y alg&amp;#250;n d&amp;#237;a, esa valent&amp;#237;a ser&amp;#225; recompensada, con creces!</Page>
+    </Text>
+</QuestDialog>

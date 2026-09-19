@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1147">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1147">
+        <Page social="4">[EN] So it's &lt;PCNAME&gt;. I've heard that you're doing extraordinarily well over here. As you can see, there are lots of violent Terrons running around this place. They are usually not that threatening, but more annoying I would say. However, they suddenly became violent and are a serious threat to the researchers. Look at Kamarnu. He took refuge here after he got injured.&lt;BR&gt;&lt;BR&gt;We cannot let these Terrons run like this anymore. Kill the {@LinkCreature:13#302#Terron Ringleaders} in the vicinity and bring back the petals from their heads as proof of their deaths.&lt;br&gt;[ES] As&amp;#237; que eres &lt;PCNAME&gt;. He o&amp;#237;do que te est&amp;#225; yendo extraordinariamente bien por aqu&amp;#237;. Como puedes ver, hay muchos Terrons violentos merodeando por este lugar. Por lo general, no son tan amenazantes, sino m&amp;#225;s bien molestos, dir&amp;#237;a yo. Sin embargo, de repente se volvieron violentos y representan una seria amenaza para los investigadores. Mira a Kamarnu. Se refugi&amp;#243; aqu&amp;#237; despu&amp;#233;s de salir herido.&lt;BR&gt;&lt;BR&gt;Ya no podemos dejar que estos Terrons anden sueltos de esta manera. Mata a los {@LinkCreature:13#302#Terron Ringleaders} en las cercan&amp;#237;as y trae de vuelta los p&amp;#233;talos de sus cabezas como prueba de su muerte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1147">
+        <Page social="4">[EN] That should suffice. There will be more, of course. Giggling, jumping, spinning...this sword was meant for more meaningful pursuits than gardening!&lt;br&gt;[ES] Eso deber&amp;#237;a ser suficiente. Habr&amp;#225; m&amp;#225;s, por supuesto. Risitas, saltos, giros... &amp;#161;esta espada estaba destinada a empresas m&amp;#225;s significativas que la jardiner&amp;#237;a!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1147">
+        <Page social="0">[EN] Even now Kamarnu neglects duty in favor of vengeance&amp;#8212;all too common a flaw around here.&lt;BR&gt;&lt;BR&gt;Unlike Leander, though, the baraka has the object of his vengeance frolicking in front of him. Cut down a few dozen, and his mood should improve.&lt;br&gt;[ES] A&amp;#250;n ahora Kamarnu descuidar el deber en favor de la venganza, un defecto demasiado com&amp;#250;n por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;A diferencia de Leander, sin embargo, el baraka tiene al objeto de su venganza retozando frente a &amp;#233;l. Derrota a unos cuantos docenas, y su estado de &amp;#225;nimo deber&amp;#237;a mejorar.</Page>
+    </Text>
+</QuestDialog>

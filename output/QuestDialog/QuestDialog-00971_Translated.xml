@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="4">[EN] Pssssst! I'm observing the enemy. I'm also supposed to be guiding some stranded soldiers from the checkpoint north of here back to a safer place.&lt;BR&gt;&lt;BR&gt;Problem is, I can't do both at once. Will you let the checkpoint know that I'll be there as soon as I can? Thanks.&lt;br&gt;[ES] &amp;#161;Pssst! Estoy observando al enemigo. Tambi&amp;#233;n se supone que debo guiar a unos soldados varados del puesto de control al norte de aqu&amp;#237; de regreso a un lugar m&amp;#225;s seguro.&lt;BR&gt;&lt;BR&gt;El problema es que no puedo hacer ambas cosas a la vez. &amp;#191;Le avisar&amp;#225;s al puesto de control que estar&amp;#233; all&amp;#237; tan pronto como pueda? Gracias.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1015">
+        <Page social="4">[EN] Ah, a federation soldier at last. The rescue team's on the way, right? Do me a favor and inform Prefect Anelle. Just grab the vine and climb straight up.&lt;br&gt;[ES] Ah, un soldado de la federaci&amp;#243;n por fin. El equipo de rescate viene en camino, &amp;#191;verdad? Hazme el favor e informa al prefecto Anelle. Solo agarra la vid y trepa directo hacia arriba.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" prevId="3" villagerId="1002">
+        <Page social="4">[EN] Well, even if you're not the rescue team, it's good to know they'll be here soon. Anything to create a little hope, you know?&lt;br&gt;[ES] Bueno, incluso si no eres el equipo de rescate, es bueno saber que llegar&amp;#225;n pronto. Cualquier cosa para crear un poco de esperanza, ya sabes.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="5">[EN] We're having trouble pushing forward, but we can't move backward at this point. They're gathering forces, and if we turn, they'll just destroy us from behind.&lt;BR&gt;&lt;BR&gt;Whimnia is convinced that {@LinkCreature:6#3031#Lokian reavers} and {@LinkCreature:6#3032#mystics} are in the base.&lt;BR&gt;&lt;BR&gt;I need you to go find out if that's true&amp;#8212;and if it is, I need you to make it not be true anymore&amp;#8212;if you're picking up what I'm putting down.&lt;br&gt;[ES] Tenemos problemas para avanzar, pero no podemos retroceder en este punto. Est&amp;#225;n reuniendo fuerzas y, si giramos, simplemente nos destrozar&amp;#225;n por la espalda.&lt;BR&gt;&lt;BR&gt;Whimnia est&amp;#225; convencida de que hay {@LinkCreature:6#3031#Lokian reavers} y {@LinkCreature:6#3032#mystics} en la base.&lt;BR&gt;&lt;BR&gt;Necesito que vayas a averiguar si eso es verdad, y si lo es, necesito que dejes de ser verdad si me entiendes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1022">
+        <Page social="5">[EN] Great, thanks. You've given us a chance to regroup.&lt;br&gt;[ES] Genial, gracias. Nos diste la oportunidad de reagruparnos.</Page>
+    </Text>
+</QuestDialog>

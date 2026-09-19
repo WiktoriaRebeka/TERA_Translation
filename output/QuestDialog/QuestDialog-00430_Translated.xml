@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="4">[EN] You've given us a good start. Thank you. We can take it from here, I think.&lt;BR&gt;&lt;BR&gt;Why don't you head over to help out Kiron? He was about to head out to try to find Jadan's son&amp;#8212;that's a job I'm sure he wouldn't mind a hand with.&lt;br&gt;[ES] Nos has dado un buen comienzo. Gracias. Creo que desde aqu&amp;#237; podemos hacernos cargo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; no vas a ayudar a Kiron? Estaba a punto de salir a tratar de encontrar al hijo de Jadan; seguro que no le vendr&amp;#237;a mal una mano con ese trabajo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1020">
+        <Page social="4">[EN] Pemo sent you, eh? That was good of him.&lt;BR&gt;&lt;BR&gt;Turns out I already found the kid, but I haven't thought of the right way to approach him yet.&lt;BR&gt;&lt;BR&gt;Just...how do you say that? "Hey kid, we found your dad dead with his blood drained."&lt;BR&gt;&lt;BR&gt;I think it needs more work.&lt;br&gt;[ES] &amp;#191;Pemo te envi&amp;#243;, eh? Qu&amp;#233; atento de su parte.&lt;BR&gt;&lt;BR&gt;Resulta que ya encontr&amp;#233; al muchacho, pero a&amp;#250;n no se me ocurre la mejor manera de acercarme a &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Solo... &amp;#191;c&amp;#243;mo se dice? &quot;Hola, chico, encontramos a tu pap&amp;#225; muerto con la sangre drenada&quot;.&lt;BR&gt;&lt;BR&gt;Creo que necesita m&amp;#225;s trabajo.</Page>
+    </Text>
+</QuestDialog>

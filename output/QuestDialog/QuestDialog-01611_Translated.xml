@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2102">
+        <Page social="0">[EN] &lt;PCNAME&gt; fought through to the airship platform, then boarded one to assault the Parthians from above.&lt;br&gt;[ES] &lt;PCNAME&gt; se abri&amp;#243; paso hasta la plataforma de la aeronave y luego abord&amp;#243; una para atacar a los Parthians desde arriba.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2102">
+        <Page social="4">[EN] I want you to get behind the enemy by using your strange flying machines.&lt;BR&gt;&lt;BR&gt;We'll pincer them and meet in the middle!&lt;br&gt;[ES] &amp;#161;Quiero que te infiltras tras el enemigo usando tus extra&amp;#241;as m&amp;#225;quinas voladoras!&lt;BR&gt;&lt;BR&gt;&amp;#161;Les haremos una pinza y nos reuniremos en el medio!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2132">
+        <Page social="4">[EN] To get to the airship platform, you'll have to fight through the archdevas in the valley to the north.&lt;BR&gt;&lt;BR&gt;Once clear, you can board your vessel.&lt;br&gt;[ES] Para llegar a la plataforma de la aeronave, tendr&amp;#225;s que abrirte paso entre los archdevas en el valle del norte.&lt;BR&gt;&lt;BR&gt;Una vez despejado, podr&amp;#225;s abordar tu nave.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2133">
+        <Page social="4">[EN] I saw you fighting. You handle yourself well. Glad to know Seir still picks the best.&lt;BR&gt;&lt;BR&gt;We need to recover some spare parts for the airship. It can't leave without them.&lt;BR&gt;&lt;BR&gt;Find the boxes and get them to Garog.&lt;br&gt;[ES] Te vi pelear. Te desenvuelves muy bien. Me alegra saber que Seir sigue eligiendo a los mejores.&lt;BR&gt;&lt;BR&gt;Necesitamos recuperar algunas piezas de repuesto para la aeronave. No puede partir sin ellas.&lt;BR&gt;&lt;BR&gt;Encuentra las cajas y ll&amp;#233;valas a Garog.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2103">
+        <Page social="4">[EN] Praise Kaia, you found them!&lt;BR&gt;&lt;BR&gt;I'll get the airship working. You get aboard. The assault can finally begin!&lt;br&gt;[ES] &amp;#161;Alaben a Kaia, las encontraste!&lt;BR&gt;&lt;BR&gt;Har&amp;#233; que la aeronave funcione. Sube a bordo. &amp;#161;El asalto por fin puede comenzar!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" villagerId="2103">
+        <Page social="0">[EN] This mission goes nowhere without those parts.&lt;br&gt;[ES] Esta misi&amp;#243;n no va a ninguna parte sin esas piezas.</Page>
+    </Text>
+</QuestDialog>

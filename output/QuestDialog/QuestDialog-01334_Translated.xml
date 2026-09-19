@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1025">
+        <Page social="4">[EN] The jalmaraks were once charged with guarding the Staff of Isren. No one knows why they betrayed the faerie, but that's just what they did.&lt;BR&gt;&lt;BR&gt;What concerns me, however, is the number of dracoloths lumbering around the Plaza of the Fallen. Dracoloths are powerful foes, treacherous and tempermental.&lt;BR&gt;&lt;BR&gt;I suspect Thulsa's hands behind their presence. Either way, they must die.&lt;br&gt;[ES] En su momento, los jalmaraks ten&amp;#237;an el encargo de custodiar el Staff of Isren. Nadie sabe por qu&amp;#233; traicionaron al hada, pero eso fue exactamente lo que hicieron.&lt;BR&gt;&lt;BR&gt;Sin embargo, lo que me preocupa es la cantidad de dracoloths merodeando por la Plaza of the Fallen. Los dracoloths son enemigos poderosos, traicioneros y temperamentales.&lt;BR&gt;&lt;BR&gt;Sospecho que la mano de Thulsa est&amp;#225; detr&amp;#225;s de su presencia. De cualquier manera, tienen que morir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1025">
+        <Page social="4">[EN] Splendid work, my friend. With the dracoloths dead, we can turn our attention to the unseelie.&lt;br&gt;[ES] Espl&amp;#233;ndido trabajo, amigo m&amp;#237;o. Con los dracoloths muertos, podemos centrar nuestra atenci&amp;#243;n en los unseelie.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1025">
+        <Page social="0">[EN] Dracoloths are similar to dragons, but diverge sharply from them. No one really knows why. What we do know is they're vicious, powerful, and eager to inflict pain. We can't let them stay.&lt;br&gt;[ES] Los dracoloths son similares a los dragones, pero se distancian marcadamente de ellos. Nadie sabe muy bien por qu&amp;#233;. Lo que s&amp;#237; sabemos es que son viciosos, poderosos y ansiosos por infligir dolor. No podemos permitir que se queden.</Page>
+    </Text>
+</QuestDialog>

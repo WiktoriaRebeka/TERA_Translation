@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="5">[EN] Those rotten little fleabags!&lt;BR&gt;&lt;BR&gt;My family's been brewing berry wine for centuries but those {@LinkCreature:23#3#popori exiles} stole our current stock!&lt;BR&gt;&lt;BR&gt;If we don't get that back, we'll be ruined. We can't pay our taxes, or buy those funny little mushrooms! Can you help us?&lt;br&gt;[ES] &amp;#161;Esos peque&amp;#241;os bribones asquerosos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Mi familia lleva siglos elaborando vino de bayas, pero esos {@LinkCreature:23#3#popori exiles} robaron nuestra reserva actual!&lt;BR&gt;&lt;BR&gt;Si no lo recuperamos, estaremos arruinados. &amp;#161;No podemos pagar nuestros impuestos ni comprar esos peque&amp;#241;os hongos divertidos! &amp;#191;Puedes ayudarnos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1035">
+        <Page social="5">[EN] That's it! That's our wine! You saved it!&lt;BR&gt;&lt;BR&gt;I'm amazed those mangy wretches didn't drink it already!&lt;BR&gt;&lt;BR&gt;Thank you so much!&lt;br&gt;[ES] &amp;#161;Eso es! &amp;#161;Ese es nuestro vino! &amp;#161;Lo salvaste!&lt;BR&gt;&lt;BR&gt;&amp;#161;Me sorprende que esos miserables sarnosos no se lo hayan bebido ya!&lt;BR&gt;&lt;BR&gt;&amp;#161;Muchas gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1035">
+        <Page social="0">[EN] Please, don't come back without the wine. I couldn't bear it.&lt;BR&gt;&lt;BR&gt;Sorry, popori humor.&lt;br&gt;[ES] Por favor, no vuelvas sin el vino. No podr&amp;#237;a soportarlo.&lt;BR&gt;&lt;BR&gt;Perd&amp;#243;n, humor popori.</Page>
+    </Text>
+</QuestDialog>

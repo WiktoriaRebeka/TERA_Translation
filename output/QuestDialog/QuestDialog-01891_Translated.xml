@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">[EN] The {@Rgn:30008$$Lower Archive}'s golems are acting up again.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3004#Kurda} knows which ones.&lt;br&gt;[ES] Los g&amp;#243;lems de {@Rgn:30008$$Lower Archive} est&amp;#225;n fallando otra vez.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3004#Kurda} sabe cu&amp;#225;les son.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="4">[EN] Not all the guardians the gods put here work right.&lt;BR&gt;&lt;BR&gt;Some didn't shut down like the others. Some just slipped a gear.&lt;BR&gt;&lt;BR&gt;Today, this one's in my way.&lt;br&gt;[ES] No todos los guardianes que los dioses pusieron aqu&amp;#237; funcionan bien.&lt;BR&gt;&lt;BR&gt;Algunos no se apagaron como los dem&amp;#225;s. A algunos se les zaf&amp;#243; un tornillo.&lt;BR&gt;&lt;BR&gt;Hoy, este se interpone en mi camino.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="4">[EN] Thing's just pruning the wrong things, is all.&lt;BR&gt;&lt;BR&gt;Can't find its base to reprogram it.&lt;br&gt;[ES] Esa cosa solo est&amp;#225; podando lo que no debe, eso es todo.&lt;BR&gt;&lt;BR&gt;No puedo encontrar su base para reprogramarlo.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="3004">
+        <Page social="4">[EN] Used to be tons of those. When the refuge reopened, they just went away.&lt;BR&gt;&lt;BR&gt;A few won't stay away, though.&lt;br&gt;[ES] Sol&amp;#237;a haber montones de esos. Cuando el refugio reabri&amp;#243;, simplemente se fueron.&lt;BR&gt;&lt;BR&gt;Sin embargo, algunos se niegan a irse.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="3004">
+        <Page social="4">[EN] Think that one guarded the archive vaults.&lt;BR&gt;&lt;BR&gt;Must not even realize they're gone!&lt;br&gt;[ES] Creo que ese custodiaba las b&amp;#243;vedas del archivo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Deben ni de enterarse de que ya no est&amp;#225;n!</Page>
+    </Text>
+</QuestDialog>

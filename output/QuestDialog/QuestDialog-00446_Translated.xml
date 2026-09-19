@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1012">
+        <Page social="4">[EN] Why settle for vampirs when we could be having just as much fun with the {@LinkCreature:16#2203#violent dwarves}, eh? They've been attacking anyone who goes near the Twisted Plains.&lt;BR&gt;&lt;BR&gt;I know the vampirs are what's on everyone's mind, but the dwarves are also posing quite a threat to Popolion. Try to make a dent in them.&lt;br&gt;[ES] &amp;#191;Para qu&amp;#233; conformarnos con los vampirs cuando podemos divertirnos igual con los {@LinkCreature:16#2203#violent dwarves}, eh? Han estado atacando a cualquiera que se acerque a Twisted Plains.&lt;BR&gt;&lt;BR&gt;S&amp;#233; que los vampirs son lo que todos tienen en mente, pero los dwarves tambi&amp;#233;n representan una gran amenaza para Popolion. Intenta darles un buen golpe.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1012">
+        <Page social="5">[EN] Thank you, &lt;PCNAME&gt;. The villagers may never realize they're safer, but I appreciate the work you've done here.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Puede que los aldeanos nunca se den cuenta de que est&amp;#225;n m&amp;#225;s seguros, pero aprecio el trabajo que has hecho aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1012">
+        <Page social="0">[EN] If we don't send any forces to deal with the dwarves, then we won't need to worry about whether or not the vampirs are coming, cause we'll be dead.&lt;br&gt;[ES] Si no enviamos fuerzas para lidiar con los dwarves, entonces no tendremos que preocuparnos por si los vampirs vienen o no, porque estaremos muertos.</Page>
+    </Text>
+</QuestDialog>

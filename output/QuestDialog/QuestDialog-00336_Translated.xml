@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="213">[EN] Our link to the Tainted Gorge is hampered by a pack of {@LinkCreature:13#300910#prowling cromoses} near the entrance.&lt;BR&gt;&lt;BR&gt;Chione's the only airship pilot detailed to this section of the island. Until they replace her, we can only communicate via runners.&lt;BR&gt;&lt;BR&gt;Kill the cromoses, then report to {@linkcreature:213#1025$$Sersine} down in the Tainted Gorge Outpost.&lt;br&gt;[ES] Nuestro enlace con el Tainted Gorge est&amp;#225; obstaculizado por una manada de {@LinkCreature:13#300910#prowling cromoses} cerca de la entrada.&lt;BR&gt;&lt;BR&gt;Chione es la &amp;#250;nica piloto de aeronave asignada a esta secci&amp;#243;n de la isla. Hasta que la reemplacen, solo podemos comunicarnos mediante mensajeros.&lt;BR&gt;&lt;BR&gt;Mata a los cromoses y luego pres&amp;#233;ntate ante {@linkcreature:213#1025$$Sersine} abajo en el Puesto Avanzado de Tainted Gorge.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">[EN] Oh good. I'm glad to hear you cleared that route up for us.&lt;BR&gt;&lt;BR&gt;Listen, don't underestimate the island. Remember that our troops are pulling out because of unrest in the federation. It isn't because this place is suddenly safer.&lt;BR&gt;&lt;BR&gt;Stay watchful.&lt;br&gt;[ES] Ah, qu&amp;#233; bien. Me alegra saber que despejaste esa ruta para nosotros.&lt;BR&gt;&lt;BR&gt;Escucha, no subestimes la isla. Recuerda que nuestras tropas se est&amp;#225;n retirando debido a los disturbios en la federaci&amp;#243;n. No es porque este lugar de repente sea m&amp;#225;s seguro.&lt;BR&gt;&lt;BR&gt;Mantente alerta.</Page>
+    </Text>
+</QuestDialog>

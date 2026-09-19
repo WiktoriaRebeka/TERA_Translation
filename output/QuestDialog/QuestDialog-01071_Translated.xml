@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1026">
+        <Page social="4">[EN] The argons tested indoctrination methods here&amp;#8212;or so we've figured out from the machinery around Raga Kabash.&lt;BR&gt;&lt;BR&gt;If we're going to counter argon indoctrination, we need to know how they do it.&lt;BR&gt;&lt;BR&gt;The Lokian slayers are the key. They're intact, so they might have some samples&amp;#8212;fluids, devices, or whatever&amp;#8212;of the latest argon techniques.&lt;br&gt;[ES] Los argons probaron m&amp;#233;todos de indoktrinaci&amp;#243;n aqu&amp;#237;, o eso hemos deducido por la maquinaria alrededor de Raga Kabash.&lt;BR&gt;&lt;BR&gt;Si vamos a contrarrestar la indoktrinaci&amp;#243;n argon, necesitamos saber c&amp;#243;mo lo hacen.&lt;BR&gt;&lt;BR&gt;Los Lokian slayers son la clave. Est&amp;#225;n intactos, as&amp;#237; que podr&amp;#237;an tener algunas muestras &amp;#8212;fluidos, dispositivos o lo que sea&amp;#8212; de las &amp;#250;ltimas t&amp;#233;cnicas argon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1026">
+        <Page social="5">[EN] Now that we know what they use to indoctrinate their victims, we're one step closer to countering it.&lt;BR&gt;&lt;BR&gt;If it's possible, go downstairs and tell Nevian what we've found. He could use some good news.&lt;br&gt;[ES] Ahora que sabemos qu&amp;#233; usan para adoctrinar a sus v&amp;#237;ctimas, estamos un paso m&amp;#225;s cerca de contrarrestarlo.&lt;BR&gt;&lt;BR&gt;Si es posible, baja y dile a Nevian lo que hemos encontrado. A &amp;#233;l le vendr&amp;#237;a bien una buena noticia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1026">
+        <Page social="0">[EN] Slay the slayers and score me some samples. Huh. Try saying that five times fast.&lt;br&gt;[ES] Derrota a los asesinos y cons&amp;#237;gueme algunas muestras. Aj&amp;#225;. Intenta decir eso cinco veces r&amp;#225;pido.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1102">
+        <Page social="0">[EN] I'm glad things are going so great for Beranie, but we're not exactly productive here.&lt;br&gt;[ES] Me alegro de que las cosas le vayan tan bien a Beranie, pero aqu&amp;#237; no somos muy productivos que digamos.</Page>
+    </Text>
+</QuestDialog>

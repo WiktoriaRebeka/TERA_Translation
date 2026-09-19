@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="4">[EN] In addition to uncovering these endless conspiracies, we've also got treasures to find. The war effort is depending on us, and the {@LinkCreature:42#210#Dagonite crusaders} are making it difficult. Let us make things difficult for them in turn, &lt;PCNAME&gt;.&lt;br&gt;[ES] Adem&amp;#225;s de descubrir estas interminables conspiraciones, tambi&amp;#233;n tenemos tesoros por encontrar. El esfuerzo de guerra depende de nosotros, y los {@LinkCreature:42#210#Dagonite crusaders} lo est&amp;#225;n poniendo dif&amp;#237;cil. Hag&amp;#225;mosles las cosas dif&amp;#237;ciles a ellos a cambio, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="5">[EN] We're always happy to reward work well done, and this was well done indeed.&lt;br&gt;[ES] Siempre nos alegra recompensar un trabajo bien hecho, y este estuvo muy bien hecho de verdad.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">[EN] We'll never find those treasures if we have to wade through {@LinkCreature:42#210#Dagonite crusaders} in every room, &lt;PCNAME&gt;.&lt;br&gt;[ES] Nunca encontraremos esos tesoros si tenemos que abrirnos paso entre {@LinkCreature:42#210#Dagonite crusaders} en cada habitaci&amp;#243;n, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

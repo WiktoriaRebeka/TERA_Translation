@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1007">
+        <Page social="4">[EN] Damnable weather! Simple, implacable, bad-luck stormy weather sank my ship and scattered my cargo.&lt;BR&gt;&lt;BR&gt;I think we can recover some of the weapon crates that washed up along Dragonturtle Beach. You can collect some flotsam for us, right?&lt;BR&gt;&lt;BR&gt;Or is it jetsam? I can never keep them straight.&lt;br&gt;[ES] &amp;#161;Maldito clima! Un clima de tormenta simple, implacable y de mala suerte hundi&amp;#243; mi barco y esparci&amp;#243; mi cargamento.&lt;BR&gt;&lt;BR&gt;Creo que podemos recuperar algunas de las cajas de armas que llegaron a la orilla de Dragonturtle Beach. Puedes recoger algunos restos flotantes para nosotros, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;&amp;#191;O son restos n&amp;#225;ufragos? Nunca logro distinguirlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1002">
+        <Page social="4">[EN] I miss the ship, but I can sell the cargo, &lt;PCNAME&gt;. Thanks.&lt;br&gt;[ES] Extra&amp;#241;o el barco, pero puedo vender la carga, &lt;PCNAME&gt;. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1002">
+        <Page social="0">[EN] You can't miss 'em. Wooden trunks full of weapons. On the beach, no less.&lt;br&gt;[ES] No puedes perd&amp;#233;rtelos. Ba&amp;#250;les de madera llenos de armas. En la playa, nada menos.</Page>
+    </Text>
+</QuestDialog>

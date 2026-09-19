@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="4">[EN] {@Creature:47#4003#Argonomorph gulas} have taken over a camp north of here. I'd like to know why, but I have no desire to be killed and eaten. No one here does.&lt;BR&gt;&lt;BR&gt;Will you investigate and possibly drive them back a bit?&lt;br&gt;[ES] {@Creature:47#4003#Argonomorph gulas} se han apoderado de un campamento al norte de aqu&amp;#237;. Me gustar&amp;#237;a saber por qu&amp;#233;, pero no tengo ning&amp;#250;n deseo de ser asesinado ycomido. Nadie aqu&amp;#237; lo tiene.&lt;BR&gt;&lt;BR&gt;&amp;#191;Investigar&amp;#225;s y posiblemente los har&amp;#225;s retroceder un poco?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1021">
+        <Page social="5">[EN] This soil was on their shoes? Dirt is common enough, but the seeds embedded in it are not. They came from {@Rgn:45001$$Thrallhold}.&lt;BR&gt;&lt;BR&gt;Go to Pathfinder Post immediately and report this to Borskan. The argonomorph gulas are on the move.&lt;br&gt;[ES] &amp;#191;Esta tierra estaba en sus zapatos? La suciedad es bastante com&amp;#250;n, pero las semillas incrustadas en ella no. Provienen de {@Rgn:45001$$Thrallhold}.&lt;BR&gt;&lt;BR&gt;Ve al Pathfinder Post inmediatamente e informa de esto a Borskan. Los argonomorph gulas est&amp;#225;n en movimiento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1021">
+        <Page social="0">[EN] Have you driven the gulas back?&lt;br&gt;[ES] &amp;#191;Has hecho retroceder a los gulas?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="3" villagerId="1009">
+        <Page social="4">[EN] So the gulas came here from Thrallhold. Wasn't expecting that.&lt;BR&gt;&lt;BR&gt;I wonder whether you'd help me investigate further.&lt;br&gt;[ES] As&amp;#237; que los gulas vinieron aqu&amp;#237; desde Thrallhold. No esperaba eso.&lt;BR&gt;&lt;BR&gt;Me pregunto si me ayudar&amp;#237;as a investigar m&amp;#225;s a fondo.</Page>
+    </Text>
+</QuestDialog>

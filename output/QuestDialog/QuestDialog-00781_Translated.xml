@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0">[EN] Do not worry about me. Dead or alive, I cannot leave the Citadel of Torment again.&lt;BR&gt;&lt;BR&gt;I will do my utmost to help the soldiers that come into this place, but please make sure they know what happened to me. &lt;BR&gt;&lt;BR&gt;Warn them of the dangers and tell them I'm here to help,&lt;br&gt;[ES] No te preocupes por m&amp;#237;. Muerto o vivo, no puedo volver a salir de la Citadel of Torment.&lt;BR&gt;&lt;BR&gt;Har&amp;#233; todo lo posible para ayudar a los soldados que entren en este lugar, pero por favor aseg&amp;#250;rate de que sepan lo que me pas&amp;#243;. &lt;BR&gt;&lt;BR&gt; Advi&amp;#233;rteles de los peligros y diles que estoy aqu&amp;#237; para ayudar,</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1001">
+        <Page social="4">[EN] You found him! Helehr is a true amani warrior.&lt;BR&gt;&lt;BR&gt;We will sing his praises and remember his bravery for as long as the high elves would, and we will continue his fight until our last breaths!&lt;br&gt;[ES] &amp;#161;Lo encontraste! Helehr es un verdadero amani warrior.&lt;BR&gt;&lt;BR&gt;&amp;#161;Cantaremos sus alabanzas y recordaremos su valent&amp;#237;a tanto tiempo como los high elves lo har&amp;#237;an, y continuaremos su lucha hasta nuestro &amp;#250;ltimo aliento!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2130">
+        <Page social="0">[EN] Cornered, Dakuryon bound &lt;PCNAME&gt; with magic. But Rhodos fought through it. Injured, Dakuryon fled, and &lt;PCNAME&gt; returned to Highwatch with Verikam. &lt;BR&gt;&lt;BR&gt;Dougal ordered Sky Cruiser Intrepid to Velika in order to chase Dakuryon, and Rhodos swore that he will hunt Dakuryon down to the end of the world.&lt;br&gt;[ES] Rinconado, Dakuryon at&amp;#243; a &lt;PCNAME&gt; con magia. Pero Rhodos luch&amp;#243; contra ella. Herido, Dakuryon huy&amp;#243; y &lt;PCNAME&gt; regres&amp;#243; a Highwatch con Verikam.&lt;BR&gt;&lt;BR&gt;Dougal orden&amp;#243; al Sky Cruiser Intrepid dirigirse a Velika para perseguir a Dakuryon, y Rhodos jur&amp;#243; que lo cazar&amp;#237;a hasta el fin del mundo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2130">
+        <Page social="4">[EN] We will save Verikam and slay Dakuryon. I will use his head as a chamberpot for a week!&lt;BR&gt;&lt;BR&gt;Are you ready, &lt;PCNAME&gt;? Let's go!&lt;br&gt;[ES] Salvaremos a Verikam y mataremos a Dakuryon. &amp;#161;Usar&amp;#233; su cabeza como bacinica durante una semana!&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s listo, &lt;PCNAME&gt;? &amp;#161;V&amp;#225;monos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" villagerId="12">
+        <Page social="0">[EN] It's much bigger than I anticipated. What are the archdevas doing?&lt;BR&gt;&lt;BR&gt;No matter. We can question any survivors after we kill Dakuryon.&lt;br&gt;[ES] Es mucho m&amp;#225;s grande de lo que anticipaba. &amp;#191;Qu&amp;#233; est&amp;#225;n haciendo los archdevas?&lt;BR&gt;&lt;BR&gt;No importa. Podemos interrogar a cualquier sobreviviente despu&amp;#233;s de matar a Dakuryon.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="826" prevId="2" villagerId="1001">
+        <Page social="4">[EN] Dakuryon! Your time is over!&lt;br&gt;[ES] &amp;#161;Dakuryon! &amp;#161;Tu tiempo se acab&amp;#243;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="826" prevId="4" villagerId="1002">
+        <Page social="4">[EN] His magic sapped much of my strength, but I shall be restored to full vitality soon enough.&lt;BR&gt;&lt;BR&gt;You have my thanks. It took great courage to face Dakuryon.&lt;br&gt;[ES] Su magia agot&amp;#243; gran parte de mi fuerza, pero recuperar&amp;#233; mi vitalidad completa muy pronto.&lt;BR&gt;&lt;BR&gt;Te doy las gracias. Se necesit&amp;#243; mucho valor para enfrentar a Dakuryon.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="826" prevId="5" villagerId="1004">
+        <Page social="4">[EN] I can't believe he escaped! Bah!&lt;BR&gt;&lt;BR&gt;Escort Verikam back to Highwatch. We will seal the support of the baraka with this rescue, which we'll need to deal with the archdevas once and for all.&lt;br&gt;[ES] &amp;#161;No puedo creer que haya escapado! &amp;#161;Bah!&lt;BR&gt;&lt;BR&gt;Escolta a Verikam de regreso a Highwatch. Aseguraremos el apoyo de los baraka con este rescate, el cual necesitaremos para lidiar con los archdevas de una vez por todas.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1014">
+        <Page social="4">[EN] Your tireless efforts greatly disrupted Dakuryon's plans and you saved Verikam. Allow us to express our gratitude. Highwatch stands with the Valkyon Federation and the Khirians against the archdevas.&lt;BR&gt;&lt;BR&gt;Our paths will cross again in the future, but for now your Legate Dougal wishes to speak with you.&lt;br&gt;[ES] Tus incansables esfuerzos interrumpieron enormemente los planes de Dakuryon y salvaste a Verikam. Perm&amp;#237;tenos expresar nuestra gratitud. Highwatch apoya a la Valkyon Federation y a los Khirians contra los archdevas.&lt;BR&gt;&lt;BR&gt;Nuestros caminos se cruzar&amp;#225;n de nuevo en el futuro, pero por ahora tu Legate Dougal desea hablar contigo.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="1021">
+        <Page social="4">[EN] Well done, &lt;PCNAME&gt;. Losing Zolyn and Paesyn is quite sad, but you saved Verikam and stopped Dakuryon for now.&lt;BR&gt;&lt;BR&gt;I've sent word back to Velika for reinforcements; they're sending the sky cruiser Victory with more soldiers.&lt;BR&gt;&lt;BR&gt;Yet again, we owe you a great debt.&lt;br&gt;[ES] Bien hecho, &lt;PCNAME&gt;. Perder a Zolyn y Paesyn es muy triste, pero salvaste a Verikam y detuviste a Dakuryon por ahora.&lt;BR&gt;&lt;BR&gt;He enviado un mensaje a Velika pidiendo refuerzos; mandar&amp;#225;n el crucero del cielo Victory con m&amp;#225;s soldados.&lt;BR&gt;&lt;BR&gt;Una vez m&amp;#225;s, te debemos una gran deuda.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="4108">
+        <Page social="4">[EN] The Khirians will not rest until Dakuryon pays for his crimes, &lt;PCNAME&gt;. I give you my word that we will see him brought down and the archdevas defeated.&lt;br&gt;[ES] Los Khirians no descansar&amp;#225;n hasta que Dakuryon pague por sus cr&amp;#237;menes, &lt;PCNAME&gt;. Te doy mi palabra de que lo veremos caer y los archdevas ser&amp;#225;n derrotados.</Page>
+    </Text>
+</QuestDialog>

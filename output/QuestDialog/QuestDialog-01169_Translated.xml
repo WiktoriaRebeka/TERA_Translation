@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1010">
+        <Page social="4">[EN] (It says "{@LinkCreature:76#1011}'s Field Guide" on the cover. Inside is a research report detailing findings about the argons. Perhaps you should show this to someone who knows {@Creature:76#1011}.)&lt;br&gt;[ES] (Dice &quot;Gu&amp;#237;a de campo de {@LinkCreature:76#1011}&quot; en la portada. Adentro hay un informe de investigaci&amp;#243;n que detalla hallazgos sobre los argons. Tal vez deber&amp;#237;as mostrarle esto a alguien que conozca a {@Creature:76#1011}.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1016">
+        <Page social="6">[EN] Of course I know Linkia. Precocious lass, about my height.&lt;BR&gt;&lt;BR&gt;She lost her parents during an argon attack. Devoted herself to studying them ever since.&lt;NEXTPAGEBUTTON&gt;"I found some of her research notes."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Por supuesto que conozco a Linkia. Una joven precoz, de m&amp;#225;s o menos mi altura.&lt;BR&gt;&lt;BR&gt;Perdi&amp;#243; a sus padres durante un ataque argon. Desde entonces se ha dedicado a estudiarlos.&lt;NEXTPAGEBUTTON&gt;"I found some of her research notes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Linkia's out in the field at the moment. She's pretty fearless, but a bit forgetful. If you hunt around, you'll probably come across more of her notes and reports. She leaves tomes, clues, and scraps of information all over the place. She tends to write them while sitting on graves.&lt;BR&gt;&lt;BR&gt;Bring me any of her notes you find. We'll see what we can learn!&lt;br&gt;[ES] Linkia est&amp;#225; en el campo en este momento. Es bastante valiente, pero un poco olvidadiza. Si buscas por ah&amp;#237;, probablemente te topes con m&amp;#225;s de sus notas e informes. Deja tomos, pistas y fragmentos de informaci&amp;#243;n por todas partes. Suele escribirlas mientras est&amp;#225; sentada sobre tumbas.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme cualquiera de sus notas que encuentres. &amp;#161;Ya veremos qu&amp;#233; podemos aprender!</Page>
+    </Text>
+</QuestDialog>

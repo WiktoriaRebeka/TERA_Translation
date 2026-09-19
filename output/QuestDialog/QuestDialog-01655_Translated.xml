@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="4" voiceTypeId="0">[EN] This sabertooth? Mine since it was a cub. It sure eats more now than it did then!&lt;BR&gt;&lt;BR&gt;It eats like a gula...well, not really, but it has quite an appetite. Guess what it eats?&lt;NEXTPAGEBUTTON&gt;"Gula meat?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Este dientes de sable? M&amp;#237;o desde que era un cachorro. &amp;#161;Claro que ahora come m&amp;#225;s que antes!&lt;BR&gt;&lt;BR&gt;Come como un gula... bueno, no exactamente, pero tiene bastante apetito. &amp;#191;Adivina qu&amp;#233; come?&lt;NEXTPAGEBUTTON&gt;"Gula meat?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">[EN] Close. Caimans.&lt;BR&gt;&lt;BR&gt;Its favorite meal is the tail of a {@LinkCreature:472#2#azure caiman thumper}. But I think the caimans have gotten wise to my traps.&lt;BR&gt;&lt;BR&gt;If you're going into the Golden Labyrinth, you might find some that the gulas keep as pets.&lt;BR&gt;&lt;BR&gt;Bring back their tails! You don't want a grumpy sabertooth around here, do you?&lt;br&gt;[ES] Cerca. Caimanes.&lt;BR&gt;&lt;BR&gt;Su comida favorita es la cola de un {@LinkCreature:472#2#azure caiman thumper}. Pero creo que los caimanes ya conocen mis trampas.&lt;BR&gt;&lt;BR&gt;Si vas a entrar al Golden Labyrinth, tal vez encuentres algunos que los gulas tienen como mascotas.&lt;BR&gt;&lt;BR&gt;&amp;#161;Trae sus colas! No querr&amp;#225;s un dientes de sable malhumorado por aqu&amp;#237;, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1018">
+        <Page social="6" voiceTypeId="0">[EN] This will keep my big baby happy. Or at least fed.&lt;br&gt;[ES] Esto mantendr&amp;#225; feliz a mi gran beb&amp;#233;. O al menos alimentado.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1018">
+        <Page social="0">[EN] Look, if I could get into the Golden Labyrinth&amp;#8212;and out again&amp;#8212;I would.&lt;br&gt;[ES] Mira, si pudiera entrar al Golden Labyrinth&amp;#8212;y salir otra vez&amp;#8212;lo har&amp;#237;a.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="5" voiceTypeId="0">[EN] The Scions have trained hyenas walking the halls with them. The wounds of their bites fester and heal slowly, keeping our troops at sick call rather than on duty.&lt;BR&gt;&lt;BR&gt;Killing these hyenas will weaken the Scions and strengthen us. Make it happen...and bring me their fangs.&lt;br&gt;[ES] Los Scions tienen hienas entrenadas caminando por los pasillos con ellos. Las heridas de sus mordeduras se infectan y sanan lentamente, manteniendo a nuestras tropas en la enfermer&amp;#237;a en lugar de en servicio.&lt;BR&gt;&lt;BR&gt;Matar a estas hienas debilitar&amp;#225; a los Scions y nos fortalecer&amp;#225;. Hazlo... y tr&amp;#225;eme sus colmillos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1032">
+        <Page social="5" voiceTypeId="0">[EN] Nasty brutes, aren't they?&lt;BR&gt;&lt;BR&gt;More than a few outriders will sleep better knowing you put those beasts down.&lt;br&gt;[ES] Bestias desagradables, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;M&amp;#225;s de un explorador dormir&amp;#225; mejor sabiendo que acabaste con esas bestias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1032">
+        <Page social="0">[EN] I can't just take your word for it. My superiors won't take mine. Kill those hyenas and bring me their fangs.&lt;br&gt;[ES] No puedo simplemente confiar en tu palabra. Mis superiores no confiar&amp;#225;n en la m&amp;#237;a. Mata a esas hienas y tr&amp;#225;eme sus colmillos.</Page>
+    </Text>
+</QuestDialog>

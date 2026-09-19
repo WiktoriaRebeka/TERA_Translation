@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="5">[EN] Eliminate the {@LinkCreature:5#4#Tuwangi Frogriders} so that the Tree Tuwangis gathered at the east of the swamp entrance on Moong's orders cannot attack.&lt;br&gt;[ES] Elimina a los {@LinkCreature:5#4#Tuwangi Frogriders} para que los Tree Tuwangis reunidos al este de la entrada del pantano por orden de Moong no puedan atacar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1012">
+        <Page social="0">[EN] We can assume that the majority of the problem will go away now that the Tree Tuwangi Frogriders are gone.&lt;br&gt;[ES] Podemos asumir que la mayor parte del problema desaparecer&amp;#225; ahora que los Tree Tuwangi Frogriders ya no est&amp;#225;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1012">
+        <Page social="0">[EN] We don't have much time. Get rid of the {@LinkCreature:5#4#Tuwangi Frogriders} now.&lt;br&gt;[ES] No tenemos mucho tiempo. Deshazte de los {@LinkCreature:5#4#Tuwangi Frogriders} ahora.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="82" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Don A. Tion has lost everything while playing dice games with Demoros. However, Don does not want to give up yet. He constantly begs generous adventurers for a Gold Ticket to get back in the game.&lt;br&gt;[ES] Don A. Tion lo ha perdido todo jugando a los dados con Demoros. Sin embargo, Don no quiere rendirse todav&amp;#237;a. Le ruega constantemente a los aventureros generosos un Gold Ticket para volver al juego.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">[EN] Perhaps that man over there knows something about this place.&lt;BR&gt;Let's go and ask what happened here.&lt;br&gt;[ES] Tal vez ese hombre de ah&amp;#237; sepa algo sobre este lugar.&lt;BR&gt;Vayamos a preguntar qu&amp;#233; pas&amp;#243; aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">[EN] Hello! Yes, you! Do you have time... and money perhaps?&lt;BR&gt;&lt;BR&gt;I don't know what got into me! That demon must have hypnotized me, and forced me to spend all our savings!&lt;BR&gt;&lt;BR&gt;Oh, please, just one Gold Ticket. I'm a poor man, who just wants to see his children.&lt;br&gt;[ES] &amp;#161;Hola! &amp;#161;S&amp;#237;, a ti! &amp;#191;Tienes tiempo... y dinero tal vez?&lt;BR&gt;&lt;BR&gt;&amp;#161;No s&amp;#233; qu&amp;#233; me pas&amp;#243;! &amp;#161;Ese demonio debi&amp;#243; haberme hipnotizado y me oblig&amp;#243; a gastar todos nuestros ahorros!&lt;BR&gt;&lt;BR&gt;Oh, por favor, solo un Gold Ticket. Soy un hombre pobre que solo quiere ver a sus hijos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">[EN] OK... Last chance. One win, and I'm outta here.&lt;br&gt;[ES] Bien... &amp;#218;ltima oportunidad. &amp;#161;Una victoria y me largo de aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">[EN] Please!!! I beg you. My children are waiting for me!&lt;br&gt;[ES] &amp;#161;Por favor! Te lo ruego. &amp;#161;Mis hijos me est&amp;#225;n esperando!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="466" prevId="3" villagerId="1078">
+        <Page social="4" voiceTypeId="0">[EN] Please, just one ticket will be enough, thank you.&lt;BR&gt;&lt;BR&gt;One more game and this can become a fortune...&lt;br&gt;[ES] Por favor, solo un ticket ser&amp;#225; suficiente, gracias.&lt;BR&gt;&lt;BR&gt;Una partida m&amp;#225;s y esto puede convertirse en una fortuna...</Page>
+    </Text>
+    <Text id="7" huntingZoneId="466" villagerId="1078">
+        <Page social="0">[EN] Help out this poor soul...&lt;br&gt;[ES] Ayuda a esta pobre alma...</Page>
+    </Text>
+</QuestDialog>

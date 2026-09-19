@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="63" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="183" prevId="0" villagerId="200030">
+        <Page social="0">[EN] &lt;PCNAME&gt;, the most powerful minion of the first Gods have broke through the wall.&lt;BR&gt;&lt;BR&gt;You must stop it before the world is destroyed.&lt;BR&gt;The fate of both our realms is in your hands.&lt;BR&gt;&lt;BR&gt;Defeat the Underworld Devil and retrieve its mana to hlp restore the wall.&lt;br&gt;[ES] &lt;PCNAME&gt;, el minbir m&amp;#225;s poderoso de los primeros Gods ha atravesado la pared.&lt;BR&gt;&lt;BR&gt;Debes detenerlo antes de que el mundo sea destruido.&lt;BR&gt;El destino de ambos reinos est&amp;#225; en tus manos.&lt;BR&gt;&lt;BR&gt;Derrota a los Underworld Devil y recupera su mana para ayudar a restaurar la pared.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="200030">
+        <Page social="0">[EN] I sense great power from you.&lt;BR&gt;&lt;BR&gt;On behalf of Agaia, I thank you.&lt;br&gt;[ES] Siento un gran poder en ti.&lt;BR&gt;&lt;BR&gt;En nombre de Agaia, te doy las gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="1" villagerId="200030">
+        <Page social="0">[EN] If the wall breaks down, both your world and this one are doomed.&lt;br&gt;[ES] Si la pared se derriba, tanto tu mundo como este est&amp;#225;n condenados.</Page>
+    </Text>
+</QuestDialog>

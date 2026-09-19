@@ -1,0 +1,84 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="4">[EN] Fusion science...some say we're on the fringe, but that's just jealousy! Jealousy, I say!&lt;BR&gt;&lt;BR&gt;Fusion science is the key to ultimate power! Turn away from your petty clockworks and dusty grimoires. Embrace the future!&lt;BR&gt;&lt;BR&gt;But study first. There'll be a test.&lt;br&gt;[ES] La ciencia de la fusi&amp;#243;n... algunos dicen que estamos en el l&amp;#237;mite, &amp;#161;pero eso es pura envidia! &amp;#161;Envidia, digo!&lt;BR&gt;&lt;BR&gt;&amp;#161;La ciencia de la fusi&amp;#243;n es la clave hacia el poder definitivo! Al&amp;#233;jate de tus insignificantes mecanismos y polvorientos grimorios. &amp;#161;Abraza el futuro!&lt;BR&gt;&lt;BR&gt;Pero estudia primero. Habr&amp;#225; un examen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1711">
+        <Page social="4">[EN] Fusion science combines &lt;font color='#0000FF'&gt;magic and machinery&lt;/font&gt;. (Details omitted.)&lt;BR&gt;&lt;BR&gt;The most successful example of fusion science is &lt;font color='#0000FF'&gt;the Core&lt;/font&gt;, which combines energy from the Flower of Life with a mechanically augmented lifeform. (Details omitted.)&lt;BR&gt;The most crucial elements of fusion science are the material components used to channel the &lt;font color='#0000FF'&gt;magic&lt;/font&gt;, and their creation is a matter of great delicacy. (Details omitted.)&lt;br&gt;[ES] La ciencia de la fusi&amp;#243;n combina &lt;font color='#0000FF'&gt;magia y maquinaria&lt;/font&gt;. (Detalles omitidos.)&lt;BR&gt;&lt;BR&gt;El ejemplo m&amp;#225;s exitoso de la ciencia de la fusi&amp;#243;n es &lt;font color='#0000FF'&gt;el Core&lt;/font&gt;, que combina energ&amp;#237;a de la Flower of Life con una forma de vida mejorada mec&amp;#225;nicamente. (Detalles omitidos.)&lt;BR&gt;Los elementos m&amp;#225;s cruciales de la ciencia de la fusi&amp;#243;n son los componentes materiales usados para canalizar la &lt;font color='#0000FF'&gt;magia&lt;/font&gt;, y su creaci&amp;#243;n es un asunto de gran delicadeza. (Detalles omitidos.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1703">
+        <Page social="4">[EN] You look confident.&lt;BR&gt;&lt;BR&gt;Ready to embrace the future? Let's see how hard you've studied.&lt;br&gt;[ES] Te ves seguro.&lt;BR&gt;&lt;BR&gt;&amp;#191;Listo para abrazar el futuro? Veamos cu&amp;#225;nto has estudiado.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="3" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] In fusion science, material components channel this force. What is it?&lt;br&gt;[ES] En la ciencia de la fusi&amp;#243;n, los componentes materiales canalizan esta fuerza. &amp;#191;Cu&amp;#225;l es?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] I'm disappointed. You were fated to do more than this!&lt;NEXTPAGEBUTTON&gt;"I know, and I'll do better."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Estoy decepcionado. &amp;#161;Estabas destinado a lograr m&amp;#225;s que esto!&lt;NEXTPAGEBUTTON&gt;"I know, and I'll do better."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Perhaps so. Until then, go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] Tal vez sea as&amp;#237;. Hasta entonces, vuelve al Collegium Arcane y estudia m&amp;#225;s.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] Is your head attached to your body?&lt;NEXTPAGEBUTTON&gt;"I wish it were right."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Tienes la cabeza bien pegada al cuerpo?&lt;NEXTPAGEBUTTON&gt;"I wish it were right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] You know what I wish? That you'd go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] &amp;#191;Sabes qu&amp;#233; desear&amp;#237;a? Que volvieras al Collegium Arcane y estudiaras m&amp;#225;s.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] Wrong, wrong, wrong.&lt;NEXTPAGEBUTTON&gt;"I fell asleep while studying..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Incorrecto, incorrecto, incorrecto.&lt;NEXTPAGEBUTTON&gt;"I fell asleep while studying..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Go back to Collegium Arcane and study harder. And stay awake this time!&lt;br&gt;[ES] &amp;#161;Vuelve al Collegium Arcane y estudia m&amp;#225;s! &amp;#161;Y mantente despierto esta vez!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] That's right! The future is yours!&lt;NEXTPAGEBUTTON&gt;"That was kinda easy."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;As&amp;#237; es! &amp;#161;El futuro es tuyo!&lt;NEXTPAGEBUTTON&gt;"That was kinda easy."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, but the future has no place for the dull-witted.&lt;br&gt;[ES] S&amp;#237;, pero el futuro no tiene lugar para los de entendederas lentas.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] Fusion science combines what two elements?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; dos elementos combina la ciencia de la fusi&amp;#243;n?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] You've been hanging out with the mechanical engineers, I see. Wrong!&lt;NEXTPAGEBUTTON&gt;"Can I try again?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Veo que te has estado juntando con los ingenieros mec&amp;#225;nicos. &amp;#161;Incorrecto!&lt;NEXTPAGEBUTTON&gt;"Can I try again?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Of course, but go back to the Collegium Arcane and read the correct book this time!&lt;br&gt;[ES] &amp;#161;Por supuesto, pero vuelve al Collegium Arcane y lee el libro correcto esta vez!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] Correct! You really did study!&lt;NEXTPAGEBUTTON&gt;"These questions are kinda basic..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Correcto! &amp;#161;De verdad estudiaste!&lt;NEXTPAGEBUTTON&gt;"These questions are kinda basic..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I know they are. You're just proving that you didn't skip the reading.&lt;br&gt;[ES] S&amp;#233; que lo son. Solo est&amp;#225;s demostrando que no te saltaste la lectura.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] You're either joking with me, or you're hormone-addled. Either way, wrong!&lt;NEXTPAGEBUTTON&gt;"I'll study more."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] O est&amp;#225;s bromeando conmigo, o est&amp;#225;s lleno de hormonas. &amp;#161;De cualquier manera, est&amp;#225;s equivocado!&lt;NEXTPAGEBUTTON&gt;"I'll study more."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] At this point, I'll take what I can get. Go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] Llegados a este punto, aceptar&amp;#233; lo que pueda conseguir. Vuelve al Collegium Arcane y estudia m&amp;#225;s.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] Here's my reaction: Wrong!&lt;NEXTPAGEBUTTON&gt;"I can do better!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Aqu&amp;#237; tienes mi reacci&amp;#243;n: &amp;#161;Incorrecto!&lt;NEXTPAGEBUTTON&gt;"I can do better!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] You have a chance to take action: go back to Collegium Arcane and study harder.&lt;br&gt;[ES] Tienes la oportunidad de actuar: regresa al Collegium Arcane y estudia m&amp;#225;s duro.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] What is the most successful example of fusion science?&lt;br&gt;[ES] &amp;#191;Cu&amp;#225;l es el ejemplo m&amp;#225;s exitoso de la ciencia de fusi&amp;#243;n?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] Did you just think, "I'll answer the first thing that pops into my head?" Wrong!&lt;NEXTPAGEBUTTON&gt;"I should hit the books."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Acabas de pensar: &quot;&amp;#191;Responder&amp;#233; lo primero que se me venga a la cabeza&quot;? &amp;#161;Incorrecto!&lt;NEXTPAGEBUTTON&gt;"I should hit the books."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Indeed you should. Go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] Desde luego que deber&amp;#237;as. Regresa al Collegium Arcane y estudia m&amp;#225;s duro.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] Pegasus travel is but a trifle! A fad, I say!&lt;NEXTPAGEBUTTON&gt;"This was covered in the book?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Los viajes en pegaso son una nader&amp;#237;a! &amp;#161;Una moda pasajera, digo!&lt;NEXTPAGEBUTTON&gt;"This was covered in the book?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes, not that you'd know. Go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] S&amp;#237;, no es que t&amp;#250; lo sepas. Regresa al Collegium Arcane y estudia m&amp;#225;s duro.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] A correct answer! Excellent.&lt;NEXTPAGEBUTTON&gt;"It's also the only example."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Una respuesta correcta! Excelente.&lt;NEXTPAGEBUTTON&gt;"It's also the only example."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Perhaps, but that's why we study, &lt;PCNAME&gt;!&lt;br&gt;[ES] Quiz&amp;#225;s, &amp;#161;pero por eso estudiamos, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="22" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">[EN] Magic stones? A tuwangi term for so many things that litter the landscape of our world! Wrong!&lt;NEXTPAGEBUTTON&gt;"Can I get a do-over?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Piedras m&amp;#225;gicas? &amp;#161;Un t&amp;#233;rmino tuwangi para tantas cosas que ensucian el paisaje de nuestro mundo! &amp;#161;Incorrecto!&lt;NEXTPAGEBUTTON&gt;"Can I get a do-over?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] You may "do-over" whatever you like, but first go back to the Collegium Arcane and study harder.&lt;br&gt;[ES] Puedes &quot;repetir&quot; lo que quieras, pero primero regresa al Collegium Arcane y estudia m&amp;#225;s duro.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="72" prevId="18" villagerId="1703">
+        <Page social="4">[EN] There's no end to learning.&lt;BR&gt;Keep studying, and perhaps the future will be yours!&lt;br&gt;[ES] El aprendizaje nunca se acaba.&lt;BR&gt;&amp;#161;Sigue estudiando y quiz&amp;#225;s el futuro sea tuyo!</Page>
+    </Text>
+</QuestDialog>

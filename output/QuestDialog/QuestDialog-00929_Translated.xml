@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1001">
+        <Page social="4">[EN] There are four levels to Arachnaea, and it gets uglier the farther up you go. Head to Roughneck Outpost on the second level, and report to Greina.&lt;BR&gt;&lt;BR&gt;Get moving, soldier!&lt;br&gt;[ES] Hay cuatro niveles en Arachnaea, y se pone m&amp;#225;s feo cuanto m&amp;#225;s subes. Dir&amp;#237;gete a Roughneck Outpost en el segundo nivel y pres&amp;#233;ntate ante Greina.&lt;BR&gt;&lt;BR&gt;&amp;#161;En marcha, soldado!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1003">
+        <Page social="4">[EN] Here to fight? You've come to the right place.&lt;br&gt;[ES] &amp;#191;Vienes a pelear? Has venido al lugar correcto.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="5" voiceTypeId="0">[EN] My orders are to scout out the Bastion of Lok and hit the Scions hard, but a basilisk injured my leg.&lt;BR&gt;&lt;BR&gt;I can't go down there like this&amp;#8212;I'll be dead in moments.&lt;BR&gt;&lt;BR&gt;We need to strike the Scions in their lair. Will you go in my stead?&lt;br&gt;[ES] Mis &amp;#243;rdenes son explorar Bastion of Lok y golpear duro a los Scions, pero un basilisk me lesion&amp;#243; la pierna.&lt;BR&gt;&lt;BR&gt;No puedo bajar all&amp;#237; as&amp;#237;; estar&amp;#233; muerto en momentos.&lt;BR&gt;&lt;BR&gt;Necesitamos atacar a los Scions en su guarida. &amp;#191;Ir&amp;#225;s en mi lugar?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1032">
+        <Page social="5" voiceTypeId="0">[EN] I see bloodied badges. Excellent. That means the Scions of Lok can spend some time grieving over their dead for a change.&lt;BR&gt;&lt;BR&gt;Couldn't have done it without you. Well done.&lt;br&gt;[ES] Veo insignias ensangrentadas. Excelente. Eso significa que los Scions of Lok pueden pasar un tiempo lamentando a sus muertos por variar.&lt;BR&gt;&lt;BR&gt;No podr&amp;#237;a haberlo hecho sin ti. Bien hecho.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1032">
+        <Page social="0">[EN] We must strike at the Scions of Lok. I can't do it, &lt;PCNAME&gt;. The mission falls to you.&lt;br&gt;[ES] Debemos atacar a los Scions of Lok. No puedo hacerlo, &lt;PCNAME&gt;. La misi&amp;#243;n recae sobre ti.</Page>
+    </Text>
+</QuestDialog>

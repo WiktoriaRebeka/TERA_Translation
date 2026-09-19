@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">[EN] One of our archaeologists&amp;#8212;if you can call her approach "archaeology"&amp;#8212;has wandered off again. Nema's reckless. I can't be bothered to see what she's gotten herself into again.&lt;BR&gt;&lt;BR&gt;Talk to {@LinkCreature:218#1022$$Mirak} and see if he sent her somewhere.&lt;br&gt;[ES] Una de nuestras arque&amp;#243;logos &amp;#8212;si es que se le puede llamar &quot;arqueolog&amp;#237;a&quot; a su m&amp;#233;todo&amp;#8212; se ha vuelto a alejar. Nema es imprudente. No tengo tiempo para averiguar en qu&amp;#233; l&amp;#237;o se ha metido esta vez.&lt;BR&gt;&lt;BR&gt;Habla con {@LinkCreature:218#1022$$Mirak} y averigua si la mand&amp;#243; a alguna parte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1022">
+        <Page social="4">[EN] {@LinkCreature:218#1007#Nema}, you say? I know her. Better than I wish to.&lt;BR&gt;&lt;BR&gt;No, she's not here. Despite my warnings, she snuck out again. I'm ready to kill her myself if she's not already dead.&lt;NEXTPAGEBUTTON&gt;"Where would she have gone?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;{@LinkCreature:218#1007#Nema}, dices? La conozco. M&amp;#225;s de lo que quisiera.&lt;BR&gt;&lt;BR&gt;No, no est&amp;#225; aqu&amp;#237;. A pesar de mis advertencias, se volvi&amp;#243; a escapar. Estoy listo para matarla yo mismo si no est&amp;#225; muerta ya.&lt;NEXTPAGEBUTTON&gt;"Where would she have gone?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I'm sure she's gone to the Temple of Tithus. She slips away whenever nobody's looking. There are three things I hate the most in the world: cultists, scorpions, and Nema's curiosity!&lt;BR&gt;&lt;BR&gt;If you want to find her, you're on your own. I'm through with her.&lt;br&gt;[ES] Estoy seguro de que fue al Temple of Tithus. Se escabulle cada vez que nadie mira. &amp;#161;Hay tres cosas que m&amp;#225;s odio en el mundo: cultistas, escorpiones y la curiosidad de Nema!&lt;BR&gt;&lt;BR&gt;Si quieres encontrarla, est&amp;#225;s por tu cuenta. Ya termin&amp;#233; con ella.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1007">
+        <Page social="4">[EN] Mirak doesn't like someone? Shock. I might be a special pain in his side, though.&lt;BR&gt;&lt;BR&gt;Still, I don't know why he thinks I'd stay in camp when I could be out examining things like this!&lt;br&gt;[ES] &amp;#191;A Mirak no le cae bien alguien? Qu&amp;#233; sorpresa. Aunque tal vez yo sea un dolor de cabeza especial para &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Aun as&amp;#237;, &amp;#161;no s&amp;#233; por qu&amp;#233; piensa que me quedar&amp;#237;a en el campamento pudiendo estar afuera examinando cosas como esta!</Page>
+    </Text>
+</QuestDialog>

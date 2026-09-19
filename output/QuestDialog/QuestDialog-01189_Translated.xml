@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="5">[EN] In order to keep the initiative, I'm sending you out to cull the argons.&lt;BR&gt;&lt;BR&gt;Kill kallan reavers, kalash protectors, defenders, and brutes, yusul slashers, and zariik cyanowitches and cyclopses.&lt;BR&gt;&lt;BR&gt;Report to Ayva in Kanstria when you've completed the mission.&lt;br&gt;[ES] Para mantener la iniciativa, te enviar&amp;#233; a eliminar argons.&lt;BR&gt;&lt;BR&gt;Derrota a kallan reavers, kalash protectors, defenders y brutes, yusul slashers, y zariik cyanowitches y cyclopses.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate ante Ayva en Kanstria cuando completes la misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1603">
+        <Page social="5">[EN] I'm glad we've got soldiers like you, &lt;PCNAME&gt;. Well done.&lt;br&gt;[ES] Me alegra que tengamos soldados como t&amp;#250;, &lt;PCNAME&gt;. Bien hecho.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1603">
+        <Page social="0">[EN] You haven't achieved your objectives yet. Sorry.&lt;br&gt;[ES] A&amp;#250;n no has alcanzado tus objetivos. Lo siento.</Page>
+    </Text>
+</QuestDialog>

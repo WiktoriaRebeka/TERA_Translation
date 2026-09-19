@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="5">[EN] Show these feathers to {@LinkCreature:242#1034#Penucha}. He should be able to say for sure if they're mekonari.&lt;br&gt;[ES] Mu&amp;#233;strale estas plumas a {@LinkCreature:242#1034#Penucha}. Deber&amp;#237;a poder decir con certeza si son de mekonari.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1034">
+        <Page social="5">[EN] Yes, these are mekonari feathers. But not just any feathers, mind you. These are inscribed wing-tip feathers of the type that are exchanged in an oath-taking ceremony.&lt;BR&gt;&lt;BR&gt;If you found these feathers here, it may mean the mekonari have oath-bound themselves to someone in this place, possibly the nagas who were carrying the feathers.&lt;BR&gt;&lt;BR&gt;The disturbing questions&amp;#8212;but ones to which you must find the answers&amp;#8212;are...who? And why?&lt;br&gt;[ES] S&amp;#237;, estas son plumas de mekonari. Pero no cualquier pluma, f&amp;#237;jate bien. Estas son plumas de la punta de las alas con inscripciones del tipo que se intercambian en una ceremonia de juramento.&lt;BR&gt;&lt;BR&gt;Si encontraste estas plumas aqu&amp;#237;, puede significar que los mekonari se han juramentado con alguien en este lugar, posiblemente los naga que llevaban las plumas.&lt;BR&gt;&lt;BR&gt;Las preguntas inquietantes, pero cuyas respuestas debes encontrar, son... &amp;#191;qui&amp;#233;n? &amp;#191;Y por qu&amp;#233;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1006">
+        <Page social="5">[EN] So now we have mekonaris into the mix. Great. I don't suppose you'd be willing to kill a few more {@LinkCreature:42#1020#mekonari bloodletters}? And some {@LinkCreature:42#230#Dagonite templars}? If you find any proof of this alliance between them, report back here immediately.&lt;br&gt;[ES] As&amp;#237; que ahora tenemos mekonaris en la mezcla. Genial. Supongo que no estar&amp;#237;as dispuesto a matar a unos cuantos {@LinkCreature:42#1020#mekonari bloodletters} m&amp;#225;s, &amp;#191;verdad? &amp;#191;Y algunos {@LinkCreature:42#230#Dagonite templars}? Si encuentras alguna prueba de esta alianza entre ellos, inf&amp;#243;rmanos aqu&amp;#237; inmediatamente.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="4" villagerId="1006">
+        <Page social="4">[EN] So this is the written alliance between the nagas and mekonaris? That's exactly the kind of evidence we were hoping to find. Well done, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Tell Darim on the third level everything we've discussed here. He's a clever one, that Darim.&lt;br&gt;[ES] &amp;#191;As&amp;#237; que esta es la alianza escrita entre los naga y los mekonari? Ese es exactamente el tipo de evidencia que esper&amp;#225;bamos encontrar. &amp;#161;Bien hecho, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Cu&amp;#233;ntale a Darim en el tercer nivel todo lo que hemos hablado aqu&amp;#237;. Es muy listo, ese Darim.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="242" villagerId="1006">
+        <Page social="0">[EN] Did you find what we were looking for? We need proof the nagas and mekonaris have an alliance.&lt;br&gt;[ES] &amp;#191;Encontraste lo que est&amp;#225;bamos buscando? Necesitamos pruebas de que los nagas y los mekonaris tienen una alianza.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="242" prevId="5" villagerId="1035">
+        <Page social="5">[EN] Mekonaris and nagas? Worse and worse. Might explain why the nagas have been so brave lately.&lt;BR&gt;&lt;BR&gt;Give me a minute to think about this and come up with a plan.&lt;br&gt;[ES] &amp;#191;Mekonaris y nagas? Cada vez peor. Podr&amp;#237;a explicar por qu&amp;#233; los nagas han estado tan valientes &amp;#250;ltimamente.&lt;BR&gt;&lt;BR&gt;Dame un minuto para pensar en esto y idear un plan.</Page>
+    </Text>
+</QuestDialog>

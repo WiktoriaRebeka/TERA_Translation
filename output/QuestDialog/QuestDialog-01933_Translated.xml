@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="4">[EN] A nexus unleashes a vast amount of energy. We're curious about what effect that energy has on the land.&lt;BR&gt;&lt;BR&gt;Here is a specimen jar for storing contaminated samples. Enter a nexus and collect soil samples.&lt;BR&gt;&lt;BR&gt;Good luck.&lt;br&gt;[ES] Un nexus libera una gran cantidad de energ&amp;#237;a. Tenemos curiosidad por saber qu&amp;#233; efecto tiene esa energ&amp;#237;a en la tierra.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes un frasco de muestras para guardar muestras contaminadas. Entra a un nexus y recolecta muestras de suelo.&lt;BR&gt;&lt;BR&gt;Buena suerte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1002">
+        <Page social="4">[EN] With but a glance I can see the nexus leached out all the nutrients from the soil in this jar&amp;#8212;the life-sustaining properties that make soil a home for plants and animals.&lt;BR&gt;&lt;BR&gt;This doesn't bode well for us. Not well at all.&lt;br&gt;[ES] Con solo un vistazo puedo ver que el nexus extrajo todos los nutrientes del suelo en este frasco: las propiedades que dan vida y hacen del suelo un hogar para plantas y animales.&lt;BR&gt;&lt;BR&gt;Esto no presagia nada bueno para nosotros. Nada bueno en absoluto.</Page>
+    </Text>
+</QuestDialog>

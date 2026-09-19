@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="4">[EN] The Blood Guard is Thulsa's most elite unit. They protect this place and so are a serious threat to the federation garrison. Worse, they seem to be up to something lately.&lt;BR&gt;&lt;BR&gt;You can find Blood Guard {@LinkCreature:33#10#mages}, {@LinkCreature:33#60#sorcerers}, and {@LinkCreature:33#70#arcanists} near the Shrieking Catacombs and the Distortion Prison.&lt;BR&gt;&lt;BR&gt;Bring back whatever information you can find.&lt;br&gt;[ES] La Guardia de Sangre es la unidad m&amp;#225;s &amp;#233;lite de Thulsa. Protegen este lugar y, por lo tanto, son una amenaza grave para la guarnici&amp;#243;n de la federaci&amp;#243;n. Peor a&amp;#250;n, parece que est&amp;#225;n tramando algo &amp;#250;ltimamente.&lt;BR&gt;&lt;BR&gt;Puedes encontrar {@LinkCreature:33#10#magos}, {@LinkCreature:33#60#hechiceros} y {@LinkCreature:33#70#arcanistas} de la Guardia de Sangre cerca de Shrieking Catacombs y Distortion Prison.&lt;BR&gt;&lt;BR&gt;Trae toda la informaci&amp;#243;n que puedas encontrar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1013">
+        <Page social="4">[EN] What have you found? Hmm...we'll need to study this further, but it may answer our questions about how Thulsa's power is supporting the Blood Guard.&lt;BR&gt;&lt;BR&gt;Before I get too far into these, here's your reward!&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; has encontrado? Mmm... tendremos que estudiar esto m&amp;#225;s a fondo, pero podr&amp;#237;a responder a nuestras preguntas sobre c&amp;#243;mo el poder de Thulsa est&amp;#225; respaldando a la Guardia de Sangre.&lt;BR&gt;&lt;BR&gt;Antes de profundizar demasiado en esto, &amp;#161;aqu&amp;#237; tienes tu recompensa!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1013">
+        <Page social="0">[EN] You can find Blood Guard {@LinkCreature:33#10#mages}, {@LinkCreature:33#60#sorcerers}, and {@LinkCreature:33#70#arcanists} near the Shrieking Catacombs and the Distortion Prison.&lt;br&gt;[ES] Puedes encontrar {@LinkCreature:33#10#magos}, {@LinkCreature:33#60#hechiceros} y {@LinkCreature:33#70#arcanistas} de la Guardia de Sangre cerca de Shrieking Catacombs y Distortion Prison.</Page>
+    </Text>
+</QuestDialog>

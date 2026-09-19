@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1100">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1100">
+        <Page social="5">[EN] I'm curious to see what you've got. Are you like most of the recruits that come through here, or are you something different?&lt;BR&gt;&lt;BR&gt;Let's see how far you get with Haidehr&amp;#8212;he's our duelist, and perhaps the finest in Velika. Then I'll know what I've got to work with.&lt;br&gt;[ES] Tengo curiosidad por ver qu&amp;#233; tienes. &amp;#191;Eres como la mayor&amp;#237;a de los reclutos que pasan por aqu&amp;#237;, o eres algo diferente?&lt;BR&gt;&lt;BR&gt;Veamos qu&amp;#233; tan lejos llegas con Haidehr; &amp;#233;l es nuestro duelista, y quiz&amp;#225;s el mejor en Velika. Entonces sabr&amp;#233; con qu&amp;#233; tengo que trabajar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1070">
+        <Page social="5">[EN] Ready to prove your worth, are you? There's no better way than dueling, if you ask me.&lt;br&gt;[ES] &amp;#191;Listo para demostrar tu val&amp;#237;a? No hay mejor manera que un duelo, si me preguntas.</Page>
+    </Text>
+</QuestDialog>

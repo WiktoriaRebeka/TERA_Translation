@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2000" prevId="0" villagerId="20403">
+        <Page social="5">[EN] &lt;PCNAME&gt;! I've got some interesting news!&lt;BR&gt;&lt;BR&gt;Those red crabbers and red crabbombs over there have been eating the crystallized Mournwings. After that, the Thorny eyestalkers ate the Red Crabbers!&lt;BR&gt;&lt;BR&gt;This could mean that the Thorny eyestalkers developed an immune system against the Mournwings by eating the crabbers.&lt;BR&gt;&lt;BR&gt;Please collect their shells for me.&lt;br&gt;[ES] &lt;PCNAME&gt;! &amp;#161;Tengo noticias interesantes!&lt;BR&gt;&lt;BR&gt;Esos red crabbers y red crabbombs de all&amp;#225; se han estado comiendo las Crystal Mournwings. &amp;#161;Despu&amp;#233;s de eso, los Thorny eyestalkers se comieron a los red crabbers!&lt;BR&gt;&lt;BR&gt;Esto podr&amp;#237;a significar que los Thorny eyestalkers desarrollaron un sistema inmunol&amp;#243;gico contra las Crystal Mournwings al comerse a los cangrejeros.&lt;BR&gt;&lt;BR&gt;Por favor, recoge sus caparazones para m&amp;#237;.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20403">
+        <Page social="5">[EN] I can't wait to see what kind of interrelation the crabbers and eyestalkers have.&lt;BR&gt;&lt;BR&gt;Thank you for your help, &lt;PCNAME&gt;. Now all that's left is rescuing Titus and the villagers. I wish you luck!&lt;br&gt;[ES] &amp;#161;No veo la hora de ver qu&amp;#233; tipo de relaci&amp;#243;n hay entre los pescadores de cangrejos y los ped&amp;#250;nculos oculares!&lt;BR&gt;&lt;BR&gt;Gracias por tu ayuda, &lt;PCNAME&gt;. Ahora solo falta rescatar a Titus y a los aldeanos. &amp;#161;Te deseo suerte!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" villagerId="20403">
+        <Page social="0">[EN] Without enough samples, I can't continue my research.&lt;br&gt;[ES] Sin suficientes muestras, no puedo continuar con mi investigaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

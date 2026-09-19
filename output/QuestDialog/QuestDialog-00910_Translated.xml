@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1025">
+        <Page social="5">[EN] Have you been out to the craters yet? The gods did that when the giants got too big for their giant britches.&lt;BR&gt;&lt;BR&gt;But what's even more amazing are the diggers and boregolems that survived the Day of Fire. My theory is they dug themselves in, really deep. They can dig like anything.&lt;BR&gt;&lt;BR&gt;If I had me some of those arms of theirs, our work would be cut in half, and in half again! I don't suppose you'd like to help?&lt;br&gt;[ES] &amp;#191;Has estado ya en los cr&amp;#225;teres? Los dioses hicieron eso cuando a los gigantes les crecieron demasiado los humos.&lt;BR&gt;&lt;BR&gt;Pero lo que es a&amp;#250;n m&amp;#225;s asombroso son los excavadores y boregolems que sobrevivieron al D&amp;#237;a del Fuego. Mi teor&amp;#237;a es que se cavaron muy, muy profundo. Pueden excavar como nadie.&lt;BR&gt;&lt;BR&gt;&amp;#161;Si tuviera algunos de esos brazos suyos, nuestro trabajo se reducir&amp;#237;a a la mitad y otra vez a la mitad! No querr&amp;#225;s ayudar, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1025">
+        <Page social="5">[EN] Look at these! We can throw away our shovels now, and really start to dig!&lt;br&gt;[ES] &amp;#161;Mira esto! &amp;#161;Podemos tirar nuestras palas ahora y empezar a excavar de verdad!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1025">
+        <Page social="0">[EN] I'm going to need a lot of those digger and boregolem arms. I'm telling you, I'm going to revolutionize excavation.&lt;br&gt;[ES] Voy a necesitar muchos de esos brazos de excavador y boregolem. Te lo digo, voy a revolucionar la excavaci&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

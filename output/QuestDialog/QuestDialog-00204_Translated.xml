@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="4">[EN] The remains of the gulas' victims are scattered around the Hungry Caverns Vaults. It won't bring them back or undo their suffering, but we owe it to them to return them to their homes.&lt;BR&gt;&lt;BR&gt;Gather up those you can find and bring them back here. I'll handle the rest.&lt;br&gt;[ES] Los restos de las v&amp;#237;ctimas de los gulas est&amp;#225;n esparcidos por Hungry Caverns Vaults. No los traer&amp;#225; de vuelta ni deshar&amp;#225; su sufrimiento, pero les debemos devolverlos a sus hogares.&lt;BR&gt;&lt;BR&gt;Re&amp;#250;ne a los que puedas encontrar y tr&amp;#225;elos de vuelta aqu&amp;#237;. Yo me encargar&amp;#233; del resto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="4">[EN] How we treat our dead says a lot about us as a society. I'm glad we've acted with honor. Thank you.&lt;br&gt;[ES] C&amp;#243;mo tratamos a nuestros muertos dice mucho de nosotros como sociedad. Me alegra que hayamos actuado con honor. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1001">
+        <Page social="0">[EN] We should return these remains to their homes.&lt;br&gt;[ES] Deber&amp;#237;amos devolver estos restos a sus hogares.</Page>
+    </Text>
+</QuestDialog>

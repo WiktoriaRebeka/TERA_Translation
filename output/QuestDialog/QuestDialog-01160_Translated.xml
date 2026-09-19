@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="4">[EN] When we lost our flight platform, we constructed a series of improvised transport devices. Without those, we'd never risk leaving Kanstria.&lt;NEXTPAGEBUTTON&gt;"How do they work?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Cuando perdimos nuestra plataforma de vuelo, construimos una serie de dispositivos de transporte improvisados. Sin ellos, nunca nos arriesgar&amp;#237;amos a salir de Kanstria.&lt;NEXTPAGEBUTTON&gt;"How do they work?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] They're not all that different from teleportals. Without the raw magical power to build a full-on teleportal network, we use {@RawItem:206811} to power them, and those aren't too hard to mine.&lt;BR&gt;&lt;BR&gt;Head out to {@Rgn:49002} and acquire {@RawItem:206811}. I hope you're proficient at mining.&lt;NEXTPAGEBUTTON&gt;"I've cracked a few rocks in my time."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No son muy diferentes de los telepuertos. Como no tenemos el poder m&amp;#225;gico bruto para construir una red de telepuertos completa, usamos {@RawItem:206811} para darles energ&amp;#237;a, y esos no son muy dif&amp;#237;ciles de extraer.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a {@Rgn:49002} y consigue {@RawItem:206811}. Espero que seas experto en miner&amp;#237;a.&lt;NEXTPAGEBUTTON&gt;"I've cracked a few rocks in my time."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Excellent. I'll meet you at the {@LinkCreature:249#1101}.&lt;BR&gt;&lt;BR&gt;Good luck!&lt;br&gt;[ES] Excelente. Te ver&amp;#233; en {@LinkCreature:249#1101}.&lt;BR&gt;&lt;BR&gt;&amp;#161;Buena suerte!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1017">
+        <Page social="6">[EN] Good. You found it.&lt;BR&gt;&lt;BR&gt;South of here is the {@Rgn:49002}. The argons use them to siphon energy from the fields. You'll need to mine {@RawItem:206811} from {@Collection:106} before you can use the platform.&lt;BR&gt;&lt;BR&gt;Come find me again once you have it.&lt;br&gt;[ES] Bien. Lo encontraste.&lt;BR&gt;&lt;BR&gt;Al sur de aqu&amp;#237; est&amp;#225; {@Rgn:49002}. Los argons los usan para extraer energ&amp;#237;a de los campos. Necesitar&amp;#225;s extraer {@RawItem:206811} de {@Collection:106} antes de poder usar la plataforma.&lt;BR&gt;&lt;BR&gt;Vuelve a buscarme una vez que lo tengas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1017">
+        <Page social="4">[EN] Now, use {@RawItem:206811} to activate the teleport platform.&lt;BR&gt;&lt;BR&gt;I'll see you in Kanstria.&lt;br&gt;[ES] Ahora, usa {@RawItem:206811} para activar la plataforma de teletransporte.&lt;BR&gt;&lt;BR&gt;Te veo en Kanstria.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" villagerId="1017">
+        <Page social="0">[EN] It's not easy to mine for {@RawItem:206811}, but it is easier when using the right equipment.&lt;br&gt;[ES] No es f&amp;#225;cil extraer {@RawItem:206811}, pero es m&amp;#225;s f&amp;#225;cil cuando se usa el equipo adecuado.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1018">
+        <Page social="6">[EN] Well done!&lt;BR&gt;&lt;BR&gt;The teleport platforms help us outmaneuver the argons. Pretty clever, don't you think?&lt;br&gt;[ES] &amp;#161;Bien hecho!&lt;BR&gt;&lt;BR&gt;Las plataformas de teletransporte nos ayudan a superar a los argons en maniobras. Bastante ingenioso, &amp;#191;no crees?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="4">[EN] We've been discussing a connection between the {@LinkCreature:40#11#selvaras scouts}, our missing friends, and the plague. The selvaras have a base near here. A search there might uncover useful information.&lt;br&gt;[ES] Hemos estado discutiendo una conexi&amp;#243;n entre los {@LinkCreature:40#11#selvaras scouts}, nuestros amigos desaparecidos y la plaga. Los selvaras tienen una base cerca de aqu&amp;#237;. Una b&amp;#250;squeda all&amp;#237; podr&amp;#237;a revelar informaci&amp;#243;n &amp;#250;til.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1012">
+        <Page social="4">[EN] Every page of these documents references the Legion of Thulsa in some way. There's our connection&amp;#8212;they're working together.&lt;BR&gt;&lt;BR&gt;But why? And for what?&lt;BR&gt;&lt;BR&gt;And for whom?&lt;br&gt;[ES] Cada p&amp;#225;gina de estos documentos hace referencia a la Legion of Thulsa de alguna manera. Ah&amp;#237; est&amp;#225; nuestra conexi&amp;#243;n: est&amp;#225;n trabajando juntos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Pero por qu&amp;#233;? &amp;#191;Y para qu&amp;#233;?&lt;BR&gt;&lt;BR&gt;&amp;#191;Y para qui&amp;#233;n?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1012">
+        <Page social="0">[EN] Bring any documents that refer to either the abductions or the plague. The connection is there somewhere.&lt;br&gt;[ES] Trae cualquier documento que haga referencia a los secuestros o a la plaga. La conexi&amp;#243;n est&amp;#225; por ah&amp;#237; en alguna parte.</Page>
+    </Text>
+</QuestDialog>

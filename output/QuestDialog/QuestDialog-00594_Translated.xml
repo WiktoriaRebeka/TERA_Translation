@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1007">
+        <Page social="5">[EN] The Blessed Woods is tended to by teraliths&amp;#8212;but instead of protecting it, they're destroying it!&lt;BR&gt;&lt;BR&gt;Hurry there and kill the {@LinkCreature:23#14#lurking teraliths}.&lt;BR&gt;&lt;BR&gt;Bring back the sealing rocks in their bodies. Our arcanists will need them later.&lt;br&gt;[ES] Los Bosques Benditos son cuidados por teraliths, pero en lugar de protegerlo, &amp;#161;lo est&amp;#225;n destruyendo!&lt;BR&gt;&lt;BR&gt;Date prisa y mata a los {@LinkCreature:23#14#lurking teraliths}.&lt;BR&gt;&lt;BR&gt;Trae de vuelta las piedras de sellado que est&amp;#225;n en sus cuerpos. Nuestros arcanistas las necesitar&amp;#225;n m&amp;#225;s tarde.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1007">
+        <Page social="5">[EN] It's too bad about the teraliths. They're hideously expensive to make.&lt;BR&gt;&lt;BR&gt;Oh, well. Nature moves on.&lt;br&gt;[ES] Es una pena lo de los teraliths. Son horrorosamente caros de fabricar.&lt;BR&gt;&lt;BR&gt;En fin. La naturaleza sigue su curso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1007">
+        <Page social="0">[EN] It's not just a question of destroying the teraliths. If the arcanists don't recover the stones, it costs so much more to make new ones.&lt;BR&gt;&lt;BR&gt;We must have them.&lt;br&gt;[ES] No es solo cuesti&amp;#243;n de destruir a los teraliths. Si los arcanistas no recuperan las piedras, cuesta mucho m&amp;#225;s hacer otras nuevas.&lt;BR&gt;&lt;BR&gt;Debemos tenerlas.</Page>
+    </Text>
+</QuestDialog>

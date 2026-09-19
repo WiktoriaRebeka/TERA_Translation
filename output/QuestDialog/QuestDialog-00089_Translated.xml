@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="4">[EN] The Mysterium insists they know nothing of the pylons hidden throughout Fyrmount. Perhaps you've dealt with the Cruental Pylon already?&lt;BR&gt;&lt;BR&gt;When my people cannot remember the answer, we must learn it anew. Thus, an investigation...&lt;NEXTPAGEBUTTON&gt;"I'm no sage."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] El Mysterium insiste en que no sabe nada de los pilones ocultos en todo Fyrmount. &amp;#191;Tal vez ya te has encargado del Cruental Pylon?&lt;BR&gt;&lt;BR&gt;Cuando mi gente no puede recordar la respuesta, debemos aprenderla de nuevo. Por lo tanto, una investigaci&amp;#243;n...&lt;NEXTPAGEBUTTON&gt;"I'm no sage."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Learning is not just for sages, &lt;PCNAME&gt;. Previous interactions with the Cruental Pylon proved that shurian magic is involved.&lt;BR&gt;&lt;BR&gt;If the shurians' magic reverses itself, all pylons in the defense network will be useless.&lt;BR&gt;&lt;BR&gt;And what is a powerful symbol of reversal? A mirror...like the ones that {@LinkCreature:4#3041#shurian mindbenders} and their {@LinkCreature:4#3042#hellion thralls} carry.&lt;br&gt;[ES] El aprendizaje no es solo para sabios, &lt;PCNAME&gt;. Las interacciones previas con el Cruental Pylon demostraron que la magia shurian est&amp;#225; involucrada.&lt;BR&gt;&lt;BR&gt;Si la magia de los shurians se revierte, todos los pilones de la red defensiva ser&amp;#225;n in&amp;#250;tiles.&lt;BR&gt;&lt;BR&gt;&amp;#191;Y qu&amp;#233; es un s&amp;#237;mbolo poderoso de inversi&amp;#243;n? Un espejo... como los que llevan los {@LinkCreature:4#3041#shurian mindbenders} y sus {@LinkCreature:4#3042#hellion thralls}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1133">
+        <Page social="4">[EN] This is it&amp;#8212;the first step toward...&lt;BR&gt;&lt;BR&gt;Total! Magic! Reversal!&lt;BR&gt;&lt;BR&gt;Our schemes are gathering momentum.&lt;br&gt;[ES] Esto es todo: el primer paso hacia...&lt;BR&gt;&lt;BR&gt;&amp;#161;Inversi&amp;#243;n! &amp;#161;M&amp;#225;gica! &amp;#161;Total!&lt;BR&gt;&lt;BR&gt;Nuestros planes est&amp;#225;n tomando impulso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1133">
+        <Page social="0">[EN] {@LinkCreature:4#3041#Shurian mindbenders} have the mirrors we need for total...magic...reversal!&lt;br&gt;[ES] &amp;#161;Los {@LinkCreature:4#3041#shurian mindbenders} tienen los espejos que necesitamos para la inversi&amp;#243;n... m&amp;#225;gica... total!</Page>
+    </Text>
+</QuestDialog>

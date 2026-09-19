@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1006">
+        <Page social="4">[EN] The argons didn't come through here alone. They had tuwangis with them.&lt;BR&gt;&lt;BR&gt;You know, it might be easier to get clues from the little tuwangis than the argons.&lt;BR&gt;&lt;BR&gt;A few of them were skulking near the stream south of the watchpost. See if they have any useful clues as to what the argons intend, &lt;PCNAME&gt;.&lt;br&gt;[ES] Los argon no pasaron por aqu&amp;#237; solos. Ven&amp;#237;an con tuwangis.&lt;BR&gt;&lt;BR&gt;Sabes, podr&amp;#237;a ser m&amp;#225;s f&amp;#225;cil obtener pistas de los peque&amp;#241;os tuwangis que de los argon.&lt;BR&gt;&lt;BR&gt;Unos cuantos merodeaban cerca del arroyo al sur del puesto de vigilancia. Ve si tienen alguna pista &amp;#250;til sobre lo que planean los argon, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1006">
+        <Page social="4">[EN] This was on the tuwangis? Let me examine this for a second.&lt;BR&gt;&lt;BR&gt;Wait...this is made up of the same components as the mist permeating Seeliewood.&lt;BR&gt;&lt;BR&gt;If the argons control the tuwangis with this, and the mist is the same...&lt;BR&gt;&lt;BR&gt;Oh no, we've got a bigger problem here than anyone knew.&lt;br&gt;[ES] &amp;#191;Esto lo ten&amp;#237;an los tuwangis? D&amp;#233;jame examinar esto por un segundo.&lt;BR&gt;&lt;BR&gt;Espera... esto est&amp;#225; hecho con los mismos componentes que la neblina que impregna Seeliewood.&lt;BR&gt;&lt;BR&gt;Si los argon controlan a los tuwangis con esto, y la neblina es la misma...&lt;BR&gt;&lt;BR&gt;Oh, no, tenemos un problema m&amp;#225;s grande de lo que nadie imaginaba.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" villagerId="1006">
+        <Page social="0">[EN] Are the tuwangis giving you trouble?&lt;BR&gt;&lt;BR&gt;Or do you have a phobia of frogs?&lt;br&gt;[ES] &amp;#191;Los tuwangis te est&amp;#225;n dando problemas?&lt;BR&gt;&lt;BR&gt;&amp;#191;O tienes fobia a las ranas?</Page>
+    </Text>
+</QuestDialog>

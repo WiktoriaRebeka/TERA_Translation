@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1037">
+        <Page social="4">[EN] Ugh! This stench! The gulas use some sort of spice that smells like dung-slathered zompori. They love it&amp;#8212;can't get enough.&lt;BR&gt;&lt;BR&gt;In the interest of hurting their morale and improving mine, I want you to steal it. I'll destroy it and we can all breathe easier.&lt;br&gt;[ES] &amp;#161;Uf! &amp;#161;Qu&amp;#233; peste! Los gula usan una especie de especia que huele a zompori embarrado en esti&amp;#233;rcol. Les encanta, nunca se hartan.&lt;BR&gt;&lt;BR&gt;Con el fin de perjudicar su moral y mejorar la m&amp;#237;a, quiero que la robes. La destruir&amp;#233; y todos podremos respirar m&amp;#225;s tranquilos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1037">
+        <Page social="4">[EN] Big mistake. I should have had you destroy it out there. Yuck!&lt;BR&gt;&lt;BR&gt;I think I just threw up a little.&lt;br&gt;[ES] Grave error. Deber&amp;#237;a haber hecho que la destruyeras all&amp;#225; afuera. &amp;#161;Puaj!&lt;BR&gt;&lt;BR&gt;Creo que acabo de vomitar un poco.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1037">
+        <Page social="0">[EN] Stealing their spice is the best idea. Trust me.&lt;br&gt;[ES] Robar su especia es la mejor idea. Cr&amp;#233;eme.</Page>
+    </Text>
+</QuestDialog>

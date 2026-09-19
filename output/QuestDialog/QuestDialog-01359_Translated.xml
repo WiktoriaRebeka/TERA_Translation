@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1023">
+        <Page social="4">[EN] There's a full company, at least, of devas encamped to the southeast. Atel Akaad scouts&amp;#8212;they've cut us off from Amena Quatla. Kill some of them. Search their gear for some clue to their orders.&lt;BR&gt;&lt;BR&gt;An explorer guildsman, Casias, is shadowing them. Consult with him on what you find.&lt;br&gt;[ES] Hay una compa&amp;#241;&amp;#237;a entera, como m&amp;#237;nimo, de devas acampados hacia el sureste. Exploradores de Atel Akaad; nos han cortado el paso hacia Amena Quatla. Mata a algunos de ellos. Busca en su equipo alguna pista sobre sus &amp;#243;rdenes.&lt;BR&gt;&lt;BR&gt;Casias, un miembro del gremio de exploradores, los est&amp;#225; siguiendo de cerca. Consulta con &amp;#233;l sobre lo que encuentres.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1014">
+        <Page social="4">[EN] Only the bravest travel these roads at present. There's business between us? Aah, the devas.&lt;BR&gt;&lt;BR&gt;The rings are Killian's, which explains the motley gathering of soldiers here in Dakonan Junction. The chaos god is never content to paint in single colors when he can use dozens.&lt;BR&gt;&lt;BR&gt;But these are mere scouts. Which begs the question&amp;#8212;where is their main force?&lt;BR&gt;&lt;BR&gt;I'll tell Keallach. You warn Denmar at Blackspring Camp.&lt;br&gt;[ES] Solo los m&amp;#225;s valientes viajan por estos caminos en este momento. &amp;#191;Tenemos asuntos pendientes? Ah, los devas.&lt;BR&gt;&lt;BR&gt;Los anillos son de Killian, lo que explica la heterog&amp;#233;nea reuni&amp;#243;n de soldados aqu&amp;#237; en Dakonan Junction. El dios del caos nunca se contenta con pintar con un solo color cuando puede usar docenas.&lt;BR&gt;&lt;BR&gt;Pero estos son meros exploradores. Lo que plantea la duda: &amp;#191;d&amp;#243;nde est&amp;#225; su fuerza principal?&lt;BR&gt;&lt;BR&gt;Se lo dir&amp;#233; a Keallach. T&amp;#250; advierte a Denmar en Blackspring Camp.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1014">
+        <Page social="0">[EN] Those devas must carry some evidence of their orders.&lt;BR&gt;&lt;BR&gt;Slay the fateshapers and reapers to the east and take whatever you find on their corpses.&lt;br&gt;[ES] Esos devas deben llevar alguna evidencia de sus &amp;#243;rdenes.&lt;BR&gt;&lt;BR&gt;Mata a los moldeadores del destino y a los segadores al este y toma todo lo que encuentres en sus cad&amp;#225;veres.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" prevId="3" villagerId="1008">
+        <Page social="4">[EN] Atel Akaad, eh?&lt;BR&gt;&lt;BR&gt;What do they want with this blasphemy the featherheads are committing?&lt;br&gt;[ES] &amp;#191;Atel Akaad, eh?&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; quieren con esta blasfemia que est&amp;#225;n cometiendo los cabezas de pluma?</Page>
+    </Text>
+</QuestDialog>

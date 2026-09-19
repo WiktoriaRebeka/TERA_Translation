@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] To recover the treasure, you need to meet your real enemies face-to-face on the battleground.&lt;br&gt;[ES] Para recuperar el tesoro, debes enfrentar cara a cara a tus verdaderos enemigos en el campo de batalla.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="0" villagerId="1601">
+        <Page social="4">[EN] You are strong and powerful. Your bravery deserves a reward.&lt;br&gt;[ES] Eres fuerte y poderoso. Tu valent&amp;#237;a merece una recompensa.</Page>
+    </Text>
+</QuestDialog>

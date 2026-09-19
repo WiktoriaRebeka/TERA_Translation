@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">[EN] You'll never believe this, but {@LinkCreature:63#3002#Taratia}'s gone and got herself drunk on firewhiskey&amp;#8212;in the middle of the day! I gave her a piece of my mind, but she's useless to me in that state.&lt;NEXTPAGEBUTTON&gt;"Anything I can do?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Jam&amp;#225;s vas a creer esto, pero {@LinkCreature:63#3002#Taratia} se ha emborrachado con whisky de fuego, a plena luz del d&amp;#237;a! Le he dicho cuatro verdades, pero no me sirve para nada en ese estado.&lt;NEXTPAGEBUTTON&gt;"Anything I can do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Well, give her this leather of water and see if you can get her to make enough sense to give you some of her daily tasks. She's slurring her words, but I'm sure you can manage.&lt;br&gt;[ES] Bueno, dale este odre de agua y mira si puedes hacer que recupere el juicio como para darte algunas de sus tareas diarias. Est&amp;#225; balbuceando, pero estoy segura de que podr&amp;#225;s manejarlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">[EN] You! I love you...did I ever tell you that? No, I really love you, &lt;PCNAME&gt;. Lots and lots and...what? Oh, her? She's dumb! You hear that Elthienne?&lt;BR&gt;&lt;BR&gt;Huh? You want to help me with stuff? Okay.&lt;br&gt;[ES] &amp;#161;T&amp;#250;! Te amo... &amp;#191;alguna vez te lo dije? No, de verdad te amo, &lt;PCNAME&gt;. Much&amp;#237;simo y... &amp;#191;qu&amp;#233;? &amp;#191;Oh, ella? &amp;#161;Es una tonta! &amp;#191;Escuchas eso, Elthienne?&lt;BR&gt;&lt;BR&gt;&amp;#191;Eh? &amp;#191;Quieres ayudarme con algunas cosas? De acuerdo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">[EN] Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206818} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.&lt;br&gt;[ES] Muchas gracias.&lt;BR&gt;&lt;BR&gt;Este es el {@RawItem:206818}, claro que s&amp;#237;. Dile a {@linkcreature:63#3002#Taratia} que le mand&amp;#233; las gracias.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] {@RawItem:206818} isn't easy to get, right? &lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] {@RawItem:206818} no es f&amp;#225;cil de conseguir, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206819} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.&lt;br&gt;[ES] Muchas gracias.&lt;BR&gt;&lt;BR&gt;Este es el {@RawItem:206819}, claro que s&amp;#237;. Dile a {@linkcreature:63#3002#Taratia} que le mand&amp;#233; las gracias.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] {@RawItem:206819} isn't easy to get, right? &lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] {@RawItem:206819} no es f&amp;#225;cil de conseguir, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206820} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.&lt;br&gt;[ES] Muchas gracias.&lt;BR&gt;&lt;BR&gt;Este es el {@RawItem:206820}, claro que s&amp;#237;. Dile a {@linkcreature:63#3002#Taratia} que le mand&amp;#233; las gracias.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] {@RawItem:206820} isn't easy to get, right? &lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] {@RawItem:206820} no es f&amp;#225;cil de conseguir, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206821} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.&lt;br&gt;[ES] Muchas gracias.&lt;BR&gt;&lt;BR&gt;Este es el {@RawItem:206821}, de acuerdo. Dile a {@linkcreature:63#3002#Taratia} que le mando las gracias.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] {@RawItem:206821} isn't easy to get, right? &lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] {@RawItem:206821} no es f&amp;#225;cil de conseguir, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206822} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.&lt;br&gt;[ES] Muchas gracias.&lt;BR&gt;&lt;BR&gt;Este es el {@RawItem:206822}, de acuerdo. Dile a {@linkcreature:63#3002#Taratia} que le mando las gracias.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] {@RawItem:206822} isn't easy to get, right? &lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] {@RawItem:206822} no es f&amp;#225;cil de conseguir, &amp;#191;verdad? &lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">[EN] I&amp;#8212;I just love you!&lt;br&gt;[ES] &amp;#161;Yo&amp;#8212;yo simplemente te amo!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1013">
+        <Page social="4" voiceTypeId="0">[EN] Orders just came down to clear the arachnen painweavers from the Labyrinth of Terror.&lt;BR&gt;&lt;BR&gt;Great, but I'm not sending one of the four of us in there.&lt;BR&gt;&lt;BR&gt;You have the gear for it, right?&lt;br&gt;[ES] Acaban de llegar &amp;#243;rdenes de limpiar a los arachnen painweavers del Labyrinth of Terror.&lt;BR&gt;&lt;BR&gt;Genial, pero no voy a mandar a ninguno de nosotros cuatro ah&amp;#237; dentro.&lt;BR&gt;&lt;BR&gt;Tienes el equipo para eso, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1013">
+        <Page social="4" voiceTypeId="0">[EN] Hey, sorry to put you up to that. I just can't handle arachnens.&lt;BR&gt;&lt;BR&gt;It's all those legs, with the bristly little hairs on them. Eeeugh!&lt;br&gt;[ES] Oye, perd&amp;#243;n por meterte en eso. Es que no soporto a los arachnens.&lt;BR&gt;&lt;BR&gt;Son todas esas patas, con esos peque&amp;#241;os pelos cerdosos. &amp;#161;U&amp;#4304;&amp;#4304;&amp;#4304;gh!</Page>
+    </Text>
+</QuestDialog>

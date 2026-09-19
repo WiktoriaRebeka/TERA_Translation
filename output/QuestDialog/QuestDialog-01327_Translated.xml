@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1021">
+        <Page social="4">[EN] The orcans used to keep to themselves in their settlement along the river to the southwest.&lt;BR&gt;&lt;BR&gt;That's changed. Someone's convinced them to fight us, raids and such. We need to know why.&lt;BR&gt;&lt;BR&gt;Hunt down the orcans and gather any clues. Orcans are fond of trophies and symbols. That might help.&lt;br&gt;[ES] Los orcans sol&amp;#237;an mantenerse apartados en su asentamiento a lo largo del r&amp;#237;o hacia el suroeste.&lt;BR&gt;&lt;BR&gt;Eso ha cambiado. Alguien los ha convencido de luchar contra nosotros, con incursiones y todo eso. Necesitamos saber por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;Caza a los orcans y re&amp;#250;ne cualquier pista. A los orcans les encantan los trofeos y los s&amp;#237;mbolos. Eso podr&amp;#237;a ayudar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1021">
+        <Page social="4">[EN] These bone trinkets belong to the unseelie. They're working with Thulsa and the mekonaris.&lt;BR&gt;&lt;BR&gt;That explains a great deal. If the unseelie allied themselves with Thulsa, they'd eagerly recruit others to fight for them.&lt;BR&gt;&lt;BR&gt;Clever little fiends.&lt;br&gt;[ES] Estas baratijas de hueso pertenecen a los unseelie. Est&amp;#225;n trabajando con Thulsa y los mekonaris.&lt;BR&gt;&lt;BR&gt;Eso explica gran parte. Si los unseelie se aliaron con Thulsa, reclutar&amp;#237;an con entusiasmo a otros para luchar por ellos.&lt;BR&gt;&lt;BR&gt;Peque&amp;#241;os demonios astutos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1021">
+        <Page social="0">[EN] Deal with the Bloodgulpers quickly, &lt;PCNAME&gt;. Fight well!&lt;br&gt;[ES] &amp;#161;Lidia con los Bloodgulpers r&amp;#225;pidamente, &lt;PCNAME&gt;. &amp;#161;Lucha bien!</Page>
+    </Text>
+</QuestDialog>

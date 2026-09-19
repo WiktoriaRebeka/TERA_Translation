@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1034">
+        <Page social="5">[EN] We've noticed the Gutrends keep their strength up by eating the {@LinkCreature:6#2011#hillwalker warthogs} and {@LinkCreature:6#2031#scavenging bears}. And us, of course, but we're already doing what we can to stay out of their food chain.&lt;BR&gt;&lt;BR&gt;If you get out there and destroy their food source, maybe they'll finally look elsewhere and we can be rid of them.&lt;br&gt;[ES] Hemos notado que los Gutrends mantienen su fuerza comiendo {@LinkCreature:6#2011#hillwalker warthogs} y {@LinkCreature:6#2031#scavenging bears}. Y a nosotros, por supuesto, pero ya estamos haciendo lo posible por mantenernos fuera de su cadena alimentaria.&lt;BR&gt;&lt;BR&gt;Si sales all&amp;#225; afuera y destruyes su fuente de alimento, tal vez finalmente busquen en otra parte y podamos librarnos de ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1034">
+        <Page social="5">[EN] Great! Now they'll either look somewhere else or die out trying to keep on after us.&lt;br&gt;[ES] &amp;#161;Genial! &amp;#161;Ahora o buscar&amp;#225;n en otro lado o se extinguir&amp;#225;n intentando seguir tras nosotros!</Page>
+    </Text>
+</QuestDialog>

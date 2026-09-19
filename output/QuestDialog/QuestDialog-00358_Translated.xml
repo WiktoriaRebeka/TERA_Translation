@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">[EN] All around you is the result of an unavoidable situation. Orcans attempting to steal supplies caused the airship's crash, and even now trade our crates among themselves.&lt;BR&gt;&lt;BR&gt;It is imperative that those crates are recovered. If you would help, collect at least four and bring them here.&lt;br&gt;[ES] A tu alrededor est&amp;#225; el resultado de una situaci&amp;#243;n inevitable. Los orcans que intentaban robar suministros causaron el accidente de la aeronave y, aun ahora, comercian con nuestras cajas entre ellos.&lt;BR&gt;&lt;BR&gt;Es imperativo que esas cajas sean recuperadas. Si quieres ayudar, recolecta al menos cuatro y tr&amp;#225;elas aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1007">
+        <Page social="4">[EN] There was hope that one particular crate would be among those you found&amp;#8212;one containing artifacts requested by &lt;b&gt;Sersine&lt;/b&gt;. Your efforts are appreciated, of course.&lt;br&gt;[ES] Hab&amp;#237;a esperanza de que una caja en particular estuviera entre las que encontraste, una que conten&amp;#237;a artefactos solicitados por &lt;b&gt;Sersine&lt;/b&gt;. Tus esfuerzos son apreciados, por supuesto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1007">
+        <Page social="0">[EN] The Tainted Gorge waits for these supplies. Somewhat impatiently, truth be told.&lt;BR&gt;&lt;BR&gt;Feel no pressure. All anger is directed at Chione, however unjustified.&lt;br&gt;[ES] Tainted Gorge espera estos suministros. Un poco impaciente, a decir verdad.&lt;BR&gt;&lt;BR&gt;No sientas presi&amp;#243;n. Toda la ira est&amp;#225; dirigida a Chione, por muy injustificada que sea.</Page>
+    </Text>
+</QuestDialog>

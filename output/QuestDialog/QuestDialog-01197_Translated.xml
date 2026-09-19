@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="4">[EN] A unique opportunity presents itself.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:50#3} is to blame for much of what we see around us. One of the outriders spotted him in the Nest of the Shaper.&lt;BR&gt;&lt;BR&gt;Fight your way past the argon defenses and slay this abominination.&lt;br&gt;[ES] Se presenta una oportunidad &amp;#250;nica.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:50#3} tiene la culpa de mucho de lo que vemos a nuestro alrededor. Uno de los exploradores lo vio en Nest of the Shaper.&lt;BR&gt;&lt;BR&gt;&amp;#193;brete paso entre las defensas argon y mata a esta abominaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1014">
+        <Page social="6">[EN] Maskimxuul's death will slow, if not stop, the argon corruption of this region. We might even see some of the stolen energy diffuse into the land.&lt;BR&gt;&lt;BR&gt;Your timely intervention gives us new options to consider. Thanks.&lt;br&gt;[ES] La muerte de Maskimxuul ralentizar&amp;#225;, si no detiene, la corrupci&amp;#243;n argon de esta regi&amp;#243;n. Incluso podr&amp;#237;amos ver algo de la energ&amp;#237;a robada disiparse en la tierra.&lt;BR&gt;&lt;BR&gt;Tu oportuna intervenci&amp;#243;n nos da nuevas opciones a considerar. Gracias.</Page>
+    </Text>
+</QuestDialog>

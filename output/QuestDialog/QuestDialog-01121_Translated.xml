@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1015">
+        <Page social="4">[EN] The argons hit our foundry at {@Rgn:48008}. I need you to find {@LinkCreature:248#1030}.&lt;BR&gt;&lt;BR&gt;We can't afford to lose any of the minds behind the cyanocannon effort.&lt;br&gt;[ES] Los argons golpearon nuestra fundici&amp;#243;n en {@Rgn:48008}. Necesito que encuentres a {@LinkCreature:248#1030}.&lt;BR&gt;&lt;BR&gt;No podemos darnos el lujo de perder a ninguna de las mentes detr&amp;#225;s del esfuerzo de los ca&amp;#241;ones cian.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1030">
+        <Page social="6">[EN] Yeah, the argons hit us hard. Lost most of my contingent.&lt;BR&gt;&lt;BR&gt;I sent our survivors to the Cyanocannon Foundry. That's where they'll do the most good.&lt;BR&gt;&lt;BR&gt;I'll let {@LinkCreature:248#1015} know my status.&lt;br&gt;[ES] S&amp;#237;, los argons nos golpearon duro. Perd&amp;#237; a la mayor parte de mi contingente.&lt;BR&gt;&lt;BR&gt;Envi&amp;#233; a nuestros sobrevivientes a la Cyanocannon Foundry. Ah&amp;#237; es donde har&amp;#225;n m&amp;#225;s falta.&lt;BR&gt;&lt;BR&gt;Le avisar&amp;#233; a {@LinkCreature:248#1015} sobre mi estado.</Page>
+    </Text>
+</QuestDialog>

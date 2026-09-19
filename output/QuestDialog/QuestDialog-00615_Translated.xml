@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="5">[EN] Pay attention now&amp;#8212;this isn't an operation for keeners. I've found an arena in Sand Wind Village where the kulkari force prisoners, slaves, and even other kulkari to fight monsters.&lt;BR&gt;&lt;BR&gt;The worst is called {@LinkCreature:24#5001#Merkaratos}. We're going to kill it and deprive the buggers of their bloody fun. And by "we," I mean you and whoever you can convince to come along. Much as I want to join in the fun, I have another scouting mission to attend to.&lt;br&gt;[ES] Presta atenci&amp;#243;n ahora: esta no es una operaci&amp;#243;n para novatos. Encontr&amp;#233; una arena en Sand Wind Village donde los kulkaris obligan a prisioneros, esclavos e incluso a otros kulkaris a luchar contra monstruos.&lt;BR&gt;&lt;BR&gt;El peor se llama {@LinkCreature:24#5001#Merkaratos}. Vamos a matarlo y a privar a esos idiotas de su maldita diversi&amp;#243;n. Y con &quot;vamos&quot;, me refiero a ti y a quien sea que puedas convencer para que venga. Por mucho que quiera unirme a la diversi&amp;#243;n, tengo otra misi&amp;#243;n de reconocimiento que atender.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1014">
+        <Page social="5">[EN] Do you want your fellow soldiers captured and forced to fight to the death? Go kill Merkaratos.&lt;br&gt;[ES] &amp;#191;Quieres que tus compa&amp;#241;eros soldados sean capturados y obligados a luchar a muerte? Ve a matar a Merkaratos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1014">
+        <Page social="0">[EN] I don't know how they caught it, but as long as it has victims to hunt, {@LinkCreature:24#5001#Merkaratos} isn't going anywhere.&lt;br&gt;[ES] No s&amp;#233; c&amp;#243;mo lo atraparon, pero mientras tenga v&amp;#237;ctimas que cazar, {@LinkCreature:24#5001#Merkaratos} no ir&amp;#225; a ninguna parte.</Page>
+    </Text>
+</QuestDialog>

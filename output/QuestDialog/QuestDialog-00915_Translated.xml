@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1029">
+        <Page social="18">[EN] When the prions ran us out of Thunder Hold, Jabel didn't make it out. If Elinu is merciful, he's hiding out in the ruins, waiting for rescue. If not...&lt;BR&gt;&lt;BR&gt;I can't think about that now. I just need someone to find him.&lt;br&gt;[ES] Cuando los prions nos expulsaron de Thunder Hold, Jabel no logr&amp;#243; escapar. Si Elinu es clemente, estar&amp;#225; escondido en las ruinas esperando rescate. Si no...&lt;BR&gt;&lt;BR&gt;No puedo pensar en eso ahora. Solo necesito que alguien lo encuentre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1014">
+        <Page social="5">[EN] (Jabel is dead. His hands clutch a book close to his chest.)&lt;NEXTPAGEBUTTON&gt;Look at the book.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] (Jabel est&amp;#225; muerto. Sus manos sostienen un libro cerca de su pecho.)&lt;NEXTPAGEBUTTON&gt;Look at the book.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] (It's written in a language you don't recognize.)&lt;br&gt;[ES] (Est&amp;#225; escrito en un idioma que no reconoces.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1029">
+        <Page social="5">[EN] If Jabel died for this, it had better be important.&lt;BR&gt;&lt;BR&gt;See if Jerad can translate it&amp;#8212;he reads a dozen languages, at least.&lt;br&gt;[ES] Si Jabel muri&amp;#243; por esto, m&amp;#225;s vale que sea importante.&lt;BR&gt;&lt;BR&gt;Comprueba si Jerad puede traducirlo; lee al menos una docena de idiomas.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="238" prevId="4" villagerId="1027">
+        <Page social="5">[EN] This is the book you found on Jabel's corpse?&lt;BR&gt;&lt;BR&gt;This was definitely written by a prion. Give me a moment...&lt;br&gt;[ES] &amp;#191;Este es el libro que encontr&amp;#233; en el cad&amp;#225;ver de Jabel?&lt;BR&gt;&lt;BR&gt;Definitivamente fue escrito por un prion. Dame un momento...</Page>
+    </Text>
+</QuestDialog>

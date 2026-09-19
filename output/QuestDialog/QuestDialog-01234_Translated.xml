@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">[EN] Ghabar's map indicates the pylons are coming out of Raseri Festning&amp;#8212;that's the giants' stronghold in this area. Giant and argon technology would be a dangerous combination. Too dangerous to leave be.&lt;BR&gt;&lt;BR&gt;Your orders are to infiltrate Raseri Festning and destroy all the pylons!&lt;br&gt;[ES] El mapa de Ghabar indica que los pylons salen de Raseri Festning, esa es la fortaleza de los gigantes en esta &amp;#225;rea. La tecnolog&amp;#237;a de los gigantes y los argons ser&amp;#237;a una combinaci&amp;#243;n peligrosa. &amp;#161;Demasiado peligrosa para dejarla estar!&lt;BR&gt;&lt;BR&gt;&amp;#161;Tus &amp;#243;rdenes son infiltrarte en Raseri Festning y destruir todos los pylons!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">[EN] The Vale of Spires is much safer thanks to your hard work. The federation&amp;#8212;we&amp;#8212;owe you a great debt!&lt;BR&gt;&lt;BR&gt;Report back to Habere and let them know what we've managed here. They need to know it's time to mobilize our forces.&lt;br&gt;[ES] El Vale of Spires es mucho m&amp;#225;s seguro gracias a tu arduo trabajo. &amp;#161;La federaci&amp;#243;n, nosotros, te debemos una gran deuda!&lt;BR&gt;&lt;BR&gt;Informa de vuelta en Habere y hazles saber lo que hemos logrado aqu&amp;#237;. Necesitan saber que es hora de movilizar nuestras fuerzas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" prevId="3" villagerId="1007">
+        <Page social="4">[EN] If Thulsa doesn't have a hold over the vale, that means we can start bringing our troops in. He's running out of enemies to hide behind!&lt;BR&gt;&lt;BR&gt;Thulsa's reign of terror is coming to an end, in large part thanks to you!&lt;br&gt;[ES] Si Thulsa no tiene el control del valle, significa que podemos empezar a traer a nuestras tropas. &amp;#161;Se le est&amp;#225;n acabando los enemigos tras los cuales esconderse!&lt;BR&gt;&lt;BR&gt;El reinado de terror de Thulsa est&amp;#225; llegando a su fin, &amp;#161;en gran parte gracias a ti!</Page>
+    </Text>
+</QuestDialog>

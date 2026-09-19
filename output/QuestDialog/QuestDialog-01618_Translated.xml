@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2118">
+        <Page social="0">[EN] Rhodos, Paesyn, and &lt;PCNAME&gt; continued to pursue Dakuryon, but found Zolyn's flower coronet instead.&lt;br&gt;[ES] Rhodos, Paesyn y &lt;PCNAME&gt; continuaron persiguiendo a Dakuryon, pero en su lugar encontraron la corona de flores de Zolyn.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2118">
+        <Page social="4">[EN] Let's spread out to find Dakuryon.&lt;BR&gt;&lt;BR&gt;Perhaps your dog-friend can assist you. He seems most eager.&lt;br&gt;[ES] Sep&amp;#225;rense para buscar a Dakuryon.&lt;BR&gt;&lt;BR&gt;Quiz&amp;#225;s tu amigo perro pueda ayudarte. Parece muy ansioso.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2139">
+        <Page social="4">[EN] &lt;PCNAME&gt;! I can help! I made a truth serum!&lt;BR&gt;&lt;BR&gt;Beat up one of their officers and use the serum to make them talk. It will help us save Zolyn!&lt;br&gt;[ES] &lt;PCNAME&gt;! &amp;#161;Puedo ayudar! &amp;#161;Prepar&amp;#233; un suero de la verdad!&lt;BR&gt;&lt;BR&gt;&amp;#161;Golpea a uno de sus oficiales y usa el suero para hacerle hablar! &amp;#161;Nos ayudar&amp;#225; a salvar a Zolyn!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="1221">
+        <Page social="4">[EN] Your feeble magic can't overcome my loyalty to Dakuryon!&lt;BR&gt;&lt;BR&gt;Your mission is doomed!&lt;br&gt;[ES] &amp;#161;Tu d&amp;#233;bil magia no puede superar mi lealtad a Dakuryon!&lt;BR&gt;&lt;BR&gt;&amp;#161;Tu misi&amp;#243;n est&amp;#225; condenada!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2122">
+        <Page social="4">[EN] It seemed like a vine unlikely to bloom, but we had to try.&lt;BR&gt;&lt;BR&gt;No time to waste. Upstairs!&lt;br&gt;[ES] Parec&amp;#237;a una enredadera poco propensa a florecer, pero ten&amp;#237;amos que intentarlo.&lt;BR&gt;&lt;BR&gt;No hay tiempo que perder. &amp;#161;Arriba!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" prevId="5" villagerId="2140">
+        <Page social="4">[EN] &lt;PCNAME&gt;, look what I found&amp;#8230;&lt;BR&gt;&lt;BR&gt;It's her coronet.&lt;BR&gt;&lt;BR&gt;Zolyn's here!&lt;br&gt;[ES] &lt;PCNAME&gt;, mira lo que encontr&amp;#233;...&lt;BR&gt;&lt;BR&gt;Es su corona.&lt;BR&gt;&lt;BR&gt;&amp;#161;Zolyn est&amp;#225; aqu&amp;#237;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1019">
+        <Page social="4">[EN] The faeries used to guard the Staff of Isren. Since the argons and Thulsa's troops came through, the faeries turned against us.&lt;BR&gt;&lt;BR&gt;The unicorns and their urisk minions scour Darkquaver Woods, preying on travelers and soldiers. That's not normal for unicorns.&lt;BR&gt;&lt;BR&gt;I need you to find out why they're acting this way.&lt;br&gt;[ES] Las hadas sol&amp;#237;an custodiar la Staff of Isren. Desde que los argons y las tropas de Thulsa pasaron por aqu&amp;#237;, las hadas se volvieron en nuestra contra.&lt;BR&gt;&lt;BR&gt;Los unicornios y sus esbirros urisk rastrean Darkquaver Woods, devorando viajeros y soldados. Eso no es normal en los unicornios.&lt;BR&gt;&lt;BR&gt;Necesito que descubras por qu&amp;#233; se est&amp;#225;n comportando as&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1019">
+        <Page social="4">[EN] These fragments are strange. They emanate argon energy, but there aren't many argons in Darkquaver Woods.&lt;BR&gt;&lt;BR&gt;Are these stones influencing the fey races? I must report this at once.&lt;br&gt;[ES] Estos fragmentos son extra&amp;#241;os. Emanan energ&amp;#237;a argon, pero no hay muchos argons en Darkquaver Woods.&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;n estas piedras influenciando a las razas fey? Debo informar de esto de inmediato.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1019">
+        <Page social="0">[EN] Urisks are numerous, but not particularly durable. The unicorns, however, are dangerous foes. Be cautious and you'll survive.&lt;br&gt;[ES] Los urisks son numerosos, pero no particularmente resistentes. Los unicornios, sin embargo, son enemigos peligrosos. S&amp;#233; cauteloso y sobrevivir&amp;#225;s.</Page>
+    </Text>
+</QuestDialog>

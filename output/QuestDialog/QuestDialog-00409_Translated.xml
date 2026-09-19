@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1017">
+        <Page social="5">[EN] Panpi's making saberskin gloves, and he had to come wave them in my face.&lt;BR&gt;&lt;BR&gt;He sniffed at my boots. Sniffed! Then he scrunched up his nose and said they make my feet smell!&lt;BR&gt;&lt;BR&gt;Ooh, I just want to...I don't know what, but I have to strike back!&lt;NEXTPAGEBUTTON&gt;"Well, yeah."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Panpi est&amp;#225; haciendo guantes de piel de sable, &amp;#161;y tuvo que venir a presum&amp;#237;rmelos en la cara.&lt;BR&gt;&lt;BR&gt;&amp;#161;Olfate&amp;#243; mis botas! &amp;#161;Las olfate&amp;#243;! Luego arrug&amp;#243; la nariz y dijo que hacen que mis pies apesten.&lt;BR&gt;&lt;BR&gt;Ay, solo quiero... &amp;#161;No s&amp;#233; qu&amp;#233;, pero tengo que contraatacar!&lt;NEXTPAGEBUTTON&gt;"Well, yeah."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] &lt;PCNAME&gt;, you have to help me.&lt;BR&gt;&lt;BR&gt;But what's better than saberskin? What?&lt;BR&gt;&lt;BR&gt;Oh, I've got it! Have you seen the pauldrons those {@LinkCreature:15#6#disturbed constructs} wear? That's basilisk leather. Nothing could be better than that.&lt;BR&gt;&lt;BR&gt;If you kill them, they won't be needing the leather, right?&lt;br&gt;[ES] &lt;PCNAME&gt;, tienes que ayudarme.&lt;BR&gt;&lt;BR&gt;Pero, &amp;#191;qu&amp;#233; es mejor que la piel de sable? &amp;#191;Qu&amp;#233;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Ah, ya s&amp;#233;! &amp;#191;Has visto las hombreras que usan esos {@LinkCreature:15#6#disturbed constructs}? Eso es cuero de basilisco. Nada podr&amp;#237;a ser mejor que eso.&lt;BR&gt;&lt;BR&gt;Si los matas, ya no van a necesitar el cuero, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1017">
+        <Page social="5">[EN] Ah!&lt;BR&gt;&lt;BR&gt;How soft. How supple! There's no way Panpi can top this!&lt;BR&gt;&lt;BR&gt;Thank you!&lt;br&gt;[ES] &amp;#161;Ah!&lt;BR&gt;&lt;BR&gt;Qu&amp;#233; suave. &amp;#161;Qu&amp;#233; terso! &amp;#161;No hay forma de que Panpi supere esto!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1017">
+        <Page social="0">[EN] You must bring me that leather! My pride depends on it!&lt;br&gt;[ES] &amp;#161;Debes traerme ese cuero! &amp;#161;Mi orgullo depende de ello!</Page>
+    </Text>
+</QuestDialog>

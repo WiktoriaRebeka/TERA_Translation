@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1005">
+        <Page social="18">[EN] Thulsa has quite the stronghold in Wyrmgorge. And now mekonari to the north? I don't give a damn what their agenda is, I just want them gone.&lt;BR&gt;&lt;BR&gt;I sent a scout, Wilene, to gather intel. Keep an eye out for her, will you? I fear she was captured.&lt;br&gt;[ES] Thulsa tiene un basti&amp;#243;n bastante fuerte en Wyrmgorge. &amp;#191;Y ahora los mekonari al norte? No me importa un bledo cu&amp;#225;les sean sus planes, solo quiero que desaparezcan.&lt;BR&gt;&lt;BR&gt;Envi&amp;#233; a una exploradora, Wilene, para reunir informaci&amp;#243;n. Vigila por si la ves, &amp;#191;quiero? Me temo que fue capturada.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1011">
+        <Page social="15">[EN] You're not very stealthy are you? I've managed to keep a low profile, but I had some close calls.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"What did you find out?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No eres muy sigiloso que digamos, &amp;#191;verdad? Me las he arreglado para mantener un perfil bajo, pero tuve algunas situaciones muy cercanas.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"What did you find out?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">[EN] The mekonari are putting spells on some of the demons around here, making them more ferocious and bringing them to the mekonari's side. They're essentially stealing living weapons from the legion&amp;#8212;right out from under them.&lt;BR&gt;&lt;BR&gt;If we get rid of them, I believe the spell will break.&lt;br&gt;[ES] Los mekonari est&amp;#225;n lanzando hechizos a algunos de los demonios por aqu&amp;#237;, haci&amp;#233;ndolos m&amp;#225;s feroces y poni&amp;#233;ndolos del lado de los mekonari. B&amp;#225;sicamente, les est&amp;#225;n robando armas vivas a la legi&amp;#243;n, justo de sus narices.&lt;BR&gt;&lt;BR&gt;Si nos deshacemos de ellos, creo que el hechizo se romper&amp;#225;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" prevId="3" villagerId="1011">
+        <Page social="8">[EN] You're stronger than you look!&lt;BR&gt;&lt;BR&gt;It will be a huge relief to Ramsleigh to be rid of those mekonari.&lt;BR&gt;&lt;BR&gt;Can you report the status here to Tesran at Jagged Crest?&lt;br&gt;[ES] &amp;#161;Eres m&amp;#225;s fuerte de lo que pareces!&lt;BR&gt;&lt;BR&gt;Para Ramsleigh ser&amp;#225; un gran alivio librarse de esos mekonari.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes informarle sobre la situaci&amp;#243;n aqu&amp;#237; a Tesran en Jagged Crest?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="235" prevId="4" villagerId="1015">
+        <Page social="15">[EN] Do you have news from the north?&lt;br&gt;[ES] , tienes noticias del norte?</Page>
+    </Text>
+</QuestDialog>

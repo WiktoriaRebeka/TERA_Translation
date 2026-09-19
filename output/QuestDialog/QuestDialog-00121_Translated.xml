@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="5">[EN] Okay, the next step here is going to be {@LinkCreature:5#20#Raguga}. This could very well be the key to breaking down the tuwangis.&lt;BR&gt;&lt;BR&gt;Do you still need fancy talk or can you just go take care of it? Seems like you'd have the drill by now.&lt;br&gt;[ES] Muy bien, el siguiente paso aqu&amp;#237; ser&amp;#225; {@LinkCreature:5#20#Raguga}. Esto bien podr&amp;#237;a ser la clave para acabar con los tuwangis.&lt;BR&gt;&lt;BR&gt;&amp;#191;Todav&amp;#237;a necesitas rodeos o puedes ir a encargarte de una vez? Parece que ya deber&amp;#237;as saber c&amp;#243;mo va esto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1012">
+        <Page social="5">[EN] Finally! This should be the end of our fighting with the tuwangis! You have truly helped us out a great deal. Thank you so much.&lt;br&gt;[ES] &amp;#161;Por fin! &amp;#161;Esto deber&amp;#237;a ser el fin de nuestros combates con los tuwangis! Nos has ayudado much&amp;#237;simo de verdad. Much&amp;#237;simas gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1012">
+        <Page social="0">[EN] Is he still standing?&lt;BR&gt;&lt;BR&gt;Maybe you needed the fancy words after all.&lt;br&gt;[ES] &amp;#191;A&amp;#250;n sigue en pie?&lt;BR&gt;&lt;BR&gt;Quiz&amp;#225;s s&amp;#237; necesitabas tantos rodeos despu&amp;#233;s de todo.</Page>
+    </Text>
+</QuestDialog>

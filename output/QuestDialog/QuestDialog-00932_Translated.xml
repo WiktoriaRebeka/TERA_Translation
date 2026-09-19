@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1024">
+        <Page social="4">[EN] The arachnens kidnapped people in Frontera and brought them here. By the time we got here, the nightmare-fuel arachnens had killed most of them.&lt;BR&gt;&lt;BR&gt;It's not a job anyone likes, but we need to find them. Their families need to know what happened here.&lt;br&gt;[ES] Los arachnens secuestraron gente en Frontera y los trajeron aqu&amp;#237;. Para cuando llegamos, los arachnens sacados de una pesadilla ya hab&amp;#237;an matado a la mayor&amp;#237;a.&lt;BR&gt;&lt;BR&gt;No es un trabajo que le guste a nadie, pero necesitamos encontrarlos. Sus familias necesitan saber qu&amp;#233; pas&amp;#243; aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1024">
+        <Page social="0">[EN] They shouldn't have died at all, but at least now we can send them home.&lt;br&gt;[ES] No debieron haber muerto en absoluto, pero al menos ahora podemos enviarlos a casa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1024">
+        <Page social="0">[EN] Help me find the remains of the fallen. Please.&lt;br&gt;[ES] Ay&amp;#250;dame a encontrar los restos de los ca&amp;#237;dos. Por favor.</Page>
+    </Text>
+</QuestDialog>

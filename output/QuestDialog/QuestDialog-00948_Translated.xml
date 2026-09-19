@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1033">
+        <Page social="4">[EN] I'm devising new ways to fight the arachnens&amp;#8212;hopefully before they become giant slashy killing things.&lt;BR&gt;&lt;BR&gt;That means research, so I thought we'd appease two baraka with one scroll.&lt;BR&gt;&lt;BR&gt;Head into the Hatchery and collect some of their cocoons. That will give me research subjects and leave the arachnens with fewer fighters. Sound good?&lt;br&gt;[ES] Estoy ideando nuevas formas de luchar contra los arachnens, con suerte antes de que se conviertan en gigantescos seres asesinos cortantes.&lt;BR&gt;&lt;BR&gt;Eso significa investigaci&amp;#243;n, as&amp;#237; que pens&amp;#233; en complacer a dos baraka con un solo pergamino.&lt;BR&gt;&lt;BR&gt;Entra en The Hatchery y recoge algunos de sus capullos. Eso me dar&amp;#225; sujetos de investigaci&amp;#243;n y dejar&amp;#225; a los arachnens con menos combatientes. &amp;#191;Te parece bien?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1033">
+        <Page social="0">[EN] Did you bring me the cocoons? Nicely done!&lt;BR&gt;&lt;BR&gt;Hopefully, I can find a way to fight Arachne's children without risking our soldiers' lives!&lt;br&gt;[ES] &amp;#191;Me trajiste los capullos? &amp;#161;Muy bien hecho!&lt;BR&gt;&lt;BR&gt;&amp;#161;Espero poder encontrar una forma de luchar contra los hijos de Arachne sin arriesgar las vidas de nuestros soldados!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1033">
+        <Page social="0">[EN] Cocoons make much easier targets than grown arachnens. Hurry!&lt;br&gt;[ES] Los capullos son blancos mucho m&amp;#225;s f&amp;#225;ciles que los arachnens adultos. &amp;#161;Date prisa!</Page>
+    </Text>
+</QuestDialog>

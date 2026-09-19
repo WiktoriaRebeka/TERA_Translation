@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="5">[EN] Apparently, our enemies include the Scions of Lok. You've fought them before, haven't you?&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:22#30#dark cardinals} have trained the {@LinkCreature:22#29#diminutive ovoliths} to serve them, and they've secured the catacombs.&lt;BR&gt;&lt;BR&gt;You have to stop them. Just kill them all.&lt;br&gt;[ES] Aparentemente, nuestros enemigos incluyen a los Scions of Lok. Ya has luchado contra ellos antes, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:22#30#dark cardinals} han entrenado a los {@LinkCreature:22#29#diminutive ovoliths} para que les sirvan, y se han asegurado las catacumbas.&lt;BR&gt;&lt;BR&gt;Tienes que detenerlos. Simplemente m&amp;#225;talos a todos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1027">
+        <Page social="5">[EN] The cultists will never face so-called federation justice. When we've reclaimed the Eldritch Academy, we'll gather our strength and inflict such suffering upon them they'll wish Shakan had ripped THEM apart.&lt;BR&gt;&lt;BR&gt;Wow. I don't usually get that mad.&lt;br&gt;[ES] Los sectarios nunca se enfrentar&amp;#225;n a la llamada justicia de la federaci&amp;#243;n. Cuando hayamos recuperado la Eldritch Academy, reuniremos nuestras fuerzas e infligiremos tal sufrimiento sobre ellos que desear&amp;#225;n que Shakan los hubiera despedazado A ELLOS.&lt;BR&gt;&lt;BR&gt;Vaya. Por lo general, no me enojo tanto.</Page>
+    </Text>
+</QuestDialog>

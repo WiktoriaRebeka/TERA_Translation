@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="4">[EN] Lok Fanatics and their {@LinkCreature:25#1031#dread knights} are wreaking havoc on the path to the cathedral, making it impossible for us to send reinforcements. I could have followed Elleon if the beasts weren't there. Take care of them for me, will you?&lt;br&gt;[ES] Los Lok Fanatics y sus {@LinkCreature:25#1031#dread knights} est&amp;#225;n sembrando el caos en el camino hacia la catedral, haciendo imposible que enviemos refuerzos. Podr&amp;#237;a haber seguido a Elleon si esas bestias no estuvieran ah&amp;#237;. Oc&amp;#250;pate de ellas por m&amp;#237;, &amp;#191;quieres?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1015">
+        <Page social="4">[EN] So fast? Fantastic!&lt;br&gt;[ES] &amp;#191;Tan r&amp;#225;pido? &amp;#161;Fant&amp;#225;stico!</Page>
+    </Text>
+</QuestDialog>

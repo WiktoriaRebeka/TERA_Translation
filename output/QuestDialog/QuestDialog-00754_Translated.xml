@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1031">
+        <Page social="4">[EN] Someone's supplying Kaidun's army in secret. We can't let them recover from our attacks.&lt;BR&gt;&lt;BR&gt;I need you to steal those supplies and haul them back here. If anyone's going to benefit from Westonia's bounty, it should be us!&lt;br&gt;[ES] Alguien est&amp;#225; abasteciendo al ej&amp;#233;rcito de Kaidun en secreto. No podemos dejar que se recuperen de nuestros ataques.&lt;BR&gt;&lt;BR&gt;&amp;#161;Necesito que robes esos suministros y los traigas de vuelta aqu&amp;#237;! Si alguien va a beneficiarse del bot&amp;#237;n de Westonia, deber&amp;#237;amos ser nosotros.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1031">
+        <Page social="4">[EN] Good job! Now we don't have to worry about rations for a while.&lt;br&gt;[ES] &amp;#161;Buen trabajo! Ahora no tenemos que preocuparnos por las raciones por un tiempo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1031">
+        <Page social="0">[EN] The supplies are probably distributed around the buildings at Daunting Pass.&lt;br&gt;[ES] Los suministros probablemente est&amp;#233;n distribuidos por los edificios en Daunting Pass.</Page>
+    </Text>
+</QuestDialog>

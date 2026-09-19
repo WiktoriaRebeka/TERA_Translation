@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="84" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1209">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1209">
+        <Page social="4">[EN] Our man Tapa here has never heard of ground carlams pepper! It's only the most delicious spice ever!&lt;BR&gt;&lt;BR&gt;His grilled pigling is very good, but a little carlams sprinkled on top would really take it up a notch.&lt;BR&gt;&lt;BR&gt;Carlams pepper grows in Tuwangi Mire. The most flavorful peppercorns are those that have been eaten by swamp toads. When dried, they have the most delectible flavor.&lt;BR&gt;&lt;BR&gt;Want to make a little something on the side, soldier? Get some freshly-eaten peppercorns and take them to Huchu in Pora Elinu. He trades fresh for dried straight across.&lt;br&gt;[ES] &amp;#161;Nuestro amigo Tapa aqu&amp;#237; jam&amp;#225;s ha o&amp;#237;do hablar de la pimienta de carlams molida! &amp;#161;Es solo la especia m&amp;#225;s deliciosa de todas!&lt;BR&gt;&lt;BR&gt;Su pigling a la parrilla es muy bueno, pero un poco de carlams espolvoreado encima realmente lo llevar&amp;#237;a al siguiente nivel.&lt;BR&gt;&lt;BR&gt;La pimienta de carlams crece en Tuwangi Mire. Los granos de pimienta m&amp;#225;s sabrosos son aquellos que han sido comidos por los sapos de los pantanos. Cuando se secan, tienen el sabor m&amp;#225;s deleitable.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres ganar algo de dinero extra, soldado? Consigue unos granos de pimienta reci&amp;#233;n comidos y ll&amp;#233;vaselos a Huchu en Pora Elinu. &amp;#201;l cambia los frescos por secos directamente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="68" prevId="2" villagerId="1012">
+        <Page social="5">[EN] Fresh carlams peppercorns! I can smell the toad belly on you. These are just right for drying.&lt;BR&gt;&lt;BR&gt;I'll give you this portly bag of recently dried and ground pepper in exchange.&lt;BR&gt;&lt;BR&gt;Do we have a deal?&lt;br&gt;[ES] &amp;#161;Granos de pimienta de carlams frescos! Puedo oler el vientre de sapo en ti. Estos est&amp;#225;n justo en su punto para secarse.&lt;BR&gt;&lt;BR&gt;Te dar&amp;#233; esta generosa bolsa de pimienta reci&amp;#233;n seca y molida a cambio.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tenemos un trato?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="68" villagerId="1012">
+        <Page social="0">[EN] Bring me that pepper and I'll make it worth your while.&lt;br&gt;[ES] Tr&amp;#225;eme esa pimienta y har&amp;#233; que valga la pena.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="84" prevId="3" villagerId="1209">
+        <Page social="4">[EN] A whole bag!&lt;BR&gt;&lt;BR&gt;Tapa will be blown away by this stuff.&lt;BR&gt;&lt;BR&gt;Thanks, friend.&lt;br&gt;[ES] &amp;#161;Una bolsa entera!&lt;BR&gt;&lt;BR&gt;Tapa va a enloquecer con esto.&lt;BR&gt;&lt;BR&gt;Gracias, amigo.</Page>
+    </Text>
+</QuestDialog>

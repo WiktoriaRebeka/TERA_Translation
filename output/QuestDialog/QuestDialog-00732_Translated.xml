@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1044">
+        <Page social="4">[EN] Those wrecks were gula merchant ships. Should be full of boring stuff like rations, lumber, and grain. But we found a manifest that says there are gold coins in the cargo hold. Gold!&lt;BR&gt;&lt;BR&gt;I know the sailors are all undead monsters now, but wouldn't you have grabbed the coins before you ran aground? Kill the {@LinkCreature:31#12#drowned gula sailors} and {@LinkCreature:31#14#bosuns} and see what they're carrying in their pockets!&lt;br&gt;[ES] Esos naufragios eran barcos mercantes gula. Deber&amp;#237;an estar llenos de cosas aburridas como raciones, madera y grano. Pero encontramos un manifiesto que dice que hay monedas de oro en la bodega de carga. &amp;#161;Oro!&lt;BR&gt;&lt;BR&gt;S&amp;#233; que los marineros son ahora monstruos no muertos, &amp;#191;pero no habr&amp;#237;as agarrado las monedas antes de encallar? &amp;#161;Mata a los {@LinkCreature:31#12#drowned gula sailors} y a los {@LinkCreature:31#14#bosuns} y mira qu&amp;#233; llevan en los bolsillos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1044">
+        <Page social="4">[EN] Shiny! I can't give you all this gold for just helping, but here, I'll give you this!&lt;br&gt;[ES] &amp;#161;Brillante! &amp;#161;No puedo darte todo este oro solo por ayudar, pero toma, te dar&amp;#233; esto!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1044">
+        <Page social="0">[EN] Lucky gold coins! Shiny gold coins! Rich popori explorers!&lt;br&gt;[ES] &amp;#161;Monedas de oro de la suerte! &amp;#161;Monedas de oro brillantes! &amp;#161;Ricos exploradores popori!</Page>
+    </Text>
+</QuestDialog>

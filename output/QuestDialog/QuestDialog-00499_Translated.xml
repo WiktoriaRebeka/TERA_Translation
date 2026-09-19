@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1016">
+        <Page social="4">[EN] While you're here...you know, it would probably be best to take their leader out.&lt;BR&gt;&lt;BR&gt;His name is Sidurek, and he seems to have appeared at the same time our people starting getting sick...when they started turning...&lt;NEXTPAGEBUTTON&gt;"So killing him should give us another clue?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ya que est&amp;#225;s aqu&amp;#237;... sabes, probablemente ser&amp;#237;a mejor eliminar a su l&amp;#237;der.&lt;BR&gt;&lt;BR&gt;Se llama Sidurek, y parece haber aparecido al mismo tiempo que nuestra gente empez&amp;#243; a enfermar... cuando empezaron a transformarse...&lt;NEXTPAGEBUTTON&gt;"So killing him should give us another clue?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] I'm hoping, yes.&lt;BR&gt;&lt;BR&gt;{@linkcreature:19#4009#Sidurek} is probably deep inside the rebels' camp, so be careful of his guards.&lt;br&gt;[ES] Eso espero, s&amp;#237;.&lt;BR&gt;&lt;BR&gt;{@linkcreature:19#4009#Sidurek} probablemente est&amp;#233; en lo profundo del campamento de los rebeldes, as&amp;#237; que ten cuidado con sus guardias.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1016">
+        <Page social="4">[EN] Is he dead? Good. That's good. Did you find any clues?&lt;BR&gt;&lt;BR&gt;A letter? Give it here.&lt;BR&gt;&lt;BR&gt;It speaks of someone named Malachai, a plan, and an item Sidurek received. Hmm.&lt;BR&gt;&lt;BR&gt;We must find out more.&lt;br&gt;[ES] &amp;#191;Est&amp;#225; muerto? Bien. Eso es bueno. &amp;#191;Encontraste alguna pista?&lt;BR&gt;&lt;BR&gt;&amp;#191;Una carta? D&amp;#225;mela aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Habla de alguien llamado Malachai, de un plan y de un objeto que Sidurek recibi&amp;#243;. Mmm.&lt;BR&gt;&lt;BR&gt;Debemos averiguar m&amp;#225;s.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1016">
+        <Page social="0">[EN] You must destroy Sidurek before things get even further out of control.&lt;br&gt;[ES] Debes destruir a Sidurek antes de que las cosas se salgan a&amp;#250;n m&amp;#225;s de control.</Page>
+    </Text>
+</QuestDialog>

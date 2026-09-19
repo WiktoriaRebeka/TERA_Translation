@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1017">
+        <Page social="4">[EN] My mission is developing weapons that give us an edge over the argons. Certainly we don't have the advantage of numbers.&lt;NEXTPAGEBUTTON&gt;"Got any prototypes?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Mi misi&amp;#243;n es desarrollar armas que nos den una ventaja sobre los argons. Ciertamente no tenemos la ventaja de los n&amp;#250;meros.&lt;NEXTPAGEBUTTON&gt;"Got any prototypes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Well, I have these argon flux modulators. They're supposed to affect argons but not endanger others.&lt;BR&gt;&lt;BR&gt;I just need you to test it in field. And not die.&lt;br&gt;[ES] Bueno, tengo estos moduladores de flujo argon. Se supone que afectan a los argons pero no ponen en peligro a los dem&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Solo necesito que lo pruebes en el campo. Y que no mueras.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">[EN] This bomb should only affect hulrap bashers near {@Rgn:48008}. It probably won't kill them, but it might render them docile.&lt;BR&gt;&lt;BR&gt;Or it might do something totally different. Report any rashes to me.&lt;br&gt;[ES] Esta bomba solo deber&amp;#237;a afectar a los hulrap bashers cerca de {@Rgn:48008}. Probablemente no los mate, pero tal vez los vuelva d&amp;#243;ciles.&lt;BR&gt;&lt;BR&gt;O tal vez haga algo totalmente distinto. Inf&amp;#243;rmame si te sale sarpullido.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">[EN] (After Selecting Part 1, Dialogue Page1)&lt;br&gt;[ES] (After Selecting Part 1, Dialogue Page1)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">[EN] (After Selecting Part 2, Dialogue Page1)&lt;br&gt;[ES] (After Selecting Part 2, Dialogue Page1)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">[EN] (After Selecting Part 3, Dialogue Page1)&lt;br&gt;[ES] (After Selecting Part 3, Dialogue Page1)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="6">[EN] Take this argon flux modulator, test it on {@LinkCreature:48#5#hulrap bashers}, and report back to me.&lt;br&gt;[ES] Toma este modulador de flujo argon, pru&amp;#233;balo en {@LinkCreature:48#5#hulrap bashers} e inf&amp;#243;rmame cuando termines.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="1017">
+        <Page social="6">[EN] It turned into a frog? Extraordinary.&lt;BR&gt;&lt;BR&gt;If it had turned into a pigling, we'd soon have the fattest army in history.&lt;BR&gt;&lt;BR&gt;Oh, well. Back to the drawing board.&lt;br&gt;[ES] &amp;#191;Se convirti&amp;#243; en rana? Extraordinario.&lt;BR&gt;&lt;BR&gt;Si se hubiera convertido en un pigling, pronto tendr&amp;#237;amos al ej&amp;#233;rcito m&amp;#225;s gordo de la historia.&lt;BR&gt;&lt;BR&gt;En fin. De vuelta a la mesa de dise&amp;#241;o.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="1017">
+        <Page social="6">[EN] Take this argon flux modulator, test it on hulrap bashers, and report back to me.&lt;br&gt;[ES] Toma este modulador de flujo argon, pru&amp;#233;balo en hulrap bashers e inf&amp;#243;rmame cuando termines.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="1017">
+        <Page social="6">[EN] It shrank? Remarkable.&lt;BR&gt;&lt;BR&gt;If I can adjust the formula to affect akalaths or gilgashes, that could change the course of the war!&lt;br&gt;[ES] &amp;#191;Encogi&amp;#243;? Notable.&lt;BR&gt;&lt;BR&gt;Si logro ajustar la f&amp;#243;rmula para que afecte a akalaths o gilgashes, &amp;#161;eso podr&amp;#237;a cambiar el curso de la guerra!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="1017">
+        <Page social="6">[EN] Take this argon flux modulator, test it on hulrap bashers, and report back to me.&lt;br&gt;[ES] Toma este modulador de flujo argon, pru&amp;#233;balo en hulrap bashers e inf&amp;#243;rmame cuando termines.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="11" villagerId="1017">
+        <Page social="6">[EN] Stronger? That's bad.&lt;BR&gt;&lt;BR&gt;I don't know where the formula went wrong. I'll go over my notes again. Back to the drawing board.&lt;br&gt;[ES] &amp;#191;M&amp;#225;s fuerte? Eso es malo.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; en qu&amp;#233; fall&amp;#243; la f&amp;#243;rmula. Revisar&amp;#233; mis notas de nuevo. De vuelta a la mesa de dise&amp;#241;o.</Page>
+    </Text>
+</QuestDialog>

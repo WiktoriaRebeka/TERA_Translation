@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1042">
+        <Page social="4">[EN] It's difficult to detect the silent movements of the {@LinkCreature:31#8#sepulchral wraiths} and {@LinkCreature:31#9#souleater wraiths}. That's one reason they've killed so many. Please eliminate these creatures for the safety of the coastal villagers.&lt;br&gt;[ES] Es dif&amp;#237;cil detectar los movimientos silenciosos de los {@LinkCreature:31#8#sepulchral wraiths} y {@LinkCreature:31#9#souleater wraiths}. Esa es una de las razones por las que han matado a tantos. Por favor, elimina a estas criaturas por la seguridad de los aldeanos de la costa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1042">
+        <Page social="4">[EN] Good work. You can't imagine how many lives you have saved.&lt;br&gt;[ES] Buen trabajo. No te imaginas cu&amp;#225;ntas vidas has salvado.</Page>
+    </Text>
+</QuestDialog>

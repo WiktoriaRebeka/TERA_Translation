@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="4">[EN] The expeditionary force sent me out to hunt for them. Apparently I need to turn in my hunting credentials&amp;#8212;I haven't bagged anything all day. I know they're getting hungry. Actually, they were hungry when I left.&lt;BR&gt;&lt;BR&gt;You know those autumn mushrooms that grow on the Plain of the Damned? Really nutritious, and they don't taste all that bad.&lt;BR&gt;&lt;BR&gt;I can't take them back&amp;#8212;they'd tear me to pieces. But you, on the other hand...&lt;br&gt;[ES] La fuerza expedicionaria me envi&amp;#243; a cazar para ellos. Al parecer tengo que entregar mis credenciales de caza; no he atrapado nada en todo el d&amp;#237;a. S&amp;#233; que tienen hambre. De hecho, ten&amp;#237;an hambre cuando me fui.&lt;BR&gt;&lt;BR&gt;&amp;#191;Conoces esos hongos de oto&amp;#241;o que crecen en Plain of the Damned? Son muy nutritivos y no saben nada mal.&lt;BR&gt;&lt;BR&gt;No puedo llev&amp;#225;rselos; me har&amp;#237;an pedazos. Pero t&amp;#250;, en cambio...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1033">
+        <Page social="4">[EN] You came from Craxan? You must have the meat he promised us!&lt;NEXTPAGEBUTTON&gt;"Actually..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Vienes de Craxan? &amp;#161;Debes tener la carne que nos prometi&amp;#243;!&lt;NEXTPAGEBUTTON&gt;"Actually..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Oh. Mushrooms. Again.&lt;BR&gt;&lt;BR&gt;You probably don't want to be here when they find out it's mushroom soup again tonight.&lt;br&gt;[ES] Oh. Hongos. Otra vez.&lt;BR&gt;&lt;BR&gt;Probablemente no quieras estar aqu&amp;#237; cuando descubran que esta noche otra vez hay sopa de hongos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1033">
+        <Page social="0">[EN] Where's Craxan with that blasted meat? We're hungry!&lt;br&gt;[ES] &amp;#191;D&amp;#243;nde est&amp;#225; Craxan con esa maldita carne? &amp;#161;Tenemos hambre!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="0">[EN] You found the hiding tuwangi and gave him courage.&lt;br&gt;[ES] Encontraste al tuwangi escondido y le diste valor.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="4">[EN] Baba tuwangi scared of big frog. He hid. Time for ceremony. Must find him!&lt;NEXTPAGEBUTTON&gt;Where do you think he is?&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Baba tuwangi tiene miedo de la rana grande. Se escondi&amp;#243;. Es hora de la ceremonia. &amp;#161;Debemos encontrarlo!&lt;NEXTPAGEBUTTON&gt;Where do you think he is?&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">[EN] So many hiding places! But small tuwangi cannot have run far.&lt;BR&gt;&lt;BR&gt;Here drum. Find hiding spot and hit drum to bring tuwangi out.&lt;NEXTPAGEBUTTON&gt;I'll help.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Tantos lugares para esconderse! Pero un peque&amp;#241;o tuwangi no puede haber corrido muy lejos.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes un tambor. Encuentra el escondite y golpea el tambor para sacar al tuwangi.&lt;NEXTPAGEBUTTON&gt;I'll help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">[EN] Scared Tuwangi &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Tuwangi asustado &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">[EN] Scared Tuwangi &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Tuwangi asustado &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">[EN] Scared Tuwangi &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Tuwangi asustado &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">[EN] Scared Tuwangi &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Tuwangi asustado &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="205" prevId="2" villagerId="2005">
+        <Page social="4">[EN] Why so much fire?&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; tanto fuego?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="205" prevId="8" villagerId="2006">
+        <Page social="4">[EN] Is it time to eat dragons?&lt;br&gt;[ES] &amp;#191;Es hora de comer dragones?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="205" prevId="9" villagerId="2007">
+        <Page social="4">[EN] More drum?&lt;br&gt;[ES] &amp;#191;M&amp;#225;s tambor?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="205" prevId="10" villagerId="2008">
+        <Page social="4">[EN] Growing up is hard.&lt;br&gt;[ES] Crecer es dif&amp;#237;cil.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="205" prevId="11" villagerId="2001">
+        <Page social="4">[EN] Baba tuwangi returned! Now celebration can begin. You make good tuwangi.&lt;br&gt;[ES] &amp;#161;Baba tuwangi regres&amp;#243;! Ahora la celebraci&amp;#243;n puede comenzar. Eres un buen tuwangi.</Page>
+    </Text>
+</QuestDialog>

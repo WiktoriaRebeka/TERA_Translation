@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1012">
+        <Page social="4">[EN] Clearly, the vampirs are behind Jadan's death&amp;#8212;there's no other creature that goes about draining blood. Disgusting habit.&lt;BR&gt;&lt;BR&gt;Luckily, my grandfather taught me something very important long ago&amp;#8212;they can't stand &lt;font color='#660000'&gt;galicho&lt;/font&gt;. He also taught me how to create a potion that amplifies its scent&amp;#8212;and trust me, no one would want to, but for this.&lt;BR&gt;&lt;BR&gt;If you can get me that weed, I can make a foul&amp;#8212;but useful&amp;#8212;potion.&lt;br&gt;[ES] Claramente, los vampirs est&amp;#225;n detr&amp;#225;s de la muerte de Jadan; no hay otra criatura que se dedique a drenar sangre. Qu&amp;#233; costumbre tan repugnante.&lt;BR&gt;&lt;BR&gt;Por suerte, mi abuelo me ense&amp;#241;&amp;#243; algo muy importante hace mucho tiempo: no soportan el &lt;font color='#660000'&gt;galicho&lt;/font&gt;. Tambi&amp;#233;n me ense&amp;#241;&amp;#243; a crear una poci&amp;#243;n que amplifica su olor y, cr&amp;#233;eme, nadie querr&amp;#237;a hacerlo, pero por esto.&lt;BR&gt;&lt;BR&gt;Si puedes conseguirme esa hierba, puedo preparar una poci&amp;#243;n apestosa, pero &amp;#250;til.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1012">
+        <Page social="4">[EN] Exce&amp;#8212;whoa! It smells even worse than I remember.&lt;BR&gt;&lt;BR&gt;Well, better get to it, then.&lt;br&gt;[ES] Exce... &amp;#161;gu&amp;#225;cala! Huele incluso peor de lo que recuerdo.&lt;BR&gt;&lt;BR&gt;Bueno, ser&amp;#225; mejor ponerse a trabajar entonces.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1012">
+        <Page social="0">[EN] Without that weed, there's no preventing the vampirs from doing to us all what they did to Jadan.&lt;BR&gt;&lt;BR&gt;I recommend you get moving.&lt;br&gt;[ES] Sin esa hierba, no hay forma de evitar que los vampirs nos hagan a todos lo que le hicieron a Jadan.&lt;BR&gt;&lt;BR&gt;Te recomiendo que te pongas en marcha.</Page>
+    </Text>
+</QuestDialog>

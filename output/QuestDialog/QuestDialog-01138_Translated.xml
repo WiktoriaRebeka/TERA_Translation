@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1041">
+        <Page social="4">[EN] &lt;PCNAME&gt;! I need your help&amp;#8212;right now!&lt;NEXTPAGEBUTTON&gt;"What's wrong?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! &amp;#161;Necesito tu ayuda, ahora mismo!&lt;NEXTPAGEBUTTON&gt;"What's wrong?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] The argons attacked a Shariar transport somewhere between the Argon Bulwark and Carnage Vale.&lt;BR&gt;&lt;BR&gt;Your orders are to locate the transport and provide aid to any survivors. Especially...uh, just hurry.&lt;NEXTPAGEBUTTON&gt;"I'll leave at once."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Los argons atacaron un transporte Shariar en alg&amp;#250;n lugar entre Argon Bulwark y Carnage Vale.&lt;BR&gt;&lt;BR&gt;Tus &amp;#243;rdenes son localizar el transporte y brindar ayuda a los sobrevivientes. Especialmente... este, solo date prisa.&lt;NEXTPAGEBUTTON&gt;"I'll leave at once."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1042">
+        <Page social="6">[EN] Didn't expect to see anyone so quickly. I assume I have Truhna to thank for that.&lt;NEXTPAGEBUTTON&gt;"Any casualties?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No esperaba ver a nadie tan r&amp;#225;pido. Supongo que tengo que agradecerle a Truhna por eso.&lt;NEXTPAGEBUTTON&gt;"Any casualties?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] None from the crash, but the subsequent ground attack cost us a lot of lives.&lt;BR&gt;&lt;BR&gt;We've set up a defensible position, and I have scouts moving toward our original target, but we could use some help if you're up to it.&lt;br&gt;[ES] Ninguna por el accidente, pero el ataque terrestre posterior nos cost&amp;#243; muchas vidas.&lt;BR&gt;&lt;BR&gt;Hemos establecido una posici&amp;#243;n defendible y tengo exploradores movi&amp;#233;ndose hacia nuestro objetivo original, pero nos vendr&amp;#237;a bien algo de ayuda si est&amp;#225;s dispuesto.</Page>
+    </Text>
+</QuestDialog>

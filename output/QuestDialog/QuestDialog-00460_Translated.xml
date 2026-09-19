@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1013">
+        <Page social="5">[EN] Soldier! Need your help. Cult's raiding our wagons, taking our food. Always when the guard's at its weakest, even when we shift routes. Some trick, eh?&lt;BR&gt;&lt;BR&gt;Tastes like betrayal to me.&lt;BR&gt;&lt;BR&gt;Supervisor {@LinkCreature:17#201#thresher Rotcarn} leads the raids. He's out in the fields gathering troops for something. Kill him. Pick over the corpse for evidence. Let's end this. Done listening?&lt;br&gt;[ES] &amp;#161;Soldado! Necesito tu ayuda. El culto est&amp;#225; asaltando nuestras caravanas, rob&amp;#225;ndose nuestra comida. Siempre cuando la guardia est&amp;#225; m&amp;#225;s d&amp;#233;bil, incluso cuando cambiamos de ruta. Qu&amp;#233; truco, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Me sabe a traici&amp;#243;n.&lt;BR&gt;&lt;BR&gt;El supervisor {@LinkCreature:17#201#thresher Rotcarn} encabeza los asaltos. Est&amp;#225; all&amp;#225; afuera en los campos reuniendo tropas para algo. M&amp;#225;talo. Revisa el cad&amp;#225;ver en busca de pruebas. Terminemos con esto. &amp;#191;Terminaste de escuchar?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1013">
+        <Page social="5">[EN] Skin me alive! Only trusted officers get these ledgers! Someone stole it, it'd be reported. This was given, not taken. Feels real bitter.&lt;br&gt;[ES] &amp;#161;Desu&amp;#233;llenme vivo! &amp;#161;Solo los oficiales de confianza tienen estos registros! Si alguien lo hubiera robado, se habr&amp;#237;a reportado. Esto fue entregado, no tomado. Se siente muy amargo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1013">
+        <Page social="0">[EN] Rotcarn dead yet? No? Done listening, then.&lt;br&gt;[ES] &amp;#191;Rotcarn ya est&amp;#225; muerto? &amp;#191;No? Entonces termina de escuchar.</Page>
+    </Text>
+</QuestDialog>

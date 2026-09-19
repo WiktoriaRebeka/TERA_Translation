@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">[EN] These undead are everywhere. I don't know whether they came from the north, whether they're working for the argons, or what.&lt;BR&gt;&lt;BR&gt;But I do know this: I want them gone!&lt;BR&gt;&lt;BR&gt;Start with the {@LinkCreature:4#1061#devan dark knights} and {@LinkCreature:4#1062#risen devan infantry}. Gather their tokens, too. I'm collecting them.&lt;br&gt;[ES] Estos muertos vivientes est&amp;#225;n en todas partes. No s&amp;#233; si vinieron del norte, si est&amp;#225;n trabajando para los argons, o qu&amp;#233;.&lt;BR&gt;&lt;BR&gt;Pero de algo estoy seguro: &amp;#161;quiero que desaparezcan!&lt;BR&gt;&lt;BR&gt;Empieza con los {@LinkCreature:4#1061#devan dark knights} y {@LinkCreature:4#1062#risen devan infantry}. Recoge sus fichas tambi&amp;#233;n. Las estoy coleccionando.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">[EN] That's one fewer thing to worry about, &lt;PCNAME&gt;. Keep fighting the good fight.&lt;br&gt;[ES] Eso es una preocupaci&amp;#243;n menos, &lt;PCNAME&gt;. Sigue librando la buena batalla.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">[EN] C'mon, they aren't so tough. They're just bones...and armor...and hideous weapons. Just go kill them already!&lt;br&gt;[ES] Vamos, no son tan duros. Solo son huesos... y armadura... y armas horribles. &amp;#161;Ve a matarlos de una vez!</Page>
+    </Text>
+</QuestDialog>

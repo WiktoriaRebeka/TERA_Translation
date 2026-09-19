@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="4">[EN] It may be the excavation of Ger, or only the chance of a good fight that quickens &lt;PCNAME&gt;'s heart. Whichever the case, our commander at Roostcliff Quarter was not happy with the last reinforcements we sent.&lt;BR&gt;&lt;BR&gt;Dispatching a seasoned fighter such as &lt;PCNAME&gt; may make Areish feel more kindly towards us.&lt;br&gt;[ES] Puede que sea la excavaci&amp;#243;n de Ger, o simplemente la oportunidad de una buena pelea lo que acelera el coraz&amp;#243;n de &lt;PCNAME&gt;. Sea cual fuere el caso, nuestro comandante en Roostcliff Quarter no estaba contento con los &amp;#250;ltimos refuerzos que enviamos.&lt;BR&gt;&lt;BR&gt;Enviar a un luchador experimentado como &lt;PCNAME&gt; puede hacer que Areish nos vea con mejores ojos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1006">
+        <Page social="4">[EN] What was Raynor thinking when he sent Elraine? "Better her than no one" he said.&lt;BR&gt;&lt;BR&gt; Actually, no one would be an immense improvement. So as she will not do her job, &lt;PCNAME&gt; shall have it.&lt;BR&gt;&lt;BR&gt;Southeast of here are ruins we were working until the prions arrived. I want you to defeat their leaders, Veriksha and Narak, and thin their numbers a bit so we can return to our work.&lt;br&gt;[ES] &amp;#191;En qu&amp;#233; estaba pensando Raynor cuando envi&amp;#243; a Elraine? &quot;Mejor ella que nadie&quot;, dijo.&lt;BR&gt;&lt;BR&gt; En realidad, que no hubiera nadie ser&amp;#237;a una mejora inmensa. As&amp;#237; que, como ella no va a hacer su trabajo, &lt;PCNAME&gt; lo har&amp;#225;.&lt;BR&gt;&lt;BR&gt;Al sureste de aqu&amp;#237; hay unas ruinas en las que est&amp;#225;bamos trabajando hasta que llegaron los prions. Quiero que derrotes a sus l&amp;#237;deres, Veriksha y Narak, y reduzca un poco su n&amp;#250;mero para que podamos volver a nuestro trabajo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1006">
+        <Page social="6">[EN] You've done well, but I wonder how long your work will hold. Where there are prions, can Saleron be far away?&lt;BR&gt;&lt;BR&gt;Gods and their schemes and us in the middle, as ever.&lt;br&gt;[ES] Lo has hecho bien, pero me pregunto cu&amp;#225;nto durar&amp;#225; tu trabajo. Donde hay prions, &amp;#191;puede andar muy lejos Saleron?&lt;BR&gt;&lt;BR&gt;Los dioses y sus maquinaciones, y nosotros en medio, como siempre.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1013">
+        <Page social="4">[EN] The {@LinkCreature:40#18#violent mycanars} are victims of the mutation plague, too. A study of their cores might reveal much about the sickness. Will &lt;PCNAME&gt; obtain a few mycanodules for me?&lt;br&gt;[ES] Los {@LinkCreature:40#18#violent mycanars} tambi&amp;#233;n son v&amp;#237;ctimas de la plaga de mutaci&amp;#243;n. Un estudio de sus n&amp;#250;cleos podr&amp;#237;a revelar mucho sobre la enfermedad. &amp;#191;&lt;PCNAME&gt; conseguir&amp;#225; unos cuantos mycanodules para m&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1013">
+        <Page social="4">[EN] So that's what they look like. Well, I'll get right to work.&lt;br&gt;[ES] As&amp;#237; que as&amp;#237; es como se ven. Bueno, me pondr&amp;#233; a trabajar de inmediato.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1013">
+        <Page social="0">[EN] Kill the {@LinkCreature:40#18#violent mycanars}, and bring me their nodules. I cannot do this without them.&lt;br&gt;[ES] Mata a los {@LinkCreature:40#18#violent mycanars} y tr&amp;#225;eme sus n&amp;#243;dulos. No puedo hacer esto sin ellos.</Page>
+    </Text>
+</QuestDialog>

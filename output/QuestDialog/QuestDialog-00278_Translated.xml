@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1015">
+        <Page social="4">[EN] You'd think pirates would stick to the seas, where they belong. But no, they've infested the jungle, too.&lt;BR&gt;&lt;BR&gt;And I don't want to get abducted, or worse. You're not exactly a kidnap risk, though. Can you locate some golden pigweed from west or south of here, and gather pigweed petals for me? I need it to make medicine.&lt;BR&gt;&lt;BR&gt;Heck, maybe medicine to heal you someday.&lt;br&gt;[ES] Se pensar&amp;#237;a que los piratas se quedar&amp;#237;an en el mar, que es a donde pertenecen. Pero no, tambi&amp;#233;n han infestado la jungla.&lt;BR&gt;&lt;BR&gt;Y no quiero que me secuestren, o algo peor. Aunque t&amp;#250; no eres exactamente un riesgo de secuestro. &amp;#191;Puedes localizar un poco de verdolaga dorada al oeste o al sur de aqu&amp;#237; y recoger p&amp;#233;talos de verdolaga para m&amp;#237;? Los necesito para hacer medicinas.&lt;BR&gt;&lt;BR&gt;Caramba, tal vez medicina para curarte alg&amp;#250;n d&amp;#237;a.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1015">
+        <Page social="4">[EN] Ah, pigweed petals. "Balm of the seas," we used to call it. Not that you found it at sea, mind you. But we pirates take it with us on every voyage.&lt;BR&gt;&lt;BR&gt;Or at least we pirates did. No proper pirates left, of course...just flotsam and jetsam like me. The nagas wiped us all out.&lt;BR&gt;&lt;BR&gt;Sorry, the ramblin' is a bad habit. Bring me more pigweed petals if you think of it, eh, &lt;PCNAME&gt;?&lt;br&gt;[ES] Ah, los p&amp;#233;talos de verdolaga. &quot;B&amp;#225;lsamo de los mares&quot;, sol&amp;#237;amos llamarlo. No es que los encontraras en el mar, claro. Pero los piratas los llevamos con nosotros en cada viaje.&lt;BR&gt;&lt;BR&gt;O al menos los piratas lo hac&amp;#237;amos. Por supuesto, ya no quedan piratas de verdad... solo escoria como yo. Los nagas nos exterminaron a todos.&lt;BR&gt;&lt;BR&gt;Perdona, divagar es un mal h&amp;#225;bito. Tr&amp;#225;eme m&amp;#225;s p&amp;#233;talos de verdolaga si te acuerdas, &amp;#191;eh, &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1015">
+        <Page social="0">[EN] Shame if you bled to death because the closest thing to a physician in this village has no pigweed petals, eh?&lt;br&gt;[ES] Ser&amp;#237;a una pena que te desangraras porque lo m&amp;#225;s parecido a un m&amp;#233;dico en este pueblo no tiene p&amp;#233;talos de verdolaga, &amp;#191;eh?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="4">[EN] I saw something disturbing in the &lt;font color='#660000'&gt;Howling Vale&lt;/font&gt;. Two creatures of the same species fought each other and the victor ate the flesh of the loser.&lt;BR&gt;&lt;BR&gt;This is not normal behavior and may be worth investigating.&lt;NEXTPAGEBUTTON&gt;"What could we do?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Vi algo perturbador en el &lt;font color='#660000'&gt;Howling Vale&lt;/font&gt;. Dos criaturas de la misma especie pelearon entre s&amp;#237; y el vencedor se comi&amp;#243; la carne del perdedor.&lt;BR&gt;&lt;BR&gt;Este no es un comportamiento normal y puede valer la pena investigarlo.&lt;NEXTPAGEBUTTON&gt;"What could we do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Our magic may shed light on this phenomenon. Hunt the {@LinkCreature:21#4#brutal orisks} and collect samples from them.&lt;BR&gt;&lt;BR&gt;Bring them back and we'll see if we can find what drove them to such unusual behavior.&lt;br&gt;[ES] Nuestra magia puede arrojar luz sobre este fen&amp;#243;meno. Caza a los {@LinkCreature:21#4#brutal orisks} y recolecta muestras de ellos.&lt;BR&gt;&lt;BR&gt; Tr&amp;#225;elas de vuelta y veremos si podemos descubrir qu&amp;#233; los llev&amp;#243; a un comportamiento tan inusual.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1036">
+        <Page social="10">[EN] I hope this wasn't too taxing. The desert is vast and dangerous.&lt;BR&gt;&lt;BR&gt;You have the samples? Let me see them. Stand back, now. This could get a bit messy.&lt;BR&gt;&lt;BR&gt;By the gods! The scent in these samples almost overwhelmed me! I must rest for now. Incredible. My nose may never forgive me.&lt;br&gt;[ES] Espero que esto no haya sido demasiado agotador. El desierto es vasto y peligroso.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tienes las muestras? D&amp;#233;jame verlas. Retrocede ahora. Esto puede ponerse un poco desastroso.&lt;BR&gt;&lt;BR&gt;&amp;#161;Por los dioses! &amp;#161;El olor de estas muestras casi me abruma! Debo descansar por ahora. Incre&amp;#237;ble. &amp;#161;Mi nariz tal vez nunca me lo perdone!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1036">
+        <Page social="0">[EN] I know the creatures are disgusting and odorous, but without the samples, I can't run tests. It's as simple as that.&lt;br&gt;[ES] S&amp;#233; que las criaturas son repugnantes y malolientes, pero sin las muestras no puedo hacer pruebas. Es as&amp;#237; de simple.</Page>
+    </Text>
+</QuestDialog>

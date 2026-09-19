@@ -1,0 +1,8 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="210">
+        <Page social="4" voiceTypeId="0">[EN] Hello. My name is Mystel,&lt;BR&gt;&lt;BR&gt;and the goddess of fate.&lt;BR&gt;&lt;BR&gt;This world is in danger.&lt;BR&gt;&lt;BR&gt;Please help Lok protect it!&lt;br&gt;[ES] Hola. Mi nombre es Mystel,&lt;BR&gt;&lt;BR&gt;y soy la diosa del destino.&lt;BR&gt;&lt;BR&gt;Este mundo est&amp;#225; en peligro.&lt;BR&gt;&lt;BR&gt;&amp;#161;Por favor, ayuda a Lok a protegerlo!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] This world is faced with a grave danger.&lt;BR&gt;&lt;BR&gt;Help Lok protect it.&lt;br&gt;[ES] Este mundo se enfrenta a un grave peligro.&lt;BR&gt;&lt;BR&gt;Ayuda a Lok a protegerlo.</Page>
+    </Text>
+</QuestDialog>

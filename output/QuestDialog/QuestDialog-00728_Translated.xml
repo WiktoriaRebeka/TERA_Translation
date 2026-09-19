@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1016">
+        <Page social="4">[EN] Had no trouble getting here, but now I'm blocked in!&lt;BR&gt;&lt;BR&gt;I've got workers, materials, and tools for the rebuilding project, but between myself and them, the path is full of {@LinkCreature:31#1#ossugon frostwalkers} and {@LinkCreature:31#4#icy skeletal minions}. Need a damn federation soldier just to&amp;#8212;&lt;BR&gt;&lt;BR&gt;Hey, you're a federation soldier! What are you waiting for? Clear out those undead for me so I can get this build underway.&lt;br&gt;[ES] &amp;#161;No tuve problemas para llegar aqu&amp;#237;, pero ahora estoy atrapado!&lt;BR&gt;&lt;BR&gt;Tengo trabajadores, materiales y herramientas para el proyecto de reconstrucci&amp;#243;n, pero el camino entre ellos y yo est&amp;#225; lleno de {@LinkCreature:31#1#ossugon frostwalkers} y {@LinkCreature:31#4#icy skeletal minions}. &amp;#161;Se necesita un maldito soldado de la federaci&amp;#243;n solo para&amp;#8212;&lt;BR&gt;&lt;BR&gt;Oye, &amp;#161;eres un soldado de la federaci&amp;#243;n! &amp;#191;Qu&amp;#233; est&amp;#225;s esperando? Despeja a esos no-muertos por m&amp;#237; para que pueda poner en marcha esta construcci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1016">
+        <Page social="4">[EN] Nice work, "feddie." Now it's time for me to get to work!&lt;br&gt;[ES] Buen trabajo, &quot;soldadito&quot;. &amp;#161;Ahora es hora de que me ponga a trabajar!</Page>
+    </Text>
+</QuestDialog>

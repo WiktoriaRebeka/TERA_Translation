@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="5">[EN] &lt;PCNAME&gt;, I think I've found something important!&lt;BR&gt;&lt;BR&gt;As I'm sure you know, mind magic is the rarest and hardest to work. Magic on the scale that afflicts us is beyond the scope of any individual&amp;#8212;but not a group!&lt;BR&gt;&lt;BR&gt;If I'm right, the instructors may be to blame!&lt;NEXTPAGEBUTTON&gt;"The instructors? Impossible!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;, creo que he encontrado algo importante!&lt;BR&gt;&lt;BR&gt;Como seguro sabes, la magia mental es la m&amp;#225;s rara y dif&amp;#237;cil de dominar. &amp;#161;La magia a la escala que nos aflige est&amp;#225; m&amp;#225;s all&amp;#225; del alcance de cualquier individuo, pero no de un grupo!&lt;BR&gt;&lt;BR&gt;Si tengo raz&amp;#243;n, &amp;#161;los instructores podr&amp;#237;an ser los culpables!&lt;NEXTPAGEBUTTON&gt;"The instructors? Impossible!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] It's unthinkable, not impossible. I need you to search the instructors trunks in the eastern classroom on the second floor. There may also be clues in the Athenaeum.&lt;BR&gt;&lt;BR&gt;Move quickly! If we cannot regain control of the academy, the federation may destroy it&amp;#8212;and everyone in it.&lt;br&gt;[ES] Es impensable, no imposible. Necesito que busques en los ba&amp;#250;les de los instructores en el sal&amp;#243;n de clases del este en el segundo piso. Tambi&amp;#233;n puede haber pistas en el Athenaeum.&lt;BR&gt;&lt;BR&gt;&amp;#161;Mu&amp;#233;vete r&amp;#225;pido! Si no podemos recuperar el control de la academia, la federaci&amp;#243;n podr&amp;#237;a destruirla, y a todos los que est&amp;#225;n dentro.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1007">
+        <Page social="5">[EN] You're back! I hope your mission was successful. I saw the prefects going a little crazier, and it chilled my blood.&lt;BR&gt;&lt;BR&gt;Let's see what you found. Hmm. This isn't good, but it may point to a solution.&lt;BR&gt;&lt;BR&gt;I've work to do. Power shield you, &lt;PCNAME&gt;.&lt;br&gt;[ES] &amp;#161;Has vuelto! Espero que tu misi&amp;#243;n haya sido exitosa. Vi a los prefectos volverse un poco m&amp;#225;s locos, y eso me hel&amp;#243; la sangre.&lt;BR&gt;&lt;BR&gt;A ver qu&amp;#233; encontraste. Mjum. Esto no es bueno, pero puede apuntar a una soluci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Tengo trabajo que hacer. Que el poder te proteja, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1007">
+        <Page social="0">[EN] This is no time to dawdle! Children are dying!&lt;br&gt;[ES] &amp;#161;Este no es momento para holgazanear! &amp;#161;Los ni&amp;#241;os est&amp;#225;n muriendo!</Page>
+    </Text>
+</QuestDialog>

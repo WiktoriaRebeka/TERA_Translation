@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1044">
+        <Page social="4">[EN] A strange mist hangs over Seeliewood tainting every living thing it falls upon. The foul vapor coats faeries and creatures alike, sickening them, weakening them.&lt;BR&gt;&lt;BR&gt;Our magic fails to protect us. We need to try something else.&lt;BR&gt;&lt;BR&gt;If I can create armor from leather already impregnated, perhaps the mist won't affect our soldiers.&lt;BR&gt;&lt;BR&gt;Faerie fighters are strong and sneaky, but I'm a crafter; I'm going to need your help. I'll make the armor if you bring me hides coated in the mist. Around here bloodhorn mugatos, stonebrow cubs, and curltress piglings all seem to be covered in the stuff.&lt;br&gt;[ES] Una extra&amp;#241;a neblina se extiende sobre Seeliewood y contamina todo ser vivo sobre el que cae. El vapor f&amp;#233;tido recubre tanto a hadas como a criaturas, enferm&amp;#225;ndolas y debilit&amp;#225;ndolas.&lt;BR&gt;&lt;BR&gt;Nuestra magia no logra protegernos. Debemos intentar otra cosa.&lt;BR&gt;&lt;BR&gt;Si puedo crear armadura a partir de cuero ya impregnado, tal vez la neblina no afecte a nuestros soldados.&lt;BR&gt;&lt;BR&gt;Los combatientes hadas son fuertes y sigilosos, pero soy una artesana; voy a necesitar tu ayuda. Har&amp;#233; la armadura si me traes pieles cubiertas de neblina. Por aqu&amp;#237;, los bloodhorn mugatos, los stonebrow cubs y los curltress piglings parecen estar cubiertos de esa sustancia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1044">
+        <Page social="4">[EN] Excellent. This will keep me busy for a while.&lt;BR&gt;&lt;BR&gt;Let's hope this works to protect our people. I thank you, and the warriors who must brave this wretched mist thank you.&lt;br&gt;[ES] Excelente. Esto me mantendr&amp;#225; ocupada por un tiempo.&lt;BR&gt;&lt;BR&gt;Esperemos que esto funcione para proteger a nuestra gente. Te doy las gracias, y los guerreros que deben desafiar esta nefasta neblina te lo agradecen.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" villagerId="1044">
+        <Page social="0">[EN] It tears me up to have to sacrifice these beasts, but they're already ill and the fey must survive if we're going to fight back.&lt;br&gt;[ES] Me destroza tener que sacrificar a estas bestias, pero ya est&amp;#225;n enfermas y los fey deben sobrevivir si vamos a contraatacar.</Page>
+    </Text>
+</QuestDialog>

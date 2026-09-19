@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="4">[EN] First things first. Clear the mekonari templars from the altar stairs. They're the mekonaris' strongest fighters, and Killian gave them warding amulets to earn their trust. Think how humiliated they'll be if you easily take the amulets away.&lt;br&gt;[ES] Lo primero es lo primero. Despeja a los mekonari templars de las escaleras del altar. Son los combatientes m&amp;#225;s fuertes de los mekonaris, y Killian les dio amuletos de protecci&amp;#243;n para ganarse su confianza. Piensa en lo humillados que estar&amp;#225;n si les quitas los amuletos f&amp;#225;cilmente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1010">
+        <Page social="4">[EN] Potent amulets. We've stolen some of their strength for a change!&lt;BR&gt;&lt;BR&gt;Your path to the altar is nearly clear. Soon we'll end this horror once and for all.&lt;br&gt;[ES] Amuletos potentes. &amp;#161;Hemos robado algo de su fuerza por variar!&lt;BR&gt;&lt;BR&gt;Tu camino hacia el altar est&amp;#225; casi despejado. Pronto acabaremos con este horror de una vez por todas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1010">
+        <Page social="0">[EN] &lt;PCCLASS&gt;, come on! Those templars are in the way!&lt;br&gt;[ES] &amp;#161;&lt;PCCLASS&gt;, vamos! &amp;#161;Esos templars est&amp;#225;n en el camino!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="4">[EN] Oh dear, &lt;PCNAME&gt;, it looks like it's going to be even worse than we thought. Turns out, the tuwangi are planning to attack any non-tuwangi that comes onto the reservation! One of the {@LinkCreature:205#1006#Merchants} just went in there to trade a little while ago&amp;#8212;can you please go after him? Bring him back, or at least help him get out of there. His name is Boermas.&lt;br&gt;[ES] Ay, Dios, &lt;PCNAME&gt;, parece que va a ser a&amp;#250;n peor de lo que pens&amp;#225;bamos. &amp;#161;Resulta que los tuwangis planean atacar a cualquier no tuwangi que entre a la reserva! Uno de los {@LinkCreature:205#1006#Merchants} acaba de entrar all&amp;#237; a comerciar hace un rato, &amp;#191;puedes ir tras &amp;#233;l por favor? Tr&amp;#225;elo de vuelta, o al menos ay&amp;#250;dalo a salir de ah&amp;#237;. Se llama Boermas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="4">[EN] Jaedon sent you out in case I got attacked, did he? Well, it was a nice thought, if a bit late.&lt;BR&gt;&lt;BR&gt;They seemed so nice when I got here, offering me food...it was too late before I realized that it was poisoned.&lt;br&gt;[ES] Jaedon te mand&amp;#243; por si me atacaban, &amp;#191;verdad? Bueno, fue un buen detalle, aunque un poco tarde.&lt;BR&gt;&lt;BR&gt;Parec&amp;#237;an tan agradables cuando llegu&amp;#233;, ofreci&amp;#233;ndome comida... era demasiado tarde cuando me di cuenta de que estaba envenenada.</Page>
+    </Text>
+</QuestDialog>

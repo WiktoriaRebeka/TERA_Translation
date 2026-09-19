@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="5">[EN] You've really been plugging away at the tuwangis! We really appreciate it, and welcome you to continue to help us. The {@LinkCreature:5#5#Tuwangi Blockheads} and the {@LinkCreature:5#6#Tuwangi Choppers} are next on the list.&lt;BR&gt;&lt;BR&gt;Make sure to clear the way and let the others know that it's time to pull it back.&lt;br&gt;[ES] &amp;#161;Te has estado esforzando mucho con los tuwangis! Te lo agradecemos de verdad y te invitamos a seguir ayud&amp;#225;ndonos. Los {@LinkCreature:5#5#Tuwangi Blockheads} y los {@LinkCreature:5#6#Tuwangi Choppers} son los siguientes en la lista.&lt;BR&gt;&lt;BR&gt;Aseg&amp;#250;rate de despejar el camino y hazle saber a los dem&amp;#225;s que es hora de retirarse.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1015">
+        <Page social="0">[EN] Another step done. I feel really good about having you on our team, &lt;PCNAME&gt;. I just want you to know that.&lt;BR&gt;&lt;BR&gt;It's still disappointing to know that our relationship with the tuwangis has come down to this.&lt;br&gt;[ES] Otro paso completado. Me siento muy bien de tenerte en nuestro equipo, &lt;PCNAME&gt;. Solo quiero que lo sepas.&lt;BR&gt;&lt;BR&gt;A&amp;#250;n as&amp;#237;, es decepcionante saber que nuestra relaci&amp;#243;n con los tuwangis haya llegado a esto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1015">
+        <Page social="0">[EN] Haven't gone yet? Are you tired of helping us? Or is it just that you think the tuwangis are too adorable to hurt?&lt;BR&gt;&lt;BR&gt;Or perhaps you have a particular hatred of frogs, then?&lt;br&gt;[ES] &amp;#191;A&amp;#250;n no te has ido? &amp;#191;Est&amp;#225;s cansado de ayudarnos? &amp;#191;O es simplemente que piensas que los tuwangis son demasiado adorables para hacerles da&amp;#241;o?&lt;BR&gt;&lt;BR&gt;&amp;#191;O tal vez es que le tienes un odio particular a las ranas?</Page>
+    </Text>
+</QuestDialog>

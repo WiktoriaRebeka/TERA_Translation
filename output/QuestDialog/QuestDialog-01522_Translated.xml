@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1406">
+        <Page social="0">[EN] While discussing plans with Rhodos, a spy overheard you. You gave chase and ended up somewhere quite unexpected.&lt;br&gt;[ES] Mientras discut&amp;#237;as planes con Rhodos, un esp&amp;#237;a te escuch&amp;#243;. Lo perseguiste y terminaste en un lugar bastante inesperado.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1406">
+        <Page social="4">[EN] The archedevas must have sent the Parthians. They can't make use of your ship either, but they clearly know of it.&lt;NEXTPAGEBUTTON&gt;"What's our next move?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Los archdevas debieron haber enviado a los Parthians. Ellos tampoco pueden usar tu nave, pero claramente saben de ella.&lt;NEXTPAGEBUTTON&gt;"What's our next move?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] There are goblins in Spring Valley who will do anything for money.&lt;BR&gt;&lt;BR&gt;If the archdevas are massing fighters there, the goblins will know.&lt;BR&gt;&lt;BR&gt;Find out if it's safe.&lt;br&gt;[ES] Hay goblins en Spring Valley que har&amp;#225;n cualquier cosa por dinero.&lt;BR&gt;&lt;BR&gt;Si los archdevas est&amp;#225;n reuniendo combatientes all&amp;#237;, los goblins lo sabr&amp;#225;n.&lt;BR&gt;&lt;BR&gt;Averigua si es seguro.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="2010">
+        <Page social="4">[EN] Oh! Um, my mount is, uh, hurt.&lt;BR&gt;&lt;BR&gt;Can you help me?&lt;br&gt;[ES] &amp;#161;Oh! Mmm, mi montura est&amp;#225;, eh, herida.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ayudarme?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1506">
+        <Page social="4">[EN] You let him get away!&lt;BR&gt;&lt;BR&gt;Mihog was spying on us. Quick! He's hurt, so you might be able to catch him!&lt;br&gt;[ES] &amp;#161;Lo dejaste escapar!&lt;BR&gt;&lt;BR&gt;Mihog nos estaba espiando. &amp;#161;R&amp;#225;pido! Est&amp;#225; herido, &amp;#161;as&amp;#237; que tal vez puedas alcanzarlo!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1016">
+        <Page social="4">[EN] (Mihog's mount lies dead. Blood cools on the ground and ripped garments lie nearby.)&lt;br&gt;[ES] (La montura de Mihog yace muerta. La sangre se enfr&amp;#237;a en el suelo y hay prendas desgarradas cerca).</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2016">
+        <Page social="4">[EN] Saw an injured runner.&lt;BR&gt;&lt;BR&gt;He's no friend of ours. Go west.&lt;br&gt;[ES] Vi a un corredor herido.&lt;BR&gt;&lt;BR&gt;&amp;#201;l no es amigo nuestro. Ve hacia el oeste.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2001">
+        <Page social="4">[EN] A suspicious person?&lt;BR&gt;&lt;BR&gt;Well, just the one who limped into the cave. Is that suspicious?&lt;br&gt;[ES] &amp;#191;Una persona sospechosa?&lt;BR&gt;&lt;BR&gt;Bueno, solo la que coje&amp;#243; hasta entrar en la cueva. &amp;#191;Es eso sospechoso?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="7" villagerId="2029">
+        <Page social="4">[EN] (Drops of blood stain the wood of this barrel.)&lt;br&gt;[ES] (Gotas de sangre manchan la madera de este barril).</Page>
+    </Text>
+</QuestDialog>

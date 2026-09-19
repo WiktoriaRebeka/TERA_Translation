@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1105">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1105">
+        <Page social="1">[EN] No, no, no!&lt;BR&gt;&lt;BR&gt;Another analysis device broken? I hardly touched it! Vice Director Deresk will kill me if I request another!&lt;BR&gt;&lt;BR&gt;Can you fix this {@LinkCreature:71#1110#analysis device}, or get {@LinkCreature:71#1108$$Adean} to do it?&lt;br&gt;[ES] &amp;#161;No, no, no!&lt;BR&gt;&lt;BR&gt;&amp;#191;Otro dispositivo de an&amp;#225;lisis roto? &amp;#161;Apenas lo toqu&amp;#233;! &amp;#161;El vicedirector Deresk me matar&amp;#225; si pido otro!&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes arreglar este {@LinkCreature:71#1110#analysis device}, o hacer que {@LinkCreature:71#1108$$Adean} lo haga?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="1110">
+        <Page social="1">[EN] (The {@LinkCreature:71#1110#analysis device} makes a grinding noise, and a strange violet liquid seeps from it.&lt;BR&gt;&lt;BR&gt;It's definitely broken. Bring it to {@LinkCreature:71#1108$$Adean}, the equipment merchant.)&lt;br&gt;[ES] (El {@LinkCreature:71#1110#analysis device} hace un ruido chirriante y un extra&amp;#241;o l&amp;#237;quido violeta se filtra de &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Definitivamente est&amp;#225; roto. Ll&amp;#233;vaselo a {@LinkCreature:71#1108$$Adean}, el mercader de equipo.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="3" villagerId="1108">
+        <Page social="1">[EN] {@LinkCreature:71#1105$$Mienne}'s {@LinkCreature:71#1110$$analysis device}? Let's take a look.&lt;BR&gt;&lt;BR&gt;Well no wonder. When was this last tuned?&lt;BR&gt;&lt;BR&gt;Here, plug this into that socket over there. If it works, take it to {@LinkCreature:71#1102$$Deresk} and tell him not to skimp on maintenance.&lt;br&gt;[ES] &amp;#191;El dispositivo de {@LinkCreature:71#1105$$Mienne} llamado {@LinkCreature:71#1110$$analysis}? Echemos un vistazo.&lt;BR&gt;&lt;BR&gt;Bueno, con raz&amp;#243;n. &amp;#191;Cu&amp;#225;ndo fue la &amp;#250;ltima vez que lo sintonizaron?&lt;BR&gt;&lt;BR&gt;Ten, conecta esto en ese enchufe de all&amp;#225;. Si funciona, ll&amp;#233;vaselo a {@LinkCreature:71#1102$$Deresk} y dile que no escatime en mantenimiento.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="4" villagerId="1111">
+        <Page social="1">[EN] (The device hums quietly.)&lt;br&gt;[ES] (El dispositivo zumba silenciosamente.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="5" villagerId="1102">
+        <Page social="1">[EN] Maintenance? Why?&lt;BR&gt;&lt;BR&gt;Before I gave it to Mienne, I'd used it for four years and never had any problems with it!&lt;br&gt;[ES] &amp;#191;Mantenimiento? &amp;#191;Por qu&amp;#233;?&lt;BR&gt;&lt;BR&gt;&amp;#161;Antes de d&amp;#225;rselo a Mienne, lo us&amp;#233; durante cuatro a&amp;#241;os y nunca tuve ning&amp;#250;n problema con &amp;#233;l!</Page>
+    </Text>
+</QuestDialog>

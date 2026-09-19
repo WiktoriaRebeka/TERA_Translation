@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">[EN] Something only you can do, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Not all the guardian machines of the Refuge shut down when they should have. {@LinkCreature:71#3007#Bakra} will direct you.&lt;br&gt;[ES] Algo que solo t&amp;#250; puedes hacer, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;No todas las m&amp;#225;quinas guardianas del Refuge se apagaron cuando deb&amp;#237;an. {@LinkCreature:71#3007#Bakra} te indicar&amp;#225; el camino.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="4">[EN] Just the &lt;PCCLASS:lcase&gt; I need!&lt;BR&gt;&lt;BR&gt;The gods put this place off limits when Balder died. Put machines in here that build iskaragards. They all shut down when the gods allowed us back in.&lt;BR&gt;&lt;BR&gt;Almost all. An iskaragard almost killed me this morning. Can you hunt it down?&lt;br&gt;[ES] &amp;#161;Justo el &lt;PCCLASS:lcase&gt; que necesito!&lt;BR&gt;&lt;BR&gt;Los dioses prohibieron la entrada a este lugar cuando muri&amp;#243; Balder. Pusieron m&amp;#225;quinas aqu&amp;#237; que construyen iskaragards. Todas se apagaron cuando los dioses nos permitieron volver.&lt;BR&gt;&lt;BR&gt;Casi todas. Un iskaragard casi me mata esta ma&amp;#241;ana. &amp;#191;Puedes darle caza?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="4">[EN] Thank you, hero. I'd be more lenient if it attacked the sloths as well!&lt;br&gt;[ES] Gracias, h&amp;#233;roe. &amp;#161;Ser&amp;#237;a m&amp;#225;s clemente si tambi&amp;#233;n atacara a los perezosos!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="7" villagerId="3007">
+        <Page social="4">[EN] Can't prune the vines if that thing cuts me in two.&lt;BR&gt;&lt;BR&gt;You're a great help, &lt;PCNAME&gt;.&lt;br&gt;[ES] No puedo podar las vides si esa cosa me parte en dos.&lt;BR&gt;&lt;BR&gt;Eres de gran ayuda, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="71" prevId="8" villagerId="3007">
+        <Page social="4">[EN] These things were built to last. Amazing that they're even around to malfunction!&lt;BR&gt;&lt;BR&gt;Our teams still haven't found whatever replaces them.&lt;br&gt;[ES] Estas cosas fueron construidas para durar. &amp;#161;Es incre&amp;#237;ble que sigan por aqu&amp;#237; como para fallar!&lt;BR&gt;&lt;BR&gt;Nuestros equipos todav&amp;#237;a no han encontrado lo que las reemplaza.</Page>
+    </Text>
+</QuestDialog>

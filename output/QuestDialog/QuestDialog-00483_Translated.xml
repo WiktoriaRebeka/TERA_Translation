@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="4">[EN] No matter how many cultists we kill, they recruit more...or however they make them. The {@LinkCreature:18#20#Lokian slayers} and {@LinkCreature:18#24#sanguinars} are the worst of them.&lt;BR&gt;&lt;BR&gt;I'd do it myself if I could, but since I can't, can I count on you to thin their numbers a bit?&lt;br&gt;[ES] No importa cu&amp;#225;ntos cultistas matemos, reclutan m&amp;#225;s... o como sea que los fabriquen. Los {@LinkCreature:18#20#Lokian slayers} y los {@LinkCreature:18#24#sanguinars} son los peores de todos.&lt;BR&gt;&lt;BR&gt;Lo har&amp;#237;a yo mismo si pudiera, pero como no puedo, &amp;#191;puedo contar contigo para reducir un poco su n&amp;#250;mero?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1009">
+        <Page social="4">[EN] You're better than Anaka let on.&lt;BR&gt;&lt;BR&gt;Thanks for your work here.&lt;br&gt;[ES] Eres mejor de lo que Anaka dej&amp;#243; ver.&lt;BR&gt;&lt;BR&gt;Gracias por tu trabajo aqu&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

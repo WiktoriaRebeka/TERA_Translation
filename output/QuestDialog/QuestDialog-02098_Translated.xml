@@ -1,0 +1,9 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="20102">
+        <Page social="4">[EN] Are you finding your feet in Arborea?&lt;BR&gt;&lt;BR&gt;You&amp;#8217;ll have to train hard to get used to your new surroundings quickly.&lt;BR&gt;&lt;BR&gt;Do you want me to give you some training? &lt;NEXTPAGEBUTTON&gt;"What have I got to do?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Te est&amp;#225;s adaptando a Arborea?&lt;BR&gt;&lt;BR&gt;Tendr&amp;#225;s que entrenar duro para acostumbrarte r&amp;#225;pido a tu nuevo entorno.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres que te d&amp;#233; algo de entrenamiento? &lt;NEXTPAGEBUTTON&gt;"What have I got to do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Excellent. If you use {@WorkObject:250001}, you&amp;#8217;ll need to defeat the Shadow Warrior that appears. But it&amp;#8217;s just a warm-up exercise.&lt;BR&gt;&lt;BR&gt;You can come to me for training any time.&lt;br&gt;[ES] Excelente. Si usas {@WorkObject:250001}, tendr&amp;#225;s que derrotar al Shadow Warrior que aparece. Pero es solo un ejercicio de calentamiento.&lt;BR&gt;&lt;BR&gt;Puedes venir a verme para entrenar en cualquier momento.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">[EN] You're looking for a crown? Sorry, but I don't make those anymore. The soft fey hair is just too hard to come by, and people were getting a little too aggressive with the fey to get it.&lt;BR&gt;&lt;BR&gt;Unless you have some you inherited from a rich uncle or something, no crown for you.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Buscas una corona? Lo siento, pero ya no hago esas cosas. El suave cabello de fey es demasiado dif&amp;#237;cil de conseguir, y la gente se pon&amp;#237;a un poco muy agresiva con los fey para obtenerlo.&lt;BR&gt;&lt;BR&gt;A menos que hayas heredado algo de un t&amp;#237;o rico o algo as&amp;#237;, no hay corona para ti.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">[EN] Okay, I won't ask how you got this&amp;#8212;just...don't bring me any more, okay?&lt;BR&gt;&lt;BR&gt;Now, what color do you want?&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] De acuerdo, no preguntar&amp;#233; c&amp;#243;mo conseguiste esto; solo... no me traigas m&amp;#225;s, &amp;#191;de acuerdo?&lt;BR&gt;&lt;BR&gt;Ahora bien, &amp;#191;de qu&amp;#233; color lo quieres?&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">[EN] Just leave those poor fey alone, all right? You don't need a crown that badly.&lt;br&gt;[ES] Solo deja en paz a esos pobres fey, &amp;#191;de acuerdo? No necesitas tanto una corona.</Page>
+    </Text>
+</QuestDialog>

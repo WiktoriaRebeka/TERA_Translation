@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">[EN] Feel like going on an adventure?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne}'s looking for someone to do a little dirty work out in the field.&lt;br&gt;[ES] &amp;#191;Tienes ganas de ir a una aventura?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} est&amp;#225; buscando a alguien para hacer un poco de trabajo sucio en el campo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">[EN] We use materials from all over the world. Some of it's supply and demand&amp;#8212;we are merchants, you know.&lt;BR&gt;&lt;BR&gt;But we also need the odd items from time to time to aid in our efforts to ward off the many evils around here.&lt;BR&gt;&lt;BR&gt;But we're a small group. We can't be everywhere. That's where you come in.&lt;br&gt;[ES] Usamos materiales de todo el mundo. Parte de ello es oferta y demanda; somos comerciantes, ya sabes.&lt;BR&gt;&lt;BR&gt;Pero tambi&amp;#233;n necesitamos objetos extra&amp;#241;os de vez en cuando para ayudar en nuestros esfuerzos por alejar los muchos males que hay por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Pero somos un grupo peque&amp;#241;o. No podemos estar en todas partes. Ah&amp;#237; es donde entras t&amp;#250;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">[EN] Body parts! My favorite.&lt;BR&gt;&lt;BR&gt;The only one who appreciates them more than me is {@LinkCreature:63#3003#Elthienne}.&lt;br&gt;[ES] &amp;#161;Partes de cuerpos! Mis favoritas.&lt;BR&gt;&lt;BR&gt;El &amp;#250;nico que las aprecia m&amp;#225;s que yo es {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Hunt {@LinkCreature:12#13#Red Lash clawriders} on {@Rgn:12001#Mistmoor Island} and bring back teeth, claws, and carapaces.&lt;br&gt;[ES] Caza {@LinkCreature:12#13#Red Lash clawriders} en {@Rgn:12001#Mistmoor Island} y trae de vuelta dientes, garras y caparazones.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">[EN] How was the trip? I've heard {@Rgn:12001#Mistmoor Island} is nice this time of year.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has your payment.&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo estuvo el viaje? He o&amp;#237;do que {@Rgn:12001#Mistmoor Island} es agradable en esta &amp;#233;poca del a&amp;#241;o.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tiene tu pago.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Hunt {@LinkCreature:12#17#Red Lash marauders} on {@Rgn:12001#Mistmoor Island} and bring back teeth, claws, and carapaces.&lt;br&gt;[ES] Caza {@LinkCreature:12#17#Red Lash marauders} en {@Rgn:12001#Mistmoor Island} y trae de vuelta dientes, garras y caparazones.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">[EN] I knew I could count on you.&lt;br&gt;[ES] Sab&amp;#237;a que pod&amp;#237;a contar contigo.</Page>
+    </Text>
+</QuestDialog>

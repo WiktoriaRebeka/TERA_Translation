@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1025">
+        <Page social="4">[EN] Here in Raga Shadi, the argons were vivisecting creatures for some reason. You know what vivisecting is, right? It's like an autopsy, except the subject isn't dead yet.&lt;BR&gt;&lt;BR&gt;As grisly as that is, we want to know what the argons learned. And the way to do that is to get to the flask-like containers where they've stored something. Something important.&lt;br&gt;[ES] Aqu&amp;#237; en Raga Shadi, los argons estaban viviseccionando criaturas por alguna raz&amp;#243;n. Saben qu&amp;#233; es la vivisecci&amp;#243;n, &amp;#191;verdad? Es como una autopsia, excepto que el sujeto a&amp;#250;n no est&amp;#225; muerto.&lt;BR&gt;&lt;BR&gt;Por espantoso que sea, queremos saber qu&amp;#233; aprendieron los argons. Y la forma de hacerlo es llegar a los recipientes con forma de frasco donde han guardado algo. Algo importante.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1025">
+        <Page social="4">[EN] Weirdly mutilated corpses, eh? Well, it's a clue. I have some experiments of my own to perform&amp;#8212;nothing gory, I promise&amp;#8212;to figure out what the argons were up to.&lt;BR&gt;&lt;BR&gt;While I'm doing that, go to the Shineroot Chamber and help Platanok.&lt;br&gt;[ES] &amp;#191;Cad&amp;#225;veres extra&amp;#241;amente mutilados, eh? Bueno, es una pista. Tengo algunos experimentos propios que realizar &amp;#8212;nada sangriento, lo prometo&amp;#8212; para averiguar qu&amp;#233; estaban tramando los argons.&lt;BR&gt;&lt;BR&gt;Mientras hago eso, ve a la sala Shineroot y ayuda a Platanok.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1025">
+        <Page social="0">[EN] It's not gonna be pleasant, whatever's in those containers, &lt;PCNAME&gt;. But we have to know.&lt;br&gt;[ES] No va a ser agradable, sea lo que sea que haya en esos recipientes, &lt;PCNAME&gt;. Pero tenemos que saberlo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1024">
+        <Page social="4">[EN] I trust Alecian fares well?&lt;BR&gt;&lt;BR&gt;My research is, I confess, at a standstill. There are some obstacles to overcome, but perhaps your presence will change that.&lt;BR&gt;&lt;BR&gt;Every journey starts somewhere. Let us begin.&lt;br&gt;[ES] &amp;#191;Conf&amp;#237;o en que a Alecian le va bien?&lt;BR&gt;&lt;BR&gt;Confieso que mi investigaci&amp;#243;n est&amp;#225; estancada. Hay algunos obst&amp;#225;culos que superar, pero tal vez tu presencia cambie eso.&lt;BR&gt;&lt;BR&gt;Todo viaje empieza en alguna parte. Empecemos.</Page>
+    </Text>
+</QuestDialog>

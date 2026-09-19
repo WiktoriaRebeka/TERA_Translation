@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2108">
+        <Page social="0">[EN] &lt;PCNAME&gt; limited the archdevans' ability to reinforce by destroying their vortex gates.&lt;br&gt;[ES] &lt;PCNAME&gt; limit&amp;#243; la capacidad de refuerzo de los archdevas destruyendo sus portales de v&amp;#243;rtice.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2108">
+        <Page social="4">[EN] &lt;PCNAME&gt;, to attack the fortress, we must limit their numbers. Attack their portals and take out those wretched demokrons!&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;, para atacar la fortaleza, debemos limitar su n&amp;#250;mero! &amp;#161;Ataca sus portales y acaba con esos malditos demokrons!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2110">
+        <Page social="4">[EN] Well fought, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Let's press on!&lt;br&gt;[ES] &amp;#161;Bien luchado, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;&amp;#161;Sigamos adelante!</Page>
+    </Text>
+</QuestDialog>

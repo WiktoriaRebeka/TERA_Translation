@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1006">
+        <Page social="4">[EN] I don't have the resources here, but I'll make sure Mysterium experts study that mass.&lt;BR&gt;&lt;BR&gt;Meanwhile, I want you to find out what the argons are using to make that mist.&lt;BR&gt;&lt;BR&gt;You should head south, because that's the direction the argons went. Find Puuru at the Arcanum Outpost.&lt;BR&gt;&lt;BR&gt;He's no workaholic, but he'll know where to look.&lt;br&gt;[ES] No tengo los recursos aqu&amp;#237;, pero me asegurar&amp;#233; de que los expertos del Mysterium estudien esa masa.&lt;BR&gt;&lt;BR&gt;Mientras tanto, quiero que averig&amp;#252;es qu&amp;#233; est&amp;#225;n usando los argon para hacer esa neblina.&lt;BR&gt;&lt;BR&gt;Debes dirigirse al sur, porque esa es la direcci&amp;#243;n en la que fueron los argon. Encuentra a Puuru en el Arcanum Outpost.&lt;BR&gt;&lt;BR&gt;No es un adicto al trabajo, pero sabr&amp;#225; d&amp;#243;nde buscar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1008">
+        <Page social="4">[EN] Nila wants something? Big surprise. It's always urgent with her.&lt;BR&gt;&lt;BR&gt;Nope, no argons here. You see any?&lt;BR&gt;&lt;BR&gt;Of course, you want my help, but can it wait a minute or three?&lt;br&gt;[ES] &amp;#191;Nila quiere algo? Qu&amp;#233; sorpresa. Siempre es urgente con ella.&lt;BR&gt;&lt;BR&gt;Nones, aqu&amp;#237; no hay argon. &amp;#191;Ves alguno?&lt;BR&gt;&lt;BR&gt;Claro, quieres mi ayuda, &amp;#191;pero puede esperar uno o tres minutos?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1026">
+        <Page social="4">[EN] You've got to stop the mekonari arcanathieves and their urisk minions.&lt;BR&gt;&lt;BR&gt;Those feathery wretches are killing our people without pause. You've got to do the same here.&lt;BR&gt;&lt;BR&gt;Hunt them down and send them back to the Dream.&lt;br&gt;[ES] Tienes que detener a los arcanoladrones mekonari y a sus esbirros urisk.&lt;BR&gt;&lt;BR&gt;Esos desgraciados con plumas est&amp;#225;n matando a nuestra gente sin parar. Tienes que hacer lo mismo aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;C&amp;#225;salos y m&amp;#225;ndalos de vuelta al Sue&amp;#241;o.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1026">
+        <Page social="4">[EN] You got these from the mekonaris? Well done.&lt;BR&gt;&lt;BR&gt;Whatever they are up to, I hope we're in time to stop them.&lt;br&gt;[ES] &amp;#191;Conseguiste esto de los mekonaris? Bien hecho.&lt;BR&gt;&lt;BR&gt;Sea lo que sea que est&amp;#233;n planeando, espero que lleguemos a tiempo para detenerlos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1026">
+        <Page social="0">[EN] The mekonaris and their minions must be dealt with. Don't come back until you've completed your mission.&lt;br&gt;[ES] Hay que encargarse de los mekonaris y de sus esbirros. No regreses hasta que hayas completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

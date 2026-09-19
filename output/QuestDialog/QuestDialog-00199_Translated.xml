@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1035">
+        <Page social="4">[EN] When they excavated this place, the gulas used slaves&amp;#8212;of course!&amp;#8212;that they magically animated. There's so much anguish here that the spirits of the slaves cannot return to the Dream&amp;#8212;they're trapped here.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:8#4021#reanimated popori} and bring me their pickaxes. I might be able to do something for them.&lt;br&gt;[ES] Cuando excavaron este lugar, los gulas usaron esclavos &amp;#8212;&amp;#161;por supuesto!&amp;#8212; a los que animaron m&amp;#225;gicamente. Hay tanta angustia aqu&amp;#237; que los esp&amp;#237;ritus de los esclavos no pueden regresar al Dream; est&amp;#225;n atrapados aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Mata a los {@LinkCreature:8#4021#reanimated popori} y tr&amp;#225;eme sus picos. Tal vez pueda hacer algo por ellos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1035">
+        <Page social="4">[EN] I only hope those poor spirits can return to the Dream now.&lt;br&gt;[ES] Solo espero que esos pobres esp&amp;#237;ritus puedan regresar al Dream ahora.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1035">
+        <Page social="0">[EN] If you were reanimated as a horrid slave, I'd destroy you. You'd want me to!&lt;br&gt;[ES] Si te reanimaran como a un esclavo horrible, te destruir&amp;#237;a. &amp;#161;Querr&amp;#237;as que lo hiciera!</Page>
+    </Text>
+</QuestDialog>

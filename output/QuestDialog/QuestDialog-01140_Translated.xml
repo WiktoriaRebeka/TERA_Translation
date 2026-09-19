@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1042">
+        <Page social="4">[EN] Look, we can hold here until the bloodtusks come home, but there's no way I can complete my mission with this ragtag group&amp;#8212;not with so many argon mutations patrolling nearby.&lt;BR&gt;&lt;BR&gt;If you can take out some syndrene dragoons and zariik cyclopses around here, we might stand a chance. Help us help you.&lt;br&gt;[ES] Mira, podemos mantenernos aqu&amp;#237; hasta que los bloodtusks regresen, pero de ninguna manera puedo completar mi misi&amp;#243;n con este grupo desorganizado, y menos con tantas mutaciones argon patrullando cerca.&lt;BR&gt;&lt;BR&gt;Si logras acabar con algunos syndrene dragoons y zariik cyclopses por aqu&amp;#237;, tal vez tengamos una oportunidad. Ay&amp;#250;danos a ayudarte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1042">
+        <Page social="6">[EN] I appreciate you risking your neck for us, &lt;PCNAME&gt;. Thanks.&lt;BR&gt;&lt;BR&gt;I'll see you in Peril Cavern...if I live to reach it.&lt;br&gt;[ES] Aprecio que arriesgues el pellejo por nosotros, &lt;PCNAME&gt;. Gracias.&lt;BR&gt;&lt;BR&gt;Nos vemos en Peril Cavern... si vivo para llegar.</Page>
+    </Text>
+</QuestDialog>

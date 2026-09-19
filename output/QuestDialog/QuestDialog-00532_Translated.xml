@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1020">
+        <Page social="4">[EN] We need your help, please!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:21#22#Crag Stalker reapers}, {@LinkCreature:21#23#Crag Stalker Skullcrushers}, {@LinkCreature:21#27#Crag Stalker Watchers}, and {@LinkCreature:21#6#Crag Stalker Champions} stole the holy statues we've worked so hard to acquire and ran into the desert west of here.&lt;BR&gt;&lt;BR&gt;We've already paid dearly for those, we can't let them go. Please, chase the kulkari down and recover those statues!&lt;br&gt;[ES] &amp;#161;Necesitamos tu ayuda, por favor!&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:21#22#Crag Stalker reapers}, {@LinkCreature:21#23#Crag Stalker Skullcrushers}, {@LinkCreature:21#27#Crag Stalker Watchers} y {@LinkCreature:21#6#Crag Stalker Champions} robaron las estatuas sagradas que tanto nos cost&amp;#243; conseguir y huyeron hacia el desierto al oeste de aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Ya hemos pagado un precio muy alto por ellas, no podemos dejar que se las lleven. &amp;#161;Por favor, persigue a los kulkari y recupera esas estatuas!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1020">
+        <Page social="4">[EN] What a relief! And they're not even damaged? Brilliant!&lt;BR&gt;&lt;BR&gt;Please accept this reward and my effusive thanks.&lt;br&gt;[ES] &amp;#161;Qu&amp;#233; alivio! &amp;#191;Y ni siquiera est&amp;#225;n da&amp;#241;adas? &amp;#161;Genial!&lt;BR&gt;&lt;BR&gt;Por favor, acepta esta recompensa y mi m&amp;#225;s sincero agradecimiento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1020">
+        <Page social="0">[EN] We must have those statues, &lt;PCNAME&gt;! They're key to unlocking the secrets of the ruins!&lt;br&gt;[ES] &amp;#161;Debemos recuperar esas estatuas, &lt;PCNAME&gt;! &amp;#161;Son clave para descifrar los secretos de las ruinas!</Page>
+    </Text>
+</QuestDialog>

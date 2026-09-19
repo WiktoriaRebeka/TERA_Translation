@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1032">
+        <Page social="5" voiceTypeId="0">[EN] I don't know what the Scions are up to down there, but they've got a lot of demonic allies. Imps, to be precise.&lt;BR&gt;&lt;BR&gt;If the Scions can bind demons to do their work, it'll make them tougher to defeat. Head into the bastion and kill the Scions' imps.&lt;br&gt;[ES] No s&amp;#233; qu&amp;#233; traman los Scions ah&amp;#237; abajo, pero tienen muchos aliados demon&amp;#237;acos. Diablillos, para ser exactos.&lt;BR&gt;&lt;BR&gt;Si los Scions pueden atar demonios para hacer su trabajo, ser&amp;#225; m&amp;#225;s dif&amp;#237;cil derrotarlos. Entra al basti&amp;#243;n y mata a los diablillos de los Scions.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1032">
+        <Page social="5" voiceTypeId="0">[EN] You succeeded? Splendid! I can't stand demons, even the little ones. We're well rid of them.&lt;br&gt;[ES] &amp;#191;Tuviste &amp;#233;xito? &amp;#161;Espl&amp;#233;ndido! No soporto a los demonios, ni siquiera a los peque&amp;#241;os. Nos hemos librado bien de ellos.</Page>
+    </Text>
+</QuestDialog>

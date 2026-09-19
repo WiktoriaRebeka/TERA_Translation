@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1048">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1048">
+        <Page social="4">[EN] Thulsa's dogs have desecrated our holy ground by placing crimson shards throughout it.&lt;BR&gt;&lt;BR&gt;As offensive as they are, however, I must admit they are made out of a fantastic material. Dismantle the crimson shards and bring me the fragments.&lt;BR&gt;&lt;BR&gt;Heh. I'll melt all the fragments down and use them to restore the Divine Furnace once we take it back.&lt;BR&gt;&lt;BR&gt;Clean up the holy ground and get superb materials for free? How can it get any better than that?&lt;br&gt;[ES] Los perros de Thulsa han profanado nuestro suelo sagrado colocando fragmentos carmes&amp;#237;es por todo &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Sin embargo, por muy ofensivos que sean, debo admitir que est&amp;#225;n hechos de un material fant&amp;#225;stico. Desmantela los fragmentos carmes&amp;#237;es y tr&amp;#225;eme los trozos.&lt;BR&gt;&lt;BR&gt;Je. Fundir&amp;#233; todos los trozos y los usar&amp;#233; para restaurar el Divine Furnace una vez que lo recuperemos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Limpiar el suelo sagrado y conseguir materiales magn&amp;#237;ficos gratis? &amp;#191;C&amp;#243;mo podr&amp;#237;a ser mejor?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1048">
+        <Page social="4">[EN] Brilliant work!&lt;BR&gt;&lt;BR&gt;Hmmm... I can still sense traces of Thulsa's magic in these fragments. I will have the Mysterium purify them before I cast them into the furnace.&lt;BR&gt;&lt;BR&gt;I shall now compensate you for your trouble.&lt;br&gt;[ES] &amp;#161;Brillante trabajo!&lt;BR&gt;&lt;BR&gt;Mmm... A&amp;#250;n puedo percibir rastros de la magia de Thulsa en estos fragmentos. Har&amp;#233; que el Mysterium los purifique antes de arrojarlos a la forja.&lt;BR&gt;&lt;BR&gt;Ahora te compensar&amp;#233; por tus molestias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1048">
+        <Page social="0">[EN] This holy place must be cleared of all traces of those Thulsan and Ksharan dogs!&lt;BR&gt;&lt;BR&gt;Dismantle all the crimson shards in sight and bring me the fragments.&lt;br&gt;[ES] &amp;#161;Este lugar sagrado debe quedar libre de todo rastro de esos perros de Thulsa y de los ksharans!&lt;BR&gt;&lt;BR&gt;Desmantela todos los fragmentos carmes&amp;#237;es a la vista y tr&amp;#225;eme los trozos.</Page>
+    </Text>
+</QuestDialog>

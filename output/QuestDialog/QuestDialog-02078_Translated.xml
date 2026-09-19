@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2002" prevId="0" villagerId="124">
+        <Page social="0">[EN] Before you go to the platform, I have a request. I'm sorry to do this when you're in such a hurry, but this should benefit all of us.&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Antes de que vayas a la plataforma, tengo una petici&amp;#243;n. Lamento hacer esto cuando tienes tanta prisa, pero esto deber&amp;#237;a beneficiarnos a todos.&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I think you already saw the Azart Molochs hiding underground.&lt;BR&gt;&lt;BR&gt;If you get rid of them, we'll be able to move faster.&lt;br&gt;[ES] Creo que ya viste a los Azart Molochs escondidos bajo tierra.&lt;BR&gt;&lt;BR&gt;Si te deshaces de ellos, podremos movernos m&amp;#225;s r&amp;#225;pido.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="124">
+        <Page social="0">[EN] That's not an easy job, but you made it look so easy. I'll hurry my way to the platform.&lt;BR&gt;&lt;BR&gt;Don't forget what I told you. I'll meet you at the platform.&lt;br&gt;[ES] No es un trabajo f&amp;#225;cil, pero hiciste que pareciera muy sencillo. Me apurar&amp;#233; hacia la plataforma.&lt;BR&gt;&lt;BR&gt;No olvides lo que te dije. Nos veremos en la plataforma.</Page>
+    </Text>
+</QuestDialog>

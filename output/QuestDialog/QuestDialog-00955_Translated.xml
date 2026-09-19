@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="4">[EN] So far the quarantine holds, but in the Defiled Vale, we may not be so lucky.&lt;BR&gt;&lt;BR&gt;I'm sending you to Wooron. He's just outside Frontera. Aid him as you've aided us.&lt;br&gt;[ES] Hasta ahora la cuarentena se mantiene, pero en el Defiled Vale, puede que no tengamos tanta suerte.&lt;BR&gt;&lt;BR&gt;Te voy a enviar con Wooron. &amp;#201;l est&amp;#225; justo afuera de Frontera. Ay&amp;#250;dalo como nos has ayudado a nosotros.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1027">
+        <Page social="4">[EN] I don't even know what I'm supposed to be investigating. If there's still plague here, I could catch it myself! &lt;BR&gt;&lt;BR&gt;I just want to go home. Is that too much to ask?&lt;br&gt;[ES] Ni siquiera s&amp;#233; qu&amp;#233; se supone que debo estar investigando. &amp;#161;Si todav&amp;#237;a hay plaga aqu&amp;#237;, podr&amp;#237;a contagiarme yo mismo! &lt;BR&gt;&lt;BR&gt;Solo quiero ir a casa. &amp;#191;Es mucho pedir?</Page>
+    </Text>
+</QuestDialog>

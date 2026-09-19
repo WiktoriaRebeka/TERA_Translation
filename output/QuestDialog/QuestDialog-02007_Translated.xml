@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="0">[EN] You helped the tuwangis and joined in the Pond Faire.&lt;br&gt;[ES] Ayudaste a los tuwangis y te uniste a Pond Faire.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2000">
+        <Page social="4">[EN] Pond Faire is a ceremony for tuwangis turning seven years old. The tuwangi rituals are surprisingly complicated for such a simple species!&lt;BR&gt;&lt;BR&gt;Speak to the shaman, Haroso. Perhaps he'll let you observe the young tuwangis, or even join in. &lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Pond Faire es una ceremonia para los tuwangis que cumplen siete a&amp;#241;os. &amp;#161;Los rituales tuwangi son sorprendentemente complicados para una especie tan simple!&lt;BR&gt;&lt;BR&gt;Habla con el cham&amp;#225;n, Haroso. Tal vez te deje observar a los j&amp;#243;venes tuwangis o incluso unirte. &lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">[EN] Young tuwangi have fear. Hiding now. Must find. Must make brave! &lt;NEXTPAGEBUTTON&gt;How can I help?&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Joven tuwangi tiene miedo. Escondi&amp;#233;ndose ahora. Debes encontrar. &amp;#161;Debes dar valent&amp;#237;a! &lt;NEXTPAGEBUTTON&gt;How can I help?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Haroso give drum.&lt;BR&gt;Bang, bang drum! Hit drum to make tuwangi brave.&lt;BR&gt;&lt;BR&gt;Find tuwangi! Bang drum. Make brave.&lt;br&gt;[ES] Haroso da tambor.&lt;BR&gt;&amp;#161;Toca, toca el tambor! Golpea el tambor para dar valent&amp;#237;a al tuwangi.&lt;BR&gt;&lt;BR&gt;&amp;#161;Encuentra al tuwangi! Golpea el tambor. Da valent&amp;#237;a.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="2006">
+        <Page social="4">[EN] Must...be...brave.&lt;br&gt;[ES] Debo... ser... valiente.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="4">[EN] Thank you! You work hard. We feast!&lt;BR&gt;&lt;BR&gt;Big feast for your work! &lt;NEXTPAGEBUTTON&gt;I didn't do that much.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Gracias! Trabajas duro. &amp;#161;Comemos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gran banquete por tu trabajo! &lt;NEXTPAGEBUTTON&gt;I didn't do that much.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] You bring feast! Bring dragon meat! All tuwangis feast! Dragon meat best!&lt;br&gt;[ES] &amp;#161;Traes banquete! &amp;#161;Traes carne de drag&amp;#243;n! &amp;#161;Todos los tuwangis banquete! &amp;#161;La carne de drag&amp;#243;n es la mejor!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="5" villagerId="2001">
+        <Page social="4">[EN] Dragon meat!&lt;br&gt;[ES] &amp;#161;Carne de drag&amp;#243;n!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" villagerId="2001">
+        <Page social="0">[EN] Dragon meat!&lt;br&gt;[ES] &amp;#161;Carne de drag&amp;#243;n!</Page>
+    </Text>
+</QuestDialog>

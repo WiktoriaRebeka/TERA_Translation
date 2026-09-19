@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3001">
+        <Page social="4">[EN] There's room for another hunter around the {@Rgn:49003$$Agnurok Engine}, if you'd like.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#3010#Beiran} will prepare you.&lt;br&gt;[ES] Hay lugar para otro cazador alrededor de {@Rgn:49003$$Agnurok Engine}, si lo deseas.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#3010#Beiran} te preparar&amp;#225;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="4">[EN] Getting to the {@Rgn:49003$$Agnurok Engine} is easy. Getting back is trickier. It's full of {@LinkCreature:49#16#zariik cyanowitches} and {@LinkCreature:49#14#kalash defenders}. If they overwhelm you, hole up somewhere and rest.&lt;br&gt;[ES] Llegar a {@Rgn:49003$$Agnurok Engine} es f&amp;#225;cil. Regresar es m&amp;#225;s complicado. Est&amp;#225; lleno de {@LinkCreature:49#16#zariik cyanowitches} y {@LinkCreature:49#14#kalash defenders}. Si te abruman, esc&amp;#243;ndete en alg&amp;#250;n lugar y descansa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="2" villagerId="3001">
+        <Page social="4">[EN] The {@Rgn:49003$$Agnurok Engine} is a challenge, but full of exciting prey.&lt;BR&gt;&lt;BR&gt;It's one of my favorite spots.&lt;br&gt;[ES] El {@Rgn:49003$$Agnurok Engine} es un reto, pero est&amp;#225; lleno de presas emocionantes.&lt;BR&gt;&lt;BR&gt;Es uno de mis lugares favoritos.</Page>
+    </Text>
+</QuestDialog>

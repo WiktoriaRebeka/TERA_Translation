@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1001">
+        <Page social="5">[EN] The Temple of Dagon is a test of courage, but one I think you're up to.&lt;BR&gt;&lt;BR&gt;Get some supplies from {@LinkCreature:75#1002#Dyanne} and deliver them to {@LinkCreature:242#1008#Langbau} at Camp Venom.&lt;BR&gt;&lt;BR&gt;On your way, clear out as many of those accursed {@LinkCreature:42#510#hounds of Dagon} as you can manage. It will make things a little safer for everyone.&lt;br&gt;[ES] El Temple of Dagon es una prueba de valor, pero una que creo que puedes superar.&lt;BR&gt;&lt;BR&gt;Consigue algunos suministros de {@LinkCreature:75#1002#Dyanne} y entr&amp;#233;gaselos a {@LinkCreature:242#1008#Langbau} en Camp Venom.&lt;BR&gt;&lt;BR&gt;En tu camino, elimina a tantos de esos malditos {@LinkCreature:42#510#hounds of Dagon} como puedas. Har&amp;#225; que las cosas sean un poco m&amp;#225;s seguras para todos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1002">
+        <Page social="5">[EN] You've come for the supplies then. Don't worry about paying me&amp;#8212;just come back alive.&lt;br&gt;[ES] Entonces viniste por los suministros. No te preocupes por pagar, solo regresa con vida.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1008">
+        <Page social="5">[EN] Supplies! We really needed these. Not all messengers get through the hounds. They eat well.&lt;BR&gt;&lt;BR&gt;Now I'll distribute these and let you do your job. Strange things going on with the nagas lately. I'm sure you'll hear all about it.&lt;br&gt;[ES] &amp;#161;Suministros! De verdad los necesit&amp;#225;bamos. No todos los mensajeros logran pasar a los hounds. Comen bien.&lt;BR&gt;&lt;BR&gt;Ahora los distribuir&amp;#233; y te dejar&amp;#225;n hacer tu trabajo. Han estado pasando cosas extra&amp;#241;as con los nagas &amp;#250;ltimamente. Seguro que te enterar&amp;#225;s de todo.</Page>
+    </Text>
+</QuestDialog>

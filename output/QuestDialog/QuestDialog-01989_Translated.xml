@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] You have received an invitation to the "Castanica Beach Party" from Elesa of Serpentis Isle.&lt;br&gt;[ES] Has recibido una invitaci&amp;#243;n para la &quot;Castanica Beach Party&quot; de parte de Elesa de Serpentis Isle.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2008">
+        <Page social="4">[EN] Welcome, friend &lt;PCRACE:lcase&gt;! This is your first time to come to the Beach Party, right?&lt;BR&gt;&lt;BR&gt;Did you bring your invitation? I'm joking&amp;#8212;you don't need one! Everyone is welcome!&lt;BR&gt;&lt;BR&gt;Let me tell you all about the fun and exciting things you can do during the beach party!&lt;br&gt;[ES] &amp;#161;Bienvenido, amigo &lt;PCRACE:lcase&gt;! Es tu primera vez en la Beach Party, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;&amp;#191; trajiste tu invitaci&amp;#243;n? &amp;#161;Es broma, no necesitas una! &amp;#161;Todos son bienvenidos!&lt;BR&gt;&lt;BR&gt;&amp;#161;D&amp;#233;jame contarte todo sobre las cosas divertidas y emocionantes que puedes hacer durante la fiesta en la playa!</Page>
+    </Text>
+</QuestDialog>

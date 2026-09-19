@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="4">[EN] The Lokians are controlling {@LinkCreature:18#18#giant gladiators} at the Arena of the Exalted. If they should decide to turn them against us, I wouldn't give a lot for our chances. Take a few out and report back. I need to know just how deadly they are.&lt;br&gt;[ES] Los Lokians est&amp;#225;n controlando a los {@LinkCreature:18#18#giant gladiators} en la Arena of the Exalted. Si llegan a decidir usarlos en nuestra contra, no dar&amp;#237;a mucho por nuestras posibilidades. Acaba con unos cuantos y av&amp;#237;same. Necesito saber qu&amp;#233; tan mortales son.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1009">
+        <Page social="4">[EN] Thank you, &lt;PCNAME&gt;. Can you tell Anaka about this? She's been after me about the giants for a while.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. &amp;#191;Puedes hablarle de esto a Anaka? Me ha estado molestando con lo de los gigantes por un tiempo.</Page>
+    </Text>
+</QuestDialog>

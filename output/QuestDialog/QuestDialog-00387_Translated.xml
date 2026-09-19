@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="86" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">[EN] If you're going to be playing around the island, you'll still need to learn how to handle bombs.&lt;BR&gt;&lt;BR&gt;Go speak to {@LinkCreature:64#1029#Kiriya}. She can get you up to speed.&lt;br&gt;[ES] Si vas a estar merodeando por la isla, todav&amp;#237;a necesitas aprender a manejar bombas.&lt;BR&gt;&lt;BR&gt;Ve a hablar con {@LinkCreature:64#1029#Kiriya}. Ella puede ponerte al d&amp;#237;a.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1029">
+        <Page social="4">[EN] WHAT? I CAN'T HEAR YOU!&lt;BR&gt;&lt;BR&gt;I'VE WORKED WITH EXPLOSIVES ALL MY LIFE, AND IT'S TIME I PASSED ON THAT WISDOM!&lt;BR&gt;&lt;BR&gt;READY TO MAKE THINGS GO BOOM?&lt;NEXTPAGEBUTTON&gt;"Let's do it!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;QU&amp;#201;? &amp;#161;NO TE ESCUCHO!&lt;BR&gt;&lt;BR&gt;&amp;#161;HE TRABAJADO CON EXPLOSIVOS TODA MI VIDA Y YA ES HORA DE TRANSMITIR ESA SABIDUR&amp;#205;A!&lt;BR&gt;&lt;BR&gt;&amp;#161;&amp;#191;LISTO PARA HACER QUE LAS COSAS HAGAN BOOM?!&lt;NEXTPAGEBUTTON&gt;"Let's do it!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] THIS ISN'T EXACTLY TELEPORT RESEARCH! JUST HURL THE MAGMA BOMB AT THAT {@LinkCreature:13#888#TRAINING DUMMY} OVER THERE!&lt;BR&gt;&lt;BR&gt;THAT'S THE THING ABOUT A BOMB&amp;#8212;WHEN IT WORKS, YOU'LL KNOW ABOUT IT!&lt;br&gt;[ES] &amp;#161;ESTO NO ES EXACTAMENTE INVESTIGACI&amp;#211;N DE TELETRANSPORTACI&amp;#211;N! &amp;#161;SOLO LANZA LA BOMBA DE MAGMA A ESE {@LinkCreature:13#888#TRAINING DUMMY} DE AH&amp;#205;!&lt;BR&gt;&lt;BR&gt;&amp;#161;ESA ES LA COSA CON LAS BOMBAS: CUANDO FUNCIONAN, LO SABES!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1029">
+        <Page social="4">[EN] KNOWING HOW TO MAKE THINGS GO BOOM IS IMPORTANT, ESPECIALLY WHEN YOU'RE FACING HORDES OF ENEMIES!&lt;BR&gt;&lt;BR&gt;NOW GET OUT OF HERE AND KILL SOME STUFF FOR FREEDOM. TELL JORHON I THINK YOU'RE READY!&lt;br&gt;[ES] &amp;#161;SABER C&amp;#211;MO HACER QUE LAS COSAS EXPLOTEN ES IMPORTANTE, ESPECIALMENTE CUANDO TE ENFRENTAS A HORDAS DE ENEMIGOS!&lt;BR&gt;&lt;BR&gt;AHORA SAL DE AQU&amp;#205; Y MATA ALGO POR LA LIBERTAD. &amp;#161;D&amp;#205;LE A JORHON QUE CREO QUE EST&amp;#193;S LISTO!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1006">
+        <Page social="4">[EN] Kiriya is...special, isn't she? Working around all those loud noises all the time, it's a wonder she can hear at all.&lt;BR&gt;&lt;BR&gt;But with her recommendation, I have no problem approving you for duty.&lt;BR&gt;&lt;BR&gt;And I don't think it will be that long before you'll need to use what you've just learned.&lt;br&gt;[ES] Kiriya es... especial, &amp;#191;verdad? Trabajando con todos esos ruidos fuertes todo el tiempo, es un milagro que pueda o&amp;#237;r algo.&lt;BR&gt;&lt;BR&gt;Pero con su recomendaci&amp;#243;n, no tengo ning&amp;#250;n problema en aprobarte para el servicio.&lt;BR&gt;&lt;BR&gt;Y no creo que pase mucho tiempo antes de que necesites usar lo que acabas de aprender.</Page>
+    </Text>
+</QuestDialog>

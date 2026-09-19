@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">[EN] You helped the Consos Clan clean the garden area of the temple.&lt;br&gt;[ES] Ayudaste al Consos Clan a limpiar la zona del jard&amp;#237;n del templo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">[EN] Have you spoken to Nahad? He has asked for more help cleaning the temple garden.&lt;NEXTPAGEBUTTON&gt;"I can help."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Has hablado con Nahad? Ha pedido m&amp;#225;s ayuda para limpiar el jard&amp;#237;n del templo.&lt;NEXTPAGEBUTTON&gt;"I can help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">[EN] Oh, &lt;PCNAME&gt;. I am glad to see you. Thank you so much for helping me. Between the litter, the graffiti, and the vampirs, I am overwhelmed.&lt;NEXTPAGEBUTTON&gt;"Where do you need my help?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Oh, &lt;PCNAME&gt;. Me alegra verte. Muchas gracias por ayudarme. Entre la basura, los grafitis y los vampirs, estoy abrumado.&lt;NEXTPAGEBUTTON&gt;"Where do you need my help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">[EN] Thank you for your service to the temple.&lt;br&gt;[ES] Gracias por tus servicios al templo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">[EN] Thank you for your service to the temple.&lt;br&gt;[ES] Gracias por tus servicios al templo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7001">
+        <Page social="4">[EN] Thank you for your service to the temple.&lt;br&gt;[ES] Gracias por tus servicios al templo.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">[EN] A receptacle for waste. &lt;NEXTPAGEBUTTON&gt;Close its lid.&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Un recipiente para desperdicios. &lt;NEXTPAGEBUTTON&gt;Close its lid.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="7" villagerId="7000">
+        <Page social="4">[EN] Thank you, &lt;PCNAME&gt;. Please take this as a token of my gratitude.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Por favor, acepta esto como muestra de mi gratitud.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1037">
+        <Page social="4">[EN] &lt;PCNAME&gt;. Glad you're here. Let me brief you on our situation. &lt;BR&gt;&lt;BR&gt;We're surrounded by Thulsa's cavalry. &lt;BR&gt;&lt;BR&gt;Fortunately for us, they're not yet fully equipped for an attack, which means we have the perfect chance to eliminate the dragoons and their leader, Selvereth.&lt;BR&gt;&lt;BR&gt;I don't need to tell you the rest....&lt;br&gt;[ES] &lt;PCNAME&gt;. Qu&amp;#233; bueno que est&amp;#225;s aqu&amp;#237;. D&amp;#233;jame ponerte al corriente de nuestra situaci&amp;#243;n. &lt;BR&gt;&lt;BR&gt;Estamos rodeados por la caballer&amp;#237;a de Thulsa. &lt;BR&gt;&lt;BR&gt;Por suerte para nosotros, todav&amp;#237;a no est&amp;#225;n completamente equipados para un ataque, lo que significa que tenemos la oportunidad perfecta para eliminar a los dragones y a su l&amp;#237;der, Selvereth.&lt;BR&gt;&lt;BR&gt;No necesito decirte el resto...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1037">
+        <Page social="4">[EN] You're as brave as I'd heard! If we had more &lt;PCCLASS:lcase&gt;s like you, this war would be over pretty quickly!&lt;br&gt;[ES] &amp;#161;Eres tan valiente como hab&amp;#237;a o&amp;#237;do! Si tuvi&amp;#233;ramos m&amp;#225;s &lt;PCCLASS:lcase&gt; como t&amp;#250;, &amp;#161;esta guerra terminar&amp;#237;a bastante r&amp;#225;pido!</Page>
+    </Text>
+</QuestDialog>

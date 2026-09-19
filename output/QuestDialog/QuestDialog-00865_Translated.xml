@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1019">
+        <Page social="5">[EN] The arachnens breed faster than we can kill them. The ones here in Tor Exsul seem to subsist on sheep.&lt;BR&gt;&lt;BR&gt;Are you willing to deprive them of their supper? Bring any dead sheep you find to the Manafire Outpost, and we'll burn them.&lt;br&gt;[ES] Los arachnens se reproducen m&amp;#225;s r&amp;#225;pido de lo que podemos matarlos. Los de aqu&amp;#237;, en Tor Exsul, parecen subsistir a base de ovejas.&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s dispuesto a privarlos de su cena? Lleva cualquier oveja muerta que encuentres al Manafire Outpost y las quemaremos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1019">
+        <Page social="8">[EN] If the arachnens are starving, maybe it'll take their minds off of breeding. Or maybe we'll get lucky, and they'll start eating each other!&lt;br&gt;[ES] Si los arachnens se est&amp;#225;n muriendo de hambre, tal vez eso los distraiga de la reproducci&amp;#243;n. &amp;#161;O tal vez tengamos suerte y empiecen a devorarse unos a otros!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1019">
+        <Page social="0">[EN] The arachnens aren't going to miss these few sheep. We'll need more than that if we're going to starve those monsters out.&lt;br&gt;[ES] Los arachnens no van a extra&amp;#241;ar a estas pocas ovejas. Necesitaremos m&amp;#225;s que eso si vamos a matar de hambre a esos monstruos.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Mission Orders &lt;BR&gt;&lt;BR&gt;Eliminate the enemies in the Gallery of Chaos and the Gallery of Fate in Azarel's Labyrinth and bring proof of their deaths.&lt;BR&gt;&lt;BR&gt;Operation Target: {@LinkCreature:9#810#gula gourmands}, {@LinkCreature:9#910#caiman zealots}, {@LinkCreature:9#440#gula eviscerators}, {@LinkCreature:9#450#gula ragers}, {@LinkCreature:9#1000#Lokian bloodreapers}, {@LinkCreature:9#1100#Lokian bowmasters}, {@LinkCreature:9#1200#Lokian champions}, and {@LinkCreature:9#1300#Lokian bloodragers}.&lt;br&gt;[ES] &amp;#211;rdenes de misi&amp;#243;n &lt;BR&gt;&lt;BR&gt;Elimina a los enemigos en la Gallery of Chaos y la Gallery of Fate de Azarel's Labyrinth y trae pruebas de su muerte.&lt;BR&gt;&lt;BR&gt;Objetivo de la operaci&amp;#243;n: {@LinkCreature:9#810#gula gourmands}, {@LinkCreature:9#910#caiman zealots}, {@LinkCreature:9#440#gula eviscerators}, {@LinkCreature:9#450#gula ragers}, {@LinkCreature:9#1000#Lokian bloodreapers}, {@LinkCreature:9#1100#Lokian bowmasters}, {@LinkCreature:9#1200#Lokian champions} y {@LinkCreature:9#1300#Lokian bloodragers}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">[EN] It's a reward from the federation. Blessings to all the members of the Guild!&lt;br&gt;[ES] Es una recompensa de la federaci&amp;#243;n. &amp;#161;Bendiciones para todos los miembros del gremio!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">[EN] It looks like you haven't completed your mission yet.&lt;br&gt;[ES] Parece que a&amp;#250;n no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

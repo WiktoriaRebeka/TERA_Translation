@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="4">[EN] One of the great mysteries of the Blazing Vale: what's up with the {@LinkCreature:204#1117#Cruental Pylon}?&lt;BR&gt;&lt;BR&gt;It clearly has immense power. If only we knew how to tap it...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:4#7011#Marakadi} interacts with the pylon all the time. I'll bet she knows something&amp;#8212;or has something&amp;#8212;connected to the stone.&lt;br&gt;[ES] Uno de los grandes misterios de Blazing Vale: &amp;#191;qu&amp;#233; pasa con el {@LinkCreature:204#1117#Cruental Pylon}?&lt;BR&gt;&lt;BR&gt;Claramente tiene un poder inmenso. Si tan solo supi&amp;#233;ramos c&amp;#243;mo aprovecharlo...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:4#7011#Marakadi} interact&amp;#250;a con el pil&amp;#243;n todo el tiempo. Apuesto a que sabe algo, o tiene algo relacionado con la piedra.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1117">
+        <Page social="0">[EN] (The pylon is hot enough to burn you if you touch it.)&lt;BR&gt;&lt;BR&gt;(You insert the key, and an engraved tablet emerges from within the stone itself.)&lt;br&gt;[ES] (El pil&amp;#243;n est&amp;#225; lo suficientemente caliente como para quemarte si lo tocas.)&lt;BR&gt;&lt;BR&gt;(Insertas la llave y una tablilla grabada emerge desde el interior de la piedra).</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1117">
+        <Page social="0">[EN] (The pylon is too hot to touch. Perhaps {@LinkCreature:4#7011#Marakadi} has some secret way of interacting with it.)&lt;br&gt;[ES] (El pil&amp;#243;n est&amp;#225; demasiado caliente para tocarlo. Tal vez {@LinkCreature:4#7011#Marakadi} tenga alguna forma secreta de interactuar con &amp;#233;l).</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="3" villagerId="1003">
+        <Page social="7">[EN] This was inside the Cruental Pylon? Amazing!&lt;BR&gt;&lt;BR&gt;This is engraved with shurian magic, but the shurians don't consort with demons.&lt;BR&gt;&lt;BR&gt;Or at least, they never did before. Troubling. But I suppose ignorance is worse, eh?&lt;br&gt;[ES] &amp;#191;Esto estaba dentro del Cruental Pylon? &amp;#161;Incre&amp;#237;ble!&lt;BR&gt;&lt;BR&gt;Est&amp;#225; grabado con magia shuriana, pero los shurianos no se juntan con demonios.&lt;BR&gt;&lt;BR&gt;O al menos, nunca lo hab&amp;#237;an hecho antes. Preocupante. Pero supongo que la ignorancia es peor, &amp;#191;eh?</Page>
+    </Text>
+</QuestDialog>

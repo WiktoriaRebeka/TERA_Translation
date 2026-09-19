@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="1005">
+        <Page social="0">[EN] The in-flight meals leave something to be desired.&lt;br&gt;[ES] Las comidas durante el vuelo dejan mucho que desear.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="1005">
+        <Page social="4">[EN] Actol hasn't gotten his sea&amp;#8230;er, air legs yet.&lt;BR&gt;&lt;BR&gt;My bunk's below his, so I want him healthy before tonight.&lt;BR&gt;&lt;BR&gt;Could you check with the others for medicine or firewhiskey?&lt;br&gt;[ES] Actol todav&amp;#237;a no se adapta al mar... este, al aire.&lt;BR&gt;&lt;BR&gt;Mi litera est&amp;#225; debajo de la suya, as&amp;#237; que lo quiero saludable antes de esta noche.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as consultar con los dem&amp;#225;s si tienen medicina o firewhiskey?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="3004">
+        <Page social="4">[EN] Air sickness? Sure. Not many people have the stomach to fly. I, on the other hand, have flown twice.&lt;BR&gt;&lt;BR&gt;Try some Essenian ginger. There's probably some in the footlockers.&lt;br&gt;[ES] &amp;#191;Mareo por el aire? Claro. No mucha gente tiene el est&amp;#243;mago para volar. Yo, por otro lado, he volado dos veces.&lt;BR&gt;&lt;BR&gt;Prueba un poco de jengibre esseniano. Probablemente haya algo en los ba&amp;#250;les.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1006">
+        <Page social="4">[EN] Oh, praise Velik, heck&amp;#8212;praise Kaia, Seren, and Akasha, too. My stomach feels much better. Thanks.&lt;BR&gt;&lt;BR&gt;Would you ask Fieri if there's anything to eat.&lt;br&gt;[ES] Oh, alabada sea Velik, caramba, alabada sea Kaia, Seren y Akasha tambi&amp;#233;n. Mi est&amp;#243;mago se siente mucho mejor. Gracias.&lt;BR&gt;&lt;BR&gt;&amp;#191;Le preguntar&amp;#237;as a Fieri si hay algo de comer?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" villagerId="1006">
+        <Page social="0">[EN] No ginger? Keep looking.&lt;br&gt;[ES] &amp;#191;Sin jengibre? Sigue buscando.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="4" villagerId="3007">
+        <Page social="4">[EN] Oh, heck yeah. I'm the king of comfort food.&lt;BR&gt;&lt;BR&gt;By the way, do you want to try my latest dish?&lt;BR&gt;&lt;BR&gt;Come on, don't be shy. I learned from the most prominent chef in Arun.&lt;br&gt;[ES] Oh, rayos s&amp;#237;. Soy el rey de la comida reconfortante.&lt;BR&gt;&lt;BR&gt;Por cierto, &amp;#191;quieres probar mi &amp;#250;ltimo plato?&lt;BR&gt;&lt;BR&gt;Vamos, no seas t&amp;#237;mido. Aprend&amp;#237; del chef m&amp;#225;s destacado de Arun.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="6" villagerId="1007">
+        <Page social="4">[EN] (The smell reminds you of onions and argons.)&lt;br&gt;[ES] (El olor te recuerda a cebollas y argons.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="3007">
+        <Page social="4">[EN] What? You're crazy. That dish is off the hook with flavor!&lt;BR&gt;&lt;BR&gt;Here, try this one.&lt;br&gt;[ES] &amp;#191;Qu&amp;#233;? Est&amp;#225;s loco. &amp;#161;Ese plato tiene un sabor incre&amp;#237;ble!&lt;BR&gt;&lt;BR&gt;Ten, prueba este.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="823" prevId="8" villagerId="1008">
+        <Page social="4">[EN] (Looks and smells less suspicious.)&lt;br&gt;[ES] (Se ve y huele menos sospechoso.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="823" prevId="9" villagerId="3007">
+        <Page social="4">[EN] I'm telling you, that was a symposium of flavor! Shut the front door, I am amazing!&lt;BR&gt;&lt;BR&gt;I should compete to be Arun Chef!&lt;br&gt;[ES] &amp;#161;Te digo que eso fue un simposio de sabores! &amp;#161;Cierra la boca, soy incre&amp;#237;ble!&lt;BR&gt;&lt;BR&gt;&amp;#161;Deber&amp;#237;a competir para ser el Arun Chef!</Page>
+    </Text>
+</QuestDialog>

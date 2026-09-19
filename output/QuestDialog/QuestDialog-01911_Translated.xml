@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">[EN] You must be really bored. I mean, there's a war going on, and here you are chatting me up.&lt;NEXTPAGEBUTTON&gt;"Yeah..."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Debes estar muy aburrido. Digo, hay una guerra en marcha y aqu&amp;#237; est&amp;#225;s charlando conmigo.&lt;NEXTPAGEBUTTON&gt;"Yeah..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I noticed it the moment I laid my eyes on you. Just a bored, lazy, no good &lt;PCCLASS:lcase&gt;. Heh.&lt;BR&gt;&lt;BR&gt;Go ask {@LinkCreature:63#3002#Taratia} to play twenty questions with you.&lt;br&gt;[ES] Lo not&amp;#233; en el momento en que puse los ojos en ti. Tan solo un &lt;PCCLASS:lcase&gt; aburrido, perezoso y buitre. Je.&lt;BR&gt;&lt;BR&gt;Ve a pedirle a {@LinkCreature:63#3002#Taratia} que juegue a las veinte preguntas contigo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">[EN] Hee-hee. Yeah, we're all going a little mad, aren't we?&lt;BR&gt;&lt;BR&gt;Twenty questions is possibly the best game ever, but I need materials, and I need them delivered yesterday to Santia in the workshop.&lt;BR&gt;&lt;BR&gt;So, another time?&lt;br&gt;[ES] Je, je. S&amp;#237;, todos nos estamos volviendo un poco locos, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;El juego de las veinte preguntas es posiblemente el mejor juego de la historia, pero necesito materiales y los necesito entregados ayer a Santia en el taller.&lt;BR&gt;&lt;BR&gt;&amp;#191;As&amp;#237; que en otra ocasi&amp;#243;n?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="3" villagerId="1098">
+        <Page social="5">[EN] {@RawItem:206818}. You ever wonder where this stuff comes from? I mean, really? Yeah, me either.&lt;br&gt;[ES] {@RawItem:206818}. &amp;#191;Alguna vez te has preguntado de d&amp;#243;nde viene esto? &amp;#191;De verdad? S&amp;#237;, yo tampoco.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] You don't actually have to travel so far to get {@RawItem:206818}. You know that, right?&lt;br&gt;[ES] En realidad no tienes que viajar tan lejos para conseguir {@RawItem:206818}. &amp;#191;Sabes eso, verdad?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="3" villagerId="1098">
+        <Page social="5">[EN] {@RawItem:206819}. You ever wonder where this stuff comes from? I mean, really? Yeah, me either.&lt;br&gt;[ES] {@RawItem:206819}. &amp;#191;Alguna vez te has preguntado de d&amp;#243;nde viene esto? &amp;#191;De verdad? S&amp;#237;, yo tampoco.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] You don't actually have to travel so far to get {@RawItem:206819}. You know that, right?&lt;br&gt;[ES] En realidad no tienes que viajar tan lejos para conseguir {@RawItem:206819}. &amp;#191;Sabes eso, verdad?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="3" villagerId="1098">
+        <Page social="5">[EN] {@RawItem:206820}. You ever wonder where this stuff comes from? I mean, really? Yeah, me either.&lt;br&gt;[ES] {@RawItem:206820}. &amp;#191;Alguna vez te has preguntado de d&amp;#243;nde viene esto? &amp;#191;De verdad? S&amp;#237;, yo tampoco.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] You don't actually have to travel so far to get {@RawItem:206820}. You know that, right?&lt;br&gt;[ES] En realidad no tienes que viajar tan lejos para conseguir {@RawItem:206820}. &amp;#191;Sabes eso, verdad?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="3" villagerId="1098">
+        <Page social="5">[EN] {@RawItem:206821}. You ever wonder where this stuff comes from? I mean, really? Yeah, me either.&lt;br&gt;[ES] {@RawItem:206821}. &amp;#191;Alguna vez te has preguntado de d&amp;#243;nde viene esto? &amp;#191;De verdad? S&amp;#237;, yo tampoco.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] You don't actually have to travel so far to get {@RawItem:206821}. You know that, right?&lt;br&gt;[ES] En realidad no tienes que viajar tan lejos para conseguir {@RawItem:206821}. &amp;#191;Sabes eso, verdad?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="3" villagerId="1098">
+        <Page social="5">[EN] {@RawItem:206822}. You ever wonder where this stuff comes from? I mean, really? Yeah, me either.&lt;br&gt;[ES] {@RawItem:206822}. &amp;#191;Alguna vez te has preguntado de d&amp;#243;nde viene esto? &amp;#191;De verdad? S&amp;#237;, yo tampoco.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] You don't actually have to travel so far to get {@RawItem:206822}. You know that, right?&lt;br&gt;[ES] En realidad no tienes que viajar tan lejos para conseguir {@RawItem:206822}. &amp;#191;Sabes eso, verdad?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">[EN] In all seriousness, one of these days we all need to get together for drinks and laughs. Someday, when all of this is over, maybe.&lt;br&gt;[ES] Hablando en serio, alg&amp;#250;n d&amp;#237;a todos deber&amp;#237;amos reunirnos para tomar algo y re&amp;#237;rnos. Alg&amp;#250;n d&amp;#237;a, cuando todo esto termine, tal vez.</Page>
+    </Text>
+</QuestDialog>

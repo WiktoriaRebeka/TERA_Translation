@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] The enemy came from the portal and did something with pumpkins growing in vegetable patches around Popolion. Pumpkins come to life and attack civilians.&lt;BR&gt;&lt;BR&gt;But we found a way to end the curse!&lt;BR&gt;&lt;BR&gt;My friend, if you battle the killer pumpkins and bring me their pieces, I'll be able to cast a counterspell on them. That should give our people some respite.&lt;BR&gt;&lt;BR&gt;Now be quick!&lt;br&gt;[ES] El enemigo sali&amp;#243; del portal y le hizo algo a las calabazas que crecen en los huertos alrededor de Popolion. &amp;#161;Las calabazas cobran vida y atan a los civiles.&lt;BR&gt;&lt;BR&gt;&amp;#161;Pero encontramos una forma de terminar con la maldici&amp;#243;n!&lt;BR&gt;&lt;BR&gt;Amigo m&amp;#237;o, si luchas contra las calabazas asesinas y me traes sus pedazos, podr&amp;#233; lanzarles un contrahechizo. &amp;#161;Eso deber&amp;#237;a darle a nuestra gente un respiro!&lt;BR&gt;&lt;BR&gt;&amp;#161;Ahora date prisa!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="0" villagerId="1011">
+        <Page social="4">[EN] Thanks for helping us with those pumpkin monsters! You demosntrated real courage prowess in your battles, and you more than deserve this reward.&lt;br&gt;[ES] &amp;#161;Gracias por ayudarnos con esos monstruos de calabaza! Demostraste verdadera destreza y coraje en tus batallas, y m&amp;#225;s que mereces esta recompensa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="67" prevId="0" villagerId="1011">
+        <Page social="4">[EN] Hm... I'm going to need more.&lt;BR&gt;&lt;BR&gt;Here's the list again: &lt;BR&gt;&lt;BR&gt;Scraps of Cloth &amp;#215;500&lt;BR&gt;Pumpkin Seeds &amp;#215;250&lt;BR&gt;Enchanted Leaves &amp;#215; 100&lt;BR&gt;Cursed Substance &amp;#215;100&lt;BR&gt;&lt;BR&gt;Deliver all of these materials to me, and I'll reward you with a random reward chest!&lt;br&gt;[ES] Hm... Voy a necesitar m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; est&amp;#225; la lista de nuevo: &lt;BR&gt;&lt;BR&gt;Retazos de tela &amp;#215;500&lt;BR&gt;Semillas de calabaza &amp;#215;250&lt;BR&gt;Hojas encantadas &amp;#215;100&lt;BR&gt;Sustancia maldita &amp;#215;100&lt;BR&gt;&lt;BR&gt;&amp;#161;Entr&amp;#233;gate todos estos materiales y te recompensar&amp;#233; con un cofre de recompensa aleatorio!</Page>
+    </Text>
+</QuestDialog>

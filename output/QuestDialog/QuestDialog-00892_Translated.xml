@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1020">
+        <Page social="17">[EN] The argons are practically sharing a campfire with us! We've got to do something.&lt;BR&gt;&lt;BR&gt;In Kaiator, they always teach us, "Strike first! Strike last!" That's never a bad strategy.&lt;BR&gt;&lt;BR&gt;Start with a "strike first" against the kalashes, and gather some intel if you can.&lt;br&gt;[ES] &amp;#161;Los argons pr&amp;#225;cticamente est&amp;#225;n compartiendo una fogata con nosotros! Tenemos que hacer algo.&lt;BR&gt;&lt;BR&gt;En Kaiator siempre nos ense&amp;#241;an: &quot;&amp;#161;Golpea primero! &amp;#161;Golpea &amp;#250;ltimo!&quot;. Esa nunca es una mala estrategia.&lt;BR&gt;&lt;BR&gt;Empieza con un &quot;golpe primero&quot; contra los kalashes y recopila algo de informaci&amp;#243;n si puedes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1020">
+        <Page social="14">[EN] So the argons are trying to get something from Saleron, just as Killian was? That old, buried god must have something everyone wants, eh? &lt;BR&gt;&lt;BR&gt;Better Saleron than me, I guess. And I bet those argons weren't expecting you, &lt;PCNAME&gt;.&lt;br&gt;[ES] &amp;#191;As&amp;#237; que los argons est&amp;#225;n tratando de conseguir algo de Saleron, al igual que Killian? Ese viejo dios enterrado debe tener algo que todos quieren, &amp;#191;eh? &lt;BR&gt;&lt;BR&gt;Supongo que mejor Saleron que yo. Y apuesto a que esos argons no te esperaban, &lt;BR&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1020">
+        <Page social="0">[EN] I've heard of you, &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;And I know you can take out many, many more argons.&lt;br&gt;[ES] He o&amp;#237;do hablar de ti, &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;Y s&amp;#233; que puedes acabar con muchos, muchos m&amp;#225;s argons.</Page>
+    </Text>
+</QuestDialog>

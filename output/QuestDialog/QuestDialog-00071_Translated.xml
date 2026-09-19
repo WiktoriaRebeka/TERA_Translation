@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1110">
+        <Page social="4">[EN] It's the howling that drives me crazy&amp;#8212;the howling of the dead soldiers.&lt;BR&gt;&lt;BR&gt;We actually had a popori mystic come through here a few weeks ago, telling us some mumbo-jumbo about how "distillations of the killers" would return the anguished souls to the Dream. And more importantly, shut them up!&lt;BR&gt;&lt;BR&gt;Kridan and I got most of the "distallations" the popori wanted, but we're missing one.&lt;NEXTPAGEBUTTON&gt;"What's missing?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Es el aullido lo que me vuelve loca: el aullido de los soldados muertos.&lt;BR&gt;&lt;BR&gt;Hace unas semanas pas&amp;#243; por aqu&amp;#237; un mystic popori que nos solt&amp;#243; una milonga sobre c&amp;#243;mo los &amp;#171;destilados de los asesinos&amp;#187; har&amp;#237;an regresar a las almas angustiadas al Dream. Y lo m&amp;#225;s importante, &amp;#161;les har&amp;#237;an callar!&lt;BR&gt;&lt;BR&gt;Kridan y yo conseguimos la mayor&amp;#237;a de los &amp;#171;destilados&amp;#187; que el popori quer&amp;#237;a, pero nos falta uno.&lt;NEXTPAGEBUTTON&gt;"What's missing?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] The essence of the {@LinkCreature:4#1021#sulphurous groknar}. That's a bit much for Kridan and me.&lt;BR&gt;&lt;BR&gt;Bring me essence of their fire, and we can shut up all those howling ghosts.&lt;br&gt;[ES] La esencia del {@LinkCreature:4#1021#sulphurous groknar}. Eso es demasiado para Kridan y para m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme la esencia de su fuego y podremos callar a todos esos fantasmas aulladores.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1110">
+        <Page social="4">[EN] Thanks, &lt;PCNAME&gt;. Now we can restore our comrades' souls to the Dream.&lt;BR&gt;&lt;BR&gt;And shut them up so we can get some sleep!&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Ahora podemos restaurar las almas de nuestros camaradas en el Dream.&lt;BR&gt;&lt;BR&gt;&amp;#161;Y callarlos para que podamos dormir un poco!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1110">
+        <Page social="0">[EN] Don't just do it for us, &lt;PCNAME&gt;. Do it for those poor tormented souls, howling because they cannot return to the Dream.&lt;br&gt;[ES] No lo hagas solo por nosotros, &lt;PCNAME&gt;. Hazlo por esas almas pobres y atormentadas que aullan porque no pueden regresar al Dream.</Page>
+    </Text>
+</QuestDialog>

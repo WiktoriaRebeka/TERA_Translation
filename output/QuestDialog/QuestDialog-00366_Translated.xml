@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">[EN] Sorcha is a junior researcher full of crazy ideas! After listening to Eria talk about some ridiculous prophecy, she went off alone determined to tap into the power of the Tainted Gorge.&lt;BR&gt;&lt;BR&gt;It's been some time since she checked in, and I'm worried. Can I count on your assistance in bringing her back in safely? Well, you and a few more friends...&lt;br&gt;[ES] &amp;#161;Sorcha es una investigadora junior llena de ideas locas! Despu&amp;#233;s de escuchar a Eria hablar sobre alguna profec&amp;#237;a rid&amp;#237;cula, se fue sola decidida a aprovechar el poder de Tainted Gorge.&lt;BR&gt;&lt;BR&gt;Ha pasado un tiempo desde la &amp;#250;ltima vez que se comunic&amp;#243; y estoy preocupado. &amp;#191;Puedo contar con tu ayuda para traerla de vuelta a salvo? Bueno, t&amp;#250; y unos cuantos amigos m&amp;#225;s...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1007">
+        <Page social="4">[EN] Sorcha brought a mobile teleport stone with her, so Hermaiorni can do a clever bit of triangulation and teleport you there. But hurry&amp;#8212;who knows what trouble she's in?&lt;BR&gt;&lt;BR&gt;Talk to Teleport Master Hermaiorni, and she'll send you onward. And do not forget to gear up for unexpected battles.&lt;br&gt;[ES] Sorcha trajo una piedra de teletransporte m&amp;#243;vil con ella, por lo que Hermaiorni puede hacer un buen trabajo de triangulaci&amp;#243;n y teletransportarte all&amp;#237;. Pero date prisa, &amp;#191;qui&amp;#233;n sabe en qu&amp;#233; problemas est&amp;#225;?&lt;BR&gt;&lt;BR&gt;Habla con la Teleport Master Hermaiorni y te enviar&amp;#225; adelante. Y no olvides prepararte para batallas inesperadas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1050">
+        <Page social="4">[EN] Sorcha...always in such a rush. Eria and I told her the time was not right to act on the prophecy, but there was no stopping her.&lt;BR&gt;&lt;BR&gt;If you and your team are ready, I can definitely get you out to her last known position.&lt;br&gt;[ES] Sorcha... siempre con tanta prisa. Eria y yo le dijimos que no era el momento adecuado para actuar bas&amp;#225;ndose en la profec&amp;#237;a, pero no hubo forma de detenerla.&lt;BR&gt;&lt;BR&gt;Si t&amp;#250; y tu equipo est&amp;#225;n listos, definitivamente puedo llevarlos a su &amp;#250;ltima posici&amp;#243;n conocida.</Page>
+    </Text>
+</QuestDialog>

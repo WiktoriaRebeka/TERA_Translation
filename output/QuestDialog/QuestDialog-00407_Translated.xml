@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="5">[EN] Whew! I've been drawing up evacuation contingency plans all day. My usual business is going by the wayside.&lt;BR&gt;&lt;BR&gt;I haven't even followed up with young...Gumbi? Gamilon? The youngster running the southern gate.&lt;BR&gt;&lt;BR&gt;It sounded urgent. Can you do an old man a favor?&lt;br&gt;[ES] &amp;#161;Uf! Me he pasado el d&amp;#237;a redactando planes de contingencia para una evacuaci&amp;#243;n. Mis asuntos habituales han quedado en segundo plano.&lt;BR&gt;&lt;BR&gt;Ni siquiera he hecho el seguimiento con el joven... &amp;#191;Gumbi? &amp;#191;Gamilon? El muchacho que dirige la puerta sur.&lt;BR&gt;&lt;BR&gt;Sonaba urgente. &amp;#191;Puedes hacerle un favor a un viejo?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1027">
+        <Page social="5">[EN] Thanks for coming. Old Bisi's been so busy I'm surprised he remembered! Camp Vigilance, south of there, is full of plague researchers, and that pack of {@LinkCreature:15#3#sulking inky sabertooths} has cut them off. Could you clear a path?&lt;br&gt;[ES] Gracias por venir. &amp;#161;El viejo Bisi ha estado tan ocupado que me sorprende que se haya acordado! Camp Vigilance, al sur de ah&amp;#237;, est&amp;#225; lleno de investigadores de plagas, y esa manada de {@LinkCreature:15#3#sulking inky sabertooths} les ha cortado el paso. &amp;#191;Podr&amp;#237;as despejar un camino?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1009">
+        <Page social="5">[EN] Sabertooth fangs! Much prefer them outside the sabertooth's mouth, don't you?&lt;BR&gt;&lt;BR&gt;Say, are you free to help with another little problem?&lt;br&gt;[ES] &amp;#161;Colmillos de sabertooth! Mucho mejor tenerlos fuera de la boca del sabertooth, &amp;#191;no crees?&lt;BR&gt;&lt;BR&gt;Dime, &amp;#191;est&amp;#225;s libre para ayudar con otro peque&amp;#241;o problema?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" villagerId="1009">
+        <Page social="0">[EN] I'd rather have a dozen sabertooth fangs in my hand than a pair in the back of my neck. You're working on that, aren't you?&lt;br&gt;[ES] Preferir&amp;#237;a tener una docena de colmillos de sabertooth en la mano que un par en la nuca. Est&amp;#225;s trabajando en eso, &amp;#191;verdad?</Page>
+    </Text>
+</QuestDialog>

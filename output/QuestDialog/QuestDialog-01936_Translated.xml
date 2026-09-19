@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="4">[EN] Someone observed that these nexuses only appear in argon territory, which suggests a direct link. We've also spotted a strange device in the hands of some argons.&lt;BR&gt;&lt;BR&gt;The mission is to scour {@Rgn:49001}, {@Rgn:50001}, and the {@Rgn:48001}, kill argons, and collect these devices for study.&lt;BR&gt;&lt;BR&gt;Return safely. We need all the help we can get.&lt;br&gt;[ES] Alguien observ&amp;#243; que estos nexus solo aparecen en territorio argon, lo que sugiere un v&amp;#237;nculo directo. Tambi&amp;#233;n hemos visto un extra&amp;#241;o dispositivo en manos de algunos argons.&lt;BR&gt;&lt;BR&gt;La misi&amp;#243;n es explorar {@Rgn:49001}, {@Rgn:50001} y el {@Rgn:48001}, matar argons y recolectar estos dispositivos para su estudio.&lt;BR&gt;&lt;BR&gt;Regresa a salvo. Necesitamos toda la ayuda posible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1003">
+        <Page social="4">[EN] Excellent work. We'll begin our studies at once.&lt;br&gt;[ES] Excelente trabajo. Comenzaremos nuestros estudios de inmediato.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1003">
+        <Page social="0">[EN] We must have those devices. It may prove the key to stopping these nexuses.&lt;br&gt;[ES] Debemos tener esos dispositivos. Podr&amp;#237;a ser la clave para detener estos nexus.</Page>
+    </Text>
+</QuestDialog>

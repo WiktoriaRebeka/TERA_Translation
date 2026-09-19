@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">[EN] The lightless mercenaries received more supplies yesterday.&lt;BR&gt;&lt;BR&gt;We can't pinpoint the supplier, but if they continue to get support as easily and frequently as this, it's definitely bad news for us.&lt;BR&gt;&lt;BR&gt;Are you up for a raid, &lt;PCNAME&gt;? Go to the mercenary camp in the basin to the north and steal those supplies.&lt;br&gt;[ES] Los mercenarios sin luz recibieron m&amp;#225;s suministros ayer.&lt;BR&gt;&lt;BR&gt;No podemos localizar al proveedor, pero si contin&amp;#250;an recibiendo apoyo tan f&amp;#225;cil y frecuentemente como esto, definitivamente son malas noticias para nosotros.&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s listo para una incursi&amp;#243;n, &lt;PCNAME&gt;? Ve al campamento mercenario en la cuenca al norte y roba esos suministros.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">[EN] Thanks! This should keep things in our favor a little longer.&lt;BR&gt;&lt;BR&gt;Khasib was asking about you while you were gone. I think he might be starting to figure out what I mean by "not my type." If you know what I mean...&lt;br&gt;[ES] &amp;#161;Gracias! Esto deber&amp;#237;a mantener las cosas a nuestro favor un poco m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Khasib estuvo preguntando por ti mientras no estabas. Creo que quiz&amp;#225;s est&amp;#233; empezando a entender lo que quiero decir con &quot;no es mi tipo&quot;. Si sabes a lo que me refiero...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">[EN] The supplies are in the mercenary camp in the basin north of here. Well, did you get them?&lt;br&gt;[ES] Los suministros est&amp;#225;n en el campamento mercenaria en la cuenca al norte de aqu&amp;#237;. Bien, &amp;#191;los conseguiste?</Page>
+    </Text>
+</QuestDialog>

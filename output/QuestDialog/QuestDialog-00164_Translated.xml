@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1002">
+        <Page social="5">[EN] The orcan attacks kept us from making our regular supply runs to Godric's Farm. Thanks to you, we can probably start them back up.&lt;BR&gt;&lt;BR&gt;Take these supplies to {@LinkCreature:207#1005#Heroth}. He's shepherding the last farmers in the region and babysitting some Mysterium hotshots. These supplies should be a welcome shot to his morale.&lt;br&gt;[ES] Los ataques de los orcans nos impidieron realizar nuestros viajes habituales de suministros a Godric's Farm. Gracias a ti, probablemente podamos reanudarlos.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale estos suministros a {@LinkCreature:207#1005#Heroth}. Est&amp;#225; escoltando a los &amp;#250;ltimos granjeros de la regi&amp;#243;n y cuidando a algunos sabelotodos del Mysterium. Estos suministros deber&amp;#237;an ser un buen impulso para su moral.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1005">
+        <Page social="5">[EN] Rations? Actual rations? Not dried rat or weeds a goat trampled weeks ago? I'm impressed!&lt;BR&gt;&lt;BR&gt;I knew Drustan wouldn't forget us out here. He's a good officer&amp;#8212;watches out for his troops. Appreciate you coming through with these, &lt;PCNAME&gt;. My soldiers could use them.&lt;br&gt;[ES] &amp;#191;Raciones? &amp;#191;Raciones de verdad? &amp;#191;No rata seca o hierbas que una cabra pisote&amp;#243; hace semanas? &amp;#161;Estoy impresionado!&lt;BR&gt;&lt;BR&gt;Sab&amp;#237;a que Drustan no se olvidar&amp;#237;a de nosotros por aqu&amp;#237;. Es un buen oficial, cuida de sus tropas. Agradezco que hayas tra&amp;#237;do esto, &lt;PCNAME&gt;. Mis soldados podr&amp;#237;an usarlas.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1024">
+        <Page social="4">[EN] These squads of Bleakbone undead keep coming up that road due south of us. I have a sinking feeling they're...fresh.&lt;BR&gt;&lt;BR&gt;Take these vials. The undead give off a black fluid when you kill them. Fill the vials and bring them back.&lt;br&gt;[ES] Estos escuadrones de no-muertos Bleakbone no paran de subir por ese camino al sur de nosotros. Tengo el presentimiento de que est&amp;#225;n... reci&amp;#233;n hechos.&lt;BR&gt;&lt;BR&gt;Toma estos viales. Los no-muertos liberan un fluido negro cuando los matas. Llena los viales y tr&amp;#225;elos de vuelta.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1024">
+        <Page social="4">[EN] Full? Every vial? Fantastic work, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Now let me see...Oh, Velik's bloody rage, I was right. These poor wretches were alive less than a day ago.&lt;BR&gt;&lt;BR&gt;These are the kidnapped townsfolk. They're sending them back to us, the monsters!&lt;br&gt;[ES] &amp;#191;Llenos? &amp;#191;Todos los viales? &amp;#161;Un trabajo fant&amp;#225;stico, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Ahora d&amp;#233;jame ver... Oh, la sangrienta furia de Velik, ten&amp;#237;a raz&amp;#243;n. Estos pobres desgraciados estaban vivos hace menos de un d&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Estos son los aldejos secuestrados. &amp;#161;Nos los est&amp;#225;n devolviendo, los monstruos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1024">
+        <Page social="0">[EN] Those Bleakbone dragoons, slashers, and defenders are cutting us off from town. Clear them out and help me trace their origins, soldier!&lt;br&gt;[ES] Esos dragones, cortadores y defensores Bleakbone nos est&amp;#225;n cortando el paso al pueblo. &amp;#161;Elim&amp;#237;nalos y ay&amp;#250;dame a rastrear sus or&amp;#237;genes, soldado!</Page>
+    </Text>
+</QuestDialog>

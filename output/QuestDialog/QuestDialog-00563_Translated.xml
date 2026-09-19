@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1011">
+        <Page social="5">[EN] The dormitories on the third floor are overrun with lunatic students.&lt;BR&gt;&lt;BR&gt;The worst are the {@LinkCreature:22#14#vadoma acolytes}! If you don't stop them, you'll never get a foothold established on the floor.&lt;BR&gt;&lt;BR&gt;Everything's turning out so dark.&lt;br&gt;[ES] Los dormitorios del tercer piso est&amp;#225;n infestados de estudiantes lun&amp;#225;ticos.&lt;BR&gt;&lt;BR&gt;Los peores son los {@LinkCreature:22#14#vadoma acolytes}! Si no los detienes, nunca podr&amp;#225;s establecer un punto de apoyo en el piso.&lt;BR&gt;&lt;BR&gt;Todo se est&amp;#225; poniendo muy oscuro.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1011">
+        <Page social="5">[EN] Judging from your appearance, they fought hard.&lt;BR&gt;&lt;BR&gt;You know, there's a part of me that's actually proud of their accomplishments.&lt;BR&gt;&lt;BR&gt;I hope I remember that when I finally put their bodies to rest.&lt;br&gt;[ES] A juzgar por tu apariencia, lucharon duro.&lt;BR&gt;&lt;BR&gt;Sabes, hay una parte de m&amp;#237; que realmente est&amp;#225; orgullosa de sus logros.&lt;BR&gt;&lt;BR&gt;Espero recordarlo cuando finalmente le d&amp;#233; descanso a sus cuerpos.</Page>
+    </Text>
+</QuestDialog>

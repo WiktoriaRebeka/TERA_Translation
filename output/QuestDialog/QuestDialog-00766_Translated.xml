@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="4">[EN] &lt;PCNAME&gt;, Nashwa has told me about your many successful missions.&lt;BR&gt;&lt;BR&gt;The secret documents you recovered include a map marking the location of one of Kaidun's staff officer's bases. {@LinkCreature:32#21#Lotishara}'s strategies have sent many of the federation's soldiers to their deaths.&lt;BR&gt;&lt;BR&gt;Go and show her the might of the Valkyon Federation.&lt;br&gt;[ES] &lt;PCNAME&gt;, Nashwa me ha hablado de tus muchas misiones exitosas.&lt;BR&gt;&lt;BR&gt;Los documentos secretos que recuperaste incluyen un mapa que marca la ubicaci&amp;#243;n de una de las bases de los oficiales de estado mayor de Kaidun. Las estrategias de {@LinkCreature:32#21#Lotishara} han enviado a la muerte a muchos de los soldados de la federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ve y mu&amp;#233;strale el poder de la Valkyon Federation.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1002">
+        <Page social="4">[EN] Outstanding! The traitor's army has lost its right arm with Lotishara's death. The end of our battles is in sight.&lt;br&gt;[ES] &amp;#161;Incre&amp;#237;ble! El ej&amp;#233;rcito del traidor ha perdido su brazo derecho con la muerte de Lotishara. El fin de nuestras batallas est&amp;#225; a la vista.</Page>
+    </Text>
+</QuestDialog>

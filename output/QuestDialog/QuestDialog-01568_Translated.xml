@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[EN] [&lt;PCNAME&gt;:&lt;BR&gt;&lt;BR&gt;{@linkcreature:183#7001#Gaderong}, the master of the Celestial Arena, has been asking about you. He has recently opened the arena and is seeking proven champions to demonstrate it...for a suitable reward.&lt;BR&gt;&lt;BR&gt;If you are interested, seek him out in Highwatch.&lt;br&gt;[ES] [&lt;PCNAME&gt;:&lt;BR&gt;&lt;BR&gt;{@linkcreature:183#7001#Gaderong}, el maestro de la Celestial Arena, ha estado preguntando por ti. Recientemente ha abierto la arena y busca campeones probados para demostrarla... a cambio de una recompensa adecuada.&lt;BR&gt;&lt;BR&gt;Si est&amp;#225;s interesado, b&amp;#250;scalo en Highwatch.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="7001">
+        <Page social="4">[EN] &lt;PCNAME&gt;...&lt;PCNAME&gt;...&lt;BR&gt;&lt;BR&gt;Oh! Yes, you're on my list! Welcome!&lt;BR&gt;&lt;BR&gt;I'm trying to generate interest in my new arena, and having someone like you compete will certainly draw a crowd! Interested?&lt;br&gt;[ES] &lt;PCNAME&gt;...&lt;PCNAME&gt;...&lt;BR&gt;&lt;BR&gt;&amp;#161;Oh! &amp;#161;S&amp;#237;, est&amp;#225;s en mi lista! &amp;#161;Bienvenido!&lt;BR&gt;&lt;BR&gt;&amp;#161;Estoy intentando generar inter&amp;#233;s en mi nueva arena, y tener a alguien como t&amp;#250; compitiendo sin duda atraer&amp;#225; a una multitud! &amp;#191;Est&amp;#225;s interesado?</Page>
+    </Text>
+</QuestDialog>

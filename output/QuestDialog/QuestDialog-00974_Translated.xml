@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1100">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1100">
+        <Page social="4">[EN] There's a medicinal plant that grows nearby. It's called dismalweed, and it has quite amazing healing properties.&lt;BR&gt;&lt;BR&gt;The difficulty seems to be how dangerous it is to gather it. Perhaps not for &lt;PCNAME&gt;, however....&lt;br&gt;[ES] Hay una planta medicinal que crece cerca. Se llama hierba l&amp;#250;gubre, y tiene propiedades curativas bastante asombrosas.&lt;BR&gt;&lt;BR&gt;La dificultad parece ser lo peligroso que es recolectarla. Quiz&amp;#225;s no para &lt;PCNAME&gt;, sin embargo...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1100">
+        <Page social="4">[EN] This should be enough to make a good infusion for our purposes. Thank you.&lt;br&gt;[ES] Esto deber&amp;#237;a ser suficiente para preparar una buena infusi&amp;#243;n para nuestros prop&amp;#243;sitos. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1100">
+        <Page social="0">[EN] I can do nothing without the dismalweed, &lt;PCNAME&gt;.&lt;br&gt;[ES] No puedo hacer nada sin la hierba l&amp;#250;gubre, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

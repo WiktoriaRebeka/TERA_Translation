@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1009">
+        <Page social="4">[EN] The sikandaris believe they're waking Sikander to save him&amp;#8212;and elevate themselves.&lt;BR&gt;&lt;BR&gt;Unfortunately, they're killing our people to do it. They bought Killian's twisted lies and false promises? So be it.&lt;BR&gt;&lt;BR&gt;We're not letting them win. Take out the sikandari champions and their stonebeaks.&lt;br&gt;[ES] Los sikandaris creen que est&amp;#225;n despertando a Sikander para salvarlo y elevarse a s&amp;#237; mismos.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, est&amp;#225;n matando a nuestra gente para lograrlo. &amp;#191;Compraron las mentiras retorcidas y las falsas promesas de Killian? Que as&amp;#237; sea.&lt;BR&gt;&lt;BR&gt;No los dejaremos ganar. Acaba con los sikandari champions y sus stonebeaks.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1009">
+        <Page social="4">[EN] The sikandaris would make strong allies, if we could trust them. That ship has sailed, though.&lt;BR&gt;&lt;BR&gt;Well fought, my friend, but we've more yet to do.&lt;br&gt;[ES] Los sikandaris ser&amp;#237;an grandes aliados si pudi&amp;#233;ramos confiar en ellos. Sin embargo, ese tren ya pas&amp;#243;.&lt;BR&gt;&lt;BR&gt;Bien luchado, amigo m&amp;#237;o, pero a&amp;#250;n nos queda m&amp;#225;s por hacer.</Page>
+    </Text>
+</QuestDialog>

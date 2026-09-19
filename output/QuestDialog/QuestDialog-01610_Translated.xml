@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1021">
+        <Page social="0">[EN] The Vanguards marched for Arx Umbra, the edge of the archdevas territory, but ran into some trouble from the goblins.&lt;br&gt;[ES] Las vanguardias marcharon hacia Arx Umbra, el l&amp;#237;mite del territorio archdeva, pero tuvieron algunos problemas con los goblins.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1021">
+        <Page social="4">[EN] I've asked your forces to depart for Arx Umbra, so we can take the fight to the archdevas. We'll crush them together!&lt;BR&gt;&lt;BR&gt;I'll join you soon. I must pay my respects to the baraka.&lt;br&gt;[ES] Le ped&amp;#237; a tus fuerzas que partieran hacia Arx Umbra para llevar la batalla ante los archdevas. &amp;#161;Los aplastaremos juntos!&lt;BR&gt;&lt;BR&gt;Te alcanzar&amp;#233; pronto. Debo presentar mis respetos al baraka.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="4001">
+        <Page social="4">[EN] Eh? &lt;PCNAME&gt;? What are you doing here?&lt;NEXTPAGEBUTTON&gt;"Where are the soldiers?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Eh? &amp;#191;&lt;PCNAME&gt;? &amp;#191;Qu&amp;#233; est&amp;#225;s haciendo aqu&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"Where are the soldiers?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] They just left! I thought you went with them.&lt;BR&gt;&lt;BR&gt;My friend Deoric is their rear guard. Look for him to the north.&lt;br&gt;[ES] &amp;#161;Acaban de irse! Pens&amp;#233; que hab&amp;#237;as ido con ellos.&lt;BR&gt;&lt;BR&gt;Mi amigo Deoric es su retaguardia. b&amp;#250;scalo hacia el norte.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="4002">
+        <Page social="4">[EN] Those fiends!&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Esos demonios!&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Some goblins asked for help, so the idiot driving the supply wagon stopped. That's when they attacked us. I took a nasty shot to my skull.&lt;BR&gt;&lt;BR&gt;When I woke up, the wagon was gone. We have to get the supplies back.&lt;br&gt;[ES] Unos goblins pidieron ayuda, as&amp;#237; que el idiota que conduc&amp;#237;a el carro de suministros se detuvo. Fue entonces cuando nos atacaron. Recib&amp;#237; un golpe fuerte en el cr&amp;#225;neo.&lt;BR&gt;&lt;BR&gt;Cuando despert&amp;#233;, el carro hab&amp;#237;a desaparecido. Tenemos que recuperar los suministros.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="4023">
+        <Page social="4">[EN] (The wagon sits empty.)&lt;BR&gt;&lt;BR&gt;(Footprints lead back up the slope.)&lt;br&gt;[ES] (El carro est&amp;#225; vac&amp;#237;o.)&lt;BR&gt;&lt;BR&gt;(Las huellas regresan pendiente arriba.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="4002">
+        <Page social="4">[EN] No crates at all?&lt;BR&gt;&lt;BR&gt;They must have moved them while I was unconscious.&lt;NEXTPAGEBUTTON&gt;"Looks like they came back to the road."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;No hay ninguna caja?&lt;BR&gt;&lt;BR&gt;Debieron de haberlas movido mientras estaba inconsciente.&lt;NEXTPAGEBUTTON&gt;"Looks like they came back to the road."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Right. You should chase the supplies down. I'll catch up with you.&lt;br&gt;[ES] Correcto. Deber&amp;#237;as perseguir los suministros. Te alcanzar&amp;#233; luego.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="4003">
+        <Page social="4">[EN] Excellent work getting these back.&lt;BR&gt;&lt;BR&gt;I'll carry them from here. You catch up to the rest of the force.&lt;br&gt;[ES] Excelente trabajo al recuperar esto.&lt;BR&gt;&lt;BR&gt;Lo llevar&amp;#233; desde aqu&amp;#237;. Alcanza al resto de la fuerza.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" villagerId="4003">
+        <Page social="0">[EN] I will hang these crooks!&lt;br&gt;[ES] &amp;#161;Voy a colgar a estos criminales!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="7" villagerId="4004">
+        <Page social="4">[EN] We feared the worst when you didn't show up. It is fortunate that you caught up.&lt;BR&gt;&lt;BR&gt;Rhodos asked us to hold this position and awaits at Domare Outpost.&lt;BR&gt;&lt;BR&gt;It's not far from here, but be cautious. You're entering a zone of danger.&lt;br&gt;[ES] Tem&amp;#237;amos lo peor cuando no apareciste. Es una fortuna que hayas alcanzado al grupo.&lt;BR&gt;&lt;BR&gt;Rhodos nos pidi&amp;#243; que mantuvi&amp;#233;ramos esta posici&amp;#243;n y espera en Domare Outpost.&lt;BR&gt;&lt;BR&gt;No est&amp;#225; lejos de aqu&amp;#237;, pero ten cuidado. Est&amp;#225;s entrando en una zona de peligro.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="191" prevId="9" villagerId="2102">
+        <Page social="4">[EN] What have the archdevas done to this land? Look at the sky!&lt;BR&gt;&lt;BR&gt;It's time to put an end to their infernal plot. Are you with me?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; le han hecho los archdevas a esta tierra? &amp;#161;Mira el cielo!&lt;BR&gt;&lt;BR&gt;Es hora de poner fin a su plan infernal. &amp;#191;Est&amp;#225;s conmigo?</Page>
+    </Text>
+</QuestDialog>

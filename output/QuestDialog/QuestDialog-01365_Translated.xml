@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1008">
+        <Page social="4">[EN] I don't care what these chicken-heads want. No goal is worth this.&lt;BR&gt;&lt;BR&gt;I don't just want them stopped. I want them punished!&lt;BR&gt;&lt;BR&gt;I want you to wring the neck of every mekonari you find between here and Camp Umbra. It's no worse than what they did to us!&lt;br&gt;[ES] No me importa lo que quieran estos cabezas de pollo. &amp;#161;Ning&amp;#250;n objetivo vale la pena.&lt;BR&gt;&lt;BR&gt;No solo quiero que los detengan. &amp;#161;Quiero que los castiguen!&lt;BR&gt;&lt;BR&gt;Quiero que le retuerzas el cuello a cada mekonari que encuentres entre aqu&amp;#237; y Camp Umbra. &amp;#161;No es peor de lo que nos hicieron!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1010">
+        <Page social="4">[EN] Well, it's good you cut their fighting force down, but it sounds like Denmar's coming unwelded. Damn shame. He was a fine officer.&lt;BR&gt;&lt;BR&gt;This place, and what Killian has the mekonaris doing? It's getting to all of us.&lt;br&gt;[ES] Bueno, es bueno que hayas reducido su fuerza de combate, pero parece que Denmar est&amp;#225; perdiendo los estribores. Qu&amp;#233; l&amp;#225;stima. Era un buen oficial.&lt;BR&gt;&lt;BR&gt;&amp;#191;Este lugar y lo que Killian hace hacer a los mekonaris? Nos est&amp;#225; afectando a todos.</Page>
+    </Text>
+</QuestDialog>

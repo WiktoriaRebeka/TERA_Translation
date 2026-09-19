@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1135">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1135">
+        <Page social="4">[EN] Everyone talks about our victory like it's inevitable, but you know what? Even when we were at peace, Fyrmount was beyond our control.&lt;BR&gt;&lt;BR&gt;I swear, I'm the only one worried about a major counterattack. Our defenses are laughable!&lt;BR&gt;&lt;BR&gt;I think I can strengthen our defenses using our enemy's strength against them! We could build ramparts out of flamewood from the {@LinkCreature:4#2051#raging arbosks} around here.&lt;br&gt;[ES] Todo el mundo habla de nuestra victoria como si fuera inevitable, &amp;#191;pero sabes qu&amp;#233;? Incluso cuando est&amp;#225;bamos en paz, Fyrmount estaba fuera de nuestro control.&lt;BR&gt;&lt;BR&gt;Te lo juro, soy el &amp;#250;nico preocupado por un contraataque importante. &amp;#161;Nuestras defensas dan risa!&lt;BR&gt;&lt;BR&gt;&amp;#161;Creo que puedo fortalecer nuestras defensas usando la fuerza del enemigo en su contra! Podr&amp;#237;amos construir murallas con la madera de llama de los {@LinkCreature:4#2051#raging arbosks} de por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1135">
+        <Page social="4">[EN] Imagine...the enemy scales our walls, then blam! The walls themselves catch fire!&lt;BR&gt;&lt;BR&gt;I've got some architectural work ahead of me, but with the raw materials are the hardest part.&lt;BR&gt;&lt;BR&gt;Thanks again, &lt;PCNAME&gt;.&lt;br&gt;[ES] Imagina... &amp;#161;el enemigo trepa por nuestros murallas y zaz! &amp;#161;Las murallas mismas se prenden fuego!&lt;BR&gt;&lt;BR&gt;Tengo algo de trabajo arquitect&amp;#243;nico por delante, pero conseguir las materias primas es la parte m&amp;#225;s dif&amp;#237;cil.&lt;BR&gt;&lt;BR&gt;Gracias de nuevo, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1135">
+        <Page social="0">[EN] The {@LinkCreature:4#2051#raging arbosks} are in Blazing Vale, but you probably figured that out already.&lt;br&gt;[ES] Los {@LinkCreature:4#2051#raging arbosks} est&amp;#225;n en Blazing Vale, pero probablemente ya te hab&amp;#237;as dado cuenta.</Page>
+    </Text>
+</QuestDialog>

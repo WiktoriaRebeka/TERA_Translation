@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1022">
+        <Page social="0">[EN] &lt;PCNAME&gt; entered Diranas Quarry and drank the invisibility potion Hagand provided.&lt;BR&gt;While so concealed, &lt;PCNAME&gt; collected Relativity Stones right under the noses of demokrons and the Parthians.&lt;br&gt;[ES] &lt;PCNAME&gt; entr&amp;#243; a Diranas Quarry y bebi&amp;#243; la poci&amp;#243;n de invisibilidad que le proporcion&amp;#243; Hagand.&lt;BR&gt;Estando oculto, &lt;PCNAME&gt; recolect&amp;#243; Relativity Stones justo en las narices de los demokrons y los Parthians.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1022">
+        <Page social="4" voiceTypeId="0">[EN] Where are you going now? Diranas Quarry in Famine Valley?&lt;BR&gt;&lt;BR&gt;I believe you might be on a fool's errand&amp;#8212;no one has ever gotten so much as a spark from that teleportal.&lt;BR&gt;&lt;BR&gt;But you seem competent, so I trust you will at least return alive. Good luck.&lt;NEXTPAGEBUTTON&gt;"We need that teleportal working, or we're all doomed."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;A d&amp;#243;nde vas ahora? &amp;#191;Diranas Quarry en Famine Valley?&lt;BR&gt;&lt;BR&gt;Creo que est&amp;#225;s perdiendo el tiempo; nadie ha conseguido ni una sola chispa de ese teleportal.&lt;BR&gt;&lt;BR&gt;Pero pareces competente, as&amp;#237; que conf&amp;#237;o en que al menos regresar&amp;#225;s con vida. Buena suerte.&lt;NEXTPAGEBUTTON&gt;"We need that teleportal working, or we're all doomed."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1018">
+        <Page social="4" voiceTypeId="0">[EN] Hagand request stone!&lt;BR&gt;&lt;BR&gt;Gold much!&lt;BR&gt;&lt;BR&gt;Hagand experiment, want stone!&lt;NEXTPAGEBUTTON&gt;"Can I trust you?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Hagand pide piedra!&lt;BR&gt;&lt;BR&gt;&amp;#161;Mucho oro!&lt;BR&gt;&lt;BR&gt;&amp;#161;Hagand experimenta, quiere piedra!&lt;NEXTPAGEBUTTON&gt;"Can I trust you?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">[EN] Trust Guikol? Maybe.&lt;BR&gt;&lt;BR&gt;Trust Hagand, sure.&lt;BR&gt;&lt;BR&gt;Trust gold? Of course!&lt;NEXTPAGEBUTTON&gt;"I get it."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Confiar en Guikol? Tal vez.&lt;BR&gt;&lt;BR&gt;&amp;#191;Confiar en Hagand? Claro.&lt;BR&gt;&lt;BR&gt;&amp;#191;Confiar en el oro? &amp;#161;Por supuesto!&lt;NEXTPAGEBUTTON&gt;"I get it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" villagerId="1018">
+        <Page social="0">[EN] Krrrr....&lt;BR&gt;&lt;BR&gt;No stone. No talk.&lt;br&gt;[ES] Krrrr....&lt;BR&gt;&lt;BR&gt;Sin piedra. No hay trato.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="3" villagerId="1018">
+        <Page social="4" voiceTypeId="0">[EN] Stones, too many! Too heavy!&lt;BR&gt;&lt;BR&gt;Hide stones, in pile. Not far!&lt;BR&gt;&lt;BR&gt;Get help, come back, carry stones.&lt;NEXTPAGEBUTTON&gt;"Fine."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Piedras, demasiadas! &amp;#161;Muy pesadas!&lt;BR&gt;&lt;BR&gt;Esconder piedras, en una pila. &amp;#161;Cerca!&lt;BR&gt;&lt;BR&gt;Buscar ayuda, volver, llevar piedras.&lt;NEXTPAGEBUTTON&gt;"Fine."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="2064">
+        <Page social="4" voiceTypeId="0">[EN] (This must be the pile of stones Guikol told you about.)&lt;NEXTPAGEBUTTON&gt;"This looks like the place."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] (Esta debe ser la pila de piedras de la que te habl&amp;#243; Guikol.)&lt;NEXTPAGEBUTTON&gt;"This looks like the place."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

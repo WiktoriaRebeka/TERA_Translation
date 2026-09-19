@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1048">
+        <Page social="0">[EN] With Kamia's help, &lt;PCNAME&gt; killed several cultists, weakening the devan force.&lt;br&gt;[ES] Con la ayuda de Kamia, &lt;PCNAME&gt; mat&amp;#243; a varios cultistas, debilitando a la fuerza devan.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1048">
+        <Page social="4" voiceTypeId="0">[EN] No. There are too many. We need reinforcements.&lt;BR&gt;&lt;BR&gt;But I'm worried that if we go back for more troops, the devans and the cultists will scatter, and we'll be back to square one.&lt;BR&gt;&lt;BR&gt;What do you think we should do, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"We can handle this ourselves."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No. Son demasiados. Necesitamos refuerzos.&lt;BR&gt;&lt;BR&gt;Pero me preocupa que si volvemos por m&amp;#225;s tropas, los devas y los cultistas se dispersen, y volveremos al punto de partida.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; piensas que deber&amp;#237;amos hacer, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"We can handle this ourselves."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1048">
+        <Page social="4" voiceTypeId="0">[EN] Okay, then. Let's do this!&lt;BR&gt;&lt;BR&gt;If we are to succeed, we need to kill Reavers of Resurrection and Ebonheart Sorcerers, as well as their leader...a real beast, named Basenius!&lt;br&gt;[ES] Muy bien, entonces. &amp;#161;Hag&amp;#225;moslo!&lt;BR&gt;&lt;BR&gt;Si queremos tener &amp;#233;xito, debemos matar a Reavers of Resurrection y Ebonheart Sorcerers, as&amp;#237; como a su l&amp;#237;der... &amp;#161;una aut&amp;#233;ntica bestia llamada Basenius!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1049">
+        <Page social="4" voiceTypeId="0">[EN] That does it. There are still plenty of these cultists, but without Basenius and his alliance with the devas, they're not much of a threat.&lt;BR&gt;&lt;BR&gt;Once again, &lt;PCNAME&gt;, you've done Crescentia and Lumbertown an immeasurable service. Thank you.&lt;br&gt;[ES] Eso es todo. Todav&amp;#237;a hay muchos de estos cultistas, pero sin Basenius y su alianza con los devas, no representan una gran amenaza.&lt;BR&gt;&lt;BR&gt;Una vez m&amp;#225;s, &lt;PCNAME&gt;, le has hecho un servicio incalculable a Crescentia y Lumbertown. Gracias.</Page>
+    </Text>
+</QuestDialog>

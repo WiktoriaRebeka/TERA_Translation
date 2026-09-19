@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="4">[EN] In the middle of {@Rgn:49001}, you can see an enormous tower called the {@Rgn:49003}. Intelligence believes the argons use its energy to fuel their troops. That makes for one tasty target.&lt;BR&gt;&lt;BR&gt;There's a contingent of arzakaar thassalirs inside.&lt;BR&gt;&lt;BR&gt;Get rid of them. They're probably the most potent defenders at the site.&lt;br&gt;[ES] En medio de {@Rgn:49001}, puedes ver una torre enorme llamada {@Rgn:49003}. La inteligencia cree que los argon usan su energ&amp;#237;a para abastecer a sus tropas. Eso la convierte en un objetivo muy jugoso.&lt;BR&gt;&lt;BR&gt;Hay un contingente de arzakaar thassalirs dentro.&lt;BR&gt;&lt;BR&gt;Deshazte de ellos. Probablemente sean los defensores m&amp;#225;s potentes del lugar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1033">
+        <Page social="6">[EN] Interesting. It's almost as if the arzakaars weren't guarding the facility, but were stationed there for another purpose.&lt;BR&gt;&lt;BR&gt;Well, it matters little now. They're dead and we've a war to win.&lt;br&gt;[ES] Interesante. Es casi como si los arzakaars no estuvieran custodiando la instalaci&amp;#243;n, sino estacionados all&amp;#237; con otro prop&amp;#243;sito.&lt;BR&gt;&lt;BR&gt;Bueno, ya importa poco. Est&amp;#225;n muertos y tenemos una guerra que ganar.</Page>
+    </Text>
+</QuestDialog>

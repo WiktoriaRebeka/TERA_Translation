@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="18">[EN] Melrasa needs to know everything that's happened here. She's at Manafire Outpost.&lt;BR&gt;&lt;BR&gt;Recent reports state the place is surrounded by Killian's servants, though, so you'll need to be careful. You'll probably need to clear some of them out in order to get through.&lt;br&gt;[ES] Melrasa necesita saber todo lo que ha pasado aqu&amp;#237;. Ella est&amp;#225; en Manafire Outpost.&lt;BR&gt;&lt;BR&gt;Sin embargo, los informes recientes dicen que el lugar est&amp;#225; rodeado de los sirvientes de Killian, as&amp;#237; que tendr&amp;#225;s que tener cuidado. Probablemente necesitar&amp;#225;s eliminar a algunos de ellos para poder pasar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1014">
+        <Page social="14">[EN] Hey, you made it through! That's fantastic&amp;#8212;you've cleared a path for us. That makes things a lot easier.&lt;BR&gt;&lt;BR&gt;So, what brings you here? Ah, Melrasa?&lt;BR&gt;&lt;BR&gt;She's right up those stairs around the corner.&lt;br&gt;[ES] &amp;#161;Oye, lo lograste! Es fant&amp;#225;stico: nos has abierto un camino. Eso hace las cosas mucho m&amp;#225;s f&amp;#225;ciles.&lt;BR&gt;&lt;BR&gt;Entonces, &amp;#191;qu&amp;#233; te trae por aqu&amp;#237;? Ah, &amp;#191;Melrasa?&lt;BR&gt;&lt;BR&gt;Ella est&amp;#225; justo subiendo esas escaleras a la vuelta de la esquina.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1023">
+        <Page social="12">[EN] Killian brainwashed the Tenebrara leaders?&lt;BR&gt;&lt;BR&gt;That doesn't sound promising.&lt;br&gt;[ES] &amp;#191;Killian le lav&amp;#243; el cerebro a los l&amp;#237;deres Tenebrara?&lt;BR&gt;&lt;BR&gt;Eso no suena nada bien.</Page>
+    </Text>
+</QuestDialog>

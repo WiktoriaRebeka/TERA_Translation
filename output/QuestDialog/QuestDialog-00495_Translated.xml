@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1007">
+        <Page social="4">[EN] I did something terrible, &lt;PCNAME&gt;. Something I may never be able to fully atone for.&lt;BR&gt;&lt;BR&gt;During my time with the Free Brotherhood, I created horrible weapons. I never suspected they'd be used against us, but I suppose that's no excuse.&lt;NEXTPAGEBUTTON&gt;"So what would you like me to do?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Comet&amp;#237; algo terrible, &lt;PCNAME&gt;. Algo de lo que quiz&amp;#225;s nunca pueda redimirmi por completo.&lt;BR&gt;&lt;BR&gt;Durante mi tiempo en la Free Brotherhood, cre&amp;#233; armas horribles. Nunca sospech&amp;#233; que las usar&amp;#237;an en nuestra contra, pero supongo que eso no es excusa.&lt;NEXTPAGEBUTTON&gt;"So what would you like me to do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] I can't go on knowing that those weapons are still out there. Please, go collect them for me.&lt;BR&gt;&lt;BR&gt;Round them up, bring them back, and I'll see to it that they're destroyed. They won't take any more innocent lives.&lt;br&gt;[ES] No puedo seguir adelante sabiendo que esas armas siguen ah&amp;#237; fuera. Por favor, ve a recogerlas por m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Re&amp;#250;nelas, tr&amp;#225;elas de vuelta y me encargar&amp;#233; de que sean destruidas. No se cobrar&amp;#225;n m&amp;#225;s vidas inocentes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1007">
+        <Page social="4">[EN] Thank you. I'll destroy them right away, and on my life, I'll never make anything like this again.&lt;br&gt;[ES] Gracias. Las destruir&amp;#233; de inmediato y, por mi vida, juro que nunca volver&amp;#233; a fabricar algo as&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1007">
+        <Page social="0">[EN] Please&amp;#8212;you have to find those weapons before more people get hurt!&lt;br&gt;[ES] Por favor, &amp;#161;tienes que encontrar esas armas antes de que m&amp;#225;s gente salga herida!</Page>
+    </Text>
+</QuestDialog>

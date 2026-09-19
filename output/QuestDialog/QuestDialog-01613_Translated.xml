@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2135">
+        <Page social="0">[EN] &lt;PCNAME&gt; flew over Arx Umbra and assaulted Parthian Outpost Alpha. After the battle, the truth about how the archdevas enslaved the Parthians came out.&lt;br&gt;[ES] &lt;PCNAME&gt; sobrevol&amp;#243; Arx Umbra y atac&amp;#243; Parthian Outpost Alpha. Tras la batalla, sali&amp;#243; a la luz la verdad sobre c&amp;#243;mo los archdevas esclavizaron a los parthians.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2135">
+        <Page social="4">[EN] Finally! Something I'm good at. I can fly the airship and you can jump from it.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Jump from what?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Por fin! Algo en lo que soy bueno. Puedo pilotar la aeronave y t&amp;#250; puedes saltar desde ella.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Jump from what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Don't worry. I'll stay low enough the fall doesn't hurt too much.&lt;BR&gt;&lt;BR&gt;Come! We'll get to Zolyn no matter how much it hurts you!&lt;br&gt;[ES] No te preocupes. Volar&amp;#233; lo suficientemente bajo para que la ca&amp;#237;da no duela tanto.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ven! &amp;#161;Llegaremos hasta Zolyn sin importar cu&amp;#225;nto te duela!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2136">
+        <Page social="4">[EN] When you're in the middle of the enemy formations, drop down.&lt;BR&gt;&lt;BR&gt;May Kaia grant you victory!&lt;br&gt;[ES] Cuando est&amp;#233;s en medio de las formaciones enemigas, d&amp;#233;jate caer.&lt;BR&gt;&lt;BR&gt;&amp;#161;Que Kaia te conceda la victoria!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2137">
+        <Page social="4">[EN] &lt;PCNAME&gt;, come here, quick!&lt;BR&gt;&lt;BR&gt;He's still alive! And he's trying to say something!&lt;BR&gt;Road? What road? Oh! Rhodos! He's looking for Rhodos!&lt;NEXTPAGEBUTTON&gt;"I'll talk to him."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;, ven aqu&amp;#237;, r&amp;#225;pido!&lt;BR&gt;&lt;BR&gt;&amp;#161;A&amp;#250;n est&amp;#225; vivo! &amp;#161;Y est&amp;#225; tratando de decir algo!&lt;BR&gt;&amp;#191;Camino? &amp;#191;Qu&amp;#233; camino? &amp;#161;Oh! &amp;#161;Rhodos! &amp;#161;Est&amp;#225; buscando a Rhodos!&lt;NEXTPAGEBUTTON&gt;"I'll talk to him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2202">
+        <Page social="4">[EN] Mind&amp;#8230;clear. Tell Rhodos&amp;#8230;&lt;BR&gt;&lt;BR&gt;We're not servants of the archdevas; we're slaves.&lt;NEXTPAGEBUTTON&gt;"What do you mean?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Mente&amp;#8230; clara. Dile a Rhodos&amp;#8230;&lt;BR&gt;&lt;BR&gt;No somos sirvientes de los archdevas; somos esclavos.&lt;NEXTPAGEBUTTON&gt;"What do you mean?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Their magic&amp;#8230;it twisted our minds. Bound us to them.&lt;BR&gt;&lt;BR&gt;Tell Rhodos to free us&amp;#8230;and avenge me.&lt;NEXTPAGEBUTTON&gt;"Be at peace."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Su magia&amp;#8230; torci&amp;#243; nuestras mentes. Nos at&amp;#243; a ellos.&lt;BR&gt;&lt;BR&gt;Dile a Rhodos que nos libere&amp;#8230; y v&amp;#233;ngame.&lt;NEXTPAGEBUTTON&gt;"Be at peace."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" prevId="5" villagerId="2108">
+        <Page social="4">[EN] Well fought, &lt;PCNAME&gt;! You got through!&lt;NEXTPAGEBUTTON&gt;"I was asked to give this to you."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Bien peleado, &lt;PCNAME&gt;! &amp;#161;Lograste pasar!&lt;NEXTPAGEBUTTON&gt;"I was asked to give this to you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] It's Jitt's dagger!&lt;BR&gt;Where did you get this? Where is he?&lt;br&gt;[ES] &amp;#161;Es la daga de Jitt!&lt;BR&gt;&amp;#191;De d&amp;#243;nde sacaste esto? &amp;#191;D&amp;#243;nde est&amp;#225;?</Page>
+    </Text>
+</QuestDialog>

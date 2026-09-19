@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1111">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1111">
+        <Page social="4">[EN] No one's sure why the arachnens are working alongside the nagas, but it's a deadly combination. My advice is to kill them all, but I'd start with the {@LinkCreature:10#1#arachnen warriors}.&lt;BR&gt;&lt;BR&gt;Let's keep it simple. You kill them and I'll pay you.&lt;br&gt;[ES] Nadie sabe con certeza por qu&amp;#233; los arachnens est&amp;#225;n trabajando junto a los naga, pero es una combinaci&amp;#243;n letal. Mi consejo es que los mates a todos, pero empezar&amp;#237;a por los {@LinkCreature:10#1#arachnen warriors}.&lt;BR&gt;&lt;BR&gt;Manteng&amp;#225;moslo simple. T&amp;#250; m&amp;#225;talos y yo te pago.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1111">
+        <Page social="4">[EN] Clearly the arachnens aren't the only predators around. You're one to watch!&lt;br&gt;[ES] Est&amp;#225; claro que los arachnens no son los &amp;#250;nicos depredadores por aqu&amp;#237;. &amp;#161;Eres alguien a quien hay que vigilar!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1111">
+        <Page social="0">[EN] Certainly the {@LinkCreature:10#1#arachnen warrior} is dangerous, but think of the gold!&lt;br&gt;[ES] Sin duda, el {@LinkCreature:10#1#arachnen warrior} es peligroso, &amp;#161;pero piensa en el oro!</Page>
+    </Text>
+</QuestDialog>

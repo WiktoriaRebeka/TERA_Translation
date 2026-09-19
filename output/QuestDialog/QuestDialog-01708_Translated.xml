@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="489" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3003" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3003" prevId="0" villagerId="1002">
+        <Page social="4" voiceTypeId="0">[EN] There's a chamber in the refuge we've been unable to penetrate, locked tight with an Eldritch Seal.&lt;BR&gt;&lt;BR&gt;Fortunately for us, federation intelligence has come up with a solution: a seal deactivation scroll!&lt;BR&gt;&lt;BR&gt;Once we've used the scroll, we can figure out what these cultists are trying so hard to protect.&lt;br&gt;[ES] Hay una c&amp;#225;mara en el refugio que no hemos podido penetrar, sellada herm&amp;#233;ticamente con un sello arcano.&lt;BR&gt;&lt;BR&gt;Por suerte para nosotros, la inteligencia de la federaci&amp;#243;n ha ideado una soluci&amp;#243;n: &amp;#161;un pergamino de desactivaci&amp;#243;n de sellos!&lt;BR&gt;&lt;BR&gt;Una vez que usemos el pergamino, podremos averiguar qu&amp;#233; intentan proteger con tanto ah&amp;#237;nco estos cultistas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3003" prevId="2" villagerId="1002">
+        <Page social="4" voiceTypeId="0">[EN] Argons? HERE!?!&lt;BR&gt;&lt;BR&gt;Oh, no.&lt;BR&gt;&lt;BR&gt;This means the Cult of Lok...and Atel Akaad...are working with the argons.&lt;BR&gt;&lt;BR&gt;This means doom.&lt;br&gt;[ES] &amp;#191;Argons? &amp;#161;&amp;#191;AQU&amp;#205;?!&lt;BR&gt;&lt;BR&gt;Oh, no.&lt;BR&gt;&lt;BR&gt;Esto significa que el Cult of Lok... y Atel Akaad... est&amp;#225;n trabajando con los argons.&lt;BR&gt;&lt;BR&gt;Esto significa la perdici&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

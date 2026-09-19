@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">[EN] You forced your way into the Banquet of Blood, destroyed the vampirs' altar and stopped the ritual.&lt;br&gt;[ES] Te abriste paso a la fuerza en el Banquet of Blood, destruiste el altar de los vampirs y detuviste el ritual.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">[EN] I have finally learned why the vampirs needed so many captives. They put their captives' blood on their altar, and it somehow gives them strength. That's most likely why we can't seem to wipe them completely out.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I need your help again: Destroy that altar!&lt;br&gt;[ES] Por fin he descubierto por qu&amp;#233; los vampirs necesitaban tantos cautivos. Ponen la sangre de sus cautivos en su altar y eso de alguna manera les da fuerza. Esa es probablemente la raz&amp;#243;n por la que no podemos acabar con ellos por completo.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, necesito tu ayuda de nuevo: &amp;#161;Destruye ese altar!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">[EN] You never fail to impress, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Maybe you should consider coming back sometime, when you're not too busy, and posing for a statue...?&lt;br&gt;[ES] Nunca dejas de impresionar, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tal vez deber&amp;#237;as considerar volver alg&amp;#250;n d&amp;#237;a, cuando no est&amp;#233;s muy ocupado, y posar para una estatua...?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1014">
+        <Page social="10">[EN] The gulas trapped us...it was horrible. There were eight of us...an empty room.&lt;BR&gt;&lt;BR&gt;Then seven, then six...&lt;BR&gt;&lt;BR&gt;They're all watching me. But I don't want to die! No!&lt;br&gt;[ES] Los gulas nos atraparon... fue horrible. &amp;#201;ramos ocho... una habitaci&amp;#243;n vac&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Luego siete, luego seis...&lt;BR&gt;&lt;BR&gt;Todos me est&amp;#225;n mirando. &amp;#161;Pero no quiero morir! &amp;#161;No!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1012">
+        <Page social="4">[EN] He's a mess, and he's not the only one. My...paramour, I guess you'd say...was one of the eight. And that's why I'd like to see him recover. Or at least become coherent.&lt;BR&gt;&lt;BR&gt;He might know where Nilos is. I'm no soldier, but I can heal wounds&amp;#8212;even the sort of wounds he has.&lt;BR&gt;&lt;BR&gt;While I'm doing that, you should be fighting the monsters in that maze. For me, for him, for Nilos. For all of us!&lt;br&gt;[ES] Est&amp;#225; destrozado, y no es el &amp;#250;nico. Mi... amor, supongo que podr&amp;#237;as llamarlo as&amp;#237;... era uno de los ocho. Y por eso me gustar&amp;#237;a verlo recuperarse. O al menos volverse coherente.&lt;BR&gt;&lt;BR&gt;&amp;#201;l podr&amp;#237;a saber d&amp;#243;nde est&amp;#225; Nilos. No soy soldado, pero puedo curar heridas, incluso el tipo de heridas que &amp;#233;l tiene.&lt;BR&gt;&lt;BR&gt;&amp;#161;Mientras yo hago eso, t&amp;#250; deber&amp;#237;as estar combatiendo a los monstruos en ese laberinto! &amp;#161;Por m&amp;#237;, por &amp;#233;l, por Nilos! &amp;#161;Por todos nosotros!</Page>
+    </Text>
+</QuestDialog>

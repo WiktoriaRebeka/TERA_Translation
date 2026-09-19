@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1093">
+        <Page social="4" voiceTypeId="0">[EN] This final challenge won't be easy&amp;#8230;only the most skilled combatant can complete it.&lt;BR&gt;&lt;BR&gt;Are you ready?&lt;NEXTPAGEBUTTON&gt;Bring it on!&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Este desaf&amp;#237;o final no ser&amp;#225; f&amp;#225;cil... solo el combatiente m&amp;#225;s h&amp;#225;bil puede completarlo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s listo?&lt;NEXTPAGEBUTTON&gt;Bring it on!&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1093">
+        <Page social="4" voiceTypeId="0">[EN] You have not only proven yourself worthy, but earned our respect. You should be proud of what you've accomplished.&lt;NEXTPAGEBUTTON&gt;For the federation!&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] No solo has demostrado ser digno, sino que te has ganado nuestro respeto. Debes estar orgulloso de lo que has logrado.&lt;NEXTPAGEBUTTON&gt;For the federation!&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

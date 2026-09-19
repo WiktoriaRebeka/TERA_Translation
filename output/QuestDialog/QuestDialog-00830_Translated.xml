@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="5">[EN] The Thulsans occupy the Croskurn Mines. The Desert Scourge kulkaris guarding the surrounding area are taking us out one by one. The first step toward taking back the mines is, well...not being dead. Let's see what you've got. Take down as many of them as you can.&lt;br&gt;[ES] Los de Thulsa ocupan las Croskurn Mines. Los Desert Scourge kulkaris que vigilan los alrededores nos est&amp;#225;n eliminando uno por uno. El primer paso para recuperar las minas es, bueno... no estar muerto. Veamos de qu&amp;#233; est&amp;#225;s hecho. Acaba con tantos como puedas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1007">
+        <Page social="7">[EN] Well I'll be a kulkari's uncle&amp;#8212;you did it, &lt;PCNAME&gt;! Just annihilated them.&lt;BR&gt;&lt;BR&gt;Now our miners can get back to some semblence of normalcy.&lt;br&gt;[ES] &amp;#161;V&amp;#225;lgame Dios, &lt;PCNAME&gt;! &amp;#161;Lo lograste! Los acabas de aniquilar.&lt;PCNAME&gt;&lt;BR&gt;Ahora nuestros mineros pueden volver a cierta semblanza de normalidad.</Page>
+    </Text>
+</QuestDialog>

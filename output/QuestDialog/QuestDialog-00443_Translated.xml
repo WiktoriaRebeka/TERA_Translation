@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="4">[EN] I need to investigate this Ceremony of Blessing, but I can't get past the throngs of vampirs.&lt;BR&gt;&lt;BR&gt;If you could even get rid of the {@LinkCreature:16#2403#vampir runners} and {@LinkCreature:16#2404#vampir soldiers} in the &lt;font color='#660000'&gt;mansion garden&lt;/font&gt;, that would help.&lt;BR&gt;&lt;BR&gt;When you're done, report to Segodun&amp;#8212;he's already in the garden.&lt;br&gt;[ES] Necesito investigar esta Ceremony of Blessing, pero no puedo pasar entre las multitudes de vampirs.&lt;BR&gt;&lt;BR&gt;Si al menos pudieras deshacerte de los {@LinkCreature:16#2403#vampir runners} y {@LinkCreature:16#2404#vampir soldiers} en el &lt;font color='#660000'&gt;mansion garden&lt;/font&gt;, eso ser&amp;#237;a de gran ayuda.&lt;BR&gt;&lt;BR&gt;Cuando termines, rep&amp;#243;rtate con Segodun; &amp;#233;l ya est&amp;#225; en el jard&amp;#237;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="4">[EN] Made it through, I see. Good job!&lt;BR&gt;&lt;BR&gt;Take this for the work you've put in.&lt;br&gt;[ES] Lograste pasar, ya veo. &amp;#161;Buen trabajo!&lt;BR&gt;&lt;BR&gt;Toma esto por el esfuerzo que has invertido.</Page>
+    </Text>
+</QuestDialog>

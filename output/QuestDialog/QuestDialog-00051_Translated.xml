@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4">[EN] You've been a big help thus far, &lt;PCNAME&gt;. I'd like you to go deeper into Deva Silva and work with one of my scouts, {@LinkCreature:203#1011#Droyan}.&lt;BR&gt;&lt;BR&gt;He's a good scout, but he could probably use some combat power like yours. Take the field, soldier!&lt;br&gt;[ES] Has sido de gran ayuda hasta ahora, &lt;PCNAME&gt;. Me gustar&amp;#237;a que te adentres m&amp;#225;s en Deva Silva y trabajes con uno de mis exploradores, {@LinkCreature:203#1011#Droyan}.&lt;BR&gt;&lt;BR&gt;Es un buen explorador, pero probablemente le vendr&amp;#237;a bien algo de potencia de combate como la tuya. &amp;#161;Al campo, soldado!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1011">
+        <Page social="4">[EN] Welcome to Devas R Us!&lt;BR&gt;&lt;BR&gt;Good to see a friendly face! I've been watching these fiends for some time. There's work to be done, but I can't risk my position.&lt;BR&gt;&lt;BR&gt;Up for a little fighting? How about a lot of it? Hah!&lt;br&gt;[ES] &amp;#161;Bienvenido a Devas R Us!&lt;BR&gt;&lt;BR&gt;&amp;#161;Qu&amp;#233; bueno ver una cara amiga! Llevo un tiempo vigilando a estos demonios. Hay trabajo por hacer, pero no puedo arriesgar mi posici&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te apetece un poco de pelea? &amp;#191;Qu&amp;#233; tal mucha? &amp;#161;Ja!</Page>
+    </Text>
+</QuestDialog>

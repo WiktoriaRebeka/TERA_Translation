@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">[EN] {@LinkCreature:245#3509#Jehnsprin} at {@Rgn:45008$$Field Base Valiance} needs a little combat support. Our investigations put us in harms way, we accept that. But I'd like to mitigate the dangers all the same.&lt;BR&gt;&lt;BR&gt;Head out there and back him up.&lt;br&gt;[ES] {@LinkCreature:245#3509#Jehnsprin} en {@Rgn:45008$$Field Base Valiance} necesita un poco de apoyo en combate. Nuestras investigaciones nos ponen en peligro, lo aceptamos. Pero aun as&amp;#237; me gustar&amp;#237;a mitigar los riesgos.&lt;BR&gt;&lt;BR&gt;Ve all&amp;#225; y resp&amp;#225;ldalo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="4">[EN] I'm a scientist, not a soldier. I'm not here to fight the argons, so I'd like your assistance. Most of it is simply killing things, but sometimes you'll also get to blow stuff up.&lt;BR&gt;&lt;BR&gt;Good times.&lt;BR&gt;&lt;BR&gt;What do you say?&lt;br&gt;[ES] Soy cient&amp;#237;fico, no soldado. No estoy aqu&amp;#237; para pelear contra los argons, as&amp;#237; que me gustar&amp;#237;a contar con tu ayuda. La mayor parte consiste simplemente en matar cosas, pero a veces tambi&amp;#233;n podr&amp;#225;s hacer explotar cosas.&lt;BR&gt;&lt;BR&gt;Buenos tiempos.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="4">[EN] Still standing, eh?&lt;BR&gt;&lt;BR&gt;It's great to work with a soldier of your ability. Makes life so much easier!&lt;br&gt;[ES] Sigues de pie, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;&amp;#161;Es genial trabajar con un soldado de tu capacidad. Hace la vida mucho m&amp;#225;s f&amp;#225;cil!</Page>
+    </Text>
+</QuestDialog>

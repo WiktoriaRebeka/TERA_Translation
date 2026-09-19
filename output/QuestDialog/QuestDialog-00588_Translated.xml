@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1036">
+        <Page social="5">[EN] Several patrols were attacked by some unusual flaming creatures.&lt;BR&gt;&lt;BR&gt;I want to study them. Stalk and kill some {@LinkCreature:23#9#molten fangspawns} and collect their cores.&lt;BR&gt;&lt;BR&gt;That should give me a clue to a more permanent solution.&lt;br&gt;[ES] Varias patrullas fueron atacadas por unas inusuales criaturas llameantes.&lt;BR&gt;&lt;BR&gt;Quiero estudiarlas. Rorfea y mata a algunos {@LinkCreature:23#9#molten fangspawns} y recolecta sus n&amp;#250;cleos.&lt;BR&gt;&lt;BR&gt;Eso deber&amp;#237;a darme una pista para una soluci&amp;#243;n m&amp;#225;s permanente.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1036">
+        <Page social="5">[EN] These will do nicely. I'll begin my studies at once.&lt;BR&gt;&lt;BR&gt;Whoo&amp;#8212;still hot!&lt;br&gt;[ES] Esto servir&amp;#225; muy bien. Empezar&amp;#233; mis estudios de inmediato.&lt;BR&gt;&lt;BR&gt;Vaya, &amp;#161;todav&amp;#237;a quema!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1036">
+        <Page social="0">[EN] If we don't get the cores, these creatures could get out of hand.&lt;BR&gt;&lt;BR&gt;Imagine an army of molten fangspawns marching on Pora Elinu. Now get back out there and get me those cores.&lt;br&gt;[ES] Si no conseguimos los n&amp;#250;cleos, estas criaturas podr&amp;#237;an salirse de control.&lt;BR&gt;&lt;BR&gt;Imagina un ej&amp;#233;rcito de molten fangspawns marchando hacia Pora Elinu. Ahora regresa y tr&amp;#225;eme esos n&amp;#250;cleos.</Page>
+    </Text>
+</QuestDialog>

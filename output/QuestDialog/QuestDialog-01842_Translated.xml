@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">[EN] In an effort to keep argon surprises to a minimum, we installed sensors to alert us. Unfortunately, they didn't test the devices before shipping them to a war zone.&lt;BR&gt;&lt;BR&gt;We need someone heavily-armed to locate the devices and conduct, uh, field repairs.&lt;BR&gt;&lt;BR&gt;You look qualified.&lt;br&gt;[ES] En un esfuerzo por mantener las sorpresas de los argons al m&amp;#237;nimo, instalamos sensores para alertarnos. Desafortunadamente, no probaron los dispositivos antes de enviarlos a una zona de guerra.&lt;BR&gt;&lt;BR&gt;Necesitamos a alguien bien armado para localizar los dispositivos y realizar, eh, reparaciones de campo.&lt;BR&gt;&lt;BR&gt;Pareces calificado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3001">
+        <Page social="4">[EN] They're working like a charm. Many thanks, &lt;PCNAME&gt;. No one enjoys argon surprises.&lt;BR&gt;&lt;BR&gt;We'd better get back to our research. Mysteries to solve and all that.&lt;br&gt;[ES] Est&amp;#225;n funcionando de maravilla. Muchas gracias, &lt;PCNAME&gt;. A nadie le gustan las sorpresas de los argons.&lt;BR&gt;&lt;BR&gt;Ser&amp;#225; mejor que volvamos a nuestra investigaci&amp;#243;n. Hay misterios que resolver y todo eso.</Page>
+    </Text>
+</QuestDialog>

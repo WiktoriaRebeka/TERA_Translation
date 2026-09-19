@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1011">
+        <Page social="4">[EN] See that immense structure north of here? That's the Three Towers. The argons nominally control it, but we've made significant inroads, and we're studying argon technology and biology at the source.&lt;BR&gt;&lt;BR&gt;To be blunt, we need you there, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Don't just charge in there, though. Check in at Khanovar Post. They'll update you on the argon situation.&lt;br&gt;[ES] &amp;#191;Ves esa inmensa estructura al norte de aqu&amp;#237;? Esas son las Three Towers. Los argons las controlan nominalmente, pero hemos logrado avances significativos y estamos estudiando la tecnolog&amp;#237;a y biolog&amp;#237;a argon en la fuente.&lt;BR&gt;&lt;BR&gt;Para ser directo, te necesitamos all&amp;#237;, &lt;BR&gt;&lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Pero no te limites a cargar contra el lugar. Pres&amp;#233;ntate en Khanovar Post. Te pondr&amp;#225;n al d&amp;#237;a sobre la situaci&amp;#243;n de los argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1030">
+        <Page social="4">[EN] We're safe here...for now. We can keep an eye on the argons, but they don't assault us directly.&lt;br&gt;[ES] Estamos seguros aqu&amp;#237;... por ahora. Podemos vigilar a los argons, pero no nos atacan directamente.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="3" villagerId="1103">
+        <Page social="4">[EN] Our initial research is going well if you're a scientist, but poor if you're a general.&lt;BR&gt;&lt;BR&gt;Mostly, we have learned just how ignorant we are when it comes to the argons, how they function, and why they're trying to terraform the world.&lt;BR&gt;&lt;BR&gt;Stick around this base long enough, and you'll see reports from the sages and researchers we have scattered throughout the towers. Dangerous work, especially for scientists who barely know which end of a sword to hold.&lt;br&gt;[ES] Nuestra investigaci&amp;#243;n inicial va bien si eres cient&amp;#237;fico, pero mal si eres general.&lt;BR&gt;&lt;BR&gt;Principalmente, hemos aprendido lo ignorantes que somos en cuanto a los argons, c&amp;#243;mo funcionan y por qu&amp;#233; intentan terraformar el mundo.&lt;BR&gt;&lt;BR&gt;Qu&amp;#233;date en esta base el tiempo suficiente y ver&amp;#225;s los informes de los sabios e investigadores que tenemos dispersos por las torres. Un trabajo peligroso, especialmente para cient&amp;#237;ficos que apenas saben por qu&amp;#233; extremo sostener una espada.</Page>
+    </Text>
+</QuestDialog>

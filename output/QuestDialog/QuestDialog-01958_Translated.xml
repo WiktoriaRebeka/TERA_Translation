@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="609" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2024">
+        <Page social="0">[EN] Try training the way the Highwatch Guards train.&lt;br&gt;[ES] Intenta entrenar de la forma en que entrenan los Highwatch Guards.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2024">
+        <Page social="1" voiceTypeId="0">[EN] Would you like to try a tougher workout regimen?&lt;BR&gt;Come train with the Highwatch Guards!&lt;BR&gt;If you give it a try, I'll give you a little reward as an incentive.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Te gustar&amp;#237;a probar un r&amp;#233;gimen de entrenamiento m&amp;#225;s duro?&lt;BR&gt;&amp;#161;Ven a entrenar con los Highwatch Guards!&lt;BR&gt;Si lo intentas, te dar&amp;#233; una peque&amp;#241;a recompensa como incentivo.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="2024">
+        <Page social="1" voiceTypeId="0">[EN] How was it?&lt;BR&gt;&lt;BR&gt;Here is your reward.&lt;NEXTPAGEBUTTON&gt;"It was a good workout."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo te fue?&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes tu recompensa.&lt;NEXTPAGEBUTTON&gt;"It was a good workout."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

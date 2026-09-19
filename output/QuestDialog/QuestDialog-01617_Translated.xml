@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2124">
+        <Page social="0">[EN] &lt;PCNAME&gt; crossed the Infernal Span and destroyed the siege cannons protecting Trellum Consurgo. After sweeping through the Furyguard defenders, &lt;PCNAME&gt; joined Rhodos to press the attack.&lt;br&gt;[ES] &lt;PCNAME&gt; cruz&amp;#243; Infernal Span y destruy&amp;#243; los ca&amp;#241;ones de asedio que proteg&amp;#237;an Trellum Consurgo. Tras arrasar con los defensores de Furyguard, &lt;PCNAME&gt; se uni&amp;#243; a Rhodos para continuar el ataque.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2124">
+        <Page social="4">[EN] We can't take the fortress unless we silence the guns on top of the wall. To do that, we need to get to them, but their crossfire will smash any assault.&lt;BR&gt;&lt;BR&gt;If your magical people cannot save the demokons, can they protect us?&lt;br&gt;[ES] No podemos tomar la fortaleza a menos que silenciemos los ca&amp;#241;ones en la cima del muro. Para lograrlo, necesitamos llegar hasta ellos, pero su fuego cruzado destrozar&amp;#225; cualquier asalto.&lt;BR&gt;&lt;BR&gt;Si tu pueblo m&amp;#225;gico no puede salvar a los demokons, &amp;#191;puede protegernos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2126">
+        <Page social="4">[EN] This draught should protect you against the worst of the blast. Won't be perfect, of course, but you should survive.&lt;BR&gt;&lt;BR&gt;But try not to dawdle once you drink it.&lt;br&gt;[ES] Este t&amp;#243;nico deber&amp;#237;a protegerte de lo peor de la explosi&amp;#243;n. No ser&amp;#225; perfecto, por supuesto, pero deber&amp;#237;as sobrevivir.&lt;BR&gt;&lt;BR&gt;Pero intenta no entretenerte una vez que lo bebas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2127">
+        <Page social="4">[EN] &lt;PCNAME&gt;, down there!&lt;BR&gt;&lt;BR&gt;The archdevas don't realize we've gotten inside! Now's our chance to catch them unawares!&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;, ah&amp;#237; abajo!&lt;BR&gt;&lt;BR&gt;&amp;#161;Los archdevas no se dan cuenta de que hemos entrado! &amp;#161;Ahora es nuestra oportunidad de pillarlos desprevenidos!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2118">
+        <Page social="4">[EN] Our losses weren't as heavy as I'd feared. Well done.&lt;BR&gt;&lt;BR&gt;Are you ready to end this?&lt;br&gt;[ES] Nuestras p&amp;#233;rdidas no fueron tan grandes como tem&amp;#237;a. &amp;#161;Bien hecho!&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s listo para terminar con esto?</Page>
+    </Text>
+</QuestDialog>

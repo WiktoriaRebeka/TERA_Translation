@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1107">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1107">
+        <Page social="4">[EN] We can stab, burn, shock, slice, fold, spindle, and mutilate all the nagas we want, and they'll just hatch more.&lt;BR&gt;&lt;BR&gt;We need to get out of the up-close-and-personal killing business and take out the nagas remotely. With traps!&lt;BR&gt;&lt;BR&gt;But traps need bait. And the best bait is a fruit called aefra, which the nagas can't get enough of. Look for the ivy with the red flowers.&lt;br&gt;[ES] Podemos apu&amp;#241;alar, quemar, electrocutar, cortar, doblar, perforar y mutilar a todos los nagas que queramos, y seguir&amp;#225;n incubando m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;Tenemos que dejar de lado la matanza cuerpo a cuerpo y acabar con los nagas a distancia. &amp;#161;Con trampas!&lt;BR&gt;&lt;BR&gt;Pero las trampas necesitan cebo. Y el mejor cebo es una fruta llamada aefra, de la que los nagas no se cansan. Busca la hiedra con flores rojas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1107">
+        <Page social="4">[EN] I can bait dozens of naga traps with this much fruit. Outstanding work!&lt;br&gt;[ES] Puedo cebar decenas de trampas de naga con tanta fruta. &amp;#161;Trabajo sobresaliente!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1107">
+        <Page social="0">[EN] Unless you want to traipse all over this island and crawl into every naga hole, you'll bring me more aefras.&lt;BR&gt;&lt;BR&gt;Think it through, &lt;PCCLASS:lcase&gt;.&lt;br&gt;[ES] A menos que quieras deambular por toda esta isla y meterte en cada agujero de naga, me traer&amp;#225;s m&amp;#225;s aefras.&lt;BR&gt;&lt;BR&gt;Pi&amp;#233;nsalo bien, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

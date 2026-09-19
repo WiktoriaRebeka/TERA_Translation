@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1033">
+        <Page social="4">[EN] All gulas eat people, but the {@LinkCreature:8#3011#gula mutilators} and {@LinkCreature:8#3031#ravagers} take great pleasure from it. That creeps me out.&lt;BR&gt;&lt;BR&gt;It's time for retribution. Don't just kill them&amp;#8212;behead them! Maybe we'll make gula-head soup!&lt;br&gt;[ES] Todos los gulas se comen a la gente, pero los {@LinkCreature:8#3011#gula mutilators} y {@LinkCreature:8#3031#ravagers} disfrutan much&amp;#237;simo haci&amp;#233;ndolo. Eso me da escalofr&amp;#237;os.&lt;BR&gt;&lt;BR&gt;Es hora de la retribuci&amp;#243;n. &amp;#161;No te limites a matarlos, decapitarlos! &amp;#161;Quiz&amp;#225;s hagamos sopa de cabeza de gula!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1033">
+        <Page social="4">[EN] Blast and damnation! These things are revolting.&lt;BR&gt;&lt;BR&gt;Why did I ask for severed heads again? Nevermind. You delivered. Well done!&lt;br&gt;[ES] &amp;#161;Rayos y centellas! Estas cosas son repugnantes.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; ped&amp;#237; cabezas cortadas de nuevo? No importa. Cumpliste. &amp;#161;Bien hecho!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1033">
+        <Page social="0">[EN] If we don't stop these gulas, they're gonna get an appetite for &lt;PCNAME&gt;-head soup. Or &lt;PCNAME&gt; fricassee. Or &lt;PCNAME&gt; ribs. Or &lt;PCNAME&gt;-kebabs.&lt;BR&gt;&lt;BR&gt;Wait, where was I?&lt;br&gt;[ES] Si no detenemos a estos gulas, les va a dar apetito por sopa de cabeza de &lt;PCNAME&gt;. O fricand&amp;#243; de &lt;PCNAME&gt;. O costillas de &lt;PCNAME&gt;. O kebabs de &lt;PCNAME&gt;.&amp;&lt;BR&gt;&lt;BR&gt;Espera, &amp;#191;en qu&amp;#233; estaba?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1006">
+        <Page social="4">[EN] Ah, are you a federation soldier? Just...can you just end this?&lt;NEXTPAGEBUTTON&gt;"What happened to you?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Ah, &amp;#191;eres un soldado de la federaci&amp;#243;n? Solo... &amp;#191;puedes acabar con esto?&lt;NEXTPAGEBUTTON&gt;"What happened to you?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Everyone just...it was business as usual, and then everyone just starting losing their minds. I can't even explain it.&lt;BR&gt;&lt;BR&gt;They killed...they killed everyone in our village. Please, get rid of them before they do worse. Target the {@linkcreature:19#4002#Lokain cleavers} and {@linkcreature:19#4001#Lokian rippers}. Bring me something tangible so I can be sure they're really gone.&lt;br&gt;[ES] Todos simplemente... era un d&amp;#237;a de negocios como cualquier otro, y de repente todos empezaron a perder la cabeza. Ni siquiera puedo explicarlo.&lt;BR&gt;&lt;BR&gt;Mataron... mataron a todos en nuestra aldea. Por favor, deshazte de ellos antes de que hagan algo peor. Ve por los {@linkcreature:19#4002#Lokain cleavers} y los {@linkcreature:19#4001#Lokian rippers}. Tr&amp;#225;eme algo tangible para poder estar seguro de que realmente se han ido.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1006">
+        <Page social="4">[EN] Thank you. This...it brings me peace.&lt;BR&gt;&lt;BR&gt;Please take this. It's all I have.&lt;br&gt;[ES] Gracias. Esto... me da paz.&lt;BR&gt;&lt;BR&gt;Por favor, toma esto. Es todo lo tengo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1006">
+        <Page social="0">[EN] Please...I don't have much time, and I just...I need a moment of peace before I go.&lt;br&gt;[ES] Por favor... no tengo mucho tiempo, y solo... necesito un momento de paz antes de partir.</Page>
+    </Text>
+</QuestDialog>

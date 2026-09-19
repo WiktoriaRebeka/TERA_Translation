@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1010">
+        <Page social="5">[EN] I knew it would be folly to have such a young boy in what amounts to a war zone, and sure enough...he's a casualty.&lt;BR&gt;&lt;BR&gt;But he's not dead...yet, and that's where you come in.&lt;BR&gt;&lt;BR&gt;For me to work my herbal magic, I need the blossoms of &lt;font color='#660000'&gt;hazevines&lt;/font&gt;. The boy doesn't know it, but he's lucky. Hazevine is underground nine months of the year.&lt;br&gt;[ES] Sab&amp;#237;a que ser&amp;#237;a una locura tener a un chico tan joven en lo que equivale a una zona de guerra, y dicho y hecho... es una baja.&lt;BR&gt;&lt;BR&gt;Pero no est&amp;#225; muerto... todav&amp;#237;a, y ah&amp;#237; es donde entras t&amp;#250;.&lt;BR&gt;&lt;BR&gt;Para que pueda obrar mi magia herbal, necesito las flores de &lt;font color='#660000'&gt;hazevines&lt;/font&gt;. El chico no lo sabe, pero tiene suerte. Las hazevine est&amp;#225;n bajo tierra nueve meses al a&amp;#241;o.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1010">
+        <Page social="4">[EN] Those blossoms aren't a secret exactly. But they grow only here, so knowledge of their medicinal uses is rather obscure.&lt;BR&gt;&lt;BR&gt;The boy will awaken soon enough. His body is on the mend, and that's what counts.&lt;BR&gt;&lt;BR&gt;When he rises, I'll be sure to tell him of the kind soldier who saved his life.&lt;br&gt;[ES] Esas flores no son exactamente un secreto. Pero solo crecen aqu&amp;#237;, por lo que el conocimiento de sus usos medicinales es bastante oscuro.&lt;BR&gt;&lt;BR&gt;El chico se despertar&amp;#225; muy pronto. Su cuerpo se est&amp;#225; recuperando, y eso es lo que cuenta.&lt;BR&gt;&lt;BR&gt;Cuando se levante, me asegurar&amp;#233; de hablarle del amable soldado que le salv&amp;#243; la vida.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1010">
+        <Page social="0">[EN] Look, everyone else wants you to slay all these lethal enemies or recover world-shattering artifacts.&lt;BR&gt;&lt;BR&gt;I'm just asking you to... Pick. Some. Flowers.&lt;BR&gt;&lt;BR&gt;Kids today. No appreciation for light duty.&lt;br&gt;[ES] Mira, todos los dem&amp;#225;s quieren que mates a todos estos enemigos letales o recuperes artefactos que sacuden el mundo.&lt;BR&gt;&lt;BR&gt;Yo solo te pido que... Recojas. Unas. Flores.&lt;BR&gt;&lt;BR&gt;Los j&amp;#243;venes de hoy. No aprecian las tareas ligeras.</Page>
+    </Text>
+</QuestDialog>

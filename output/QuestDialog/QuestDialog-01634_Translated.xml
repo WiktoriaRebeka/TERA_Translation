@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="411" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] The curious letter reads, "Go to the legendary Blacksmith Muhrak."&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- This letter vanishes when you accept this quest.&lt;BR&gt;- This quest is designed for those who do not own Nightforge equipment.&lt;/font&gt;&lt;br&gt;[ES] La carta curiosa dice: &quot;Ve con el legendario herrero Muhrak&quot;.&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Esta carta desaparece cuando aceptas esta misi&amp;#243;n.&lt;BR&gt;- Esta misi&amp;#243;n est&amp;#225; dise&amp;#241;ada para aquellos que no poseen equipamiento de Nightforge.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="4">[EN] &lt;PCNAME&gt;, I knew this letter would pique your curiosity. Are you ready to make something amazing?&lt;br&gt;[ES] &lt;PCNAME&gt;, sab&amp;#237;a que esta carta despertar&amp;#237;a tu curiosidad. &amp;#191;Est&amp;#225;s listo para crear algo incre&amp;#237;ble?</Page>
+    </Text>
+</QuestDialog>

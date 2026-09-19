@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0">[EN] The naga pirates stole my research journal. It contains information about our defenses, our numbers, our supplies&amp;#8212;we must stop them before they learn enough to wipe us all out!&lt;BR&gt;&lt;BR&gt;It would help to eliminate the {@LinkCreature:31#17#storm naga predators} and {@LinkCreature:31#16#ravagers} and retrieve the research journals they've stolen.&lt;br&gt;[ES] Los piratas naga robaron mi diario de investigaci&amp;#243;n. Contiene informaci&amp;#243;n sobre nuestras defensas, nuestros n&amp;#250;meros, nuestros suministros... &amp;#161;debemos detenerlos antes de que aprendan lo suficiente como para aniquilarnos a todos!&lt;BR&gt;&lt;BR&gt;Ayudar&amp;#237;a eliminar a los {@LinkCreature:31#17#storm naga predators} y {@LinkCreature:31#16#ravagers} y recuperar los diarios de investigaci&amp;#243;n que robaron.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1011">
+        <Page social="4">[EN] Many thanks. I can now complete my report. There's no need to speak of this...misstep to Commander Fraya, right?&lt;br&gt;[ES] Muchas gracias. Ahora puedo completar mi informe. No hay necesidad de hablar de este... peque&amp;#241;o desliz con la Comandante Fraya, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1011">
+        <Page social="0">[EN] That journal must be retrieved from the nagas.&lt;br&gt;[ES] Ese diario debe ser recuperado de los naga.</Page>
+    </Text>
+</QuestDialog>

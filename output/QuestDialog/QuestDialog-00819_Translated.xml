@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1003">
+        <Page social="4">[EN] I can't decide what's worse&amp;#8212;not feeling my toes or these reports that the {@LinkCreature:34#1100#icewalker barsicores} have struck another prospecting team.&lt;BR&gt;&lt;BR&gt;The ice must flow, so get out there and kill the barsicores. I'm going to ask the arcanists to enchant my socks.&lt;br&gt;[ES] No puedo decidir qu&amp;#233; es peor: no sentir los dedos de mis pies o estos informes de que los {@LinkCreature:34#1100#icewalker barsicores} han atacado a otro equipo de prospecci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;El hielo debe fluir, as&amp;#237; que sal ah&amp;#237; fuera y mata a los barsicores. Voy a pedirle a los arcanistas que encanten mis calcetines.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1003">
+        <Page social="4">[EN] Barsicores are awful creatures. The giants like to use them as skirmishers and the devas use them as distractions.&lt;BR&gt;&lt;BR&gt;I just want to use them as lifelike ice statues.&lt;br&gt;[ES] Los barsicores son criaturas horribles. A los gigantes les gusta usarlos como hostigadores y los devas los usan como distracciones.&lt;BR&gt;&lt;BR&gt;Yo solo quiero usarlos como estatuas de hielo realistas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1003">
+        <Page social="0">[EN] Obviously I can't go kill the barsicores. My toes would break off and then where would I be?&lt;BR&gt;&lt;BR&gt;Limping, that's where!&lt;br&gt;[ES] Obviamente no puedo ir a matar a los barsicores. &amp;#161;Se me romper&amp;#237;an los dedos de los pies y d&amp;#243;nde estar&amp;#237;a entonces?&lt;BR&gt;&lt;BR&gt;&amp;#161;Cjeando, eso es d&amp;#243;nde!</Page>
+    </Text>
+</QuestDialog>

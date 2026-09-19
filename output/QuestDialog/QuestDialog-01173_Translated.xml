@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1005">
+        <Page social="4">[EN] The argon security seems lax. We should hit the {@Rgn:49004}.&lt;BR&gt;&lt;BR&gt;Sneak down there and kill some kallan reavers. If you're good enough, you'll be back here before their reinforcements show up.&lt;br&gt;[ES] La seguridad de los argon parece floja. Deber&amp;#237;amos atacar el {@Rgn:49004}.&lt;BR&gt;&lt;BR&gt;Escabullete all&amp;#225; abajo y mata a algunos kallan reavers. Si eres lo suficientemente bueno, estar&amp;#225;s de vuelta aqu&amp;#237; antes de que aparezcan sus refuerzoS.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1005">
+        <Page social="6">[EN] Wow. What a show!&lt;BR&gt;&lt;BR&gt;That probably stung them a bit. We'll have to hit them harder next time!&lt;br&gt;[ES] &amp;#161;Vaya! &amp;#161;Qu&amp;#233; espect&amp;#225;culo!&lt;BR&gt;&lt;BR&gt;Eso probablemente les doli&amp;#243; un poco. &amp;#161;Tendremos que golpearlos m&amp;#225;s duro la pr&amp;#243;xima vez!</Page>
+    </Text>
+</QuestDialog>

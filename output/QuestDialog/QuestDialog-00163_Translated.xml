@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="5">[EN] &lt;PCNAME&gt;! I've gotten a request for reinforcements from the Celestial Hills. Drustan, out at Casidhe's Stand needs help at once. I don't have the soldiers to spare, but I think you might be just what he needs.&lt;BR&gt;&lt;BR&gt;He's a little frayed, but he's a good man. Do what you can, my friend. For the federation!&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! He recibido una solicitud de refuerzos desde Celestial Hills. Drustan, all&amp;#225; en Casidhe's Stand, necesita ayuda de inmediato. No tengo soldados de sobra, pero creo que t&amp;#250; podr&amp;#237;as ser exactamente lo que necesita.&lt;BR&gt;&lt;BR&gt;Est&amp;#225; un poco tenso, pero es un buen hombre. Haz lo que puedas, amigo m&amp;#237;o. &amp;#161;Por la federaci&amp;#243;n!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1002">
+        <Page social="5">[EN] You're the relief? One soldier?&lt;BR&gt;&lt;BR&gt;Damn Daven's eyes. We need more help than that but let's put you to work. The orcans are massing for an attack. I want you to preemptively weed them out. Eliminate the {@LinkCreature:7#5#Red Fang Orcans} and {@LinkCreature:7#6#Red Fang Fighters}, and bring back their fangs.&lt;BR&gt;&lt;BR&gt;Perhaps that will give us the rest we need. Take the field!&lt;br&gt;[ES] &amp;#191;Eres el relevo? &amp;#191;Un solo soldado?&lt;BR&gt;&lt;BR&gt;Maldito sea Daven. Necesitamos m&amp;#225;s ayuda que eso, pero pong&amp;#225;monos a trabajar. Los orcans se est&amp;#225;n agrupando para un ataque. Quiero que te adelantes y los elimines de forma preventiva. Elimina a los {@LinkCreature:7#5#Red Fang Orcans} y a los {@LinkCreature:7#6#Red Fang Fighters}, y tr&amp;#225;eme sus colmillos.&lt;BR&gt;&lt;BR&gt;Tal vez eso nos d&amp;#233; el respiro que necesitamos. &amp;#161;Al campo de batalla!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1002">
+        <Page social="5">[EN] Well done! That's a lot of fangs.&lt;BR&gt;&lt;BR&gt;That'll scare them off for a bit, but they'll be back. Hopefully, we'll be reinforced by then.&lt;BR&gt;&lt;BR&gt;I'm glad you're here, &lt;PCNAME&gt;. Keep up the good work.&lt;br&gt;[ES] &amp;#161;Bien hecho! Esos son muchos colmillos.&lt;BR&gt;&lt;BR&gt;Eso los espantar&amp;#225; por un tiempo, pero volver&amp;#225;n. Con suerte, para entonces habremos recibido refuerzos.&lt;BR&gt;&lt;BR&gt;Me alegra que est&amp;#233;s aqu&amp;#237;, &lt;PCNAME&gt;. Sigue con el buen trabajo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" villagerId="1002">
+        <Page social="0">[EN] You've got your orders, soldier. Get moving.&lt;br&gt;[ES] Ya tienes tus &amp;#243;rdenes, soldado. En marcha.</Page>
+    </Text>
+</QuestDialog>

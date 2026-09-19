@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="4">[EN] They aren't as bad as those horrible dolls, but the monsters down in the Catacomb of Misery and the Bloody Depths are still nothing to sneeze at.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:33#8#merciless}, {@LinkCreature:33#9#armored}, {@LinkCreature:33#58#relentless}, and {@LinkCreature:33#59#pitiless disc reapers} have managed to chase down and kill a number of soldiers and researchers, despite the fact nothing should move that fast on its hands.&lt;BR&gt;&lt;BR&gt;You must eliminate them.&lt;br&gt;[ES] No son tan malos como esas horribles mu&amp;#241;ecas, pero los monstruos en el Catacomb of Misery y los Bloody Depths siguen siendo dignos de respeto.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:33#8#merciless}, {@LinkCreature:33#9#armored}, {@LinkCreature:33#58#relentless} y {@LinkCreature:33#59#pitiless disc reapers} se las han arreglado para perseguir y matar a varios soldados y investigadores, a pesar de que nada deber&amp;#237;a moverse tan r&amp;#225;pido sobre sus manos.&lt;BR&gt;&lt;BR&gt;Debes eliminarlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1027">
+        <Page social="4">[EN] Ah! You truly laugh in the face of death!&lt;BR&gt;&lt;BR&gt;Those disc reapers have killed so many, collecting their insignia as trophies! I've fought on the bloodiest battlefields, but nothing makes my blood run cold like this place.&lt;br&gt;[ES] &amp;#161;Ja! &amp;#161;Te r&amp;#237;es de verdad ante la cara de la muerte!&lt;BR&gt;&lt;BR&gt;&amp;#161;Esos disc reapers han matado a tantos que colecciono sus insignias como trofeos! He luchado en los campos de batalla m&amp;#225;s sangrientos, pero nada me hiela la sangre como este lugar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1027">
+        <Page social="0">[EN] Come on! You can find those disc reapers!&lt;br&gt;[ES] &amp;#161;Vamos! &amp;#161;Puedes encontrar a esos disc reapers!</Page>
+    </Text>
+</QuestDialog>

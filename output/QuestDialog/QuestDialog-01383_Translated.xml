@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1022">
+        <Page social="4">[EN] Our scouts are getting chewed to pieces by these hellhounds. We need to know what's going on in there, so cut your way through and find Kalraz.&lt;BR&gt;&lt;BR&gt;Curse Killian for binding these wretched creatures to this area!&lt;br&gt;[ES] Nuestros exploradores est&amp;#225;n siendo destrozados por estos sabuesos infernales. Necesitamos saber qu&amp;#233; est&amp;#225; pasando ah&amp;#237; dentro, as&amp;#237; que &amp;#225;brete paso y encuentra a Kalraz.&lt;BR&gt;&lt;BR&gt;&amp;#161;Maldito sea Killian por atar a estas criaturas miserables a esta zona!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1023">
+        <Page social="4">[EN] Nasty brutes, aren't they?&lt;BR&gt;&lt;BR&gt;Thanks for finding me. Hope you like fighting, &lt;PCNAME&gt;. It only gets worse from here!&lt;br&gt;[ES] &amp;#161;Qu&amp;#233; brutos tan desagradables, verdad?&lt;BR&gt;&lt;BR&gt;Gracias por encontrarme. &amp;#161;Espero que te guste pelear, &lt;PCNAME&gt;, porque las cosas solo empeorar&amp;#225;n a partir de ahora!</Page>
+    </Text>
+</QuestDialog>

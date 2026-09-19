@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="0">[EN] You gained the federation's trust by cleaning up the deva remnants and scions.&lt;br&gt;[ES] Te ganaste la confianza de la federation al acabar con los restos y los scions de los deva.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="4" voiceTypeId="0">[EN] We can't celebrate forever. Who knows when the scions will come back? We need reinforcements from the federation. But I also think that everyone should know what you've done for Crescentia.&lt;br&gt;[ES] No podemos celebrar para siempre. &amp;#191;Qui&amp;#233;n sabe cu&amp;#225;ndo volver&amp;#225;n los scions? Necesitamos refuerzos de la federation. Pero tambi&amp;#233;n creo que todos deben saber lo que has hecho por Crescentia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1009">
+        <Page social="4" voiceTypeId="0">[EN] This is a report of what happened here.&lt;BR&gt;&lt;BR&gt;It also details your heroic contribution.&lt;BR&gt;Now, Velika will be able to track down the dark forces who threaten southern Arun.&lt;BR&gt;&lt;BR&gt;Thank you for your service.&lt;br&gt;[ES] Este es un informe de lo que pas&amp;#243; aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Tambi&amp;#233;n detalla tu heroica contribuci&amp;#243;n.&lt;BR&gt;Ahora, Velika podr&amp;#225; rastrear a las fuerzas oscuras que amenazan el sur de Arun.&lt;BR&gt;&lt;BR&gt;Gracias por tu servicio.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1160">
+        <Page social="4" voiceTypeId="0">[EN] It's rare to see Jodoc write about anyone in such glowing terms. You certainly impressed him, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Deliver this little epistle to Samael. He's as hard to win over as Jodoc, but if anything can do it, it's this report.&lt;BR&gt;&lt;BR&gt;Well done, &lt;PCNAME&gt;. This is exactly the kind of action we need from all our soldiers right now.&lt;br&gt;[ES] Es raro ver a Jodoc escribir sobre alguien con tanto entusiasmo. Sin duda lo impressionaste, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Entr&amp;#233;gale esta peque&amp;#241;a ep&amp;#237;stola a Samael. Es tan dif&amp;#237;cil de convencer como Jodoc, pero si algo puede lograrlo, es este informe.&lt;BR&gt;&lt;BR&gt;Bien hecho, &lt;PCNAME&gt;. Esto es exactamente el tipo de acci&amp;#243;n que necesitamos de todos nuestros soldados ahora mismo.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1137">
+        <Page social="4" voiceTypeId="0">[EN] Hmm. Well, this is quite a report. I guess you're not the keener I took you for. I underestimated you. I promise I won't do that in the future.&lt;BR&gt;&lt;BR&gt;We need more than just soldiers: We need leaders. Dougal thinks you're ready for a commission. I'm hardly going to argue against it, not after deeds such as these. Come, it's not every day you get to be a hero.&lt;br&gt;[ES] Mmm. Bueno, este es un gran informe. Supongo que no eres el novato que pensaba. Te subestim&amp;#233;. Prometo que no har&amp;#233; eso en el futuro.&lt;BR&gt;&lt;BR&gt;Necesitamos m&amp;#225;s que solo soldados: necesitamos l&amp;#237;deres. Dougal cree que est&amp;#225;s listo para un rango. Apenas voy a discutirlo, no despu&amp;#233;s de haza&amp;#241;as como estas. Vamos, no todos los d&amp;#237;as se llega a ser un h&amp;#233;roe.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1137">
+        <Page social="0">[EN] Do you have something to report?&lt;br&gt;[ES] &amp;#191;Tienes algo que informar?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="5" villagerId="1138">
+        <Page social="4" voiceTypeId="0">[EN] &lt;PCNAME&gt;! What took you so long?&lt;BR&gt;Let's start the ceremony.&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! &amp;#191;Por qu&amp;#233; tardaste tanto?&lt;BR&gt;Comencemos la ceremonia.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1138">
+        <Page social="4" voiceTypeId="0">[EN] Take this flying mount.&lt;BR&gt;&lt;BR&gt;This may be a little too much...but still.&lt;BR&gt;&lt;BR&gt;This will help you on your future missions.&lt;BR&gt;&lt;BR&gt;Keep up the good work.&lt;br&gt;[ES] Toma esta montura voladora.&lt;BR&gt;&lt;BR&gt;Esto puede ser un poco demasiado... pero aun as&amp;#237;.&lt;BR&gt;&lt;BR&gt;Esto te ayudar&amp;#225; en tus futuras misiones.&lt;BR&gt;&lt;BR&gt;Sigue con el buen trabajo.</Page>
+    </Text>
+</QuestDialog>

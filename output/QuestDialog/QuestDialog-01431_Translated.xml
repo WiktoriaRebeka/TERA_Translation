@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">[EN] Unless you have a piece of eldritch leather squirreled away somewhere, don't even ask. I can't make the top hats without the leather, and you can't get the leather anywhere.&lt;NEXTPAGEBUTTON&gt;"I have the leather."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] A menos que tengas un trozo de eldritch leather guardado en alguna parte, ni preguntes. No puedo hacer los sombreros de copa sin el leather, y no puedes conseguir el leather en ninguna parte.&lt;NEXTPAGEBUTTON&gt;"I have the leather."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">[EN] Wow, you actually had some?&lt;BR&gt;&lt;BR&gt;Well, okay, then! What spectacular hat fits you best?&lt;NEXTPAGEBUTTON&gt;"Let me see your selection."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Vaya, &amp;#191;de verdad ten&amp;#237;as un poco?&lt;BR&gt;&lt;BR&gt;Bueno, &amp;#161;de acuerdo entonces! &amp;#191;Qu&amp;#233; sombrero espectacular te queda mejor?&lt;NEXTPAGEBUTTON&gt;"Let me see your selection."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">[EN] If you need eldritch leather, you're out of luck. Trust me, just dump your bloodhide and rough hide on the market, and cut your losses.&lt;br&gt;[ES] Si necesitas eldritch leather, no tienes suerte. Cr&amp;#233;eme, solo descarta tu bloodhide y rough hide en el mercado, y asume tus p&amp;#233;rdidas.</Page>
+    </Text>
+</QuestDialog>

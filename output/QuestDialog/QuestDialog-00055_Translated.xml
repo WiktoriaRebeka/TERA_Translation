@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">[EN] Not far from here is another scout, {@LinkCreature:203#1010#Rasima}. She's as tough as they come, but she's all alone.&lt;BR&gt;&lt;BR&gt;She'd never ask for help, she's all into having altitude, but she'll take it if it's offered. And bring her something to drink!&lt;br&gt;[ES] No muy lejos de aqu&amp;#237; hay otra exploradora, {@LinkCreature:203#1010#Rasima}. Es m&amp;#225;s dura que ninguna, pero est&amp;#225; completamente sola.&lt;BR&gt;&lt;BR&gt;Nunca pedir&amp;#237;a ayuda, le encanta estar en las alturas, pero la aceptar&amp;#225; si se la ofrecen. &amp;#161;Y ll&amp;#233;vale algo de beber!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1010">
+        <Page social="4">[EN] Yes, I'm all alone&amp;#8212;now. My partner, Keleth, and I were discovered while scouting around. We fought hard, but he bought my escape with his life.&lt;BR&gt;&lt;BR&gt;I honor his sacrifice but need a favor. Bring back his {@LinkCreature:203#1029#ring} that I might return them to his home and thank his family.&lt;br&gt;[ES] S&amp;#237;, estoy completamente sola... ahora. Mi compa&amp;#241;ero Keleth y yo fuimos descubiertos mientras explor&amp;#225;bamos. Luchamos duro, pero &amp;#233;l compr&amp;#243; mi huida con su vida.&lt;BR&gt;&lt;BR&gt;Honro su sacrificio, pero necesito un favor. Trae de vuelta su {@LinkCreature:203#1029#ring} para poder devolv&amp;#233;rselo a su hogar y agradecer a su familia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1029">
+        <Page social="4">[EN] (The corpse was clearly savaged in battle. Nothing stands out except a simple copper ring.)&lt;br&gt;[ES] (El cad&amp;#225;ver estaba claramente destrozado en la batalla. Nada destaca excepto un simple anillo de cobre.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1010">
+        <Page social="4">[EN] I remember this ring. Keleth was very proud of such a humble band.&lt;BR&gt;&lt;BR&gt;This is perfect. Such a token will mean much to his loved ones. Thank you for this. May the Shieldmaiden protect you in all your battles!&lt;br&gt;[ES] Recuerdo este anillo. Keleth estaba muy orgulloso de una banda tan humilde.&lt;BR&gt;&lt;BR&gt;Esto es perfecto. Una muestra as&amp;#237; significar&amp;#225; mucho para sus seres queridos. Gracias por esto. &amp;#161;Que la Shieldmaiden te proteja en todas tus batallas!</Page>
+    </Text>
+</QuestDialog>

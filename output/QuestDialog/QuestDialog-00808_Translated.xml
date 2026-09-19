@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1009">
+        <Page social="4">[EN] The wendigos claim our mining of the shards is going to deplete them forever. They also claim the Azurice Shrine can grow them indefinitely&amp;#8212;if there's enough energy.&lt;BR&gt;&lt;BR&gt;We've decided to believe them for now. We need crimson shards&amp;#8212;they're the most potent&amp;#8212;if we're going to imbue the shrine.&lt;BR&gt;&lt;BR&gt;Head southeast and gather what you can.&lt;br&gt;[ES] Los wendigos afirman que nuestra extracci&amp;#243;n de los fragmentos va a agotarlos para siempre. Tambi&amp;#233;n afirman que el santuario de Azurice puede hacerlos crecer indefinidamente, si hay suficiente energ&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Hemos decidido creerles por ahora. Necesitamos fragmentos carmes&amp;#237;es &amp;#8212;son los m&amp;#225;s potentes&amp;#8212; si vamos a imbuir el santuario.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete al sureste y recoge lo que puedas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1009">
+        <Page social="4">[EN] It's possible these shards can restore the Azurice Shrine and keep the shards from disappearing entirely from our world.&lt;BR&gt;&lt;BR&gt;There's a lesson to be learned about sustainability and balance.&lt;br&gt;[ES] Es posible que estos fragmentos puedan restaurar el santuario de Azurice y evitar que los fragmentos desaparezcan por completo de nuestro mundo.&lt;BR&gt;&lt;BR&gt;Hay una lecci&amp;#243;n que aprender sobre la sostenibilidad y el equilibrio.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1009">
+        <Page social="0">[EN] Apologies, &lt;PCNAME&gt;. We need more crimson shards.&lt;br&gt;[ES] Disculpa, &lt;PCNAME&gt;. Necesitamos m&amp;#225;s fragmentos carmes&amp;#237;es.</Page>
+    </Text>
+</QuestDialog>

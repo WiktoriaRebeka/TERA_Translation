@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="99" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="9999">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="9999">
+        <Page social="0">[EN] [Report Orders]&lt;BR&gt;&lt;BR&gt;This is a restricted mission that must not be assigned to unauthorized persons.&lt;BR&gt;&lt;BR&gt;If you have been assigned this mission, it was due to an error with the mission assignment system. You are hereby ordered to report through BTS (Battle Tactics System) without delay.&lt;BR&gt;&lt;BR&gt;--Consul Dougal&lt;br&gt;[ES] [&amp;#211;rdenes de informe]&lt;BR&gt;&lt;BR&gt;Esta es una misi&amp;#243;n restringida que no debe asignarse a personas no autorizadas.&lt;BR&gt;&lt;BR&gt;Si se te ha asignado esta misi&amp;#243;n, se debi&amp;#243; a un error en el sistema de asignaci&amp;#243;n de misiones. Por la presente se te ordena reportar a trav&amp;#233;s del BTS (Sistema de T&amp;#225;cticas de Batalla) sin demora.&lt;BR&gt;&lt;BR&gt;--C&amp;#243;nsul Dougal</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="0">[EN] It's good to see you, &lt;PCNAME&gt;! Thanks to battle-hardened allies like you, the world is still in one piece.&lt;BR&gt;&lt;BR&gt;I ask you personally to keep up the good fight for the Valkyon Federation and world peace.&lt;br&gt;[ES] &amp;#161;Qu&amp;#233; bueno verte, &lt;PCNAME&gt;! Gracias a aliados curtidos en batalla como t&amp;#250;, el mundo sigue entero.&lt;BR&gt;&lt;BR&gt;Te pido personalmente que sigas luchando por la Valkyon Federation y la paz mundial.</Page>
+    </Text>
+</QuestDialog>

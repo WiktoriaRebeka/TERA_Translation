@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1030">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1030">
+        <Page social="4">[EN] The argons destroyed the foundry here, and now they're taking components we desperately need.&lt;BR&gt;&lt;BR&gt;I need you to kill hulrap bashers and salvage what you can.&lt;br&gt;[ES] Los argons destruyeron la fundici&amp;#243;n aqu&amp;#237; y ahora se est&amp;#225;n llevando componentes que necesitamos desesperadamente.&lt;BR&gt;&lt;BR&gt;Necesito que mates hulrap bashers y recuperes lo que puedas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1030">
+        <Page social="6">[EN] Excellent! I'll get these components to the Cyanocannon Foundry. We'll put them to good use.&lt;br&gt;[ES] &amp;#161;Excelente! Llevar&amp;#233; estos componentes a la Cyanocannon Foundry. Les daremos un buen uso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1030">
+        <Page social="0">[EN] Kill hulrap bashers and recover those components.&lt;BR&gt;&lt;BR&gt;I'll wait here.&lt;br&gt;[ES] Mata hulrap bashers y recupera esos componentes.&lt;BR&gt;&lt;BR&gt;Esperar&amp;#233; aqu&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="4">[EN] I heard a disturbing report from the front lines. Something about a weird, red argon that's tougher than expected?&lt;BR&gt;&lt;BR&gt;Speak with Drokhir at Khanovar Citadel. He's putting together a strike mission.&lt;br&gt;[ES] Escuch&amp;#233; un informe perturbador de la l&amp;#237;nea del frente. &amp;#191;Algo sobre un argon extra&amp;#241;o y rojo que es m&amp;#225;s duro de lo esperado?&lt;BR&gt;&lt;BR&gt;Habla con Drokhir en Khanovar Citadel. Est&amp;#225; organizando una misi&amp;#243;n de ataque.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="4">[EN] Yes, these red argons appeared after one of our operatives used a new argon device. We don't know much more than that. I've got a pile of scrolls from the Invalesco wanting more details.&lt;BR&gt;&lt;BR&gt;Head into Carnage Vale, find this device and see what happens next.&lt;br&gt;[ES] S&amp;#237;, estos argons rojos aparecieron despu&amp;#233;s de que uno de nuestros operativos usara un nuevo dispositivo argon. No sabemos mucho m&amp;#225;s que eso. Tengo una pila de pergaminos de los Invalesco pidiendo m&amp;#225;s detalles.&lt;BR&gt;&lt;BR&gt;Ad&amp;#233;ntrate en Carnage Vale, encuentra este dispositivo y mira qu&amp;#233; pasa despu&amp;#233;s.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="4">[EN] This plating looks different. Stronger, too.&lt;BR&gt;&lt;BR&gt;I'll get a courier to transport these components to the Invalesco.&lt;br&gt;[ES] Este blindaje se ve diferente. Y m&amp;#225;s fuerte.&lt;BR&gt;&lt;BR&gt;Conseguir&amp;#233; un mensajero para transportar estos componentes a los Invalesco.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" villagerId="3002">
+        <Page social="0">[EN] Helping the Invalesco's just smart strategy. They want to stop the argons, too.&lt;BR&gt;&lt;BR&gt;Find those red argons, &lt;PCNAME&gt;. Kill 'em dead.&lt;br&gt;[ES] Ayudar a los Invalesco es simplemente una estrategia inteligente. Ellos tambi&amp;#233;n quieren detener a los argons.&lt;BR&gt;&lt;BR&gt;Encuentra a esos argons rojos, &lt;PCNAME&gt;. Destr&amp;#250;yelos.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="6" villagerId="3002">
+        <Page social="4">[EN] This plating looks different. Stronger, too.&lt;BR&gt;&lt;BR&gt;I'll get a courier to transport these components to the Invalesco.&lt;br&gt;[ES] Este blindaje se ve diferente. Y m&amp;#225;s fuerte.&lt;BR&gt;&lt;BR&gt;Conseguir&amp;#233; un mensajero para transportar estos componentes a los Invalesco.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" villagerId="3002">
+        <Page social="0">[EN] Helping the Invalesco's just smart strategy. They want to stop the argons, too.&lt;BR&gt;&lt;BR&gt;Find those red argons, &lt;PCNAME&gt;. Kill 'em dead.&lt;br&gt;[ES] Ayudar a los Invalesco es simplemente una estrategia inteligente. Ellos tambi&amp;#233;n quieren detener a los argons.&lt;BR&gt;&lt;BR&gt;Encuentra a esos argons rojos, &lt;PCNAME&gt;. Destr&amp;#250;yelos.</Page>
+    </Text>
+</QuestDialog>

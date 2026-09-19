@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="1">[EN] The mandrills are wreaking havoc on our camp, tearing down scaffolding, moving objects around, and otherwise making it impossible to perform proper archaeology here in {@Rgn:30001$$Balder's Refuge}.&lt;BR&gt;&lt;BR&gt;Wipe out the {@LinkCreature:30#510#direpaw} and {@LinkCreature:30#520#dreadpaw mandrills}.&lt;BR&gt;&lt;BR&gt;See Leiria for some post-slaughter compensation.&lt;br&gt;[ES] Los mandriles est&amp;#225;n estropeando nuestro campamento, tirando andamios, moviendo objetos y haciendo que sea imposible realizar un trabajo arqueol&amp;#243;gico adecuado aqu&amp;#237; en {@Rgn:30001$$Balder's Refuge}.&lt;BR&gt;&lt;BR&gt;Aniquila a los mandriles {@LinkCreature:30#510#direpaw} y {@LinkCreature:30#520#dreadpaw}.&lt;BR&gt;&lt;BR&gt;Busca a Leiria para obtener una compensaci&amp;#243;n por la masacre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1090">
+        <Page social="1">[EN] Yep. That's a lot of dead mandrills.&lt;BR&gt;&lt;BR&gt;Now wash that blood off.&lt;br&gt;[ES] S&amp;#237;. Es un mont&amp;#243;n de mandriles muertos.&lt;BR&gt;&lt;BR&gt;Ahora l&amp;#237;mpiate esa sangre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1090">
+        <Page social="0">[EN] Kill those mandrills before they tear our camp apart!&lt;br&gt;[ES] &amp;#161;Mata a esos mandriles antes de que destruyan nuestro campamento!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1016">
+        <Page social="9">[EN] Imps. They must be the most annoying little buggers on the planet. The Thulsans threaten the future of the federation, and the imps are a potentially fatal distraction. We can't afford to take our eye off the ball.&lt;BR&gt;&lt;BR&gt;Please eliminate the fiesty ebon imps and bring me their teeth. We'll make necklaces out of them or something. It'll be good for morale.&lt;br&gt;[ES] Los imps. Deben ser los bichitos m&amp;#225;s molestos del planeta. Los Thulsans amenazan el futuro de la federaci&amp;#243;n, y los imps son una distracci&amp;#243;n potencialmente fatal. No podemos darnos el lujo de perder el foco.&lt;BR&gt;&lt;BR&gt;Por favor, elimina a los vivaces ebon imps y tr&amp;#225;eme sus dientes. Haremos collares con ellos o algo as&amp;#237;. Ser&amp;#225; bueno para la moral.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1016">
+        <Page social="18">[EN] Thank you, &lt;PCNAME&gt;. With the imps under control, we can give our undivided attention to defeating the Thulsan army.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Con los imps bajo control, podremos prestarle toda nuestra atenci&amp;#243;n a derrotar al ej&amp;#233;rcito de Thulsa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1016">
+        <Page social="0">[EN] The imps are still around.&lt;BR&gt;&lt;BR&gt;Please hunt them down and rid us of the nuisance.&lt;br&gt;[ES] Los diablillos siguen por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Por favor, dales caza y l&amp;#237;branos de esta molestia.</Page>
+    </Text>
+</QuestDialog>

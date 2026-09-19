@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="4">[EN] To the north is an old scout camp. Would you see if the federation left any supplies behind when they fled? Whatever's there, we can probably use it.&lt;br&gt;[ES] Hacia el norte hay un viejo campamento de exploradores. &amp;#191;Podr&amp;#237;as ver si la federaci&amp;#243;n dej&amp;#243; alg&amp;#250;n suministro atr&amp;#225;s cuando huyeron? Todo lo que est&amp;#233; all&amp;#237; probablemente podamos usarlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1021">
+        <Page social="4">[EN] Some of this is edible food! Why wouldn't the argons or any of their monstrous creations have eaten it by now?&lt;BR&gt;&lt;BR&gt;...What if their needs are very, very different from ours&amp;#8212;more different than we ever suspected until now?&lt;br&gt;[ES] &amp;#161;Parte de esto es comida comestible! &amp;#191;Por qu&amp;#233; los argons o cualquiera de sus monstruosas creaciones no se lo han comido ya?&lt;BR&gt;&lt;BR&gt;...&amp;#191;Y si sus necesidades son muy, muy diferentes a las nuestras, mucho m&amp;#225;s de lo que jam&amp;#225;s sospechamos hasta ahora?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Thulsa, holding the last relic fragment, told you he'd rather destroy the world than let you win. He threw himself into Kelsaik's mouth, and Kelsaik became even stronger by consuming the god of death.&lt;br&gt;[ES] Thulsa, sosteniendo el &amp;#250;ltimo fragmento de reliquia, te dijo que prefer&amp;#237;a destruir el mundo antes que dejarte ganar. Se arroj&amp;#243; a las fauces de Kelsaik, y Kelsaik se volvi&amp;#243; a&amp;#250;n m&amp;#225;s fuerte al consumir al dios de la muerte.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] Kelsaik is not in the Ebon Tower, so pursue Thulsa instead! Follow the traces of mana Thulsa leaves in his wake, and you'll find the teleportal Thulsa used to escape.&lt;br&gt;[ES] &amp;#161;Kelsaik no est&amp;#225; en Ebon Tower, as&amp;#237; que persigue a Thulsa en su lugar! Sigue los rastros de mana que Thulsa deja a su paso y encontrar&amp;#225;s el teleportal que us&amp;#243; para escapar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1502">
+        <Page social="1" voiceTypeId="0">[EN] Thulsa's teleportal goes to a pocket dimension called "Kelsaik's Nest." Brace yourself before you enter.&lt;br&gt;[ES] El teleportal de Thulsa va a una dimensi&amp;#243;n de bolsillo llamada &quot;Kelsaik's Nest&quot;. Prep&amp;#225;rate bien antes de entrar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" prevId="3" villagerId="1042">
+        <Page social="4" voiceTypeId="0">[EN] I knew you could do it!&lt;BR&gt;When he heard that Thulsa ran away, Elleon sent me here.&lt;BR&gt;&lt;BR&gt;He fainted right after that though...&lt;BR&gt;&lt;BR&gt;but anyways, you did it!&lt;BR&gt;I wanted to see you once more before I left.&lt;NEXTPAGEBUTTON&gt;"How is Elleon doing?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Sab&amp;#237;a que podr&amp;#237;as hacerlo!&lt;BR&gt;Cuando se enter&amp;#243; de que Thulsa hab&amp;#237;a huido, Elleon me envi&amp;#243; aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Sin embargo, se desmay&amp;#243; justo despu&amp;#233;s...&lt;BR&gt;&lt;BR&gt;pero de todos modos, &amp;#161;lo lograste!&lt;BR&gt;Quer&amp;#237;a verte una vez m&amp;#225;s antes de irme.&lt;NEXTPAGEBUTTON&gt;"How is Elleon doing?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] The doctor said that there was nothing he could do.&lt;BR&gt;&lt;BR&gt;After all, Elleon was wounded by a God, right?&lt;BR&gt;&lt;BR&gt;I have to take him to Allemantheia to get some treatment.&lt;br&gt;[ES] El m&amp;#233;dico dijo que no hab&amp;#237;a nada que pudiera hacer.&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de todo, Elleon fue herido por un Dios, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;Tengo que llevarlo a Allemantheia para que reciba tratamiento.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="251" prevId="4" villagerId="1042">
+        <Page social="5" voiceTypeId="0">[EN] I'm sorry you were all on your own.&lt;BR&gt;Elleon would be glad to hear that you made it.&lt;BR&gt;&lt;BR&gt;I should get going now.&lt;BR&gt;&lt;BR&gt;You should go and report back to Kaia, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Let me know when your ready.&lt;BR&gt;I'll take you back to Kaiator.&lt;br&gt;[ES] Siento que hayas estado completamente solo.&lt;BR&gt;Elleon se alegrar&amp;#225; de saber que lo lograste.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;a irme ahora.&lt;BR&gt;&lt;BR&gt;Deber&amp;#237;as ir a reportarte con Kaia, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Av&amp;#237;same cuando est&amp;#233;s listo.&lt;BR&gt;Te llevar&amp;#233; de regreso a Kaiator.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="251" prevId="4" villagerId="1042">
+        <Page social="5" voiceTypeId="0">[EN] We'll meet again for sure. Take care.&lt;br&gt;[ES] Nos volveremos a ver seguro. Cu&amp;#237;date.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="84" prevId="4" villagerId="1088">
+        <Page social="4" voiceTypeId="0">[EN] &lt;PCNAME&gt;! You're back!&lt;BR&gt;Everyone is waiting for you.&lt;BR&gt;&lt;BR&gt;Quick! Get in there!&lt;br&gt;[ES] &lt;PCNAME&gt;! &amp;#161;Has vuelto!&lt;BR&gt;Todos te est&amp;#225;n esperando.&lt;BR&gt;&lt;BR&gt;&amp;#161;R&amp;#225;pido! &amp;#161;Entra ah&amp;#237;!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="528" prevId="7" villagerId="5030">
+        <Page social="1" voiceTypeId="0">[EN] You defeated Kelsaik, and thus saved Kaiator...and Allemantheia...and Velika...&lt;BR&gt;...and everywhere.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;The titans continue their dream uninterrupted, thanks to you, &lt;PCNAME&gt;.&lt;br&gt;[ES] Derrotaste a Kelsaik y as&amp;#237; salvaste a Kaiator... y a Allemantheia... y a Velika...&lt;BR&gt;... y a todas partes.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Los titanes contin&amp;#250;an su sue&amp;#241;o sin interrupciones, gracias a ti, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="528" prevId="8" villagerId="5005">
+        <Page social="1" voiceTypeId="0">[EN] Killian is dead! You hear that, Father! KILLIAN IS DEAD!&lt;BR&gt;You kept your promise to me, , and my father can rest in peace.&lt;BR&gt;&lt;BR&gt;With Killian, Thulsa, and Kelsaik no more, my people can focus on the Argon War.&lt;BR&gt;&lt;BR&gt;Speaking of the argons, you say they took Kelsaik's corpse away? I wonder why....&lt;br&gt;[ES] &amp;#161;Killian est&amp;#225; muerto! &amp;#191;Escuchas eso, padre? &amp;#161;KILLIAN EST&amp;#193; MUERTO!&lt;BR&gt;Le cumpliste tu promesa a , y mi padre puede descansar en paz.&lt;BR&gt;&lt;BR&gt;Con Killian, Thulsa y Kelsaik fuera de combate, mi gente puede concentrarse en la Argon War.&lt;BR&gt;&lt;BR&gt;Hablando de los argons, &amp;#191;dices que se llevaron el cad&amp;#225;ver de Kelsaik? Me pregunto por qu&amp;#233;...</Page>
+    </Text>
+</QuestDialog>

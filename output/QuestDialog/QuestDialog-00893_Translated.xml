@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1038">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1038">
+        <Page social="5">[EN] Who would dare to disturb a god, much less one like Saleron, who's held grudges for centuries?&lt;BR&gt;&lt;BR&gt;Everyone&amp;#8212;our federation included&amp;#8212;wants to seize these crypts, but wouldn't we be better off leaving Saleron alone?&lt;BR&gt;&lt;BR&gt;Neither the greatest &lt;PCCLASS:lcase&gt; nor I rule our own destinies, however. So with some reluctance, I offer this challenge: defeat the manaathols and shatter the enemy's command structure.&lt;br&gt;[ES] &amp;#191;Qui&amp;#233;n se atrever&amp;#237;a a molestar a un dios, y mucho menos a uno como Saleron, que ha guardado rencor durante siglos?&lt;BR&gt;&lt;BR&gt;Todos &amp;#8212;incluida nuestra federaci&amp;#243;n&amp;#8212; quieren apoderarse de estas criptas, pero &amp;#191;no estar&amp;#237;amos mejor dejando a Saleron en paz?&lt;BR&gt;&lt;BR&gt;Sin embargo, ni el &lt;PCCLASS:lcase&gt; m&amp;#225;s grande ni yo gobernamos nuestros propios destinos. As&amp;#237; que, con cierta reticencia, ofrezco este desaf&amp;#237;o: derrota a los manaathols y destruye la estructura de mando del enemigo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1038">
+        <Page social="18">[EN] A worthy victory, &lt;PCNAME&gt;. Let us hope that your effort isn't a pointless advance in these endless tunnels.&lt;br&gt;[ES] Una victoria digna, &lt;PCNAME&gt;. Esperemos que tu esfuerzo no sea un avance in&amp;#250;til en estos t&amp;#250;neles interminables.</Page>
+    </Text>
+</QuestDialog>

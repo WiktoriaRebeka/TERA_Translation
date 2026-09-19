@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="4">[EN] In spite of the argons' best efforts to eradicate the native flora of Val Kaeli, some species endure and adapt. We must understand these floral adaptations if we're ever to undo the argons' corruption to our world.&lt;BR&gt;&lt;BR&gt;Several scouts reported a lone plant&amp;#8212;a raindrop bellflower&amp;#8212;near the Noyul Extractor. Fight through the kalashes standing between us and this important specimen and retrieve it.&lt;br&gt;[ES] A pesar de los mayores esfuerzos de los argons por erradicar la flora nativa de Val Kaeli, algunas especies resisten y se adaptan. Debemos entender estas adaptaciones florales si queremos deshacer la corrupci&amp;#243;n de los argons en nuestro mundo.&lt;BR&gt;&lt;BR&gt;Varios exploradores informaron sobre una planta solitaria, una campanilla de roc&amp;#237;o, cerca del Noyul Extractor. &amp;#193;brete paso entre los kalashes que se interponen entre nosotros y este esp&amp;#233;cimen importante para recuperarlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1015">
+        <Page social="6">[EN] (The flower appears ordinary enough&amp;#8212;remarkable given its proximity to the massive argon machines.)&lt;br&gt;[ES] (La flor parece bastante com&amp;#250;n, algo notable dada su proximidad a las masivas m&amp;#225;quinas argon).</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1014">
+        <Page social="6">[EN] There's an energy, indeed a purity, inside this flower.&lt;BR&gt;&lt;BR&gt;Remarkable. We'll begin our studies at once. Thanks.&lt;br&gt;[ES] Hay una energ&amp;#237;a, de hecho una pureza, dentro de esta flor.&lt;BR&gt;&lt;BR&gt;Notable. Empezaremos nuestros estudios de inmediato. Gracias.</Page>
+    </Text>
+</QuestDialog>

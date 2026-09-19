@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1026">
+        <Page social="5">[EN] Pirates, those Red Lash Pirates, take Dirken lightly. If they entrusted Dirken with Cutthroat Harbor, they should've left it at that. Why are they trying to meddle with his affairs? If not by words, by blood. That's how problems get resolved around here.&lt;BR&gt;&lt;BR&gt;If you go to Jagged Coast, you'll see the {@LinkCreature:12#22#Red Lash enforcers} wandering around. Kill them and get their eyes. That will be their warning. Oh! And bring them to {@LinkCreature:212#1002$$Sidara}.&lt;br&gt;[ES] Los piratas, esos {@LinkCreature:12#22#Red Lash enforcers}, no toman en serio a Dirken. Si le confiaron Cutthroat Harbor a Dirken, debieron dejarlo as&amp;#237;. &amp;#191;Por qu&amp;#233; intentan meterse en sus asuntos? Si no es con palabras, ser&amp;#225; con sangre. As&amp;#237; es como se resuelven los problemas por aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Si vas a Jagged Coast, ver&amp;#225;s a los {@LinkCreature:12#22#Red Lash enforcers} deambulando por ah&amp;#237;. M&amp;#225;talos y consigue sus ojos. Esa ser&amp;#225; su advertencia. &amp;#161;Ah! Y ll&amp;#233;valos con {@LinkCreature:212#1002$$Sidara}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="4">[EN] These are...Dirken's tokens? Well, it's certainly one method of establishing dominance.&lt;BR&gt;&lt;BR&gt;Well, a job well done nevertheless.&lt;br&gt;[ES] &amp;#191;Estos son... los tokens de Dirken? Bueno, sin duda es un m&amp;#233;todo para establecer dominio.&lt;BR&gt;&lt;BR&gt;Bueno, un trabajo bien hecho a fin de cuentas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1002">
+        <Page social="0">[EN] What are you doing? Go get those pirates already!&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; est&amp;#225;s haciendo? &amp;#161;Ve a atrapar a esos piratas de una vez!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="5">[EN] Okay, I've made the potion according to the recipe's specifications.&lt;BR&gt;&lt;BR&gt;Bring it to {@LinkCreature:216#1010#Sadnica} and hope for the best.&lt;BR&gt;&lt;BR&gt;One way or the other, we won't have to worry about him anymore.&lt;BR&gt;&lt;BR&gt;Don't tell Alethea I said that.&lt;br&gt;[ES] Bien, he preparado la poci&amp;#243;n seg&amp;#250;n las especificaciones de la receta.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vasela a {@LinkCreature:216#1010#Sadnica} y cruza los dedos.&lt;BR&gt;&lt;BR&gt;De un modo u otro, ya no tendremos que preocuparnos por &amp;#233;l.&lt;BR&gt;&lt;BR&gt;No le digas a Alethea que dije esto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1023">
+        <Page social="4">[EN] Oh. Oh dear.&lt;BR&gt;&lt;BR&gt;Well, you did the best you could. No one can say otherwise.&lt;BR&gt;&lt;BR&gt;Do give my condolences to Alethea.&lt;br&gt;[ES] Oh. Oh, por Dios.&lt;BR&gt;&lt;BR&gt;Bueno, hiciste lo mejor que pudiste. Nadie puede decir lo contrario.&lt;BR&gt;&lt;BR&gt;Dale mis condolencias a Alethea.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" prevId="3" villagerId="1005">
+        <Page social="4">[EN] I see. So you tried to save him, but...I see.&lt;BR&gt;&lt;BR&gt;I can't ask for more than what you've done. Thank you.&lt;BR&gt;&lt;BR&gt;Can I have a moment alone?&lt;br&gt;[ES] Ya veo. As&amp;#237; que intentaste salvarlo, pero... ya veo.&lt;BR&gt;&lt;BR&gt;No puedo pedir m&amp;#225;s de lo que ya has hecho. Gracias.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedo estar un momento a solas?</Page>
+    </Text>
+</QuestDialog>

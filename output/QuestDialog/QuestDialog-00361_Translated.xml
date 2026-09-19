@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">[EN] Careful observation of the gorge reveals the demons that directly control the spirits. What a discovery!&lt;BR&gt;&lt;BR&gt;According to the scouts, the kariagons hold magical shackles with them. Those shackles need to be examined.&lt;BR&gt;&lt;BR&gt;Please retrieve the shackles from the {@LinkCreature:13#6#kariagons} and {@LinkCreature:13#300942#terron thralls}. They mostly appear on the southwest of Tainted Gorge.&lt;br&gt;[ES] Una cuidadosa observaci&amp;#243;n del desfiladero revela a los demonios que controlan directamente a los esp&amp;#237;ritus. &amp;#161;Qu&amp;#233; descubrimiento!&lt;BR&gt;&lt;BR&gt;Seg&amp;#250;n los exploradores, los kariagons llevan grilletes m&amp;#225;gicos consigo. Esos grilletes deben ser examinados.&lt;BR&gt;&lt;BR&gt;Por favor, recupera los grilletes de los {@LinkCreature:13#6#kariagons} y {@LinkCreature:13#300942#terron thralls}. Aparecen principalmente en el suroeste de Tainted Gorge.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">[EN] Already the roads are safer. Whatever the scions were doing with the enslaved spirits suffers for your success. But more than just this one victory is necessary for our goal.&lt;br&gt;[ES] Los caminos ya son m&amp;#225;s seguros. Lo que sea que los v&amp;#225;stagos estuvieran haciendo con los esp&amp;#237;ritus esclavizados sufre por tu &amp;#233;xito. Pero se necesita m&amp;#225;s que esta sola victoria para lograr nuestro objetivo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1025">
+        <Page social="0">[EN] The shackles are the key. No simple binding should enslave spirits so completely. Kill as many {@LinkCreature:13#6#kariagons} as is necessary to obtain them.&lt;br&gt;[ES] Los grilletes son la clave. Ninguna atadura simple deber&amp;#237;a esclavizar a los esp&amp;#237;ritus tan por completo. Mata a tantos {@LinkCreature:13#6#kariagons} como sea necesario para conseguirlos.</Page>
+    </Text>
+</QuestDialog>

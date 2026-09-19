@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="4" voiceTypeId="0">[EN] The argons are involved in Thulsa's plans at the most intimate level.&lt;BR&gt;&lt;BR&gt;When you kill them, &lt;PCNAME&gt;, pry out their cores. We can put those things to good use.&lt;br&gt;[ES] Los argons est&amp;#225;n involucrados en los planes de Thulsa al nivel m&amp;#225;s &amp;#237;ntimo.&lt;BR&gt;&lt;BR&gt;Cuando los mates, &lt;PCNAME&gt;, extrae sus n&amp;#250;cleos. Podemos dar buen uso a esas cosas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1033">
+        <Page social="4" voiceTypeId="0">[EN] Superb work. Thulsa's the current threat, but we can't let our eyes off the argons.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I thank you for your sacrifice. I will send these cores to the Mysterium for further research.&lt;br&gt;[ES] Excelente trabajo. Thulsa es la amenaza actual, pero no podemos quitarle los ojos de encima a los argons.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, te agradezco tu sacrificio. Enviar&amp;#233; estos n&amp;#250;cleos al Mysterium para investigarlos m&amp;#225;s a fondo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1033">
+        <Page social="0">[EN] Defeat the argons and bring me their cores.&lt;br&gt;[ES] Derrota a los argons y tr&amp;#225;eme sus n&amp;#250;cleos.</Page>
+    </Text>
+</QuestDialog>

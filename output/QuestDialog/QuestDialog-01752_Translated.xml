@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="6000">
+        <Page social="4" voiceTypeId="0">[EN] If you came to get Titus, I'll tell you the same thing I told the others. He the best engineer we have, and we're not sending him back to war!&lt;NEXTPAGEBUTTON&gt;"Please! For the Goddess's sake!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Si viniste por Titus, te dir&amp;#233; lo mismo que le dije a los dem&amp;#225;s. &amp;#161;&amp;#201;l es el mejor ingeniero que tenemos y no lo vamos a enviar de vuelta a la guerra!&lt;NEXTPAGEBUTTON&gt;"Please! For the Goddess's sake!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">[EN] For the Goddess? Hmm...alright. But we'll need something in return&lt;BR&gt;&lt;BR&gt;The Iron Thorn orcans hijacked our shipment of Pure Steel Ingots. You go and get that some back, and we'll let Titus go with you.&lt;BR&gt;&lt;BR&gt;If they're not keeping them in loot piles, they'll probably have the ingots on them.&lt;BR&gt;&lt;BR&gt;Orcans have poor organizational skills.&lt;NEXTPAGEBUTTON&gt;"Alright."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Por la Diosa? Mjum... de acuerdo. Pero necesitaremos algo a cambio.&lt;BR&gt;&lt;BR&gt;Los orcans de Iron Thorn se robaron nuestro cargamento de lingotes de acero puro. Ve a recuperar algunos y dejaremos que Titus se vaya contigo.&lt;BR&gt;&lt;BR&gt;Si no los guardan en montones de bot&amp;#237;n, probablemente lleven los lingotes encima.&lt;BR&gt;&lt;BR&gt;Los orcans tienen poca capacidad de organizaci&amp;#243;n.&lt;NEXTPAGEBUTTON&gt;"Alright."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="6000">
+        <Page social="4" voiceTypeId="0">[EN] Wow! You actually went and did it!&lt;BR&gt;&lt;BR&gt;I mean, I knew you could do it. Well done.&lt;BR&gt;&lt;BR&gt;I hereby give my consent to a temporary leave of absence for Titus. But I'm trusting you to bring him back in one piece!&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Vaya! &amp;#161;De verdad fuiste y lo hiciste!&lt;BR&gt;&lt;BR&gt;Digo, sab&amp;#237;a que pod&amp;#237;as hacerlo. Bien hecho.&lt;BR&gt;&lt;BR&gt;Por la presente doy mi consentimiento para un permiso de ausencia temporal para Titus. &amp;#161;Pero conf&amp;#237;o en que lo traer&amp;#225;s de vuelta sano y salvo!&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="6000">
+        <Page social="0">[EN] Look, even if it's for the Goddess, we can't just let him go without something in return.&lt;BR&gt;&lt;BR&gt;Get those ingots!&lt;br&gt;[ES] Mira, aunque sea por la Diosa, no podemos dejarlo ir sin algo a cambio.&lt;BR&gt;&lt;BR&gt;&amp;#161;Consigue esos lingotes!</Page>
+    </Text>
+</QuestDialog>

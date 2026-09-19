@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="4">[EN] They sent me down the eastern passageway on a recon mission, but I ran into the {@LinkCreature:11#3006#Red Lash berserkers} before I got very far.&lt;BR&gt;&lt;BR&gt;I can't sneak past them, and I can't kill them. I'm stuck.&lt;BR&gt;&lt;BR&gt;Can you tear through them&amp;#8212;just disrupt them for a while so I can do my recon? I hate to go back to base empty-handed.&lt;br&gt;[ES] Me enviaron por el pasaje oriental en una misi&amp;#243;n de reconocimiento, pero me encontr&amp;#233; con los {@LinkCreature:11#3006#Red Lash berserkers} antes de ir muy lejos.&lt;BR&gt;&lt;BR&gt;No puedo pasar desapercibido y no puedo matarlos. Estoy atrapado.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes abrirte paso entre ellos, solo perturbarlos un rato para que pueda hacer mi reconocimiento? Odio volver a la base con las manos vac&amp;#237;as.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1027">
+        <Page social="4">[EN] That's a lot of carnage, &lt;PCNAME&gt;. I'll head down there once the blood stops dripping.&lt;br&gt;[ES] Eso es mucha carnicer&amp;#237;a, &lt;PCNAME&gt;. Ir&amp;#233; all&amp;#237; abajo en cuanto deje de gotear sangre.</Page>
+    </Text>
+</QuestDialog>

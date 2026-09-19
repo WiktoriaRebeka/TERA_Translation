@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1008">
+        <Page social="6">[EN] We built this camp to investigate the lower reaches of the crypt...it seems a lifetime ago.&lt;BR&gt;&lt;BR&gt;But we can't continue on with our research because of the ravenous tyraks all over the place.&lt;BR&gt;&lt;BR&gt;Can you get rid of them?&lt;br&gt;[ES] Construimos este campamento para investigar los tramos inferiores de la cripta... parece que fue hace toda una vida.&lt;BR&gt;&lt;BR&gt;Pero no podemos continuar con nuestra investigaci&amp;#243;n debido a los voraces tyraks que hay por todas partes.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes deshacerte de ellos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1008">
+        <Page social="7">[EN] I'd heard rumors about what you could do, &lt;PCNAME&gt;! If we had an army of you, we'd clear out these crypts in no time.&lt;br&gt;[ES] &amp;#161;Hab&amp;#237;a o&amp;#237;do rumores sobre lo que pod&amp;#237;as hacer, &lt;PCNAME&gt;! Si tuvi&amp;#233;ramos un ej&amp;#233;rcito de ti, limpiar&amp;#237;amos estas criptas en un abrir y cerrar de ojos.</Page>
+    </Text>
+</QuestDialog>

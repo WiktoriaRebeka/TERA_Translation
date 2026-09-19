@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="1100">
+        <Page social="0">[EN] Naga pirates attack Intrepid, which sustains heavy damage, forcing the Vanguard Initiative to abandon ship.&lt;br&gt;[ES] Los piratas naga atacan el Intrepid, el cual sufre graves da&amp;#241;os, obligando a la Vanguard Initiative a abandonar el barco.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="1100">
+        <Page social="4">[EN] These naga are trying to steal the sky cruiser!&lt;BR&gt;&lt;BR&gt;They must have hid in some of the crates. Should have been more careful&amp;#8230;&lt;BR&gt;&lt;BR&gt;We have to defend the ship.&lt;br&gt;[ES] &amp;#161;Estos naga est&amp;#225;n tratando de robar el sky cruiser!&lt;BR&gt;&lt;BR&gt;Deben haberse escondido en algunas de las cajas. Debimos tener m&amp;#225;s cuidado...&lt;BR&gt;&lt;BR&gt;Tenemos que defender la nave.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="1100">
+        <Page social="4">[EN] I'll hold this position. We'll keep them from getting into the cargo hold.&lt;BR&gt;&lt;BR&gt;Help Zolyn repel these wretches and secure Intrepid's deck.&lt;br&gt;[ES] Mantendr&amp;#233; esta posici&amp;#243;n. Evitaremos que entren a la bodega de carga.&lt;BR&gt;&lt;BR&gt;Ayuda a Zolyn a repeler a estos miserables y asegura la cubierta del Intrepid.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1102">
+        <Page social="4">[EN] Naga scum!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! Do you see that ugly big one? He's in command.&lt;BR&gt;&lt;BR&gt;Think you can stop him?&lt;br&gt;[ES] &amp;#161;Esccoria naga!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! &amp;#191;Ves a ese feo grandul&amp;#243;n? &amp;#201;l est&amp;#225; al mando.&lt;BR&gt;&lt;BR&gt;&amp;#191;Crees que puedes detenerlo?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" prevId="4" villagerId="1102">
+        <Page social="4">[EN] Excellent!&lt;BR&gt;&lt;BR&gt;We're not done yet, though. I'll keep clearing the deck. Have you seen that furry idiot?&lt;NEXTPAGEBUTTON&gt;"I haven't."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Excelente!&lt;BR&gt;&lt;BR&gt;Sin embargo, a&amp;#250;n no hemos terminado. Seguir&amp;#233; despejando la cubierta. &amp;#191;Has visto a ese idiota peludo?&lt;NEXTPAGEBUTTON&gt;"I haven't."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] He barked something about a manifold near the bow.&lt;BR&gt;&lt;BR&gt;See if you can find him. His wrenches aren't as deadly as he thinks they are.&lt;br&gt;[ES] Ladr&amp;#243; algo sobre un m&amp;#250;ltiple cerca de la proa.&lt;BR&gt;&lt;BR&gt;Mira si puedes encontrarlo. Sus llaves inglesas no son tan mortales como &amp;#233;l cree.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" villagerId="7">
+        <Page social="0">[EN] We're in trouble!&lt;BR&gt;&lt;BR&gt;The nagas damaged the forward engines. Probably didn't know what they were doing.&lt;BR&gt;&lt;BR&gt;Dougal needs to evacuate the ship before it crashes. Hurry, help me reach him!&lt;br&gt;[ES] &amp;#161;Estamos en problemas!&lt;BR&gt;&lt;BR&gt;Los nagas da&amp;#241;aron los motores delanteros. Probablemente no sab&amp;#237;an lo que hac&amp;#237;an.&lt;BR&gt;&lt;BR&gt;Dougal necesita evacuar la nave antes de que se Estrelle. &amp;#161;Date prisa, ay&amp;#250;dame a llegar hasta &amp;#233;l!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="5" villagerId="1100">
+        <Page social="4">[EN] Paesyn! &lt;PCNAME&gt;! Thank Velik you're all right.&lt;NEXTPAGEBUTTON&gt;"Intrepid can't fly, sir!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Paesyn! &lt;PCNAME&gt;! &amp;#161;Gracias a Velik que est&amp;#225;s bien.&lt;NEXTPAGEBUTTON&gt;"Intrepid can't fly, sir!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Damn! She can't be saved?&lt;BR&gt;&lt;BR&gt;Very well. Use this horn. Order all hands to abandon the sky cruiser.&lt;br&gt;[ES] &amp;#161;Maldici&amp;#243;n! &amp;#191;No se puede salvar?&lt;BR&gt;&lt;BR&gt;Muy bien. Usa este cuerno. Ordena a toda la tripulaci&amp;#243;n que abandone el crucero a&amp;#233;reo.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="1100">
+        <Page social="4">[EN] That's enough.&lt;BR&gt;&lt;BR&gt;Let's go!&lt;br&gt;[ES] Eso es suficiente.&lt;BR&gt;&lt;BR&gt;&amp;#161;V&amp;#225;monos!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1000">
+        <Page social="4">[EN] &lt;PCNAME&gt;! Are you hurt? Do you still like me?&lt;BR&gt;&lt;BR&gt; I'm glad you're alive. Seren's blessings protected you, my friend!&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! &amp;#191;Est&amp;#225;s herido? &amp;#191;Todav&amp;#237;a te caigo bien?&lt;BR&gt;&lt;BR&gt; &amp;#161;Me alegro de que est&amp;#233;s vivo! &amp;#161;Las bendiciones de Seren te protegieron, amigo m&amp;#237;o!</Page>
+    </Text>
+</QuestDialog>

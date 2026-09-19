@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2105" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] Explore the passage and find Jelena.&lt;br&gt;[ES] Explora el pasaje y encuentra a Jelena.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] After you defeated Kalligar, Rogash appeared and spirited him away.&lt;BR&gt;&lt;BR&gt;You must find out what the Draakons are up to.&lt;br&gt;[ES] Despu&amp;#233;s de que derrotaste a Kalligar, Rogash apareci&amp;#243; y se lo llev&amp;#243;.&lt;BR&gt;&lt;BR&gt;Debes averiguar qu&amp;#233; se traen entre manos los Draakons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="10000">
+        <Page social="4" voiceTypeId="0">[EN] Are you ready?&lt;BR&gt;&lt;BR&gt;Let's go.&lt;br&gt;[ES] &amp;#191;Est&amp;#225;s listo?&lt;BR&gt;&lt;BR&gt;V&amp;#225;monos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2105" prevId="3" villagerId="10000">
+        <Page social="4" voiceTypeId="0">[EN] Did you feel that too?&lt;BR&gt;&lt;BR&gt;It's him!&lt;BR&gt;&lt;BR&gt;It's time to take our vengeance.&lt;BR&gt;&lt;BR&gt;Hurry!&lt;br&gt;[ES] &amp;#191;Tambi&amp;#233;n sentiste eso?&lt;BR&gt;&lt;BR&gt;&amp;#161;Es &amp;#233;l!&lt;BR&gt;&lt;BR&gt;Es hora de cobrar nuestra venganza.&lt;BR&gt;&lt;BR&gt;&amp;#161;Date prisa!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2105" prevId="4" villagerId="10100">
+        <Page social="4" voiceTypeId="0">[EN] Damn it!&lt;BR&gt;We couldn't finish him.&lt;BR&gt;&lt;BR&gt;I'll go after Rogash.&lt;BR&gt;&lt;BR&gt;I&amp;#8217;ll do whatever it takes to get revenge.&lt;BR&gt;You go and report back to Dougal.&lt;BR&gt;&lt;BR&gt;I don't know what they&amp;#8217;re up to, but they&amp;#8217;re definitely doing something with the core.&lt;br&gt;[ES] &amp;#161;Maldici&amp;#243;n!&lt;BR&gt;No pudimos terminar con &amp;#233;l.&lt;BR&gt;&lt;BR&gt;Ir&amp;#233; tras Rogash.&lt;BR&gt;&lt;BR&gt;Har&amp;#233; lo que sea necesario para vengarme.&lt;BR&gt;Ve y pres&amp;#233;ntale un informe a Dougal.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; qu&amp;#233; est&amp;#225;n tramando, pero definitivamente est&amp;#225;n haciendo algo con el n&amp;#250;cleo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2000" prevId="5" villagerId="50000">
+        <Page social="4" voiceTypeId="0">[EN] This is disturbing news, &lt;pcname&gt;. &lt;BR&gt;&lt;BR&gt;We need to know more about what's going on.&lt;BR&gt;&lt;BR&gt;We may even need help from Free Exodor!&lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;. Head back to Jelena and gather whatever information you can.&lt;BR&gt;&lt;BR&gt;I'll call you when I need you.&lt;br&gt;[ES] Esta es una noticia inquietante, &lt;pcname&gt;. &lt;BR&gt;&lt;BR&gt;Necesitamos saber m&amp;#225;s sobre lo que est&amp;#225; pasando.&lt;BR&gt;&lt;BR&gt;&amp;#161;Quiz&amp;#225;s incluso necesitemos ayuda de Free Exodor!&lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;. Regresa con Jelena y recopila toda la informaci&amp;#243;n que puedas.&lt;BR&gt;&lt;BR&gt;Te llamar&amp;#233; cuando te necesite.</Page>
+    </Text>
+</QuestDialog>

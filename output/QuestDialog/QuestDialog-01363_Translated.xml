@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1013">
+        <Page social="4">[EN] You going out there?&lt;BR&gt;&lt;BR&gt;Our volunteer scout, Jabran, is overdue. I sent him to find the leader of the runekeepers.&lt;BR&gt;&lt;BR&gt;Little hairball's probably dead, so his mission's yours. Find and kill the head runekeeper.&lt;BR&gt;&lt;BR&gt;And if you find Jabran's body, bring it back here.&lt;br&gt;[ES] &amp;#191;Vas a salir ah&amp;#237; fuera?&lt;BR&gt;&lt;BR&gt;Jabran, nuestro explorador voluntario, se retrasa. Lo envi&amp;#233; a buscar al l&amp;#237;der de los guardianes de runas.&lt;BR&gt;&lt;BR&gt;Probablemente el peque&amp;#241;o peludo est&amp;#233; muerto, as&amp;#237; que su misi&amp;#243;n es tuya. Encuentra y mata al l&amp;#237;der de los guardianes de runas.&lt;BR&gt;&lt;BR&gt;Y si encuentras el cuerpo de Jabran, tr&amp;#225;elo de vuelta aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1020">
+        <Page social="4">[EN] Hey! You down from Blackspring? I was on the way back there when I ran across these ghostly horrors here. Stopped to take a look.&lt;BR&gt;&lt;BR&gt;Hah! I knew Selia was sweet on me! Almost feel guilty makin' her worry.&lt;BR&gt;&lt;BR&gt;Almost.&lt;br&gt;[ES] &amp;#161;Oye! &amp;#191;Bajando de Blackspring? Iba de regreso cuando me top&amp;#233; con estos horrores espectrales aqu&amp;#237;. Me detuve a echar un vistazo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ja! &amp;#161;Sab&amp;#237;a que Selia me ten&amp;#237;a cari&amp;#241;o! Casi me siento culpable por hacer que se preocupe.&lt;BR&gt;&lt;BR&gt;Casi.</Page>
+    </Text>
+</QuestDialog>

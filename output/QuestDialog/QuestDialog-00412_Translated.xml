@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1015">
+        <Page social="5">[EN] Brohua looks so nervous. I've tried to cheer him up, but he's in a mood. Could you talk to him for me?&lt;br&gt;[ES] Brohua se ve muy nervioso. He intentado animarlo, pero est&amp;#225; de mal humor. &amp;#191;Podr&amp;#237;as hablar con &amp;#233;l por m&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1019">
+        <Page social="5">[EN] I know, I'm seeing things.&lt;BR&gt;&lt;BR&gt;I used to be able to blank him out, but now you're seeing him too! He looks just like me!&lt;BR&gt;&lt;BR&gt;I'm just ashamed my delusion's so narcissistic.&lt;br&gt;[ES] Lo s&amp;#233;, estoy viendo cosas.&lt;BR&gt;&lt;BR&gt;Sol&amp;#237;a poder ignorarlo, &amp;#161;pero ahora t&amp;#250; tambi&amp;#233;n lo ves! &amp;#161;Se ve exactamente igual a m&amp;#237;!&lt;BR&gt;&lt;BR&gt;Solo me averg&amp;#252;enza que mi delirio sea tan narcisista.</Page>
+    </Text>
+</QuestDialog>

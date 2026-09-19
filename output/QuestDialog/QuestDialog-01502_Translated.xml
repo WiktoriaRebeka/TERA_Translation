@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="62" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0">[EN] The next step is to process an essence into a silex. Here, I'll give you an essence. Try for yourself.&lt;br&gt;[ES] El siguiente paso es procesar una esencia en un s&amp;#237;lex. Toma, te dar&amp;#233; una esencia. Int&amp;#233;ntalo t&amp;#250; mismo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1606">
+        <Page social="0">[EN] You're doing well. I'll give you back your silex. Now, let's get you a design and move on.&lt;br&gt;[ES] Lo est&amp;#225;s haciendo bien. Te devolver&amp;#233; tu s&amp;#237;lex. Ahora, consigamos un dise&amp;#241;o y pasemos a lo siguiente.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" villagerId="1606">
+        <Page social="0">[EN] Have you finished crushing those scarabs?&lt;br&gt;[ES] &amp;#191;Has terminado de aplastar a esos escarabajos?</Page>
+    </Text>
+</QuestDialog>

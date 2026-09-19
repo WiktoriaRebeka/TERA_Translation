@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1009">
+        <Page social="5">[EN] You're going to the Temple of Dagon, right? Keep your eyes open for any adderfungus. Odrun, on the first level, uses them to make antidotes against the nagas' poison. The mushrooms grow throughout the temple.&lt;BR&gt;&lt;BR&gt;Thanks, &lt;PCNAME&gt;. Odrun will be happy to get more mushrooms. And you'll be saving lives.&lt;br&gt;[ES] Vas al Temple of Dagon, &amp;#191;verdad? Mant&amp;#233;n los ojos abiertos por cualquier adderfungus. Odrun, en el primer nivel, los usa para hacer ant&amp;#237;dotos contra el veneno de los nagas. Los hongos crecen por todo el templo.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;. Odrun se alegrar&amp;#225; de conseguir m&amp;#225;s hongos. Y estar&amp;#225;s salvando vidas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1037">
+        <Page social="5">[EN] This will make quite a lot of the antidote.&lt;BR&gt;&lt;BR&gt;I'm happy you came here, &lt;PCNAME&gt;. So few truly understand the importance of my work.&lt;br&gt;[ES] Esto servir&amp;#225; para hacer una gran cantidad de ant&amp;#237;doto.&lt;BR&gt;&lt;BR&gt;Me alegra que hayas venido aqu&amp;#237;, &lt;PCNAME&gt;. Muy pocos comprenden realmente la importancia de mi trabajo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1037">
+        <Page social="0">[EN] I hope you'll find some adderfungus soon&amp;#8212;we're running dangerously low on naga venom antidote.&lt;br&gt;[ES] Espero que encuentres algo de adderfungus pronto; nos estamos quedando peligrosamente sin ant&amp;#237;doto para el veneno naga.</Page>
+    </Text>
+</QuestDialog>

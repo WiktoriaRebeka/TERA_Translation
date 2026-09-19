@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="4">[EN] You're the new &lt;PCCLASS:lcase&gt;, eh?&lt;BR&gt;&lt;BR&gt;Good&amp;#8212;I need your help. I ran out of materials to make magic paper, which we use to record observations when our hands are too occupied to write.&lt;BR&gt;&lt;BR&gt;To make more paper, we need lard wood. And we obtain it&amp;#8212;yes, the hard way&amp;#8212;from forest guardians and shamans in Bluefirst Mountain.&lt;BR&gt;&lt;BR&gt;Go, go, go! I need lard wood immediately!&lt;br&gt;[ES] Eres el nuevo &lt;PCCLASS:lcase&gt;, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Bien, necesito tu ayuda. Me qued&amp;#233; sin materiales para hacer papel m&amp;#225;gico, el cual usamos para registrar observaciones cuando tenemos las manos demasiado ocupadas para escribir.&lt;BR&gt;&lt;BR&gt;Para hacer m&amp;#225;s papel, necesitamos madera de grasa. Y la obtenemos &amp;#8212;s&amp;#237;, por las malas&amp;#8212; de los guardianes del bosque y chamanes en Bluefirst Mountain.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ve, ve, ve! &amp;#161;Necesito madera de grasa de inmediato!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="4">[EN] Faster than I thought, &lt;PCCLASS:lcase&gt;. I'm impressed.&lt;BR&gt;&lt;BR&gt;We're always going to need magic paper, and thus we're always going to need lard wood. Keep that in mind when you visit us.&lt;br&gt;[ES] M&amp;#225;s r&amp;#225;pido de lo que pensaba, &lt;PCCLASS:lcase&gt;. Estoy impresionado.&lt;BR&gt;&lt;BR&gt;Siempre vamos a necesitar papel m&amp;#225;gico y, por lo tanto, siempre vamos a necesitar madera de grasa. Ten eso en cuenta cuando nos visites.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1703">
+        <Page social="0">[EN] Without magic paper, my&amp;#8212;I mean, "our"&amp;#8212;brilliance will be unrecorded! Fetch some straightaway.&lt;br&gt;[ES] &amp;#161;Sin papel m&amp;#225;gico, mi &amp;#8212;digo, &quot;nuestra&quot;&amp;#8212; brillantez quedar&amp;#225; sin registrar! Ve a buscar un poco de inmediato.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">[EN] One of my old foes is in there.&lt;BR&gt;&lt;BR&gt;Marineu, an argon iknephar, is leading Killian's argon contingent. We've fought him in Val Kaeli&amp;#8212;a wily, powerful opponent.&lt;BR&gt;&lt;BR&gt;If you can corner him, kill him. I'll sleep better for it.&lt;br&gt;[ES] Uno de my antiguos enemigos est&amp;#225; all&amp;#237; dentro.&lt;BR&gt;&lt;BR&gt;Marineu, un argon iknephar, encabeza el contingente argon de Killian. Hemos luchado contra &amp;#233;l en Val Kaeli; es un oponente astuto y poderoso.&lt;BR&gt;&lt;BR&gt;Si puedes arrinconarlo, m&amp;#225;talo. Dormir&amp;#233; mejor por ello.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">[EN] Excellent! This is a victory long in coming.&lt;BR&gt;&lt;BR&gt;I wish I'd been the one to kill him, but no matter.&lt;br&gt;[ES] &amp;#161;Excelente! Esta es una victoria que tard&amp;#243; en llegar.&lt;BR&gt;&lt;BR&gt;Desear&amp;#237;a haber sido yo quien lo matara, pero no importa.</Page>
+    </Text>
+</QuestDialog>

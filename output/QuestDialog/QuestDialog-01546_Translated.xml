@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="2029">
+        <Page social="0">[EN] While chasing Mihog, you learned the demokrons actually were Parthians, transformed via cruel experiments. Enraged, the Khirian commander Rhodos swore revenge.&lt;br&gt;[ES] Mientras persegu&amp;#237;as a Mihog, te enteraste de que los demokrons en realidad eran Parthians, transformados a trav&amp;#233;s de crueles experimentos. Enfurecido, el comandante khirian Rhodos jur&amp;#243; venganza.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="2029">
+        <Page social="1" voiceTypeId="0">[EN] (This barrel is too neat compared to the dusty barrels around. And someone seems to have moved it recently.)&lt;NEXTPAGEBUTTON&gt;Move the barrel&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] (Este barril est&amp;#225; demasiado ordenado en comparaci&amp;#243;n con los barriles polvorientos de alrededor. Y parece que alguien lo ha movido recientemente.)&lt;NEXTPAGEBUTTON&gt;Move the barrel&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="822" prevId="2" villagerId="2003">
+        <Page social="1" voiceTypeId="0">[EN] Archdevan sorcerer? She ran right past me, with Zolyn and the popori right behind her!&lt;NEXTPAGEBUTTON&gt;"Okay, thanks."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Hechicera archdeva? &amp;#161;Pas&amp;#243; corriendo junto a m&amp;#237;, con Zolyn y el popori justo detr&amp;#225;s de ella!&lt;NEXTPAGEBUTTON&gt;"Okay, thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="822" prevId="3" villagerId="2012">
+        <Page social="1" voiceTypeId="0">[EN] Zolyn went after her. If you hurry, you can catch up to her and kill that damned archdeva!&lt;NEXTPAGEBUTTON&gt;"What about Rhodos?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Zolyn fue tras ella. Si te apresuras, &amp;#161;puedes alcanzarla y matar a esa maldita archdeva!&lt;NEXTPAGEBUTTON&gt;"What about Rhodos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">[EN] I'll talk to Rhodos...calm him down. You worry about the archdevan sorcerer!&lt;NEXTPAGEBUTTON&gt;"Consider it done!"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Hablar&amp;#233; con Rhodos... lo calmar&amp;#233;. &amp;#161;T&amp;#250; preoc&amp;#250;pate por la hechicera archdeva!&lt;NEXTPAGEBUTTON&gt;"Consider it done!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2010">
+        <Page social="1" voiceTypeId="0">[EN] This overcautious buffoon suspected a trap and wouldn't let me get by! Now we've lost the archdevan sorcerer's trail.&lt;NEXTPAGEBUTTON&gt;"Don't blame him too much."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Este buf&amp;#243;n hiperprudente sospechaba de una trampa y no me dejaba pasar! &amp;#161;Ahora hemos perdido el rastro de la hechicera archdeva.&lt;NEXTPAGEBUTTON&gt;"Don't blame him too much."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

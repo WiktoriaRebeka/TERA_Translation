@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1100">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1100">
+        <Page social="4">[EN] Atel Akaad brought a shipment in, but a {@LinkCreature:39#200#clawrider overseer} attacked me before the shipment could be intercepted. They're too strong for a mere arcanist.&lt;BR&gt;&lt;BR&gt;If &lt;PCNAME&gt; could get it out of my way....&lt;br&gt;[ES] Atel Akaad trajo un cargamento, pero un {@LinkCreature:39#200#clawrider overseer} me atac&amp;#243; antes de que el cargamento pudiera ser interceptado. Son demasiado fuertes para un simple arcanist.&lt;BR&gt;&lt;BR&gt;Si &lt;PCNAME&gt; pudiera quitarlo de mi camino...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1100">
+        <Page social="4">[EN] You have my gratitude, &lt;PCNAME&gt;. Many thanks.&lt;br&gt;[ES] Tienes mi gratitud, &lt;PCNAME&gt;. Muchas gracias.</Page>
+    </Text>
+</QuestDialog>

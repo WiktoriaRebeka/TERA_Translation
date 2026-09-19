@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="5" voiceTypeId="0">[EN] A good merchant knows how to turn a profit. I got great leather from an adventurer that came through here not so long ago.&lt;BR&gt;&lt;BR&gt;Made great gloves out of it&amp;#8212;the woodcutters just loved them.&lt;NEXTPAGEBUTTON&gt;"Neat."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Un buen comerciante sabe c&amp;#243;mo obtener ganancias. Consegu&amp;#237; un cuero excelente de un aventurero que pas&amp;#243; por aqu&amp;#237; hace poco.&lt;BR&gt;&lt;BR&gt;Hice unos guantes estupendos con &amp;#233;l; a los le&amp;#241;adores les encantaron.&lt;NEXTPAGEBUTTON&gt;"Neat."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] Yes. I tried to get more of that leather to make more of those gloves, but I can't take down the animal that bears it.&lt;BR&gt;&lt;BR&gt;If you can head into that cave with all those cultists and pick up some of that leather for me, I'll pay you very well.&lt;br&gt;[ES] S&amp;#237;. Intent&amp;#233; conseguir m&amp;#225;s de ese cuero para hacer m&amp;#225;s de esos guantes, pero no puedo derrotar al animal que lo lleva.&lt;BR&gt;&lt;BR&gt;Si puedes ir a esa cueva con todos esos cultistas y conseguir algo de ese cuero para m&amp;#237;, te pagar&amp;#233; muy bien.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1022">
+        <Page social="5" voiceTypeId="0">[EN] You've brought so much leather! Thank you! This is exactly the sort of thing I'll need.&lt;br&gt;[ES] &amp;#161;Has tra&amp;#237;do much&amp;#237;simo cuero! &amp;#161;Gracias! Esto es exactamente el tipo de cosas que necesitar&amp;#233;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1022">
+        <Page social="0">[EN] I really need to get that leather. Please help me out.&lt;br&gt;[ES] De verdad necesito conseguir ese cuero. Por favor, ay&amp;#250;dame.</Page>
+    </Text>
+</QuestDialog>

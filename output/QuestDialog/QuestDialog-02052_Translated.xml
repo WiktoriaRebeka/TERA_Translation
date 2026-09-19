@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="1023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1023" prevId="0" villagerId="40009617">
+        <Page social="0">[EN] Hello, collector! You came to the right place.&lt;BR&gt;I know you want a valuable card from my collection. But you'll have to work hard!&lt;BR&gt;&lt;BR&gt;I will give you one card&amp;#8212;"Honor and Glory"&amp;#8212;from my collection, if you bring me 100 pieces of card dust.&lt;BR&gt;&lt;BR&gt;My partner will leave a message in the calendar, where you can find out how to go about collecting card dust.&lt;br&gt;[ES] &amp;#161;Hola, coleccionista! Has venido al lugar correcto.&lt;BR&gt;S&amp;#233; que quieres una tarjeta valiosa de mi colecci&amp;#243;n. &amp;#161;Pero tendr&amp;#225;s que trabajar duro!&lt;BR&gt;&lt;BR&gt;Te dar&amp;#233; una tarjeta&amp;#8212;&quot;Honor and Glory&quot;&amp;#8212;de mi colecci&amp;#243;n, si me traes 100 piezas de polvo de tarjeta.&lt;BR&gt;&lt;BR&gt;Mi compa&amp;#241;ero dejar&amp;#225; un mensaje en el calendario, donde podr&amp;#225;s averiguar c&amp;#243;mo recolectar polvo de tarjeta.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1023" prevId="0" villagerId="40009617">
+        <Page social="4">[EN] You did a great job!&lt;BR&gt;Nice to work with you! Here's your reward.&lt;br&gt;[ES] &amp;#161;Hiciste un gran trabajo!&lt;BR&gt;&amp;#161;Un placer trabajar contigo! Aqu&amp;#237; tienes tu recompensa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1023" prevId="2" villagerId="40009617">
+        <Page social="4">[EN] That's not enough card dust!&lt;BR&gt;&lt;BR&gt;You need to gather 100 Card Dust to get the reward!&lt;br&gt;[ES] &amp;#161;Eso no es suficiente polvo de tarjeta!&lt;BR&gt;&lt;BR&gt;&amp;#161;Necesitas reunir 100 Card Dust para obtener la recompensa!</Page>
+    </Text>
+</QuestDialog>

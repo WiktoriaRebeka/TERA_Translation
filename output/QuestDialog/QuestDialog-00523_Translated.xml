@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1012">
+        <Page social="4">[EN] I cannot figure out what's going on here. There's too much to keep track of.&lt;BR&gt;&lt;BR&gt;I don't know what they're doing, but get rid of the {@LinkCreature:20#30143000#Lokian ebonweavers} and {@LinkCreature:20#30140000#Lokian blood mages}.&lt;BR&gt;&lt;BR&gt;Whatever they're doing, it's nothing good. Bring back any research materials you find.&lt;br&gt;[ES] No logro averiguar qu&amp;#233; est&amp;#225; pasando aqu&amp;#237;. Hay demasiadas cosas que seguir.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; qu&amp;#233; est&amp;#225;n haciendo, pero deshazte de los {@LinkCreature:20#30143000#Lokian ebonweavers} y {@LinkCreature:20#30140000#Lokian blood mages}.&lt;BR&gt;&lt;BR&gt;Est&amp;#233;n haciendo lo que est&amp;#233;n haciendo, no es nada bueno. Trae cualquier material de investigaci&amp;#243;n que encuentres.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1012">
+        <Page social="4">[EN] A journal, huh? Research processes and results? I'll send this to Arthgal right away. He'll want to get it off to Velika.&lt;BR&gt;&lt;BR&gt;Good job getting this!&lt;br&gt;[ES] &amp;#191;Un diario, eh? &amp;#191;Procesos de investigaci&amp;#243;n y resultados? Se lo enviar&amp;#233; a Arthgal de inmediato. Querr&amp;#225; envi&amp;#225;rselo a Velika.&lt;BR&gt;&lt;BR&gt;&amp;#161;Buen trabajo al conseguir esto!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1012">
+        <Page social="0">[EN] I hate not knowing what's going on. If you bring back the research materials, then I'll finally know!&lt;br&gt;[ES] Odio no saber qu&amp;#233; est&amp;#225; pasando. Si traes los materiales de investigaci&amp;#243;n, &amp;#161;por fin lo sabr&amp;#233;!</Page>
+    </Text>
+</QuestDialog>

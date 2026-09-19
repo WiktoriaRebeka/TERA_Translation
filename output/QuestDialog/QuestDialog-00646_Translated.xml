@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="4">[EN] I have a highly confidential mission for you. I need you to find someone: Jacobi.&lt;NEXTPAGEBUTTON&gt;"Where can I find him?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Tengo una misi&amp;#243;n altamente confidencial para ti. Necesito que encuentres a alguien: Jacobi.&lt;NEXTPAGEBUTTON&gt;"Where can I find him?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Do you see the waterway outside? There's a secret passage beside it. He's hiding there. Be discreet.&lt;br&gt;[ES] &amp;#191;Ves el curso de agua afuera? Hay un pasaje secreto a su lado. Est&amp;#225; escondido ah&amp;#237;. S&amp;#233; discreto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1028">
+        <Page social="4">[EN] Rendalf sent you? You must be here to help my investigation. I've been waiting for someone.&lt;br&gt;[ES] &amp;#191;Te mand&amp;#243; Rendalf? Debes estar aqu&amp;#237; para ayudar con mi investigaci&amp;#243;n. He estado esperando a alguien.</Page>
+    </Text>
+</QuestDialog>

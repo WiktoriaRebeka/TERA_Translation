@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="4">[EN] The researchers in the {@Rgn:46016} keep running into research obstacles of the argon variety.&lt;BR&gt;&lt;BR&gt;We're trying to identify weaknesses in the argons, but our researchers are scholars, not venators. They're not trained for battle.&lt;BR&gt;&lt;BR&gt;Head over there and meet with Ashinne. She'll know how you can help.&lt;br&gt;[ES] Los investigadores en {@Rgn:46016} siguen encontrando obst&amp;#225;culos de investigaci&amp;#243;n relacionados con los argon.&lt;BR&gt;&lt;BR&gt;Intentamos identificar las debilidades de los argon, pero nuestros investigadores son acad&amp;#233;micos, no venators. No est&amp;#225;n entrenados para la batalla.&lt;BR&gt;&lt;BR&gt;Ve para all&amp;#225; y re&amp;#250;nete con Ashinne. Ella sabr&amp;#225; c&amp;#243;mo puedes ayudar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="4">[EN] The Invalesco welcomes all assistance.&lt;BR&gt;&lt;BR&gt;We mostly need the forceful acquisition of research materials. Sometimes we'll need samples from argonomorph {@LinkCreature:46#301#sikandaris}, {@LinkCreature:46#303#blood fiends}, or {@LinkCreature:46#304#jalmaraks}.&lt;BR&gt;&lt;BR&gt;Research needs change from day to day. Try to roll with them.&lt;br&gt;[ES] Invalesco agradece toda ayuda posible.&lt;BR&gt;&lt;BR&gt;Principalmente necesitamos la adquisici&amp;#243;n contundente de materiales de investigaci&amp;#243;n. A veces necesitaremos muestras de {@LinkCreature:46#301#sikandaris} argonomorfos, {@LinkCreature:46#303#blood fiends} o {@LinkCreature:46#304#jalmaraks}.&lt;BR&gt;&lt;BR&gt;Las necesidades de investigaci&amp;#243;n cambian d&amp;#237;a a d&amp;#237;a. Intenta adaptarte a ellas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="4">[EN] Oh, look! Contaminated feathers from {@LinkCreature:46#301#argonomorph sikandaris}. Fine examples, too.&lt;BR&gt;&lt;BR&gt;These specimens quicken this scholar's heart!&lt;br&gt;[ES] &amp;#161;Oh, mira! Plumas contaminadas de {@LinkCreature:46#301#argonomorph sikandaris}. Y vaya ejemplares tan finos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Estos espec&amp;#237;menes le alegran el coraz&amp;#243;n a este acad&amp;#233;mico!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" villagerId="3003">
+        <Page social="0">[EN] We're curious about the {@LinkCreature:46#301#argonomorph sikandaris} found in the {@Rgn:46008}.&lt;BR&gt;&lt;BR&gt;We'd like to study their feathers.&lt;br&gt;[ES] Tenemos curiosidad por los {@LinkCreature:46#301#argonomorph sikandaris} que se encuentran en {@Rgn:46008}.&lt;BR&gt;&lt;BR&gt;Nos gustar&amp;#237;a estudiar sus plumas.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="7" villagerId="3003">
+        <Page social="4">[EN] Such a stench!&lt;BR&gt;&lt;BR&gt;We really shouldn't complain since we ordered the hearts, but...&lt;BR&gt;&lt;BR&gt;Ah, the sacrifices we make in the pursuit of knowledge.&lt;br&gt;[ES] &amp;#161;Qu&amp;#233; pestilencia!&lt;BR&gt;&lt;BR&gt;Realmente no deber&amp;#237;amos quejarnos ya que fuimos nosotros quienes pedimos los corazones, pero...&lt;BR&gt;&lt;BR&gt;Ah, los sacrificios que hacemos en la b&amp;#250;squeda del conocimiento.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" villagerId="3003">
+        <Page social="0">[EN] We wish to examine the hearts from {@LinkCreature:46#303#argonomorph blood fiends}. To transform such a twisted creature, we're certain to learn something astonishing.&lt;br&gt;[ES] Deseamos examinar los corazones de los {@LinkCreature:46#303#argonomorph blood fiends}. Al transformar a una criatura tan retorcida, seguro que aprenderemos algo asombroso.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="246" prevId="9" villagerId="3003">
+        <Page social="4">[EN] Intriguing.&lt;BR&gt;&lt;BR&gt;Their foci appear active, but not in the same way as one might find in Sylvanoth, for example.&lt;BR&gt;&lt;BR&gt;We'll look into this further. Thank you.&lt;br&gt;[ES] Fascinante.&lt;BR&gt;&lt;BR&gt;Sus focos parecen activos, pero no de la misma manera que uno podr&amp;#237;a encontrar en Sylvanoth, por ejemplo.&lt;BR&gt;&lt;BR&gt;Investigaremos esto m&amp;#225;s a fondo. Gracias.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="246" villagerId="3003">
+        <Page social="0">[EN] There's a group of {@LinkCreature:46#304#argonomorph jalmaraks} in the {@Rgn:46007}.&lt;BR&gt;&lt;BR&gt;We're curious to discern to what extent their link to their fey heritage survived the transformation. Please bring us their foci.&lt;br&gt;[ES] Hay un grupo de {@LinkCreature:46#304#argonomorph jalmaraks} en {@Rgn:46007}.&lt;BR&gt;&lt;BR&gt;Tenemos curiosidad por saber hasta qu&amp;#233; punto su v&amp;#237;nculo con su herencia fey sobrevivi&amp;#243; a la transformaci&amp;#243;n. Por favor, tr&amp;#225;enos sus focos.</Page>
+    </Text>
+</QuestDialog>

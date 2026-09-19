@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3035" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="3035" prevId="0" villagerId="1001">
+        <Page social="0">[EN] Here, I'll help you become a true hero.&lt;br&gt;[ES] Aqu&amp;#237; tienes, te ayudar&amp;#233; a convertirte en un verdadero h&amp;#233;roe.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Before you can forge your legend, you must finish your training in Velik's Sanctum.&lt;br&gt;[ES] Antes de que puedas forjar tu leyenda, debes terminar tu entrenamiento en Velik's Sanctum.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3035" prevId="1" villagerId="1001">
+        <Page social="0">[EN] Before you can forge your legend, you must finish your training here.&lt;BR&gt;Let's start with how to level up and equip gear.&lt;br&gt;[ES] Antes de que puedas forjar tu leyenda, debes terminar tu entrenamiento aqu&amp;#237;.&lt;BR&gt;Comencemos con c&amp;#243;mo subir de nivel y equipar equipo.</Page>
+    </Text>
+</QuestDialog>

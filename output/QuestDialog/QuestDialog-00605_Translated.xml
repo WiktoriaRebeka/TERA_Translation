@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1001">
+        <Page social="5">[EN] I received a report of smoke rising from Aurum Road. Check with Fayza at the northwest gate and see if she can confirm.&lt;br&gt;[ES] Recib&amp;#237; un informe sobre humo elev&amp;#225;ndose desde la Aurum Road. Comprueba con Fayza en la puerta noroeste si puede confirmarlo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1014">
+        <Page social="4">[EN] Smoke? Who said smoke?&lt;BR&gt;&lt;BR&gt;Baruch is a good captain, but between you and me, learning a few things about Val Aureum would do him some good. We don't exactly get forest fires.&lt;BR&gt;&lt;BR&gt;Something was stirring up a dust cloud in that direction, though, now that you mention it. Would you go check with {@LinkCreature:224#1005#Veltana} at the West Watchpost?&lt;br&gt;[ES] &amp;#191;Humo? &amp;#191;Qui&amp;#233;n dijo humo?&lt;BR&gt;&lt;BR&gt;Baruch es un buen capit&amp;#225;n, pero entre t&amp;#250; y yo, aprender un par de cosas sobre Val Aureum le vendr&amp;#237;a muy bien. No es exactamente que tengamos incendios forestales.&lt;BR&gt;&lt;BR&gt;Ahora que lo mencionas, algo estaba levantando una nube de polvo en esa direcci&amp;#243;n. &amp;#191;Ir&amp;#237;as a ver a {@LinkCreature:224#1005#Veltana} en el West Watchpost?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" prevId="3" villagerId="1005">
+        <Page social="5">[EN] Reinforcements! I'm so glad you're here. I've been asking for support forever.&lt;BR&gt;&lt;BR&gt;Sand? We got. Dust? We got.&lt;BR&gt;&lt;BR&gt;Look around. It's soldiers we don't got.&lt;br&gt;[ES] &amp;#161;Refuerzos! Me alegra tanto que est&amp;#233;s aqu&amp;#237;. He estado pidiendo apoyo desde siempre.&lt;BR&gt;&lt;BR&gt;&amp;#191;Arena? Tenemos. &amp;#191;Polvo? Tenemos.&lt;BR&gt;&lt;BR&gt;Mira a tu alrededor. Lo que no tenemos son soldados.</Page>
+    </Text>
+</QuestDialog>

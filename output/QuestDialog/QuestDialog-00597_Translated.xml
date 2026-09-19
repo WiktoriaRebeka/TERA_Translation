@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="5">[EN] I just read a disturbing report about {@LinkCreature:23#18#vampir} and {@LinkCreature:23#24$$popori insurgents} aiding the rebels.&lt;BR&gt;&lt;BR&gt;The vampir aristocrats have never taken sides in kingdom politics. This is a bad sign, and one we must crush.&lt;BR&gt;&lt;BR&gt;Eliminate the insurgents near Spirit Outpost. Hopefully, the other vampirs will get the message.&lt;br&gt;[ES] Acabo de leer un informe preocupante sobre {@LinkCreature:23#18#vampir} y los insurgentes de {@LinkCreature:23#24$$popori} que ayudan a los rebeldes.&lt;BR&gt;&lt;BR&gt;Los arist&amp;#243;cratas vampir nunca han tomado partido en la pol&amp;#237;tica del reino. Esto es una mala se&amp;#241;al y debemos aplastarla.&lt;BR&gt;&lt;BR&gt;Elimina a los insurgentes cerca de Spirit Outpost. Con suerte, los otros vampir captar&amp;#225;n el mensaje.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1018">
+        <Page social="5">[EN] I always liked the vampirs, but we must make a statement.&lt;BR&gt;&lt;BR&gt;Dirty business, that. You did well. Thanks.&lt;br&gt;[ES] Siempre me han ca&amp;#237;do bien los vampir, pero debemos dejar las cosas claras.&lt;BR&gt;&lt;BR&gt;Qu&amp;#233; tarea tan sucia. Lo hiciste bien. Gracias.</Page>
+    </Text>
+</QuestDialog>

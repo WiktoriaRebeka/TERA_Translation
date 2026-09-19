@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Kill that argon!&lt;br&gt;[ES] &amp;#161;Mata a ese argon!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1008">
+        <Page social="4">[EN] There was an argon at Skyfields? Do you think they've come back? If they have, we'll be lucky to live long enough to evacuate.&lt;NEXTPAGEBUTTON&gt;"There was only one. A shaper."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Hab&amp;#237;a un argon en Skyfields? &amp;#191;Crees que han vuelto? Si es as&amp;#237;, tendremos suerte si vivimos lo suficiente para evacuar.&lt;NEXTPAGEBUTTON&gt;"There was only one. A shaper."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] A shaper? Perhaps it was monitoring the argonomorphs. Then again, perhaps it was scouting an invasion route.&lt;BR&gt;&lt;BR&gt;I'd better write this up.&lt;BR&gt;&lt;BR&gt;Stay alert out there, &lt;PCNAME&gt;.&lt;br&gt;[ES] &amp;#191;Un shaper? Tal vez estaba vigilando a los argonomorphs. O tal vez estaba explorando una ruta de invasi&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ser&amp;#225; mejor que escriba esto.&lt;BR&gt;&lt;BR&gt;Mantente alerta ah&amp;#237; fuera, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

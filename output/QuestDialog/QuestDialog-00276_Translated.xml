@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="4">[EN] With the fishing fleet tied up in port and everyone afraid to leave the village, we've got no income around here! And the situation's not gonna change anytime soon. The old days are gone forever&amp;#8212;we've got to adapt to a new livelihood.&lt;BR&gt;&lt;BR&gt;And the way of the future, &lt;PCCLASS:lcase&gt;, is "hide."&lt;BR&gt;&lt;BR&gt;No, not "hide" like "try to keep the pirates from finding you." I mean "hide" like "retrieve the hides of the {@LinkCreature:11#4004#spiketail kamaras} and sell them at a tidy profit!"&lt;br&gt;[ES] Con la flota pesquera atada en el puerto y todo el mundo con miedo de abandonar el pueblo, &amp;#161;no tenemos ingresos por aqu&amp;#237;! Y la situaci&amp;#243;n no va a cambiar pronto. Los viejos tiempos se han ido para siempre; tenemos que adaptarnos a un nuevo medio de vida.&lt;BR&gt;&lt;BR&gt;Y el camino del futuro, &lt;PCCLASS:lcase&gt;, son las pieles.&lt;BR&gt;&lt;BR&gt;No, no &quot;esconderse&quot; como &quot;intentar que los piratas no te encuentren&quot;. &amp;#161;Me refiero a &quot;pieles&quot;, como recuperar las pieles de los {@LinkCreature:11#4004#spiketail kamaras} y venderlas obteniendo un buen beneficio!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1007">
+        <Page social="4">[EN] Well done, &lt;PCNAME&gt;! You're leading by example&amp;#8212;showing all those fishermen what the future looks like!&lt;br&gt;[ES] &amp;#161;Bien hecho, &lt;PCNAME&gt;! Predicas con el ejemplo, mostrando a todos esos pescadores c&amp;#243;mo es el futuro.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1007">
+        <Page social="0">[EN] Look, would you rather just wait on the docks like everyone else, thinking "maybe today will be the day that the pirates magically evaporate and we can get back to fishing," eh?&lt;BR&gt;&lt;BR&gt;I thought not. Get those {@LinkCreature:11#4004#spiketail kamaras}!&lt;br&gt;[ES] Escucha, &amp;#191;preferir&amp;#237;as esperar en los muelles como todos los dem&amp;#225;s, pensando &quot;tal vez hoy sea el d&amp;#237;a en que los piratas se evaporen m&amp;#225;gicamente y podamos volver a pescar&quot;?&lt;BR&gt;&lt;BR&gt;Me lo imaginaba. &amp;#161;Ve por esos {@LinkCreature:11#4004#spiketail kamaras}!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1025">
+        <Page social="4">[EN] Kulkari attacks threaten our position here in the desert. If we could strike back harshly enough, they might back off. Track down {@LinkCreature:21#5001#Crag Stalker warlord Beldresk} and kill him.&lt;BR&gt;&lt;BR&gt; In fact, bring back a fang and I'll hang it from our tent. Send them a message that we will not be intimidated!&lt;br&gt;[ES] Los ataques kulkari amenazan nuestra posici&amp;#243;n aqu&amp;#237; en el desierto. Si pudi&amp;#233;ramos contraatacar con suficiente fuerza, tal vez retrocedan. Rastrea al {@LinkCreature:21#5001#Crag Stalker warlord Beldresk} y m&amp;#225;talo.&lt;BR&gt;&lt;BR&gt; De hecho, tr&amp;#225;eme un colmillo y lo colgar&amp;#233; de nuestra tienda. &amp;#161;Env&amp;#237;ales el mensaje de que no nos intimidar&amp;#225;n!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1025">
+        <Page social="4">[EN] The Crag Stalkers will think twice before attacking again, thanks to you.&lt;BR&gt;&lt;BR&gt;It won't bring back the dead, but it might prevent more deaths. Well done!&lt;br&gt;[ES] Los Crag Stalkers se lo pensar&amp;#225;n dos veces antes de volver a atacar, gracias a ti.&lt;BR&gt;&lt;BR&gt;No devolver&amp;#225; la vida a los muertos, pero podr&amp;#237;a evitar m&amp;#225;s muertes. &amp;#161;Bien hecho!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1025">
+        <Page social="0">[EN] I said it would send them a message, not that it would be easy. Just take your time and use your head.&lt;BR&gt;&lt;BR&gt;You can do it!&lt;br&gt;[ES] Dije que les enviar&amp;#237;a un mensaje, no que fuera f&amp;#225;cil. T&amp;#243;mate tu tiempo y usa la cabeza.&lt;BR&gt;&lt;BR&gt;&amp;#161;Puedes lograrlo!</Page>
+    </Text>
+</QuestDialog>

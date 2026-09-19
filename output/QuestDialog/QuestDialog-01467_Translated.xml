@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] (You've received a letter from Dougal.&lt;BR&gt;&lt;BR&gt;In an effort to bolster our fighting forces, we're encouraging soldiers to enchant their weapons. Return to {@Rgn:63009} in {@Rgn:63001} at once for enchanting supplies.&lt;BR&gt;&lt;BR&gt;&amp;#8212;{@linkcreature:63#1160})&lt;br&gt;[ES] (Has recibido una carta de Dougal.&lt;BR&gt;&lt;BR&gt;En un esfuerzo por reforzar nuestras fuerzas de combate, alentamos a los soldados a encantar sus armas. Regresa con {@Rgn:63009} en {@Rgn:63001} de inmediato para conseguir suministros de encantamiento.&lt;BR&gt;&lt;BR&gt;&amp;#8212;{@linkcreature:63#1160})</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="0">[EN] A good soldier like you understands the value of a good weapon, but sometimes it's smarter to enchant your existing weapon rather than trade it in for a new one.&lt;BR&gt;&lt;BR&gt;Speak with {@linkcreature:63#1605} in the Creation Workshop to learn more.&lt;BR&gt;&lt;BR&gt;Don't forget alkahest. You should buy 20 of the tier 3 alkahest before you see him. Mukhem in Boreas Alley sells them.&lt;br&gt;[ES] Un buen soldado como t&amp;#250; comprende el valor de un buen arma, pero a veces es m&amp;#225;s inteligente encantar tu arma actual en lugar de cambiarla por una nueva.&lt;BR&gt;&lt;BR&gt;Habla con {@linkcreature:63#1605} en el Creation Workshop para saber m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;No olvides el alkahest. Deber&amp;#237;as comprar 20 alkahest de nivel 3 antes de verlo. Mukhem en Boreas Alley los vende.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">[EN] Dougal told me you'd stop by. I can smell the alkahest, so it looks like you're all set.&lt;BR&gt;&lt;BR&gt;Ready to learn about enchanting equipment?&lt;br&gt;[ES] Dougal me dijo que pasar&amp;#237;as por aqu&amp;#237;. Puedo oler el alkahest, as&amp;#237; que parece que est&amp;#225;s listo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;s listo para aprender sobre el encantamiento de equipamiento?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" villagerId="1605">
+        <Page social="0">[EN] I can't teach you to enchant equipment without alkahest. Buy some from {@linkcreature:63#1103}. They're not that expensive.&lt;br&gt;[ES] No puedo ense&amp;#241;arte a encantar equipamiento sin alkahest. C&amp;#243;mprale un poco a {@linkcreature:63#1103}. No son tan caros.</Page>
+    </Text>
+</QuestDialog>

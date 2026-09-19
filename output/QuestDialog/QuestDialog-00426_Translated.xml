@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">[EN] Drained? His blood was drained?&lt;BR&gt;&lt;BR&gt;Okay, I've got soldiers heading out that way. Rendezvous with them in the Twisted Plains. Report to {@LinkCreature:216#1012#Ludin}.&lt;br&gt;[ES] &amp;#191;Drenado? &amp;#191;Drenaron su sangre?&lt;BR&gt;&lt;BR&gt;Muy bien, tengo soldados en camino hacia all&amp;#225;. Re&amp;#250;nete con ellos en Twisted Plains. Pres&amp;#233;ntate ante {@LinkCreature:216#1012#Ludin}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1012">
+        <Page social="5">[EN] Paka sent you? Yeah, okay. Good. See that wall of folks over there? They're killing anyone who gets nearby and we can't get through to the village.&lt;BR&gt;&lt;BR&gt;See what you can do to help.&lt;br&gt;[ES] &amp;#191;Paka te envi&amp;#243;? S&amp;#237;, est&amp;#225; bien. Qu&amp;#233; bueno. &amp;#191;Ves ese muro de gente all&amp;#225;? Est&amp;#225;n matando a cualquiera que se acerque y no podemos llegar a la aldea.&lt;BR&gt;&lt;BR&gt;Haz lo que puedas para ayudar.</Page>
+    </Text>
+</QuestDialog>

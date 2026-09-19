@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">[EN] Yeah, I know. It's the same old story. "Return to the safety of the camp." I don't think so.&lt;BR&gt;&lt;BR&gt;Anyway, ready to help?&lt;NEXTPAGEBUTTON&gt;"I don't remember volunteering."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] S&amp;#237;, ya lo s&amp;#233;. Es la misma vieja historia. &quot;Regresa a la seguridad del campamento.&quot; Lo dudo.&lt;BR&gt;&lt;BR&gt;En fin, &amp;#191;listo para ayudar?&lt;NEXTPAGEBUTTON&gt;"I don't remember volunteering."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] I volunteered you. I'm researching the civilization of the giants, but I can't find enough historical documents to get a full understanding it. However, the {@LinkCreature:18#17#ancient teraliths} are covered with inscriptions. I wonder if they'd help.&lt;BR&gt;&lt;BR&gt;If you'd collect some for me, I'd be grateful.&lt;br&gt;[ES] Yo te ofrec&amp;#237; como voluntario. Estoy investigando la civilizaci&amp;#243;n de los gigantes, pero no encuentro suficientes documentos hist&amp;#243;ricos para comprenderla por completo. Sin embargo, los {@LinkCreature:18#17#ancient teraliths} est&amp;#225;n cubiertos de inscripciones. Me pregunto si ayudar&amp;#237;an.&lt;BR&gt;&lt;BR&gt;Si pudieras recolectar algunas para m&amp;#237;, te lo agradecer&amp;#237;a.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">[EN] Oh, look at these inscriptions! They're exactly what I'd hoped.&lt;BR&gt;&lt;BR&gt;These pictures will teach me a lot. Good work!&lt;BR&gt;&lt;BR&gt;Here, take this for your trouble. I know it's not much, but it's all I can get this far from camp.&lt;br&gt;[ES] &amp;#161;Oh, mira estas inscripciones! Son exactamente lo que esperaba.&lt;BR&gt;&lt;BR&gt;Estas im&amp;#225;genes me ense&amp;#241;ar&amp;#225;n mucho. &amp;#161;Buen trabajo!&lt;BR&gt;&lt;BR&gt;Toma, qu&amp;#233;date con esto por las molestias. S&amp;#233; que no es mucho, pero es todo lo que puedo conseguir tan lejos del campamento.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">[EN] If you're looking for the {@LinkCreature:18#17#ancient teraliths} around here, you're going to be looking for a long time.&lt;BR&gt;&lt;BR&gt;Go on, now. Are you in or out?&lt;br&gt;[ES] Si buscas los {@LinkCreature:18#17#ancient teraliths} por aqu&amp;#237;, vas a estar buscando por un buen rato.&lt;BR&gt;&lt;BR&gt;Anda, ya. &amp;#191;Est&amp;#225;s dentro o fuera?</Page>
+    </Text>
+</QuestDialog>

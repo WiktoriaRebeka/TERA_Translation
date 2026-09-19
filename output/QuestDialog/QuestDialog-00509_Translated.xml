@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="4">[EN] The mine continues to grow and grow, and it's all because of those {@LinkCreature:20#30011000#slave foremen} and {@LinkCreature:20#30012000#zombie slaves}. Who knows how deep it is now?&lt;BR&gt;&lt;BR&gt;You have to get rid of them. The deeper the mine gets, the less likely anything good's going to come back out.&lt;BR&gt;&lt;BR&gt;Might as well grab their tools while you're at it. No reason to leave free gear around. Give them all to Ruanal in the Halls of Gloom.&lt;br&gt;[ES] La mina sigue creciendo y creciendo, y todo es por culpa de esos {@LinkCreature:20#30011000#slave foremen} y {@LinkCreature:20#30012000#zombie slaves}. &amp;#191;Qui&amp;#233;n sabe qu&amp;#233; tan profunda es ahora?&lt;BR&gt;&lt;BR&gt;Tienes que deshacerte de ellos. Cuanto m&amp;#225;s profunda se vuelve la mina, menos probable es que algo bueno salga de ella.&lt;BR&gt;&lt;BR&gt;M&amp;#225;s te vale aprovechar para agarrar sus herramientas. No hay raz&amp;#243;n para dejar equipo gratis por ah&amp;#237;. Dales todo a Ruanal en Halls of Gloom.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1028">
+        <Page social="4">[EN] That's the way to do it, &lt;PCNAME&gt;. I'll hang on to these.&lt;BR&gt;&lt;BR&gt;Here's a little something for all your hard work.&lt;br&gt;[ES] Esa es la manera de hacerlo, &lt;PCNAME&gt;. Me quedar&amp;#233; con esto.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; tienes una peque&amp;#241;a recompensa por todo tu duro trabajo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1028">
+        <Page social="0">[EN] We need to take out more of those zombies...&lt;br&gt;[ES] Necesitamos acabar con m&amp;#225;s de esos zombies...</Page>
+    </Text>
+</QuestDialog>

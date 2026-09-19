@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1009">
+        <Page social="4">[EN] Jehan salted the pasture to the &lt;b&gt;south&lt;/b&gt; of here with food containing tiny detection devices, and as planned, the {@LinkCreature:13#300920#shaggy noruks} either destroyed or ate them.&lt;BR&gt;&lt;BR&gt;Normally I'm opposed to harming such noble guardians, but Jehan asks that his &lt;font color='#660000'&gt;power gauges&lt;/font&gt; be collected and returned. Could you get them for us? I'd do it myself, but I've hurt my ankle, and my...escort refuses to assist me.&lt;br&gt;[ES] Jehan salpic&amp;#243; el pasto al &lt;b&gt;south&lt;/b&gt; de aqu&amp;#237; con comida que contiene diminutos dispositivos de detecci&amp;#243;n y, tal como se plane&amp;#243;, los {@LinkCreature:13#300920#shaggy noruks} los destruyeron o se los comieron.&lt;BR&gt;&lt;BR&gt;Por lo general, me opongo a da&amp;#241;ar a guardianes tan nobles, pero Jehan pide que sus &lt;font color='#660000'&gt;power gauges&lt;/font&gt; sean recolectadas y devueltas. &amp;#191;Podr&amp;#237;as conseguirlas para nosotros? Lo har&amp;#237;a yo mismo, pero me he lastimado el tobillo y mi... escolta se niega a ayudarme.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1130">
+        <Page social="4">[EN] Kamarnu has chosen his agents well. These gauges are vital to understanding what power affects this island's guardians.&lt;BR&gt;&lt;BR&gt;Having demonstrated skill in acquiring items for researchers, you will find no shortage of work here in this camp. Perhaps it is best that you stay nearby. There are other tasks needing attention.&lt;br&gt;[ES] Kamarnu ha elegido bien a sus agentes. Estos medidores son vitales para entender qu&amp;#233; poder afecta a los guardianes de esta isla.&lt;BR&gt;&lt;BR&gt;Habiendo demostrado habilidad para conseguir objetos para los investigadores, no te faltar&amp;#225; trabajo aqu&amp;#237; en este campamento. Tal vez sea mejor que te quedes cerca. Hay otras tareas que requieren atenci&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1130">
+        <Page social="0">[EN] Kamarnu has his orders, but somehow quails from executing them. Power gauges are viable for only a short time, and each {@LinkCreature:13#300920#shaggy noruk} allowed to roam free without examination is another opportunity missed.&lt;br&gt;[ES] Kamarnu tiene sus &amp;#243;rdenes, pero de alguna manera vacila en ejecutarlas. Los medidores de energ&amp;#237;a solo sirven por poco tiempo, y cada {@LinkCreature:13#300920#shaggy noruk} que se deja vagar libremente sin examinar es otra oportunidad perdida.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="4">[EN] After the recent kidnappings, we forbade normal traffic anywhere near the Hungry Caverns.&lt;BR&gt;&lt;BR&gt;But that just made the gulas bolder.&lt;BR&gt;&lt;BR&gt;Let's keep them from getting too cocky. Kill the {@LinkCreature:8#1011#hulking sentries} and {@LinkCreature:8#1021#cromos prowlers} in Vexatus Swamp. That'll teach them to fear the federation!&lt;br&gt;[ES] Tras los recientes secuestros, prohibimos el tr&amp;#225;fico normal cerca de Hungry Caverns.&lt;BR&gt;&lt;BR&gt;Pero eso solo hizo que los gulas se volvieran m&amp;#225;s atrevidos.&lt;BR&gt;&lt;BR&gt;Evitemos que se vuelvan demasiado arrogantes. &amp;#161;Mata a los {@LinkCreature:8#1011#hulking sentries} y {@LinkCreature:8#1021#cromos prowlers} en Vexatus Swamp! &amp;#161;Eso les ense&amp;#241;ar&amp;#225; a temerle a la federaci&amp;#243;n!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="4">[EN] Those gulas are going to think twice before making a meal out of us, eh?&lt;br&gt;[ES] Esos gulas se lo van a pensar dos veces antes de hacernos su cena, &amp;#191;eh?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1534">
+        <Page social="0">[EN] Make your way to the airship dock and report in.&lt;br&gt;[ES] Dir&amp;#237;gete al muelle de los barcos voladores y pres&amp;#233;ntate.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1534">
+        <Page social="4">[EN] I know you have to get to the airship dock. Would you mind dropping off one small box for me?&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] S&amp;#233; que tienes que ir al muelle de los barcos voladores. &amp;#191;Te importar&amp;#237;a dejar una caja peque&amp;#241;a por m&amp;#237;?&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Tamari ordered a jeweled box. I've kept it safe, but with the luck I've had today, I'd rather get it out of my hands.&lt;BR&gt;&lt;BR&gt;Deliver it to her, if you please.&lt;br&gt;[ES] Tamari encarg&amp;#243; una caja con joyas. La he guardado bien, pero con la suerte que he tenido hoy, prefiero quit&amp;#225;rmela de las manos.&lt;BR&gt;&lt;BR&gt;Entr&amp;#233;gasela, por favor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1533">
+        <Page social="0">[EN] Tonas came through? I wondered if he'd swindled me.&lt;BR&gt;&lt;BR&gt;Very well. I know who you are. You're cleared to ascend to the dock.&lt;br&gt;[ES] &amp;#191;Tonas cumpli&amp;#243;? Me preguntaba si me habr&amp;#237;a estafado.&lt;BR&gt;&lt;BR&gt;Muy bien. S&amp;#233; qui&amp;#233;n eres. Tienes permiso para subir al muelle.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1502">
+        <Page social="4">[EN] Oh, I'm so clumsy!&lt;BR&gt;&lt;BR&gt;Well, hello!&lt;BR&gt;My nose is never wrong. You smell like a nice person, so I like you. Do &lt;em&gt;you&lt;/em&gt; like me?&lt;BR&gt;&lt;BR&gt;Hey, can I ask you a favor? This wind tore some really important secret papers from my bag. I have to get them back!&lt;BR&gt;&lt;BR&gt;Will you help me?&lt;br&gt;[ES] &amp;#161;Ay, qu&amp;#233; torpe soy!&lt;BR&gt;&lt;BR&gt;&amp;#161;Hola!&lt;BR&gt;Mi olfato nunca se equivoca. Hueles a buena persona, as&amp;#237; que me caes bien. &amp;#191;&lt;em&gt;Te&lt;/em&gt; caigo bien?&lt;BR&gt;&lt;BR&gt;Oye, &amp;#191;te puedo pedir un favor? &amp;#161;Este viento arrastr&amp;#243; unos papeles secretos muy importantes de mi bolsa! &amp;#161;Tengo que recuperarlos!&lt;BR&gt;&lt;BR&gt;&amp;#191;Me ayudar&amp;#237;as?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1502">
+        <Page social="4">[EN] My hero! It would have been a disaster if those pages had been found by the enemy...or her.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, are you boarding the sky cruiser, too?&lt;NEXTPAGEBUTTON&gt;"Indeed."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Mi h&amp;#233;roe! Habr&amp;#237;a sido un desastre si el enemigo hubiera encontrado esas p&amp;#225;ginas... o ella.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, &amp;#191;tambi&amp;#233;n vas a abordar el crucero estelar?&lt;NEXTPAGEBUTTON&gt;"Indeed."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] That's great! You're great. We'll adventure together!&lt;BR&gt;&lt;BR&gt;You should report to Rafe! See you in the sky!&lt;br&gt;[ES] &amp;#161;Eso es genial! Eres genial. &amp;#161;Vamos a aventurarnos juntos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Debes reportarte con Rafe! &amp;#161;Nos vemos en el cielo!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1502">
+        <Page social="0">[EN] Where are the rest of the pages?&lt;br&gt;[ES] &amp;#191;D&amp;#243;nde est&amp;#225; el resto de las p&amp;#225;ginas?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="5" villagerId="1503">
+        <Page social="4">[EN] You're the last soldier on the list. Good!&lt;BR&gt;&lt;BR&gt;Please deliver the manifest to Maribel. Oh, and thanks to you the supplies will be loaded soon.&lt;br&gt;[ES] Eres el &amp;#250;ltimo soldado de la lista. &amp;#161;Bien!&lt;BR&gt;&lt;BR&gt;Por favor, entrega el manifiesto a Maribel. Ah, y gracias a ti los suministros se cargar&amp;#225;n pronto.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1566">
+        <Page social="4">[EN] Excellent work. Good luck on your mission.&lt;br&gt;[ES] Excelente trabajo. Buena suerte en tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

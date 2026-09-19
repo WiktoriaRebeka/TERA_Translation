@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="84" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1217">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1217">
+        <Page social="4">[EN] Hey, you wouldn't want to help out some fellow soldiers, would you?&lt;BR&gt;&lt;BR&gt;My comrades and I have a hankering for succulent barbecued pigling, but we've done something to piss off Tapa, the guy who sells it.&lt;BR&gt;&lt;BR&gt;I think he's off his medication, but the point is, we're hungry!&lt;br&gt;[ES] Oye, &amp;#191;no querr&amp;#237;as ayudar a unos compa&amp;#241;eros soldados, verdad?&lt;BR&gt;&lt;BR&gt;Mis camaradas y yo tenemos antojo de un suculento cerdo a la barbacoa, pero hemos hecho algo para hacer enojar a Tapa, el tipo que lo vende.&lt;BR&gt;&lt;BR&gt;Creo que no est&amp;#225; tomando su medicina, pero el caso es que &amp;#161;tenemos hambre!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="4">[EN] If the mouthwatering aroma of my signature sauce lead you nose-first to my shop, then I have some bad news.&lt;BR&gt;&lt;BR&gt;I'm fresh out of pork, the preferred special sauce delivery method.&lt;BR&gt;&lt;BR&gt;Look around. Do you see any piglings? No? Well if you want barbecue, get me some pig! You can find them just about anywhere...anywhere but here, that is.&lt;br&gt;[ES] Si el irresistible aroma de mi salsa secreta te gui&amp;#243; directo a mi tienda, entonces tengo malas noticias.&lt;BR&gt;&lt;BR&gt;Se me acab&amp;#243; el cerdo, el m&amp;#233;todo preferido para entregar esta salsa especial.&lt;BR&gt;&lt;BR&gt;Mira a tu alrededor. &amp;#191;Ves alg&amp;#250;n pigling? &amp;#191;No? Bueno, si quieres barbacoa, &amp;#161;cons&amp;#237;gueme algo de cerdo! Puedes encontrarlos en casi cualquier parte... en cualquier parte menos aqu&amp;#237;, claro.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="4">[EN] If you hurry, I'll let you let me keep the surplus.&lt;br&gt;[ES] Si te apresuras, te dejar&amp;#233; conservar el excedente.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="4">[EN] There's a ways to go for barbecue, yet! But it's worth the wait, I promise you.&lt;br&gt;[ES] &amp;#161;A&amp;#250;n falta un poco para tener la barbacoa lista! Pero valdr&amp;#225; la pena la espera, te lo prometo.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="4">[EN] It's astounding the lengths folks will go to for my barbecued pigling.&lt;br&gt;[ES] Es incre&amp;#237;ble lo lejos que llega la gente por mi pigling a la barbacoa.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="4">[EN] Wow, you must really want some barbecue! Hurry back. I have to pack up at some point.&lt;br&gt;[ES] &amp;#161;Vaya, de verdad debes tener ganas de barbacoa! Vuelve pronto. Tengo que empacar en alg&amp;#250;n momento.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="5">[EN] Ah, the pig hunter returns.&lt;BR&gt;&lt;BR&gt;To show my appreciation for all this extra meat you've brought me, I'm going to slice one of these guys up and throw a slab on the grill right away.&lt;BR&gt;&lt;BR&gt;Won't take a minute.&lt;br&gt;[ES] Ah, el cazador de cerdos regresa.&lt;BR&gt;&lt;BR&gt;Para mostrar mi agradecimiento por toda esta carne extra que me trajiste, voy a rebanar a uno de estos muchachos y pondr&amp;#233; un trozo en la parrilla de inmediato.&lt;BR&gt;&lt;BR&gt;No me tomar&amp;#225; ni un minuto.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="84" villagerId="1208">
+        <Page social="0">[EN] Did you get me some pigling? The more the merrier.&lt;br&gt;[ES] &amp;#191;Me trajiste algo de pigling? Cuantos m&amp;#225;s, mejor.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="84" prevId="8" villagerId="1217">
+        <Page social="4">[EN] Wow! You had to hunt the pigling yourself? There aren't any piglings for miles!&lt;BR&gt;&lt;BR&gt;You really went above and beyond. Your dedication to the federation is...wow! We're incredibly grateful.&lt;BR&gt;&lt;BR&gt;You've got new friends for life.&lt;br&gt;[ES] &amp;#161;Vaya! &amp;#191;Tuviste que cazar al pigling t&amp;#250; mismo? &amp;#161;No hay piglings en millas a la redonda!&lt;BR&gt;&lt;BR&gt;De verdad fuiste m&amp;#225;s all&amp;#225; de lo esperado. Tu dedicaci&amp;#243;n a la federation es... &amp;#161;vaya! Estamos incre&amp;#237;blemente agradecidos.&lt;BR&gt;&lt;BR&gt;Te has ganado nuevos amigos para toda la vida.</Page>
+    </Text>
+</QuestDialog>

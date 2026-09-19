@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
+        <Page social="4">[EN] Supposedly there was a big riot to the north, around the Freeholds. Supplies were having trouble getting through for a while.&lt;BR&gt;&lt;BR&gt;Don't know how much of a concern it is now, but it'd be useful to know whether any shipments of mine are going to get through. If you're headed that way, would you mind checking it out for me?&lt;BR&gt;&lt;BR&gt;Check in with Teomath&amp;#8212;he trades with the farmers pretty often, and is likely to have any information worth having.&lt;br&gt;[ES] Supuestamente hubo un gran disturbio al norte, por los Freeholds. Los suministros tuvieron problemas para pasar durante un tiempo.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; qu&amp;#233; tan preocupante sea ahora, pero ser&amp;#237;a &amp;#250;til saber si alguno de mis cargamentos va a poder pasar. Si vas hacia all&amp;#225;, &amp;#191;te importar&amp;#237;a comprobarlo por m&amp;#237;?&lt;BR&gt;&lt;BR&gt;Habla con Teomath; comercia con los granjeros muy a menudo y es probable que tenga informaci&amp;#243;n &amp;#250;til.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="2" villagerId="1004">
+        <Page social="4">[EN] That riot was pretty bad indeed. I couldn't tell you if it's safe to go back there yet&amp;#8212;I haven't had the nerve to risk finding out.&lt;BR&gt;&lt;BR&gt;You could take that fancy weapon of yours, though, and maybe find out if things have calmed down.&lt;NEXTPAGEBUTTON&gt;"I can do that."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Esos disturbios fueron bastante graves. No sabr&amp;#237;a decirte si ya es seguro volver all&amp;#237;; no he tenido el valor de arriesgarme a averiguarlo.&lt;BR&gt;&lt;BR&gt;Sin embargo, podr&amp;#237;as llevar esa elegante arma tuya y ver si las cosas se han calmaron.&lt;NEXTPAGEBUTTON&gt;"I can do that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] If you go straight following the North Gate over there, you'll see Casidhe's Stand. Cardis is stationed there, and should have more information. &lt;NEXTPAGEBUTTON&gt;"Got it."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Si sigues derecho pasando la North Gate de all&amp;#237;, ver&amp;#225;s Casidhe's Stand. Cardis est&amp;#225; apostado all&amp;#237; y deber&amp;#237;a tener m&amp;#225;s informaci&amp;#243;n. &lt;NEXTPAGEBUTTON&gt;"Got it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="1020">
+        <Page social="4">[EN] Ah, you're here about the riot&amp;#8212;and, I hope, to talk supply shipments.&lt;br&gt;[ES] Ah, est&amp;#225;s aqu&amp;#237; por los disturbios y, espero, para hablar de los env&amp;#237;os de suministros.</Page>
+    </Text>
+</QuestDialog>

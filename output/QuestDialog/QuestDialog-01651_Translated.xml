@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="4" voiceTypeId="0">[EN] I tried to map this crazy place, but ebonheart inquisitors captured and tortured me. They fled when Kaidun arrived, but it took me days to get free.&lt;BR&gt;&lt;BR&gt;I have to get out of here! This place terrifies me. I can still see the horrible eyes of those hell torturers staring down at me. I can't face them, not without weapons! Can you clear them out of the way?&lt;br&gt;[ES] Intent&amp;#233; mapear este lugar de locos, pero los inquisidores ebonheart me capturaron y torturaron. Huyeron cuando lleg&amp;#243; Kaidun, pero me tom&amp;#243; d&amp;#237;as liberarme.&lt;BR&gt;&lt;BR&gt;&amp;#161;Tengo que salir de aqu&amp;#237;! Este lugar me aterra. Todav&amp;#237;a puedo ver los horribles ojos de esos torturadores infernales mir&amp;#225;ndome fijo. &amp;#161;No puedo enfrentarlos, no sin armas! &amp;#191;Puedes sacarlos de mi camino?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1027">
+        <Page social="6" voiceTypeId="0">[EN] You brought me their torture tools? That's...fantastic! They can't scare me anymore, not when I have these.&lt;br&gt;[ES] &amp;#191; trajiste sus herramientas de tortura? &amp;#161;Eso es... fant&amp;#225;stico! Ya no pueden asustarme, no cuando tengo esto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1027">
+        <Page social="0">[EN] Don't let them torture you too, &lt;PCNAME&gt;.&lt;br&gt;[ES] No dejes que te torturen a ti tambi&amp;#233;n, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

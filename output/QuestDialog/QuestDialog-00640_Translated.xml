@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="4">[EN] The Atel Akaad is suspiciously quiet. Even though they've left behind a rearguard, I expected more fight out of them. Something's brewing.&lt;BR&gt;&lt;BR&gt;The only way to know is to acquire the scouting reports from the {@LinkCreature:25#2031#devan deathmasters} they left behind. I trust you can forge ahead and find a way to "acquire" them.&lt;br&gt;[ES] El Atel Akaad est&amp;#225; sospechosamente tranquilo. Aunque han dejado una retaguardia, esperaba m&amp;#225;s pelea por su parte. Algo se est&amp;#225; gestando.&lt;BR&gt;&lt;BR&gt;La &amp;#250;nica manera de saberlo es conseguir los informes de reconocimiento de los {@LinkCreature:25#2031#devan deathmasters} que dejaron atr&amp;#225;s. Conf&amp;#237;o en que puedas abrirte paso y encontrar la manera de &quot;conseguirlos&quot;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1009">
+        <Page social="4">[EN] These are all the scouting reports? Hmm...here's something. Lok's Curse! This really is the calm before the storm. They're getting ready to stage a full-scale attack. We need reinforcements! This is more than one person can handle. Poke Rendalf with this; maybe he can light a fire.&lt;br&gt;[ES] &amp;#191;Estos son todos los informes de reconocimiento? Mmm... aqu&amp;#237; hay algo. &amp;#161;La maldici&amp;#243;n de Lok! Esta es realmente la calma antes de la tormenta. Se est&amp;#225;n preparando para organizar un ataque a gran escala. &amp;#161;Necesitamos refuerzos! Esto es m&amp;#225;s de lo que una sola persona puede manejar. Pincha a Rendalf con esto; tal vez pueda encender una chispa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1009">
+        <Page social="0">[EN] Get the dross out! More scouting reports! We need all the intelligence we can get.&lt;br&gt;[ES] &amp;#161;Fuera la escoria! &amp;#161;M&amp;#225;s informes de reconocimiento! Necesitamos toda la informaci&amp;#243;n que podamos conseguir.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="3" villagerId="1027">
+        <Page social="10">[EN] I'M RIGHT HERE, Culetta! You don't need messengers and official requisitions. Hmph. I'm five meters away.&lt;BR&gt;&lt;BR&gt;What's so important that...is this true?&lt;BR&gt;&lt;BR&gt;The ossugon warchiefs are gathering all the remaining cultists to attack this redoubt! We can't afford to lose this foothold. I'll call for reinforcements right away.&lt;BR&gt;&lt;BR&gt;Thanks for your help, &lt;PCNAME&gt;. Say, if you're not busy...&lt;br&gt;[ES] &amp;#161;ESTOY AQU&amp;#205; MISMO, Culetta! No necesitas mensajeros ni solicitudes oficiales. Aj&amp;#225;. Estoy a cinco metros.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; es tan importante como para que... es esto verdad?&lt;BR&gt;&lt;BR&gt;&amp;#161;Los warchiefs ossugon est&amp;#225;n reunidos con todos los cultistas restantes para atacar este reducto! No podemos darnos el lujo de perder este punto de apoyo. Pedir&amp;#233; refuerzos de inmediato.&lt;BR&gt;&lt;BR&gt;Gracias por tu ayuda, &lt;PCNAME&gt;. Oye, si no est&amp;#225;s ocupado...</Page>
+    </Text>
+</QuestDialog>

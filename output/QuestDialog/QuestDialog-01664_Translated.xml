@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1034">
+        <Page social="4" voiceTypeId="0">[EN] Thulsa's personal guards in the Ebon Tower are the Blood Legion, given immortality through Thulsa's necromancy.&lt;BR&gt;&lt;BR&gt;Their life force is constantly renewed by artifacts called eternal hearts.&lt;BR&gt;&lt;BR&gt;Destroy the Blood Legion and bring me their hearts. Without them, Thulsa can't bring them back.&lt;br&gt;[ES] La guardia personal de Thulsa en el Ebon Tower es la Blood Legion, a la que se le otorg&amp;#243; la inmortalidad mediante la nigromancia de Thulsa.&lt;BR&gt;&lt;BR&gt;Su fuerza vital se renueva constantemente mediante artefactos llamados eternal hearts.&lt;BR&gt;&lt;BR&gt;Destruye a la Blood Legion y tr&amp;#225;eme sus corazones. Sin ellos, Thulsa no podr&amp;#225; revivirlos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1034">
+        <Page social="4" voiceTypeId="0">[EN] Well done, &lt;PCNAME&gt;. We'll either find a way to destroy them, or the spirits of the Blood Legion can spend their eternal lives imprisoned.&lt;br&gt;[ES] Bien hecho, &lt;PCNAME&gt;. O encontraremos la manera de destruirlos, o los esp&amp;#237;ritus de la Blood Legion pasar&amp;#225;n sus vidas eternas prisioneros.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1034">
+        <Page social="0">[EN] Make sure you bring back the eternal heart of every Blood Legion soldier you kill. Otherwise, Thulsa can give them new bodies.&lt;br&gt;[ES] Aseg&amp;#250;rate de traer el eternal heart de cada soldado de la Blood Legion que mates. De lo contrario, Thulsa podr&amp;#225; darles cuerpos nuevos.</Page>
+    </Text>
+</QuestDialog>

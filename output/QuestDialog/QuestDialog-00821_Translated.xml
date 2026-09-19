@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1028">
+        <Page social="9">[EN] Our shipment of eldritch shards is hung up somewhere in Bleakrock.&lt;BR&gt;&lt;BR&gt;Go there and ask Kilda what we have to do to get them yesterday.&lt;br&gt;[ES] Nuestro env&amp;#237;o de fragmentos arcanos est&amp;#225; atascado en alguna parte de Bleakrock.&lt;BR&gt;&lt;BR&gt;Ve all&amp;#237; y preg&amp;#250;ntale a Kilda qu&amp;#233; tenemos que hacer para conseguirlos ayer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1014">
+        <Page social="4">[EN] The shards?&lt;BR&gt;&lt;BR&gt;It's not my fault. The wendigos are on the rampage. The junaidar are raiding the camps. A passing popori ate them...okay, I just don't have any right now. Try Forsil.&lt;br&gt;[ES] &amp;#191;Los fragmentos?&lt;BR&gt;&lt;BR&gt;No es mi culpa. Los wendigos est&amp;#225;n desatados. Los junaidar est&amp;#225;n saqueando los campamentos. Un popori que pasaba se los comi&amp;#243;... de acuerdo, simplemente no tengo ninguno ahora mismo. Prueba con Forsil.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" prevId="3" villagerId="1011">
+        <Page social="4">[EN] My shards are all earmarked for Allemantheia. Don't even bother trying to outbid the Mysterium.&lt;BR&gt;&lt;BR&gt;Just between us, I've heard a rumor that the magistrate has been hanging on to a private hoard.&lt;br&gt;[ES] Mis fragmentos est&amp;#225;n todos reservados para Allemantheia. Ni te molestes en intentar superar la oferta del Mysterium.&lt;BR&gt;&lt;BR&gt;Entre nosostros, he escuchado un rumor de que el magistrado ha estado guardando un tesoro privado.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="4" villagerId="1012">
+        <Page social="4">[EN] No, I haven't been hoarding shards! Is he crazy?&lt;NEXTPAGEBUTTON&gt;"There really aren't any?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;No, no he estado acumulando fragmentos! &amp;#191;Est&amp;#225; loco?&lt;NEXTPAGEBUTTON&gt;"There really aren't any?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] No. I'm sorry. They don't exactly grow on trees.&lt;br&gt;[ES] No. Lo siento. No es que crezcan en los &amp;#225;rboles.</Page>
+    </Text>
+</QuestDialog>

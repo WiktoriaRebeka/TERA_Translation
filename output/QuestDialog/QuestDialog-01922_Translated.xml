@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">[EN] Looking to make a little extra money on the side today, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} will tell you what's on the docket.&lt;br&gt;[ES] &amp;#191;Buscas ganar un poco de dinero extra hoy, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} te dir&amp;#225; qu&amp;#233; hay en la lista.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">[EN] I should probably ask one of the Hands to do this, but you're a thousand times more dependable.&lt;BR&gt;&lt;BR&gt;Would you mind going to Fyrmount today? If I send one of my own, I may never see them again. They'll either run scared or die painfully.&lt;br&gt;[ES] Probablemente deber&amp;#237;a pedirle a uno de los Hands que haga esto, pero t&amp;#250; eres mil veces m&amp;#225;s confiable.&lt;BR&gt;&lt;BR&gt;&amp;#191;Te importar&amp;#237;a ir a Fyrmount hoy? Si env&amp;#237;o a uno de los m&amp;#237;os, tal vez nunca los vuelva a ver. O huir&amp;#225;n aterrorizados o morir&amp;#225;n de forma dolorosa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">[EN] I can't believe she sent you to {@Rgn:4001#Fyrmount}!&lt;BR&gt;&lt;BR&gt;What would've happened if we'd never met you? We'd probably all be dead.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;. I know I can be a real pain in the ass, but it's not an easy time to be alive. Just ask {@LinkCreature:63#3003#Elthienne}.&lt;br&gt;[ES] &amp;#161;No puedo creer que te haya enviado a {@Rgn:4001#Fyrmount}!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; habr&amp;#237;a pasado si nunca te hubi&amp;#233;ramos conocido? Probablemente estar&amp;#237;amos todos muertos.&lt;BR&gt;&lt;BR&gt;Gracias, &lt;PCNAME&gt;. S&amp;#233; que puedo ser una verdadera molestia, pero no es una &amp;#233;poca f&amp;#225;cil para estar vivo. Preg&amp;#250;ntale a {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Elthienne promised a contact of ours that we'd take care of some of the threats in {@Rgn:4001#Fyrmount}, so hunt {@LinkCreature:4#1011#fangspawns} there. Oh, and they want proof of death. I have no idea what that means, so just bring back a toenail or something.&lt;br&gt;[ES] Elthienne le prometi&amp;#243; a un contacto nuestro que nos encargar&amp;#237;amos de algunas de las amenazas en {@Rgn:4001#Fyrmount}, as&amp;#237; que caza {@LinkCreature:4#1011#fangspawns} all&amp;#237;. Ah, y quieren una prueba de muerte. No tengo idea de qu&amp;#233; significa eso, as&amp;#237; que solo trae una u&amp;#241;a del pie o algo as&amp;#237;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="7" villagerId="3002">
+        <Page social="5">[EN] You must be exhausted.&lt;BR&gt;&lt;BR&gt;Get payment from {@LinkCreature:63#3003#Elthienne} and then take a load off somewhere in town. You need your beauty rest, &lt;PCNAME&gt;.&lt;br&gt;[ES] Debes estar exhausto.&lt;BR&gt;&lt;BR&gt;Recibe tu pago de {@LinkCreature:63#3003#Elthienne} y luego t&amp;#243;mate un descanso en alg&amp;#250;n lugar del pueblo. Necesitas tu sue&amp;#241;o reparador, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Hunt {@LinkCreature:4#1021#sulphurous groknars} in {@Rgn:4001#Fyrmount} and bring back proof of their deaths for Elthienne's contact.&lt;BR&gt;&lt;BR&gt;I don't know what they want or why they want it, but I'm sure you'll find something&amp;#8212;probably something disgusting.&lt;br&gt;[ES] Caza {@LinkCreature:4#1021#sulphurous groknars} en {@Rgn:4001#Fyrmount} y trae de vuelta una prueba de sus muertes para el contacto de Elthienne.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; qu&amp;#233; quieren ni por qu&amp;#233; lo quieren, pero seguro encontrar&amp;#225;s algo, probablemente algo repugnante.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3002">
+        <Page social="5">[EN] You know, {@LinkCreature:63#3003#Elthienne} isn't all that bad. I've probably said some things I shouldn't have.&lt;BR&gt;&lt;BR&gt;She's a tough cookie. I think it's hard for two tough cookies to work so closely together. Especialy when one of them is, like, old and crumbling&amp;#8212;there I go again! I just can't help myself!&lt;BR&gt;&lt;BR&gt;I think she knows we're talking about her. You should go check.&lt;br&gt;[ES] Sabes, {@LinkCreature:63#3003#Elthienne} no es tan mala. Probablemente dije algunas cosas que no deb&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Es un hueso duro de roer. Creo que es dif&amp;#237;cil para dos huesos duros de roer trabajar tan de cerca. Especialmente cuando uno de ellos es, por as&amp;#237; decirlo, viejo y se est&amp;#225; desmoronando... &amp;#161;ah&amp;#237; voy de nuevo! &amp;#161;Simplemente no puedo evitarlo!&lt;BR&gt;&lt;BR&gt;Creo que sabe que estamos hablando de ella. Deber&amp;#237;as ir a ver.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">[EN] Kill {@LinkCreature:4#2011#voracious fangspawns} in {@Rgn:4001#Fyrmount} and bring back proof of their deaths. Elthienne will need it for the person who hired us. Make sure it's something gruesome and oozing. That was sarcasm, by the way.&lt;br&gt;[ES] Mata {@LinkCreature:4#2011#voracious fangspawns} en {@Rgn:4001#Fyrmount} y trae de vuelta una prueba de sus muertes. Elthienne la necesitar&amp;#225; para la persona que nos contrat&amp;#243;. Aseg&amp;#250;rate de que sea algo espeluznante y baboso. Eso fue sarcasmo, por cierto.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3003">
+        <Page social="4">[EN] You've done it again, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Here, you earned this.&lt;br&gt;[ES] &amp;#161;Lo has vuelto a hacer, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Toma, te lo has ganado.</Page>
+    </Text>
+</QuestDialog>

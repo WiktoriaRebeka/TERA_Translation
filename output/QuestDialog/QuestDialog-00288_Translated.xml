@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="4">[EN] I swear half the soldiers here are looking to get rich on "found" pirate treasure, and the other half are plotting vengeance against the Red Lash pirates for some unspeakable cruelty to their family members or whatever.&lt;BR&gt;&lt;BR&gt;But why pick just one reason, eh, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;If you head to the Hold, just west of here, you'll find the most lucrative pieces.&lt;BR&gt;&lt;BR&gt;Go to it, &lt;PCCLASS:lcase&gt;!&lt;br&gt;[ES] Te juro que la mitad de los soldados aqu&amp;#237; buscan hacerse ricos con el tesoro pirata &quot;encontrado&quot;, y la otra mitad planea vengarse de los piratas Red Lash por alguna crueldad indescriptible contra sus familiares o lo que sea.&lt;BR&gt;&lt;BR&gt;Pero &amp;#191;por qu&amp;#233; elegir una sola raz&amp;#243;n, eh, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Si vas al Hold, justo al oeste de aqu&amp;#237;, encontrar&amp;#225;s las piezas m&amp;#225;s lucrativas.&lt;BR&gt;&lt;BR&gt;&amp;#161;A por ello, &lt;BR&gt;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1028">
+        <Page social="4">[EN] The nagas aren't like regular pirates. Regular pirates would know exactly how valuable all these antiquities are. But all this was right under the nagas' noses&amp;#8212;er, snouts&amp;#8212;the whole time, and they had no idea.&lt;BR&gt;&lt;BR&gt;Their tragic loss is our lucrative gain, eh?&lt;br&gt;[ES] Los nagas no son como los piratas normales. Los piratas normales sabr&amp;#237;an exactamente cu&amp;#225;nto valen todas estas antig&amp;#252;edades. Pero todo esto estuvo justo bajo las narices de los nagas &amp;#8212;bueno, hocicos&amp;#8212; todo este tiempo, y no ten&amp;#237;an ni idea.&lt;BR&gt;&lt;BR&gt;Su tr&amp;#225;gica p&amp;#233;rdida es nuestra lucrativa ganancia, &amp;#191;eh?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1028">
+        <Page social="0">[EN] Don't feel like you have to clear the entire grotto in a single foray, &lt;PCNAME&gt;. Those pirates aren't going anywhere, you know.&lt;br&gt;[ES] No sientas que tienes que limpiar toda la gruta en una sola incursi&amp;#243;n, &lt;PCNAME&gt;. Esos piratas no van a ir a ninguna parte, ya sabes.</Page>
+    </Text>
+</QuestDialog>

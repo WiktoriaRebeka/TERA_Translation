@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] Jelena is searching for &lt;PCNAME&gt;.&lt;br&gt;[ES] Jelena est&amp;#225; buscando a &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] With the help of Aheaf, you were able to locate the engine room and Elleon.&lt;br&gt;[ES] Con la ayuda de Aheaf, pudiste localizar la sala de m&amp;#225;quinas y a Elleon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="110">
+        <Page social="0" voiceTypeId="0">[EN] By the looks of the draakons, I'm pretty sure that Elleon went down there.&lt;BR&gt;&lt;BR&gt;We can't leave Elleon alone. Let's go.&lt;br&gt;[ES] Por el aspecto de los draakons, estoy muy seguro de que Elleon baj&amp;#243; all&amp;#237;.&lt;BR&gt;&lt;BR&gt;No podemos dejar solo a Elleon. Vamos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="3" villagerId="131">
+        <Page social="0" voiceTypeId="0">[EN] I am Aheaf. Ally of Vogzu.&lt;BR&gt;&lt;BR&gt;I serve Commander Rogash...but Rogash treats us nagas as puny insects.&lt;BR&gt;&lt;BR&gt;Vogzu told me that if I help you, you'll eliminate all the draakons here.&lt;BR&gt;&lt;BR&gt;(Nod)&lt;BR&gt;&lt;BR&gt;Fine. The engine room is that way.&lt;br&gt;[ES] Soy Aheaf. Aliado de Vogzu.&lt;BR&gt;&lt;BR&gt;Sirvo al Comandante Rogash... pero Rogash nos trata a los nagas como insectos insignificantes.&lt;BR&gt;&lt;BR&gt;Vogzu me dijo que si te ayudo, eliminar&amp;#225;s a todos los draakons aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;(Asiente)&lt;BR&gt;&lt;BR&gt;Bien. La sala de m&amp;#225;quinas es por ah&amp;#237;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2003" prevId="4" villagerId="111">
+        <Page social="4" voiceTypeId="0">[EN] Over here! I've found tracks of Elleon.&lt;BR&gt;&lt;BR&gt;This is the direction Aheaf told us. Elleon must be headed to the engine room, too.&lt;BR&gt;&lt;BR&gt;We're almost there.&lt;BR&gt;&lt;BR&gt;Let's go!&lt;br&gt;[ES] &amp;#161;Por aqu&amp;#237;! Encontr&amp;#233; rastros de Elleon.&lt;BR&gt;&lt;BR&gt;Esta es la direcci&amp;#243;n que nos dijo Aheaf. Elleon tambi&amp;#233;n debe dirigirse a la sala de m&amp;#225;quinas.&lt;BR&gt;&lt;BR&gt;Ya casi llegamos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Vamos!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2003" prevId="5" villagerId="112">
+        <Page social="4" voiceTypeId="0">[EN] Go to the engine room with Titus and destroy the core.&lt;BR&gt;&lt;BR&gt;I'll look for Elleon.&lt;br&gt;[ES] Ve a la sala de m&amp;#225;quinas con Titus y destruye el n&amp;#250;cleo.&lt;BR&gt;&lt;BR&gt;Buscar&amp;#233; a Elleon.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2003" prevId="6" villagerId="132">
+        <Page social="0" voiceTypeId="0">[EN] I forgot to tell you that this is a dangerous zone. I think you already noticed that this place is polluted.&lt;BR&gt;&lt;BR&gt;This is where the butterflies were kept before the attack on your land was made.&lt;BR&gt;&lt;BR&gt;They're a deadly creature that turns other creatures to crystal. Lots of the butterflies are hidden in the fortress.&lt;BR&gt;&lt;BR&gt;The engine room just over there. Go! Your friend is waiting for you.&lt;br&gt;[ES] Olvid&amp;#233; decirte que esta es una zona peligrosa. Creo que ya te has dado cuenta de que este lugar est&amp;#225; contaminado.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; es donde se guardaban las mariposas antes de que se atacara tu tierra.&lt;BR&gt;&lt;BR&gt;Son una criatura mortal que convierte a otras criaturas en crystal. Muchas de las mariposas est&amp;#225;n ocultas en la fortaleza.&lt;BR&gt;&lt;BR&gt;La sala de m&amp;#225;quinas est&amp;#225; justo ah&amp;#237;. &amp;#161;Ve! Tu amigo te est&amp;#225; esperando.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2003" prevId="7" villagerId="113">
+        <Page social="4" voiceTypeId="0">[EN] Did you meet Aheaf? He told me the way.&lt;BR&gt;&lt;BR&gt;Right behind this door is the engine room. Elleon must be inside.&lt;br&gt;[ES] &amp;#191;Te encontraste con Aheaf? &amp;#201;l me indic&amp;#243; el camino.&lt;BR&gt;&lt;BR&gt;Justo detr&amp;#225;s de esta puerta est&amp;#225; la sala de m&amp;#225;quinas. Elleon debe estar adentro.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1005">
+        <Page social="4">[EN] The pirates are guarding a slaver pier on behalf of the Kazuur Syndicate. Thanks to you, &lt;PCNAME&gt;, the gulas can't use their own guards anymore.&lt;BR&gt;&lt;BR&gt;Doesn't matter who's guarding that pier, though. We've got to keep ships from docking there.&lt;BR&gt;&lt;BR&gt;That means eliminating the {@LinkCreature:12#13#Red Lash clawriders}. No captain dealing with slavers will dock at an unguarded pier, so the Kazuur Syndicate can't move their slaves.&lt;br&gt;[ES] Los piratas est&amp;#225;n custodiando un muelle de esclavistas en nombre de Kazuur Syndicate. Gracias a ti, &lt;PCNAME&gt;, los gula ya no pueden usar a sus propios guardias.&lt;BR&gt;&lt;BR&gt;Sin embargo, no importa qui&amp;#233;n est&amp;#233; custodiando ese muelle. Tenemos que evitar que los barcos atraquen all&amp;#237;.&lt;BR&gt;&lt;BR&gt;Eso significa eliminar a los {@LinkCreature:12#13#Red Lash clawriders}. Ning&amp;#250;n capit&amp;#225;n que trate con esclavistas atacar&amp;#225; en un muelle sin custodia, por lo que Kazuur Syndicate no puede mover a sus esclavos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">[EN] You're the slave trade's worst nightmare, &lt;PCNAME&gt;. The gods smile on your dedication to justice!&lt;br&gt;[ES] Eres la peor pesadilla del tr&amp;#225;fico de esclavos, &lt;PCNAME&gt;. &amp;#161;Los dioses sonr&amp;#237;en ante tu dedicaci&amp;#243;n a la justicia!</Page>
+    </Text>
+</QuestDialog>

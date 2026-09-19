@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1029">
+        <Page social="6">[EN] Killian has sort of a weird fetish for torturing people. It turns my stomach, but facts are facts.&lt;BR&gt;&lt;BR&gt;The bodies of his victims are lying all around here. I would like to pray over their belongings and put them to rest, but I can't possibly collect all the necklaces myself.&lt;BR&gt;&lt;BR&gt;Can you help me gather them up?&lt;br&gt;[ES] Killian tiene una especie de fetiche extra&amp;#241;o por torturar a la gente. Me revuelve el est&amp;#243;mago, pero los hechos son los hechos.&lt;BR&gt;&lt;BR&gt;Los cuerpos de sus v&amp;#237;ctimas est&amp;#225;n tirados por aqu&amp;#237;. Me gustar&amp;#237;a rezar por sus pertenencias y darles descanso, pero de ninguna manera puedo recolectar todos los collares yo solo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Puedes ayudarme a reunirlos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1029">
+        <Page social="5">[EN] Oh, thank you. It was breaking my heart that I couldn't do more for them.&lt;BR&gt;&lt;BR&gt;Even now, I can't do much...but I can do something.&lt;BR&gt;&lt;BR&gt;Sometimes that's all you can hope for.&lt;br&gt;[ES] Oh, gracias. Me romp&amp;#237;a el coraz&amp;#243;n no poder hacer m&amp;#225;s por ellos.&lt;BR&gt;&lt;BR&gt;Incluso ahora, no puedo hacer mucho... pero puedo hacer algo.&lt;BR&gt;&lt;BR&gt;A veces eso es todo lo que puedes esperar.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1029">
+        <Page social="0">[EN] Please...the victims are everywhere, and it hurts my soul to think that I can't do anything more for them.&lt;br&gt;[ES] Por favor... las v&amp;#237;ctimas est&amp;#225;n por todas partes, y me duele el alma pensar que no puedo hacer nada m&amp;#225;s por ellas.</Page>
+    </Text>
+</QuestDialog>

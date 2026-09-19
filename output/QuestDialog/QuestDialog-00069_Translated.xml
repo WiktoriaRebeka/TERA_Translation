@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="4">[EN] Undead horrors have seized the mines in Fyrmount. &lt;BR&gt;&lt;BR&gt;Those mines provide important war materiel for the federation. Head to Cauldron Outpost and see whether you can lend a hand.&lt;br&gt;[ES] Horrores Undead se han apoderado de las minas en Fyrmount. &lt;BR&gt;&lt;BR&gt;Esas minas proporcionan importante material de guerra para la federaci&amp;#243;n. Dir&amp;#237;gete a Cauldron Outpost y ve si puedes echar una mano.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">[EN] Always glad to see reinforcements from Castanica.&lt;BR&gt;&lt;BR&gt;Talk to Keinie. She has a better head for organizing than I do. I'm more of a "break things" kind of girl.&lt;br&gt;[ES] Siempre me alegra ver refuerzos de Castanica.&lt;BR&gt;&lt;BR&gt;Habla con Keinie. Ella tiene mejor cabeza para organizar que yo. Yo soy m&amp;#225;s del tipo de chica a la que le gusta &amp;#171;romper cosas&amp;#187;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1002">
+        <Page social="4">[EN] If you can kill undead&amp;#8212;yeah, I know, they're already dead, whatever&amp;#8212;then I can put you to work.&lt;BR&gt;&lt;BR&gt;Name? &lt;PCNAME&gt;? How do you spell that?&lt;BR&gt;&lt;BR&gt;Got it. Now make yourself useful!&lt;br&gt;[ES] Si puedes matar Undead &amp;#8212;s&amp;#237;, ya s&amp;#233;, ya est&amp;#225;n muertos, lo que sea&amp;#8212; entonces puedo ponerte a trabajar.&lt;BR&gt;&lt;BR&gt;&amp;#191;Nombre? &amp;#191;&lt;PCNAME&gt;? &amp;#191;C&amp;#243;mo se escribe eso?&lt;BR&gt;&lt;BR&gt;Entendido. &amp;#161;Ahora hazte &amp;#250;til!</Page>
+    </Text>
+</QuestDialog>

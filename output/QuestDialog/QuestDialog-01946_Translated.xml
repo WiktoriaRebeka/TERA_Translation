@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="4">[EN] We want to send the magic bots we've developed to our researchers working in different locations. But it's a long trip, and the roads are sometimes dangerous, so...we thought of you.&lt;BR&gt;&lt;BR&gt;I've prepared a magic bot summoning controller for you. Just use it to summon a magic bot for each researcher in the field. And you can use it yourself, too. Nothing wrong with a little "field testing," eh?&lt;BR&gt;&lt;BR&gt;Klissa has the controller for you. Have fun with the bots!&lt;br&gt;[ES] Queremos enviar los robots m&amp;#225;gicos que hemos desarrollado a nuestros investigadores que trabajan en diferentes lugares. Pero es un viaje largo y los caminos a veces son peligrosos, as&amp;#237; que... pensamos en ti.&lt;BR&gt;&lt;BR&gt;He preparado un controlador de invocaci&amp;#243;n de robot m&amp;#225;gico para ti. Solo &amp;#250;salo para invocar un robot m&amp;#225;gico para cada investigador en el campo. Y t&amp;#250; tambi&amp;#233;n puedes usarlo. Nada malo con un poco de &quot;prueba de campo&quot;, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Klissa tiene el controlador para ti. &amp;#161;Divi&amp;#233;rtete con los robots!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="4">[EN] Wait, you need the controller?&lt;BR&gt;&lt;BR&gt;I'm sorry, but I let Fitae and Zerit borrow it. Who knows what they wanted it for&amp;#8212;probably something irrelevant.&lt;BR&gt;&lt;BR&gt;I'm sure one of them has it. Go pester them!&lt;br&gt;[ES] &amp;#191;Espera, necesitas el controlador?&lt;BR&gt;&lt;BR&gt;Lo siento, pero se lo prest&amp;#233; a Fitae y Zerit. Qui&amp;#233;n sabe para qu&amp;#233; lo quer&amp;#237;an, probablemente para algo irrelevante.&lt;BR&gt;&lt;BR&gt;Estoy seguro de que uno de los dos lo tiene. &amp;#161;Ve a molestarlos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="4">[EN] The Magic Bot Summoning Controller? Sure&amp;#8212;here you go.&lt;BR&gt;&lt;BR&gt;Use it like any other item: open your inventory, place the cursor over the controller, and right-click.&lt;BR&gt;&lt;BR&gt;Your destination: Veltor in Balder's Refuge.&lt;br&gt;[ES] &amp;#191;El controlador de invocaci&amp;#243;n de bot m&amp;#225;gico? Claro, aqu&amp;#237; tienes.&lt;BR&gt;&lt;BR&gt;&amp;#218;salo como cualquier otro objeto: abre tu inventario, coloca el cursor sobre el controlador y haz clic derecho.&lt;BR&gt;&lt;BR&gt;Tu destino: Veltor en Balder's Refuge.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">[EN] The Magic Bot Summoning Controller? Sure&amp;#8212;here you go.&lt;BR&gt;&lt;BR&gt;Use it like any other item: open your inventory, place the cursor over the controller, and right-click.&lt;BR&gt;&lt;BR&gt;Your destination: Sindel in Balder's Refuge.&lt;br&gt;[ES] &amp;#191;El controlador de invocaci&amp;#243;n de bot m&amp;#225;gico? Claro, aqu&amp;#237; tienes.&lt;BR&gt;&lt;BR&gt;&amp;#218;salo como cualquier otro objeto: abre tu inventario, coloca el cursor sobre el controlador y haz clic derecho.&lt;BR&gt;&lt;BR&gt;Tu destino: Sindel en Balder's Refuge.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1701">
+        <Page social="4">[EN] What brings you this far?&lt;BR&gt;&lt;BR&gt;A magic bot device, eh? Let me see.&lt;NEXTPAGEBUTTON&gt;"Here you go."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; te trae por aqu&amp;#237; tan lejos?&lt;BR&gt;&lt;BR&gt;&amp;#191;Un dispositivo de bot m&amp;#225;gico, eh? D&amp;#233;jame ver.&lt;NEXTPAGEBUTTON&gt;"Here you go."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Looks like it's going to be helpful.&lt;BR&gt;&lt;BR&gt;And just between us, it might be fun, too.&lt;br&gt;[ES] Parece que va a ser de ayuda.&lt;BR&gt;&lt;BR&gt;Y entre nosostros, tambi&amp;#233;n podr&amp;#237;a ser divertido.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="8" villagerId="1702">
+        <Page social="4">[EN] A magic bot device...what will they think of next.&lt;NEXTPAGEBUTTON&gt;"Control it with this."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Un dispositivo de bot m&amp;#225;gico... qu&amp;#233; se les ocurrir&amp;#225; despu&amp;#233;s.&lt;NEXTPAGEBUTTON&gt;"Control it with this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] I'm sure I'll figure out how a magic bot can help around here. Still, it makes you wonder about my colleagues back in Allemantheia...&lt;br&gt;[ES] Estoy seguro de que descubrir&amp;#233; c&amp;#243;mo un bot m&amp;#225;gico puede ayudar por aqu&amp;#237;. A&amp;#250;n as&amp;#237;, te hace pensar en mis colegas en Allemantheia...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" villagerId="1702">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

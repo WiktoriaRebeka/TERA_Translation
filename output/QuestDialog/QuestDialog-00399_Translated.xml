@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1023">
+        <Page social="5">[EN] Oh, Adru's more fun than an Orcan on fire.&lt;BR&gt;&lt;BR&gt;But he's right&amp;#8212;there's {@LinkCreature:15#14#something toothy} out there...slithered into camp and took a bite out of Tetrask.&lt;BR&gt;&lt;BR&gt;Takes a lot to shake me, but they moved...wrong.&lt;BR&gt;&lt;BR&gt;I'm all there is between those things and scholar stew! Care to dissuade them a bit?&lt;br&gt;[ES] Oh, Adru es m&amp;#225;s divertido que un Orcan en llamas.&lt;BR&gt;&lt;BR&gt;Pero tiene raz&amp;#243;n&amp;#8212;hay {@LinkCreature:15#14#algo con muchos dientes} por ah&amp;#237;... se ha deslizado en el campamento y le ha pegado un bocado a Tetrask.&lt;BR&gt;&lt;BR&gt;Hace falta mucho para alterarme, pero se mov&amp;#237;an... raro.&lt;BR&gt;&lt;BR&gt;&amp;#161;Soy lo &amp;#250;nico que se interpone entre esas cosas y un estofado de erudito! &amp;#191;Te importar&amp;#237;a disuadirlos un poco?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1023">
+        <Page social="5">[EN] Nice job. You're almost good enough to be a member of the kingdom guard. Keep up the good work!&lt;br&gt;[ES] Buen trabajo. Casi eres lo suficientemente bueno para ser miembro de la guardia del reino. &amp;#161;Sigue con el buen trabajo!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1023">
+        <Page social="0">[EN] Did you kill those {@LinkCreature:15#14#toothy, slithery things}?&lt;br&gt;[ES] &amp;#191;Mataste a esas {@LinkCreature:15#14#criaturas con colmillos y resbaladizas}?</Page>
+    </Text>
+</QuestDialog>

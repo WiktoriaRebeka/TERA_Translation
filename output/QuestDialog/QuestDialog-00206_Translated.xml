@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[EN] Mission Orders&lt;BR&gt;&lt;BR&gt;The denizens of Vexatus Swamp are ravaging explorers and our soldiers.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:8#1011#hulking sentries}, {@LinkCreature:8#1021#cromos prowlers}, and {@LinkCreature:8#1031#Caprin imps}.&lt;BR&gt;&lt;BR&gt;Report to Rameria in Castanica when the mission is complete.&lt;br&gt;[ES] &amp;#211;rdenes de misi&amp;#243;n&lt;BR&gt;&lt;BR&gt;Los habitantes de Vexatus Swamp est&amp;#225;n arrasando con los exploradores y nuestros soldados.&lt;BR&gt;&lt;BR&gt;Derrota a los {@LinkCreature:8#1011#hulking sentries}, {@LinkCreature:8#1021#cromos prowlers} y {@LinkCreature:8#1031#Caprin imps}.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate ante Rameria en Castanica cuando la misi&amp;#243;n haya terminado.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">[EN] You've earned the thanks of the federation. Your guild is an inspiration to all!&lt;br&gt;[ES] Te has ganado el agradecimiento de la federaci&amp;#243;n. &amp;#161;Tu hermandad es una inspiraci&amp;#243;n para todos!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">[EN] It looks like you haven't completed your mission yet.&lt;br&gt;[ES] Parece que a&amp;#250;n no has completado tu misi&amp;#243;n.</Page>
+    </Text>
+</QuestDialog>

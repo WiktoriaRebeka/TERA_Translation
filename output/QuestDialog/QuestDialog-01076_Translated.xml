@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1033">
+        <Page social="4">[EN] Heads. That's what I need. Specifically, the heads of the argonomorph ossugon warlords around Raga Kabash. I can't figure out how the argons reprogrammed them!&lt;br&gt;[ES] Cabezas. Eso es lo que necesito. Espec&amp;#237;ficamente, las cabezas de los argonomorph ossugon warlords alrededor de Raga Kabash. &amp;#161;No logro entender c&amp;#243;mo los argons les reprogramaron!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1033">
+        <Page social="4">[EN] With these samples, I think I can reverse engineer the argon's indoctrination techniques for machinery. Well, it's on to the next chamber for you.&lt;br&gt;[ES] Con estas muestras, creo que puedo realizar ingenier&amp;#237;a inversa en las t&amp;#233;cnicas de adoctrinar de los argons para la maquinaria. Bueno, es hora de pasar a la siguiente c&amp;#225;mara para ti.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1033">
+        <Page social="0">[EN] I need those heads, &lt;PCNAME&gt;.&lt;br&gt;[ES] Necesito esas cabezas, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1035">
+        <Page social="4">[EN] I know, I know, argons nearby, got to evacuate...what? You're not trying to make me leave? Good. Because I was going to refuse.&lt;br&gt;[ES] Lo s&amp;#233;, lo s&amp;#233;, hay argons cerca, hay que evacuar... &amp;#191;Qu&amp;#233;? &amp;#191;No est&amp;#225;s intentando que me vaya? Qu&amp;#233; bien. Porque iba a negarme.</Page>
+    </Text>
+</QuestDialog>

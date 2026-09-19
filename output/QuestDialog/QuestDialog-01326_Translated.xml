@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="4">[EN] Your work with the sporewalkers was excellent. My associate, Melkar, at Ceravin Point needs someone with your skills. So we needn't use magical communication all the time, kill the sabertooths you find along the way.&lt;BR&gt;&lt;BR&gt;We can start employing our runners again.&lt;br&gt;[ES] Tu trabajo con los sporewalkers fue excelente. Mi asociado, Melkar, en Ceravin Point necesita a alguien con tus habilidades. Para que no tengamos que usar comunicaci&amp;#243;n m&amp;#225;gica todo el tiempo, mata a los sabertooths que encuentres en el camino.&lt;BR&gt;&lt;BR&gt;Podemos empezar a emplear a nuestros mensajeros de nuevo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1010">
+        <Page social="4">[EN] If Cecera found your assistance invaluable, we'll take it as well.&lt;BR&gt;&lt;BR&gt;Unfortunately, our problems run a bit larger than sabertooths. Rest while you can, &lt;PCCLASS:lcase&gt;.&lt;br&gt;[ES] Si Cecera encontr&amp;#243; tu ayuda invaluable, nosotros tambi&amp;#233;n la aceptaremos.&lt;BR&gt;&lt;BR&gt;Desafortunadamente, nuestros problemas son un poco m&amp;#225;s grandes que los sabertooths. Descansa mientras puedas, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="5">[EN] Originally, Karas guarded the Lake of Tears, but he vanished long ago.&lt;BR&gt;&lt;BR&gt;Now, all manner of creatures hunt around the lake. Worst of the lot are the {@LinkCreature:23#5#moonlight stalkers}.&lt;BR&gt;&lt;BR&gt;They've killed dozens of poporis in the past few months. If you could hunt them down, we would breathe more easily.&lt;br&gt;[ES] Originalmente, Karas custodiaba el Lake of Tears, pero desapareci&amp;#243; hace mucho tiempo.&lt;BR&gt;&lt;BR&gt;Ahora, todo tipo de criaturas cazan alrededor del lago. Lo peor de todo son los {@LinkCreature:23#5#moonlight stalkers}.&lt;BR&gt;&lt;BR&gt;Han matado a docenas de poporis en los &amp;#250;ltimos meses. Si pudieras darles caza, respirar&amp;#237;amos m&amp;#225;s tranquilos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1035">
+        <Page social="5">[EN] Those pesky cats won't bother us again! Your intervention has helped avert a cat-astrophe. Hee, hee!&lt;br&gt;[ES] &amp;#161;Esos molestos gatos no volver&amp;#225;n a molestarnos! Tu intervenci&amp;#243;n ha ayudado a evitar una cat-&amp;#225;strofe. &amp;#161;Je, je!</Page>
+    </Text>
+</QuestDialog>

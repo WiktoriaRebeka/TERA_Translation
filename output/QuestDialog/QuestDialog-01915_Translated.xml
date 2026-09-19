@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">[EN] I have a job for you!&lt;NEXTPAGEBUTTON&gt;"Oh yeah?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Tengo un trabajo para ti!&lt;NEXTPAGEBUTTON&gt;"Oh yeah?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Well, {@LinkCreature:63#3002#Taratia} has a job for you. But I gave her the job she's going to give to you so, in a sense, I have a job for you.&lt;br&gt;[ES] Bueno, {@LinkCreature:63#3002#Taratia} tiene un trabajo para ti. Pero yo le di el trabajo que ella te va a dar a ti, as&amp;#237; que, en cierto modo, tengo un trabajo para ti.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">[EN] &lt;PCNAME&gt;, I have a job for you! Well, technically, Elthienne has a job for you, cause she gives me my jobs. But I guess you knew that.&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;, tengo un trabajo para ti! Bueno, t&amp;#233;cnicamente, Elthienne tiene un trabajo para ti, porque ella me asigna mis trabajos. Pero supongo que ya sab&amp;#237;as eso.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">[EN] {@LinkCreature:63#3002#Taratia} speaks highly of you. I can see why.&lt;BR&gt;&lt;BR&gt; Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] {@LinkCreature:63#3002#Taratia} habla muy bien de ti. Ya veo por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt; Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] Any luck with the {@RawItem:206818}?&lt;br&gt;[ES] &amp;#191;Alguna suerte con el {@RawItem:206818}?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] {@LinkCreature:63#3002#Taratia} speaks highly of you. I can see why.&lt;BR&gt;&lt;BR&gt; Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] {@LinkCreature:63#3002#Taratia} habla muy bien de ti. Ya veo por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt; Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] Any luck with the {@RawItem:206819}?&lt;br&gt;[ES] &amp;#191;Alguna suerte con el {@RawItem:206819}?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] {@LinkCreature:63#3002#Taratia} speaks highly of you. I can see why.&lt;BR&gt;&lt;BR&gt; Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] {@LinkCreature:63#3002#Taratia} habla muy bien de ti. Ya veo por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt; Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] Any luck with the {@RawItem:206820}?&lt;br&gt;[ES] &amp;#191;Alguna suerte con el {@RawItem:206820}?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] {@LinkCreature:63#3002#Taratia} speaks highly of you. I can see why.&lt;BR&gt;&lt;BR&gt; Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] {@LinkCreature:63#3002#Taratia} habla muy bien de ti. Ya veo por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt; Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] Any luck with the {@RawItem:206821}?&lt;br&gt;[ES] &amp;#191;Alguna suerte con el {@RawItem:206821}?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">[EN] {@LinkCreature:63#3002#Taratia} speaks highly of you. I can see why.&lt;BR&gt;&lt;BR&gt; Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] {@LinkCreature:63#3002#Taratia} habla muy bien de ti. Ya veo por qu&amp;#233;.&lt;BR&gt;&lt;BR&gt; Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="1098">
+        <Page social="0">[EN] Any luck with the {@RawItem:206822}?&lt;br&gt;[ES] &amp;#191;Alguna suerte con el {@RawItem:206822}?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">[EN] Thanks, &lt;PCNAME&gt;. See you tomorrow.&lt;br&gt;[ES] Gracias, &lt;PCNAME&gt;. Nos vemos ma&amp;#241;ana.</Page>
+    </Text>
+</QuestDialog>

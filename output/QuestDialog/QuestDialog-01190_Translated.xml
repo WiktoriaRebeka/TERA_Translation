@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="5">[EN] Argon behemoths keep wrecking our troop formations, making it hard to organize our resistance.&lt;BR&gt;&lt;BR&gt;I'm sending you to kill suulvir raptors, arzakaar thassalirs, and akalath overseers.&lt;BR&gt;&lt;BR&gt;Report to {@LinkCreature:76#1603} in Kanstria when you've completed your mission.&lt;br&gt;[ES] Los behemoths argon siguen destrozando nuestras formaciones de tropas, lo que dificulta organizar nuestra resistencia.&lt;BR&gt;&lt;BR&gt;Te env&amp;#237;o a matar suulvir raptors, arzakaar thassalirs y akalath overseers.&lt;BR&gt;&lt;BR&gt;Pres&amp;#233;ntate ante {@LinkCreature:76#1603} en Kanstria cuando completes tu misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1603">
+        <Page social="5">[EN] I'm glad we've got soldiers like you, &lt;PCNAME&gt;. Well done.&lt;br&gt;[ES] Me alegra que tengamos soldados como t&amp;#250;, &lt;PCNAME&gt;. Bien hecho.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1603">
+        <Page social="0">[EN] You haven't achieved your objectives yet. Sorry.&lt;br&gt;[ES] A&amp;#250;n no has alcanzado tus objetivos. Lo siento.</Page>
+    </Text>
+</QuestDialog>

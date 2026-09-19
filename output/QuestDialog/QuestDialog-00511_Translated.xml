@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1028">
+        <Page social="4">[EN] The {@LinkCreature:20#30011100#morale boosters} keep the slaves working; so get rid of them and the digging should stop.&lt;BR&gt;&lt;BR&gt;Once you've taken care of them, head to the Reliquary Station in the Halls of Shadow. They've been asking for reinforcements.&lt;BR&gt;&lt;BR&gt;You might find that you're bounced around a bit in here.&lt;br&gt;[ES] Los {@LinkCreature:20#3011100#morale boosters} mantienen a los esclavos trabajando; as&amp;#237; que deshazte de ellos y la excavaci&amp;#243;n deber&amp;#237;a detenerse.&lt;BR&gt;&lt;BR&gt;Una vez que te encargues de ellos, dir&amp;#237;gete a Reliquary Station en Halls of Shadow. Han estado pidiendo refuerzos.&lt;BR&gt;&lt;BR&gt;Puede que notes que te traen de aqu&amp;#237; para all&amp;#225; por estos rumbos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1004">
+        <Page social="0">[EN] Finally! It's good to see they haven't forgotten about us completely.&lt;BR&gt;&lt;BR&gt;I hope you don't need to rest, because there's no time for that.&lt;br&gt;[ES] &amp;#161;Por fin! Es bueno ver que no se han olvidado por completo de nosotros.&lt;BR&gt;&lt;BR&gt;Espero que no necesites descansar, porque no hay tiempo para eso.</Page>
+    </Text>
+</QuestDialog>

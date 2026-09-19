@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1010">
+        <Page social="4">[EN] I have another theory: the protective barrier once shielding Seeliewood was maintained by faeries&amp;#8212;faeries who went mad and stopped working their fey magic.&lt;BR&gt;&lt;BR&gt;I need the faeries' relics so I can re-energize the protective barrier. It'll be the perfect research! Plus, it'll keep any more dracoloths from dropping in.&lt;BR&gt;&lt;BR&gt;If you can find and collect a few abandoned faerie relics, I'm sure I can get something working from them.&lt;br&gt;[ES] Tengo otra teor&amp;#237;a: la barrera protectora que alguna vez protegi&amp;#243; a Seeliewood era mantenida por hadas; hadas que enloquecieron y dejaron de usar su magia fey.&lt;BR&gt;&lt;BR&gt;&amp;#161;Necesito las reliquias de las hadas para poder revitalizar la barrera protectora! &amp;#161;Ser&amp;#225; la investigaci&amp;#243;n perfecta! Adem&amp;#225;s, evitar&amp;#225; que m&amp;#225;s dracoloths sigan cayendo.&lt;BR&gt;&lt;BR&gt;Si puedes encontrar y recoger algunas reliquias de hadas abandonadas, estoy seguro de que podr&amp;#233; hacer que algo funcione con ellas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1010">
+        <Page social="4">[EN] Excellent! Now I take this device and apply a manacache...&lt;BR&gt;&lt;BR&gt;Oh right. I'm done with you now, &lt;PCNAME&gt;.&lt;br&gt;[ES] &amp;#161;Excelente! Ahora tomo este dispositivo y le aplico un alijo de man&amp;#225;...&lt;BR&gt;&lt;BR&gt;Ah, cierto. He terminado contigo por ahora, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" villagerId="1010">
+        <Page social="0">[EN] That's not enough. Are you trying to sabotage my chance for fame?&lt;br&gt;[ES] Eso no es suficiente. &amp;#191;Est&amp;#225;s intentando sabotear mi oportunidad de alcanzar la fama?</Page>
+    </Text>
+</QuestDialog>

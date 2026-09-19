@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="0">[EN] Those cultists have started to summon demons. The demons are now getting ready to leave the Cathedral. If we let this be, all our work in subjugating the monsters will be in vein.&lt;BR&gt;&lt;BR&gt;Eliminate the {@LinkCreature:25#2051#cruel fimbrilisks}. Don't try this alone&amp;#8212;be sure to bring your comrades.&lt;br&gt;[ES] Esos cultistas han empezado a invocar demonios. Los demonios ahora se est&amp;#225;n preparando para salir de la catedral. Si dejamos que esto siga as&amp;#237;, todo nuestro trabajo al someter a los monstruos habr&amp;#225; sido en vano.&lt;BR&gt;&lt;BR&gt;Elimina a los {@LinkCreature:25#2051#cruel fimbrilisks}. No intentes esto a solas; aseg&amp;#250;rate de traer a tus camaradas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1009">
+        <Page social="4">[EN] Nice work! There's still more cultists than I can count, but it's a start.&lt;br&gt;[ES] &amp;#161;Buen trabajo! Todav&amp;#237;a hay m&amp;#225;s cultistas de los que puedo contar, pero es un comienzo.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1009">
+        <Page social="0">[EN] Eliminate the cruel fimbrilisks and bring back the creatures' core.&lt;br&gt;[ES] Elimina a los cruel fimbrilisks y trae de vuelta el n&amp;#250;cleo de las criaturas.</Page>
+    </Text>
+</QuestDialog>

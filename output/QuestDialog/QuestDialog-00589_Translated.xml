@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="5">[EN] Unfortunately, the kingdom isn't wholly united. There are some poporis, such as the {@LinkCreature:23#20#elin witches} who use their power for themselves, not for nature.&lt;BR&gt;&lt;BR&gt;They attacked our villages recently. You're going to be our retribution.&lt;br&gt;[ES] Desafortunadamente, el reino no est&amp;#225; completamente unido. Hay algunos poporis, como las {@LinkCreature:23#20#elin witches} que usan su poder para s&amp;#237; mismos, no para la naturaleza.&lt;BR&gt;&lt;BR&gt;Atacaron nuestras aldeas recientemente. Vas a ser nuestra retribuci&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1037">
+        <Page social="5">[EN] Thanks to you, those rogues are greatly weakened. That will help us enormously.Thanks, &lt;PCNAME&gt;.&lt;br&gt;[ES] Gracias a ti, esos rufianes est&amp;#225;n muy debilitados. Eso nos ayudar&amp;#225; enormemente. Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

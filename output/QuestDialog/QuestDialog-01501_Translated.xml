@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="61" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0">[EN] The fundamental materials when etching are {@RawItem:206818}, {@RawItem:206819}, and {@RawItem:206820}. You can gather {@RawItem:206818} from a Crimson Essence, {@RawItem:206819} from an Earth Essence, and {@RawItem:206820} from an Azure Essence. Go to Activities - Gather in the Achievement menu for details. First, collect the following materials, and then I'll teach you the basics of etching.&lt;BR&gt;&lt;BR&gt;&lt;font color = '#2478FF'&gt;{@RawItem:206818} &amp;#215;5&lt;BR&gt;{@RawItem:206819} &amp;#215;5&lt;BR&gt;{@RawItem:206820} x5&lt;/font&gt;&lt;br&gt;[ES] Los materiales fundamentales para el Etching son {@RawItem:206818}, {@RawItem:206819} y {@RawItem:206820}. Puedes recolectar {@RawItem:206818} de una Crimson Essence, {@RawItem:206819} de una Earth Essence y {@RawItem:206820} de una Azure Essence. Ve a Actividades - Recolectar en el men&amp;#250; de Logros para obtener detalles. Primero, recolecta los siguientes materiales y luego te ense&amp;#241;ar&amp;#233; los fundamentos del Etching.&lt;BR&gt;&lt;BR&gt;&lt;font color = '#2478FF'&gt;{@RawItem:206818} &amp;#215;5&lt;BR&gt;{@RawItem:206819} &amp;#215;5&lt;BR&gt;{@RawItem:206820} x5&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1606">
+        <Page social="0">[EN] Good job.&lt;BR&gt;These are the most basic materials for etching. Now, let's get you a design to get started!&lt;br&gt;[ES] Buen trabajo.&lt;BR&gt;Estos son los materiales m&amp;#225;s b&amp;#225;sicos para el Etching. &amp;#161;Ahora, vamos a conseguirte un dise&amp;#241;o para empezar!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" villagerId="1606">
+        <Page social="0">[EN] You won't get anywhere by sitting still. Get moving!&lt;br&gt;[ES] No llegar&amp;#225;s a ninguna parte qued&amp;#225;ndote sentado. &amp;#161;Ponte en marcha!</Page>
+    </Text>
+</QuestDialog>

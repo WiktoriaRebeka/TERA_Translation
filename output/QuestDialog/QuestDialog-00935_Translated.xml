@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1026">
+        <Page social="4">[EN] A...{@LinkCreature:39#270#merciless ovolith} bit me. Can't move yet&amp;#8212;still poisoned.&lt;BR&gt;&lt;BR&gt;Please&amp;#8212;kill the nearest ones to buy me some time!&lt;BR&gt;&lt;BR&gt;Chaman will never forgive me if I get eaten down here!&lt;br&gt;[ES] Un... {@LinkCreature:39#270#merciless ovolith} me mordi&amp;#243;. A&amp;#250;n no puedo moverme, sigo envenenado.&lt;BR&gt;&lt;BR&gt;Por favor, &amp;#161;mata a los m&amp;#225;s cercanos para ganar algo de tiempo!&lt;BR&gt;&lt;BR&gt;&amp;#161;Chaman nunca me perdonar&amp;#225; si me comen aqu&amp;#237; abajo!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1026">
+        <Page social="4">[EN] I can feel my arms and legs again! I'll be fine.&lt;BR&gt;&lt;BR&gt;Just have to do a few more things...&lt;br&gt;[ES] &amp;#161;Puedo sentir mis brazos y piernas de nuevo! Estar&amp;#233; bien.&lt;BR&gt;&lt;BR&gt;Solo tengo que hacer algunas cosas m&amp;#225;s...</Page>
+    </Text>
+</QuestDialog>

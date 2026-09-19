@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="9905">
+        <Page social="1" voiceTypeId="0">[EN] That beer was so tasty, I've come up with a new festival so everyone can enjoy it.&lt;BR&gt;&lt;BR&gt;What do you say, &lt;PCNAME&gt;? want to be a part of history?&lt;NEXTPAGEBUTTON&gt;"Actually, I already...Sure."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Esa cerveza estaba tan deliciosa que se me ocurri&amp;#243; un nuevo festival para que todos puedan disfrutarla.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices, &lt;PCNAME&gt;? &amp;#191;Quieres ser parte de la historia?&lt;NEXTPAGEBUTTON&gt;"Actually, I already...Sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] Oh, thank you!&lt;BR&gt;&lt;BR&gt;This time out, I'll catch the Silver trout for the beer, but feeding the villagers is up to you.&lt;BR&gt;&lt;BR&gt;There's a particularly tasty Big-Ass Fish here in Celsian Lake called the Queen Salmon.&lt;BR&gt;I'm sure that would be enough to prepare the feast.&lt;BR&gt;Please catch that fish for us.&lt;br&gt;[ES] &amp;#161;Oh, gracias!&lt;BR&gt;&lt;BR&gt;Esta vez, yo atrapar&amp;#233; el Silver trout para la cerveza, pero alimentar a los aldeanos depende de ti.&lt;BR&gt;&lt;BR&gt;Hay un Big-Ass Fish particularmente delicioso aqu&amp;#237; en Celsian Lake llamado Queen Salmon.&lt;BR&gt;Estoy seguro de que eso ser&amp;#237;a suficiente para preparar el banquete.&lt;BR&gt;Por favor, atrapa ese pez para nosotros.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] &lt;PCNAME&gt; caught a Big-Ass Fish to help feed a village.&lt;br&gt;[ES] &lt;PCNAME&gt; atrap&amp;#243; un Big-Ass Fish para ayudar a alimentar a una aldea.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="1" villagerId="9905">
+        <Page social="4" voiceTypeId="0">[EN] Woah, that's a Big-Ass Fish!&lt;BR&gt;Thank you so much.&lt;BR&gt;I'll spread the word.&lt;br&gt;[ES] &amp;#161;Vaya, eso s&amp;#237; que es un pez enorme!&lt;BR&gt;Much&amp;#237;simas gracias.&lt;BR&gt;Correr&amp;#233; la voz.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="9905">
+        <Page social="0">[EN] Have you caught the Queen Salmon yet?&lt;BR&gt;It can only be caught by fishing manually.&lt;br&gt;[ES] &amp;#191;Has atrapado ya el Queen Salmon?&lt;BR&gt;Solo se puede pescar haci&amp;#233;ndolo de forma manual.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="3" villagerId="9905">
+        <Page social="4" voiceTypeId="0">[EN] Thank you so much, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The villagers all looking forward to a wonderful meal, but you can tast the results before anyone else!&lt;BR&gt;&lt;BR&gt;And here's a little something extra from the Fishing Association.&lt;br&gt;[ES] Much&amp;#237;simas gracias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Todos los aldeanos esperan una comida maravillosa, pero t&amp;#250; puedes probar los resultados antes que nadie!&lt;BR&gt;&lt;BR&gt;Y aqu&amp;#237; tienes un peque&amp;#241;o obsequio de la Asociaci&amp;#243;n de Pescadores.</Page>
+    </Text>
+</QuestDialog>

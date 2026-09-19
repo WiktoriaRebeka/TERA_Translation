@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1023">
+        <Page social="9">[EN] Are you with the local regiment&amp;#8212;Kaia's Sword? Can you help me?&lt;BR&gt;&lt;BR&gt;My sons left home a few days ago, and I'm starting to get worried. Can you check up on them for me?&lt;br&gt;[ES] &amp;#191;Est&amp;#225;s con el regimiento local: Kaia's Sword? &amp;#191;Puedes ayudarme?&lt;BR&gt;&lt;BR&gt;Mis hijos se fueron de casa hace unos d&amp;#237;as y empiezo a preocuparme. &amp;#191;Puedes ir a ver c&amp;#243;mo est&amp;#225;n por m&amp;#237;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1007">
+        <Page social="4">[EN] You're looking for Wynne's sons? Zebedah and Zebulon?&lt;BR&gt;&lt;BR&gt;Sorry, didn't mean to get your hopes up. Haven't seen hide nor hair of them. I try to keep an eye on everything around here, but I'm no Balder. I can't see everything.&lt;BR&gt;&lt;BR&gt;Check with {@LinkCreature:212#1001#Munam}. Don't let the gruff act fool you. He's the biggest gossip I've ever met.&lt;br&gt;[ES] &amp;#191;Buscas a los hijos de Wynne? &amp;#191;Zebedah y Zebulon?&lt;BR&gt;&lt;BR&gt;Lo siento, no quise ilusionarte. No he visto ni rastro de ellos. Intento vigilar todo por aqu&amp;#237;, pero no soy Balder. No puedo verlo todo.&lt;BR&gt;&lt;BR&gt;Consulta con {@LinkCreature:212#1001#Munam}. No dejes que su actitud brusca te enga&amp;#241;e. Es el mayor chismoso que he conocido.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1001">
+        <Page social="4">[EN] Did you say that you're here on Wynne's request? What do you mean the children have disappeared? There are so many things happening, I haven't received a report on that one yet. There was a child wandering around here a few days ago. Why don't you ask the guards as you look around the campsite? I'm sorry I'm not much of a help. Anway, it's great to have you back in one piece.&lt;br&gt;[ES] &amp;#191;Dijiste que est&amp;#225;s aqu&amp;#237; a petici&amp;#243;n de Wynne? &amp;#191;Qu&amp;#233; quieres decir con que los ni&amp;#241;os han desaparecido? Hay tantas cosas pasando que a&amp;#250;n no he recibido un reporte sobre eso. Hubo un ni&amp;#241;o deambulando por aqu&amp;#237; hace unos d&amp;#237;as. &amp;#191;Por qu&amp;#233; no les preguntas a los guardias mientras buscas por el campamento? Siento no ser de mucha ayuda. De todos modos, &amp;#161;qu&amp;#233; bueno que est&amp;#233;s de regreso sano y salvos!</Page>
+    </Text>
+</QuestDialog>

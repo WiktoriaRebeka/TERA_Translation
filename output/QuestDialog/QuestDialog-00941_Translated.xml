@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="4">[EN] We can't let the {@LinkCreature:39#280#arachnen devastators} have the run of this place. It puts our forces at too great a disadvantage.&lt;BR&gt;&lt;BR&gt;Cull their numbers lest they mass for an attack on our position.&lt;br&gt;[ES] No podemos permitir que los {@LinkCreature:39#280#arachnen devastators} corran a sus anchas por este lugar. Pone a nuestras fuerzas en una desventaja demasiado grande.&lt;BR&gt;&lt;BR&gt;Reduce su n&amp;#250;mero para que no se agrupen para un ataque en nuestra posici&amp;#243;n.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1025">
+        <Page social="4">[EN] Good. That's one less thing to worry about. Thank you.&lt;br&gt;[ES] Bien. Es una preocupaci&amp;#243;n menos de qu&amp;#233; preocuparse. Gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1025">
+        <Page social="0">[EN] We don't have the luxury of time here. I want the {@LinkCreature:39#280#arachnen devastators} dead!&lt;br&gt;[ES] &amp;#161;No tenemos el lujo del tiempo aqu&amp;#237;. &amp;#161;Quiero a los {@LinkCreature:39#280#arachnen devastators} muertos!</Page>
+    </Text>
+</QuestDialog>

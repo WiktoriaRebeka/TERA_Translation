@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1007">
+        <Page social="5">[EN] The Kazuur Syndicate is trying to move the slaves&amp;#8212;they must know we're on to them.&lt;BR&gt;&lt;BR&gt;Take out the guards at Sandbar Beach. If a ship pulls up and sees a bunch of {@LinkCreature:12#14#gula trafficker} corpses, they won't risk moving the slaves.&lt;BR&gt;&lt;BR&gt;Plus, more dead slavers is an inherently good thing, right?&lt;br&gt;[ES] Kazuur Syndicate est&amp;#225; intentando trasladar a los esclavos; deben saber que les seguimos la pista.&lt;BR&gt;&lt;BR&gt;Elimina a los guardias en Sandbar Beach. Si un barco se acerca y ve un mont&amp;#243;n de cad&amp;#225;veres de {@LinkCreature:12#14#gula trafficker}, no se arriesgar&amp;#225;n a mover a los esclavos.&lt;BR&gt;&lt;BR&gt;Adem&amp;#225;s, m&amp;#225;s esclavistas muertos es algo intr&amp;#237;nsecamente bueno, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1007">
+        <Page social="5">[EN] One piece of the puzzle at a time, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;It's like we're dismantling a jigsaw puzzle. Every part of the puzzle we remove makes the rest look more wrecked and chaotic.&lt;BR&gt;&lt;BR&gt;And eventually the whole thing falls apart. Hah!&lt;br&gt;[ES] Una pieza del rompecabezas a la vez, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Es como si estuvi&amp;#233;ramos desmontando un rompecabezas. Cada parte del rompecabezas que quitamos hace que el resto parezca m&amp;#225;s destrozado y ca&amp;#243;tico.&lt;BR&gt;&lt;BR&gt;Y al final todo se desmorona. &amp;#161;Ja!</Page>
+    </Text>
+</QuestDialog>

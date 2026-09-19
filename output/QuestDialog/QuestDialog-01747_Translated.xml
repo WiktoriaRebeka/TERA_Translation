@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="27" prevId="0" villagerId="563">
+        <Page social="0">[EN] Zeuk had been keeping watch for some time, and can asked if you could collect his favorite food, Veridia Root.He then asked if you could help other people in the area&lt;br&gt;[ES] Zeuk hab&amp;#237;a estado vigilando por un tiempo y pregunt&amp;#243; si pod&amp;#237;as recolectar su comida favorita, Veridia Root. Luego pregunt&amp;#243; si pod&amp;#237;as ayudar a otras personas en el &amp;#225;rea.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="27" prevId="0" villagerId="563">
+        <Page social="4" voiceTypeId="0">[EN] Nothing has gone well since the evacuation.&lt;BR&gt;I mean, look at me. I'm a blacksmith, not a sentry. But I'm stuck up here on watch, without even a pet to keep me company.&lt;NEXTPAGEBUTTON&gt;What can I do to help?&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Nada ha salido bien desde la evacuaci&amp;#243;n.&lt;BR&gt;Digo, m&amp;#237;rame. Soy un herrero, no un centinela. Pero estoy atrapado aqu&amp;#237; arriba haciendo guardia, sin siquiera una mascota que me haga compa&amp;#241;&amp;#237;a.&lt;NEXTPAGEBUTTON&gt;What can I do to help?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">[EN] I see you running around helping people. Maybe you could help me.&lt;BR&gt;&lt;BR&gt;Why don't you...gather some Veridia Root for me! My hunger is dragging me down.&lt;NEXTPAGEBUTTON&gt;"Really? Really?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Te veo corriendo por ah&amp;#237; ayudando a la gente. Tal vez puedas ayudarme.&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; no... re&amp;#250;nes un poco de Veridia Root para m&amp;#237;? &amp;#161;Mi hambre me est&amp;#225; arrastrando hacia abajo!&lt;NEXTPAGEBUTTON&gt;"Really? Really?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="2" villagerId="563">
+        <Page social="4" voiceTypeId="0">[EN] Haha! Nicely done! Now I can snack away the hours.&lt;BR&gt;&lt;BR&gt;I've seen a few other people struggling from here. In particular, those high elf stonemasons can use some better supplies.&lt;br&gt;[ES] &amp;#161;Jaja! &amp;#161;Bien hecho! Ahora puedo comer algo para pasar las horas.&lt;BR&gt;&lt;BR&gt;He visto a algunas otras personas batallando por aqu&amp;#237;. En particular, esos stonemasons high elf podr&amp;#237;an usar mejores suministros.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" villagerId="563">
+        <Page social="0">[EN] How are you coming with those Verida Roots? It seems silly for you to come all the way up here empty handed.&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo vas con esas Veridia Roots? Parece una tonter&amp;#237;a que subas hasta aqu&amp;#237; con las manos vac&amp;#237;as.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="3" villagerId="565">
+        <Page social="4" voiceTypeId="0">[EN] Oh, thank you, kind stranger!&lt;BR&gt;&lt;BR&gt;We'll put these stones to good use!&lt;br&gt;[ES] &amp;#161;Oh, gracias, amable extra&amp;#241;o!&lt;BR&gt;&lt;BR&gt;&amp;#161;Le daremos un buen uso a estas piedras!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="27" villagerId="565">
+        <Page social="0">[EN] We don't have enough stone to build even the smallest wall. Can't you help us?&lt;br&gt;[ES] No tenemos suficiente piedra para construir ni el muro m&amp;#225;s peque&amp;#241;o. &amp;#191;No puedes ayudarnos?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="27" prevId="5" villagerId="564">
+        <Page social="4" voiceTypeId="0">[EN] Thank you! I'll certainly put these to good use. How did you know I needed help?&lt;br&gt;[ES] &amp;#161;Gracias! Ciertamente les dar&amp;#233; un buen uso. &amp;#191;C&amp;#243;mo sab&amp;#237;as que necesitaba ayuda?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="27" villagerId="564">
+        <Page social="0">[EN] I'll never be done at this rate. Say, you wouldn't happen to have any Xermetal Ore, would you?&lt;br&gt;[ES] Nunca terminar&amp;#233; a este ritmo. Dime, &amp;#191;no tendr&amp;#225;s por casualidad algo de Xermetal Ore?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="27" prevId="7" villagerId="563">
+        <Page social="0" voiceTypeId="0">[EN] You really are a good helper!&lt;BR&gt;&lt;BR&gt;I'm very grateful you could take the time to help us out like this. It's hard to go out gathering when you've got so much to do.&lt;BR&gt;&lt;BR&gt;Please, take this as compensation for all your hard work.&lt;br&gt;[ES] &amp;#161;De verdad eres un buen ayudante!&lt;BR&gt;&lt;BR&gt;Estoy muy agradecido de que te hayas tomado el tiempo de ayudarnos as&amp;#237;. Es dif&amp;#237;cil salir a recolectar cuando tienes tanto que hacer.&lt;BR&gt;&lt;BR&gt;Por favor, acepta esto como compensaci&amp;#243;n por todo tu arduo trabajo.</Page>
+    </Text>
+</QuestDialog>

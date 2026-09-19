@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">[EN] The Winterwolves Encampment is home to the most fearsome warriors of the Sihran rebellion.&lt;BR&gt;&lt;BR&gt;Head southwest from here and you'll find them.&lt;br&gt;[ES] El campamento de los Winterwolves es el hogar de los guerreros m&amp;#225;s temibles de la rebeli&amp;#243;n de Sihran.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete hacia el suroeste desde aqu&amp;#237; y los encontrar&amp;#225;s.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" prevId="3" villagerId="1001">
+        <Page social="4" voiceTypeId="0">[EN] I don't know if I can ever repay you for this.&lt;BR&gt;&lt;BR&gt;On behalf of the people of Acarum, I thank you.&lt;br&gt;[ES] No s&amp;#233; si podr&amp;#233; pagarte esto jam&amp;#225;s.&lt;BR&gt;&lt;BR&gt;En nombre de la gente de Acarum, te doy las gracias.</Page>
+    </Text>
+</QuestDialog>

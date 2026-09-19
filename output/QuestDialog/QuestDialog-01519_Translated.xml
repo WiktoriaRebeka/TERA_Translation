@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="0">[EN] You fought through the guwangi, rescued Magistrate Madat, and gained the trust of the Khirians, joining forces in their sanctuary.&lt;br&gt;[ES] Luchaste contra los guwangi, rescataste al magistrado Madat y te ganaste la confianza de los khirian, uniendo fuerzas en su santuario.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="4">[EN] The guwangis are one of our many enemies. They prey on my people, dragging them back to their village.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I'll find them and rescue Madat."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Los guwangi son uno de nuestros muchos enemigos. Se aprovechan de mi gente y se los llevan arrastrando a su aldea.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I'll find them and rescue Madat."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] You bested the arachnens. Perhaps you can massacre the guwangis, too.&lt;BR&gt;&lt;BR&gt;Their village is west of here. I will rally the Khirians while you locate Madat.&lt;BR&gt;&lt;BR&gt;We'll rescue him together.&lt;br&gt;[ES] Derrotaste a los arachnens. Quiz&amp;#225;s puedas masacrar a los guwangis tambi&amp;#233;n.&lt;BR&gt;&lt;BR&gt;Su aldea est&amp;#225; al oeste de aqu&amp;#237;. Reunir&amp;#233; a los Khirians mientras localizas a Madat.&lt;BR&gt;&lt;BR&gt;Lo rescataremos juntos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1012">
+        <Page social="4">[EN] "The rise of one star means another must set&amp;#8230; I am more than happy to go as this new star will change everything. Mjusu Kraal."&lt;br&gt;[ES] &quot;El ascenso de una estrella significa que otra debe apagarse... Estoy m&amp;#225;s que feliz de partir, ya que esta nueva estrella lo cambiar&amp;#225; todo. Mjusu Kraal.&quot;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1013">
+        <Page social="0">[EN] (Something is carved under the lid: Madat.)&lt;br&gt;[ES] (Algo est&amp;#225; tallado bajo la tapa: Madat.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1014">
+        <Page social="0">[EN] No, please! Please don't kill me!&lt;NEXTPAGEBUTTON&gt;"Did you see an old man in a funny hat?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;No, por favor! &amp;#161;Por favor, no me mates!&lt;NEXTPAGEBUTTON&gt;"Did you see an old man in a funny hat?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">[EN] Yes. Yes! The hat with long ears. I saw him not long ago.&lt;BR&gt;&lt;BR&gt;If he's strong enough, the guwangis will enslave him. If not, well, they'll eat anything.&lt;br&gt;[ES] S&amp;#237;. &amp;#161;S&amp;#237;! El sombrero de orejas largas. Lo vi hace poco.&lt;BR&gt;&lt;BR&gt;Si es lo suficientemente fuerte, los guwangis lo esclavizar&amp;#225;n. Si no, bueno, se comen cualquier cosa.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1107">
+        <Page social="0">[EN] What took so long? Destiny isn't what it used to be.&lt;BR&gt;&lt;BR&gt;Let's get out of here!&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; tardaste tanto? El destino ya no es lo que era.&lt;BR&gt;&lt;BR&gt;&amp;#161;Salgamos de aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1106">
+        <Page social="0">[EN] Well done, southerner. Perhaps I was rash to judge you.&lt;BR&gt;&lt;BR&gt;The Khirians have a hideout in the cave up the hill behind me.&lt;BR&gt;&lt;BR&gt;Meet me there. The guwangis will want revenge for today.&lt;br&gt;[ES] Bien hecho, sure&amp;#241;o. Quiz&amp;#225;s fui imprudente al juzgarte.&lt;BR&gt;&lt;BR&gt;Los Khirians tienen un escondite en la cueva col arriba detr&amp;#225;s de m&amp;#237;.&lt;BR&gt;&lt;BR&gt;Re&amp;#250;nete conmigo all&amp;#237;. Los guwangis querr&amp;#225;n venganza por lo de hoy.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1206">
+        <Page social="4">[EN] Welcome to our refuge.&lt;BR&gt;&lt;BR&gt;This place is not like home, but it's safe enough. Your forces may join us through the teleportal and your wounded may recover here.&lt;br&gt;[ES] Bienvenido a nuestro refugio.&lt;BR&gt;&lt;BR&gt;Este lugar no es como el hogar, pero es lo suficientemente seguro. Tus fuerzas pueden unirse a nosotros a trav&amp;#233;s del teleportal y tus heridos pueden recuperarse aqu&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

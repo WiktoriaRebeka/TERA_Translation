@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1029">
+        <Page social="4">[EN] This weather alone is harsh enough, but now we're dealing with an increasing number of vengeful wraiths and bonded bone imps from Thulsa's army.&lt;BR&gt;&lt;BR&gt;Their shrieks are sending the villagers into a panic, and that's never good for any of us. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, bring me the crystals that keep them moving. And shrieking.&lt;br&gt;[ES] Este clima por s&amp;#237; solo es bastante duro, pero ahora lidiamos con un n&amp;#250;mero creciente de espectros vengativos y diablillos de hueso atados del ej&amp;#233;rcito de Thulsa.&lt;BR&gt;&lt;BR&gt;Sus chillidos est&amp;#225;n poniendo a los aldeanos en p&amp;#225;nico, y eso nunca es bueno para ninguno de nosotros. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, tr&amp;#225;eme los crystals que los mantienen en movimiento. Y chillando.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1029">
+        <Page social="4">[EN] Good job! &lt;BR&gt;&lt;BR&gt;Now our villagers can sleep at night. &lt;BR&gt;&lt;BR&gt;It's all because of you, &lt;PCNAME&gt;. Thanks!&lt;br&gt;[ES] &amp;#161;Buen trabajo! &lt;BR&gt;&lt;BR&gt;Ahora nuestros aldeanos pueden dormir por la noche. &lt;BR&gt;&lt;BR&gt;Todo es gracias a ti, &lt;PCNAME&gt;. &amp;#161;Gracias!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1029">
+        <Page social="0">[EN] Those crystals keep the wraiths and their imps animated. Grab the crystals, destroy the undead. It's that simple.&lt;br&gt;[ES] Esos crystals mantienen animados a los espectros y a sus diablillos. Consigue los crystals, destruye a los muertos vivientes. As&amp;#237; de simple.</Page>
+    </Text>
+</QuestDialog>

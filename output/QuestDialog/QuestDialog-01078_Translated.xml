@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1036">
+        <Page social="4">[EN] Each floor of Raga Evala seems to have been used for advanced botanical research, plant evolution, energy metabolism, that sort of thing.&lt;BR&gt;&lt;BR&gt;They didn't cover that in your military training? Unsurprising.&lt;BR&gt;&lt;BR&gt;I believe the argons were trying to evolve plants into pure energy. They grew them in all these water tanks. Get some samples, but don't evolve into pure energy yourself!&lt;br&gt;[ES] Cada piso de Raga Evala parece haber sido utilizado para investigaci&amp;#243;n bot&amp;#225;nica avanzada, evoluci&amp;#243;n de plantas, metabolismo energ&amp;#233;tico y cosas por el estilo.&lt;BR&gt;&lt;BR&gt;&amp;#191;No te ense&amp;#241;aron eso en tu entrenamiento militar? Qu&amp;#233; sorpresa.&lt;BR&gt;&lt;BR&gt;Creo que los argons estaban intentando convertir a las plantas en pura energ&amp;#237;a. Las cultivaban en todos estos tanques de agua. &amp;#161;Consigue algunas muestras, pero no vayas a convertirte t&amp;#250; tambi&amp;#233;n en pura energ&amp;#237;a!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1036">
+        <Page social="4">[EN] They're further along than we thought. The director should hear about this.&lt;br&gt;[ES] Est&amp;#225;n m&amp;#225;s avanzados de lo que pens&amp;#225;bamos. El director deber&amp;#237;a enterarse de esto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1036">
+        <Page social="0">[EN] Please destroy {@Creature:46#7004$$aquaas extractors} in surrounding rooms and collect samples.&lt;BR&gt;&lt;BR&gt;I want to know whether the plants can really evolve into pure energy.&lt;br&gt;[ES] Por favor, destruye los {@Creature:46#7004$$aquaas extractors} en las habitaciones de los alrededores y recoge muestras.&lt;BR&gt;&lt;BR&gt;Quiero saber si las plantas realmente pueden evolucionar en pura energ&amp;#237;a.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1103">
+        <Page social="4">[EN] Evidence that plants can self-synthesize? That would mean limitless energy for the argons...&lt;br&gt;[ES] &amp;#191;Evidencia de que las plantas pueden autosintetizarse? Eso significar&amp;#237;a energ&amp;#237;a ilimitada para los argons...</Page>
+    </Text>
+</QuestDialog>

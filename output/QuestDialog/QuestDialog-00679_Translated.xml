@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1447">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1447">
+        <Page social="1">[EN] I was taking my first pegasus trip from Allemantheia to Bastion, and, well, the view from up there was so splendid...accidents happen!&lt;BR&gt;&lt;BR&gt;I just leaned over to get a better look. I leaned a little too far, I suppose.&lt;BR&gt;&lt;BR&gt;I had a knapsack full of valuable books, you see. Now they're scattered everywhere.&lt;BR&gt;&lt;BR&gt;Could you help me look for them?&lt;br&gt;[ES] Estaba haciendo mi primer viaje en pegaso desde Allemantheia hacia Bastion y, bueno, la vista desde all&amp;#225; arriba era tan espl&amp;#233;ndida... &amp;#161;los accidentes pasan!&lt;BR&gt;&lt;BR&gt;Solo me asom&amp;#233; para ver mejor. Supongo que me asom&amp;#233; un poco demasiado.&lt;BR&gt;&lt;BR&gt;Ten&amp;#237;a una mochila llena de libros valiosos, ya sabes. Ahora est&amp;#225;n dispersos por todas partes.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as ayudarme a buscarlos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1447">
+        <Page social="1">[EN] Thank you!&lt;BR&gt;&lt;BR&gt;Oh, my backside. We baraka are rather ungainly skydivers.&lt;BR&gt;&lt;BR&gt;I'll be a while getting back. Would you warn {@LinkCreature:71#1009$$Kiril} I'll be late?&lt;br&gt;[ES] &amp;#161;Gracias!&lt;BR&gt;&lt;BR&gt;Ay, mis posaderas. Los baraka somos paracaidistas bastante torpes.&lt;BR&gt;&lt;BR&gt;Me tomar&amp;#225; un tiempo regresar. &amp;#191;Le advertir&amp;#237;as a {@LinkCreature:71#1009$$Kiril} que llegar&amp;#233; tarde?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1447">
+        <Page social="0">[EN] Imagine! Books falling from the sky! They must be somewhere nearby.&lt;br&gt;[ES] &amp;#161;Imagina! &amp;#161;Libros cayendo del cielo! Deben estar en alg&amp;#250;n lugar cercano.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="3" villagerId="1009">
+        <Page social="1">[EN] Yes, we worried when the pegasus arrived empty.&lt;BR&gt;&lt;BR&gt;Thakun had never left Balder's Refuge before.&lt;BR&gt;&lt;BR&gt;Allemantheia must have sent him back without a guide&amp;#8212;those idiots!&lt;br&gt;[ES] S&amp;#237;, nos preocupamos cuando el pegaso lleg&amp;#243; vac&amp;#237;o.&lt;BR&gt;&lt;BR&gt;Thakun nunca antes hab&amp;#237;a dejado Balder's Refuge.&lt;BR&gt;&lt;BR&gt;Allemantheia debi&amp;#243; haberlo enviado de regreso sin un gu&amp;#237;a... &amp;#161;esos idiotas!</Page>
+    </Text>
+</QuestDialog>

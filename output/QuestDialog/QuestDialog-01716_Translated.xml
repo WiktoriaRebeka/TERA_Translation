@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="505" prevId="0" villagerId="2027">
+        <Page social="0">[EN] With the dragons' assault on the city, the banquet came to a horrific end, marked by ruins and ashes. Just before the great Black Dragon struck its final blow, Mystel sent you back to the past.&lt;br&gt;[ES] Con el asalto de los dragones a la ciudad, el banquete lleg&amp;#243; a un final horrendo, marcado por ruinas y cenizas. Justo antes de que el gran Black Dragon diera su golpe final, Mystel te envi&amp;#243; de regreso al pasado.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="505" prevId="0" villagerId="2027">
+        <Page social="0" voiceTypeId="0">[EN] You've attended all the events.&lt;BR&gt;&lt;BR&gt;It's time for Seir's speech.&lt;br&gt;[ES] Has asistido a todos los eventos.&lt;BR&gt;&lt;BR&gt;Es hora del discurso de Seir.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="505" prevId="2" villagerId="2027">
+        <Page social="0" voiceTypeId="0">[EN] The Goddess...! Velika...!&lt;BR&gt;&lt;BR&gt;What are all these dragons...?&lt;br&gt;[ES] &amp;#161;La Diosa...! &amp;#161;Velika...!&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; son todos estos dragones...?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="505" prevId="3" villagerId="2012">
+        <Page social="0" voiceTypeId="0">[EN] What's happening?&lt;BR&gt;&lt;BR&gt;Where did all these dragons come from?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; est&amp;#225; pasando?&lt;BR&gt;&lt;BR&gt;&amp;#191;De d&amp;#243;nde salieron todos estos dragones?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="505" prevId="4" villagerId="2028">
+        <Page social="0" voiceTypeId="0">[EN] Something's wrong...&lt;BR&gt;&lt;BR&gt;The Veil! The wall between worlds! It's gone!&lt;BR&gt;&lt;BR&gt;Something is very, very wrong...!&lt;br&gt;[ES] Algo anda mal...&lt;BR&gt;&lt;BR&gt;&amp;#161;El Velo! &amp;#161;El muro entre mundos! &amp;#161;Ha desapareido!&lt;BR&gt;&lt;BR&gt;Algo anda muy, muy mal...!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="505" prevId="5" villagerId="2027">
+        <Page social="0" voiceTypeId="0">[EN] I'll get these people to safety, then I'll bring back some troops.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, please search the area to see if there are any more survivors. Be careful.&lt;BR&gt;&lt;BR&gt;The Goddess is... never mind that for now. Just be quick, and be safe.&lt;br&gt;[ES] Llevar&amp;#233; a esta gente a un lugar seguro, luego traer&amp;#233; algunas tropas.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, por favor busca en la zona para ver si hay m&amp;#225;s sobrevivientes. Ten cuidado.&lt;BR&gt;&lt;BR&gt;La Diosa est&amp;#225;... olv&amp;#237;dalo por ahora. Solo s&amp;#233; r&amp;#225;pido y mantente a salvo.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="505" prevId="6" villagerId="3005">
+        <Page social="0" voiceTypeId="0">[EN] Did everyone... make it out?&lt;BR&gt;&lt;BR&gt;I hope... the other Palace Knights are... safe...&lt;br&gt;[ES] &amp;#191;Lograron... salir todos?&lt;BR&gt;&lt;BR&gt;Espero que... los otros Palace Knights est&amp;#233;n... a salvo...</Page>
+    </Text>
+    <Text id="8" huntingZoneId="505" prevId="7" villagerId="3001">
+        <Page social="0" voiceTypeId="0">[EN] I think it's better this way... so I won't be around to see things get even worse... &lt;BR&gt;&lt;BR&gt;That enormous Black Dragon...that dragon is controlling all the other dragons.&lt;BR&gt;You must... find it! The Master of the Darkened...&lt;br&gt;[ES] Creo que es mejor as&amp;#237;... para no estar por aqu&amp;#237; y ver que las cosas empeoran a&amp;#250;n m&amp;#225;s... &lt;BR&gt;&lt;BR&gt;Ese enorme Black Dragon... ese drag&amp;#243;n est&amp;#225; controlando a todos los dem&amp;#225;s dragones.&lt;BR&gt;&amp;#161;Debes... encontrarlo! El Maestro de la Oscuridad...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1132">
+        <Page social="0" voiceTypeId="0">[EN] What? The banquet? That's still three days away...&lt;BR&gt;&lt;BR&gt;Everything's going smoothly. We just got a shipment of fresh ingredients from all over the land, and the chef is hard at work on the menu. I think that's all for now...&lt;BR&gt;&lt;BR&gt;I don't know. You should wipe off the dust though.&lt;BR&gt;&lt;BR&gt;You came to meet Seir, right? He's inside.&lt;br&gt;[ES] &amp;#191;Qu&amp;#233;? &amp;#191;El banquete? Eso todav&amp;#237;a es dentro de tres d&amp;#237;as...&lt;BR&gt;&lt;BR&gt;Todo va sobre ruedas. Acabamos de recibir un cargamento de ingredientes frescos de todo el territorio, y el chef est&amp;#225; trabajando duro en el men&amp;#250;. Creo que eso es todo por ahora...&lt;BR&gt;&lt;BR&gt;No lo s&amp;#233;. Aunque deber&amp;#237;as quitarte el polvo.&lt;BR&gt;&lt;BR&gt;Viniste a conocer a Seir, &amp;#191;verdad? Est&amp;#225; adentro.</Page>
+    </Text>
+</QuestDialog>

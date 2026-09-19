@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="1">[EN] Let's put that overdeveloped sense of helpfulness to good use, &lt;PCNAME&gt;. Sestena, a researcher who seeks artifacts called archive tablets, needs some help out in the field.&lt;BR&gt;&lt;BR&gt;Consider it penance for being naive.&lt;br&gt;[ES] Pongamos ese sentido de la ayuda tan desarrollado a un buen uso, &lt;PCNAME&gt;. Sestena, una investigadora que busca unos artefactos llamados tablillas de archivo, necesita ayuda en el campo.&lt;BR&gt;&lt;BR&gt;Considera esto como penitencia por tu ingenuidad.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1019">
+        <Page social="1">[EN] You're my savior!&lt;BR&gt;&lt;BR&gt;The {@Rgn:30009$$Upper Archive} is so extensive that I don't know where to begin.&lt;BR&gt;&lt;BR&gt;Apparently, archive tablets lie inside stone boxes scattered all over this temple area.&lt;BR&gt;&lt;BR&gt;Collect all the archive tablets you find, and give them to {@LinkCreature:230#1026$$Meterok}. Hopefully he can put them in order.&lt;br&gt;[ES] &amp;#161;Eres mi salvador!&lt;BR&gt;&lt;BR&gt;El {@Rgn:30009$$Upper Archive} es tan extenso que no s&amp;#233; por d&amp;#243;nde empezar.&lt;BR&gt;&lt;BR&gt;Al parecer, las tablillas de archivo est&amp;#225;n dentro de cajas de piedra esparcidas por toda esta zona del templo.&lt;BR&gt;&lt;BR&gt;Recoge todas las tablillas de archivo que encuentres y d&amp;#225;selas a {@LinkCreature:230#1026$$Meterok}. Con suerte, podr&amp;#225; ponerlas en orden.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1026">
+        <Page social="1">[EN] That's a real treasure trove of slates! Hand them to me carefully&amp;#8212;they date back to the ancient empire of the giants, you know.&lt;BR&gt;&lt;BR&gt;I have a theory that the giants who wrote these slates are the direct ancestors of the baraka&amp;#8212;lovers of knowledge, not of conquest, in other words.&lt;BR&gt;&lt;BR&gt;I should reward you for your efforts, of course.&lt;br&gt;[ES] &amp;#161;Es un verdadero tesoro de lajas! D&amp;#225;melas con cuidado; datan del antiguo imperio de los gigantes, ya sabes.&lt;BR&gt;&lt;BR&gt;Tengo la teor&amp;#237;a de que los gigantes que escribieron estas lajas son los ancestros directos de los baraka; amantes del conocimiento y no de la conquista, en otras palabras.&lt;BR&gt;&lt;BR&gt;Por supuesto, debo recompensarte por tus esfuerzos.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1026">
+        <Page social="0">[EN] It's about time that Sestena sent me some help.&lt;br&gt;[ES] Ya era hora de que Sestena me mandara algo de ayuda.</Page>
+    </Text>
+</QuestDialog>

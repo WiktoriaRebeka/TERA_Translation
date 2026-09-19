@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1012">
+        <Page social="4">[EN] It's time to punish the giants for allying with Thulsa. Whatever the prize, we're about to make it much more costly.&lt;BR&gt;&lt;BR&gt;It's hard to imagine the giants' rationale. They fought the gods long ago, now they decide to work with the worst of the worst?&lt;BR&gt;&lt;BR&gt;Inconceivable.&lt;br&gt;[ES] Es hora de castigar a los gigantes por aliarse con Thulsa. Sea cual sea el precio, estamos a punto de hacer que sea mucho m&amp;#225;s costoso.&lt;BR&gt;&lt;BR&gt;Es dif&amp;#237;cil imaginar la l&amp;#243;gica de los gigantes. &amp;#191;Lucharon contra los dioses hace mucho tiempo y ahora deciden trabajar con lo peores entre los peores?&lt;BR&gt;&lt;BR&gt;Inconceivable.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1012">
+        <Page social="4">[EN] The giants aren't so numerous that they can shrug off those deaths, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;No doubt they rue the day they agreed to Thulsa's little pact.&lt;br&gt;[ES] Los gigantes no son tan numerosos como para ignorar esas muertes, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Sin duda se arrepienten del d&amp;#237;a en que aceptaron el peque&amp;#241;o pacto de Thulsa.</Page>
+    </Text>
+</QuestDialog>

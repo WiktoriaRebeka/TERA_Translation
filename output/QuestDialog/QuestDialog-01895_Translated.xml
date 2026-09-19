@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">[EN] I need your help.&lt;BR&gt;&lt;BR&gt;In fact, I doubt anyone else could do it.&lt;NEXTPAGEBUTTON&gt;"Why? What's happened?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Necesito tu ayuda.&lt;BR&gt;&lt;BR&gt;De hecho, dudo que cualquier otro pudiera hacerlo.&lt;NEXTPAGEBUTTON&gt;"Why? What's happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] One of the lighthouses has gone dark! Balder's Glyph spreads its energy over the whole refuge. The lighthouses convert some of it to...well, we're not sure. But when they go out, plants and animals die and the wards on this place weaken.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3026#Lilis} may know what's wrong. Give her whatever help she needs!&lt;br&gt;[ES] &amp;#161;Uno de los faros se ha apagado! El glifo de Balder extiende su energ&amp;#237;a por todo el refugio. Los faros convierten parte de ella en... bueno, no estamos seguros. Pero cuando se apagan, las plantas y los animales mueren, y las protecciones de este lugar se debilitan.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3026#Lilis} tal vez sepa qu&amp;#233; pasa. &amp;#161;Br&amp;#237;ndale toda la ayuda que necesite!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">[EN] &lt;PCNAME&gt;? Great!&lt;BR&gt;&lt;BR&gt;The {@WorkObject:95} in there must have jammed up.&lt;BR&gt;&lt;BR&gt;Take the teleportal inside, get to the top of the tower and restart the {@WorkObject:95}. Watch out for golems!&lt;br&gt;[ES] &amp;#191;&lt;PCNAME&gt;? &amp;#161;Genial!&lt;BR&gt;&lt;BR&gt;El {@WorkObject:95} de ah&amp;#237; dentro debe haberse atascado.&lt;BR&gt;&lt;BR&gt;&amp;#161;Toma el teleportal del interior, llega a la cima de la torre y reinicia el {@WorkObject:95}. Cuidado con los golems!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3026">
+        <Page social="4">[EN] Beautiful. Yes, the field's stabilizing.&lt;BR&gt;&lt;BR&gt;Hard work, between the stairs and the golems. We're very lucky you were here.&lt;br&gt;[ES] Hermoso. S&amp;#237;, el campo se est&amp;#225; estabilizando.&lt;BR&gt;&lt;BR&gt;Un trabajo duro, entre las escaleras y los golems. Tenemos mucha suerte de que hayas estado aqu&amp;#237;.</Page>
+    </Text>
+</QuestDialog>

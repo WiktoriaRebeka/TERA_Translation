@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="5">[EN] Nagas and undead seem a strange alliance, don't you agree? It's a mystery I'd love to unravel. Would you be willing to hunt some {@LinkCreature:42#600#skeletal watchers} and see if you can find any evidence on them?&lt;br&gt;[ES] Los nagas y los muertos vivientes parecen una extra&amp;#241;a alianza, &amp;#191;no crees? Es un misterio que me encantar&amp;#237;a resolver. &amp;#191;Estar&amp;#237;as dispuesto a cazar algunos {@LinkCreature:42#600#skeletal watchers} y ver si puedes encontrar alguna prueba en ellos?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1033">
+        <Page social="4">[EN] A stone that controls the undead. Hmmm, I've heard about that somewhere before...&lt;BR&gt;&lt;BR&gt;Something to do with Thulsa, I think.&lt;BR&gt;&lt;BR&gt;Great job. This is important information.&lt;br&gt;[ES] Una piedra que controla a los muertos vivientes. Mmmm, he o&amp;#237;do hablar de eso en alguna parte antes...&lt;BR&gt;&lt;BR&gt;Algo que ver con Thulsa, creo.&lt;BR&gt;&lt;BR&gt;Gran trabajo. Esta es informaci&amp;#243;n importante.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1033">
+        <Page social="0">[EN] Have you gone after the {@LinkCreature:42#600#skeletal defenders} yet? We need proof they're working for the nagas.&lt;br&gt;[ES] &amp;#191;Ya fuiste tras los {@LinkCreature:42#600#skeletal defenders}? Necesitamos pruebas de que est&amp;#225;n trabajando para los nagas.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2001">
+        <Page social="0">[EN] You participated in the splash cannon shooting game at Chelton's shooting gallery.&lt;br&gt;[ES] Participaste en el juego de tiro con ca&amp;#241;&amp;#243;n de agua en la galer&amp;#237;a de tiro de Chelton.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2001">
+        <Page social="4">[EN] So, you like my little splash cannon game? Nice!&lt;BR&gt;&lt;BR&gt;Why don't you go have yourself another game? Remember: Hit a red monster and get points! Hit a blue monster and lose points!&lt;BR&gt;&lt;BR&gt;Now go get 'em!&lt;br&gt;[ES] &amp;#191;As&amp;#237; que te gusta mi peque&amp;#241;o juego de ca&amp;#241;ones de agua? &amp;#161;Genial!&lt;BR&gt;&lt;BR&gt;&amp;#191;Por qu&amp;#233; no vas a jugar otra partida? Recuerda: &amp;#161;Golpea a un monstruo rojo y gana puntos! &amp;#161;Golpea a un monstruo azul y pierde puntos!&lt;BR&gt;&lt;BR&gt;&amp;#161;Ahora ve por ellos!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2001">
+        <Page social="4">[EN] All finished? Let's take a look at your score!&lt;BR&gt;&lt;BR&gt;Well, well, I think you're getting the hang of this! I tell you what: Just because I like you so much, I'm going to give you a special prize: a pet demon! Isn't it just adorable? Don't worry, it's tame&amp;#8212;and it will only stick around for one day, anyway. Have fun with it&amp;#8212;and make sure you show it to all your friends!&lt;br&gt;[ES] &amp;#191;Todo terminado? &amp;#161;Echemos un vistazo a tu puntuaci&amp;#243;n!&lt;BR&gt;&lt;BR&gt;&amp;#161;Vaya, vaya, creo que le est&amp;#225;s pillando el truco a esto! Te dir&amp;#233; algo: solo porque me caes muy bien, te voy a dar un premio especial: &amp;#161;una mascota demonio! &amp;#191;No es adorable? No te preocupes, est&amp;#225; domesticada y solo se quedar&amp;#225; por un d&amp;#237;a de todos modos. &amp;#161;Divi&amp;#233;rtete con ella y aseg&amp;#250;rate de mostr&amp;#225;rsela a todos tus amigos!</Page>
+    </Text>
+</QuestDialog>

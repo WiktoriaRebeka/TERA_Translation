@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="4">[EN] I've watched you help {@LinkCreature:76#1036} in the pursuit of his hushang. It means much to see a soldier take the time to nuture.&lt;BR&gt;&lt;BR&gt;He needs a little more help, and I know where to find it. Take this letter to {@LinkCreature:248#1015}. He'll help with the rest.&lt;br&gt;[ES] He visto c&amp;#243;mo ayudas a {@LinkCreature:76#1036} en su b&amp;#250;squeda del hushang. Significa mucho ver a un soldado tomarse el tiempo de nutrir.&lt;BR&gt;&lt;BR&gt;&amp;#201;l necesita un poco m&amp;#225;s de ayuda, y s&amp;#233; d&amp;#243;nde encontrarla. Lleva esta carta a {@LinkCreature:248#1015}. &amp;#201;l ayudar&amp;#225; con el resto.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1015">
+        <Page social="6">[EN] Interesting. A hushang, way out here. And you're willing to lend a hand?&lt;NEXTPAGEBUTTON&gt;"Absolutely."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Interesante. Un hushang, aqu&amp;#237; en medio de la nada. &amp;#191;Y est&amp;#225;s dispuesto a echar una mano?&lt;NEXTPAGEBUTTON&gt;"Absolutely."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] The lad will need some fine metal. We've no shortage around here, though collecting it won't be safe.&lt;BR&gt;&lt;BR&gt;Bring me some fyrdras ore to inspect. If it passes muster, it'll do for his hushang.&lt;br&gt;[ES] El muchacho necesitar&amp;#225; algo de buen metal. No nos falta por aqu&amp;#237;, aunque recolectarlo no ser&amp;#225; seguro.&lt;BR&gt;&lt;BR&gt;Tr&amp;#225;eme algo de mineral fyrdras para inspeccionarlo. Si pasa el control, servir&amp;#225; para su hushang.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1033">
+        <Page social="4">[EN] Fyrdras ore? A worthy metal indeed. Our young friend is crafting a legend, not some display piece.&lt;BR&gt;&lt;BR&gt;Take this to {@LinkCreature:76#1036}. You deserve to see the expression on his face.&lt;br&gt;[ES] &amp;#191;Mineral fyrdras? Un metal digno, en verdad. Nuestro joven amigo est&amp;#225; forjando una leyenda, no una pieza de exhibici&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Ll&amp;#233;vale esto a {@LinkCreature:76#1036}. Te mereces ver la expresi&amp;#243;n de su cara.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" villagerId="1033">
+        <Page social="0">[EN] Did you meet with success?&lt;br&gt;[ES] &amp;#191;Tuviste &amp;#233;xito?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1036">
+        <Page social="4">[EN] F-f-fyrdras ore? Praise Kaia! That's amazing!&lt;BR&gt;&lt;BR&gt;Thanks to you, I won't just complete my hushang, I'll conquer it!&lt;br&gt;[ES] &amp;#191;M-m-mineral fyrdras? &amp;#161;Alabada sea Kaia! &amp;#161;Es incre&amp;#237;ble!&lt;BR&gt;&lt;BR&gt;&amp;#161;Gracias a ti, no solo completar&amp;#233; mi hushang, lo conquistar&amp;#233;!</Page>
+    </Text>
+</QuestDialog>

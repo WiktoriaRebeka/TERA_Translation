@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">[EN] Miserable wendigos! I ordered several barrels of fortified Allemantheian silver wine, a favorite among the soldiers around here&amp;#8212;took a lot of horse-trading. Last night, the wendigos raided our supply cache. What do you think they took?&lt;BR&gt;&lt;BR&gt;That wine is for my men, and I intend for them to enjoy it.&lt;BR&gt;&lt;BR&gt;Hunt through Wendigo's Howl and retrieve those barrels. I will personally compensate you for your time.&lt;br&gt;[ES] &amp;#161;Miserables wendigos! Ped&amp;#237; varios barriles de vino plateado fortificado de Allemantheia, uno de los favoritos entre los soldados por aqu&amp;#237;; me cost&amp;#243; much&amp;#237;simo regatear. Anoche, los wendigos asaltaron nuestro alijo de suministros. &amp;#191;Qu&amp;#233; crees que se llevaron?&lt;BR&gt;&lt;BR&gt;Ese vino es para mis hombres, y pretendo que lo disfruten.&lt;BR&gt;&lt;BR&gt;Busca por Wendigo's Howl y recupera esos barriles. Te compensar&amp;#233; personalmente por tu tiempo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">[EN] Well done!&lt;BR&gt;&lt;BR&gt;You found all there was to find, I expect. I'm sure the wendigos drank the rest.&lt;BR&gt;&lt;BR&gt;In any case, thank you.&lt;br&gt;[ES] &amp;#161;Bien hecho!&lt;BR&gt;&lt;BR&gt;Supongo que encontraste todo lo que hab&amp;#237;a que encontrar. Estoy seguro de que los wendigos se bebieron el resto.&lt;BR&gt;&lt;BR&gt;De cualquier forma, gracias.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1001">
+        <Page social="0">[EN] Find those wine barrels. If you kill a few wendigos in the process, all the better!&lt;br&gt;[ES] Encuentra esos barriles de vino. Si matas a unos cuantos wendigos en el proceso, &amp;#161;tanto mejor!</Page>
+    </Text>
+</QuestDialog>

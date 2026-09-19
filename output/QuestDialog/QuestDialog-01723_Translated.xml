@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] You suppress your guilt over the trail of death you've left, and feel your inner strength growing even greater.&lt;br&gt;[ES] Suprimes tu culpa por el rastro de muerte que has dejado y sientes que tu fuerza interior crece a&amp;#250;n m&amp;#225;s.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="508" prevId="2" villagerId="2000">
+        <Page social="0" voiceTypeId="0">[EN] Those I rescued, they were lucky. But what about the others?&lt;BR&gt;&lt;BR&gt;So many dead. So many lives snuffed out.&lt;BR&gt;&lt;BR&gt;Some died because I wasn't fast enough... some dead by my hand!&lt;BR&gt;&lt;BR&gt;But I had no choice.&lt;BR&gt;&lt;BR&gt;Did I? Who was I, to become their executioner?&lt;br&gt;[ES] Aquellos a los que rescat&amp;#233; tuvieron suerte. &amp;#191;Pero qu&amp;#233; pasa con los dem&amp;#225;s?&lt;BR&gt;&lt;BR&gt;Tantos muertos. Tantas vidas apagadas.&lt;BR&gt;&lt;BR&gt;Algunos murieron porque no fui lo suficientemente r&amp;#225;pido... &amp;#161;algunos murieron a mi mano!&lt;BR&gt;&lt;BR&gt;Pero no ten&amp;#237;a opci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#191;O s&amp;#237;? &amp;#191;Qui&amp;#233;n era yo para convertirme en su verdugo?</Page>
+    </Text>
+</QuestDialog>

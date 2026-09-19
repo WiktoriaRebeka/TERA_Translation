@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1026">
+        <Page social="4">[EN] {@LinkCreature:40#29#Brutal sabertooths}. In normal numbers, part of the great and bountiful scheme of nature. In unnatural numbers, the bane of my existence. I'll pay handsomely for their timely deaths.&lt;br&gt;[ES] {@LinkCreature:40#29#Brutal sabertooths}. En n&amp;#250;meros normales, parte del gran y generoso plan de la naturaleza. En n&amp;#250;meros antinaturales, la ruina de mi existencia. Pagar&amp;#233; bien por sus muertes oportunas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1026">
+        <Page social="4">[EN] Done and done! Spend it wisely.&lt;br&gt;[ES] &amp;#161;Hecho y hecho! Gastalos sabiamente.</Page>
+    </Text>
+</QuestDialog>

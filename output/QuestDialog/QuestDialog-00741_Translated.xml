@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1042">
+        <Page social="4">[EN] This isn't in my job description! I'm here to measure the mana levels, not tangle with {@LinkCreature:31#25#onyx hydraths}!&lt;BR&gt;&lt;BR&gt;That's why I'm doing my research up here, instead of down by the Maelstrom, but I'll have to go down there sooner or later.&lt;BR&gt;&lt;BR&gt;I don't suppose you can take care of some of them for me? And after you kill them, if you'd gather the hydraths' musk? Other monsters run away at the very scent of a hydrath, so it should protect me from anything worse.&lt;br&gt;[ES] &amp;#161;Esto no est&amp;#225; en la descripci&amp;#243;n de mi trabajo! &amp;#161;Estoy aqu&amp;#237; para medir los niveles de MP, no para enredarme con {@LinkCreature:31#25#onyx hydraths}!&lt;BR&gt;&lt;BR&gt;Por eso estoy haciendo mi investigaci&amp;#243;n aqu&amp;#237; arriba, en lugar de abajo en el Maelstrom, pero tarde o temprano tendr&amp;#233; que bajar.&lt;BR&gt;&lt;BR&gt;&amp;#191;No supongo que podr&amp;#237;as encargarte de algunos de ellos por m&amp;#237;? Y despu&amp;#233;s de matarlos, &amp;#191;podr&amp;#237;as recolectar el almizcle de los hydraths? Otros monstruos huyen con solo percibir el aroma de un hydrath, as&amp;#237; que deber&amp;#237;a protegerme de cualquier cosa peor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1042">
+        <Page social="4">[EN] Thank you! This musk will come in handy! Ready or not, Maelstrom, here I come!&lt;br&gt;[ES] &amp;#161;Gracias! &amp;#161;Este almizcle ser&amp;#225; muy &amp;#250;til! &amp;#161;Prep&amp;#225;rate o no, Maelstrom, ah&amp;#237; voy!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1042">
+        <Page social="0">[EN] Please be careful. But take care of those {@LinkCreature:31#25#onyx hydraths}, too!&lt;br&gt;[ES] Por favor, ten cuidado. &amp;#161;Pero tambi&amp;#233;n enc&amp;#225;rgate de esos {@LinkCreature:31#25#onyx hydraths}!</Page>
+    </Text>
+</QuestDialog>

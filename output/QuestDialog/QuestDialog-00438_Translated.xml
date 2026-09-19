@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="4">[EN] We've found traces of {@LinkCreature:16#2304$$sanguine moppets} and {@LinkCreature:16#2303#vampir jesters}, so it's not the vampirs. This is clearly something else.&lt;BR&gt;&lt;BR&gt;I need you to find more clues.&lt;br&gt;[ES] Hemos encontrado rastros de {@LinkCreature:16#2304$$sanguine moppets} y {@LinkCreature:16#2303#vampir jesters}, as&amp;#237; que no son los vampirs. Esto es claramente otra cosa.&lt;BR&gt;&lt;BR&gt;Necesito que encuentres m&amp;#225;s pistas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1023">
+        <Page social="4">[EN] This is no good. I mean&amp;#8212;no, you did a proper job&amp;#8212;but these stones are...demonic. Is that what's going on? Are demons controlling the vampirs?&lt;BR&gt;&lt;BR&gt;I have more to work out, but thank you for finding these.&lt;br&gt;[ES] Esto no sirve. O sea... no, hiciste un trabajo adecuado, pero estas piedras son... demon&amp;#237;acas. &amp;#191;Es eso lo que pasa? &amp;#191;Los demonios est&amp;#225;n controlando a los vampirs?&lt;BR&gt;&lt;BR&gt;Tengo m&amp;#225;s en qu&amp;#233; trabajar, pero gracias por encontrar esto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1023">
+        <Page social="0">[EN] When you bring me more clues, I'll have a better idea what's going on.&lt;br&gt;[ES] Cuando me traigas m&amp;#225;s pistas, tendr&amp;#233; una mejor idea de lo que est&amp;#225; pasando.</Page>
+    </Text>
+</QuestDialog>

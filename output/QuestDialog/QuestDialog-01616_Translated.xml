@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2142">
+        <Page social="0">[EN] Rhodos ordered the troops to press on to Trellum Consurgo, but the archdevans' siege cannons had to be destroyed first. You repaired a siege weapon and took a shot at it, but your guns couldn't reach the highest cannons.&lt;br&gt;[ES] Rhodos orden&amp;#243; a las tropas avanzar hacia Trellum Consurgo, pero los ca&amp;#241;ones de asedio de los archdevas deb&amp;#237;an ser destruidos primero. Reparaste un arma de asedio y disparaste, pero tus ca&amp;#241;ones no alcanzaban los m&amp;#225;s altos.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2142">
+        <Page social="4">[EN] Damn the archdevas!&lt;BR&gt;&lt;BR&gt;Surely there must be a way to save the Parthians. If not, we'll wade through our own blood to defeat our foes.&lt;br&gt;[ES] &amp;#161;Malditos sean los archdevas!&lt;BR&gt;&lt;BR&gt;Seguro que debe haber una forma de salvar a los Parthians. Si no, vadearemos nuestro propio sangre para derrotar a nuestros enemigos.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2110">
+        <Page social="4">[EN] True enough!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, surely your magical people are as strong as the archdevas. Can't they think of a way to undo their magic?&lt;br&gt;[ES] &amp;#161;Muy cierto!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, seguramente tu pueblo m&amp;#225;gico es tan fuerte como los archdevas. &amp;#191;No se les ocurre una forma de deshacer su magia?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2141">
+        <Page social="4">[EN] Regrettably, the transfiguration process is irreversible. We might find a means to prevent the change, or to block enthrallment, but we cannot save those who have fallen.&lt;br&gt;[ES] Lamentablemente, el proceso de transfiguraci&amp;#243;n es irreversible. Podr&amp;#237;amos encontrar un medio para prevenir el cambio, o bloquear el sometimiento, pero no podemos salvar a los que han ca&amp;#237;do.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2110">
+        <Page social="4">[EN] If we cannot save them, then we must avenge them.&lt;BR&gt;&lt;BR&gt;Come, &lt;PCNAME&gt;! Pick a siege cannon and escort it to the Infernal Span.&lt;BR&gt;&lt;BR&gt;We shall assault the fortress!&lt;br&gt;[ES] Si no podemos salvarlos, debemos vengarlos.&lt;BR&gt;&lt;BR&gt;&amp;#161;Ven, &lt;PCNAME&gt;! Toma un ca&amp;#241;&amp;#243;n de asedio y escoltalo hasta Infernal Span.&lt;BR&gt;&lt;BR&gt;&amp;#161;Asaltaremos la fortaleza!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" villagerId="7">
+        <Page social="0">[EN] (A sturdy siege weapon. It rumbles as it awaits an operator.)&lt;br&gt;[ES] (Un arma de asedio robusta. Ruge mientras espera a un operador.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="191" prevId="5" villagerId="2138">
+        <Page social="4">[EN] Before we can storm the fortress, we need to take out their siege cannons.&lt;BR&gt;&lt;BR&gt;Repair one, then mount it and open fire. Aim high, though. The gorge is wider than it looks.&lt;br&gt;[ES] Antes de asaltar la fortaleza, necesitamos acabar con sus ca&amp;#241;ones de asedio.&lt;BR&gt;&lt;BR&gt;Repara uno, luego m&amp;#243;ntalo y abre fuego. Apunta alto, eso s&amp;#237;. El desfiladero es m&amp;#225;s ancho de lo que parece.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="191" prevId="7" villagerId="1601">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="191" prevId="8" villagerId="2138">
+        <Page social="4">[EN] Unfortunately, we can't hit their guns on top of the wall.&lt;BR&gt;&lt;BR&gt;Report to Rhodos. He'll have to make the call on that problem.&lt;br&gt;[ES] Desafortunadamente, no podemos alcanzar sus ca&amp;#241;ones en la cima del muro.&lt;BR&gt;&lt;BR&gt;Reportate con Rhodos. &amp;#201;l tendr&amp;#225; que tomar la decisi&amp;#243;n sobre ese problema.</Page>
+    </Text>
+</QuestDialog>

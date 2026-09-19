@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="4">[EN] Oh, actually I have another job for you.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:13#301194#Stonebeak highcrests} have been stealing research equipment and ruining some sensitive measurements on the northeast edge of our base.&lt;BR&gt;&lt;BR&gt;Go and see whether you can get some of the &lt;b&gt;research tools&lt;/b&gt; back.&lt;BR&gt;&lt;BR&gt;When you've got a good supply, take them to Jarius.&lt;br&gt;[ES] Oh, en realidad tengo otro trabajo para ti.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:13#301194#Stonebeak highcrests} han estado robando equipos de investigaci&amp;#243;n y arruinando algunas mediciones delicadas en el extremo noreste de nuestra base.&lt;BR&gt;&lt;BR&gt;Ve a ver si puedes recuperar algunas de las &lt;b&gt;research tools&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;Cuando tengas una buena cantidad, ll&amp;#233;vaselas a Jarius.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1042">
+        <Page social="4">[EN] This is a welcome surprise! I've been walking around, trying to think of how to complete my research on this magnificent tree structure here. Every time I set these instruments up, these stonebeaks come and steal them. I wonder why....&lt;BR&gt;&lt;BR&gt;Anyway, thank you very much for your help.&lt;br&gt;[ES] &amp;#161;Esta es una grata sorpresa! He estado caminando por aqu&amp;#237;, tratando de pensar en c&amp;#243;mo completar mi investigaci&amp;#243;n sobre esta magn&amp;#237;fica estructura de &amp;#225;rboles. Cada vez que instalo estos instrumentos, estos stonebeaks vienen y los roban. Me pregunto por qu&amp;#233;...&lt;BR&gt;&lt;BR&gt;De todos modos, muchas gracias por tu ayuda.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" villagerId="1042">
+        <Page social="0">[EN] Adria said someone was out recovering my instruments. Is that you? I ask because you don't seem to have what the {@LinkCreature:13#301194#stonebeak highcrests} stole.&lt;BR&gt;&lt;BR&gt;If you have occasion to hit them with weapons or something, I'd really appreciate getting those instruments back...&lt;br&gt;[ES] Adria dijo que alguien hab&amp;#237;a salido a recuperar mis instrumentos. &amp;#191;Eres t&amp;#250;? Lo pregunto porque parece que no tienes lo que los {@LinkCreature:13#301194#stonebeak highcrests} robaron.&lt;BR&gt;&lt;BR&gt;Si tienes la oportunidad de golpearles con armas o algo as&amp;#237;, &amp;#161;te agradecer&amp;#237;a mucho que recuperaras esos instrumentos...</Page>
+    </Text>
+</QuestDialog>

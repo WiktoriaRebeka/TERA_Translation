@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;pcname&gt;, please come see me when you have the chance. I've prepared a gift for you.&lt;br&gt;[ES] &lt;pcname&gt;, por favor ven a verme cuando tengas la oportunidad. Te he preparado un regalo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] Marmundam opened the Highwatch armory to help outfit you for your next adventure.&lt;br&gt;[ES] Marmundam abri&amp;#243; la armer&amp;#237;a de Highwatch para ayudarte a equiparte para tu pr&amp;#243;xima aventura.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2024">
+        <Page social="0" voiceTypeId="0">[EN] This is an honor, &lt;pcname&gt;!&lt;BR&gt;Please accept this small token of our apprediation.&lt;BR&gt;&lt;BR&gt;A flying mount, and a pair of skill glyphs.&lt;BR&gt;I hope you'll like them!&lt;BR&gt;&lt;br&gt;[ES] &amp;#161;Esto es un honor, &lt;pcname&gt;!&lt;BR&gt;Por favor, acepta esta peque&amp;#241;a muestra de nuestro agradecimiento.&lt;BR&gt;&lt;BR&gt;Una montura voladora y un par de glifos de habilidades.&lt;BR&gt;&amp;#161;Espero que te gusten!&lt;BR&gt;</Page>
+    </Text>
+</QuestDialog>

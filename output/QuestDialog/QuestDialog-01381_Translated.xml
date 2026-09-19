@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="4">[EN] Prefect Baraz needs reinforcements! The situation's unclear, so take caution. Remember, Dragonfall's safety is paramount.&lt;BR&gt;&lt;BR&gt;Head out to Dakonan Overwatch and help him out. Take the field!&lt;br&gt;[ES] &amp;#161;El prefecto Baraz necesita refuerzos! La situaci&amp;#243;n no est&amp;#225; clara, as&amp;#237; que ten cuidado. Recuerda, la seguridad de Dragonfall es primordial.&lt;BR&gt;&lt;BR&gt;Dir&amp;#237;gete a Dakonan Overwatch y ay&amp;#250;dale. &amp;#161;Entra en acci&amp;#243;n!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1006">
+        <Page social="4">[EN] I do need help, but for Amena Quatla, not the overwatch.&lt;BR&gt;&lt;BR&gt;Khulil asked for anyone I could spare. I've got no one, so I sent word to Dragonfall.&lt;BR&gt;&lt;BR&gt;The sikandaris are behind the disappearances&amp;#8212;they're sacrificing our people to awaken Sikander. Get to Crimson Hammer Camp and help Khulil!&lt;br&gt;[ES] S&amp;#237; necesito ayuda, pero para Amena Quatla, no para el puesto de vigilancia.&lt;BR&gt;&lt;BR&gt;Khulil pidi&amp;#243; a cualquiera que pudiera relevar. No tengo a nadie, as&amp;#237; que envi&amp;#233; un aviso a Dragonfall.&lt;BR&gt;&lt;BR&gt;Los sikandaris est&amp;#225;n detr&amp;#225;s de las desapariciones; est&amp;#225;n sacrificando a nuestra gente para despertar a Sikander. &amp;#161;Llega a Crimson Hammer Camp y ayuda a Khulil!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" prevId="3" villagerId="1006">
+        <Page social="4">[EN] Baraz sent you? Great! I'll take all the help I can get. It's time to knuckle down and take the fight to the sikandaris!&lt;br&gt;[ES] &amp;#191;Te mand&amp;#243; Baraz? &amp;#161;Genial! Aceptar&amp;#233; toda la ayuda posible. &amp;#161;Es hora de arremangarse y llevar la pelea a los sikandaris!</Page>
+    </Text>
+</QuestDialog>

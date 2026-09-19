@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1008">
+        <Page social="5">[EN] My chief engineer left for Wyvern Watch this morning. I know he wanted to stop on his way and see some of those giants' constructs at the northeast end of the craters. That little guy sure loves machines.&lt;BR&gt;&lt;BR&gt;Now I'm wondering if I should have let him go. I couldn't spare a guard, and Poihon's not as fierce as some poporis I've known.&lt;BR&gt;&lt;BR&gt;If you go that way, will you look for him?&lt;br&gt;[ES] Mi ingeniero jefe se fue a Wyvern Watch esta ma&amp;#241;ana. S&amp;#233; que quer&amp;#237;a detenerse en el camino para ver algunas de esas construcciones de los gigantes en el extremo noreste de los cr&amp;#225;teres. A ese peque&amp;#241;o le encantan las m&amp;#225;quinas.&lt;BR&gt;&lt;BR&gt;Ahora me pregunto si deb&amp;#237; dejarlo ir. No pod&amp;#237;a prescindir de un guardia, y Poihon no es tan feroz como algunos poporis que he conocido.&lt;BR&gt;&lt;BR&gt;Si vas por ese camino, &amp;#191;lo buscar&amp;#237;as?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1015">
+        <Page social="6">[EN] It was good of Adamael to worry about me. I did stop to watch Dredkreak. He's right over there to the southwest. Magnificent engineering!&lt;BR&gt;&lt;BR&gt;I'd give a lot to be able to study him in one piece, but I'll settle for a handful of intact parts, if you can get them for me.&lt;br&gt;[ES] Fue amable por parte de Adamael preocuparse por mi. S&amp;#237; me detuve a observar a Dredkreak. Est&amp;#225; justo ah&amp;#237;, al suroeste. &amp;#161;Ingenier&amp;#237;a magn&amp;#237;fica!&lt;BR&gt;&lt;BR&gt;Dar&amp;#237;a mucho por poder estudiarlo de una pieza, pero me conformar&amp;#233; con un pu&amp;#241;ado de partes intactas, si puedes conseguirlas para m&amp;#237;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1015">
+        <Page social="5">[EN] These will keep me busy for weeks! Thank you, &lt;PCCLASS:lcase&gt;!&lt;br&gt;[ES] &amp;#161;Esto me mantendr&amp;#225; ocupado durante semanas! &amp;#161;Gracias, &lt;PCCLASS:lcase&gt;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="238" villagerId="1015">
+        <Page social="0">[EN] I really need to get out of here before Dredkreak notices me. Can you get me those parts you promised?&lt;br&gt;[ES] De verdad necesito salir de aqu&amp;#237; antes de que Dredkreak se fije en m&amp;#237;. &amp;#191;Puedes conseguirme esas partes que prometiste?</Page>
+    </Text>
+</QuestDialog>

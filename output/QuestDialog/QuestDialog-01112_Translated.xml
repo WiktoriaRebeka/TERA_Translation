@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">[EN] The {@LinkCreature:47#3003#argonomorph wendigo shamans}, along with their underlings, the {@LinkCreature:47#3002#argononomorph wendigos} and {@LinkCreature:47#3001#contaminated wendigos} are making trouble in {@Rgn:47004$$Blightroar}. Take their tokens to {@Creature:247#1005$$Chenace} and she'll reward you for your work.&lt;br&gt;[ES] Los {@LinkCreature:47#3003#argonomorph wendigo shamans}, junto con sus esbirros, los {@LinkCreature:47#3002#argononomorph wendigos} y {@LinkCreature:47#3001#contaminated wendigos} est&amp;#225;n causando problemas en {@Rgn:47004$$Blightroar}. Lleva sus fichas a {@Creature:247#1005$$Chenace} y te recompensar&amp;#225; por tu trabajo.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1005">
+        <Page social="5">[EN] Thanks for taking care of that, &lt;PCNAME&gt;.&lt;br&gt;[ES] Gracias por encargarte de eso, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1005">
+        <Page social="0">[EN] Just take care of those {@LinkCreature:47#3001#contaminated wendigos}, {@LinkCreature:47#3002#argononomorph wendigos}, and the {@LinkCreature:47#3003#argonomorph wendigo shamans}, and I'll be happy.&lt;br&gt;[ES] Solo enc&amp;#225;rgate de esos {@LinkCreature:47#3001#contaminated wendigos}, {@LinkCreature:47#3002#argononomorph wendigos} y los {@LinkCreature:47#3003#argonomorph wendigo shamans}, y ser&amp;#233; feliz.</Page>
+    </Text>
+</QuestDialog>

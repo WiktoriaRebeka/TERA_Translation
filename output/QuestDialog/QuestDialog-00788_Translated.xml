@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1014">
+        <Page social="4">[EN] &lt;PCNAME&gt;, I hear you aren't afraid of getting your hands dirty. I've got a job that involves dirty hands.&lt;BR&gt;&lt;BR&gt;Or fingers, actually. And the rings on them.&lt;BR&gt;&lt;BR&gt;I recognized a face among the undead&amp;#8212;an old army buddy. I'm not sentimental, but his dad was a jeweler, and it got me thinking. I wonder how many of the undead are carrying valuables?&lt;br&gt;[ES] &lt;PCNAME&gt;, escuch&amp;#233; que no te da miedo ensuciarte las manos. Tengo un trabajo que implica manos sucias.&lt;BR&gt;&lt;BR&gt;O dedos, en realidad. Y los anillos que llevan puestos.&lt;BR&gt;&lt;BR&gt;Reconoc&amp;#237; una cara entre los muertos vivientes: un viejo compa&amp;#241;ero del ej&amp;#233;rcito. No soy muy sentimental, pero su padre era joyero, y eso me puso a pensar. &amp;#191;Cu&amp;#225;ntos de los muertos vivientes llevar&amp;#225;n objetos de valor?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1014">
+        <Page social="4">[EN] Hey, this is quite a pile! Let me see...&lt;BR&gt;&lt;BR&gt;Hey, this is the one I saw!&lt;BR&gt;&lt;BR&gt;I have a mate back home...well, a potential mate, anyway. This is just the sort of thing I can seal the deal with, if you know what I mean.&lt;BR&gt;&lt;BR&gt;No way! Of course I won't tell her where I got it. My little secret.&lt;br&gt;[ES] Oye, &amp;#161;esto es un buen bot&amp;#237;n! D&amp;#233;jame ver...&lt;BR&gt;&lt;BR&gt;&amp;#161;Oye, este es el que vi!&lt;BR&gt;&lt;BR&gt;Tengo una pareja en casa... bueno, una posible pareja, en realidad. Esto es justo el tipo de cosa con la que puedo asegurar el trato, si sabes a lo que me refiero.&lt;BR&gt;&lt;BR&gt;&amp;#161;De ninguna manera! Por supuesto que no le dir&amp;#233; d&amp;#243;nde lo consegu&amp;#237;. Mi peque&amp;#241;o secreto.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1014">
+        <Page social="0">[EN] Check the basement. Lots of scary corpses down there.&lt;br&gt;[ES] Revisa el s&amp;#243;tano. Hay un mont&amp;#243;n de cad&amp;#225;veres espeluznantes all&amp;#237; abajo.</Page>
+    </Text>
+</QuestDialog>

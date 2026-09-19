@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="4">[EN] We believe nexuses are created by a distortion of dimensions.&lt;BR&gt;&lt;BR&gt;If so, we might be able to send nexus monsters back across the dimensions with a symbol of distorted dimension.&lt;BR&gt;&lt;BR&gt;Of course, it's just a theory. Speaking of which, I'd like you to test it.&lt;BR&gt;&lt;BR&gt;My research isn't complete, so the symbol may not be effective against anything other than lesser nexus creatures.&lt;BR&gt;&lt;BR&gt;If anything goes wrong, you'll have "eliminate" that monster.&lt;BR&gt;&lt;BR&gt;Good luck.&lt;br&gt;[ES] Creemos que los nexus son creados por una distorsi&amp;#243;n dimensional.&lt;BR&gt;&lt;BR&gt;Si es as&amp;#237;, quiz&amp;#225;s podamos enviar a los monstruos del nexus de regreso a trav&amp;#233;s de las dimensiones con un s&amp;#237;mbolo de dimensi&amp;#243;n distorsionada.&lt;BR&gt;&lt;BR&gt;Por supuesto, es solo una teor&amp;#237;a. Hablando de eso, me gustar&amp;#237;a que la pruebes.&lt;BR&gt;&lt;BR&gt;Mi investigaci&amp;#243;n no est&amp;#225; completa, por lo que el s&amp;#237;mbolo puede no ser efectivo contra nada que no sean criaturas menores del nexus.&lt;BR&gt;&lt;BR&gt;Si algo sale mal, tendr&amp;#225;s que &quot;eliminar&quot; a ese monstruo.&lt;BR&gt;&lt;BR&gt;Buena suerte.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1002">
+        <Page social="4">[EN] Unfortunate. I felt certain the symbol would prove efficacious. Where did I go wrong?&lt;BR&gt;&lt;BR&gt;A problem for another time. Thank you for your courage, &lt;PCNAME&gt;.&lt;br&gt;[ES] Desafortunado. Me sent&amp;#237;a seguro de que el s&amp;#237;mbolo demostrar&amp;#237;a ser eficaz. &amp;#191;En qu&amp;#233; me equivoqu&amp;#233;?&lt;BR&gt;&lt;BR&gt;Un problema para otro momento. Gracias por tu valor, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

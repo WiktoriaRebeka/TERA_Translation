@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="4">[EN] The Red Lash pirates are getting close to our perimeter. Too close, if you ask me.&lt;BR&gt;&lt;BR&gt;After all, why call it a perimeter if you're not going to enforce it?&lt;BR&gt;&lt;BR&gt;Make sure the {@LinkCreature:11#4001#Red Lash crushers} and {@LinkCreature:11#4002#rovers} southwest of here stay away from our base. Heck, paint 'em a boundary line in their blood if you like.&lt;br&gt;[ES] Los piratas Red Lash se est&amp;#225;n acercando a nuestro per&amp;#237;metro. Demasiado cerca, si me preguntas.&lt;BR&gt;&lt;BR&gt;Despu&amp;#233;s de todo, &amp;#191;para qu&amp;#233; llamarlo per&amp;#237;metro si no lo vas a hacer respetar?&lt;BR&gt;&lt;BR&gt;Aseg&amp;#250;rate de que los {@LinkCreature:11#4001#Red Lash crushers} y {@LinkCreature:11#4002#rovers} al suroeste de aqu&amp;#237; se mantengan alejados de nuestra base. Caramba, p&amp;#237;ntales una l&amp;#237;nea fronteriza con su sangre si quieres.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1005">
+        <Page social="4">[EN] What a find! The code is simple...It might take a while, but there shouldn't be a problem decoding it. Thank you, &lt;PCNAME&gt;!&lt;br&gt;[ES] &amp;#161;Qu&amp;#233; gran hallazgo! El c&amp;#243;digo es sencillo... Puede llevar un tiempo, pero no deber&amp;#237;a haber problema para descifrarlo. &amp;#161;Gracias, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1005">
+        <Page social="0">[EN] See, it's all about setting boundaries&amp;#8212;and then enforcing them in a bloody, brutal way.&lt;BR&gt;&lt;BR&gt;Reminds me of my childhood, actually.&lt;br&gt;[ES] Ves, se trata de establecer l&amp;#237;mites y luego hacerlos cumplir de forma sangrienta y brutal.&lt;BR&gt;&lt;BR&gt;De hecho, me recuerda a mi infancia.</Page>
+    </Text>
+</QuestDialog>

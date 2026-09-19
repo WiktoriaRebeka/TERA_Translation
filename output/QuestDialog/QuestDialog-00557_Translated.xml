@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="5">[EN] This is supposed to be a time of cheer and feasting, not murder and terror.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:22#11#witch prefects} and {@LinkCreature:22#12#ailuri giantkillers} are spreading terror around the academy&amp;#8212;slow their progress to give us time to find a cure.&lt;BR&gt;&lt;BR&gt;Don't toy with them, &lt;PCNAME&gt;&amp;#8212;be swift.&lt;br&gt;[ES] Se supone que este es un tiempo de alegr&amp;#237;a y fest&amp;#237;n, no de asesinato y terror.&lt;BR&gt;&lt;BR&gt;Los {@LinkCreature:22#11#witch prefects} y {@LinkCreature:22#12#ailuri giantkillers} est&amp;#225;n esparciendo terror por la academia; disminuye su progreso para darnos tiempo de encontrar una cura.&lt;BR&gt;&lt;BR&gt;No juegues con ellos, &lt;PCNAME&gt;, s&amp;#233; veloz.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1007">
+        <Page social="5">[EN] Harvesttime will never be a joyful time for me again. Not with so much tragedy to remember.&lt;BR&gt;&lt;BR&gt;Thanks. I need to return to my studies. There might still be time to save the rest!&lt;br&gt;[ES] La &amp;#233;poca de cosecha nunca volver&amp;#225; a ser un momento feliz para m&amp;#237;. &amp;#161;No con tanta tragedia que recordar!&lt;BR&gt;&lt;BR&gt;Gracias. Necesito volver a mis estudios. &amp;#161;Quiz&amp;#225; a&amp;#250;n haya tiempo de salvar al resto!</Page>
+    </Text>
+</QuestDialog>

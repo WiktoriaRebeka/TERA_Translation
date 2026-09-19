@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1013">
+        <Page social="4">[EN] Might I ask another favor, &lt;PCNAME&gt;? The zariik spodas dig at the Casian Tree's roots. I fear they might further corrupt it.&lt;BR&gt;&lt;BR&gt;Could you eliminate them and preserve the tree for my studies?&lt;br&gt;[ES] &amp;#191;Podr&amp;#237;a pedirte otro favor, &lt;PCNAME&gt;? Los zariik spodas cavan en las ra&amp;#237;ces del Casian Tree. Me temo que podr&amp;#237;an corromperlo a&amp;#250;n m&amp;#225;s.&lt;BR&gt;&lt;BR&gt;&amp;#191;Podr&amp;#237;as eliminarlos y preservar el &amp;#225;rbol para mis estudios?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1013">
+        <Page social="6">[EN] Excellent. I think this tree's continued existence despite the argons' insidious influences upon it shows there's hope for all of Val Kaeli. Thanks to you, that hope endures.&lt;br&gt;[ES] Excelente. Creo que la supervivencia continua de este &amp;#225;rbol, a pesar de las insidiosas influencias de los argons sobre &amp;#233;l, demuestra que hay esperanza para todo Val Kaeli. Gracias a ti, esa esperanza perdura.</Page>
+    </Text>
+</QuestDialog>

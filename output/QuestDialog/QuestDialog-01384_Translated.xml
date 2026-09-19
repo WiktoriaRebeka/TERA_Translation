@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1023">
+        <Page social="4">[EN] Rumor has it we need the Barbican cleared for some Mysterium sappers. Don't know if they'll get here, but we need the lurking storm lizards taken out just the same.&lt;BR&gt;&lt;BR&gt;Can't miss them. They look completely out of place.&lt;br&gt;[ES] Se rumorea que necesitamos el Barbican despejado para algunos zapadores del Mysterium. No s&amp;#233; si llegar&amp;#225;n, pero necesitamos que elimines a los acechadores storm lizards de todos modos.&lt;BR&gt;&lt;BR&gt;Es imposible pasarlos por alto. Parecen totalmente fuera de lugar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1023">
+        <Page social="4">[EN] You killed them? Fantastic!&lt;BR&gt;&lt;BR&gt;Looks like I'm stuck here waiting for the Mysterium while you get to cover yourself with glory.&lt;BR&gt;&lt;BR&gt;Good luck out there, &lt;PCNAME&gt;!&lt;br&gt;[ES] &amp;#191;Los mataste? &amp;#161;Fant&amp;#225;stico!&lt;BR&gt;&lt;BR&gt;Parece que estoy atrapado aqu&amp;#237; esperando al Mysterium mientras t&amp;#250; te cubres de gloria.&lt;BR&gt;&lt;BR&gt;&amp;#161;Buena suerte ah&amp;#237; fuera, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[EN] The Cyanocannon Foundry is under attack by athakela hunters. We can't afford to lose the foundry.&lt;BR&gt;&lt;BR&gt;Intercept those argons at once!&lt;br&gt;[ES] La fundici&amp;#243;n Cyanocannon Foundry est&amp;#225; bajo ataque por athakela hunters. &amp;#161;No podemos darnos el lujo de perder la fundici&amp;#243;n!&lt;BR&gt;&lt;BR&gt;&amp;#161;Intercepta a esos argons de inmediato!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="48" prevId="2" villagerId="1007">
+        <Page social="6">[EN] Excellent timing. After the argons hit our foundry at Magthulk Crater, I feared we'd be the next target.&lt;NEXTPAGEBUTTON&gt;"Are you all right?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Excelente momento. Despu&amp;#233;s de que los argons golpearon nuestra fundici&amp;#243;n en Magthulk Crater, tem&amp;#237; que fu&amp;#233;ramos el siguiente blanco.&lt;NEXTPAGEBUTTON&gt;"Are you all right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">[EN] Bah! It'll take more than a few scratches to fell me.&lt;BR&gt;&lt;BR&gt;What's this? It's not mine. Someone around {@Rgn:78001} must miss it. See if you can find the owner.&lt;br&gt;[ES] &amp;#161;Bah! Se necesitar&amp;#225;n m&amp;#225;s que unos cuantos rasgu&amp;#241;os para derribarme.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; es esto? No es m&amp;#237;o. Alguien alrededor de {@Rgn:78001} debe extra&amp;#241;arlo. Mira si puedes encontrar al due&amp;#241;o.</Page>
+    </Text>
+</QuestDialog>
