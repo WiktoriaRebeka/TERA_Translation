@@ -1,0 +1,48 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="4">The battle for the Khanovar Front extends below the surface—and that's where we're sending you.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:248#3007#Brumbar} guards the teleportal to the {@Rgn:9018001$$Argon Catacombs}.&lt;BR&gt;&lt;BR&gt;Use that and report to {@LinkCreature:418#2001#Baruster} and he'll give you your orders.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="4">We don't get a lot of volunteers, Shariar or otherwise.&lt;BR&gt;&lt;BR&gt;Our mission's simple: kill argons and recover their plating. We recycle it into armor or siege weapons.&lt;BR&gt;&lt;BR&gt;Simple enough. Get killing.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="4">As my castanic friends say, there's no dross in you!&lt;BR&gt;&lt;BR&gt;Glad to see we've got someone who can really fight. Nice job in the catacombs, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="418" villagerId="2001">
+        <Page social="0">Watch out for argons!&lt;BR&gt;&lt;BR&gt;They can sneak up before you're ready! Stay sharp.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="418" prevId="8" villagerId="2001">
+        <Page social="4">As my castanic friends say, there's no dross in you!&lt;BR&gt;&lt;BR&gt;Glad to see we've got someone who can really fight. Nice job in the catacombs, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="418" villagerId="2001">
+        <Page social="0">Watch out for argons!&lt;BR&gt;&lt;BR&gt;They can sneak up before you're ready! Stay sharp.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="418" prevId="10" villagerId="2001">
+        <Page social="4">As my castanic friends say, there's no dross in you!&lt;BR&gt;&lt;BR&gt;Glad to see we've got someone who can really fight. Nice job in the catacombs, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="418" villagerId="2001">
+        <Page social="0">Watch out for argons!&lt;BR&gt;&lt;BR&gt;They can sneak up before you're ready! Stay sharp.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="418" prevId="12" villagerId="2001">
+        <Page social="4">As my castanic friends say, there's no dross in you!&lt;BR&gt;&lt;BR&gt;Glad to see we've got someone who can really fight. Nice job in the catacombs, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="418" villagerId="2001">
+        <Page social="0">Watch out for argons!&lt;BR&gt;&lt;BR&gt;They can sneak up before you're ready! Stay sharp.</Page>
+    </Text>
+</QuestDialog>

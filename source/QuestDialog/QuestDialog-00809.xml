@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1007">
+        <Page social="4">I've had it with these wendigo attacks. I want you to bloody their frozen noses and take out {@LinkCreature:34#5000#Talcas}.&lt;BR&gt;&lt;BR&gt;He's one of their most powerful fighters. Taking him out will keep the rest at bay and cheer up our soldiers considerably.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1007">
+        <Page social="4">Talcas is dead? That's better than a stein of hot buttered rum!&lt;BR&gt;&lt;BR&gt;That should teach the wendigos to piss off the Valkyon Federation!</Page>
+    </Text>
+</QuestDialog>

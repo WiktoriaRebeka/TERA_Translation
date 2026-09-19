@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1035">
+        <Page social="4">Have you seen Thulsa's Ksharan guards?&lt;BR&gt;&lt;BR&gt;They seized the Ventral Command Center northeast of the furnace, and we can't retake the facility without dealing with them.&lt;BR&gt;&lt;BR&gt;Kill off the Ksharan archpriests and vanguards and bring me their amulets. Think you can handle it, &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1035">
+        <Page social="4">I was right—I knew you'd make it!&lt;BR&gt;&lt;BR&gt;We're one step closer to taking this place from the enemy. Nice work!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1035">
+        <Page social="0">Bring me proof that you've defeated the Ksharans.&lt;BR&gt;&lt;BR&gt;I know it's difficult, but I have great faith in you.</Page>
+    </Text>
+</QuestDialog>

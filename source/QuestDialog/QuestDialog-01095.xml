@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1014">
+        <Page social="4">With the argon mushrooms thinned out, our faerie saplings will stand a chance. Even a busy &lt;PCCLASS:lcase&gt; can help with the planting. Every tree that lives helps to reclaim the land.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1014">
+        <Page social="4">You did that quickly and well. One might almost think you a farmer rather than a &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

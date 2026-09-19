@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="5">In order to keep the initiative, I'm sending you out to cull the argons.&lt;BR&gt;&lt;BR&gt;Kill kallan reavers, kalash protectors, defenders, and brutes, yusul slashers, and zariik cyanowitches and cyclopses.&lt;BR&gt;&lt;BR&gt;Report to Ayva in Kanstria when you've completed the mission.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1603">
+        <Page social="5">I'm glad we've got soldiers like you, &lt;PCNAME&gt;. Well done.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1603">
+        <Page social="0">You haven't achieved your objectives yet. Sorry.</Page>
+    </Text>
+</QuestDialog>

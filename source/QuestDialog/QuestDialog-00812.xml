@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1001">
+        <Page social="4">The Wayfarer Camp has asked for assistance. I cannot release any of my soldiers to their aid, but you're not on my roster, are you?&lt;BR&gt;&lt;BR&gt;Get over there and help them out. Take the field!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1003">
+        <Page social="4">This wretched place will be the death of me yet.&lt;BR&gt;&lt;BR&gt;By the Core, I miss the hot sands of home. It's dangerous to let thoughts turn away from the dangers we face.&lt;BR&gt;&lt;BR&gt;I asked for help to make things a bit safer. Speak to Kaheure. She has orders for you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1004">
+        <Page social="4">Lucael's cold and grumpy, but this place isn't that bad! We're serving the federation and making the world a better place.&lt;BR&gt;&lt;BR&gt;Of course, it'd be better if we weren't fighting to survive, but into every day some rain must fall. Or snow. Lots and lots of snow.</Page>
+    </Text>
+</QuestDialog>

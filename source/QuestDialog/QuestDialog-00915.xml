@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1029">
+        <Page social="18">When the prions ran us out of Thunder Hold, Jabel didn't make it out. If Elinu is merciful, he's hiding out in the ruins, waiting for rescue. If not...&lt;BR&gt;&lt;BR&gt;I can't think about that now. I just need someone to find him.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1014">
+        <Page social="5">(Jabel is dead. His hands clutch a book close to his chest.)&lt;NEXTPAGEBUTTON&gt;Look at the book.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">(It's written in a language you don't recognize.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1029">
+        <Page social="5">If Jabel died for this, it had better be important.&lt;BR&gt;&lt;BR&gt;See if Jerad can translate it—he reads a dozen languages, at least.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="238" prevId="4" villagerId="1027">
+        <Page social="5">This is the book you found on Jabel's corpse?&lt;BR&gt;&lt;BR&gt;This was definitely written by a prion. Give me a moment...</Page>
+    </Text>
+</QuestDialog>

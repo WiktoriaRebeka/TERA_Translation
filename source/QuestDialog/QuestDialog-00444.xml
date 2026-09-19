@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="4">You see the ovoliths hanging around here? Bad. Very bad. They make my soldiers nervous.&lt;BR&gt;&lt;BR&gt;You're already helping—go kill a few and bring back their eyes. That should pick the soldiers up—show them we're getting the upper hand!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="4">These will be just fine. A little morale-booster.&lt;BR&gt;&lt;BR&gt;Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1011">
+        <Page social="0">Have you gone yet?</Page>
+    </Text>
+</QuestDialog>

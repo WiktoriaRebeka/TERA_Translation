@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="38" prevId="0" villagerId="103">
+        <Page social="0">&lt;PCNAME&gt; helped the people in the Isolation Camp.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="38" prevId="0" villagerId="103">
+        <Page social="1" voiceTypeId="0">Ryshan told us that someone in the refugee camp has been picking fleabane flowers for their own benefit. We actually need those to help make the treatment for the people who are afflicted.&lt;BR&gt;&lt;BR&gt;It's selfish, but understandable. People are scared...not thinking clearly.&lt;BR&gt;&lt;BR&gt;Still, we must find out who it was, so we can put a stop to it. Please help us, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="38" prevId="2" villagerId="103">
+        <Page social="4" voiceTypeId="0">We researchers have a potion that we call Remembrancer. When you drink it, it makes you re-experience old memories, particularly if someone provides a key word, like &amp;quot;mother&amp;quot; or &amp;quot;birthday&amp;quot;...or, in this case, &amp;quot;fleabane.&amp;quot;&lt;BR&gt;&lt;BR&gt;With a strong enough dose, they'll get lost in their memories and start acting out whatever events they associate with that word.&lt;BR&gt;&lt;BR&gt;It's otherwise pretty harmless...but funny at parties.&lt;BR&gt;&lt;BR&gt;If we use it wisely, it should act a bit like a truth serum.&lt;NEXTPAGEBUTTON&gt;"If that's what it takes..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I wish it weren't.&lt;BR&gt;&lt;BR&gt;So, I'll need Basilisk Blood and Burnt Arbosk Bark to make a batch of Remembrancer.&lt;BR&gt;&lt;BR&gt;I'll need plenty of them, to make sure there's enough to have the desired effect.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="103">
+        <Page social="4" voiceTypeId="0">Wonderful!&lt;BR&gt;&lt;BR&gt;I'll mix it in with the plague medication, and everyone who takes it will be receptive to the trigger word &amp;quot;fleabane&amp;quot;...and one of those people will have a memory of stealing it.&lt;NEXTPAGEBUTTON&gt;"Why that word?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">That's the ingredient that went missing.&lt;BR&gt;&lt;BR&gt;Okay, take these and give them to everyone in the camp.&lt;BR&gt;&lt;BR&gt;Then, after they take it, just say the word "fleabane" to them.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" villagerId="103">
+        <Page social="0">Is this all you could get? I need more.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="38" prevId="4" villagerId="148">
+        <Page social="4" voiceTypeId="0">This tastes a little different.&lt;BR&gt;Much better than the last one I had.&lt;NEXTPAGEBUTTON&gt;"Fleabane...?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I...uh...wow.&lt;BR&gt;&lt;BR&gt;Hey, Niniel, you shouldn't touch those fleabanes.&lt;BR&gt;&lt;BR&gt;They're beautiful, but poisonous.&lt;BR&gt;&lt;BR&gt;I'll find you a much prettier flower.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="38" prevId="6" villagerId="147">
+        <Page social="1" voiceTypeId="0">Wow, this is much better than the last one. What's in it?&lt;NEXTPAGEBUTTON&gt;"Uh...fleabane!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Oh, okay...uh...&lt;BR&gt;&lt;BR&gt;They won't even notice it's gone, and we'll replace it before they do inventory.&lt;BR&gt;&lt;BR&gt;It won't cure the crystallization, but if you mix it with milk, it helps soften your skin. It should slow down the crystallization...give me more time.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="38" prevId="7" villagerId="147">
+        <Page social="4" voiceTypeId="0">Uhh...what was I—?&lt;BR&gt;&lt;BR&gt;No... oh, no... that was a mistake!&lt;BR&gt;&lt;BR&gt;You would've done the same thing, if your symptoms were as bad as mine!&lt;BR&gt;&lt;BR&gt;I picked it up by mistake! It was just the one time!&lt;NEXTPAGEBUTTON&gt;"We found your journal."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">No... &lt;PCNAME&gt;... &lt;BR&gt;&lt;BR&gt;Please... don't kick me out...&lt;BR&gt;&lt;BR&gt;I don't want to die like this...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="38" prevId="8" villagerId="146">
+        <Page social="4" voiceTypeId="0">It was Hanhi...?&lt;BR&gt;&lt;BR&gt;Are we going to be kicked out?&lt;BR&gt;&lt;BR&gt;I'll do anything!&lt;BR&gt;&lt;BR&gt;Of course she has pay for her crime... but does it have to be a death sentence?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="38" prevId="9" villagerId="120">
+        <Page social="4" voiceTypeId="0">So, Hanhi confessed?&lt;BR&gt;&lt;BR&gt;It's a matter for the authorities, not the Mysterium... but I see no reason not to continue treating her disease.&lt;BR&gt;&lt;BR&gt;Once she's back on her feet, we'll hand her over to the federation.&lt;NEXTPAGEBUTTON&gt;"I understand."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The Mysterium will work day and night to find a cure.&lt;BR&gt;&lt;BR&gt;If we don't have one fast, this kind of tragedy will keep happening.&lt;BR&gt;&lt;BR&gt;Thank you for your assistance.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="4">I know you're a busy &lt;PCCLASS:lcase&gt;, but {@LinkCreature:76#1018} asked to speak with you if you have a moment.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#1036} left for Kaiator this morning. I'm so proud of his persistence, and grateful for your generosity.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1018">
+        <Page social="6">When {@LinkCreature:84#1222} first came to {@Rgn:76001}, I admired his determination to succeed. Had he grown up in Castanica, he'd no doubt have had a spectacular crucible ceremony.&lt;BR&gt;&lt;BR&gt;As a token of my respect, could you please give {@LinkCreature:84#1222} this sword hilt?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" prevId="3" villagerId="1222">
+        <Page social="6">I'm so nervous. They're holding my hushang in an hour—one just for me. Kaia herself gave me a blessing. She said I've got real altitude.&lt;BR&gt;&lt;BR&gt;Can I get any luckier?&lt;NEXTPAGEBUTTON&gt;"Take a look at this, and answer the question."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">Wow! It's amazing. I'll add it to my sword so I never forget everyone who helped me conquer my hushang.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

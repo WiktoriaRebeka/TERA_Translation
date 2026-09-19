@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1532">
+        <Page social="0">Listen about the mission from Dougal. Dougal is determined to bring success to this mission.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1532">
+        <Page social="4" voiceTypeId="0">We can start boarding once the recruits come back.&lt;BR&gt;&lt;BR&gt;I shouldn't keep Zolyn waiting. Let her know the supplies and soldiers are ready to go.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1522">
+        <Page social="4" voiceTypeId="0">Hmph. &lt;PCNAME&gt;. I know your reputation. Nature reaps and you're her sickle.&lt;BR&gt;&lt;BR&gt;I don't suppose you know Syona, the elin princess?&lt;NEXTPAGEBUTTON&gt;"I'm afraid not."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">No matter.&lt;BR&gt;&lt;BR&gt;Well, you got our supplies squared away and our troopers back on their feet. That's more than the rest of these tuwangis can say!&lt;BR&gt;&lt;BR&gt;Here's the sky cruiser's actuator. Dougal's waiting for it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1521">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Good to have your courage by our side. Are you ready?&lt;NEXTPAGEBUTTON&gt;"Ready when you are."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The actuator. Now we can finally leave. Excellent.&lt;BR&gt;&lt;BR&gt;We're headed to Northern Arun. We believe the demokrons origin lies there…and a more personal mystery.&lt;BR&gt;&lt;BR&gt;We'll talk more later.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1521">
+        <Page social="4" voiceTypeId="0">Let's board now. I want to get under way.&lt;BR&gt;&lt;BR&gt;Pyon will transport you to the ship when you're ready.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="5" villagerId="1000">
+        <Page social="4" voiceTypeId="0">Welcome aboard! Isn't she magnificent? Larger than a sailing warship, capable of ferrying a full company of troops.&lt;BR&gt;&lt;BR&gt;I'm not privy to all her secrets, but I know a lot of argon technology led to the sky cruisers.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" villagerId="4">
+        <Page social="0">If you're ready, I'll show you to your cabin.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="6" villagerId="1005">
+        <Page social="4" voiceTypeId="0">You saved Actol and I, &lt;PCNAME&gt;. Thank you.&lt;BR&gt;&lt;BR&gt;Don't worry; no more filching elixirs for us.</Page>
+    </Text>
+</QuestDialog>

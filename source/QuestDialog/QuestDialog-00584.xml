@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="5">Those rotten little fleabags!&lt;BR&gt;&lt;BR&gt;My family's been brewing berry wine for centuries but those {@LinkCreature:23#3#popori exiles} stole our current stock!&lt;BR&gt;&lt;BR&gt;If we don't get that back, we'll be ruined. We can't pay our taxes, or buy those funny little mushrooms! Can you help us?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1035">
+        <Page social="5">That's it! That's our wine! You saved it!&lt;BR&gt;&lt;BR&gt;I'm amazed those mangy wretches didn't drink it already!&lt;BR&gt;&lt;BR&gt;Thank you so much!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1035">
+        <Page social="0">Please, don't come back without the wine. I couldn't bear it.&lt;BR&gt;&lt;BR&gt;Sorry, popori humor.</Page>
+    </Text>
+</QuestDialog>

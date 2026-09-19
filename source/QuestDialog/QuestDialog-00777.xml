@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0">Thulsa turned us into monsters, after sending the {@LinkCreature:33#54#cursed vampir gentleman} and {@LinkCreature:33#55#infernal jesters} to attack us.&lt;BR&gt;&lt;BR&gt;Their wicked laughter will ring in my ears to the end of my days. You have to stop them before they attack the new strike force.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1012">
+        <Page social="0">Never again will they torture another soldier.&lt;BR&gt;&lt;BR&gt;Here is something else for you. I hope it will help you on your journey.</Page>
+    </Text>
+</QuestDialog>

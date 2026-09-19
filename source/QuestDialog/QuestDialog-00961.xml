@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1012">
+        <Page social="4">We've been discussing a connection between the {@LinkCreature:40#11#selvaras scouts}, our missing friends, and the plague. The selvaras have a base near here. A search there might uncover useful information.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1012">
+        <Page social="4">Every page of these documents references the Legion of Thulsa in some way. There's our connection—they're working together.&lt;BR&gt;&lt;BR&gt;But why? And for what?&lt;BR&gt;&lt;BR&gt;And for whom?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1012">
+        <Page social="0">Bring any documents that refer to either the abductions or the plague. The connection is there somewhere.</Page>
+    </Text>
+</QuestDialog>

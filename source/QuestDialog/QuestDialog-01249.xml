@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Elleon gave you vital intelligence on how to enter Thulsa's Stronghold, the Ebon Tower. Elleon's way required a special keystone: a gem belonging to Killian, the god of terror. Elleon and Jelena accompanied you to the Labyrinth of Terror, where Elleon intercepted a blast of magic meant for you—perhaps at the cost of his life....</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;—it looks like we'll be fighting side by side once again. Thulsa and Killian awakened Kelsaik, but you kept them from obtaining complete control.&lt;BR&gt;&lt;BR&gt;Kelsaik must be near Thulsa...which is worrisome, but it gives us an opportunity. Jelena and I know where Thulsa is: Vale of Spires, Lorcada.&lt;BR&gt;&lt;BR&gt;Let's talk in person. I'll see you at the blacksmith's workshop.&lt;BR&gt;&lt;BR&gt;Elleon</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5002">
+        <Page social="4" voiceTypeId="0">Long time no see, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Thulsa, Killian, and now Kelsaik. We have a knack for attracting powerful enemies, don't we?&lt;BR&gt;&lt;BR&gt;Ever heard of an ancient stronghold called the Ebon Tower?&lt;BR&gt;&lt;BR&gt;Well, Thulsa is there...maybe Kelsaik, too. But Thulsa has had only one visitor. Guess who?&lt;NEXTPAGEBUTTON&gt;"Killian?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Exactly! We need the gem on Killian's staff, or we can't get into the Ebon Tower.&lt;BR&gt;&lt;BR&gt;And it's not gonna break my heart to take the gem off Killian's corpse.&lt;BR&gt;&lt;BR&gt;So Killian first, then. He's in the Labyrinth of Terror. I will be your guide.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1105">
+        <Page social="1" voiceTypeId="0">We just broke the seal, and Jelena went in first. Let's go!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3008" prevId="4" villagerId="1019">
+        <Page social="1" voiceTypeId="0">I can't let Elleon die. I just can't!&lt;BR&gt;&lt;BR&gt;I know Elleon would want me to leave him and go with you, but he's in no position to argue. I feel horrible, though...&lt;NEXTPAGEBUTTON&gt;"It's okay. I got this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I know you do, &lt;PCNAME&gt;. I'll be back in Habere, and I want all the details. So go kill a god already!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="3008" prevId="5" villagerId="1500">
+        <Page social="1" voiceTypeId="0">(You find an unpleasant message. "Discover this place and feel the joy of agony.")</Page>
+    </Text>
+    <Text id="7" huntingZoneId="3008" prevId="6" villagerId="1021">
+        <Page social="1" voiceTypeId="0">You have extracted the gem that will get you in to the Ebon Tower.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="79" prevId="7" villagerId="1103">
+        <Page social="1" voiceTypeId="0">If you're alive, then...yes! Yes! Yes!&lt;BR&gt;&lt;BR&gt;Elleon? Alive, but hanging by a thread. Still, he's Elleon, right? That should count for something.&lt;NEXTPAGEBUTTON&gt;"He'll be fine. Trust me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Elleon and I are out of commission for the time being, though. Give our "best" to Kelsaik, will ya?</Page>
+    </Text>
+</QuestDialog>

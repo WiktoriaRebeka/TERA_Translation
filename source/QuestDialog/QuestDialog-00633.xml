@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="4">With the shortages the hyenas left, we'll all starve to death while we wait for the supplies from Tulufan to get here.&lt;BR&gt;&lt;BR&gt;Time to get clever. Our scouts have discovered a garden of fragrant roses in the northern wasteland. They produce a bitter fruit—rosehips, they're called—tastes like a sand lizard's leavings, but it's nutritious. If you could gather some of the fruit up while I see about that supply caravan, I'd be grateful.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1006">
+        <Page social="4">Ugh! "Sand lizard's leavings" was being generous! But these should keep us from going hungry in the next few days. If nothing else, they'll curb your appetite.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1006">
+        <Page social="0">You're a long way off from your quota! Please go back and gather more!</Page>
+    </Text>
+</QuestDialog>

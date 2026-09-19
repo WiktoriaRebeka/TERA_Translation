@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="4">The argons are here. Of course.&lt;BR&gt;&lt;BR&gt;I don't know whether they're working for Thulsa or vice versa.&lt;BR&gt;&lt;BR&gt;But their presence is...unnatural. It defiles this place, which is practically sacred to my people!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, punish the argons and their leader, Tarnos, for stepping into our furnace!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1034">
+        <Page social="4">Thank you for protecting the furnace. Our ancestors approve of your bravery.&lt;BR&gt;&lt;BR&gt;And someday, that bravery will be repaid—with interest!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">A shock treatment alone won't do it, of course. There needs to be a magical aspect. And, of course, that means more gory work on your part.&lt;BR&gt;&lt;BR&gt;Bring me the brains of {@LinkCreature:9#800#gula butchers} to absorb the nightmare that clouds his mind.&lt;BR&gt;&lt;BR&gt;And how come my cures never require something innocuous like a "warm glass of milk" or "plenty of rest?"</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1012">
+        <Page social="4">They're smaller than I thought. But I guess that explains a lot, eh?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1012">
+        <Page social="0">Bring me brains, &lt;PCNAME&gt;. Brains!&lt;BR&gt;&lt;BR&gt;What? Is that not okay to say?</Page>
+    </Text>
+</QuestDialog>

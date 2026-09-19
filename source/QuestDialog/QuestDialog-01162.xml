@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1022">
+        <Page social="4">There are argon...thingamajigs...that I suspect impact the development of the iteris shards. I need to study one, but I'm no venator. Can you head to the Southern Teleport Platform and send me a message when it's safe?&lt;NEXTPAGEBUTTON&gt;"How do I send a message to you?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">The teleport platform's harmonics align with the one in Kanstria. Couldn't be easier.&lt;BR&gt;&lt;BR&gt;Once the area is secure, let me know and I'll head there.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1101">
+        <Page social="6">(There's no obvious sign of danger.)&lt;BR&gt;&lt;BR&gt;(You should let Shirka know.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1016">
+        <Page social="6">Surprise! I'm not Shirka.&lt;BR&gt;&lt;BR&gt;My apologies, but my orders are to keep her alive at all costs. This area is too dangerous for her, so I came in her place.&lt;NEXTPAGEBUTTON&gt;"Fine. What's the next step?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">The {@Rgn:49002} south of here project beams of energy toward organic structures we're calling cyasmana pods.&lt;BR&gt;&lt;BR&gt;Shirka wants a fragment from one of these pods. Destroy one, collect a piece, and return to me.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" prevId="4" villagerId="1016">
+        <Page social="6">That looks perfect. Shirka will be pleased.&lt;BR&gt;&lt;BR&gt;You can use the teleport platform to return to Kanstria whenever you wish.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="249" villagerId="1016">
+        <Page social="0">The cyasmana pods are under the {@Rgn:49002}. Just follow the beam of light in the sky. Can't miss it.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="76" prevId="5" villagerId="1022">
+        <Page social="6">This sample should prove most illuminating.&lt;BR&gt;&lt;BR&gt;I hope you didn't go to too much effort.&lt;NEXTPAGEBUTTON&gt;"Well, kelbas did ambush me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">There were kelbas in the pod? That's just...weird.&lt;BR&gt;&lt;BR&gt;Perhaps they're the ones behind the improvements to the shards. I'll have to give this some thought. In any case, thanks for your help!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="0">Though Leander didn't believe the orcans capable of the magical feats necessary to corrupt Demonbane, he wasn't willing to make assumptions.&lt;BR&gt;&lt;BR&gt;He dispatched you to the south, where you spoke with Kirash, who explained about the presence of mekonari marauders—magical mercenaries.&lt;BR&gt;&lt;BR&gt;You crept into the bivouac, killed a dark marauder, and escaped with a scroll of demonic script. Leander translated part of it and learned the location of the mastermind—in the Tainted Gorge.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="4">Orcans have some magic, but nothing of the level we're encountering. There's something else we're missing here.&lt;NEXTPAGEBUTTON&gt;"Perhaps the orcans have allies."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Exactly. Not just any ally, but someone more than magically adept. Kirash is keeping watch on the orcan bivouacs. Speak with him and find out if he knows anything about this.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1027">
+        <Page social="4">Oh, we're watching the orcans, but they're not what's interesting. Look out there—see those bird-headed creatures with the large staves?&lt;NEXTPAGEBUTTON&gt;"Bird heads?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Those are mekonaris and most of them are magical adepts. Who knows why these {@LinkCreature:13#601#dark marauders} are working with the orcans, but it won't be to our benefit.&lt;BR&gt;&lt;BR&gt;We must remain at our post, but sneak closer and capture or kill one of the marauders. Perhaps there are clues to be found.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1027">
+        <Page social="4">A scroll, eh? Intriguing. With luck it's their operational plans.&lt;BR&gt;&lt;BR&gt;Bah! This scrawl is illegible. Let Leander earn his reputation. Take it to him, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1027">
+        <Page social="0">We remember tales of the mekonaris. While their god sleeps in a great golden egg, they sell their magical prowess to nearly anyone.&lt;BR&gt;&lt;BR&gt;Mercenaries of the worst kind. Pah!&lt;BR&gt;&lt;BR&gt;It's not surprising they'd work with these orcans. See what you can learn from one of them!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="4" villagerId="1008">
+        <Page social="4">Marauders? More like carrion eaters. What are they after? Why are they here? Let us look more closely at that scroll.&lt;BR&gt;&lt;BR&gt;It's not scrawl, it's demonic script. It's hard to translate, but one description is familiar. The rift to the east—we call it the Tainted Gorge. The mekonaris' master is there.</Page>
+    </Text>
+</QuestDialog>

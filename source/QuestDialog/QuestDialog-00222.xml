@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">Let's see...first the eyes, then distilled brain essence.&lt;BR&gt;&lt;BR&gt;Feed this potion to him, and I think he'll come back to his senses.&lt;BR&gt;&lt;BR&gt;And if the college deans ever ask you if you want to learn the secrets of mind-healing, just say, "No, I'll stick with dentistry." Trust me on this.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1014">
+        <Page social="10">Eight, seven, six...and they're still watching me.&lt;BR&gt;&lt;BR&gt;Hey! Hey! What's that!&lt;NEXTPAGEBUTTON&gt;"Here, try this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Where am I? And where's the rest of my unit?&lt;BR&gt;&lt;BR&gt;The last thing I remember is being in Azarel's Labyrinth. And the gulas...they butchered everyone else.&lt;BR&gt;&lt;BR&gt;Nilos? No, he wasn't one of them. I'm not sure he even had a patrol that day.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1012">
+        <Page social="4">No Nilos. Is that supposed to be good news or bad news? It's getting so I can't tell anymore.&lt;BR&gt;&lt;BR&gt;Regardless, you saved that man's mind, and you gave me at least some hope that Nilos is still out there. Somewhere.</Page>
+    </Text>
+</QuestDialog>

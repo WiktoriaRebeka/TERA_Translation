@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1015">
+        <Page social="4">After the storm hit, the weather got even worse. Don't listen when people tell you it's a nice day—they're putting on a good face. Fighting the undead is one thing, but doing it in freezing temperatures is another.&lt;BR&gt;&lt;BR&gt;If you've got any fight left in you, we'd sure appreciate someone eliminating the {@LinkCreature:31#6#deathfrost chargers}. If you bring back their bones as proof, I'd even reward you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1015">
+        <Page social="4">Looks like you've got plenty of kick in you still! Good work!&lt;BR&gt;&lt;BR&gt;This won't fix everything, but it's certainly a start.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1015">
+        <Page social="0">We can't rebuild with those {@LinkCreature:31#6#deathfrost chargers} hunting us.</Page>
+    </Text>
+</QuestDialog>

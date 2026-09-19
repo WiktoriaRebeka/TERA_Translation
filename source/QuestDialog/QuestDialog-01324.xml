@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1018">
+        <Page social="4">What's going on? First the faeries go mad, now the sporewalkers are thrashing us.&lt;BR&gt;&lt;BR&gt;It's like someone's setting all of our allies against us.&lt;BR&gt;&lt;BR&gt;I hate to ask, but we have to hold our position. Can you deal with the sporewalkers?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1018">
+        <Page social="4">I heard someone mention Thulsa's name. It might well be that he's stirring up trouble against us, trying to keep us distracted.&lt;BR&gt;&lt;BR&gt;Thanks to you, we can stay focused. Well fought, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1011">
+        <Page social="4">Military tactics aren't my area of expertise—observing behavior is. Typical argon behavior oscillates between assimilation and elimination.&lt;BR&gt;&lt;BR&gt;You see, they convert what they can control, and destroy what they cannot.&lt;BR&gt;&lt;BR&gt;Their casual disregard here indicates they intend something else...plausibly something more sinister.&lt;BR&gt;&lt;BR&gt;We require accurate information, and the mandrakes are more attuned to this land. Seek out Tanseril. Perhaps he can root out answers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1028">
+        <Page social="4">Shouldn't we rejoice? The argons passed us by!&lt;BR&gt;&lt;BR&gt;You think they wanted something else?&lt;BR&gt;&lt;BR&gt;You should go find out what Nila knows. She's probably got some information that will help us out.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" prevId="3" villagerId="1006">
+        <Page social="4">The argons came through here and continued south. We tussled with them a bit, but they looked more interested in getting out than fighting our people.&lt;BR&gt;&lt;BR&gt;Not sure if that helps, but that's what I know.</Page>
+    </Text>
+</QuestDialog>

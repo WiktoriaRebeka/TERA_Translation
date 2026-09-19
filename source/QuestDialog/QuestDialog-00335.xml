@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1009">
+        <Page social="0">Councillor Teil told you of Elleon's suspicions about the Tainted Gorge, and sent you to investigate. Along the way, you helped secure supplies from a crashed airship, and rescued its pilot from orcans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1009">
+        <Page social="4">Elleon and I are concerned about the demons in the Tainted Gorge. It's a dangerous area, and one that cost us a lot to secure.&lt;BR&gt;&lt;BR&gt;I'm sending you down there to look for Elleon, &lt;PCNAME&gt;, but also to help out however you can.&lt;BR&gt;&lt;BR&gt;{@linkcreature:64#1033$$Bipi} handles logistics for our forward outposts. Talk to her before you head out, and she'll get you squared away.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1033">
+        <Page social="4">I greet you, &lt;PCCLASS:lcase&gt;, with the worst of news. Our supply airship has crashed, and we've lost contact with its pilot.&lt;BR&gt;&lt;BR&gt;{@linkcreature:213#1007$$Chione} is smart and resourceful, but no soldier. A relief team is forming, but you are here now. Head east along this road and thin the ranks of the Dark Claw orcans, and recover any supplies you can while looking for Chione.&lt;BR&gt;&lt;BR&gt;Why are you still here?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1007">
+        <Page social="4">At last, a friendly face.&lt;BR&gt;&lt;BR&gt;It was a routine flight, until the explosion. After the crash, terrons sprang from the wreckage, but they were definitely not on the manifest.&lt;BR&gt;&lt;BR&gt;I will wait here with the supplies you've recovered. The orcans seem content merely to watch me...for now.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1007">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1007">
+        <Page social="5">The Kazuur Syndicate is trying to move the slaves—they must know we're on to them.&lt;BR&gt;&lt;BR&gt;Take out the guards at Sandbar Beach. If a ship pulls up and sees a bunch of {@LinkCreature:12#14#gula trafficker} corpses, they won't risk moving the slaves.&lt;BR&gt;&lt;BR&gt;Plus, more dead slavers is an inherently good thing, right?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1007">
+        <Page social="5">One piece of the puzzle at a time, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;It's like we're dismantling a jigsaw puzzle. Every part of the puzzle we remove makes the rest look more wrecked and chaotic.&lt;BR&gt;&lt;BR&gt;And eventually the whole thing falls apart. Hah!</Page>
+    </Text>
+</QuestDialog>

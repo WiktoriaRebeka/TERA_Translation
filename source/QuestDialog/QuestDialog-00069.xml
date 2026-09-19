@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="4">Undead horrors have seized the mines in Fyrmount. &lt;BR&gt;&lt;BR&gt;Those mines provide important war materiel for the federation. Head to Cauldron Outpost and see whether you can lend a hand.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">Always glad to see reinforcements from Castanica.&lt;BR&gt;&lt;BR&gt;Talk to Keinie. She has a better head for organizing than I do. I'm more of a "break things" kind of girl.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1002">
+        <Page social="4">If you can kill undead—yeah, I know, they're already dead, whatever—then I can put you to work.&lt;BR&gt;&lt;BR&gt;Name? &lt;PCNAME&gt;? How do you spell that?&lt;BR&gt;&lt;BR&gt;Got it. Now make yourself useful!</Page>
+    </Text>
+</QuestDialog>

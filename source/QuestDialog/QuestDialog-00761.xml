@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">The mercenary camp is somehow receiving regular reinforcements, but we don't know how or where they're coming from. No matter how many we kill, their numbers aren't shrinking.&lt;BR&gt;&lt;BR&gt;No matter how many mercenaries there are, though, they're useless without their commanders.&lt;BR&gt;&lt;BR&gt;We just have to find out where the commanders are camped. Here's a list of sectors to scout, but you'll need Uzair's approval first.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1003">
+        <Page social="4">I'd love to go ahead with Nashwa's plan—it's a great idea—but the scouts we sent out in that area haven't come back.&lt;BR&gt;&lt;BR&gt;You'll do, though. Go find their commander, {@LinkCreature:32#20#Baalark}, and take him out before these mercenaries get any more ideas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1003">
+        <Page social="4">Bastard finally got what he deserved—I swear on the blood of the soldiers he slaughtered, his head will hang for a week for the crows to feast on and his mercenaries to consider.&lt;BR&gt;&lt;BR&gt;Everyone will be thrilled to hear the news. I can't wait to tell Nashwa her plan paid off.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" villagerId="1003">
+        <Page social="0">You'll find the mercenary camp north of here. There's no time to waste.</Page>
+    </Text>
+</QuestDialog>

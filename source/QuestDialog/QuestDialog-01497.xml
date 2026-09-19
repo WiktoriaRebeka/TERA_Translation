@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1010">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870701'/&gt;&lt;BR&gt;You tracked down and defeated the orcan leader, Captain Rahto. You gave Rahto's red heart to Arin, to be completely destroyed.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1010">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870701'/&gt;&lt;BR&gt;I just saw a giant orcan going up the hill to the west, and one of our people following him! &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, that big orcan must be this Rahto that you're looking for. But he's not the only orcan in that area, so you'll have to fight your way through.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1029">
+        <Page social="4" voiceTypeId="0">Oh, &lt;PCNAME&gt;, it's you.&lt;BR&gt;&lt;BR&gt;I...I think I've failed. It wasn't Rahto.&lt;BR&gt;&lt;BR&gt;I threw everything I had at him, and it wasn't even Rahto! Now I've got nothing left for the real fight!&lt;BR&gt;&lt;BR&gt;Blast it! I really wanted to defeat Rahto with my own two hands... &lt;NEXTPAGEBUTTON&gt;"You tried your best."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I...appreciate that.&lt;BR&gt;&lt;BR&gt;The thing is, I now know for certain where Rahto is. If you follow this road over the hill, you will find a popori scout named Belgun. Rahto is just past Belgun!&lt;BR&gt;&lt;BR&gt;Listen to me, &lt;PCNAME&gt;! I know I've been treating you like a rookie, but I've seen what you can do. You've got what it takes to stop Rahto.&lt;BR&gt;&lt;BR&gt;Please, you are our only chance. Defeat Rahto and restore peace to Pora Elinu!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Poor Mirvan. She really poured everything she had into battle Rahto—and it wasn't even him.&lt;BR&gt;&lt;BR&gt;If I know orcans, Rahto is probably hiding among the rank and file.&lt;BR&gt;&lt;BR&gt;But it's not enough to just kill him; you have to recover the stone he ate—the source of his power. If you don't destroy that stone, it's just going to end up in someone else's hands—well, gullet—and this all happens again, somewhere else.&lt;BR&gt;&lt;BR&gt;If you can kill Rahto, and get that stone back to Princess Arin, she can take care of the rest. Good luck!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1030">
+        <Page social="4" voiceTypeId="0">So, this is the source of Rahto's power? Not anymore. Pora Elinu will be a paradise again—I swear it!&lt;BR&gt;&lt;BR&gt;I don't know how to thank you, &lt;PCNAME&gt;... This seems so small a gesture, compared to what you've done for us, but please accept this sign of our gratitude for saving Pora Elinu.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" villagerId="1030">
+        <Page social="0">You must defeat Rahto to save Pora Elinu.</Page>
+    </Text>
+</QuestDialog>

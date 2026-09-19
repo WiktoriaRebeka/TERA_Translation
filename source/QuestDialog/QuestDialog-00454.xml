@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1010">
+        <Page social="5">I think we've got this spot pretty well in hand. A few more decisive blows to the enemy's troops and they'll turn tail, I'm sure!&lt;BR&gt;&lt;BR&gt;You have great energy, soldier, and I want you to share that with Tairun, my underling at the scout camp south-east of here. A real warrior will remind him how to fight!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1013">
+        <Page social="5">Cafnil sent you? That's...lovely. Sorry, not your fault. You must be pretty tough. Smart? We'll see. Ask around camp. I'm sure you'll find things to do.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2003">
+        <Page social="0">You enjoyed the Drum Away game, a Pond Faire tradition of driving the frogs away.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2003">
+        <Page social="4">Bang red drum, red frog goes! Bang purple drum, purple frog goes!&lt;BR&gt;&lt;BR&gt;Make frogs go away.&lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2003">
+        <Page social="4">Good drumming! Gift for you! &lt;NEXTPAGEBUTTON&gt;"That was fun."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

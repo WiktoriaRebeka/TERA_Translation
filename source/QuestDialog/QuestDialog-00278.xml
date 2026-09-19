@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1015">
+        <Page social="4">You'd think pirates would stick to the seas, where they belong. But no, they've infested the jungle, too.&lt;BR&gt;&lt;BR&gt;And I don't want to get abducted, or worse. You're not exactly a kidnap risk, though. Can you locate some golden pigweed from west or south of here, and gather pigweed petals for me? I need it to make medicine.&lt;BR&gt;&lt;BR&gt;Heck, maybe medicine to heal you someday.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1015">
+        <Page social="4">Ah, pigweed petals. "Balm of the seas," we used to call it. Not that you found it at sea, mind you. But we pirates take it with us on every voyage.&lt;BR&gt;&lt;BR&gt;Or at least we pirates did. No proper pirates left, of course...just flotsam and jetsam like me. The nagas wiped us all out.&lt;BR&gt;&lt;BR&gt;Sorry, the ramblin' is a bad habit. Bring me more pigweed petals if you think of it, eh, &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1015">
+        <Page social="0">Shame if you bled to death because the closest thing to a physician in this village has no pigweed petals, eh?</Page>
+    </Text>
+</QuestDialog>

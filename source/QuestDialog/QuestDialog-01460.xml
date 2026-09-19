@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="67" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="5" voiceTypeId="0">It's time to get some more potent items.&lt;BR&gt;&lt;BR&gt;Speak to Kethenn, who has advanced supplies.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="6114">
+        <Page social="5" voiceTypeId="0">Look how much you have achieved!&lt;BR&gt;&lt;BR&gt;You've certainly earned access to my stock.</Page>
+    </Text>
+</QuestDialog>

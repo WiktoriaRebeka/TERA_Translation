@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1012">
+        <Page social="4">The Press Camp...we called it that because anyone who was captured was pressed in to service.&lt;BR&gt;&lt;BR&gt;Now we're using it to press on. The camp's location turned out to be more important than we thought, and we've managed to hold on to it through thick and thin.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:11#1009#Red Lash reapers} are trying to take it from us. Stop them, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1012">
+        <Page social="4">That's a lot of kill trophies, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;And now you see why the camp is so important, eh?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1012">
+        <Page social="0">{@LinkCreature:11#1009#Red Lash reapers} want this camp. And we're not giving it to them!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1018">
+        <Page social="4">Let's get to business. That ugly monstrosity belching green smoke is the {@Rgn:49003}. It's part of why Val Kaeli looks like a nightmare.&lt;BR&gt;&lt;BR&gt;Before we can move on it, though, you need to kill the zariik cyanowitches that protect it.&lt;BR&gt;&lt;BR&gt;Shouldn't be too tough.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1020">
+        <Page social="6">They're dead, and you're not. Outstanding.&lt;BR&gt;&lt;BR&gt;Take a breather if you need to. The next task awaits.</Page>
+    </Text>
+</QuestDialog>

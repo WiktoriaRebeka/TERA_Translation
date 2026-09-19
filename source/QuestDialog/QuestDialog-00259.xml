@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="4">Well, we certainly got their attention, but we need to keep hitting them.&lt;BR&gt;&lt;BR&gt;Slay {@LinkCreature:10#23#Midirix}, whom they say has "scales which cannot be scratched, and fangs which cannot be dulled."&lt;BR&gt;&lt;BR&gt;Show them you've got courage that can't be matched.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1003">
+        <Page social="4">Midirix is out of the picture—and I bet the picture is starting to look bleak for our scaly friends at the temple.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1001">
+        <Page social="0">&lt;PCNAME&gt;, are you any good at jumping?&lt;BR&gt;&lt;BR&gt;How about falling?&lt;BR&gt;&lt;BR&gt;We need someone to jump through the caved-in floor and descend—plummet, really—to the basement.&lt;BR&gt;&lt;BR&gt;There's a scout there, Waqaar, whom we haven't heard from in some time. Check on him, then fight your way back up here when you're done down there.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1024">
+        <Page social="4">The bad news: that's the hole you're jumping through. And no, there's no other way down.&lt;BR&gt;&lt;BR&gt;The good news: we sent a teleport master down there yesterday, so you should be able to get back.&lt;BR&gt;&lt;BR&gt;Assuming the teleport master survived the drop, that is...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1013">
+        <Page social="4">What a rush, eh?&lt;BR&gt;&lt;BR&gt;I hope you've mastered combat as well as you've mastered gravity, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;We've got a lot of work to do down here.</Page>
+    </Text>
+</QuestDialog>

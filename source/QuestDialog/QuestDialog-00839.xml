@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1015">
+        <Page social="17">It's time for Thulsa to meet his end. Will you join me in hitting the legion where it hurts, once and for all?&lt;BR&gt;&lt;BR&gt;We're overrun with Tenebrara dreadweavers and destroyers. Their numbers are many, but the "great god" Thulsa is nothing without his minions. Defeat the Tenebraras...and bring me their heads.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1015">
+        <Page social="7">Your courage is unparalleled.&lt;BR&gt;&lt;BR&gt;Victory will be ours!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1015">
+        <Page social="0">Get out there and get the bad guys. Let's do this!&lt;BR&gt;&lt;BR&gt;Why are you still standing here? Go kill some Tenebraras!</Page>
+    </Text>
+</QuestDialog>

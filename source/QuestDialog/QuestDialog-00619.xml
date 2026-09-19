@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1023">
+        <Page social="5">This shore is famous for its derasa clams with their magical shells. Not the same call for them in the open market as there once was, but the amani claim the shells are aphrodisiacs—and that people will pay anything for a quick fix from a discreet source, if you know what I mean.&lt;BR&gt;&lt;BR&gt;I'll pay by the shell. Don't eat them, though—I haven't got time for that.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1023">
+        <Page social="5">Fantastic! There are enough shells here to keep the entire Valkyon army happy. If you know what I mean.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1023">
+        <Page social="0">Concentrate on the waterline. That's where the clams live.</Page>
+    </Text>
+</QuestDialog>

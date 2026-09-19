@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">The {@LinkCreature:4#1051#devan war golems} and {@LinkCreature:4#1052#fallen devan protectors} are walking around like they own the place.&lt;BR&gt;&lt;BR&gt;Kill them, and if there are shadmetal parts in their armor, take them.&lt;BR&gt;&lt;BR&gt;Fyrmount is our mine, &lt;PCNAME&gt;. Show them...by mining them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1001">
+        <Page social="4">Still standing, eh? Keep this up, and we'll be back in the mines before you know it, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1001">
+        <Page social="0">Blast and damnation! It doesn't bother you, having the enemy wandering around like they own the place?</Page>
+    </Text>
+</QuestDialog>

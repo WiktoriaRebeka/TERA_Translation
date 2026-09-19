@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1037">
+        <Page social="4">Ages ago, Isren created a garden haven for herself and her daughter. When Isren died, a despondent Icaruna poured her power into the Everbloom and planted it in Isren's garden. Icaruna was never quite the same after.&lt;BR&gt;&lt;BR&gt;The bloom possesses powerful divine magic providing eternal rebirth of the land—making Seeliewood immortal.&lt;BR&gt;&lt;BR&gt;Do you understand why it's so important? Ready to drive out the argons?&lt;BR&gt;&lt;BR&gt;Mortals can't just walk into Isren's garden. You need a key. What key? To open our goddess's garden, requires a fey poem in three parts.&lt;NEXTPAGEBUTTON&gt;"Can you teach it to me?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Only the first part. You'll need to visit the acolytes, Gasrau and Maipi, in the Bower for the rest. Ready? Listen and remember.&lt;BR&gt;&lt;BR&gt;  Seeds root,&lt;BR&gt;  And tendrils twine;&lt;BR&gt;  Life burgeons, goddess mine.&lt;BR&gt;  Tears wash over Isren's pardon,&lt;BR&gt;  Garden.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1035">
+        <Page social="4">Anther sent you? For the Everbloom, I'll give you the key. For the Everbloom, I'd empower a b-battalion!&lt;BR&gt;&lt;BR&gt;  Tunnels,&lt;BR&gt;  Where shadows lurk,&lt;BR&gt;  Strength and hoof carve their work.&lt;BR&gt;  What life left when love can't follow,&lt;BR&gt;  Hollow.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" prevId="2" villagerId="1036">
+        <Page social="4">Argons want the Everbloom? The Everbloom holds divine power to heal the land—to reshape it if necessary.&lt;BR&gt;&lt;BR&gt;I can only imagine what the argons could do with the Everbloom.&lt;BR&gt;&lt;BR&gt;Yes, yes, you must get inside and stop them!&lt;BR&gt;&lt;BR&gt;  Blowing,&lt;BR&gt;  Above it all,&lt;BR&gt;  Winds whisper, breathe, and call.&lt;BR&gt;  Ne'er stronger bond with another:&lt;BR&gt;  Mother.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="254" prevId="3" villagerId="1037">
+        <Page social="4">You have the poem? Do you understand what waits for you? If the argons understand the power of the Everbloom—and they must—they will try to control it or, if they can't, destroy it.&lt;BR&gt;&lt;BR&gt;What would happen to the world if the argons had the power to reshape lands? Everything would be sick, twisted, and full of death. What would happen if the argons destroyed the Everbloom? The faerie power to heal the land would dissipate and Seeliewood and other fey lands would become barren battlegrounds. You can't let either happen!</Page>
+    </Text>
+</QuestDialog>

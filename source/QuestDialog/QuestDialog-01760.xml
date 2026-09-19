@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1096">
+        <Page social="4" voiceTypeId="0">It's time for your third task, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Once again, you'll be clearing two dungeons...or the same one twice.&lt;BR&gt;&lt;BR&gt;Are you ready?&lt;NEXTPAGEBUTTON&gt;"As ready as I'll ever be."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1096">
+        <Page social="4" voiceTypeId="0">I'm impressed with your progress!&lt;BR&gt;&lt;BR&gt;Only three more tasks to go. I hope you're committed to seeing them through to the end.&lt;NEXTPAGEBUTTON&gt;"I'll see it through to the end."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

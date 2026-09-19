@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">The Invalescos devoted considerable resources to understanding how the argons reshape our world. Their technological prowess is both inspiring and terrifying.&lt;BR&gt;&lt;BR&gt;I'd like to know where we are in our studies. Head to Field Base Reciprocity and check in with our researchers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="4">Argon-shaping technology? Sure, that's what we're studying, but I'm not in charge. The boss is up the ladder there, enjoying the view and the lack of argon attacks!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="245" prevId="2" villagerId="3501">
+        <Page social="4">I forgot! I had the report all along.&lt;BR&gt;&lt;BR&gt;I swear, I'd lose my horns if they weren't attached.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="8" villagerId="3502">
+        <Page social="4">I just updated the report this morning. I hope it helps {@LinkCreature:77#3001#Nithan} with our mission.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" prevId="9" villagerId="3504">
+        <Page social="4">The implications in this report chill my blood. I wonder what {@LinkCreature:77#3001#Nithan} will make of it.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="10" villagerId="3505">
+        <Page social="4">The argons are reshaping our world, making it less hospitable to us and more suitable for them. It implies, to some extent, that our races aren't wholly compatible.&lt;BR&gt;&lt;BR&gt;This report summarizes our findings. Deliver it to {@LinkCreature:77#3001#Nithan}.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" prevId="11" villagerId="3001">
+        <Page social="4">Excellent. I'm eager to see what our finest minds make of this latest problem.&lt;BR&gt;&lt;BR&gt;Thanks for your help, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="77" villagerId="3001">
+        <Page social="0">I need that report, &lt;PCNAME&gt;. We can't proceed without it.</Page>
+    </Text>
+</QuestDialog>

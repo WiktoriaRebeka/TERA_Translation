@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="0">Adria has more information on Elleon, Leander's older brother.&lt;BR&gt;&lt;BR&gt;A few people have seen him, but the consensus is that he's gone off in search of something.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="4">I've received information about Elleon, &lt;PCNAME&gt;. The "Federation's Hero" has gone missing, again.&lt;BR&gt;&lt;BR&gt;His brother Leander is worried, and is asking for your help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1008">
+        <Page social="4">Elleon, my brother, has gone missing. Most likely he is chasing some perceived threat to the federation, but his reasons are known to none.&lt;BR&gt;&lt;BR&gt;Assembling a picture of his movements might reveal his motives, if not his location. Taras is the last guard to have seen Elleon. Speak to him, and follow any leads he provides.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1028">
+        <Page social="4">Elleon's missing again? You know, now that you mention it, I did see him a couple hours ago. He was headed down to the Southern Checkpoint.&lt;BR&gt;&lt;BR&gt;He said something about ghilliedhus...I didn't quite catch it. But it never hurts to take a few out, so you might as well kill a few on your way there, eh?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1147">
+        <Page social="4">Elleon? Yes, I saw that one heading south. I thought it was a little strange, as that campsite is currently abandoned, but I assumed he had his reasons. It was a few hours ago.&lt;BR&gt;&lt;BR&gt;Elleon has been...distracted lately. Honestly, {@linkcreature:213#1008$$Leander} probably has a much better idea of what's going on than I.&lt;NEXTPAGEBUTTON&gt; "Understood."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">The details of our interaction are in this report. {@linkcreature:213#1008$$Leander} may glean some greater meaning from it. You should go to him as soon as possible.&lt;BR&gt;&lt;BR&gt;And should any sporewalkers impede your passage, I believe you know what to do...</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="5" villagerId="1008">
+        <Page social="4">Hmm. Elleon appears to be searching for something. As you may have heard, he does that from time to time.&lt;BR&gt;&lt;BR&gt;If it is an official mission, Councilor {@linkcreature:64#1009$$Teil} probably has more insight into his actions.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="64" prevId="6" villagerId="1009">
+        <Page social="4">Yes, I know what Elleon was looking for. Or at least, I know what he told me. He believes a conspiracy is targeting the Island of Dawn.&lt;BR&gt;&lt;BR&gt;I'm preparing a report on the matter, but we'll need more than just his word to sell that theory.&lt;BR&gt;&lt;BR&gt;I'm approving you for detached duty to investigate.</Page>
+    </Text>
+</QuestDialog>

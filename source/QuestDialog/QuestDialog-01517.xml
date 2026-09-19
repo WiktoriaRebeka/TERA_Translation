@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1001">
+        <Page social="0">Moving on after Intrepid's crash, the Vanguard Initiative encountered the Khirians.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1001">
+        <Page social="4">We can't stay here forever. We have a duty to our soldiers and the Valkyon Federation.&lt;NEXTPAGEBUTTON&gt;"Your orders, sir?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I've dispatched a scout. Catch up with him and assist with the reconnaissance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1019">
+        <Page social="4">I saw the wreckage, but you can't get there from here.&lt;BR&gt;&lt;BR&gt;I'm supposed to fire off a flare, but the launcher won't work. Why don't you try it?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1019">
+        <Page social="4">There's the answering flare. We're to press on.&lt;BR&gt;&lt;BR&gt;I don't know about the wounded, but I can't fight these mandrills. Maybe you could clear us a small path?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1005">
+        <Page social="4">I don't recognize your garb or armaments. Who are you?&lt;NEXTPAGEBUTTON&gt;"I'm from the far south."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">That should not be possible. The dark clouds keep us trapped. If what you say is true, Rhodos must hear it.&lt;BR&gt;&lt;BR&gt;Cross this bridge to get to our camp. Ask to see Rhodos. Give him this scroll. I will vouch for you.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1006">
+        <Page social="4">What's this? Bagi writes that you're from the south. Is this true?&lt;NEXTPAGEBUTTON&gt;"It is true."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Why are you here? How is it you encounter my camp?&lt;NEXTPAGEBUTTON&gt;"Our ship crashed in the jungle."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You may be clever, but I can't tell if you're lying, but there is one who can.&lt;BR&gt;&lt;BR&gt;Across the trail from our camp, you will see a horned hut. Madat can judge the truth of your words.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1007">
+        <Page social="4">Ah, the skyfaller.&lt;NEXTPAGEBUTTON&gt;"What did you say?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Don't look so surprised. I watched your great air fish fall out of the sky. You must be from the outside.&lt;BR&gt;&lt;BR&gt;Perhaps our time has come.&lt;BR&gt;&lt;BR&gt;I believe your arrival heralds the coming of the Khirian victory over the cursed archdevas!&lt;BR&gt;&lt;BR&gt;Hatishna! Tell Rhodos, "Hatishna!"</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1006">
+        <Page social="4">What did Madat say?</Page>
+    </Text>
+</QuestDialog>

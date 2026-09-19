@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1021">
+        <Page social="6">You can't imagine my frustration. I came here to study the field of fire—the very place where the gods called down destruction on the giants, the fallen city-state of Ger.&lt;BR&gt;&lt;BR&gt;I came to help unearth those amazing divine weapons, but all I'm doing is hiding from the fangspawns. Nobody said there'd be fangspawns.&lt;BR&gt;&lt;BR&gt;I have money—I can pay you for getting rid of them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1021">
+        <Page social="5">Thanks, &lt;PCNAME&gt;! I can't wait to get my first look at those amazing craters, and the treasures we'll take from them.</Page>
+    </Text>
+</QuestDialog>

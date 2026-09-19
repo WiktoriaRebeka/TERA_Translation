@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1048">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1048">
+        <Page social="4">Thulsa's dogs have desecrated our holy ground by placing crimson shards throughout it.&lt;BR&gt;&lt;BR&gt;As offensive as they are, however, I must admit they are made out of a fantastic material. Dismantle the crimson shards and bring me the fragments.&lt;BR&gt;&lt;BR&gt;Heh. I'll melt all the fragments down and use them to restore the Divine Furnace once we take it back.&lt;BR&gt;&lt;BR&gt;Clean up the holy ground and get superb materials for free? How can it get any better than that?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1048">
+        <Page social="4">Brilliant work!&lt;BR&gt;&lt;BR&gt;Hmmm... I can still sense traces of Thulsa's magic in these fragments. I will have the Mysterium purify them before I cast them into the furnace.&lt;BR&gt;&lt;BR&gt;I shall now compensate you for your trouble.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1048">
+        <Page social="0">This holy place must be cleared of all traces of those Thulsan and Ksharan dogs!&lt;BR&gt;&lt;BR&gt;Dismantle all the crimson shards in sight and bring me the fragments.</Page>
+    </Text>
+</QuestDialog>

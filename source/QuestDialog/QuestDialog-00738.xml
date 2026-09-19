@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1042">
+        <Page social="4">It's difficult to detect the silent movements of the {@LinkCreature:31#8#sepulchral wraiths} and {@LinkCreature:31#9#souleater wraiths}. That's one reason they've killed so many. Please eliminate these creatures for the safety of the coastal villagers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1042">
+        <Page social="4">Good work. You can't imagine how many lives you have saved.</Page>
+    </Text>
+</QuestDialog>

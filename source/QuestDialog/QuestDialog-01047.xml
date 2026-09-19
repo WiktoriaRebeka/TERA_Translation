@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1026">
+        <Page social="4">As long as you're here, the {@Creature:45#3004#athakela stalkers} and {@Creature:45#3003#kelba rippers} are getting too close for comfort.&lt;BR&gt;&lt;BR&gt;I'd appreciate you discouraging them from coming any closer. And, if you're heading south from here, drop in on Pokara at {@Rgn:45009$$Camp Insanity}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1029">
+        <Page social="4">Setahl sent you? What a good friend he is. And a good scientist as well. Thanks.</Page>
+    </Text>
+</QuestDialog>

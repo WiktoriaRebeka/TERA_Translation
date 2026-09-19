@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3001">
+        <Page social="4">I got a request for your presence at {@Rgn:50003$$Helkir Grotto}.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:250#3002#Sunkuvil} says the prismar watchers are swarming again.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="4">Thanks for coming, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:50#9#prismar watchers} must be spawning. They're swarming an area my federation charges need access to. Care to tally a few?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="4">I think the argons moved those watchers here just to frustrate us.&lt;BR&gt;&lt;BR&gt;Thanks for clearing them away.</Page>
+    </Text>
+</QuestDialog>

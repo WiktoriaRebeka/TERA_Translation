@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1009">
+        <Page social="5">Our well used to supply enough water for all of us, but the drought has taken its toll—and now the kulkari keep stealing our water supplies.&lt;BR&gt;&lt;BR&gt;There is a tent camp to the west of the village. It was once the village market, but it's been abandoned because of the bandits. There may be some water left there, but none of us are equipped to handle the bandits.&lt;BR&gt;&lt;BR&gt;Can you go check and bring back any water you find?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1009">
+        <Page social="5">Well done! This is plenty of water. It may not last us through the drought, but it should last a while.&lt;BR&gt;&lt;BR&gt; Thank you. The federation sends more like you, and I'll be glad we joined forces.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="66" villagerId="1009">
+        <Page social="0">The abandoned tent camp is in the Desert of Plunder west of the village. If the bandits left any water, please bring it to me before it evaporates.</Page>
+    </Text>
+</QuestDialog>

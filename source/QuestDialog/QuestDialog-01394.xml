@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1013">
+        <Page social="4">The sikandaris wish to regain control of their Hatchery and we'll oblige them.&lt;BR&gt;&lt;BR&gt;Killian brought in some ebon fimbrilisks, probably to keep the argons and the sikandaris in line, and they must die.&lt;BR&gt;&lt;BR&gt;With the fimbrilisks dead, we can work on clearing out the argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1013">
+        <Page social="4">We must hope the sikandaris recognize we're taking the high road, helping them in spite of what they did to us.&lt;BR&gt;&lt;BR&gt;The goal had better be worth the price.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="1183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">{@linkcreature:183#1015#Omeros} has something for you. Speak with Omeros.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Omeros gives &lt;PCNAME&gt; a book of the ancient Valkyries.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1015">
+        <Page social="4" voiceTypeId="0">You shine just like the moonlight &lt;PCNAME&gt;.&lt;BR&gt;While you were at the hall, I grabbed a book.&lt;BR&gt;I just read it, and there's something that you should know.&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It's another tale about the ancient Valkyries.&lt;BR&gt;I know that you already read about the ancient Valkyries, but this handles another side of them.&lt;BR&gt;&lt;BR&gt;Would you like to read it?&lt;NEXTPAGEBUTTON&gt;"I'll give it a try."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1015">
+        <Page social="4" voiceTypeId="0">I wonder how they met.&lt;BR&gt;Since you travel around the world, I'm certain that you'll be able to find the rest of the story.&lt;BR&gt;&lt;BR&gt;If you find out what happened, please let me know.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Seir wanted to send you to the front lines of the Argon War, and while he was briefing you a messenger came to report that the Argons are in retreat, and the federation won back {@Rgn:47001$$Tirkai Forest}. Seir then ordered you to go to {@Rgn:47001$$Tirkai Forest} and help repair the area.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Draft Orders:&lt;BR&gt;&lt;BR&gt;[Kaiator] Return to Velika to discuss strategies for the Argon War.&lt;BR&gt;&lt;BR&gt;Meet me in the Velika Consul Office.&lt;BR&gt;&lt;BR&gt;—Seir</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1315">
+        <Page social="4" voiceTypeId="0">Ah, &lt;PCNAME&gt;, you’re here.&lt;BR&gt;&lt;BR&gt;You represented {@Rgn:63001$$Velika} outstandingly and helped destroy Samael. Thank you for that. But it’s not over yet.&lt;NEXTPAGEBUTTON&gt;"What’s happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It's the Argons. The threat they pose to the world is why the federation formed in the first place, and it's time for you to officially join that fight.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="1315">
+        <Page social="4" voiceTypeId="0">This second Argon War doesn't show any signs of ending, though {@Rgn:84001$$Kaiator} has for the most part contained the fighting to Northern Shara. We've been able to stamp out scattered argon incursions elsewhere in the federation, but it's time for us to go on the offensive.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You need some solid experience fighting argons, and there's only one way to get it. Argonized creatures are swarming in {@Rgn:47001$$Tirkai Forest}. I want you to travel to Northern Shara, and assist in any way you can.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="1315">
+        <Page social="4" voiceTypeId="0">Yes. Kaitor Command has established a line of defense in Northern Shara, but the argons don't fight the way we do. Containing the scattered outbreaks we see elsewhere in the federation stretches our resources too thin, and we need that to change.&lt;NEXTPAGEBUTTON&gt;"I'm ready to do my part."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Good to hear. Argonized creatures are swarming in {@Rgn:47001$$Tirkai Forest}. I want you to travel to Northern Shara, and assist in any way you can.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="3" villagerId="1315">
+        <Page social="4" voiceTypeId="0">There's one more thing we need to do before I send you on your way. I...Hmm, what's going on here?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1315">
+        <Page social="4" voiceTypeId="0">The argons may be retreating, but there'll still be plenty for you to fight.&lt;BR&gt;&lt;BR&gt;Now, more than ever, I need someone like you to give our troops hope.&lt;NEXTPAGEBUTTON&gt;"I'll keep that in mind."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">Please do. Report to {@linkcreature:247#2001$$Verge} in {@Rgn:77001$$Pathfinder Post}. If the Argons are falling back, it's our time to advance.&lt;BR&gt;&lt;BR&gt;I want you to support our outposts in {@Rgn:47001$$Tirkai Forest} until you receive orders to go to {@Rgn:48001$$Khanovar Front}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" prevId="7" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Greetings, &lt;PCNAME&gt;. Troius told us you'd be arriving.&lt;BR&gt;&lt;BR&gt;Let me cut to the chase.&lt;BR&gt;&lt;BR&gt;The Argons are gone, but it'll only be for a while. The area is badly contaminated, but that doesn't change our mandate to fortify it before the Argons strike back.&lt;BR&gt;&lt;BR&gt;Report to {@linkcreature:247#2002$$Yasring} at Field Base Lunacy as soon as possible.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="8" villagerId="2002">
+        <Page social="8" voiceTypeId="0">One day this place was full of argons, the next day they were gone. But what they left behind...&lt;BR&gt;&lt;BR&gt;We could study it for a lifetime, but we don't have that long.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">They fouled the land, the water, even the air. Can you taste the wrongness in it? I'm leading the purification efforts, and to do that, I need to know exactly how argon contamination works.&lt;BR&gt;&lt;BR&gt;Bring me some contaminated mushrooms, and kill a few argonified creatures as well. For science.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="247" prevId="9" villagerId="2002">
+        <Page social="9" voiceTypeId="0">With these I can make you some cleansing orbs.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="247" prevId="10" villagerId="2002">
+        <Page social="9" voiceTypeId="0">Tirkai Lake is the main source of fresh water around here, and right now it's none too fresh.&lt;NEXTPAGEBUTTON&gt;"I noticed."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I'll keep turning out orbs—you use these on whatever's polluting the lake. After you use the orbs, go and meet {@creature:247#2003$$Cheniel}. You’ll need help.&lt;BR&gt;&lt;BR&gt;Good luck!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="247" prevId="11" villagerId="2005">
+        <Page social="0" voiceTypeId="0">(This corpse looks wrong somehow—not just dead, but wrong.)&lt;BR&gt;&lt;BR&gt;(Could it be contaminating the lake? Using an orb should tell you.)</Page>
+    </Text>
+    <Text id="13" huntingZoneId="247" prevId="11" villagerId="2006">
+        <Page social="0" voiceTypeId="0">(This corpse is somehow contaminated. It could be affecting the lake. Maybe you should use an orb on it.)</Page>
+    </Text>
+    <Text id="14" huntingZoneId="247" prevId="11" villagerId="2007">
+        <Page social="0" voiceTypeId="0">(You use an orb to remove any argon contamination from the corpse.)</Page>
+    </Text>
+    <Text id="15" huntingZoneId="247" prevId="12" villagerId="2003">
+        <Page social="8" voiceTypeId="0">The lake will be clean again? If only that were enough. Our trees of life are dying. We will die without them, and soon.&lt;BR&gt;&lt;BR&gt;But perhaps it's no accident Yasring sent you now, when you might be able to help.&lt;BR&gt;&lt;BR&gt;If you're willing, Shemi can take you to the tree.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="247" prevId="15" villagerId="2004">
+        <Page social="8" voiceTypeId="0">I can't go there, but I can show you. Look closely—they're right...&lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#-14543, -27587, -943&amp;type=1&amp;name=here"&gt;here&lt;/A&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="17" huntingZoneId="247" prevId="16" villagerId="2003">
+        <Page social="8" voiceTypeId="0">The Purifying Orb worked?&lt;BR&gt;&lt;BR&gt;That means there’s still hope left. The Faeries will now be able to help restore {@Rgn:47001$$Tirkai Forest}. Thanks!</Page>
+    </Text>
+</QuestDialog>

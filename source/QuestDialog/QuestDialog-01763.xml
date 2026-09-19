@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1093">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1093">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Come see me when you can. I have a challenge only a skilled warrior such as yourself can meet.&lt;BR&gt;&lt;BR&gt;-Coldren-&lt;NEXTPAGEBUTTON&gt;(Close letter)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1093">
+        <Page social="4" voiceTypeId="0">Welcome, welcome!&lt;BR&gt;&lt;BR&gt;I hope my letter found you at a good time.&lt;NEXTPAGEBUTTON&gt;You mentioned a challenge?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Indeed I did. As a fellow warrior, I know how exhilirating it is facing off against powerful foes. So I'm looking for people willing to take on the biggest challenges facing the Valkyon Federation right now.&lt;NEXTPAGEBUTTON&gt;I'm listening.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Trainers like myself are gathering the best of the best, hoping to observe them in action and possibly learn new tricks from former students.&lt;BR&gt;&lt;BR&gt;Does that sound interesting to you?&lt;NEXTPAGEBUTTON&gt;Well, I am the best...&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Excellent! I knew we'd picked the right person. There are five challenges to master, each requiring you to defeat powerful enemies.&lt;BR&gt;&lt;BR&gt;Tell me when you're ready to begin.&lt;NEXTPAGEBUTTON&gt;Let's do this!&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1093">
+        <Page social="4" voiceTypeId="0">Great work, as expected. You're definitley among the finest warriors in the federation.&lt;NEXTPAGEBUTTON&gt;What's next?&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

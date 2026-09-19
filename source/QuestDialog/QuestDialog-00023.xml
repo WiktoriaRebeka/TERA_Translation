@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1009">
+        <Page social="0">I'm tired of us wringing our hands about the "poor" faeries and woodland creatures who've gone crazy! Once you kill my friends, you're no longer a woodland creature. You're a blight.&lt;BR&gt;&lt;BR&gt;First on my hit list: {@LinkCreature:2#5#hulking sabertooths}. Let's make the Fey Forest safe for loggers once more!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1009">
+        <Page social="0">I wish more soldiers were like you, taking the fight to the enemy.</Page>
+    </Text>
+</QuestDialog>

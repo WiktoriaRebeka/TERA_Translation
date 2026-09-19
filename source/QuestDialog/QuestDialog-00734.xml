@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="4">The naga pirates keep invading the garrison. It's infuriating—as if they don't even care we're here and we're armed!&lt;BR&gt;&lt;BR&gt;One good counterstrike ought to show them. Kill some {@LinkCreature:31#20#naga deathreapers} and confiscate their helmets. We'll hang them on the gate. See if we can't freeze their cold blood a little more.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1013">
+        <Page social="4">It warms me up just to think of the fear these helmets will instill in those wretched nagas. Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1013">
+        <Page social="0">Do you have those {@LinkCreature:31#20#naga deathreaper} helmets?</Page>
+    </Text>
+</QuestDialog>

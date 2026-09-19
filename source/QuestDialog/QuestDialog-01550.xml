@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="2015">
+        <Page social="0">You found evidence of archdevan control, but Cromagh broke it. To restore the broken device, you found the Parthians' greatest shaman.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="2015">
+        <Page social="1" voiceTypeId="0">It's not every archdeva who has one of these talismans—just the ones who can control dark magic. Priests, I think. Each of them wears a pendant that controls the talismans.&lt;NEXTPAGEBUTTON&gt;"You're sure it's the priests?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">There's an easy way to be sure. Just go into the training camp around the bend here and kill every archdevan priest you find. If one of them has a pendant, then Cromagh is correct!&lt;NEXTPAGEBUTTON&gt;"Now why didn't I think of that?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You're probably not as cunning as Cromagh the Cunning.&lt;NEXTPAGEBUTTON&gt;"True. Where will I find the priests?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You're in luck! They're all in the back of the camp, behind a score or more of Parthian troops—so you're guaranteed a fine battle!&lt;NEXTPAGEBUTTON&gt;"Who could ask for more?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2015">
+        <Page social="4" voiceTypeId="0">You're still alive! Cromagh may have underestimated you.&lt;BR&gt;&lt;BR&gt;So, did you get the pendant?&lt;NEXTPAGEBUTTON&gt;"Here it is."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" villagerId="2015">
+        <Page social="0">Did you get the control pendant? No? Cromagh is not surprised—combat can be scary at first. You just have to try again, until you find your courage.&lt;BR&gt;&lt;BR&gt;And before you ask: No, Cromagh will not fetch the pendant for you. You have to learn to do these things for yourself!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="3" villagerId="2015">
+        <Page social="1" voiceTypeId="0">Such a small thing. What a strange fate that we should suffer so much because of a little bauble.&lt;NEXTPAGEBUTTON&gt;"What do we do with it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">One of us—by which Cromagh means Cromagh—tries it on.&lt;NEXTPAGEBUTTON&gt;"Why does it have to be you?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">This could test the limits of a mortal's endurance, and perhaps his very sanity! Cromagh would feel bad if you tried it and it turned you into a pillar of...of...something really unpleasant.&lt;BR&gt;&lt;BR&gt;Besides, Cromagh is a hero! Heroes always take all the real risks!&lt;NEXTPAGEBUTTON&gt;"Fine, then. Take the risk."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2015">
+        <Page social="1" voiceTypeId="0">Cromagh has never felt such pain—like the heat of a thousand rashes! It's draining Cromagh's will to live!&lt;BR&gt;&lt;BR&gt;Mommy!&lt;BR&gt;&lt;BR&gt;Umm...ahem. It...didn't work. And now it looks like it's burned out. Well, the important thing is that Cromagh endured this test of his indomitable might, and remains indomitable. They will tell tales of Cromagh around the campfire!&lt;NEXTPAGEBUTTON&gt;"That was the only one we had, you idiot!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Calm down, all is not lost...&lt;BR&gt;&lt;BR&gt;Cromagh has a new plan—an even better one!&lt;NEXTPAGEBUTTON&gt;"Just tell me where to find another one."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Just down the trail there's an outpost where an archdevan mystic named Dyona supervises demokron training. If she doesn't have another pendant, she'll know who does. But you can't just beat it out of her; Cromagh has tried. But Cromagh knows another way...&lt;NEXTPAGEBUTTON&gt;"Go on."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">The Archdeva Imperial Army uses couriers, and they deliver reports to Dyona all the time. Just kill a courier, approach Dyona with this broken pendant, and tell her that the training camp needs a new one. If she doesn't have one, she'll tell you where to get one!&lt;NEXTPAGEBUTTON&gt;"That...actually makes sense."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2041">
+        <Page social="1" voiceTypeId="0">Ah, I see: You're just a child. Good. We should be putting all of the Parthian slaves to work.&lt;BR&gt;&lt;BR&gt;Well, do you have a message for me? Or do I have to tear you open and read your entrails?&lt;NEXTPAGEBUTTON&gt;"My apologies, mistress! I'm new! Here it is."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Faster, next time, slave.&lt;BR&gt;&lt;BR&gt;What is this nonsense? The training camp has lost its control pendant? Those incompetent buffoons! I have better things to do!&lt;BR&gt;&lt;BR&gt;Very well. Deliver this message to the shaman, Keezar.&lt;BR&gt;&lt;BR&gt;Go east from here, and you'll see a cave. Keezar is inside. Give her this Demokron Essence, and she'll give you a replacement.&lt;NEXTPAGEBUTTON&gt;"Thank you. Um...hail Lakan?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" villagerId="2041">
+        <Page social="0">You don't look like a Parthian. In fact, you look like one of those outlanders! I shall relish watching my Arachnen Taskmistresses tear you apart!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="182" prevId="7" villagerId="2032">
+        <Page social="1" voiceTypeId="0">You're no courier. Certainly not an archdeva, nor a Parthian, or even a Khirian. You're not even a baraka from Highwatch, are you? Let me look at you.&lt;BR&gt;&lt;BR&gt;Ah, I see...a visitor from the south...a hero of your kind, on a mission to this last little corner of the world to bring peace to a troubled land. The spirits whisper to me of your deeds, and your needs...&lt;BR&gt;&lt;BR&gt;...&lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"I... understand."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

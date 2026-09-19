@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">You ignited fireworks to honor Balder.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="4">By the name of Balder.&lt;BR&gt;&lt;BR&gt;We keep the torches burning day and night all year round, but during the festival we also set off fireworks as offerings to Balder.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you've done so much for us...would you like to do the honors? &lt;NEXTPAGEBUTTON&gt;"Sounds like fun!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Going around the torch platform, set off these rockets.&lt;BR&gt;&lt;BR&gt;Ah, make sure not to do it towards people. It's dangerous.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7001">
+        <Page social="4">My thanks, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I know this work can seem tedious, but I feel grateful to Balder every day. I hope that honoring Balder as you have helped you feel the same way.</Page>
+    </Text>
+</QuestDialog>

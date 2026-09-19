@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">&lt;PCNAME&gt; was sent to Oblivion Woods to help scout out the Bastion of Lok. &lt;PCNAME&gt; arrived late, however, and Hendry had already dispatched scouts. &lt;PCNAME&gt; hurried to catch up, only to encounter the slain bodies of the soldiers—and one survivor.&lt;BR&gt;&lt;BR&gt;The mission had failed, but the scout gave &lt;PCNAME&gt; his report before swearing never to return to service. Hendry accepted the report gratefully and decided to let the deserter go in peace.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4" voiceTypeId="0">So it's not just a motley band of devan deserters...it's an organized cult pulling the strings. Worse still, we had no idea their supply base was right under our noses!&lt;BR&gt;&lt;BR&gt;Without your help, &lt;PCNAME&gt;, this information might never have reached us.&lt;BR&gt;&lt;BR&gt;Of course, this information does us no good unless we clear the cultists out of Oblivion Woods.&lt;NEXTPAGEBUTTON&gt;"What do you need me to do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Yesterday, I sent some of my best scouts into Bestial Vale, looking for the entrance to the Bastion of Lok.&lt;BR&gt;&lt;BR&gt;Get into the vale, and report to Isla. She'll tell you where to find the scouts, so you can help them find the cultists' stronghold.&lt;NEXTPAGEBUTTON&gt;"Yes, sir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">You must be &lt;PCNAME&gt;. Hendry told me about you.&lt;BR&gt;&lt;BR&gt;If you're looking for the scouts, though, I don't have good news: They were supposed to check in with me here this morning, but they didn't show up.&lt;BR&gt;&lt;BR&gt;Hendry says you can handle yourself, so I'd like you to see if you can find them. Their names are Rurik, Daran, Jorbal, and Ausdan. I'll stay here in case they make it back without you.&lt;NEXTPAGEBUTTON&gt;"As ordered."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1026">
+        <Page social="0" voiceTypeId="0">(Rurik looks like she was savaged by a huge beast.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1027">
+        <Page social="0" voiceTypeId="0">(Daran's body is covered with ugly wounds.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="3" villagerId="1034">
+        <Page social="0" voiceTypeId="0">(Jorbal's body is still faintly warm.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="4" villagerId="1033">
+        <Page social="4" voiceTypeId="0">No. No! Get away! Not me, too. Not me, too!&lt;NEXTPAGEBUTTON&gt;"Calm down. What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We made it inside alright, but we didn't get very far before they spotted us. We ran, but they caught us and slaughtered us...one after another. I'm only alive because I hid by this tree. But my friends...I heard their death screams. They went on forever!&lt;BR&gt;&lt;BR&gt;Take my report back to Hendry—along with my resignation! I don't care what the federation does to me for deserting...it can't be worse than what happened to my friends!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="203" prevId="7" villagerId="1006">
+        <Page social="0" voiceTypeId="0">What? Killed? Blast it!&lt;BR&gt;&lt;BR&gt;As for Ausdan...well, I should have known he wasn't ready for this. Alright, then: Officially, he was killed in action. When this is all over, he can just go home again...and maybe, someday, forget all of this.&lt;BR&gt;&lt;BR&gt;Thanks for finding them, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="203" villagerId="1006">
+        <Page social="0">What is it?</Page>
+    </Text>
+</QuestDialog>

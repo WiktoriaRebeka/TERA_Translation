@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1008">
+        <Page social="4">Pardon me, friend. Do you have a moment?&lt;NEXTPAGEBUTTON&gt;"Absolutely."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Thank you. My bondmate was helping Princess Syona write her memoirs of the first Argon War.&lt;BR&gt;&lt;BR&gt;He died not long ago, in the attack on Magthulk Crater. Many pages of his book were lost.&lt;BR&gt;&lt;BR&gt;If you find any of them, will you return them to me?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1008">
+        <Page social="5">This is all of them! Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I'll send a copy of this to our son in Allemantheia. I'm sure he'll appreciate having a book his father wrote.&lt;BR&gt;&lt;BR&gt;Please accept this copy and my gratitude.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" villagerId="1008">
+        <Page social="0">Have you seen the missing pages? I fear they may be lost forever.</Page>
+    </Text>
+</QuestDialog>

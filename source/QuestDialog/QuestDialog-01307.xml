@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1010">
+        <Page social="4">For eons, the faeries of Seeliewood never worried about dangers dropping in from above—up until the day emberheart dracoloths broke through their protective shield. Now the fey are constantly battling illness, argons, and all the other threats to their sacred land.&lt;BR&gt;&lt;BR&gt;I don't care why the dracoloths decided to land here. I'm more concerned about how they got through.&lt;BR&gt;&lt;BR&gt;I have a theory: there must be something special about the hides of the dracoloths. Would you bring me some to examine?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1010">
+        <Page social="4">Thank you for these.&lt;BR&gt;&lt;BR&gt;This emberhide could teach me a lot about how the dracoloths circumvented the magic barriers. Or I just might get a fancy new suit out of it.&lt;BR&gt;&lt;BR&gt;Thank you in either case.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" villagerId="1010">
+        <Page social="0">The dracoloths broke through a protective shield that Isren and the fey set up.&lt;BR&gt;&lt;BR&gt;That's worth investigating.</Page>
+    </Text>
+</QuestDialog>

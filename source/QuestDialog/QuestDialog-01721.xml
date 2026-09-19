@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You mastered your temper, discovering an inner strength you never knew you had.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="508" prevId="2" villagerId="2003">
+        <Page social="0" voiceTypeId="0">&lt;BR&gt;They call you a hero, ask you to save the world again and again...&lt;BR&gt;but they treat you like a servant, a pawn for tasks they can't be bothered with?&lt;BR&gt;&lt;BR&gt;Those weaklings could solve their own problems, but why risk themselves, when they can risk you?&lt;BR&gt;&lt;BR&gt;So they trap you on a path of endless service, always finding something else to keep you busy.&lt;BR&gt;&lt;BR&gt;Don't they know that they are insects beneath your feet? It would do them good to solve their own problems once in a while...</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; left to find the secret to controlling the Storm Barrier, leaving Zolyn and Paesyn behind, and found a hidden cave.&lt;BR&gt;&lt;BR&gt;Inside the cave was an unknown gate guarded by the Archdevan Imperial Army.&lt;BR&gt;&lt;BR&gt;Defeating the guards, &lt;PCNAME&gt; learned that the gate was connected to the Energia Celo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">This is a foul, miserable place. No good will come of this.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="818" prevId="2" villagerId="1112">
+        <Page social="4" voiceTypeId="0">I watched you dispatch those archdevas outside, &lt;PCNAME&gt;. I'm sorry I couldn't help, but I was ready to go for help, if you needed it!&lt;BR&gt;&lt;BR&gt;Zolyn is on her way.&lt;NEXTPAGEBUTTON&gt;"Okay. When she gets here, tell her I've gone ahead."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

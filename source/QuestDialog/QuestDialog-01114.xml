@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You returned to Northern Shara, to deliver a research report to {@linkcreature:528#5005#Tamur}. Tamur expressed his gratitude for your role in avenging his father's death, but quickly turned to matters of war. In an effort to stave off disaster along the Khanovar Front, Tamur needed you to assist his forces on the front lines. You delivered aid to the battlefield, and then took command of a siege weapon to fend off an argon assault.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Message from Khanovar Citadel&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Please come see me as soon as possible. I need your help.&lt;BR&gt;&lt;BR&gt;—Tamur</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! My good friend, you are a sight for sore eyes.&lt;BR&gt;&lt;BR&gt; the argons are on the offensive again, and I need someone I can trust by my side.&lt;NEXTPAGEBUTTON&gt;"Let me know what I need to do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="4" voiceTypeId="0">You've travelled far since we first met, &lt;PCNAME&gt;, and your friends in Highwatch have supplied us with information on the argons that may turn this war around.&lt;BR&gt;&lt;BR&gt;But I can't spare any soldiers to verify their observations.&lt;BR&gt;&lt;BR&gt;Headquarters suggested we have you do it for us.&lt;NEXTPAGEBUTTON&gt;"No problem."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I hope you're ready for a fight.&lt;BR&gt;&lt;BR&gt;We took heavy casualties at {@Rgn:48008$$Magthulk Crater}. Lost a lot of our best smiths.&lt;NEXTPAGEBUTTON&gt;"That sounds pretty bad."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You must help them.&lt;BR&gt;&lt;BR&gt;Distribute supplies to {@LinkCreature:248#2009#Caerok} and take kill as many argons as you can.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="4" voiceTypeId="0">I'd knew you'd catch up fast.&lt;BR&gt;&lt;BR&gt;Things aren't so good for our army. We have no time to lose.&lt;BR&gt;&lt;BR&gt;Helping the smiths down at the {@Rgn:48008$$Magthulk Crater} is our priority.&lt;NEXTPAGEBUTTON&gt;"What kind of help do they need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">{@LinkCreature:248#2009#Caerok} needs medical supplies at once. I'm sending you to deliver them. Make yourself useful while you're there and kills some argons for us. You can pick up the supplies from {@LinkCreature:248#1025#Jeruka}.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="3" villagerId="1025">
+        <Page social="4" voiceTypeId="0">You're delivering the supplies? I thought so.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:248#2009#Caerok} should be here. It's a living hell out there.&lt;BR&gt;&lt;BR&gt;You take good care of yourself.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="6" villagerId="2009">
+        <Page social="4" voiceTypeId="0">Blessings be upon you, &lt;PCNAME&gt;. Thank you for the supplies. I can save more lives thanks to these. The argons hit our emplacement hard. Jekahb's trying to rally our survivors. Check in with him for more instructions.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="2005">
+        <Page social="4" voiceTypeId="0">The supplies you brought will help us with our casualties. We dispatched our siege weapons to Karakhir at {@Rgn:48006$$Carnage Vale}. Those argonomorph giants will chew our forces up if we don't stop them! Head over there and get those guns into the fight!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="2006">
+        <Page social="4" voiceTypeId="0">I know your work, &lt;PCNAME&gt;. My father has spoken well of you.&lt;BR&gt;&lt;BR&gt;No time to chat, though. We've deployed our new siege weapon just in time for a major argon push. Climb in there and let 'em have it!&lt;NEXTPAGEBUTTON&gt;"My pleasure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That's the spirit! And don't worry about something going wrong. These weapons rarely ever explode.&lt;BR&gt;&lt;BR&gt;Mostly.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="48" prevId="9" villagerId="2000">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="2006">
+        <Page social="8" voiceTypeId="0">Hah! That ought to silence my father's criticisms.&lt;BR&gt;&lt;BR&gt;Well done, &lt;PCNAME&gt;. Blasting those argonomorph giants takes a lot of pressure off our lines.&lt;BR&gt;&lt;BR&gt;Good working with you. Best of luck out here.</Page>
+    </Text>
+</QuestDialog>

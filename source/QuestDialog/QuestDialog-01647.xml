@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1026">
+        <Page social="4" voiceTypeId="0">Ksharans killed my husband, &lt;PCNAME&gt;, and I want revenge.&lt;BR&gt;&lt;BR&gt;After all the close scrapes we shared, I guess I assumed that we'd always be together.&lt;BR&gt;&lt;BR&gt;Beware, though—those ksharans are lethal. My poor husband never knew what hit him.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1026">
+        <Page social="6" voiceTypeId="0">This doesn't make the loneliness go away, but I'll admit it.&lt;BR&gt;&lt;BR&gt;It puts a bit of a smile on my face. Thanks, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1026">
+        <Page social="0">Avenge my husband, &lt;PCNAME&gt;. Kill those ksharans!</Page>
+    </Text>
+</QuestDialog>

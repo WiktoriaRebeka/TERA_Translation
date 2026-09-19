@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1006">
+        <Page social="4">The argons didn't come through here alone. They had tuwangis with them.&lt;BR&gt;&lt;BR&gt;You know, it might be easier to get clues from the little tuwangis than the argons.&lt;BR&gt;&lt;BR&gt;A few of them were skulking near the stream south of the watchpost. See if they have any useful clues as to what the argons intend, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1006">
+        <Page social="4">This was on the tuwangis? Let me examine this for a second.&lt;BR&gt;&lt;BR&gt;Wait...this is made up of the same components as the mist permeating Seeliewood.&lt;BR&gt;&lt;BR&gt;If the argons control the tuwangis with this, and the mist is the same...&lt;BR&gt;&lt;BR&gt;Oh no, we've got a bigger problem here than anyone knew.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" villagerId="1006">
+        <Page social="0">Are the tuwangis giving you trouble?&lt;BR&gt;&lt;BR&gt;Or do you have a phobia of frogs?</Page>
+    </Text>
+</QuestDialog>

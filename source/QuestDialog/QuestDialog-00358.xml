@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">All around you is the result of an unavoidable situation. Orcans attempting to steal supplies caused the airship's crash, and even now trade our crates among themselves.&lt;BR&gt;&lt;BR&gt;It is imperative that those crates are recovered. If you would help, collect at least four and bring them here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1007">
+        <Page social="4">There was hope that one particular crate would be among those you found—one containing artifacts requested by &lt;b&gt;Sersine&lt;/b&gt;. Your efforts are appreciated, of course.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1007">
+        <Page social="0">The Tainted Gorge waits for these supplies. Somewhat impatiently, truth be told.&lt;BR&gt;&lt;BR&gt;Feel no pressure. All anger is directed at Chione, however unjustified.</Page>
+    </Text>
+</QuestDialog>

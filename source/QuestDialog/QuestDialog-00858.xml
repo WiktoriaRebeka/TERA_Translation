@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="18">Melrasa needs to know everything that's happened here. She's at Manafire Outpost.&lt;BR&gt;&lt;BR&gt;Recent reports state the place is surrounded by Killian's servants, though, so you'll need to be careful. You'll probably need to clear some of them out in order to get through.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1014">
+        <Page social="14">Hey, you made it through! That's fantastic—you've cleared a path for us. That makes things a lot easier.&lt;BR&gt;&lt;BR&gt;So, what brings you here? Ah, Melrasa?&lt;BR&gt;&lt;BR&gt;She's right up those stairs around the corner.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1023">
+        <Page social="12">Killian brainwashed the Tenebrara leaders?&lt;BR&gt;&lt;BR&gt;That doesn't sound promising.</Page>
+    </Text>
+</QuestDialog>

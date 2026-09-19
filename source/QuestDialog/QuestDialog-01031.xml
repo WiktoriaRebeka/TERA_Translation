@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="4">Nagas seek the resurrection of Dagon and are collecting his tablets.&lt;BR&gt;&lt;BR&gt;Allegedly, these stones will restore Dagon and enhance his powers.&lt;BR&gt;&lt;BR&gt;We must get our hands on these stones at any cost. Feel up to a little tomb raiding?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="0">Impressive. Whether they work or not, these tablets are quite remarkable.&lt;BR&gt;&lt;BR&gt;You've done well, &lt;PCNAME&gt;. Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">We can't leave the Tablets of Dagon in the claws of the nagas. Whether they work or not, the nagas believe they do. Disrupting their plans can only help us.</Page>
+    </Text>
+</QuestDialog>

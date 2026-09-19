@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">You forced your way into the Banquet of Blood, destroyed the vampirs' altar and stopped the ritual.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">I have finally learned why the vampirs needed so many captives. They put their captives' blood on their altar, and it somehow gives them strength. That's most likely why we can't seem to wipe them completely out.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I need your help again: Destroy that altar!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">You never fail to impress, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Maybe you should consider coming back sometime, when you're not too busy, and posing for a statue...?</Page>
+    </Text>
+</QuestDialog>

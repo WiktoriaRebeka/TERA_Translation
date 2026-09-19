@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="84" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1217">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1217">
+        <Page social="4">Hey, you wouldn't want to help out some fellow soldiers, would you?&lt;BR&gt;&lt;BR&gt;My comrades and I have a hankering for succulent barbecued pigling, but we've done something to piss off Tapa, the guy who sells it.&lt;BR&gt;&lt;BR&gt;I think he's off his medication, but the point is, we're hungry!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="4">If the mouthwatering aroma of my signature sauce lead you nose-first to my shop, then I have some bad news.&lt;BR&gt;&lt;BR&gt;I'm fresh out of pork, the preferred special sauce delivery method.&lt;BR&gt;&lt;BR&gt;Look around. Do you see any piglings? No? Well if you want barbecue, get me some pig! You can find them just about anywhere...anywhere but here, that is.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="4">If you hurry, I'll let you let me keep the surplus.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="4">There's a ways to go for barbecue, yet! But it's worth the wait, I promise you.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="4">It's astounding the lengths folks will go to for my barbecued pigling.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="4">Wow, you must really want some barbecue! Hurry back. I have to pack up at some point.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="84" prevId="2" villagerId="1208">
+        <Page social="5">Ah, the pig hunter returns.&lt;BR&gt;&lt;BR&gt;To show my appreciation for all this extra meat you've brought me, I'm going to slice one of these guys up and throw a slab on the grill right away.&lt;BR&gt;&lt;BR&gt;Won't take a minute.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="84" villagerId="1208">
+        <Page social="0">Did you get me some pigling? The more the merrier.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="84" prevId="8" villagerId="1217">
+        <Page social="4">Wow! You had to hunt the pigling yourself? There aren't any piglings for miles!&lt;BR&gt;&lt;BR&gt;You really went above and beyond. Your dedication to the federation is...wow! We're incredibly grateful.&lt;BR&gt;&lt;BR&gt;You've got new friends for life.</Page>
+    </Text>
+</QuestDialog>

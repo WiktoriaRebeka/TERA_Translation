@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1006">
+        <Page social="0">Call it a mission of mercy.&lt;BR&gt;&lt;BR&gt;We face many enemies here, but the {@LinkCreature:33#15#mekonari magisters} and {@LinkCreature:33#67#coalheart inquisitors} are the cruelest...the most sadistic.&lt;BR&gt;&lt;BR&gt;They torture the living and the dead alike. Put an end to their cruelty.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1006">
+        <Page social="0">You honor both the living and the dead with this brave action, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

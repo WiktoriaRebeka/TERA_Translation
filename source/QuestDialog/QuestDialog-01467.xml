@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">(You've received a letter from Dougal.&lt;BR&gt;&lt;BR&gt;In an effort to bolster our fighting forces, we're encouraging soldiers to enchant their weapons. Return to {@Rgn:63009} in {@Rgn:63001} at once for enchanting supplies.&lt;BR&gt;&lt;BR&gt;—{@linkcreature:63#1160})</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="0">A good soldier like you understands the value of a good weapon, but sometimes it's smarter to enchant your existing weapon rather than trade it in for a new one.&lt;BR&gt;&lt;BR&gt;Speak with {@linkcreature:63#1605} in the Creation Workshop to learn more.&lt;BR&gt;&lt;BR&gt;Don't forget alkahest. You should buy 20 of the tier 3 alkahest before you see him. Mukhem in Boreas Alley sells them.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">Dougal told me you'd stop by. I can smell the alkahest, so it looks like you're all set.&lt;BR&gt;&lt;BR&gt;Ready to learn about enchanting equipment?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" villagerId="1605">
+        <Page social="0">I can't teach you to enchant equipment without alkahest. Buy some from {@linkcreature:63#1103}. They're not that expensive.</Page>
+    </Text>
+</QuestDialog>

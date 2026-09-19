@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">Part of the Legacy's work is restoring what was here before Balder died.&lt;BR&gt;&lt;BR&gt;Find {@LinkCreature:71#3015#Umma} and help him feed some fish.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">Welcome, &lt;PCNAME&gt;! Think you'll enjoy this.&lt;BR&gt;&lt;BR&gt;The Refuge's fish feeders don't run on their own anymore.&lt;BR&gt;&lt;BR&gt;Real simple, though—just spin 'em once, then relax and watch.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3015">
+        <Page social="4">Heh. Fun, eh?&lt;BR&gt;&lt;BR&gt;I love my job. Pretty fish, cool mud between my toes, and fried fish for dinner!</Page>
+    </Text>
+</QuestDialog>

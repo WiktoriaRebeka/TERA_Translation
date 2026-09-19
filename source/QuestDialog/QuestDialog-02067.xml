@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Elleon was looking for &lt;PCNAME&gt; before he set off to search for the villagers.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">While Elleon searched for the villagers, &lt;PCNAME&gt; investigated the Crystal Mine to search for Amarre.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="20304">
+        <Page social="4" voiceTypeId="0">Vogzu and Free Exodor...&lt;BR&gt;&lt;BR&gt;We're lucky we ran into them. They'll be great help for sure.&lt;BR&gt;&lt;BR&gt;I wish I could go with you, &lt;PCNAME&gt;, but I'm worried that Rogash might harm our people.&lt;BR&gt;&lt;BR&gt;I'll gather more information from Vogzu and go later. &lt;PCNAME&gt;, you go with Jelena and inform our troops outside.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" prevId="3" villagerId="20401">
+        <Page social="0">Elleon went alone? Looks like he wants to make his move first after getting information from Vogzu.&lt;BR&gt;&lt;BR&gt;But Elleon alone...&lt;NEXTPAGEBUTTON&gt;"Is there something wrong?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No, it's nothing. We should hurry.&lt;BR&gt;&lt;BR&gt;I think the base exit is over there. Let's go and look for Titus and Amarre.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2001" prevId="4" villagerId="20402">
+        <Page social="0" voiceTypeId="0">I never thought I'd make a friend here. Especially a naga friend. Ha ha.&lt;NEXTPAGEBUTTON&gt;"Wait. I hear something."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I heard it too. &lt;PCNAME&gt;! That was an emergency flare!&lt;NEXTPAGEBUTTON&gt;"That means..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Someone's in trouble! Let's go!&lt;BR&gt;&lt;BR&gt;Follow me! Quick!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2001" prevId="5" villagerId="20201">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Jelena! Lucky that you two heard the flare. These nagas just don't give up.&lt;BR&gt;&lt;BR&gt;But I knew that you would notice my flare.&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Titus and Aurl found a camp for our people.&lt;BR&gt;&lt;BR&gt;I thought I would be safe since I was near the camp, but the nagas got me off guard so I had to run. But I found something interesting! Come and see.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2001" prevId="6" villagerId="20201">
+        <Page social="4" voiceTypeId="0">Oh, okay. Jelena's heading for the camp?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, come and I'll show you the Crystal Mine.&lt;BR&gt;&lt;BR&gt;Quick, before the nagas give us any more trouble.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2001" prevId="7" villagerId="20202">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Over here!&lt;BR&gt;&lt;BR&gt;There are so many crystals here. I saw the nagas come and carry off the crystals.&lt;BR&gt;&lt;BR&gt;I wonder why the nagas are collecting the crystals.&lt;BR&gt;&lt;BR&gt;If you can help me out investigating the crystals, we might figure something out about Exodor.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2001" prevId="8" villagerId="20203">
+        <Page social="4" voiceTypeId="0">Hmm...the blue crystals are different secretions of the butterflies.&lt;BR&gt;&lt;BR&gt;To be exact, they've been ruminated.&lt;BR&gt;&lt;BR&gt;This must be one of their dietary activities...but why in the world would the nagas collect it?&lt;BR&gt;&lt;BR&gt;Why?&lt;NEXTPAGEBUTTON&gt;"What should we do next?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I think it's quite obvious why the butterflies ruminate.&lt;BR&gt;&lt;BR&gt;But what I have to find out is why the nagas are collecting those crystals.&lt;BR&gt;&lt;BR&gt;Where are they taking the crystals to?&lt;BR&gt;&lt;BR&gt;Let's discuss this with Elleon first.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2001" villagerId="20203">
+        <Page social="0">That's not enough. We still need more samples.</Page>
+    </Text>
+</QuestDialog>

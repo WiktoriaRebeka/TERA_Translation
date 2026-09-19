@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Hey! Want to do something different today? {@LinkCreature:63#3003#Elthienne}'s been bugging me about going out to kill some things, and I'm like, ew—I'm a city girl! Not interested.&lt;BR&gt;&lt;BR&gt;But I'm sure the task is perfect for a hero like you. Talk to {@LinkCreature:63#3003#Elthienne} for the gruesome particulars.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Doesn't like to kill things? Can you believe she's castanic? What a strange girl.&lt;BR&gt;&lt;BR&gt;Well, I know you aren't squeamish. I need you to do some hunting for the Hands. It will require you to travel, kill some nagas, and bring back body parts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Oh boy! fresh skin, claws, and bone...yuck!&lt;BR&gt;&lt;BR&gt;You had this in your pack that whole trip, and you didn't vomit once?&lt;BR&gt;&lt;BR&gt;Did you at least wash your hands first? {@LinkCreature:63#3003#Elthienne} has your payment.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">We need things like hide, bone, and claws, all from nagas. Don't ask.&lt;BR&gt;&lt;BR&gt;Hunt the {@LinkCreature:10#8#naga battlemasters} on {@Rgn:10001#Serpentis Isle} and bring back some body parts. The Hands will put them to good use.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Gross. I mean, thanks!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} will pay you for your work.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">We need things like carapace, bone, and claws, all from nagas. Don't ask.&lt;BR&gt;&lt;BR&gt;Hunt the {@LinkCreature:10#16#naga clawriders} on {@Rgn:10001#Serpentis Isle} and bring back some body parts. The Hands will put them to good use.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">What is that smell? I swear, {@LinkCreature:63#3003#Elthienne} is having you deliver this stuff here just to punish me.&lt;BR&gt;&lt;BR&gt;Talk to that old bag if you want your payment.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">We need things like carapace, bone, and claws, all from nagas. Don't ask.&lt;BR&gt;&lt;BR&gt;Hunt the {@LinkCreature:10#17#naga clawmasters} on {@Rgn:10001#Serpentis Isle} and bring back some body parts. The Hands will put them to good use.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Ugh, that's gross. At least it doesn't smell...yet.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has payment for you.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">We need things like carapace, bone, and claws, all from nagas. Don't ask.&lt;BR&gt;&lt;BR&gt;Hunt the {@LinkCreature:10#18#naga leviathans} on {@Rgn:10001#Serpentis Isle} and bring back some body parts. The Hands will put them to good use.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">&lt;PCNAME&gt;, you're amazing!</Page>
+    </Text>
+</QuestDialog>

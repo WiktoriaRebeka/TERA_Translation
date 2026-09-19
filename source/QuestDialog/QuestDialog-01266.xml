@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1037">
+        <Page social="4">Since you took care of Selvereth for us already, it'd be selfish of me to keep you here any longer, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;South of Firebase Audacity is the Divine Furnace, which Thulsa's elite Raven Troops have taken from us. Could you go help our soldiers there?&lt;BR&gt;&lt;BR&gt;When you go across the bridge, you'll meet Krok at the Gravewatch of the Exiled. His arm is as strong as his opinions, I assure you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1044">
+        <Page social="4">They sent us one &lt;PCCLASS:lcase&gt;? One? What are they thinking?&lt;BR&gt;&lt;BR&gt;Are we just gonna let Thulsa make some horrible artifact of doom in there, or what?</Page>
+    </Text>
+</QuestDialog>

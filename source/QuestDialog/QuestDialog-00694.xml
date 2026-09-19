@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1001">
+        <Page social="1">A decurion's gotta do what a decurion's gotta do. You're no decurion, but you can certainly help.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:30#520#dreadpaw mandrills} have run wild. In addition to attacking peaceful archaeologists, they're committing an unforgivable crime. They're moving the stones around!&lt;BR&gt;&lt;BR&gt;Enough violence to scare them off, and we'll keep the {@Rgn:30008$$Lower Archive} from looking like the ruins of the {@Rgn:30009$$Upper Archive}!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1001">
+        <Page social="1">The only good mandrill is a dead mandrill.&lt;BR&gt;&lt;BR&gt;I'm a good judge of character, and I can tell by the look in your eye that the {@LinkCreature:30#520#dreadpaw mandrills} are a thing of the past.</Page>
+    </Text>
+</QuestDialog>

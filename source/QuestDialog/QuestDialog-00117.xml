@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1012">
+        <Page social="5">Pangari is absolutely right—{@LinkCreature:5#19#Moong} is definitely the number one problem. We've got to eliminate him if we're going to get anywhere with the other tuwangis.&lt;BR&gt;&lt;BR&gt;I only have a handful of soldiers here, though, and I need them right where they are.&lt;BR&gt;&lt;BR&gt;I realize you've done a lot of work for this effort already, but if you could help just a bit longer, we'd be so grateful.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1012">
+        <Page social="5">Oh, he's finally dead. This is great news. Maybe now the tuwangis will be able to pull their tribes back together once again!&lt;BR&gt;&lt;BR&gt;Then maybe they'll be easier to convince when it comes to scaling back this troublesome swamp.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1012">
+        <Page social="0">You haven't gone yet? Please, either go or tell me that you won't so I can find someone else. It must get done today.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1043">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1043">
+        <Page social="4">{@Rgn:48005} houses a huge number of argon troops. We need to take out some of their primary operators—iknephar prelates and kalash sentinels.&lt;BR&gt;&lt;BR&gt;This is a straightforward strike mission. Get in there and "hammer 'em," as the amani say.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1043">
+        <Page social="6">Your attack weakened their hold. Hopefully, the Shariar can take advantage of it.&lt;BR&gt;&lt;BR&gt;We're stronger for your service, &lt;PCNAME&gt;. Well done.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">There's an item that makes any feline purr—a silvervine branch. Now, it's rare and expensive, but absolutely worth the effort.&lt;BR&gt;&lt;BR&gt;Bring one of those and we'll have this leopard curled up at your feet in no time.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">Mmm, smells so...divine. I—I want it!&lt;BR&gt;&lt;BR&gt;Sorry. Went a little whisker-crazy.&lt;BR&gt;&lt;BR&gt;You probably should keep that away from me. I'm working the twelve steps, but each day's a challenge.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">We really need that silvervine branch. It's for your leopard, not me. Honest!</Page>
+    </Text>
+</QuestDialog>

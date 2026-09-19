@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Vampir nobles in the Citadel of Torment are spreading their corruption throughout the surrounding areas.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:33#3#vampir noblewomen}, {@LinkCreature:33#53#cursed vampir noblewomen}, {@LinkCreature:33#4#vampir gentlemen}, {@LinkCreature:33#54#cursed vampir gentlemen}, {@LinkCreature:33#5#cursed jesters}, {@LinkCreature:33#55#infernal jesters}, {@LinkCreature:33#6#malevolent wraiths}, and {@LinkCreature:33#7#eldritch defenders}.&lt;BR&gt;&lt;BR&gt;Report to Celion when mission is complete.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">It's a reward from the federation. Blessings to all the members of the guild!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    </Text>
+</QuestDialog>

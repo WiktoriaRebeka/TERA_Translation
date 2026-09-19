@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="61" prevId="0" villagerId="9908">
+        <Page social="2" voiceTypeId="0">I'm surprised that you've came all the way here! We don't get a lot of visitors this deep in the swamp.&lt;NEXTPAGEBUTTON&gt;"Who are you again?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Haha! Don't be shy my friend.&lt;BR&gt;&lt;BR&gt;You've clearly come to take instruction from Graidrem, the master angler.&lt;BR&gt;&lt;BR&gt;Empty handed though...and I always instruct better on a full stomach&lt;BR&gt;A true Angler knows how to prepare their catch, so bring me a Fish Steak so we can begin.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Graidrem summoned &lt;PCNAME&gt; for a true test of skill.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="1" villagerId="9908">
+        <Page social="4" voiceTypeId="0">Delicious! Crispy on the outside, and juicy inside!&lt;BR&gt;&lt;BR&gt;I have to say I'm surprised. Most potential students never return.&lt;NEXTPAGEBUTTON&gt;"Okay..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Now, let's get down to fishing!&lt;BR&gt;&lt;BR&gt;I'm going to teach you hor to fish without any bait at all!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" villagerId="9908">
+        <Page social="0">Hmm, usually I can smell a properly prepared Fish Steak.&lt;BR&gt;You can buy the ingredients you need from the Fishing Supplies merchant, if you haven't already.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="3" villagerId="9908">
+        <Page social="4" voiceTypeId="0">If you want to catch a truly unique fish, you'll need a very special lure. Go into the Hungry Caverns and look for a special skeleton of White Bones in the Cavern of Shackles. You'll know it when you see it.&lt;BR&gt;&lt;BR&gt;Gather some Broken Bone Lures from it–three pieces should do–and I'll show you how to catch a Sludge Fish.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="61" prevId="5" villagerId="9908">
+        <Page social="4" voiceTypeId="0">Excellent gathering work. You've mastered one of the essential skills of a true angler!&lt;BR&gt;&lt;BR&gt;Now fish with those lures here in the Vexatus Swamp Fishery, and you'll catch some Sludge Fish before you know it.&lt;BR&gt;Three lures, three fish. A fine lesson to learn. but if you fail, head back into the Hungry Caverns to get more lures–I'm not running a charity here!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="61" villagerId="9908">
+        <Page social="0">Where are your Broken Bone Lures? Go to the Hungry Caverns and search for the White Bones.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="61" prevId="6" villagerId="9908">
+        <Page social="4" voiceTypeId="0">Well done! Sludge Fish are completley inedible, of course, but the true angler lives for the seconds after a crafty fish takes the hook!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="61" villagerId="9908">
+        <Page social="0">My Sludge Fish sense is not tingling. Head back to the Hungry Caverns and get more Broken Bone Lures if you've run out.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1200">
+        <Page social="0">An attempt to repair Intrepid's engine failed, but the mission goes on.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1200">
+        <Page social="0">I found one piece of Intrepid's engine assembly. I'm not sure, but we might be able to repair it.&lt;BR&gt;&lt;BR&gt;Will you help me find the pieces?&lt;BR&gt;&lt;BR&gt;Oh, and watch out! There are a lot of angry birds around here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1200">
+        <Page social="4">Now, let's find the engine. From the scatter pattern, it must be farther up this hill.&lt;BR&gt;&lt;BR&gt;You'll need to fight through the Parthians up there, but I'm not scared. You'll be fine!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" villagerId="1200">
+        <Page social="0">Nope. It's not safe yet.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="3" villagerId="1401">
+        <Page social="4">I'm not an engineer, but it looks salvageable.&lt;BR&gt;&lt;BR&gt;What do you say?&lt;NEXTPAGEBUTTON&gt;"Unfortunately not."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Then let us leave this foul encampment.&lt;BR&gt;&lt;BR&gt;Beyond those bloodclaw wolves, Rhodos waits for us. I will see you there. Stay safe!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1406">
+        <Page social="4">Glad to see you again.&lt;BR&gt;&lt;BR&gt;How is that huge thing you used to come here?&lt;NEXTPAGEBUTTON&gt;"Damaged beyond repair."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">A pity. Such a device might have given us an edge in battle.</Page>
+    </Text>
+</QuestDialog>

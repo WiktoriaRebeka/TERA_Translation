@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1044">
+        <Page social="4">A strange mist hangs over Seeliewood tainting every living thing it falls upon. The foul vapor coats faeries and creatures alike, sickening them, weakening them.&lt;BR&gt;&lt;BR&gt;Our magic fails to protect us. We need to try something else.&lt;BR&gt;&lt;BR&gt;If I can create armor from leather already impregnated, perhaps the mist won't affect our soldiers.&lt;BR&gt;&lt;BR&gt;Faerie fighters are strong and sneaky, but I'm a crafter; I'm going to need your help. I'll make the armor if you bring me hides coated in the mist. Around here bloodhorn mugatos, stonebrow cubs, and curltress piglings all seem to be covered in the stuff.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1044">
+        <Page social="4">Excellent. This will keep me busy for a while.&lt;BR&gt;&lt;BR&gt;Let's hope this works to protect our people. I thank you, and the warriors who must brave this wretched mist thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" villagerId="1044">
+        <Page social="0">It tears me up to have to sacrifice these beasts, but they're already ill and the fey must survive if we're going to fight back.</Page>
+    </Text>
+</QuestDialog>

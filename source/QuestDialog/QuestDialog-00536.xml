@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1021">
+        <Page social="4">Ever studied relics? You should give it a try. Archaeology's a fascinating field and more relevant than you might think.&lt;BR&gt;&lt;BR&gt;Come on. It's easy!&lt;NEXTPAGEBUTTON&gt;"Well, I've never..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Fear not! Nothing to it. Look around and collect &lt;font color='#660000'&gt;relic fragments&lt;/font&gt; scattered around the &lt;font color='#660000'&gt;entrance of the Stone Pillar Relics&lt;/font&gt; and bring them back to me.&lt;BR&gt;&lt;BR&gt;There's plenty to recover. If I'm right, they'll unlock a major secret! I might even get a mention in the Velika Guardian or Castanica Chronicle!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1021">
+        <Page social="4">I told you it wasn't hard.&lt;BR&gt;&lt;BR&gt;These are nice samples. If you ever get tired of soldiering, you've got a solid future in archaeology.&lt;BR&gt;&lt;BR&gt;These are fascinating. Let me study them for a bit. Perhaps I'll know better how to proceed from here.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1021">
+        <Page social="0">I know it's not glamorous, but forgetting the past is tantamount to dooming our future! Give it a shot!</Page>
+    </Text>
+</QuestDialog>

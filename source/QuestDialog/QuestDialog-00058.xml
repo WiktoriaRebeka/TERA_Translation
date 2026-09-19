@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="4">I'm sure you know that even a non-hungry Basilisk can still kill you on the spot if it has to. And yes, many people weren't able to escape from such tragic fates.&lt;BR&gt;&lt;BR&gt;I am actually here for those people. To make an elixir that raises the dead! The Basilisk eyes will be useful to make the elixir.&lt;BR&gt;&lt;BR&gt;Please bring some {@LinkCreature:3#300811#Basilisks}' eyes. Basilisks have many eyes, but I only need eyes that are not damaged.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1009">
+        <Page social="8">Intriguing. I've never seen one this close without a giant people-eating creature behind it.&lt;BR&gt;&lt;BR&gt;I'll continue my research. If it's successful, perhaps I'll name it after you!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1009">
+        <Page social="0">I'm sorry, &lt;PCNAME&gt;. An intact, undamaged basilisk eye is what I need. Nothing less will do.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1016">
+        <Page social="4">Had no trouble getting here, but now I'm blocked in!&lt;BR&gt;&lt;BR&gt;I've got workers, materials, and tools for the rebuilding project, but between myself and them, the path is full of {@LinkCreature:31#1#ossugon frostwalkers} and {@LinkCreature:31#4#icy skeletal minions}. Need a damn federation soldier just to—&lt;BR&gt;&lt;BR&gt;Hey, you're a federation soldier! What are you waiting for? Clear out those undead for me so I can get this build underway.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1016">
+        <Page social="4">Nice work, "feddie." Now it's time for me to get to work!</Page>
+    </Text>
+</QuestDialog>

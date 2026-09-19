@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="213">Our link to the Tainted Gorge is hampered by a pack of {@LinkCreature:13#300910#prowling cromoses} near the entrance.&lt;BR&gt;&lt;BR&gt;Chione's the only airship pilot detailed to this section of the island. Until they replace her, we can only communicate via runners.&lt;BR&gt;&lt;BR&gt;Kill the cromoses, then report to {@linkcreature:213#1025$$Sersine} down in the Tainted Gorge Outpost.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Oh good. I'm glad to hear you cleared that route up for us.&lt;BR&gt;&lt;BR&gt;Listen, don't underestimate the island. Remember that our troops are pulling out because of unrest in the federation. It isn't because this place is suddenly safer.&lt;BR&gt;&lt;BR&gt;Stay watchful.</Page>
+    </Text>
+</QuestDialog>

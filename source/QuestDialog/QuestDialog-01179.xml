@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1019">
+        <Page social="4">You see the tower up there—the one with the blue drek pouring out the top? That's the Cyasma Spire.&lt;BR&gt;&lt;BR&gt;I need to study it to find a way to hurt them, but the entrance is heavily guarded. I need you to kill the master of the spire and its kalash defenders. If you can keep them busy, I can get all of my research done in one go.&lt;BR&gt;&lt;BR&gt;Find Ginea when you're done.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1024">
+        <Page social="6">Thanks to you, we've held our own and weakened our foe considerably. I didn't think it possible.&lt;BR&gt;&lt;BR&gt;We're also closer to finding this argon queen—Shandra Manaya.&lt;NEXTPAGEBUTTON&gt;"Any news about her?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">My younger sister's on her trail, so that's where you're going next. Report to {@LinkCreature:250#1006} at Shroud Outpost.&lt;BR&gt;&lt;BR&gt;And please take good care of her.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1006">
+        <Page social="6">Welcome to the argons' back door. My brother uses glowing terms about you.&lt;BR&gt;&lt;BR&gt;Let's get down to business.</Page>
+    </Text>
+</QuestDialog>

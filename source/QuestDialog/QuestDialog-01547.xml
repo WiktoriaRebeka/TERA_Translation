@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You chased the archdevan sorcerer to prevent news of the vanguard initiative reaching the archdevas. In the chase, the sorcerer killed herself so she would not reveal any information to you.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">Find Zolyn who ran out to find the archdevan sorcerer.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2010">
+        <Page social="1" voiceTypeId="0">Someone has to have seen where the archdevan sorcerer went.&lt;NEXTPAGEBUTTON&gt;"Sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2031">
+        <Page social="1" voiceTypeId="0">Archdeva? Saw her. Went toward west end of camp.&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2043">
+        <Page social="1" voiceTypeId="0">Archdeva? Skyshrine. Up the ramp.&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2005">
+        <Page social="1" voiceTypeId="0">You certainly made short work of that demokron I left for you...&lt;BR&gt;&lt;BR&gt;Who are you outlanders? And why have you come to this land?&lt;NEXTPAGEBUTTON&gt;"Surrender!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Surrender? With our victory so close at hand?&lt;NEXTPAGEBUTTON&gt;"What do you mean?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Huh. You really don't know, do you? And you never will!&lt;BR&gt;&lt;BR&gt;We archdevas pledge our very lives to the service of Lakan. Still, you might be able to torture the information out of me...and we can't have that, can we?&lt;NEXTPAGEBUTTON&gt;"Reveal your plot and I will spare your life."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2006">
+        <Page social="1" voiceTypeId="0">Did you find the sorcerer? What did she say?&lt;NEXTPAGEBUTTON&gt;"She chose...not to talk."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I suppose the good news is that she didn't have time to send a message to her masters. But they'll know something happened when her reports stop coming in.&lt;BR&gt;&lt;BR&gt;Did she give you any clue how long she'd been spying on the Khirian camp?&lt;NEXTPAGEBUTTON&gt;"She mentioned an impending victory..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">That could've just been bravado, or...&lt;BR&gt;&lt;BR&gt;You and Rhodos should should compare notes. If anyone knows what the archdevas are up to here, it'll be him.&lt;NEXTPAGEBUTTON&gt;"Will do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

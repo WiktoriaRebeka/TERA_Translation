@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="6001">
+        <Page social="4" voiceTypeId="0">Aaaargh! did you see that kumas chasing me?  So, who are you again?&lt;BR&gt;&lt;BR&gt;Wait, you want to take Titus with you? Without him we won't be able to produce our valuable goods...&lt;BR&gt;&lt;BR&gt;I mean, maybe if we had a supply of relics, we could make it up in volume... Wait! I have an idea!&lt;NEXTPAGEBUTTON&gt;"What can I do for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It's simple! There are many Omphalos Relics over the next rise. Before the orcans invaded, we could easily gather and sell them at a good price.&lt;BR&gt;&lt;BR&gt;But now that area is crawling with kumases, and they take special skills to deal with.&lt;BR&gt;&lt;BR&gt;You look like someone who gets lots of practice using spacial skills. So what do you say, can you go collect some relics for us?&lt;NEXTPAGEBUTTON&gt;"No problem."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="6001">
+        <Page social="4" voiceTypeId="0">Wer-weren’t you scared? &lt;BR&gt;Did any kumases follow you?&lt;NEXTPAGEBUTTON&gt;"No, I’ve got skills."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Good! Good!!&lt;BR&gt;&lt;BR&gt;these relics will really help our bottom line.&lt;BR&gt;&lt;BR&gt;I give my consent to a temporary leave of absence for Titus. But I'm trusting you to bring him back in one piece!&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

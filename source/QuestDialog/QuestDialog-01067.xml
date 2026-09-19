@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1011">
+        <Page social="4">See that immense structure north of here? That's the Three Towers. The argons nominally control it, but we've made significant inroads, and we're studying argon technology and biology at the source.&lt;BR&gt;&lt;BR&gt;To be blunt, we need you there, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Don't just charge in there, though. Check in at Khanovar Post. They'll update you on the argon situation.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1030">
+        <Page social="4">We're safe here...for now. We can keep an eye on the argons, but they don't assault us directly.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="3" villagerId="1103">
+        <Page social="4">Our initial research is going well if you're a scientist, but poor if you're a general.&lt;BR&gt;&lt;BR&gt;Mostly, we have learned just how ignorant we are when it comes to the argons, how they function, and why they're trying to terraform the world.&lt;BR&gt;&lt;BR&gt;Stick around this base long enough, and you'll see reports from the sages and researchers we have scattered throughout the towers. Dangerous work, especially for scientists who barely know which end of a sword to hold.</Page>
+    </Text>
+</QuestDialog>

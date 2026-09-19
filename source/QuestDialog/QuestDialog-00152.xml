@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1013">
+        <Page social="5">The fight is right at our gate. Our forces and theirs are all mashed up. The good news is that with all their forces trying to get in, this is our chance to dislodge their leadership.&lt;BR&gt;&lt;BR&gt;The first step is to take out the few guards they left there. You'll find the {@LinkCreature:6#3041#Lokian darkcallers} and the {@LinkCreature:6#3042#Lokian reapmasters} guarding the altar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1013">
+        <Page social="5">I'm sure it was a tough fight. I'm glad you've made it. Now we can take the next step.</Page>
+    </Text>
+</QuestDialog>

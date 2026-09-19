@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">I've packed up the weapons you collected and the supplies you liberated. Not everything, of course. That would be too heavy, and I've kept some for Rasima and I.&lt;BR&gt;&lt;BR&gt;Take them to Hendry and report on our progress. I want him to know that we're getting the job done out here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1007">
+        <Page social="4">New weapons, rations, and this report? You've been busy!&lt;BR&gt;&lt;BR&gt;I'll send these on to Crescentia and make sure you both get the credit you deserve.</Page>
+    </Text>
+</QuestDialog>

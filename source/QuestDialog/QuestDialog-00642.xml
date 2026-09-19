@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="0">Those cultists have started to summon demons. The demons are now getting ready to leave the Cathedral. If we let this be, all our work in subjugating the monsters will be in vein.&lt;BR&gt;&lt;BR&gt;Eliminate the {@LinkCreature:25#2051#cruel fimbrilisks}. Don't try this alone—be sure to bring your comrades.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1009">
+        <Page social="4">Nice work! There's still more cultists than I can count, but it's a start.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1009">
+        <Page social="0">Eliminate the cruel fimbrilisks and bring back the creatures' core.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1013">
+        <Page social="4">Arachnens cover the Arcanum Outpost, but they're not native.&lt;BR&gt;&lt;BR&gt;A few weeks before the argons arrived, the arachnens showed up in the forest, undoubtedly because the argons drove them out of their natural habitat. Now they're competing for the same food and space as the noruks.&lt;BR&gt;&lt;BR&gt;But you don't care about an arachnology lesson, do you? Let me get to the point. Someone needs to decrease the number of both arachnens and noruks. Can you be that someone?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1013">
+        <Page social="4">It's a mercy you've done today, &lt;PCNAME&gt;. Both species should be better off with their numbers decreased.</Page>
+    </Text>
+</QuestDialog>

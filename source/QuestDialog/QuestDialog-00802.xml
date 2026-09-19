@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="4">The eldritch shards are what makes this region strategically valuable. It used to be so easy.&lt;BR&gt;&lt;BR&gt;We had a good rapport with the wendigos—at least until the giants came. Between the giants, devan mercs, and angry wendigos, this is a rough posting.&lt;BR&gt;&lt;BR&gt;It's time to take the offensive. Report to Dena. She'll have your orders.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1010">
+        <Page social="4">I greet you. There is much for you to do.&lt;BR&gt;&lt;BR&gt;The Junaidar struck a mining camp a few days ago. Many miners were killed and quite a few eldritch shards stolen.&lt;BR&gt;&lt;BR&gt;We need you to strike back and recover the shards. Kill the {@LinkCreature:34#300#Junaidar thieves}, {@LinkCreature:34#400#scourges}, and {@LinkCreature:34#310#bandits}, and retrieve their shard packs.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" prevId="3" villagerId="1010">
+        <Page social="4">Your efforts are appreciated. These remarkable crystals are used in magical shields.&lt;BR&gt;&lt;BR&gt;If the Mysterium can make it practical, each federation city will be guarded by such a device.&lt;BR&gt;&lt;BR&gt;We'll see that the miners' families are compensated for what you recovered.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" villagerId="1010">
+        <Page social="0">Much blood was spilled to collect those shards. If you recover them, I will make certain their families are paid.</Page>
+    </Text>
+</QuestDialog>

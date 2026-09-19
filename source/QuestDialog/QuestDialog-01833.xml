@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="599" prevId="0" villagerId="121">
+        <Page social="4" voiceTypeId="0">That's really all I needed you for today. I have to analyze and catalog the sample you brought me, but that's a one-person job.&lt;BR&gt;&lt;BR&gt;Actually, there is something you can do. Some of the gifted children—the kids who were born here on the island and developed the Sight—are playing over there, and one of them, Anya, sounds really upset.&lt;BR&gt;&lt;BR&gt;Can you go talk to her and find out what's wrong?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">As time went by, some of the federation researchers on the island married and had children...and those children proved to be special. They developed the ability to see the world through seemingly divine eyes. The researchers called this "the Sight."&lt;BR&gt;But these special children were still children, who like to laugh and play...but can be unintentionally mean.&lt;BR&gt;&lt;BR&gt;After Anya lost her doll, &lt;PCNAME&gt; recovered and repaired it for her...then spent the rest of the afternoon keeping her entertained.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="1" villagerId="122">
+        <Page social="13" voiceTypeId="281">I can't find Zo-Zo! They took her and now I can't find her! Niyum and the other boys!&lt;BR&gt;&lt;BR&gt;You're a grown-up! Make them give her back!&lt;NEXTPAGEBUTTON&gt;"Don't worry, I'll find Zo-Zo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="118">
+        <Page social="4" voiceTypeId="0">It wasn't me!&lt;BR&gt;&lt;BR&gt;I just wanted to play with Zo-Zo, so yes, I took her...but Peter and Jerdan said only little kids play with dolls, so I had to give Zo-Zo back to Anya.&lt;BR&gt;&lt;BR&gt;But then they said they would take Zo-Zo back—but they lied! They took Zo-Zo and threw her in the bushes!&lt;NEXTPAGEBUTTON&gt;"Thank you for being honest, Niyum."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="201">
+        <Page social="4" voiceTypeId="0">(Anya's doll doesn't look too good after having been thrown into a thorn bush. Some of her seams are torn, and the stuffing is coming out. Anya is going to be heartbroken if she sees Zo-Zo like this.)&lt;NEXTPAGEBUTTON&gt;"Looks like I have to repair Zo-Zo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="599" prevId="5" villagerId="119">
+        <Page social="4" voiceTypeId="0">We didn't mean to break her doll! Honest!&lt;BR&gt;&lt;BR&gt;We were just playing with it and it just got into the bush. We were gonna get it out...we just forgot.&lt;BR&gt;&lt;BR&gt;What's the big deal, anyway? It's just a stupid doll.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"You made Anya cry."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We didn't mean to make her cry! We're sorry! We didn't think...!&lt;BR&gt;&lt;BR&gt;Please don't tell her it was us! Anya is like our little sister!&lt;BR&gt;&lt;BR&gt;Zo-Zo's broken pretty bad, huh? Wait! My mom gave me a needle and thread! Can you use that to fix Zo-Zo? You could use sticky grass to replace the stuffing!&lt;NEXTPAGEBUTTON&gt;"It's worth a try."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="599" prevId="6" villagerId="116">
+        <Page social="4" voiceTypeId="0">Is that...is that my Zo-Zo?&lt;BR&gt;&lt;BR&gt;Zo-Zo! You brought her back! Thank you, &lt;PCNAME&gt;! You're so special and you don't even know it yet! Thank you, thank you, thank you!&lt;NEXTPAGEBUTTON&gt;"All better, Anya?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="282">All! Better! Thank you! Zo-Zo thanks you, too!&lt;BR&gt;&lt;BR&gt;Zo-Zo says she wants you to be the guest of honor at a tea party!&lt;BR&gt;&lt;BR&gt;Here! Sit right next to Zo-Zo!&lt;NEXTPAGEBUTTON&gt;"Okay, but I can't stay long."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="599" villagerId="116">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="827" prevId="7" villagerId="100">
+        <Page social="4" voiceTypeId="0">We're all out of tea, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Do we have to go back already? I'd rather play some more than take one of my naps.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"We can play again tomorrow."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You promise? 'Cause tonight is the last time I have to do the sleep experiment...they said so!&lt;BR&gt;&lt;BR&gt;Everybody thinks the Sight is so special, but I don't like taking naps! I just want to play!&lt;BR&gt;&lt;BR&gt;Say you promise, &lt;PCNAME&gt;!&lt;NEXTPAGEBUTTON&gt;"I promise, Anya."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

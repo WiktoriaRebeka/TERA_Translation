@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="0">After arriving at the Island of Dawn as a raw recruit, Legate Lam asked you to check in with the remaining commanders on your way to the Tower Base.&lt;BR&gt;&lt;BR&gt;On the way to Dulari's camp, you had your first encounter with the animate tree spirits called ghilliedhus.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="4">Axelle and I are due to rotate home soon, but Adria still insists that we report in on a regular basis. So congratulations, your first orders are as follows:&lt;BR&gt;&lt;BR&gt;Take a quick headcount on the way to the Tower Base, and tell Tribune Adria we're all fine.&lt;BR&gt;&lt;BR&gt;Although, I haven't seen &lt;font color='#660000'&gt;Elleon&lt;/font&gt; in some time, so if you see an elf with a bad attitude and a long, black scarf, tell him he's overdue for a check-in.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1003">
+        <Page social="4">A new recruit? How puzzling.&lt;BR&gt;&lt;BR&gt;You are welcome here, of course. This checkpoint's mission is to protect the dock from the local wildlife. Specifically &lt;font color='#660000'&gt;ghilliedhus&lt;/font&gt;, but we stand against all threats.&lt;BR&gt;&lt;BR&gt;Travel along this road to Dulari's Camp, and dispatch a few {@linkcreature:13#300931#ghilliedhus} along the way.&lt;BR&gt;&lt;BR&gt;Take care, though. Many new recruits have fallen to their sharp claws.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1017">
+        <Page social="4">Hmm, those claws. You've been hunting ghilliedhus, haven't you?&lt;BR&gt;&lt;BR&gt;Elleon said something about cleaning them up at the source, but I haven't seen him for a while.&lt;BR&gt;&lt;BR&gt;Well done, recruit!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1017">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

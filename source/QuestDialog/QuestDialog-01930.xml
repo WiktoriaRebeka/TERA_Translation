@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3001">
+        <Page social="4" voiceTypeId="0">Word of your accomplishments reached Velika some time ago, and rumors of your exploits have been spreading like wildfire ever since. That's why we called you here.&lt;BR&gt;&lt;BR&gt;The Hands of Velika is a merchant group like no other. You see, in times like these, the Hands feel that upstanding members of society who wish to live to a ripe old age must wear many hats.&lt;BR&gt;&lt;BR&gt;Velika's big and there's lots that needs doing during war times.&lt;BR&gt;&lt;BR&gt;Your talents would be paramount to our cause—which is also your cause, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Will you help us?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="4" voiceTypeId="0">Thank you for your help! Hope you won't forget us when we need you again!</Page>
+    </Text>
+</QuestDialog>

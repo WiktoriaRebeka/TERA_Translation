@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1143">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1143">
+        <Page social="4">There are many names for the creatures contesting this outpost's presence in the Tainted Gorge. Sersine, child of Karas, knows them all, but &lt;b&gt;Gregor&lt;/b&gt; devised the ones used most often.&lt;BR&gt;&lt;BR&gt;One of the most feared are the juggernauts he calls "Destroyers." Their leader Kugai patrols this entire valley, but Gregor has been monitoring an upsurge in destroyer activity to the north of here.&lt;BR&gt;&lt;BR&gt;Check in with him and determine if this constitutes a threat to our mission.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1028">
+        <Page social="4">Those twin-headed terrors are a menace—I'm surprised you got up here unmolested. Perrin's right to worry. The {@LinkCreature:13#9#destroyers} were a huge factor in the assault on the first expedition.&lt;BR&gt;&lt;BR&gt;The numbers I'm seeing...it's only a matter of time before they surge again. You want to make a real difference—be one of us? You need to go kill some.&lt;BR&gt;&lt;BR&gt;That'll send a message to the rest that we're not leaving this ground—not ever. We've paid too much for it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1028">
+        <Page social="4">I'm proud to serve with you, friend. Half those people at the Tower Base have never been out here at all, much less done what you and I have.&lt;BR&gt;&lt;BR&gt;Our continued occupation of this outpost is a symbol of our defiance of the demonic forces in the gorge!&lt;BR&gt;&lt;BR&gt;Go tell Perrin what you've done, and he'll say the same.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1143">
+        <Page social="4">&lt;PCNAME&gt; is a credit to the Valkyon Federation. Let no one say this brave &lt;PCCLASS:lcase&gt; has not earned the right to stand among us!</Page>
+    </Text>
+</QuestDialog>

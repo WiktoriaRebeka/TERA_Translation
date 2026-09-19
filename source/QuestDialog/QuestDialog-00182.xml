@@ -1,0 +1,63 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1105">
+        <Page social="0">The personification of the Core, on the verge of death, was about to lose control of the Core's massive energies. Elleon remembered that Akasha was going to transfer the Core's power to herself, so she constructed a device for exactly that purpose. You, Fraya, and Elleon found the transfer device within the Golden Labyrinth and defeated Akasha's underlings there. Then Fraya sacrificed her mortal self, using the device to become one with the Core and stabilize it.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1105">
+        <Page social="5" voiceTypeId="0">Serion's control of the Core's energy is slipping. I don't know how much longer he'll last. The last time we lost control of the Core's energy, we devastated half a continent. We need to contain it before that happens.&lt;NEXTPAGEBUTTON&gt;"Got a container in mind?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">...There are options. I'm considering the situation. But it'll take enormous power to contain the Core. Serion could supply that power if he was under control, but as things stand, we need another power source. Find something—quickly!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1120">
+        <Page social="5" voiceTypeId="0">Replacement energy—did you just say that?&lt;BR&gt;&lt;BR&gt;I tried to stop her, but she is going to do that anyway.&lt;NEXTPAGEBUTTON&gt;"Who's going to do what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Who could become the Core? It means sacrificing everything. Like Serion, the next Core will live for Allemantheia forever, neither dead nor alive. Once she's done it, there's no going back.&lt;NEXTPAGEBUTTON&gt;"Wait...she?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Forget I said that.&lt;BR&gt;&lt;BR&gt;It's all speculative unless we can get enough energy to move the Core from one body to another. Akasha might have held the key—she wanted the Core's power, so she must have had a power source capable of doing it. Somewhere in the Golden Labyrinth at the heart of the Hungry Caverns. Tell Fraya we're going after it!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" prevId="3" villagerId="1105">
+        <Page social="5" voiceTypeId="0">Akasha may be gone, but her minions are still guarding the Golden Labyrinth. Still, some chance is better than no chance at all. &lt;PCNAME&gt;, catch up with Elleon, then seize that device.&lt;NEXTPAGEBUTTON&gt;"Alright."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Once you've done so, use this token to contact me. Tribune Sophilia will know the safest path into the Golden Labyrinth.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="4" villagerId="1016">
+        <Page social="5" voiceTypeId="0">Karina's the one who knows how to get you into the Golden Labyrinth. She's waiting for you at Vanguard Post Alpha.&lt;BR&gt;&lt;BR&gt;I hope you understand that you're on your own once you get in there.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Elleon told me to expect you, &lt;PCNAME&gt;. He told me to ask why he always arrives before you. I think he was kidding....&lt;BR&gt;&lt;BR&gt;Anyway, he's not far ahead. Take the elevator to the second level, and go through the north entrance.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1032">
+        <Page social="5" voiceTypeId="0">About time, &lt;PCNAME&gt;. I've already deactivated the traps, so you can go to the &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#90874,57238,-1810&amp;type=1&amp;name=labyrinth entrance"&gt;labyrinth entrance&lt;/A&gt;&lt;/font&gt;. We have scouts inside. Find Runshia. We'll be separated, but I'll check in with her from time to time.&lt;NEXTPAGEBUTTON&gt;"Wait...separated?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Your way is too easy. I'm going by another path, just in case we need a quick retreat route.&lt;NEXTPAGEBUTTON&gt;"You'll want this, then."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Commander Fraya's token...right.&lt;BR&gt;&lt;BR&gt;Contact her when we seize the Core transfer device...got it.&lt;BR&gt;&lt;BR&gt;Oh, I see. You're giving me this to make sure I show up where I'm supposed to, rather than wandering off...very clever, &lt;PCNAME&gt;. You know me too well.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="3005" prevId="7" villagerId="1001">
+        <Page social="5" voiceTypeId="0">We haven't reached the Core transfer device yet, but we have a good idea of where it is. In the meantime, you have an urgent summons.&lt;BR&gt;&lt;BR&gt;No, from Jelena, not Elleon. She's fighting her way through the Chamber of Trials, and she needs your help.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="3005" prevId="8" villagerId="1003">
+        <Page social="5" voiceTypeId="0">Something is disturbing Elleon's signal. My guess is that through that chamber, we can join Elleon. To open that chamber we have to first kill the Gatekeeper at the west.&lt;BR&gt;&lt;BR&gt;What's worse is that the west side is blocked by the {@linkcreature:3005#1012#Western Obelisk}. I need you to operate it and get rid of the gatekeeper {@linkcreature:3005#22#Kumas Demon}.&lt;BR&gt;&lt;BR&gt;As soon as you take down the gatekeeper, I'll make sure that the door won't close. Who knows what kind of traps those gulas planted.&lt;BR&gt;&lt;BR&gt;We need to catch up with Elleon. he looked very exhausted.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="3005" prevId="9" villagerId="1003">
+        <Page social="5" voiceTypeId="0">That's one down! But we still have a lot to go for the Core.&lt;BR&gt;&lt;BR&gt;There must be a Gatekeeper with a key...Whatever. Let's just kill all the monsters where a chamber is open. Who knows if that will open the door.&lt;BR&gt;&lt;BR&gt;Vulcanus was the one bothering our signal. Take the thing down and I'll send you Elleon's location.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="3005" prevId="10" villagerId="1005">
+        <Page social="5" voiceTypeId="0">I'm glad to see you're alright. I tried to sneak in but Akasha's minions found me. I was injured while running awa...urgh!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="3005" prevId="11" villagerId="1019">
+        <Page social="5" voiceTypeId="0">The poison is...I can barely walk straight. Go on without me, !&lt;BR&gt;&lt;BR&gt;Get to the device!&lt;NEXTPAGEBUTTON&gt;"Where do I go?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Head east to the Chamber of the Wild. Find the {@LinkCreature:472#1011#west teleportal}. That should take you inside.&lt;BR&gt;&lt;BR&gt;The transfer device should be in there. There are bound to be lots of guards. I overheard the names {@LinkCreature:472#19#Varcerbus} and {@LinkCreature:472#5000#Valgmore}. Be careful!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="3005" prevId="12" villagerId="1007">
+        <Page social="5" voiceTypeId="0">We have the device! Let's contact Fraya before something else goes wrong.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="3005" prevId="13" villagerId="1007">
+        <Page social="5" voiceTypeId="0">Fraya must have gone back to Castanica. We should follow. She wouldn't have left without good reason. Take your time. I'll be waiting outside.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="208" prevId="14" villagerId="1040">
+        <Page social="5" voiceTypeId="0">She's always sacrificing herself for Allemantheia...&lt;BR&gt;&lt;BR&gt;Anyway, now that Fraya has the power of the Core, Allemantheia is safe.&lt;NEXTPAGEBUTTON&gt;"You don't look so happy."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">I'm trying to. I ran away so I could avoid becoming commander. What could I say?&lt;BR&gt;&lt;BR&gt;The one who's sacrificing herself is happy. She was ready for this.&lt;BR&gt;&lt;BR&gt;Take this. Let's go back to Castanica now.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="61" prevId="15" villagerId="1122">
+        <Page social="5" voiceTypeId="0">A flawless victory!&lt;BR&gt;&lt;BR&gt;Now that Fraya has become the new core, the evil god's ambition will take place no more.&lt;BR&gt;&lt;BR&gt;Fraya wishes to thank you.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="61" prevId="16" villagerId="1105">
+        <Page social="5" voiceTypeId="0">I...no—more than I. More than Fraya. This will take time, practice. How Serion must have struggled...I must return to Allemantheia soon. Thank you, &lt;PCNAME&gt;, for all you've done.&lt;NEXTPAGEBUTTON&gt;"I only did what I had to."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The Core must be beyond petty concerns, but...I cannot forget Kaidun. Beware, Akasha and Thulsa...this Core remembers, knows what she's sacrificed for.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I want you to take this.</Page>
+    </Text>
+</QuestDialog>

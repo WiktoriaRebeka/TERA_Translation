@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="5">Like we didn't have enough troubles! The kulkari have driven the {@LinkCreature:6#2041#ravenous bears} out of their homes and soon enough, they'll be looking here for food.&lt;BR&gt;&lt;BR&gt;Drive them off or take them out. Whatever it takes, just get them away from here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1023">
+        <Page social="5">Thanks. Imagine—driving the kulkari off only to be devoured by bears!</Page>
+    </Text>
+</QuestDialog>

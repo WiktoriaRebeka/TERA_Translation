@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1015">
+        <Page social="5">Brohua says the crops here have been sickly for years. He thinks it's soil contamination, and further, the contaminant might be the cause of the plague.&lt;BR&gt;&lt;BR&gt;So I was thinking. Toruan shrubs are common around here. If you'll be so kind as to gather their berries, I can screen them for toxic compounds.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1015">
+        <Page social="5">You have the berries?&lt;BR&gt;&lt;BR&gt;Superb! I hope this works!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1015">
+        <Page social="0">Little toruan fruits are widespread hereabouts. Keep looking.</Page>
+    </Text>
+</QuestDialog>

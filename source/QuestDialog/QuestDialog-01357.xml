@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1006">
+        <Page social="4">Mekonaris, devas, undead, and now kulkaris? Enough!&lt;BR&gt;&lt;BR&gt;This Bleakrock tribe are just thugs for whoever's in charge. I'm sure they're here in exchange for plunder, but I want them stopped.&lt;BR&gt;&lt;BR&gt;Range out to the east there and kill all of their precious shamans that you can. Don't bloody their nose—break it!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1006">
+        <Page social="4">Damn fine work! Give their staves to Keallach. Their loss is our gain!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1006">
+        <Page social="0">The shamans are kulkari leaders. Slaughter a dozen or so and these bullies will scurry back under their rock!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" prevId="3" villagerId="1023">
+        <Page social="4">Oh, these are powerful! Hmm, yes! We can use these. My thanks, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

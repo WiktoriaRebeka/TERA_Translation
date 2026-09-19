@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="4">Vikhonul sent a request for assistance. He says we've got a shot at pushing the argons back some, but he needs help.&lt;BR&gt;&lt;BR&gt;Head to Khanovar Citadel and do that thing you do.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">Yes, these dratted argon minions swarm our forces. They're no threat individually, but in groups they can swarm even the strongest fighters.&lt;BR&gt;&lt;BR&gt;We're sending you out there to obliterate them.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">It's not a permanent solution, but for now our forces will breathe easier.&lt;BR&gt;&lt;BR&gt;Thanks for the assist, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

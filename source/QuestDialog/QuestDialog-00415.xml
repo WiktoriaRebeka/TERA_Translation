@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">To restore the missing pages of the book, you need to defeat five enemies.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1027">
+        <Page social="4">You did it! We now have the first chapter of a tale about dark riches! It looks like there's at least one more, though. Let's go.</Page>
+    </Text>
+</QuestDialog>

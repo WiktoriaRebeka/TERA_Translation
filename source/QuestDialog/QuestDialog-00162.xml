@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Take this to Consul Dougal, in Velika. Tell him I sent you. Please hurry.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="4" voiceTypeId="0">It's rare to see Mattin speak of anyone in such glowing terms. You certainly impressed him, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Why don't you deliver this little epistle to Samael? He's as hard to win over as Mattin, but if anything can do it, it's this report.&lt;BR&gt;&lt;BR&gt;Well done, &lt;PCNAME&gt;. This is exactly the kind of action we need from our soldiers right now.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Hmm. Well, this is quite a report. I guess you're not the keener I took you for. I underestimated you. I guarantee I won't do that again in the future.&lt;BR&gt;&lt;BR&gt;We need more than just soldiers, we need leaders. Dougal thinks you're ready for a commission. I'm hardly going to argue against it, not after deeds such as these. Come, it's not every day you get to be a hero.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" villagerId="1137">
+        <Page social="0">Do you have something to report?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="4" villagerId="1137">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;I'll let the federation administrators know about this. Your accomplishments will be known throughout the land!&lt;BR&gt;&lt;BR&gt;I thank you on behalf of the federation.&lt;BR&gt;I want you to keep it up.</Page>
+    </Text>
+</QuestDialog>

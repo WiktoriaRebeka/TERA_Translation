@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">A copper coin for your thoughts? Specifically, what are your thoughts on gathering?&lt;NEXTPAGEBUTTON&gt;"Never turn down the opportunity."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I knew you'd say that.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} knows our current needs. She's my little gath-master. I just made that up.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">"Gath-master?" You're kidding, right? That woman, I swear.&lt;BR&gt;&lt;BR&gt;As usual, I need some pretty rare materials. I know you can handle it, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Amazing! It must not have been easy to get this.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">I know, {@RawItem:206801} isn't easy to come by.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Amazing! It couldn't have been easy to get this.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">I know, {@RawItem:206802} isn't easy to come by.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Amazing! It must not have been easy to get this.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">I know, {@RawItem:206803} isn't easy to come by.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Amazing! It must not have been easy to get this.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">I know, {@RawItem:206804} isn't easy to come by.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Amazing! It must not have been easy to get this.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">I know, {@RawItem:206805} isn't easy to come by.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">You know what? You need an awesome nickname, too. From now on, I shall call you the Great Doer! Like, do-er, you know? Someone who does stuff?&lt;BR&gt;&lt;BR&gt;Oh man, that's just terrible, isn't it?</Page>
+    </Text>
+</QuestDialog>

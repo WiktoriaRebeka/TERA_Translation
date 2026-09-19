@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="4">Something's wrong. {@LinkCreature:50#1002} is late—and he's never late.&lt;BR&gt;&lt;BR&gt;I worry that he's found something fascinating in the caves underground and lost track of time...or he's run afoul of the argons.&lt;BR&gt;&lt;BR&gt;Would you mind looking for him?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">It pleases me to see you again, but I'm not sure what brings you here.&lt;NEXTPAGEBUTTON&gt;"Your friend is worried about you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No botanist worth his loam could pass up a chance to explore the Viridian Caverns. The resilience of nature astounds me.&lt;BR&gt;&lt;BR&gt;Also, I got a little lost.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">Legend tells us that Yurian blessed the Viridian Caverns due to the fierce devotion of a remarkable castanic. This might explain the cavern's resilience.&lt;NEXTPAGEBUTTON&gt;"He was a warrior?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">No, no—SHE was a romantic.&lt;BR&gt;&lt;BR&gt;Her name was Imalia and she loved these caverns. She tended them, cleaned them, and protected them.&lt;BR&gt;&lt;BR&gt;One day, she met a man, Tiparius, who'd taken shelter in the caverns. One look at his handsome face and she fell in love.&lt;NEXTPAGEBUTTON&gt;"You sure it wasn't just loneliness?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Definitely love—and he loved her back. For a time, they were the happiest couple on Shara.&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Tiparius wanted to move on. He'd seen enough of Northern Shara and longed to return to Castanica.&lt;BR&gt;&lt;BR&gt;Imalia felt torn between her love for him and her obligation to the caverns. Tiparius begged her to come with him, but she chose to stay.&lt;NEXTPAGEBUTTON&gt;"She gave up love for a cave?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No, no! She...she gave it up for duty. Yurian admired her dedication and preserved the caverns so her sacrifice wouldn't be in vain.&lt;BR&gt;&lt;BR&gt;Well now, how about we find {@LinkCreature:250#1002}?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="50" prevId="2" villagerId="1002">
+        <Page social="4">The truth is, I'm lost. I have to meet {@LinkCreature:250#1002}, but can't remember the right route. He's probably worried sick.&lt;BR&gt;&lt;BR&gt;Could you show me the way out?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="50" villagerId="39">
+        <Page social="0">Exit now?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="1022">
+        <Page social="6">For getting a flighty botanist to safety, I thank you.&lt;BR&gt;&lt;BR&gt;Perhaps I'll carry some chalk with me next time I venture underground.</Page>
+    </Text>
+</QuestDialog>

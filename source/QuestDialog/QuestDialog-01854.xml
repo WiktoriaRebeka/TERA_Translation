@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="4">{@LinkCreature:246#3004#Arkant} at the {@Rgn:46017$$Shadowspark Chamber} in the Three Towers requested help.&lt;BR&gt;&lt;BR&gt;The Three Towers represents our greatest chance to unlock the mysteries of the argons. We can't fail there.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3004">
+        <Page social="4">Oh, thank Velik! Can we ever use a soldier's aid!&lt;BR&gt;&lt;BR&gt;First, the {@LinkCreature:46#401#argonomorph ossugon warlords} are too close for comfort. Creepy undead argons? No thanks.&lt;BR&gt;&lt;BR&gt;Second, the {@LinkCreature:46#403#argonomorph iskaragards} are interrupting our research efforts. We want them destroyed.&lt;BR&gt;&lt;BR&gt;Third, we need the {@LinkCreature:246#3011#symbral amplifers} destroyed.&lt;BR&gt;&lt;BR&gt;All are vital targets, but priorities shift. Stay flexible.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3004">
+        <Page social="4">Your dedication to others is the finest example of federation values I can imagine.&lt;BR&gt;&lt;BR&gt;Thanks for all your help, &lt;PCNAME&gt;. We won't forget it.</Page>
+    </Text>
+</QuestDialog>

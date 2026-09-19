@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0">I trust you, &lt;PCNAME&gt;. I hope I haven't judged you too quickly, but I suppose I have no other choice, as there's no one else to trust.&lt;BR&gt;&lt;BR&gt;I knew there would be trouble as soon as we broke up into tribes, but no one wanted to hear it. I knew there were selfish intentions behind it.&lt;BR&gt;&lt;BR&gt;I need you to take care of the first step for me. In order to restore order, the first step will be to get rid of the {@LinkCreature:5#7#Tuwangi Warfrogger} over at the Mighty Frog Pond, southwest of here.&lt;NEXTPAGEBUTTON&gt;"And killing the chiefs is going to restore order"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Well, we need to unite, and the chiefs are intentionally standing in the way of that, aren't they? Great Chief Moong chased me away before. If you need evidence, you can probably find &lt;font color='#660000'&gt;the great slab he engraved the orders on&lt;/font&gt;. Bring it to me once you've found it and are satisfied.&lt;BR&gt;&lt;BR&gt;And don't forget the chiefs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1003">
+        <Page social="0">Oh good, you found the slab. Let's see...yes, here's the part I was talking about. It says...&lt;BR&gt;&lt;BR&gt;Oh no! Great Chief Moong had a dream...and he's planning to enslave all non-tuwangis? A simple dream has him making tribe judgments? Who does he think he is, Arun? Shara? Is he a titan? Do his dreams shape the world?&lt;BR&gt;&lt;BR&gt;Oh, angry angry angry.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1003">
+        <Page social="0">If you bring me the tablet, I can tell you his plans, but I can't very well read something you don't bring to me, can I?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">The Mysterium enlisted your help to make a strike on the Cyasma Spire, an argon structure teeming with energy. Inside, you encountered the sole survivor of an earlier mission, infiltrated the spire, and destroyed much of the argon infrastructure. You also drew the attention of someone powerful indeed.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">{@LinkCreature:249#2006#Celtan} says the argons started multiplying when the {@Rgn:49003$$Agnurok Engine} appeared. You might find an answer inside.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="2006">
+        <Page social="4" voiceTypeId="0">By the way, &lt;PCNAME&gt;. I should let you know how things are going.&lt;BR&gt;&lt;BR&gt;The argons started multiplying when the Agnurok Engine appeared.&lt;BR&gt;&lt;BR&gt;Our target is the {@Rgn:49003$$Cyasma Spire}. I'm sure there's something inside.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="2006">
+        <Page social="0" voiceTypeId="0">I like how you work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Our scouts gave me the location ; I'll send you there. Let me know when you're ready.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" prevId="3" villagerId="2006">
+        <Page social="4" voiceTypeId="0">Be careful.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="249" prevId="3" villagerId="2004">
+        <Page social="4" voiceTypeId="0">Long time no see, my friend. This site might well be the most important outpost in Northern Shara.&lt;BR&gt;&lt;BR&gt;If we're right, the energy that drives the argon war machine comes from here...and we're going to take it out. Take this reverse transducer. It should invert the energy's polarity—killing who knows how many argons.&lt;NEXTPAGEBUTTON&gt;"Fantastic!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Indeed. Of course, much of our plan rests upon an untested hypothesis, but perhaps someone who's battled gods—and survived—is up to a little improvisation, eh?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="249" prevId="6" villagerId="2011">
+        <Page social="9" voiceTypeId="0">I haven't thanked you yet for your help at the Melgatol Portal. I'm stronger now, largely due to your support. So, thanks. Ronalt's bold little plan requires us to infiltrate this structure. Think I'm ready?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="249" prevId="7" villagerId="2014">
+        <Page social="0" voiceTypeId="0">(You feel a tingle across your skin as you approach the teleportal.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="413" prevId="8" villagerId="2002">
+        <Page social="9" voiceTypeId="0">Argh...my aching head. Nature hurts.&lt;BR&gt;&lt;BR&gt;Watch yourself in here. The argons don't fool around. My squad barely got to the next chamber. Stick to the side passages. You might avoid fighting altogether. Take out the cyasma coils, and then use the transducer. Good luck.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="249" prevId="9" villagerId="2002">
+        <Page social="8" voiceTypeId="0">We heard the argons' screams. You really hit them where it counts.&lt;BR&gt;&lt;BR&gt;You've given us new hope, &lt;PCNAME&gt;. Thank you.&lt;NEXTPAGEBUTTON&gt;"Glad I could help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hasmina wanted me to give this to you. She says you should to go to Kaiator and report this to the federation as soon as possible.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="528" prevId="10" villagerId="5005">
+        <Page social="4" voiceTypeId="0">The scribes had best learn your name, my friend, because you're forging a legend every time you take the field.&lt;NEXTPAGEBUTTON&gt;"I'm just doing my duty."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Come now, no false modesty. You're a damned fine soldier.&lt;BR&gt;&lt;BR&gt;Look, I need you to head to Granarkus. The Mysterium reported new readings from what they're calling the argon queen. Imagine it. If we can take her down, we can end this war!</Page>
+    </Text>
+</QuestDialog>

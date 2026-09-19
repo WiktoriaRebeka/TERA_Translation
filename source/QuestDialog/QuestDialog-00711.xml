@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Mission Orders&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:30#510#direpaw mandrills} are hampering our archaeological efforts in {@Rgn:30001$$Balder's Refuge}.&lt;BR&gt;&lt;BR&gt;Kill {@LinkCreature:30#510#direpaw} and {@LinkCreature:30#520#dreadpaw mandrills}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">You've earned the thanks of the federation. Your guild is an inspiration to all!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    </Text>
+</QuestDialog>

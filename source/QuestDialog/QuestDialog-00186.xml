@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1038">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1038">
+        <Page social="4">Let me make one thing perfectly clear: I think Krudo is crazy.&lt;BR&gt;&lt;BR&gt;But he's not stupid. When he says he can turn imp horns into gold, I'm pretty sure that's crazy talk, but I'm not totally sure.&lt;BR&gt;&lt;BR&gt;So humor the crazy coot. Get horns from the {@LinkCreature:8#1031#Caprin imps}, give them to Krudo, and see what happens. Go south from Castanica, then head to the western cavern.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1020">
+        <Page social="4">Imp horns! Imp horns! Hooray! I can turn them into...solid gold! You want gold, right?&lt;BR&gt;&lt;BR&gt;In just forty years...solid gold!&lt;BR&gt;&lt;BR&gt;You're in a hurry? Kids today...(sigh). Take this for your trouble, then. And check back in forty years!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1020">
+        <Page social="0">Can I help you? Or is it the other way around?</Page>
+    </Text>
+</QuestDialog>

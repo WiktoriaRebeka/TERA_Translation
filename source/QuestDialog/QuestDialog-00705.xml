@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="1">Um, &lt;PCNAME&gt;, I know you have an affinity for the great and powerful Oshar.&lt;NEXTPAGEBUTTON&gt;"I sense a request coming."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Indeed, but it's not for Oshar—not directly, anyway. {@LinkCreature:230#1100$$Deresk} was my mentor before Oshar entered the picture.&lt;BR&gt;&lt;BR&gt;We parted ways with...acrimony, let's say. But I'd like to make it up to him with a gift.&lt;BR&gt;&lt;BR&gt;This potion serves two purposes: it acts as a peace offering, and it demonstrates how much I've learned from the mighty Oshar. Could you deliver it to him?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1100">
+        <Page social="1">&lt;PCNAME&gt; has come from Filine? With all possessions intact?&lt;BR&gt;&lt;BR&gt;We shouldn't be bitter, but Filine was our greatest failure. We are sometimes too harsh on our students. This teacher's students rebelled, concocting an imaginary mentor named "Oshar" so they could avoid their lessons and live dissolute lives as perpetual students.&lt;NEXTPAGEBUTTON&gt;"Filine made you this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">There's real power in here...hmm. Perhaps we judged unfairly.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1056">
+        <Page social="1">Wait...what happened?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="1036">
+        <Page social="1">He drank it! Ha ha ha!&lt;BR&gt;&lt;BR&gt;After countless lectures of thinly-veiled high elf racial superiority, let's see how he likes not being a high elf—however temporarily.&lt;BR&gt;&lt;BR&gt;Don't give me that face. He's probably back to his preening high elf form by now.&lt;BR&gt;&lt;BR&gt;Maybe he learned a lesson, though. No matter what you might think you know, it's a bad idea to cross the great and powerful Oshar.</Page>
+    </Text>
+</QuestDialog>

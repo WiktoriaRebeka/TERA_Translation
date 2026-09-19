@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="85" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0">Time to enchant for some bigger bonuses! In your enchanting window, you can continually enchant with all the material you have on hand by clicking Auto-enchant.&lt;BR&gt;&lt;BR&gt;Be aware however, auto-enchant will use the optimal quantities, not the minimums.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1605">
+        <Page social="0">You don't need to go through the expense of enchanting your items to their maximum potential right now, but someday you'll find it useful. You'll find using more feedstock when trying for bigger bonuses yields better results. &lt;BR&gt;&lt;BR&gt;You're a good student, &lt;PCNAME&gt;. I hope this helped.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="1">Today's your lucky day, soldier. It so happens that my master, the sorcerer Oshar, is launching a new venture.&lt;BR&gt;&lt;BR&gt;Under his guidance, I've developed a hair lotion that rejuvenates and volumizes hair, and even regrows it. I need to produce another test batch, but I'm out of ingredients.&lt;BR&gt;&lt;BR&gt;But that's lucky for you!&lt;NEXTPAGEBUTTON&gt;"It is?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Indeed! You can help me create this miracle lotion!&lt;BR&gt;&lt;BR&gt;Catch a few azureroot ghilliedhus and check them for beehives.&lt;BR&gt;&lt;BR&gt;Gather the honey and reap the awesome rewards!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1016">
+        <Page social="1">I won't forget this, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;In fact, I'm going to add your name under "Contributors" on the recipe. And here is a small token of my gratitude.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1016">
+        <Page social="0">The completion of Leshoff's Luxurious Lotion is near.&lt;BR&gt;&lt;BR&gt;Once I get enough ghilliedhu tree honey, it's complete!</Page>
+    </Text>
+</QuestDialog>

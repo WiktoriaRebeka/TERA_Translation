@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1003">
+        <Page social="5">The Scions of Lok seized the Cardovek Remnants east of here. Our researchers dare not approach—they're scholars, not soldiers.&lt;BR&gt;&lt;BR&gt;Go on the offensive and kill the {@LinkCreature:7#11#Bloodguards}. The primacy of our mission must be assured!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1003">
+        <Page social="5">The task is complete? Excellent. Our researchers can begin. Time is short and we're not about to lose to those wretched cultists!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="100">
+        <Page social="0" voiceTypeId="0">[Special Orders]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, after you left Exodor the Valkyon Federation established a base in Exodor to explore the area and keep an eye on Azart movements in the vicinity.&lt;BR&gt;We need to send supplies to this base, so come see me as soon as you see this.&lt;BR&gt;&lt;BR&gt;- Seir</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">A familiar face can be seen in the distance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="100">
+        <Page social="4">Hi, nice to meet you!&lt;BR&gt;&lt;BR&gt;I’m Anya!&lt;NEXTPAGEBUTTON&gt;"Anya? Is it really you?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">Huh? Yes. Who else?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Don’t you remember me?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ah, you seem to know me from somewhere else.&lt;BR&gt;I’m sorry, but I’m not the Anya you know.&lt;BR&gt;You don’t understand, do you?&lt;BR&gt;&lt;BR&gt;You will, once I explain to you about this place. Come on, follow me.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2500" prevId="3" villagerId="120">
+        <Page social="4" voiceTypeId="0">This place is called Oscinium Agaia.&lt;BR&gt;&lt;BR&gt;It connects different planes of existence that would never have crossed paths if it weren’t for dimensional instability.&lt;BR&gt;&lt;BR&gt;You’ll see many more lookalikes of people from your world, just like me.&lt;NEXTPAGEBUTTON&gt;"I see."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Let me introduce you to this place.&lt;BR&gt;&lt;BR&gt;Please listen carefully.</Page>
+    </Text>
+</QuestDialog>

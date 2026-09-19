@@ -1,0 +1,76 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;. Are you ready to make a &lt;font color='#0000FF'&gt;Freeholds Specialty&lt;/font&gt; drink?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You heard that Haroso had the missing ingredient for a &lt;font color='#0000FF'&gt;Freeholds Specialty&lt;/font&gt; drink.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="1" villagerId="7000">
+        <Page social="4" voiceTypeId="0">To make a &lt;font color='#0000FF'&gt;Freeholds Specialty&lt;/font&gt; drink, you need a &lt;font color='#FF0000'&gt;Tuwangi's Tear&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;You can get one from Haroso at Tuwangi Mire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="2001">
+        <Page social="1" voiceTypeId="0">A friend of Melsa is a friend of mine! What do you need?&lt;NEXTPAGEBUTTON&gt;"I came for a Tuwangi's Tear."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&lt;font color='#FF0000'&gt;Tuwangi's Tear&lt;/font&gt; is a very rare item! I can't simply just give it away...even to a friend!&lt;NEXTPAGEBUTTON&gt;"Is there anything I can do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Do me a favor and I'll give you the &lt;font color='#FF0000'&gt;Tuwangi's Tear&lt;/font&gt;!&lt;NEXTPAGEBUTTON&gt;"What kind of favor?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I love Dragon on a Stick, but it's Dragon on a Sick now! I had too much! I want something new!&lt;NEXTPAGEBUTTON&gt;"What do you want?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="3" villagerId="2001" />
+    <Text id="6" huntingZoneId="205" prevId="3" villagerId="2001" />
+    <Text id="7" huntingZoneId="205" prevId="3" villagerId="2001" />
+    <Text id="8" huntingZoneId="205" prevId="3" villagerId="2001" />
+    <Text id="9" huntingZoneId="205" prevId="3" villagerId="2001" />
+    <Text id="10" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="29" voiceTypeId="0">&lt;font color='#0000FF'&gt;Moongourd Muffins&lt;/font&gt; are delicious! Thank you!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Where's the &lt;font color='#0000FF'&gt;Moongourd Muffin&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="29" voiceTypeId="0">&lt;font color='#0000FF'&gt;Popped Cobseed&lt;/font&gt; is delicious! Thank you!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Where's the &lt;font color='#0000FF'&gt;Popped Cobseed&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="14" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="29" voiceTypeId="0">&lt;font color='#0000FF'&gt;Mudroot Salad&lt;/font&gt; is delicious! Thank you!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Where's the &lt;font color='#0000FF'&gt;Mudroot Salad&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="16" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="29" voiceTypeId="0">&lt;font color='#0000FF'&gt;Grilled Pigling&lt;/font&gt; is delicious! Thank you!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Where's the &lt;font color='#0000FF'&gt;Grilled Pigling&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="18" huntingZoneId="205" prevId="4" villagerId="2001">
+        <Page social="29" voiceTypeId="0">&lt;font color='#0000FF'&gt;Shevranberry Cookies&lt;/font&gt; are delicious! Thank you!</Page>
+    </Text>
+    <Text id="19" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Where's the &lt;font color='#0000FF'&gt;Shevranberry Cookie&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="20" huntingZoneId="205" prevId="18" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Thank you! That was a feast! But I'm still hungry...haha!</Page>
+    </Text>
+    <Text id="21" huntingZoneId="205" prevId="18" villagerId="2001" />
+    <Text id="22" huntingZoneId="205" prevId="18" villagerId="2001" />
+    <Text id="23" huntingZoneId="205" prevId="18" villagerId="2001" />
+    <Text id="24" huntingZoneId="205" prevId="20" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Thank you for everything!&lt;BR&gt;&lt;BR&gt;Since you helped, I'll give you this as a gift!</Page>
+    </Text>
+    <Text id="25" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Where's the &lt;font color='#0000FF'&gt;Traditional Bleakfields BBQ&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="26" huntingZoneId="205" prevId="20" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Thank you for everything!&lt;BR&gt;&lt;BR&gt;Since you helped, I'll give you this as a gift!</Page>
+    </Text>
+    <Text id="27" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Where's the &lt;font color='#0000FF'&gt;Freeholds Flame Salad&lt;/font&gt;...</Page>
+    </Text>
+    <Text id="28" huntingZoneId="205" prevId="20" villagerId="2001">
+        <Page social="29" voiceTypeId="0">Thank you for everything!&lt;BR&gt;&lt;BR&gt;Since you helped, I'll give you this as a gift!</Page>
+    </Text>
+    <Text id="29" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Where's the &lt;font color='#0000FF'&gt;Bleak Wings&lt;/font&gt;...</Page>
+    </Text>
+</QuestDialog>

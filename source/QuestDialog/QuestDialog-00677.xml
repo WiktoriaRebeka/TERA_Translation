@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="10007">
+        <Page social="0">You entered {@Rgn:9025001$$Balder's Temple} and met a very surprised Princess Rida, somehow brought in with you. You overcame the final trials set by the temple's guardian, the {@Creature:425#8005$$Sun Scarab}. The goddess Mystel told you that passing the trials had given the world new choices. Afterward, {@Creature:71#1114$$Rida} said she could feel the world changing somehow—for the better.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="10007">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;? How did we get here? I was just talking to my advisors and—oh, this is Balder's temple, isn't it?&lt;BR&gt;&lt;BR&gt; Your senses aren't as finely attuned as mine. I can feel something powerful at its center.&lt;BR&gt;&lt;BR&gt;What are we waiting for? Let's go!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="10008">
+        <Page social="1" voiceTypeId="0">As I told you last time we met, your trials never end.&lt;BR&gt;&lt;BR&gt;Like your triumph at the fountain, your prize today will grant you more choices tomorrow.&lt;BR&gt;&lt;BR&gt;Show {@LinkCreature:425#10005$$Rida} your temple key.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="425" prevId="3" villagerId="10005">
+        <Page social="1" voiceTypeId="0">Hmm. The only arcane part of this is that mirror set into the handle.&lt;BR&gt;&lt;BR&gt;It looks like it would fit into the big mirror's base!&lt;BR&gt;&lt;BR&gt;Take it, &lt;PCNAME&gt;. You've really earned the honor. And it's certainly not dangerous.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="425" prevId="4" villagerId="10009">
+        <Page social="1" voiceTypeId="0">(There is a space just the right size for the little mirror.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="425" prevId="5" villagerId="10008">
+        <Page social="1" voiceTypeId="0">Before Balder's death, I saw a great tangle of dark destiny converge, strangling the threads of light. A few bright threads might find their way through that tangle, but very few.&lt;BR&gt;&lt;BR&gt;Sadly, Balder's thread was not among them.&lt;BR&gt;&lt;BR&gt;Yet what the gods could not do, you mortals may still achieve.&lt;NEXTPAGEBUTTON&gt;"What did we unlock?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Not all of Balder's power died with him. Some he sealed away. One of those seals has now opened for mortals.&lt;BR&gt;&lt;BR&gt;Your friend the princess can feel it working.&lt;BR&gt;&lt;BR&gt;Farewell for now—but not forever!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="425" prevId="6" villagerId="10005">
+        <Page social="1" voiceTypeId="0">Whoa. "Nature smiles." That's what it feels like, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;It's everywhere! I feel something alive in the world that wasn't there before.&lt;BR&gt;&lt;BR&gt;The Mysterium will be disappointed, of course. I think they wanted something they could cart off and scheme over.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1047">
+        <Page social="1" voiceTypeId="0">Congratulations! I felt a change in the world, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;No doubt our clan will start to age normally again. The Consos will need a new purpose, maybe even a new leader.&lt;BR&gt;&lt;BR&gt;But do not grieve for us—I do not. I might get a chance to travel!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="1053">
+        <Page social="1" voiceTypeId="0">Mystel's words are maddening! What use are her predictions when they're all riddles? If she can see the future, can't she see future-me confused by her words?&lt;BR&gt;&lt;BR&gt;That's why we do research, I suppose, and we have many new subjects to study.&lt;BR&gt;&lt;BR&gt;You surpass Elsine's praise for you, &lt;PCNAME&gt;. I wish you well.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="8" villagerId="1054">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;! Your legend grows!&lt;BR&gt;&lt;BR&gt;Nobody's quite sure what you unleashed in the temple, but everyone's excited to find out. I'll help catalog tablets, then look for more forgotten artifacts.&lt;BR&gt;&lt;BR&gt;Maybe we'll meet again.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="1083">
+        <Page social="1" voiceTypeId="0">The world is healthier, and the elf is frustrated. My work here is done.&lt;BR&gt;&lt;BR&gt;Time to return to Poporia. My sister and I should talk.&lt;BR&gt;&lt;BR&gt;Let her have her banner. She can be queen, if she wants. Fighting her is a waste of energy we can't afford.&lt;NEXTPAGEBUTTON&gt;"Spoken like a true leader."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Yes. Well, um...I wanted you to have this.&lt;BR&gt;&lt;BR&gt;Wear it the next time something's trying to eat you.&lt;BR&gt;&lt;BR&gt;Don't do anything stupid—unless I'm there to watch!</Page>
+    </Text>
+</QuestDialog>

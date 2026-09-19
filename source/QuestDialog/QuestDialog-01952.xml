@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="4">&lt;PCNAME&gt;, we've got a time-sensitive delivery to one of our best clients. Deliver the goods on time and safely. The consequences of poor customer service are...dire.&lt;BR&gt;&lt;BR&gt;The package goes to Edahm in Crescentia. Use a pegasus to get there faster.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1002">
+        <Page social="4">How may I help you today?&lt;NEXTPAGEBUTTON&gt;"This is from Imesti."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Shh! I don't want to attract attention.&lt;BR&gt;&lt;BR&gt;Take this, and just walk away casually.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1008">
+        <Page social="4">So, you need to get your paws on argon technology? Naturally, you've come to the right place.&lt;BR&gt;&lt;BR&gt;My research takes me all across Shara. You'll find I have the best collection of argon machinery anywhere. It'll cost extra if you want something functioning.&lt;BR&gt;&lt;BR&gt;Did you need tubing? Piston grease? Infusers? I have it all.&lt;BR&gt;&lt;BR&gt;So what brings you to Puuru?&lt;NEXTPAGEBUTTON&gt;"The mist generators."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Whoa, you mean business!&lt;BR&gt;&lt;BR&gt;What you're looking for are called kyarnaks, named for their creator. The argons won't leave them unguarded, so stopping the machines, if that's your aim, means taking out the guards too.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1008">
+        <Page social="4">Only scraggly tuwangis guarding the kyarnak devices? No argons? Doesn't smell right.&lt;NEXTPAGEBUTTON&gt;"Where did they go?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Attend! This smells important. If they're not here for Seeliewood, they're here for something in the garden. Something powerful. That means only one thing—the Everbloom.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="2503">
+        <Page social="4" voiceTypeId="0">I'm Paesyn, of the Valkyon Federation's Special Forces.&lt;BR&gt;&lt;BR&gt;I want to save Zolyn and myself,&lt;BR&gt;&lt;BR&gt;so I've done a lot of research.&lt;NEXTPAGEBUTTON&gt;"On what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">On moving to different worlds.&lt;BR&gt;&lt;BR&gt;I've been so busy studying that I didn't have time to develop good fighting skills, though.&lt;BR&gt;&lt;BR&gt;Also, my research is not complete. I can only stay in another world for a very short amount of time.&lt;NEXTPAGEBUTTON&gt;"I see."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="6">That's why I need your help.&lt;BR&gt;&lt;BR&gt;You'll help me, won't you?&lt;NEXTPAGEBUTTON&gt;"Sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Really? Thanks!&lt;BR&gt;&lt;BR&gt;Alright, I'm going to send you to another dimension.&lt;BR&gt;&lt;BR&gt;Please take care of things that happen in there.&lt;BR&gt;&lt;BR&gt;I'll be there for the main event.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You’ve saved Paesyn and Zolyn in another world.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="2503">
+        <Page social="5">Thank you. I couldn't have saved Paesyn and Zolyn if it weren't for you!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2500" prevId="3" villagerId="10100">
+        <Page social="2">Because of you, Zolyn and I came back to life.&lt;BR&gt;&lt;BR&gt;I'm happy just to look at Zolyn like this.&lt;BR&gt;&lt;BR&gt;Thank you so much.</Page>
+    </Text>
+</QuestDialog>

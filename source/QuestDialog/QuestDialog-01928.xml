@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Wow! We've sent you on a lot of boring crafting missions, but it's because your work is outstanding.&lt;BR&gt;&lt;BR&gt;Rare, high quality materials are how we support the precious cause we're all fighting for, and your support to the Hands of Velika is appreciated.&lt;BR&gt;&lt;BR&gt;Enough of me blubbering. Go talk to {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">I hate to keep asking you, but could you craft some items for {@LinkCreature:63#3001#Barian}? Supplies are low, and we have to keep them coming in to stay in business.&lt;BR&gt;&lt;BR&gt;Without our merchant trade, there would be no Hands of Velika. Yeah. We're that important.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will pay you.&lt;BR&gt;&lt;BR&gt;Help out again next time!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft four {@RawItem:206812} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3001">
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will pay you.&lt;BR&gt;&lt;BR&gt;Help out again next time!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft four {@RawItem:206813} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3001">
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will pay you.&lt;BR&gt;&lt;BR&gt;Help out again next time!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft four {@RawItem:206814} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="13" villagerId="3001">
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will pay you.&lt;BR&gt;&lt;BR&gt;Help out again next time!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft four {@RawItem:206815} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="15" villagerId="3001">
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will pay you.&lt;BR&gt;&lt;BR&gt;Help out again next time!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft four {@RawItem:206816} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="3002">
+        <Page social="4">Wow, &lt;PCNAME&gt;! Not only do you work hard and produce quality materials, you're fast!&lt;BR&gt;&lt;BR&gt;Thanks.</Page>
+    </Text>
+</QuestDialog>

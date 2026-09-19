@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="5">This is supposed to be a time of cheer and feasting, not murder and terror.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:22#11#witch prefects} and {@LinkCreature:22#12#ailuri giantkillers} are spreading terror around the academy—slow their progress to give us time to find a cure.&lt;BR&gt;&lt;BR&gt;Don't toy with them, &lt;PCNAME&gt;—be swift.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1007">
+        <Page social="5">Harvesttime will never be a joyful time for me again. Not with so much tragedy to remember.&lt;BR&gt;&lt;BR&gt;Thanks. I need to return to my studies. There might still be time to save the rest!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1019">
+        <Page social="5">The Scions of Lok are all over the Cardovek Remnants but they're not dug in yet. If we can keep them off balance, we might be able to drive them off.&lt;BR&gt;&lt;BR&gt;I need you to kill the {@LinkCreature:7#12#Lokian lancers} and {@LinkCreature:7#13#berserkers}. We can't let them solidify and fortify their position and you're the best person for the mission.&lt;BR&gt;&lt;BR&gt;Don't let me down.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1019">
+        <Page social="5">They're a little weaker now, and that's a good thing. We'll try to keep the initiative and turn this into a win!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1017">
+        <Page social="4">I don't know what's happening. The kulkaris and their allies have never been this hostile before. I mean, I suffer no delusions that we had an alliance, but really.&lt;BR&gt;&lt;BR&gt;Everything's different now. We can't just sit around and wait for them to take us out. We need to take action.&lt;BR&gt;&lt;BR&gt;Get rid of the {@LinkCreature:18#1#Desert Fire thrashers} and {@LinkCreature:18#2#Desert Fire shamans}. Go see {@LinkCreature:218#1003#Kardelen} at Camp Marrakeen when you've finished.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">Got rid of the kulkaris, did you? Glad to hear it—I needed a break!&lt;BR&gt;&lt;BR&gt;I remember when my biggest complaint was boredom. Be careful what you wish for, eh?</Page>
+    </Text>
+</QuestDialog>

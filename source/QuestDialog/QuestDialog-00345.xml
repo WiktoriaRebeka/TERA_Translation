@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="4">There is one who knows much of {@LinkCreature:13#300931#ghilliedhus}. Dulari, researcher and friend. As you travel to his campsite to the south, collect samples from those you fight.&lt;BR&gt;&lt;BR&gt;Attack from the sides or behind...but keep moving. An angered ghilliedhu is nothing to trifle with.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1017">
+        <Page social="4">I saw you had to defend yourself along the path. Odd behavior from such normally docile creatures, yes? &lt;BR&gt;&lt;BR&gt;Ghilliedhus are protector spirits, not soldiers. I need answers...and samples...as to what's going on.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1017">
+        <Page social="0">Another soldier. Kishale again, being "helpful." The samples you bring only reinforce my conclusions. This place must be studied, not conquered.&lt;BR&gt;&lt;BR&gt;If you must fight, practice until you can face Vekas unafraid. I believe it agitates the other spirits, and understanding Vekas will reveal much more about this island than meaningless violence.</Page>
+    </Text>
+</QuestDialog>

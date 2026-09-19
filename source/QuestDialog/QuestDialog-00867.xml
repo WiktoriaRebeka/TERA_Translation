@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1017">
+        <Page social="5">You've heard that Killian's brainwashing the Tenebrara mercenaries, right?&lt;BR&gt;&lt;BR&gt;Well, once we got control of that situation, he stepped up his game.&lt;BR&gt;&lt;BR&gt;It's hard, but so far, we're holding it together.&lt;BR&gt;&lt;BR&gt;Now he's turned the lancers and sorcerers, so the most powerful are also the most danger to us.&lt;BR&gt;&lt;BR&gt;Can you help us out?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1017">
+        <Page social="18">I can't tell you the pressure that you've relieved. Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;And here's something for you.</Page>
+    </Text>
+</QuestDialog>

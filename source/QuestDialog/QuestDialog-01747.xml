@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="27" prevId="0" villagerId="563">
+        <Page social="0">Zeuk had been keeping watch for some time, and can asked if you could collect his favorite food, Veridia Root.He then asked if you could help other people in the area</Page>
+    </Text>
+    <Text id="2" huntingZoneId="27" prevId="0" villagerId="563">
+        <Page social="4" voiceTypeId="0">Nothing has gone well since the evacuation.&lt;BR&gt;I mean, look at me. I'm a blacksmith, not a sentry. But I'm stuck up here on watch, without even a pet to keep me company.&lt;NEXTPAGEBUTTON&gt;What can I do to help?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I see you running around helping people. Maybe you could help me.&lt;BR&gt;&lt;BR&gt;Why don't you...gather some Veridia Root for me! My hunger is dragging me down.&lt;NEXTPAGEBUTTON&gt;"Really? Really?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="2" villagerId="563">
+        <Page social="4" voiceTypeId="0">Haha! Nicely done! Now I can snack away the hours.&lt;BR&gt;&lt;BR&gt;I've seen a few other people struggling from here. In particular, those high elf stonemasons can use some better supplies.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" villagerId="563">
+        <Page social="0">How are you coming with those Verida Roots? It seems silly for you to come all the way up here empty handed.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="3" villagerId="565">
+        <Page social="4" voiceTypeId="0">Oh, thank you, kind stranger!&lt;BR&gt;&lt;BR&gt;We'll put these stones to good use!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="27" villagerId="565">
+        <Page social="0">We don't have enough stone to build even the smallest wall. Can't you help us?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="27" prevId="5" villagerId="564">
+        <Page social="4" voiceTypeId="0">Thank you! I'll certainly put these to good use. How did you know I needed help?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="27" villagerId="564">
+        <Page social="0">I'll never be done at this rate. Say, you wouldn't happen to have any Xermetal Ore, would you?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="27" prevId="7" villagerId="563">
+        <Page social="0" voiceTypeId="0">You really are a good helper!&lt;BR&gt;&lt;BR&gt;I'm very grateful you could take the time to help us out like this. It's hard to go out gathering when you've got so much to do.&lt;BR&gt;&lt;BR&gt;Please, take this as compensation for all your hard work.</Page>
+    </Text>
+</QuestDialog>

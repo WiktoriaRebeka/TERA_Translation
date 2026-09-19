@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1009">
+        <Page social="5">This grove is sacred to the kingdom.&lt;BR&gt;&lt;BR&gt;Unfortunately, those awful {@LinkCreature:23#13#searing fangspawns} are wrecking it.&lt;BR&gt;&lt;BR&gt;My troops will be roasted if they take them on. I need you to deal with this.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1009">
+        <Page social="5">Well, those fire-breathing freaks shouldn't be a problem for some time.&lt;BR&gt;&lt;BR&gt;Thank you. Our heritage is part of who we are. We must protect it.</Page>
+    </Text>
+</QuestDialog>

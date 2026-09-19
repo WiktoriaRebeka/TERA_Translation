@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="1">I came across some folklore while researching the arkai. Supposedly Arkai eggs can grant eternal youth to a powerful sorcerer.&lt;BR&gt;&lt;BR&gt;Imagine what esteem we would earn if we gave some to Oshar!&lt;NEXTPAGEBUTTON&gt;"I sense a task for me..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You're learning to anticipate Oshar's needs, &lt;PCNAME&gt;. That's good.&lt;BR&gt;&lt;BR&gt;Go around {@LinkCreature:30#1000#Arkai Perch$$Arkaina} and collect eggs.&lt;BR&gt;&lt;BR&gt;Be careful. If the {@LinkCreature:30#220#teal arkai} finds you stealing its eggs, it will attack.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1036">
+        <Page social="1">Are these the eggs?&lt;BR&gt;&lt;BR&gt;They're not as big as I thought they would be. Seem quite ordinary, really.&lt;BR&gt;&lt;BR&gt;Should I feed one to a sloth or something first? And if I do, will I have created an immortal sloth-king?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1036">
+        <Page social="0">It's not so much that I want the eggs, you see. Oshar wants them, and we are all just Oshar's servants.</Page>
+    </Text>
+</QuestDialog>

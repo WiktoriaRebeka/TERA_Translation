@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1020">
+        <Page social="5">Going up north? My friend Moimui leads a squad at Camp Redemption.&lt;BR&gt;&lt;BR&gt;Been some awful noises coming from up that way at night. Tell him I said it's either some new monster or his singing is way, way off key!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1023">
+        <Page social="5">He said what? Oh no he didn't.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1011">
+        <Page social="4">Okay, I need to know what we're working with before we just send troops marching in there.&lt;BR&gt;&lt;BR&gt;I'm going to need you to head over and scout out the &lt;font color='#660000'&gt;main gate of the Sinestral Manor&lt;/font&gt; to make sure the area is clear.&lt;BR&gt;&lt;BR&gt;Report back here when you've finished that and let me know everything you found.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="4">Not too many guards, but a locked gate, huh? Hmm. That's good and bad news. Getting past the guards should be fine, but the gate...&lt;BR&gt;&lt;BR&gt;Well, thank you for that. I'll think on what our next step should be.</Page>
+    </Text>
+</QuestDialog>

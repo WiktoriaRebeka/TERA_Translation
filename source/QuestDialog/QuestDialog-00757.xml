@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="4">How can I think of war when all my heart thinks of is Nashwa?&lt;BR&gt;&lt;BR&gt;I would throw myself headlong into battle to win her interest, but she is too distracted by our weapons shortage to notice anything.&lt;BR&gt;&lt;BR&gt;I hear Acarum arms their recruits by raiding mercenary camps. Could you do that for us?&lt;BR&gt;&lt;BR&gt;We don't have soldiers to spare for such a mission, but if you hit the camps, the {@LinkCreature:32#8#Stalker Company destroyers} should have weapons enough for our recruits. Then Nashwa will be free to think about other things...like me!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1004">
+        <Page social="4">This is superb. If I bring these to Nashwa, I'll be her hero!&lt;BR&gt;&lt;BR&gt;Here's a token of my appreciation. Buy something nice to wear to our wedding!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1004">
+        <Page social="0">The mercenary camps in the Gloomy Tundra are the best place to find weapons. You just have to kill the {@LinkCreature:32#8#Stalker Company destroyers}.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" prevId="3" villagerId="1005">
+        <Page social="4">What kind of fool does he think I am? Khasib just brought me a pile of weapons as if they were a bouquet of flowers. What did he think I would do?&lt;BR&gt;&lt;BR&gt;We're in the middle of a war and he's acting like a schoolboy. I think I let him down too gently. Next time I'm not going to be so patient.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1702">
+        <Page social="4">&lt;PCNAME&gt;, we had some of our goods disappear during a routine delivery. Our agent responsible has been...disciplined, let's say, and we recovered the missing package.&lt;BR&gt;&lt;BR&gt;That's where you come in. Deliver this to Jerelyn as soon as you can, and reassure her that the shipping problem has been "dealt with."</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1108">
+        <Page social="4">How may I help you?&lt;NEXTPAGEBUTTON&gt;"This is from Ebbra."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">I was upset when it didn't arrive, and...what's that? "Dealt with?"&lt;BR&gt;&lt;BR&gt;Oh, I see. None of my business, really, but that's reassuring.</Page>
+    </Text>
+</QuestDialog>

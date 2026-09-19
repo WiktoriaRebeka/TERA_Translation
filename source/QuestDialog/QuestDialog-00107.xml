@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">I can make an extremely potent antidote, but most find it distasteful. It tastes so awful, those who drink it say they would rather die if they ever become poisoned again.&lt;BR&gt;&lt;BR&gt;Be that as it may, many find the ingredient gathering more distressing than the taste. I hope you're up to the task. I'll need the eyes of the garangkas those {@LinkCreature:5#1#Tuwangi Overseers} ride around on. Yes, just the eyeballs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="9">I was hoping you'd bring me bigger ones, but these will do for now. Here, I know it wasn't easy.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">Bring me the eyes of the garangkas that the {@LinkCreature:5#1#Tuwangi Overseers} ride around on. They aren't going to roll here themselves.</Page>
+    </Text>
+</QuestDialog>

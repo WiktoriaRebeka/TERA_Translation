@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1030">
+        <Page social="0">An active dementalith would strip your sanity away with a single touch. Bedoram proposed blasting the device and introduced you to Jelena, a skilled saboteur.&lt;BR&gt;&lt;BR&gt;Jelena's bomb disabled the stone and you dispatched its vampir guardian. Jelena was dismayed that a vampir was involved. They had been decent beings once, she said. She left you to find out what had befallen them.&lt;BR&gt;&lt;BR&gt;Worse news followed. Bedoram recognized the runes engraved on the broken dementalith: sigils of the cult of Lok. This was no disease or random attack.&lt;BR&gt;&lt;BR&gt;This was part of a bigger plan.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1030">
+        <Page social="4" voiceTypeId="0">One must avoid touching a dementalith, if at all possible. It takes considerable magical power to destroy them and the risk of madness is high.&lt;NEXTPAGEBUTTON&gt;"Is there nothing we can do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">As it happens, I know someone who can help. Jelena! She's one of the Valkyon Rangers and is quite adept with explosives. I know she's in the region. Track her down, &lt;PCNAME&gt;. She can help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1020">
+        <Page social="4" voiceTypeId="0">If you're looking for Jelena, that's me.&lt;NEXTPAGEBUTTON&gt;"Can you destroy a dementalith...?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I've never destroyed a {@linkcreature:15#21#dementalith} before, but how hard can it be?&lt;BR&gt;&lt;BR&gt;Oh...you could get infected by touching it?&lt;BR&gt;&lt;BR&gt;Well, then, just destroy it without touching it!&lt;NEXTPAGEBUTTON&gt;"Without touching it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Well, yes, but I don't mean to make it sound simple. If it were my powerful relic, just sitting out in the open like that, I'd have guards or some other kind of protection set up, to deter people trying what we're discussing right now. I can give you the charge, but you'd best be ready for a fight.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Still alive, eh? Guess there's more to you than meets the eye.&lt;BR&gt;&lt;BR&gt;You tangled with vampirs? Odd. Let me see that fragment.&lt;BR&gt;Why would vampirs be involved? They've lived in the kingdom for centuries. That said, Leander once told me vampirs are naturally adept at blood magic.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" villagerId="1020">
+        <Page social="0">Back already? Did you blow up the {@LinkCreature:15#21#dementalith}?</Page>
+    </Text>
+</QuestDialog>

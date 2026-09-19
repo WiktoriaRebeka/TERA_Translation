@@ -1,0 +1,43 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, Muhrak, the legendary blacksmith, has an urgent request for you.&lt;BR&gt;He seems very troubled.&lt;BR&gt;Please come to Velika as soon as you receive my message.&lt;BR&gt;I must talk to you in person.&lt;BR&gt;&lt;BR&gt;— Seir&lt;BR&gt;&lt;BR&gt;[You must have equipment level 457 or higher to enter the Red Refuge.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Muhrak, the legendary blacksmith, called upon &lt;PCNAME&gt; to search for Karakhir, his missing son. Clues led &lt;PCNAME&gt; to the Red Refuge.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; discovered that Hennika, a senior officer of the Red Raiders, had kidnapped Karakhir and imprisoned him in the village.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; rescued Karakhir, but was not able to capture Hennika.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4" voiceTypeId="0">You’ve come.&lt;BR&gt;&lt;BR&gt;Muhrak is in trouble...big trouble.&lt;NEXTPAGEBUTTON&gt;"In what way?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The details are in these messages between Muhrak and his son, Karakhir.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Muhrak lost contact with Karakhir shortly after he received this message.&lt;BR&gt;&lt;BR&gt;He says this has never happened before.&lt;BR&gt;&lt;BR&gt;Karakhir has been missing for too long, which is why Muhrak asked for the federation’s help.&lt;NEXTPAGEBUTTON&gt;"Go on."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, he specifically requested me to appoint you for this task.&lt;BR&gt;&lt;BR&gt;Since you rescued him, he trusts you the most.&lt;NEXTPAGEBUTTON&gt;"I will do whatever it takes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Much obliged, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;As soon as you're ready, head to Frontera. That's the last place anyone saw Karakhir alive.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="39" prevId="4" villagerId="400">
+        <Page social="0" voiceTypeId="0">(You found a heavily damaged wagon. All the cargo is gone.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="39" prevId="5" villagerId="401">
+        <Page social="0" voiceTypeId="0">(This crate must have come from the wagon you just checked. You notice that the valuables are still inside. Whoever raided the wagon was after something more valuable than its cargo.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="39" prevId="6" villagerId="402">
+        <Page social="0" voiceTypeId="0">(You can only make out the first few letters of the writing on this pouch.)&lt;BR&gt;&lt;BR&gt;"Karak..."</Page>
+    </Text>
+    <Text id="8" huntingZoneId="739" prevId="7" villagerId="4002">
+        <Page social="4" voiceTypeId="0">Kaia be praised! You're here. I am Master Karakhir’s apprentice.&lt;BR&gt;&lt;BR&gt;We stumbled upon the Temple of Dagon while we were searching for smithing materials.&lt;NEXTPAGEBUTTON&gt;"Where is Karakhir?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I was returning to camp after I found us some food for our dinner. I was still pretty far away when I saw a castanic woman and some monsters abducting my master from our campsite.&lt;BR&gt;&lt;BR&gt;I followed them all the way here, and I could not believe what I found. How did they fit a settlement so large behind these cliffs?&lt;BR&gt;&lt;BR&gt;I'm afraid my master could be in serious danger.&lt;BR&gt;Can you rescue him?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="739" prevId="8" villagerId="4006">
+        <Page social="0" voiceTypeId="0">You bastards!&lt;BR&gt;&lt;BR&gt;Free me, right now!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="739" prevId="9" villagerId="4001">
+        <Page social="4" voiceTypeId="0">The castanic woman, Hennika, is plotting to revolt against the Valkyon Federation.&lt;BR&gt;&lt;BR&gt;That lunatic coerced me into making weapons for the Red Raiders.&lt;BR&gt;&lt;BR&gt;But I'd rather die than become someone' slave. I tried to break out, but they caught me and threw me into this prison cell.&lt;BR&gt;&lt;BR&gt;I thought I was going to die here. How in Kaia’s name did you find me?&lt;NEXTPAGEBUTTON&gt;"Muhrak asked me to look for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Yes, father must be worried sick.&lt;BR&gt;&lt;BR&gt;Well, let's get out of here as soon as possible so I can send him message and let him know you found me.&lt;NEXTPAGEBUTTON&gt;"Okay. We can leave as soon as we meet up with your apprentice."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Apprentice? What are you talking about?&lt;BR&gt;&lt;BR&gt;I don't have an apprentice.&lt;BR&gt;&lt;BR&gt;Not officially, anyway...just some smithing enthusiasts who follow me around.&lt;BR&gt;&lt;BR&gt;It's not important. We need to leave quickly.&lt;BR&gt;&lt;BR&gt;I'd best use the teleportation scroll.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="39" prevId="10" villagerId="404">
+        <Page social="4" voiceTypeId="0">How did it go? Did you find my master?&lt;BR&gt;&lt;BR&gt;I stayed out here the whole time, but never saw him leave.&lt;NEXTPAGEBUTTON&gt;"He used a teleport scroll."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Kaia forbid! If that piece of horn came off of Karakhir, he must be in serious danger.&lt;BR&gt;&lt;BR&gt;Damage to an aman's horns is dreadful agony!&lt;BR&gt;&lt;BR&gt;If his horns were causing him such agony while the spell was taking effect, he might have teleported to the wrong coordinates.&lt;BR&gt;&lt;BR&gt;I must search for him.&lt;NEXTPAGEBUTTON&gt;"Okay. I'll help you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">No. You should stay, in case he's still around here somewhere.&lt;BR&gt;&lt;BR&gt;If you find him, please tell him to meet me here.&lt;BR&gt;&lt;BR&gt;It’s not much, but please accept this as a token of my gratitude.</Page>
+    </Text>
+</QuestDialog>

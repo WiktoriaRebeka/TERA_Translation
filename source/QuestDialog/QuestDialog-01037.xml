@@ -1,0 +1,87 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You helped restore {@Rgn:47001$$Tirkai Forest} and advanced Yasring's and the Mysterium's argon research in {@Rgn:45001$$Thrallhold}.&lt;BR&gt;&lt;BR&gt;You witnessed the transformation of small argons into other forms, including inanimate buildings. Ronalt, curious about the life energy coming from some argon structures tried to purify the argonization, but failed. In the meanwhile, Yasring headed for the Three Towers to continue research. You hear that the Core is located and return to Allemantheia.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">It's been a long time, &lt;PCNAME&gt;. You may not remember me.&lt;BR&gt;&lt;BR&gt;Your talents could unravel a puzzle holding back our work here in Veritas. Please come to the Sanctum Mysterium in {@Rgn:72001$$Allemantheia}, and I will explain.&lt;BR&gt;&lt;BR&gt;—{@linkcreature:72#1111#Ryshan}</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1111">
+        <Page social="4" voiceTypeId="0">Malachai...no, Thulsa collected our research results. He was deeply involved with the Argons...deceiving the Mysterium all this time.&lt;BR&gt;&lt;BR&gt;It seems that we was trying to combine both ours and the argon core to gain god-like power.&lt;BR&gt;&lt;BR&gt;On the bright side, Thulsa's research was shared to our researchers in northern Shara.&lt;BR&gt;&lt;BR&gt;Thanks to that, we're seeing great progress on the Argon research.&lt;NEXTPAGEBUTTON&gt;"That's a relief."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Do you remember {@linkcreature:247#2002#Yasring}?&lt;BR&gt;&lt;BR&gt;She's not with the Mysterium, but is an expert on Argon research.&lt;BR&gt;&lt;BR&gt;She gave us samples of her research, alongside with a letter for you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="3" villagerId="1022">
+        <Page social="4" voiceTypeId="0">Yasring? She came here to pick up a few reagents and left again to take a look at some argon construction.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="4" villagerId="2001">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! You got my letter! Thank you for coming.&lt;BR&gt;&lt;BR&gt;It's such an honor to work with you again. The purification is on track, but there's still plenty of unknown danger ahead.&lt;BR&gt;&lt;BR&gt;Not to mention that the Argons are behaving quite suspiciously these days.&lt;NEXTPAGEBUTTON&gt;"Is everything alright?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I've been discovering things about these argon structures—things that would make Elinu wake up and weep.&lt;BR&gt;&lt;BR&gt;I wrote up some notes for {@linkcreature:245#2002#Mitiel}. He's been doing lots of research into what the argons left behind. Could you take it to him?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="5" villagerId="2002">
+        <Page social="4" voiceTypeId="0">Yes? Is there something you needed?&lt;NEXTPAGEBUTTON&gt;"Yasring sent me with this message."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">I'll look this over. In the meanwhile, can I ask you for a favor?&lt;NEXTPAGEBUTTON&gt;"Of course."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">{@linkcreature:245#2003#Ronalt} wants to meet you. You should find him.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="6" villagerId="2003">
+        <Page social="4" voiceTypeId="0">We're all working on different aspects of what the argons left behind—plants, animals, even buildings that have been horribly transformed.&lt;BR&gt;Kupan here found a source of argon armor components. Unfortunately, he ran into a problem and could use your help.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" prevId="7" villagerId="2004">
+        <Page social="4" voiceTypeId="0">That's right. I can source anything from soup to nuts. Mmm...I'm hungry.&lt;BR&gt;&lt;BR&gt;Some armor components were on their way, but are just a bit overdue.&lt;BR&gt;&lt;BR&gt;I hope they weren't attacked. Will you look for the shipment at the rendezvous site? Churimon should be with it.&lt;BR&gt;I'll just find some lunch.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="8" villagerId="2005">
+        <Page social="9" voiceTypeId="0">{@linkcreature:245#2004#Kupan} sent you? We're saved! Our back wheel got stuck, and when I saw monsters, I ran. Could you take a look at the wagon...see if it can be fixed?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" prevId="9" villagerId="2012">
+        <Page social="0" voiceTypeId="0">(Churimon was right. The back wheel is stuck.)</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="10" villagerId="2005">
+        <Page social="8" voiceTypeId="0">I saw it trundle off. Got to love enchanted wagons, eh?&lt;BR&gt;&lt;BR&gt;At least we didn't lose {@linkcreaturecreature:245#2004#Kupan}'s shipment. Tell him we'll be there soon. Say, why don't you come see me at &lt;BR&gt;{@Rgn:45009$$Camp Insanity} some time? All the best argon research happens there.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" prevId="11" villagerId="2009">
+        <Page social="4" voiceTypeId="0">Your assistance with the wagon is much appreciated. Churimon's work might well benefit us all.&lt;BR&gt;&lt;BR&gt;As it happens, Churimon would like to speak with you again.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="245" prevId="12" villagerId="2011">
+        <Page social="9" voiceTypeId="0">&lt;PCNAME&gt;, I need {@linkcreaturecreature:245#2009#Ronalt} to take a look at a new research site I stumbled on.&lt;BR&gt;&lt;BR&gt;I don't want him to get killed in the process, though, so please accompany him to my new &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#-6907, -47629, -3938&amp;type=1&amp;name=research site"&gt;research site&lt;/A&gt;&lt;/font&gt;. Time is of the essence!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="245" prevId="13" villagerId="2009">
+        <Page social="4" voiceTypeId="0">What's all this about? I've never seen {@linkcreature:245#2011#Churimon} so excited.&lt;BR&gt;&lt;BR&gt;A new research site, eh? Sounds intriguing. Go on ahead—I'll meet you at the &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#-6907, -47629, -3938&amp;type=1&amp;name=research site"&gt;research site&lt;/A&gt;&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="245" prevId="14" villagerId="2010">
+        <Page social="10" voiceTypeId="0">This is terrible! If my readings here are accurate, anything can become argonified. Anything at all.&lt;BR&gt;&lt;BR&gt;Get back to camp, but on the way, grab me some &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#813, -53203, -3631&amp;type=1&amp;name=argonized plants"&gt;argonized plants&lt;/A&gt;&lt;/font&gt;. We have to get to the bottom of this or we'll all become argons.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="245" prevId="15" villagerId="2009">
+        <Page social="10" voiceTypeId="0">We've got everything we need. Let's begin.&lt;BR&gt;&lt;BR&gt;That sight gave me the answer...this might solve the argonization.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="245" villagerId="2009">
+        <Page social="0">Argonized plants! I need samples of them!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="245" prevId="16" villagerId="2009">
+        <Page social="4" voiceTypeId="0">It's all about turning the argonomorphing frequencies back on themselves so that they dissipate. That's the theory anyway.&lt;BR&gt;&lt;BR&gt;So here's the potion. Try using it on some poor argonized tuwangi, and we'll see what happens.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="245" prevId="18" villagerId="2028">
+        <Page social="1" voiceTypeId="0">Maybe {@linkcreaturecreature:245#2009#Ronalt}'s potion is working. Unlike others, this argon is not attacking you.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="245" prevId="19" villagerId="2009">
+        <Page social="4" voiceTypeId="0">That's not exactly the expected result. Something is missing, but what? Take these research notes to {@linkcreaturecreature:245#2002#Mitiel}. Maybe he can spot my mistake.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="245" prevId="20" villagerId="2002">
+        <Page social="4" voiceTypeId="0">Even though the outcome wasn't what we hoped, Ronalt was on the right track. I think we should consult with Yasring.&lt;BR&gt;&lt;BR&gt;Can you bring her here? She's gone to the Three Towers.&lt;NEXTPAGEBUTTON&gt;"Three Towers?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">It's where the argons are most concentrated...possibly their beachhead here.&lt;BR&gt;&lt;BR&gt;The argons still guard the Three Towers area...even we have trouble entering the area.&lt;BR&gt;&lt;BR&gt;So of course that's where Yasring went. I understand that place is like candy to researchers, but it's far too dangerous for anyone to go there alone—perhaps with the exception of you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;If you should find her still alive and well, please bring her here.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="245" prevId="21" villagerId="2001">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;? I guess you're finished helping the researchers!&lt;BR&gt;&lt;BR&gt;I've been here watching the argons carrying something to the tower. There must be something inside!&lt;BR&gt;&lt;BR&gt;Now, don't worry about me! I'm being very cautious.&lt;NEXTPAGEBUTTON&gt;"It's too dangerous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hold on! Someone's coming!</Page>
+    </Text>
+    <Text id="23" huntingZoneId="245" prevId="22" villagerId="2021">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! I'm glad I found you!&lt;BR&gt;&lt;BR&gt;The researchers told me that you were heading to the {@Rgn:46001$$The Three Towers}.&lt;BR&gt;&lt;BR&gt;Allemantheia Headquarters needs you right now!</Page>
+    </Text>
+    <Text id="24" huntingZoneId="245" prevId="23" villagerId="2021">
+        <Page social="5" voiceTypeId="0">I don't know what it's about. All I know is that it's classified. Go to Allemantheia and meet Fraya.&lt;BR&gt;&lt;BR&gt;I'll take Yasring back to the researchers. Let me know when you're ready. I'll send you back to the headquarters.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="245" prevId="23" villagerId="2021">
+        <Page social="5" voiceTypeId="0">Thank you. Don't worry about Yasring. I'll get her back safely.&lt;BR&gt;&lt;BR&gt;I just want you to know that the whole federation is always grateful for your service.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="72" prevId="23" villagerId="1103">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Commander Fraya is waiting for you. Please see yourself in.</Page>
+    </Text>
+</QuestDialog>

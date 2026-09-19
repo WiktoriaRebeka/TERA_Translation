@@ -1,0 +1,35 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">High Seeker Janiam judged the archdevan control pendant to be critical strategic information, and suggested to meet the High Elder of Highwatch, Verikam.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">Meet High Seeker Janiam.&lt;NEXTPAGEBUTTON&gt;"Sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2013">
+        <Page social="1" voiceTypeId="0">You should not be here, outlander. Highwatch is closed until this siege is lifted.&lt;NEXTPAGEBUTTON&gt;"Renish sent me to speak to you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">It certainly is not like Seeker Renish to burden me with trivial matters. But unless he has completed his investigation in Spring Valley, I cannot imagine why he would feel compelled to ask that I open the gates of Highwatch during a siege.&lt;NEXTPAGEBUTTON&gt;"Will this archdevan pendant explain things?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">"Archdevan...?" By Oriyn! This might be the key to breaking the siege!&lt;BR&gt;&lt;BR&gt;This pendant explains matters quite eloquently indeed, friend! Very well, you shall have passage to Highwatch!&lt;BR&gt;&lt;BR&gt;Continue up the northern road to the city's postern gate. When you arrive, seek out Verikam. He is our High Elder.&lt;NEXTPAGEBUTTON&gt;"I will. Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You will of course encounter other guards en route to the city. Master Sentry Madok guards the postern gate. Show him this pass. He will grant you entry.&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1201">
+        <Page social="1" voiceTypeId="0">You possess High Seeker Janiam's sigil? You must bear valuable information indeed.&lt;BR&gt;&lt;BR&gt;Welcome to Highwatch, Birthplace of Knowledge.&lt;NEXTPAGEBUTTON&gt;"I was told to seek the High Elder."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You can find High Elder Verikam in the center of Highwatch.&lt;BR&gt;&lt;BR&gt;The route is long and complicated, so talk to Daraon first. You will find him further up the trail, making repairs to the gate.&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="3401">
+        <Page social="1" voiceTypeId="0">You are no native of these lands. How did you come to be here?&lt;NEXTPAGEBUTTON&gt;"High Seeker Janiam sent me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I see...&lt;BR&gt;&lt;BR&gt;I am afraid I must ask why High Seeker Janiam sent you to Highwatch in the midst of a siege...?&lt;NEXTPAGEBUTTON&gt;"I have information for High Elder Verikam."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">How curious.&lt;BR&gt;&lt;BR&gt;Very well. The path to the High Elder is complex, so you will need to seek guidance at every turn.&lt;BR&gt;&lt;BR&gt;Begin by continuing along this road into the city, then seek Marmundam, Highwatch's Master Guard. He will show you to the House of the HIgh Elder.&lt;NEXTPAGEBUTTON&gt;"Got it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="2024">
+        <Page social="1" voiceTypeId="0">A stranger is a rare sight indeed these days—let alone an outlander!&lt;BR&gt;&lt;BR&gt;Allow me to bid you welcome to Highwatch. What compelled you to brave the siege to visit our city?&lt;NEXTPAGEBUTTON&gt;"I need to speak to High Elder Verikam."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">The High Elder is occupied with seeking a way to break this siege. I cannot allow you to disturb him unless it is vitally important.&lt;NEXTPAGEBUTTON&gt;"This pendant may be the answer he's seeking."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">This...I...you...&lt;BR&gt;&lt;BR&gt;I believe you are correct, &lt;PCNAME&gt;. Please proceed, and tell the High Elder that I urge him to speak with you immediately.&lt;NEXTPAGEBUTTON&gt;"I will. Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1007">
+        <Page social="1" voiceTypeId="0">Greetings, stranger. I can only imagine the trials and hardships you must have faced to have arrived here, in a city under siege, just to speak to me. And I have many questions about who you are, and where you came from.&lt;BR&gt;&lt;BR&gt;But the first question must be: Why have you sought me out?&lt;NEXTPAGEBUTTON&gt;"I may have found a way to defeat the archdevans."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">That would be very fortuitous, and I can see why that would be a valid reason for us to speak as soon as possible.&lt;BR&gt;&lt;BR&gt;By all means, tell me what you have found.&lt;NEXTPAGEBUTTON&gt;"These pendants control the demokrons."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Hmm...I see, and upon initial inspection, I concur. I must examine the device further, of course, but if your assertion proves correct, it could not only lift this siege, but put an end to this war altogether.&lt;BR&gt;&lt;BR&gt;I thank you on behalf of all of Highwatch for bringing this to me.&lt;NEXTPAGEBUTTON&gt;"I'm happy to help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You are a true friend of our people—and by the powers granted me, I now pronounce you an honorary citizen of Highwatch.&lt;BR&gt;&lt;BR&gt;You may pass freely through our gates from this point onward.&lt;BR&gt;&lt;BR&gt;Further, I wish you to have this: one of Oriyn's Relics. As you may have discovered, the one who pieces these together wields great power.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

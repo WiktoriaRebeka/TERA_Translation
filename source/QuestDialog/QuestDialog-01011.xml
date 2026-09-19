@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="4">The way east is blocked by {@LinkCreature:42#1300#besharan sellswords}. Those fiends can't interfere with our work.&lt;BR&gt;&lt;BR&gt;Kill them and collect their signets. I'll pay handsomely for each one.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1033">
+        <Page social="4">Good work. I knew you could get it done.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1033">
+        <Page social="0">You're taking care of those {@LinkCreature:42#1300#besharan sellswords}, right? No signets means no reward.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="489" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3003" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3003" prevId="0" villagerId="1002">
+        <Page social="4" voiceTypeId="0">There's a chamber in the refuge we've been unable to penetrate, locked tight with an Eldritch Seal.&lt;BR&gt;&lt;BR&gt;Fortunately for us, federation intelligence has come up with a solution: a seal deactivation scroll!&lt;BR&gt;&lt;BR&gt;Once we've used the scroll, we can figure out what these cultists are trying so hard to protect.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3003" prevId="2" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Argons? HERE!?!&lt;BR&gt;&lt;BR&gt;Oh, no.&lt;BR&gt;&lt;BR&gt;This means the Cult of Lok...and Atel Akaad...are working with the argons.&lt;BR&gt;&lt;BR&gt;This means doom.</Page>
+    </Text>
+</QuestDialog>

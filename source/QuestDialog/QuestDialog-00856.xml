@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1004">
+        <Page social="18">I've suspected the Tenebrara for some time. I've been sending a scout to keep an eye out just in case I was right.&lt;BR&gt;&lt;BR&gt;Go meet up with Pastin and find out what's going on.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1028">
+        <Page social="5">Hmm? Oh, Tarnan sent you to collect the report?&lt;BR&gt;&lt;BR&gt;Well, let's see. I've been watching these Tenebrara priests for a few days now. They've been casting spell after spell. Some of them look exhausted.&lt;BR&gt;&lt;BR&gt;I'm not sure what their motivation is, but I'm pretty sure their spells are what's affecting all the nearby animals. We can't just let them keep on.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1028">
+        <Page social="10">That can't have been easy. Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Now that we've managed to put a hold on these spells, we should find out what's caused the Tenebrara's sudden change in behavior.&lt;BR&gt;&lt;BR&gt;Search the documents in their base. See if you can find any clues.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="236" prevId="4" villagerId="1111">
+        <Page social="1">(There is a scroll in this file cabinet.)&lt;NEXTPAGEBUTTON&gt;Read the scroll.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2">(The scroll reads:&lt;BR&gt;&lt;BR&gt;Thulsa has not abandoned you, but you have let yourselves become weak.&lt;BR&gt;&lt;BR&gt;You must regroup and collect your strength before you can continue.&lt;BR&gt;&lt;BR&gt;-Killian)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="236" prevId="5" villagerId="1028">
+        <Page social="9">Killian? He must have gotten the Tenebrara leaders on his side. That explains so much.&lt;BR&gt;&lt;BR&gt;Unfortunately, that means this is worse than I thought.&lt;BR&gt;&lt;BR&gt;Can you catch Tarnan up on what's going on?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="236" prevId="6" villagerId="1004">
+        <Page social="10">Killian?&lt;BR&gt;&lt;BR&gt;Oh, this is terrible. I must speak to Melrasa right away.&lt;BR&gt;&lt;BR&gt;Thank you. Without your help, we wouldn't have this...horrifying news.</Page>
+    </Text>
+</QuestDialog>

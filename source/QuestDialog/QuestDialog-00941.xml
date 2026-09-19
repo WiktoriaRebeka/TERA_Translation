@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1025">
+        <Page social="4">We can't let the {@LinkCreature:39#280#arachnen devastators} have the run of this place. It puts our forces at too great a disadvantage.&lt;BR&gt;&lt;BR&gt;Cull their numbers lest they mass for an attack on our position.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1025">
+        <Page social="4">Good. That's one less thing to worry about. Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1025">
+        <Page social="0">We don't have the luxury of time here. I want the {@LinkCreature:39#280#arachnen devastators} dead!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1022">
+        <Page social="5">Between what they steal from our wagons and what they grow on those farms, those Heavens Fall folks eat pretty well! They sing thanks for their bounty every mealtime.&lt;BR&gt;&lt;BR&gt;Me, I haven't had more than trail rations! Not fair at all.&lt;BR&gt;&lt;BR&gt;I want you to sneak onto that farm and swipe their harvest. Let them know what it's been like for us!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1022">
+        <Page social="5">Roots and berries? Dried-out berries? Bwaha!&lt;BR&gt;&lt;BR&gt;This is what they've been singin' praises over? Even crazier than I thought!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1022">
+        <Page social="0">Get out there and steal me some fruit!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1022">
+        <Page social="5">Grrr!&lt;BR&gt;&lt;BR&gt;Tunvi just has to strut around in those new saberskin boots.&lt;BR&gt;&lt;BR&gt;I'm not jealous or anything...oh, who am I kidding? Yes I am! Say, can you do me a favor?&lt;NEXTPAGEBUTTON&gt;"What can I do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">It's ridiculous. I know you need to defend the federation and all, but those {@LinkCreature:15#10#rabid inky sabertooths} really do have nice fur.&lt;BR&gt;&lt;BR&gt;If I had some, I could knock Tunvi down a peg or two, which would certainly make me feel less defensive.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1022">
+        <Page social="5">Beautiful! I'm going to make a pair of gloves! This is for you. Thanks.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1022">
+        <Page social="0">Do you have the fur yet? Do you? Oh, I can hardly wait!</Page>
+    </Text>
+</QuestDialog>

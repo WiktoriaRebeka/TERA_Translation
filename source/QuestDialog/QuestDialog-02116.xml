@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3035" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="3035" prevId="0" villagerId="1001">
+        <Page social="0">Now, let's see how you set up Glyphs and EP.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">After arriving in Velik’s Sanctum, you started your training to become a true hero.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3035" prevId="1" villagerId="1001">
+        <Page social="0">Please equip the Glyphs you have. We’ll move on to setting up your Glyphs and EP.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3035" prevId="3" villagerId="1001">
+        <Page social="0">Good job! Now, on to the Skill Advancement.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3035" prevId="4" villagerId="1001">
+        <Page social="0">Good job! Now, next will be about the partners.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="3035" prevId="5" villagerId="1001">
+        <Page social="0">Good job! Now, let's move on to the Card Collection.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="3035" prevId="6" villagerId="1001">
+        <Page social="0">This time, let’s try and fight monsters.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="3035" prevId="7" villagerId="1001">
+        <Page social="0">You've completed all the tutorials. Now, it's time you for you to enter the world and become the hero I know you can be.&lt;BR&gt;Please use the "Reset Instances" button to leave this place.</Page>
+    </Text>
+</QuestDialog>

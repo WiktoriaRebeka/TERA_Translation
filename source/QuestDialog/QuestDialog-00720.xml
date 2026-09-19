@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0">Fraya insisted that Kaidun, who was captured by Thulsa, must still be alive and asked you to go rescue him. She gave you a pendant that remains lit as long as Kaidun lives. You infiltrated the Citadel of Torment and obtained the Tome of Agonies, which alerted you to the location of Thulsa's secret research facility, deep in the depths of the Citadel of Torment.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="5" voiceTypeId="0">A soldier must also be willing to let others take the actions she cannot.&lt;BR&gt;&lt;BR&gt;My duties are here, even if my heart is with Kaidun.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">The pendant doesn't lie. He lives still. If Ghufran is correct, Thulsa must have Kaidun somewhere nearby.&lt;BR&gt;&lt;BR&gt;Take Kaidun's pendant. It should help you.&lt;NEXTPAGEBUTTON&gt;"I'll find him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I wouldn't entrust you with this if that weren't true. {@linkcreature:73#1110#Harule} will help you. Good luck.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" prevId="3" villagerId="1110">
+        <Page social="5" voiceTypeId="0">Ghufran says Kaidun was captured when they infiltrated the Citadel of Torment, and he hasn't seen him since.&lt;BR&gt;&lt;BR&gt;It's not a safe place, the Citadel of Torment. Some say the monsters that roam its halls were created by Thulsa himself.&lt;BR&gt;&lt;BR&gt;Go speak with {@linkcreature:73#1009#Georrif}—he'll tell you who you ought to report to.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="73" prevId="4" villagerId="1009">
+        <Page social="5" voiceTypeId="0">The Citadel of Torment? You'll need to meet up with the special strike force, then.&lt;BR&gt;&lt;BR&gt;They do things their own way in there. If anyone can point you in the right direction, it's the strike team. Talk to {@linkcreature:232#1029#Maianwe}, the outrider on the bridge. She'll know what part of the citadel they're in.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="232" prevId="5" villagerId="1029">
+        <Page social="5" voiceTypeId="0">Pretty sure you shouldn't be going to the Citadel of Torment, since...wait, are you ? Oh wow!&lt;BR&gt;&lt;BR&gt;Still don't think you ought to go into the citadel. Nobody should go in there—why do you think I'm guarding the bridge?&lt;BR&gt;&lt;BR&gt;It's the giant fortress up there, the one pulsing with necromantic magic? Full of strange, undead creatures that Thulsa left behind? If you're dead set on going in, report to Captain {@linkcreature:233#1001#Alssiyah}. She's on the first floor today.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="233" prevId="6" villagerId="1001">
+        <Page social="5" voiceTypeId="0">I don't have a problem with you being here, , but we have no idea where Kaidun might be. As far as any of us knew, he was on Mount Tyrannas. {@linkcreature:233#1003#Meygren} has been leading the investigation of the citadel. Get his report and see if anything leaps out at you.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="233" prevId="7" villagerId="1003">
+        <Page social="5" voiceTypeId="0">Look, I'm good, but I can't work miracles. Thulsa's necromancy still lingers over every inch of this fortress. My magic can't search beyond it.&lt;BR&gt;&lt;BR&gt;You might try some reconnaissance, though. Our scouts report that the Verminath jesters on the fourth floor have been talking about Thulsa's plans. It's a good place to start. Listen in before you eliminate them...and watch out for those creepy dolls that swarm around.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="233" prevId="8" villagerId="1003">
+        <Page social="4" voiceTypeId="0">Tome of Agonies? Let me see...&lt;BR&gt;&lt;BR&gt;Oh dear. It's...instructions for...ugh, I don't want to say. Horrifying practices.&lt;BR&gt;&lt;BR&gt;But it mentions a secret research facility somewhere in the depths of the Citadel of Torment. Strange.&lt;NEXTPAGEBUTTON&gt;"Citadel of Torment?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">If Kaidun is still alive, that's the only place he could be. There's a Mysterium researcher holding down the post in the catacombs of this place. {@linkcreature:233#1008#Lastair}'s his name. He should be able to help you find this secret facility.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="233" villagerId="1003">
+        <Page social="0">Did you find out anything from the jesters?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="233" prevId="9" villagerId="1008">
+        <Page social="5" voiceTypeId="0">A Necromancer Tomb in the depths? No chance. I would have found it.&lt;BR&gt;&lt;BR&gt;Unless it's behind the shield. There's a place in the Bloody Depths that's shielded by powerful magic. I haven't broken through it yet—I've been busy.&lt;BR&gt;&lt;BR&gt;But no shield is impenetrable. Every lock has a key.</Page>
+    </Text>
+</QuestDialog>

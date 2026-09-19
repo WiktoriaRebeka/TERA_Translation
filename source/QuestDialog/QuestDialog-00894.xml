@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="5">They're going to skin me alive if I go back without a good excuse, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;You know, cryptkeeper kulkaris have surrounded the Crypt of the Forsaken. If I said I was late because of them, and that you and I fought together to defeat them, no one would even bring up the "several days late" part.&lt;BR&gt;&lt;BR&gt;And my story would be at least half-true, right?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1032">
+        <Page social="6">Well, &lt;PCNAME&gt;, you've spared me one of Galla's lectures about tardiness.&lt;BR&gt;&lt;BR&gt;She can be very naggy sometimes.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1032">
+        <Page social="0">It's gonna take more ears than that to impress Galla.</Page>
+    </Text>
+</QuestDialog>

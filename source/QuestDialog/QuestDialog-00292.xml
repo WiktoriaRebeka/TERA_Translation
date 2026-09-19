@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">It's hard to report back to Otus. The {@LinkCreature:11#2003#Red Lash sentinels} may not be smart, but they're sharp-eyed.&lt;BR&gt;&lt;BR&gt;I think they're noticing some inconsistencies in my disguise. Body language, maybe? I'm not sure.&lt;BR&gt;&lt;BR&gt;If they were too worried about a murderous &lt;PCCLASS:lcase&gt; to notice, me, though...hey, that's a plan!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">What a relief. Getting this disguise together took a lot of work. All it takes is one overly curious sentinel to ruin everything.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1006">
+        <Page social="4">Your first job down here is going to be to kill the melee fighters patrolling the Halls of Utterdark. The {@LinkCreature:20#30120100#devan outriders}, {@LinkCreature:20#30120101#assassins}, and {@LinkCreature:20#30141000#lokian reapers} all carry scrips that {@LinkCreature:220#1029#Kurbain} will find of interest. He's researching the hierarchy of the organization that's taken over here. Give him any help you can.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1029">
+        <Page social="4">Oh, fantastic, I needed more of these.&lt;BR&gt;&lt;BR&gt;You said Arthgal sent you here? Good man. He knows I've needed help here for some time.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1029">
+        <Page social="0">Are you here for something?</Page>
+    </Text>
+</QuestDialog>

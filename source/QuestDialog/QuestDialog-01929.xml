@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Soldier, my comrades and I require assistance, and you look like a pretty capable &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;What's in it for you, you ask? Well, besides getting to know me, the Hands of Velika reward generously for a job well done.&lt;BR&gt;&lt;BR&gt;If your interest is thoroughly piqued, go talk to {@LinkCreature:63#3003#Elthienne} over there.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">So, you spoke to Taratia? She's persuasive, eh? That's why we keep her around! I kid. Actually, no, that is why.&lt;BR&gt;&lt;BR&gt;Listen, if you want to help, we desperately need an item crafted. But this is no pair of booties for your sister's kid. We need someone highly skilled.&lt;BR&gt;&lt;BR&gt;Does that describe you? Good. Deliver your completed craft to Barian. You'll be compensated, of course.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;See {@LinkCreature:63#3002#Taratia} if you want to see your reward.&lt;BR&gt;&lt;BR&gt;See what I did there? &amp;quot;See her&amp;quot; if you want to &amp;quot;see&amp;quot; your reward. Wait, that wasn't funny at all.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft five {@RawItem:206812} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3001">
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;See {@LinkCreature:63#3002#Taratia} if you want to see your reward.&lt;BR&gt;&lt;BR&gt;See what I did there? &amp;quot;See her&amp;quot; if you want to &amp;quot;see&amp;quot; your reward. Wait, that wasn't funny at all.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft five {@RawItem:206813} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3001">
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;See {@LinkCreature:63#3002#Taratia} if you want to see your reward.&lt;BR&gt;&lt;BR&gt;See what I did there? &amp;quot;See her&amp;quot; if you want to &amp;quot;see&amp;quot; your reward. Wait, that wasn't funny at all.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft five {@RawItem:206814} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="13" villagerId="3001">
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;See {@LinkCreature:63#3002#Taratia} if you want to see your reward.&lt;BR&gt;&lt;BR&gt;See what I did there? &amp;quot;See her&amp;quot; if you want to &amp;quot;see&amp;quot; your reward. Wait, that wasn't funny at all.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft five {@RawItem:206815} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="15" villagerId="3001">
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;See {@LinkCreature:63#3002#Taratia} if you want to see your reward.&lt;BR&gt;&lt;BR&gt;See what I did there? &amp;quot;See her&amp;quot; if you want to &amp;quot;see&amp;quot; your reward. Wait, that wasn't funny at all.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft five {@RawItem:206816} and deliver it to me as soon as you can.&lt;BR&gt;You're a life-saver.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="3002">
+        <Page social="4">You're on fire! And coming from a castanic, that's saying a lot.&lt;BR&gt;&lt;BR&gt;Your aid to the Hands of Velika and our cause will not be forgotten. Please visit us again.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1037">
+        <Page social="4">Our scouts' hard work just paid off. We think we've located where the pylons are coming from. Prefect Thenuvia needs this information as soon as possible.&lt;BR&gt;&lt;BR&gt;Naturally, there's only one soldier I'd entrust it to—you!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">Kaia preserve Ghabar and all the vanguards! This is great news!&lt;BR&gt;&lt;BR&gt;If we can keep these pylons from reaching the battlefield, Thulsa will have to commit his forces—and then we can tear them apart! Hah!</Page>
+    </Text>
+</QuestDialog>

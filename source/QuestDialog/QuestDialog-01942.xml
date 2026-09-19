@@ -1,0 +1,84 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">We do lots of magic around here, but mechanical engineering is the key to a future of convenience and efficiency.&lt;BR&gt;&lt;BR&gt;The Collegium Arcane carries various textbooks on mechanical engineering. Study them, then come back. We'll take a test.&lt;BR&gt;&lt;BR&gt;You like tests, right?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1710">
+        <Page social="4">Mechanical engineering includes &lt;font color='#0000FF'&gt;material studies&lt;/font&gt; that explain the solidity and transformation of materials. (Details omitted.)&lt;BR&gt;&lt;BR&gt;Kinetophysics explains &lt;font color='#0000FF'&gt;velocity, acceleration, and vibration&lt;/font&gt; caused by external forces or motion. (Details omitted.)&lt;BR&gt;&lt;BR&gt;The &lt;font color='#0000FF'&gt;theory of mechanics&lt;/font&gt; explains interactions among mechanical components. (Details omitted.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">Did you study hard?&lt;BR&gt;&lt;BR&gt;Then let's take a test.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">What's the name of the science that explains the solidity and transformation of materials?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">You're completely off base.&lt;NEXTPAGEBUTTON&gt;"But studying is hard!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Too bad. Go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">No, kinetophysics explains dynamics caused by external forces and motion.&lt;NEXTPAGEBUTTON&gt;"I always get them confused."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Well, the cure for your confusion is to go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Wrong! I even gave you a hint: the word "materials."&lt;NEXTPAGEBUTTON&gt;"I should have studied."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Indeed. Here's your chance: go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Correct. I see you actually read the book. These days, so few do.&lt;NEXTPAGEBUTTON&gt;"So that was right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, you may have a knack for kinetophysics.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">What's the name of the science that explains interactions among mechanical components?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Furniture science? Only someone as dumb as doorknob would answer that!&lt;NEXTPAGEBUTTON&gt;"I should have paid attention."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I'll give you another chance. Go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Correct again, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"These questions aren't that hard."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh, you'd be surprised at the mouth-breathers we get in here.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Acceleration is a type of motion, yes, but I'm asking about the grand theory that incorporates everything.&lt;NEXTPAGEBUTTON&gt;"This was in the book?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, it was. Go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Wrong answer. And we demand perfection!&lt;NEXTPAGEBUTTON&gt;"Can I try again?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">How could I say no to a second chance at perfection? Back to the Collegium Arcane with you!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">These three elements of kinetophysics are caused by external forces and motion. What are they?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">You forgot vibration, and you need all three.&lt;NEXTPAGEBUTTON&gt;"It was on the tip of my tongue."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Then you won't need much more study. Go back to the Collegium Arcane and hit the books!</Page>
+    </Text>
+    <Text id="20" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Psychokinesis? Let me stop you there. Completely wrong.&lt;NEXTPAGEBUTTON&gt;"I've been reading a lot lately."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Not enough, it seems. Go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Perhaps we have a master among us!&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Indeed you did! Kinetophysics seems to suit you.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="72" prevId="4" villagerId="1704">
+        <Page social="0">Wrong! Are you sure you studied?&lt;NEXTPAGEBUTTON&gt;"Well, it felt like studying."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Did it really? Recapture that sensation! Go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="72" prevId="18" villagerId="1704">
+        <Page social="4">Mechanical engineering is the foundation of unified theory. Study it hard if you want to become a great theoretician.</Page>
+    </Text>
+</QuestDialog>

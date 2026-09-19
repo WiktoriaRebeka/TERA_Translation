@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2011">
+        <Page social="0">As requested by Stefanna, you delivered tanning oil to a Castanic who is tanning.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2011">
+        <Page social="6">Hello there, &lt;PCNAME&gt;. Are you enjoying some fun in the sun?&lt;BR&gt;&lt;BR&gt;Unfortunately, I can't relax, myself. I've fallen behind in my delivery orders, and I can't take a break until everyone has their tanning oil.&lt;BR&gt;&lt;BR&gt;I don't suppose you could help me with that...?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="4">Thank you so much, &lt;PCNAME&gt;! Now let's see...&lt;BR&gt;&lt;BR&gt;I have four different clients waiting for tanning oil, but this one's been waiting the longest. Here. Could you take this bottle of tanning oil to her?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="210" prevId="2" villagerId="2011">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="210" prevId="3" villagerId="2201">
+        <Page social="4">You aren't Stefanna. That's...disappointing. Did she say anything about me?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="210" prevId="3" villagerId="2203">
+        <Page social="4">It's about time! I was starting to smolder!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="210" prevId="3" villagerId="2116">
+        <Page social="4">What took you so long? Oh, I see: Stefanna's relaxing on the beach while you run her errands. Typical.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="210" prevId="3" villagerId="2118">
+        <Page social="4">Ah, Stefanna's tanning oil, at last! Have you tried it? You simply must! It's the absolute best!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="210" prevId="11" villagerId="2011">
+        <Page social="4">Thank you so much, &lt;PCNAME&gt;! It's just too hot out to be making deliveries. You should take a break.&lt;BR&gt;&lt;BR&gt;Here, put this on—it'll keep the sun out of your eyes.</Page>
+    </Text>
+</QuestDialog>

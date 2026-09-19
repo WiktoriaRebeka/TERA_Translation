@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1019">
+        <Page social="4">As incredible as it seems, those {@LinkCreature:15#4#castanic} and {@LinkCreature:15#5#amani recruits} were stationed at the federation garrison here when the plague first struck. Their madness has irretrievably twisted them.&lt;BR&gt;&lt;BR&gt;I weep for them, and for their families.&lt;BR&gt;&lt;BR&gt;I fear the only kindness we can do them now is to end their misery. It's time they joined the rolls of Velika's honored dead.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1010">
+        <Page social="5">Good work, &lt;PCNAME&gt;. I'll get these amulets to their families.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1010">
+        <Page social="0">It's the right thing to do, &lt;PCNAME&gt;. Rest assured.</Page>
+    </Text>
+</QuestDialog>

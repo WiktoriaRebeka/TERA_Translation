@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mystel has sent you to the past.&lt;BR&gt;Hearing that a horde of dragons is attacking Elenea, you go to Elenea yourself, and find Verdas, still alive.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">The banquet in Velika—a celebration peace—was ruined when an enormous Black Dragon appeared and destroyed the city.&lt;BR&gt;The death of the goddess Velik shook the citizen to their core, but Mystel arrived just in time to teleport you to safety...into the past.&lt;BR&gt;&lt;BR&gt;You appeared in Velika, three days before the banquet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="0" voiceTypeId="0">Ah, &lt;PCNAME&gt;. I just sent you an invitation to the banquet.&lt;BR&gt;&lt;BR&gt;The city has decided to throw a party, and it's essentially in your honor.&lt;BR&gt;&lt;BR&gt;All that we've done together, the challenges we've faced...It's almost too much to remember, isn't it?&lt;BR&gt;&lt;BR&gt;Still, there's no shortage of problems to deal with...&lt;NEXTPAGEBUTTON&gt;&amp;quot;I don't remember that...&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Dragons are attacking Elenea. The troops there don't stand a chance without some support, so I sent the bulk of the Velika city guard to help them.&lt;BR&gt;&lt;BR&gt;I've never seen dragons acting together like this... but it's unlikely that Lakan or his followers have anything to do with it.&lt;BR&gt;&lt;BR&gt;I'm sorry to ask, especially right before the banquet, but would you go to Elenea and help our troops?&lt;BR&gt;&lt;BR&gt;Talk to Maius about transport.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1604">
+        <Page social="0" voiceTypeId="0">Hello, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Heading to Elenea?&lt;BR&gt;If you hurry, I think you can still catch up with Bellenun.&lt;BR&gt;&lt;BR&gt;Bellenun can get you there, and get you on the right track.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1133">
+        <Page social="0" voiceTypeId="0">So, you're going to Elenea! That's a relief! The dragons are already more than our troops can handle, and they just keep coming.&lt;BR&gt;&lt;BR&gt;They'll be relieved to hear you're going to help. I can get you on your way to Elenea.&lt;BR&gt;&lt;BR&gt;Just tell me when you're ready to move out.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="833" prevId="5" villagerId="1026">
+        <Page social="0" voiceTypeId="0">Yes, the reinforcements have arrived from Velika, thank the gods.&lt;BR&gt;&lt;BR&gt;Verdas? No, I don't know anyone by that name.&lt;BR&gt;&lt;BR&gt;Is he a friend of yours? Maybe he's over there with the wounded soldiers.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="4">The {@LinkCreature:20#30048000#hammerhand slaves} and {@LinkCreature:20#30048001#stonecrusher slaves} in the southern section of the cave in the Halls of Shadow are blocking the way to the central part of the Halls of Utterdark. We've got to clear a path.&lt;BR&gt;&lt;BR&gt;Head over there and see what you can do.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1014">
+        <Page social="4">Oh, good. Now we can get supplies down there.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1022">
+        <Page social="4">Miss real food! Don't like bland human and elfy food, though do like spiced humans and elves!&lt;BR&gt;&lt;BR&gt;Really crave some orcan jerky. Took some when I left, but ran out. Sooo goooood!&lt;BR&gt;&lt;BR&gt;Maybe you bring me more?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1022">
+        <Page social="0">Oh, yes! At last! Thank you!&lt;BR&gt;&lt;BR&gt;Yum. Soooo good. You want? Promise, no elf or human in there.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1022">
+        <Page social="0">I just want orcan jerky. Know there's some where my people gather. Orcans have great taste.</Page>
+    </Text>
+</QuestDialog>

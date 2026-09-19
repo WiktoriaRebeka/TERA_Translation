@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="1010">
+        <Page social="5" voiceTypeId="0">Well, you see...our Head Researcher ordered us to close the fishery.&lt;BR&gt;I'm sorry, but you'll have to take it up with him yourself.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; caught an ancient fish with unusual scales to save the Murcai Fishery.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="1001">
+        <Page social="1" voiceTypeId="0">What brings you here? Fishing?&lt;BR&gt;&lt;BR&gt;I'm sorry, but we simply cannot allow people to use the fishery right now. All this activity is seriously disrupting our research.&lt;BR&gt;&lt;BR&gt;I'm doing very careful experiments on a rare powder found only in this location. Our original sample is almost gone, and with all this fishing going on, we can't get any more.&lt;BR&gt;&lt;BR&gt;It's not personal, it's for the Mysterium.&lt;NEXTPAGEBUTTON&gt;"Won't you reconsider?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">I suppose if you could collect the powder for us...&lt;BR&gt;&lt;BR&gt;No, I don't know how to do it either. You'll have to figure that out on your own.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="9903">
+        <Page social="1" voiceTypeId="0">Rare powders? It sounds like he's talking about the scales of a Giant Catfish!&lt;BR&gt;&lt;BR&gt;It's an almost legendary BAF that can only be caught here, with scales so fine they sparkle like diamonds.&lt;BR&gt;&lt;BR&gt;Hey, I've got an idea! If you catch a Giant Catfish, the director will have enough scales for dozens of experiments! What do we have to lose? Let's catch that fish!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="4" villagerId="1001">
+        <Page social="1" voiceTypeId="0">This fish's scales are the source of our powder? Fascinating...&lt;BR&gt;&lt;BR&gt;With a fish of this size, not only can we continue our experiments, but we'll have a great lunch!&lt;BR&gt;&lt;BR&gt;Please let the fishery manager know as long as he can supply us with these scales, the fishery can stay open indefinitely.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" villagerId="1001">
+        <Page social="0">Have you completed your task?&lt;BR&gt;&lt;BR&gt;We need that powder to continue our experiments.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="5" villagerId="9903">
+        <Page social="1" voiceTypeId="0">The fishery is saved!&lt;BR&gt;&lt;BR&gt;Thank you so much. Please, take this reward.</Page>
+    </Text>
+</QuestDialog>

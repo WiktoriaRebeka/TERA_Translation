@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1016">
+        <Page social="4">Prefect Baraz needs reinforcements! The situation's unclear, so take caution. Remember, Dragonfall's safety is paramount.&lt;BR&gt;&lt;BR&gt;Head out to Dakonan Overwatch and help him out. Take the field!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1006">
+        <Page social="4">I do need help, but for Amena Quatla, not the overwatch.&lt;BR&gt;&lt;BR&gt;Khulil asked for anyone I could spare. I've got no one, so I sent word to Dragonfall.&lt;BR&gt;&lt;BR&gt;The sikandaris are behind the disappearances—they're sacrificing our people to awaken Sikander. Get to Crimson Hammer Camp and help Khulil!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" prevId="3" villagerId="1006">
+        <Page social="4">Baraz sent you? Great! I'll take all the help I can get. It's time to knuckle down and take the fight to the sikandaris!</Page>
+    </Text>
+</QuestDialog>

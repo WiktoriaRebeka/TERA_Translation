@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="4">First thing's going to be taking care of the ones we can see—those {@LinkCreature:16#2205#Stalker Company scouts}, {@LinkCreature:16#2206#warriors}, {@LinkCreature:16#2207#blademasters} and {@LinkCreature:16#2208#assassins}.&lt;BR&gt;&lt;BR&gt;With them in the lead, it won't take long for the threat to reach Popolion. We can't have that.&lt;BR&gt;&lt;BR&gt;Bring back those rings they wear—we'll show their friends that we can be in it for the money, too.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1008">
+        <Page social="5">You've got the rings? Good, give them here.&lt;BR&gt;&lt;BR&gt;Oh, I know just what to do with these.&lt;BR&gt;&lt;BR&gt;Good work, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1008">
+        <Page social="0">Haven't left yet? Not scared, are ya?</Page>
+    </Text>
+</QuestDialog>

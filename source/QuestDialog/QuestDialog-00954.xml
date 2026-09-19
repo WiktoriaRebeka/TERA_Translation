@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">A mutating plague struck near Frontera, turning its victims into horrifying, murderous mutants. Commander Fraya believed Thulsa was somehow involved. Her aide, Ibar, sent you to investigate. You defeated the Legion of Thulsa, who were using Thulsa's necromantic magic to create the plague. No sign of Thulsa was found, but you uncovered plans for mass-producing the magic stones that cause the plague.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5" voiceTypeId="0">Mission Orders:&lt;BR&gt;&lt;BR&gt;Begin an immediate investigation into the mutating plague spreading through Val Palrada.&lt;BR&gt;&lt;BR&gt;Access Allemantheia Heaquarters via {@LinkCreature:72#1104#the headquarters gatekeeper}, then report to Commander Fraya for your mission briefing.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">I don't like the stories coming out of Val Palrada—people turning into murderous mutants, the dead rising from the grave...They sound like fantasies, but our commanders in the field know better than to exaggerate. They say it's a plague.&lt;BR&gt;&lt;BR&gt;I need your help.&lt;NEXTPAGEBUTTON&gt;"You can count on me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Thank you. The Quarantine Zone is in Val Palrada.&lt;BR&gt;&lt;BR&gt;Most of the villagers are at Frontera. But who knows when the plague will start again.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I need you there.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="518" prevId="3" villagerId="1001">
+        <Page social="5" voiceTypeId="0">I'd be amazed if Thulsa wasn't involved. Necromancy, dark transformations—and Kaidun said Thulsa was headed to Val Parada with the Core.&lt;BR&gt;&lt;BR&gt;Let me know when you're ready. We'll get a closer look.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="518" prevId="3" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Thulsa won't be easy. Prepare yourself.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="75" prevId="3" villagerId="1023">
+        <Page social="5" voiceTypeId="0">I'm glad you're here. The Mysterium has researchers here, to no one's surprise. They say they see no connection to Thulsa, but that seems unlikely.&lt;BR&gt;&lt;BR&gt;Go inside the quarantine zone and find evidence.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">An offer of services to the Mysterium contingent there may enable &lt;PCNAME&gt; to learn something.&lt;BR&gt;&lt;BR&gt;Take the north road, then turn west as you leave the town. Good luck.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="240" prevId="6" villagerId="1007">
+        <Page social="5" voiceTypeId="0">The Mysterium is convinced that this plague is not a thing of nature, but a creation of dark magic.&lt;NEXTPAGEBUTTON&gt;"Dark magic?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We think the {@linkcreature:40#30#mutant tribladers} have evidence, but you'll have to fight them for it.&lt;BR&gt;&lt;BR&gt;We have operatives in the Quarantine Zone—Narpa is the one in charge. He'll need whatever evidence you can find.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="240" prevId="7" villagerId="1035">
+        <Page social="5" voiceTypeId="0">Federation? Me too! These skull crests? Hmmm...that confirms it, then.&lt;BR&gt;&lt;BR&gt;Some of Thulsa's followers, the Legion of Thulsa, set up a big stone northwest of the Quarantine Zone.&lt;NEXTPAGEBUTTON&gt;"A big stone?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">They call it an eldritch shard, and it has the same crest carved on it.&lt;BR&gt;&lt;BR&gt;It reminds me of that stone they found at the heart of all the madness in Popolion.&lt;NEXTPAGEBUTTON&gt;"Then we need to destroy the stone."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Way ahead of you. Take this bomb and blow that thing up! While you're exploding this and that, I'll see what else I can learn here.&lt;BR&gt;&lt;BR&gt;Oh, and watch out for {@linkcreature:40#32#zombie miners}. Nasty, nasty things. Report to {@linkcreature:240#1015#Grayol} when you're done with it.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="240" prevId="8" villagerId="1015">
+        <Page social="5" voiceTypeId="0">Your acts have shed light on a rather gloomy situation, &lt;PCNAME&gt;. Lashirah at the Quarantine Zone Research Center will want news of this—she has the unenviable job of staving off the Legion of Thulsa, and whatever causes them pain is sure to bring her joy.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="240" prevId="9" villagerId="1004">
+        <Page social="5" voiceTypeId="0">The Legion of Thulsa is in an uproar, thanks to you! And rumor has it that Fraya believes the mutation plague is the work of Thulsa. Is that true?&lt;NEXTPAGEBUTTON&gt;"That's what she believes, yes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Legate Mureksark commands the legion's stronghold just at the top of the cliffs near the Abandoned Mines. I'm guessing there's some evidence to be found up there of the legion's connection to Thulsa.&lt;BR&gt;&lt;BR&gt;Take out Mureksark and find out what you can.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="240" prevId="10" villagerId="1050">
+        <Page social="4" voiceTypeId="0">Look at this! It's plans for more magic stones—they were planning on mass-producing them. There'd be mutation plague across the entire continent! Thankfully, there aren't that many suitable locations for doing that.&lt;NEXTPAGEBUTTON&gt;"Would you like me to start looking?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">First we'll stop their flow of materials. There are only two places they can obtain these materials—from Allemantheian command, or from the Mysterium.&lt;BR&gt;I find both possibilities disturbing.&lt;BR&gt;&lt;BR&gt;We must find their source. Now!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="240" villagerId="1050">
+        <Page social="0">Have you learned anything new?</Page>
+    </Text>
+</QuestDialog>

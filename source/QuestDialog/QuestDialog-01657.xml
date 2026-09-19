@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1020">
+        <Page social="4" voiceTypeId="0">You know what makes me angry? People who refer to the "art of alchemy."&lt;BR&gt;&lt;BR&gt;It's a science, people!&lt;BR&gt;&lt;BR&gt;For example, rigorous, peer-reviewed research tells me inside the Golden Labyrinth one can find blood crystals—congealed pain from the labyrinths' many victims.&lt;NEXTPAGEBUTTON&gt;"Science says that?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Yes! There's a whole method and everything!&lt;BR&gt;&lt;BR&gt;Science involves sacrifice, too. Like those people who died in the Golden Labyrinth to make the blood crystals you're going to gather.&lt;BR&gt;&lt;BR&gt;It's all quite scientific.&lt;NEXTPAGEBUTTON&gt;"What do blood crystals do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We don't know...yet! We need to do more science!&lt;BR&gt;&lt;BR&gt;But the distilled essence of life-ending pain...that's got to be fascinating, right?&lt;BR&gt;&lt;BR&gt;Now go get those blood crystals. Science says so!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Blood crystals...excellent. I can feel the pain from here.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1020">
+        <Page social="0">You're not afraid of a little pain, are you?</Page>
+    </Text>
+</QuestDialog>

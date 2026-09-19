@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1007">
+        <Page social="5">&lt;PCNAME&gt;, I think I've found something important!&lt;BR&gt;&lt;BR&gt;As I'm sure you know, mind magic is the rarest and hardest to work. Magic on the scale that afflicts us is beyond the scope of any individual—but not a group!&lt;BR&gt;&lt;BR&gt;If I'm right, the instructors may be to blame!&lt;NEXTPAGEBUTTON&gt;"The instructors? Impossible!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">It's unthinkable, not impossible. I need you to search the instructors trunks in the eastern classroom on the second floor. There may also be clues in the Athenaeum.&lt;BR&gt;&lt;BR&gt;Move quickly! If we cannot regain control of the academy, the federation may destroy it—and everyone in it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1007">
+        <Page social="5">You're back! I hope your mission was successful. I saw the prefects going a little crazier, and it chilled my blood.&lt;BR&gt;&lt;BR&gt;Let's see what you found. Hmm. This isn't good, but it may point to a solution.&lt;BR&gt;&lt;BR&gt;I've work to do. Power shield you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1007">
+        <Page social="0">This is no time to dawdle! Children are dying!</Page>
+    </Text>
+</QuestDialog>

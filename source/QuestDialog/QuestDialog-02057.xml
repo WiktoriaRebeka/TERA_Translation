@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="1183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Find the {@linkcreature:183#2207#Old Tome} in Hall of Knowledge at Highwatch.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; visits the Veritas Vault in Highwatch and reads about the history of the valkyries.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2207">
+        <Page social="0" voiceTypeId="0">(It looks like this book was moved recently.)&lt;NEXTPAGEBUTTON&gt;Read the book.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;BR&gt;It was a cold night.&lt;BR&gt;&lt;BR&gt;Thanksgiving was usually full of joy and happiness with the bright moonlight shining upon us. But that day was different.&lt;BR&gt;&lt;BR&gt;The thought of something could go wrong wouldn't get out of my head. Something went wrong. Really wrong.&lt;BR&gt;&lt;BR&gt;Mutated Poporis suddenly swarmed our farm. The grownups went out and fought. My sister and I were too little, so we stayed inside.&lt;BR&gt;The villagers didn't stand a chance. There were too muny of them. Soon, the mutants came inside the farm.&lt;NEXTPAGEBUTTON&gt;Read the next page.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;BR&gt;I couldn't move. My sister had to grab my hand, drag me to the back door.&lt;BR&gt;My sister threw me out the door and cried out&lt;BR&gt;&lt;BR&gt;"Run! Don't look back!"&lt;BR&gt;&lt;BR&gt;I did what she said. I didn't look back. I just ran.&lt;BR&gt;But the mutants kept chasing me. I don't remember how long I kept running. I got tired and the mutants were getting closer.&lt;NEXTPAGEBUTTON&gt;Read the next page.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">When I fell down, it seemed as if the moonlight shimmered. It was almost as if the moon shattered into pieces.&lt;BR&gt;But it wasn't the moon. A mutant fell down and before I could notice it, they were all gone.&lt;BR&gt;When I woke up, a runeglaive and a letter were lying on the ground.&lt;BR&gt;&lt;BR&gt;"Just as the moonlight guided my path to you, I hope this runeglaive will help you."&lt;BR&gt;&lt;BR&gt;After I read the letter, I knew what to do. I grabbed the runeglaive and headed back. Back to Popolion.&lt;BR&gt;(The next page is torn out.)&lt;BR&gt;&lt;BR&gt;Quoted from [Valkyrie Journal], author unknown&lt;NEXTPAGEBUTTON&gt;Close the book.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

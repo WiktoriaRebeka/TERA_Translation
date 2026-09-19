@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Salutations, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;My name is Amarre, and I'm an expert on ecosystems.&lt;BR&gt;&lt;BR&gt;I arrived at the Stronghold of Blood with a request to investigate the butterflies.&lt;BR&gt;&lt;BR&gt;I need to go deeper inside, but I'm afraid it's too dangerous by myself.&lt;BR&gt;&lt;BR&gt;The Mysterium told me that you'd be willing to help.&lt;BR&gt;&lt;BR&gt;Please help me &lt;PCNAME&gt;.&lt;BR&gt;Sincerely&lt;BR&gt;&lt;BR&gt;- Amarre</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">With the help of Amarre, &lt;PCNAME&gt; returned to the Stronghold of Blood.&lt;BR&gt;&lt;BR&gt;The Mysterium Researchers were having difficulties with the recent increase in the number of butterflies, and asked &lt;PCNAME&gt; to discover the cause of the increased numbers.&lt;BR&gt;&lt;BR&gt;Barurung escorted &lt;PCNAME&gt; and Amarre to Elleon, who was struggling to stop the butterflies by himself.&lt;BR&gt;&lt;BR&gt;Elleon guided &lt;PCNAME&gt; and Amarre to a butterfly nest that he had found. &lt;PCNAME&gt; decided to investigate the nest.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="1" villagerId="1100">
+        <Page social="4" voiceTypeId="0">Thank you for coming, &lt;PCNAME&gt;. As I said in my letter, I'm Amarre, and I'm an expert on ecosystems—biological systems, and how they interact.&lt;BR&gt;&lt;BR&gt;The Mysterium asked me to investigate the regions afflicted by the crystallization disease. Unfortunately, I need to go further in to gather samples and observe the ecosystem, but it would be too dangerous for me alone.&lt;BR&gt;&lt;BR&gt;The Mysterium said that you were the best person to ask for help. Will you help me, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"It's my pleasure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I haven't been associated with the Mysterium for a while. I did not give up my position as a researcher on the best of terms.&lt;BR&gt;&lt;BR&gt;Things must be pretty bad if the Mysterium is asking for my help. Perhaps the researchers who came before can shed some light on this...?&lt;BR&gt;&lt;BR&gt;Can you ask Kailey if she has any information?&lt;BR&gt;&lt;BR&gt;In the meantime, I need to go check on the researchers, but I'll be back shortly.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" prevId="3" villagerId="1110">
+        <Page social="4" voiceTypeId="0">Welcome, &lt;PCNAME&gt;. I thought Amarre might send you to me. Thank you for helping her.&lt;BR&gt;&lt;BR&gt;I'm sorry, but I have to get back to the site. We're trying to find a way to slow down the influx of butterflies.&lt;BR&gt;&lt;BR&gt;But we've been documenting everything we've discovered. It's all in the Research Journal there on the desk.&lt;BR&gt;&lt;BR&gt;Please take a look.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="4" villagerId="1150">
+        <Page social="0" voiceTypeId="0">Stronghold of Blood. Crystallization Research Journal, Entry #7&lt;BR&gt;&lt;BR&gt;- Butterflies multiplying at unusual rate. Researcher who went deeper inside stronghold has been injured. Requested Mysterium to send support. Expert help promised.&lt;BR&gt;&lt;BR&gt;- Condition of injured researcher getting worse. Initial affected area has spread to the whole arm. Researcher in excruciating pain.&lt;BR&gt;&lt;BR&gt;- Pain medications ineffective. Researchers demoralized.&lt;BR&gt;&lt;BR&gt;- Butterflies continue to multiply.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="27" prevId="5" villagerId="1140">
+        <Page social="4" voiceTypeId="0">Hey, are you &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Elleon sent me to find you!&lt;BR&gt;&lt;BR&gt;He is trying to find out why the butterflies keep multiplying, but he's having a very hard time.&lt;BR&gt;&lt;BR&gt;He said he needs you. Get Amarre and come with me.&lt;BR&gt;&lt;BR&gt;It's not far to the location.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="27" prevId="6" villagerId="1100">
+        <Page social="4" voiceTypeId="0">I heard what that furry messenger said. The butterflies are still multiplying?&lt;BR&gt;&lt;BR&gt;Based on what I just saw, if they really are increasing, this land will be completely uninhabitable within a matter of days.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you should see what I saw.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="27" prevId="7" villagerId="1141">
+        <Page social="4" voiceTypeId="0">The amber powder...it's everywhere!&lt;BR&gt;&lt;BR&gt;I heard that it's dangerous!&lt;BR&gt;&lt;BR&gt;I don't want my fur to get messed up. You go and clear a path through the Mournwings.&lt;BR&gt;&lt;BR&gt;I'll stay here and, uh, protect the lady...until it's safe to pass.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="27" prevId="8" villagerId="1142">
+        <Page social="0" voiceTypeId="0">I can't believe we made it all the way here! I can't wait to tell my friends!&lt;BR&gt;&lt;BR&gt;&lt;PCName&gt;, there are more butterflies up ahead. A lot of them.&lt;BR&gt;&lt;BR&gt;Where could they be coming from...?&lt;BR&gt;&lt;BR&gt;We'd better investigate!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="27" prevId="9" villagerId="1003">
+        <Page social="4" voiceTypeId="0">I've been waiting for you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I needed someone I can trust.&lt;BR&gt;&lt;BR&gt;I've been trying to slow down the butterflies, but there seems to be no end to them.&lt;BR&gt;&lt;BR&gt;I assume that your companions are here on behalf of the Mysterium?&lt;NEXTPAGEBUTTON&gt;"That's right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">An ecosystem expert? That'll be great help, indeed.&lt;BR&gt;&lt;BR&gt;I found something interesting while I was fighting the butterflies. It's the greatest concentration of them I've seen yet.&lt;BR&gt;&lt;BR&gt;It seems likely that it's related to their ever-increasing numbers.&lt;BR&gt;&lt;BR&gt;I was planning to go inside, but if I didn't make it out, I wanted someone else to know where the entrance was.&lt;BR&gt;&lt;BR&gt;Let me show you.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="27" prevId="10" villagerId="1105">
+        <Page social="4" voiceTypeId="0">Did you see that?&lt;BR&gt;&lt;BR&gt;Some of those butterflies just came out of that opening!&lt;BR&gt;&lt;BR&gt;These thorns...they aren't native to the Stronghold of Blood. How did these get here? We need to see if there's more inside.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="27" prevId="11" villagerId="1161">
+        <Page social="4" voiceTypeId="0">I was right.&lt;BR&gt;&lt;BR&gt;I would go with you but...Jelena isn't here for me and...it's just too dangerous.&lt;BR&gt;&lt;BR&gt;I'm sorry. I'll have to explain later.&lt;BR&gt;&lt;BR&gt;Barurung, please report what you saw here to Jelena and the federation.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;. Amarre. Will you two investigate the opening?&lt;BR&gt;&lt;BR&gt;I'll stay here and try to stop any more butterflies from getting out.</Page>
+    </Text>
+</QuestDialog>

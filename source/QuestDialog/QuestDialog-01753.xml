@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="6002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="6002">
+        <Page social="4" voiceTypeId="0">Look, I know you want to take Titus with you, but his work provides 68% of our income!&lt;BR&gt;&lt;BR&gt;We can't just let him go.&lt;NEXTPAGEBUTTON&gt;"What can I do to help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Calculating...) So, we can make it up in volume, but we need to secure our supply lines to do it.&lt;BR&gt;&lt;BR&gt;If you don't agree to escort one of the Mysterium's self-driving wagons to the patrol camp at Casidhe's Stand, there's a 98.7% chance that orcans will steal the shipment. Go and help Gazarun safely deliver our materials.&lt;BR&gt;&lt;BR&gt;I'll leave the ultimate decision about Titus with Gazarun.&lt;NEXTPAGEBUTTON&gt;"The Orcans won't touch a thing."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="510" villagerId="41">
+        <Page social="0">(The wagon is fully loaded and looks heavy. This might take a while.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="2" villagerId="6000">
+        <Page social="4" voiceTypeId="0">Aha!&lt;BR&gt;&lt;BR&gt;You must be the special escort Duzorun hired!&lt;BR&gt;&lt;BR&gt;Job well done!&lt;BR&gt;&lt;BR&gt;I don't like it, but I hereby consent to a temporary leave of absence for Titus. But I'm trusting you to bring him back in one piece!&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="5">The tuwangis keep wandering out of their area. It was all fine and good until they started attacking our soldiers.&lt;BR&gt;&lt;BR&gt;There's just nothing to be done about them! I can't talk to them, but killing them seems...extreme. They're almost people!&lt;NEXTPAGEBUTTON&gt;"Is there no other way?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Well, now that you mention it, I've heard rumors from herb gatherers here and there that there is actually a potion that allows the drinker to speak the tuwangi language.&lt;BR&gt;&lt;BR&gt;If the ingredients I heard were right, I'll need {@LinkCreature:205#1023#Quagmire Herb Sap} and {@LinkCreature:5#5#Muddy Sporewalker Mucus}.&lt;BR&gt;&lt;BR&gt;Not pleasant to handle, but easy enough to find. What do you say?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1023">
+        <Page social="0">(This quagmire herb has fresh, healthy leaves. It looks to be exactly what you were asked to gather.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1002">
+        <Page social="5">Wow. I forgot how terrible that stuff smelled! And you want me to do what with it? Hrm.&lt;BR&gt;&lt;BR&gt;Well, since it's for Jaedon, go ahead and give it here.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" villagerId="1002">
+        <Page social="0">Do you have what I need?</Page>
+    </Text>
+</QuestDialog>

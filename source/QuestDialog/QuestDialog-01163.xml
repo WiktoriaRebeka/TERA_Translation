@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1023">
+        <Page social="4">Our scouts reported a new type of argon near the {@Rgn:49002}. They said the creatures ate iteris shards, if you can believe that.&lt;BR&gt;&lt;BR&gt;Head out there, kill some suulvir raptors, and bring any shards you find. We must learn if the argons can change the shards on their own.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1023">
+        <Page social="6">Intriguing. I can feel the difference, but I can't explain it. Bah. I'll leave that to our Mysterium friends.&lt;BR&gt;&lt;BR&gt;They're not using them against us and for now, that'll suffice. Fine work.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1023">
+        <Page social="0">The iteris shards are vital to the war effort—ours and theirs. Kill some raptors and bring me at least three shards for comparison.</Page>
+    </Text>
+</QuestDialog>

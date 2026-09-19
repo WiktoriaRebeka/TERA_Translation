@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="4">The Red Lash pirates moved in force to Mistmoor Island. And they're spending more time on land than we'd like.&lt;BR&gt;&lt;BR&gt;The pirates were actually easier to deal with when they had a full-fledged fleet, believe it or not.&lt;BR&gt;&lt;BR&gt;Report to Vindicator Outpost, on the southern coast of Mistmoor Island. They'll put you to work.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">Munam sent you? And not just to get a "left-handed wrench" or a "campfire smoke sample?" Either he's distracted or worried.&lt;BR&gt;&lt;BR&gt;And he should be worried. The Red Lash pirates are everywhere. They're working with a bunch of gula slavers called the Kazuur Syndicate.&lt;BR&gt;&lt;BR&gt;So welcome to Mistmoor Island. Come for the sandy beaches, stay for the target-rich environment.</Page>
+    </Text>
+</QuestDialog>

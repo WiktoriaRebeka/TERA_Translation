@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">(This document appears blank, but when held with both hands displays a glowing rune. Examining it, you remember seeing someone in Highwatch with a similar design on his armor.) &lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Accepting this quest will destroy this document.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="9999">
+        <Page social="4">That rune! By Kaia's mercy, I thought all of those were lost to time!&lt;BR&gt;&lt;BR&gt;What you have in your hands is a knowledge rune, used by ancient amani master craftsmen to record their most powerful designs. My own family has done quite well translating and applying these to modern weapons and armor.&lt;BR&gt;&lt;BR&gt;With your permission, may I examine the document?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="9999">
+        <Page social="4">Fantastic. These designs...if your skill is sufficient to the task, you will soon craft some remarkable things.&lt;BR&gt;&lt;BR&gt;I have translated the document so that you can upgrade your equipment. I look forward fighting alongside you someday, and seeing the results.</Page>
+    </Text>
+</QuestDialog>

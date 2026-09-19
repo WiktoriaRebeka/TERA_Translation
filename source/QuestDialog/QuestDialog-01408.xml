@@ -1,0 +1,86 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="60" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, please come to Allemantheia Headquarters. There's a job for you. -Fraya</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; was appointed captain of a task force to take down Exodor. In Spring Valley, Ryshan told you that the federation will not be able to defeat Exodor without Titus, an explosives expert who was notorious during the Argon War. &lt;PCNAME&gt; located Titus, but Titus would not go without the consent of the Badge Merchants.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="1" villagerId="1001">
+        <Page social="0" voiceTypeId="0">I heard what's happening in Essenia.&lt;BR&gt;&lt;BR&gt;Between enraged monsters and the crystallization, it's just too much for the people of Essenia to bear.&lt;BR&gt;&lt;BR&gt;I'd go myself and deal with the problem, but...&lt;NEXTPAGEBUTTON&gt;"You shouldn't leave the city."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">...I know. That's why I wanted you to come.&lt;BR&gt;&lt;BR&gt;We need to destroy the source of the Murderwings. And I believe the time is now.&lt;NEXTPAGEBUTTON&gt;"What do you mean?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That skycastle...Exodor.&lt;BR&gt;&lt;BR&gt;It's appeared in Spring Valley, right on the doorstep of Highwatch.&lt;BR&gt;&lt;BR&gt;I'm forming a task foce to deal with it, and recommended you be their leader.&lt;BR&gt;&lt;BR&gt;Seir will be here any minute to give you the details.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="518" prevId="3" villagerId="1200">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;. Exodor has appeared in Spring Valley. We don't know why...but everywhere it goes, destruction follows.&lt;BR&gt;&lt;BR&gt;The Valkyon Federation thinks this is our only chance to bring Exodor down.&lt;NEXTPAGEBUTTON&gt;"What's our first step?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Go to the Amadjuak Trading Post and meet Dougal. I've deployed as many men as I could to the area, and they're waiting for you to take command.&lt;BR&gt;&lt;BR&gt;The Mysterium will support us with siege weapons, so you should take Ryshan with you.&lt;BR&gt;&lt;BR&gt;Here he comes now.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="6021">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;. I was just organizing our men.&lt;BR&gt;&lt;BR&gt;You see that up there?&lt;BR&gt;That's Exodor.&lt;BR&gt;&lt;BR&gt;The Goblins say that it came out of the dark with a violet aura...and hasn't moved since.&lt;NEXTPAGEBUTTON&gt;"I need a closer look."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I scouted the area by land, but we should be prepared for the worst.&lt;BR&gt;&lt;BR&gt;Please deliver this Weapon Crate to Kamilia in Seeker's Overwatch.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="6020">
+        <Page social="0" voiceTypeId="0">You must be &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;It's an honor to meet you. Can you please place the crate over there?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"And you must be Kamilia."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I'm here to do what I must.&lt;BR&gt;&lt;BR&gt;Dougal and Ryshan have established a firebase not far down the road.&lt;BR&gt;&lt;BR&gt;You should be there too.&lt;BR&gt;&lt;BR&gt;Don't worry. I can handle things here.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="6000">
+        <Page social="0" voiceTypeId="0">That enormous thing must be Exodor. We won't stand a chance against that thing.&lt;BR&gt;&lt;BR&gt;If only Titus was here...&lt;NEXTPAGEBUTTON&gt;"Who's Titus?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah, that's right. You wouldn't know him.&lt;BR&gt;&lt;BR&gt;Everyone knows about Muhrak and Karakhir. But there was another famous engineer during the Argon War. Titus made the most powerful siege weapons anyone had ever seen.&lt;BR&gt;&lt;BR&gt;He wasn't formally a soldier, just a Mysterium researcher. After the war, he left the public eye, citing boredom as the reason.&lt;NEXTPAGEBUTTON&gt;"We should find him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Well, like most castanics, he hates boredom and loves to wander the world.&lt;BR&gt;&lt;BR&gt;Why don't you go to the Amadjuak Trading Post. The goblins there are good at finding people.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="7" villagerId="6036">
+        <Page social="0" voiceTypeId="0">Krrk! What you want!&lt;NEXTPAGEBUTTON&gt;"Do you know the name Titus?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Titus? Krrk! Information is money.&lt;BR&gt;You need to pay. Krrk!&lt;BR&gt;Pay!</Page>
+        <Page social="0" voiceTypeId="0">Good. Krrk!&lt;BR&gt;&lt;BR&gt;Qeldar Station have good things. But hard. Krrk! Go help station.&lt;BR&gt;Find Paidun. Krrk!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="181" prevId="8" villagerId="5010">
+        <Page social="0" voiceTypeId="0">Krrk! Who is it!&lt;BR&gt;You want deal? Krrk!&lt;BR&gt;&lt;BR&gt;Krrk! Remember now. Teruita send soldier. Krrk!&lt;NEXTPAGEBUTTON&gt;"Do you know about Titus?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Pay for information. Krrk!&lt;BR&gt;&lt;BR&gt;Roundbeak Watcher feather. Good.&lt;BR&gt;Give me feather. Krrk!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="181" prevId="9" villagerId="5010">
+        <Page social="0" voiceTypeId="0">Lots of feathers. Worth many. Krrk!&lt;BR&gt;Feel good. Krrk!&lt;BR&gt;&lt;BR&gt;But information worth more. Krrk!&lt;NEXTPAGEBUTTON&gt;"Isn't that enough?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Krrk! No! Mysterium don't know. Federation don't know. But goblin know.&lt;BR&gt;&lt;BR&gt;Must pay!&lt;NEXTPAGEBUTTON&gt;"What else do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Paidun's relic. Stolen. Krrk! Miners take away relic. Want it back. Krrk!&lt;BR&gt;Bring it back. Krrk!&lt;BR&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="181" villagerId="5010">
+        <Page social="0">Get feathers. Krrk!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="181" prevId="10" villagerId="5014">
+        <Page social="0" voiceTypeId="0">What else could that goblin be doing?&lt;BR&gt;This is why people always say that the goblins are greedy.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, what brings you here?&lt;NEXTPAGEBUTTON&gt;"Did Paidun do something wrong?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">This area has a lot of buried relics, which is why we have a research center here.&lt;BR&gt;&lt;BR&gt;I saw that goblin running with a relic in his hands, so I asked the guards to retrieve it.&lt;BR&gt;&lt;BR&gt;He must have cut some kind of deal with those miners!&lt;NEXTPAGEBUTTON&gt;"You've got that backwards."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Wh...what?&lt;BR&gt;&lt;BR&gt;I'm so sorry. I had no idea. Well, &lt;PCNAME&gt; I trust you, and apparently so does this goblin.&lt;BR&gt;&lt;BR&gt;I just wish people would come to us for help, instead of taking matters into their own hands!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="181" prevId="12" villagerId="5012">
+        <Page social="0" voiceTypeId="0">Why! Paidun not steal! Krrk! Not thief! Is Paidun's relic!&lt;BR&gt;&lt;BR&gt;Krrk...you help Paidun. Got relic back.&lt;BR&gt;&lt;BR&gt;Krrk...Paidun give you information.&lt;NEXTPAGEBUTTON&gt;"What do you know about Titus?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Titus. Long horn man.&lt;BR&gt;&lt;BR&gt;Makes weird thing.&lt;BR&gt;&lt;BR&gt;Horn man with Badge Merchants now. Krrk.&lt;BR&gt;&lt;BR&gt;Make things for them.&lt;NEXTPAGEBUTTON&gt;"Where can I find him?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Badge Merchants, krrk. Make magic and sell. Krrk.&lt;BR&gt;&lt;BR&gt;Paidun meet merchant.&lt;BR&gt;&lt;BR&gt;They make new magic with Ancient Tombstone. Go to Celestial Hills.&lt;BR&gt;&lt;BR&gt;Merchants at camps. Krrk!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="207" prevId="13" villagerId="6000">
+        <Page social="0" voiceTypeId="0">You must be new here! Are you looking for magic or potions? Just let me know and I'll find it for you!&lt;BR&gt;&lt;BR&gt;I'm very busy, but never too busy for a paying customer!&lt;NEXTPAGEBUTTON&gt;"Do you know Titus?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah! You want to see Titus's work? Do you have anything in mind?&lt;NEXTPAGEBUTTON&gt;"No, I want to see him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Aww...you don't even want to take a look?&lt;BR&gt;&lt;BR&gt;Well, Titus's left for Godric's Farm with my brother Ozarun.&lt;BR&gt;&lt;BR&gt;You'll probably find him there.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="7" prevId="14" villagerId="6001">
+        <Page social="0" voiceTypeId="0">No...no! Not like this...Those scumbags! I'll show them!&lt;NEXTPAGEBUTTON&gt;"What's wrong?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Seems to have passed out.)</Page>
+    </Text>
+    <Text id="16" huntingZoneId="7" prevId="15" villagerId="6002">
+        <Page social="0" voiceTypeId="0">I'm alive! I just pretended to be dead because I was so scared. But my brother is going to kill me for sure...&lt;BR&gt;&lt;BR&gt;I told him! I told him we have to watch out for the orcans...that fool...&lt;NEXTPAGEBUTTON&gt;"Are you hurt?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">No, I'm fine. I need to check if everything is in place first...or my brother will...&lt;BR&gt;&lt;BR&gt;The people at Godric's Farm should be waiting for me. Can you go there and tell them what happened?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="207" prevId="16" villagerId="6002">
+        <Page social="0" voiceTypeId="0">Hmm...this is bad for our sales...&lt;BR&gt;&lt;BR&gt;(Trying to keep calm after noticing &lt;PCNAME&gt;.)&lt;BR&gt;&lt;BR&gt;Are you here to purchase anything? I'm sorry but I can't sell anything at the moment. If you need anything let me know and I'll get back to you.&lt;NEXTPAGEBUTTON&gt;"Ozarun's wagon was attacked."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Attacked!?&lt;BR&gt;&lt;BR&gt;Are the goods...I mean, are Ozarun and Titus alright?&lt;NEXTPAGEBUTTON&gt;"Yes, they're alright."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Really? That's a relief. We have a big deal ahead of us.&lt;BR&gt;&lt;BR&gt;On behalf of the Badge Merchants, I thank  you.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="207" prevId="17" villagerId="6001">
+        <Page social="0" voiceTypeId="0">Thank you very much.&lt;BR&gt;Even with our fellow merchants, trust is all that matters. We must let each other know when something happens.&lt;BR&gt;&lt;BR&gt;I'm alright....but Titus doesn't seem to be so well...&lt;NEXTPAGEBUTTON&gt;"Titus?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That's Titus over there.&lt;BR&gt;&lt;BR&gt;He's not hurt, but I'm sure his pride is.&lt;BR&gt;I told him we have to be careful...&lt;NEXTPAGEBUTTON&gt;"I need to talk to him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">By the looks of him, he won't hear a thing.&lt;BR&gt;&lt;BR&gt;He's a bit out of sorts, he might need a potion from the wine barrel over there. Why don't you take him one?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="207" prevId="18" villagerId="6003">
+        <Page social="0" voiceTypeId="0">I lost... to an orcan...&lt;BR&gt;&lt;BR&gt;They came out of nowhere... If only Marda was here...&lt;BR&gt;&lt;BR&gt;Huh? Who are you?&lt;NEXTPAGEBUTTON&gt;"I've been looking for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I said who are you!&lt;BR&gt;&lt;BR&gt;Are you from the Mysterium?&lt;BR&gt;&lt;BR&gt;I already told you I won't join again! I won't!&lt;NEXTPAGEBUTTON&gt;"The federation needs a new weapon."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">What? A new weapon, you say?&lt;BR&gt;&lt;BR&gt;To defeat a powerful foe? It must be the most powerful foe you've met right? That's why you were looking for me! Haha!&lt;BR&gt;&lt;BR&gt;Go on, tell me more.&lt;NEXTPAGEBUTTON&gt;"Well..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Fascinating. A floating target...but this is useless. My contract with the Badge Merchants is long-term. They agreed to keep me safe and mostly sober for at least fifteen years, in exchange for exclusive rights to my creations.&lt;BR&gt;&lt;BR&gt;I'd like to help you, but you'd need to talk to them first.</Page>
+    </Text>
+</QuestDialog>

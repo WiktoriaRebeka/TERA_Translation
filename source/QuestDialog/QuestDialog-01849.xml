@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">{@LinkCreature:245#3510#Surdan} put in a request for field support. Naturally, we thought of you.&lt;BR&gt;&lt;BR&gt;Head to Field Bace Tenacity and do what you can to help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="4">Oh, yes. There's so much to study and so little time.&lt;BR&gt;&lt;BR&gt;You could best aid me by collecting specimens for study. Nothing too dangerous for a soldier like you, of course.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">Ah, horntoad ichor. Intriguing.&lt;BR&gt;&lt;BR&gt;I detect several differences in this—argon contamination, no doubt.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" villagerId="3510">
+        <Page social="0">Ichor from {@LinkCreature:45#2002#argonomorph horntoads} will make an excellent research sample.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">I'll analyze the blood and try to find the source of the contamination. &lt;BR&gt;&lt;BR&gt;Let's hope we get something.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" villagerId="3510">
+        <Page social="0">The corrupted blood of {@LinkCreature:45#2001#argonomorph blood fiends} would make an excellent subject of study.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="3" villagerId="3510">
+        <Page social="4">Perhaps we'll unlock some link between the corrupted creatures. Thank you.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" villagerId="3510">
+        <Page social="0">I want to analyze duckweed growing near the natural habitat of the {@LinkCreature:45#2002#argonomorph horntoads}.&lt;BR&gt;&lt;BR&gt;It might help isolate the argons' changes.</Page>
+    </Text>
+</QuestDialog>

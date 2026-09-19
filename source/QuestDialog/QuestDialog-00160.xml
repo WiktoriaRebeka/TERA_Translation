@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="0" voiceTypeId="0">Welcome back, &lt;PCNAME&gt;. Hendry and I agree that you were invaluable in exposing the link between the devas and the cultists in Oblivions Woods.&lt;BR&gt;&lt;BR&gt;That revelation has made us question some other attacks that have been occurring recently—specifically, raids on outlying farms by massive beasts known as kumases.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1009">
+        <Page social="4" voiceTypeId="0">We were wondering why they would attack farms like that. They're normally pretty indolent—but if the cult of Lok is manipulating them somehow, it would explain a lot!&lt;BR&gt;&lt;BR&gt;Report to {@linkcreature:207#1005#Heroth} at Godric's Farm. He'll let you know what you can do to help the farmers there.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1005">
+        <Page social="4" voiceTypeId="0">You're &lt;PCNAME&gt;? Good. Listen up.&lt;BR&gt;&lt;BR&gt;See those stones out there with the blue markings? They just appeared recently. The researchers here are calling them baetyliths. The kumases can't resist them, and apparently neither can the researchers.&lt;BR&gt;&lt;BR&gt;I need to find out where the baetyliths came from, but I also need to keep these eggheads safe. Before I can authorize any surveys, I need to make sure the kumases aren't going to cause problems.&lt;BR&gt;&lt;BR&gt;That's where you come in. Look for the kumas leader. Its name is Radat. Kill it.&lt;BR&gt;&lt;BR&gt;That's it.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="4" villagerId="1005">
+        <Page social="4" voiceTypeId="0">You handled that quite well. Good work. Without their leader, the other kumases should get bored and wander away.&lt;BR&gt;&lt;BR&gt;While you were out there, I got word that one of the researchers, {@LinkCreature:207#1009#Siria}, has some important findings...but the roads are too dangerous for her to bring her report to me.&lt;BR&gt;&lt;BR&gt;She should be in a small camp at the edge of the Omphalos Plains. Head down there and get her report.&lt;BR&gt;&lt;BR&gt;That's it.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="5" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Heroth sent you? Hmph. He was supposed to come himself. He gets all flustered around me, and it's just so cute...!&lt;BR&gt;&lt;BR&gt;Well, I suppose you'll have to do.&lt;BR&gt;&lt;BR&gt;I've learned that the reason the kumases are so obsessed with the baetyliths is that the stones have ancient arcane markings on them. The language of the gods. That type of stuff.&lt;BR&gt;&lt;BR&gt;These stones weren't here originally; the nagas brought them...and then the kumases started showing up. There's a kumas out there called Kadas, and it's got an amulet with markings in the same language. I'd like to get a closer look at it. I sure can't just go grab it myself, so I'm thinking maybe you...?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="6" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Wow, you got it! That's great!&lt;BR&gt;&lt;BR&gt;Now I need something else to compare this with. So next, I need you to head out to the fields where the &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#55019,9993,1935&amp;type=1&amp;name=baetyliths"&gt;baetyliths&lt;/A&gt;&lt;/font&gt; are, and pick up some of the shards. Then just bring them back to me. Easy as can be!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="207" villagerId="1009">
+        <Page social="0">Blast and damnation! It's just one kumas. You've killed so many already. I just want you to kill one more, and bring me its amulet. Please, hurry!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="207" prevId="7" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Let's have a look.&lt;BR&gt;&lt;BR&gt;Hmm...just as I thought. These amulets are made from the same material as the baetyliths themselves. But it's more concentrated in the amulet.&lt;BR&gt;&lt;BR&gt;My guess is the amulets collect and store the power from the baetyliths.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="207" villagerId="1009">
+        <Page social="0">No, no, you need to bring me some baetylith shards to compare the amulet against. A hypothesis needs to be tested!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="207" prevId="9" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Some of the baetyliths seem to generate more power than the others. They're easy to recognize—they literally spark and crackle with energy. They might be what connects the baetyliths and the kumases.&lt;BR&gt;&lt;BR&gt;Poke around a bit, will you? If the {@LinkObject:45#sparking baetyliths} are important, someone or something will try to prevent you from finding out. One way or the other, this should tell us a lot!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="207" prevId="11" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Imps? I’m guessing they work for the kumases.&lt;BR&gt;&lt;BR&gt;It means whatever it is that they’re taking from the baetyliths, the kumases don’t want to share. &lt;BR&gt;&lt;BR&gt;Take my report to Mattin at the Sanctum Mysterium, south of here. Meanwhile, I’m going back to Godric’s farm to finish up my report... and show Heroth what he’s been missing.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="207" prevId="12" villagerId="1001">
+        <Page social="4" voiceTypeId="0">A report from Siria? Let me see...&lt;BR&gt;&lt;BR&gt;Sounds like she's got a handle on the kumas problem, all right. Thank you for bringing this.</Page>
+    </Text>
+</QuestDialog>

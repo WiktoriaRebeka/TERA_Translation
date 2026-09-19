@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2010">
+        <Page social="0">You built sand castles with Langon.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2010">
+        <Page social="4">Hehe. Glad to see you again, &lt;PCNAME&gt;! I knew you'd be back!&lt;BR&gt;&lt;BR&gt;The most fun you can have at the beach is building a sand castle, wouldn't you say?&lt;BR&gt;&lt;BR&gt;I know I would! I make sand castles three times a day!&lt;BR&gt;&lt;BR&gt;No one makes better sand castles than me. Hehehe!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2010">
+        <Page social="6">Super fun, eh? Hehehe—the most fun ever!</Page>
+    </Text>
+</QuestDialog>

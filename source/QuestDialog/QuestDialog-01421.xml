@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">I used to make these hats that were all the rage with officers and other leaders.&lt;BR&gt;&lt;BR&gt;But the main component, the leadership plume—you can't find those anymore. Not unless you've been hoarding one in a bank vault somewhere.&lt;NEXTPAGEBUTTON&gt;"Yo ho!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Well, I'll be! You've had this gathering dust for a while, huh?&lt;BR&gt;&lt;BR&gt;Okay, I'm game: What color do you want?&lt;NEXTPAGEBUTTON&gt;"Well..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Just so you know, you can't just find leadership plumes anymore. So if you don't already have one, don't waste your time.</Page>
+    </Text>
+</QuestDialog>

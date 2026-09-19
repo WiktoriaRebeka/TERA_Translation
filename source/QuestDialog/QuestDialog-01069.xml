@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1025">
+        <Page social="4">Here in Raga Shadi, the argons were vivisecting creatures for some reason. You know what vivisecting is, right? It's like an autopsy, except the subject isn't dead yet.&lt;BR&gt;&lt;BR&gt;As grisly as that is, we want to know what the argons learned. And the way to do that is to get to the flask-like containers where they've stored something. Something important.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1025">
+        <Page social="4">Weirdly mutilated corpses, eh? Well, it's a clue. I have some experiments of my own to perform—nothing gory, I promise—to figure out what the argons were up to.&lt;BR&gt;&lt;BR&gt;While I'm doing that, go to the Shineroot Chamber and help Platanok.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1025">
+        <Page social="0">It's not gonna be pleasant, whatever's in those containers, &lt;PCNAME&gt;. But we have to know.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1024">
+        <Page social="4">I trust Alecian fares well?&lt;BR&gt;&lt;BR&gt;My research is, I confess, at a standstill. There are some obstacles to overcome, but perhaps your presence will change that.&lt;BR&gt;&lt;BR&gt;Every journey starts somewhere. Let us begin.</Page>
+    </Text>
+</QuestDialog>

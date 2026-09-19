@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1010">
+        <Page social="5">We need to delay the Scions of Lok, slow their research down while we catch up. Like us, they're after the vast powers in this region. If you were to steal their tools, that task might well be impossible.&lt;BR&gt;&lt;BR&gt;Run through the Cardovek Remnants and snatch their toolboxes. Let's see how much research they get done with only their claws!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1010">
+        <Page social="5">Hah! A little guerrilla warfare is just what the scholars ordered.&lt;BR&gt;&lt;BR&gt;Now, it's up to us to get our act together. Thanks, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1010">
+        <Page social="0">You can't just stand here and watch! Steal those toolboxes before the Scions gain an insurmountable advantage!</Page>
+    </Text>
+</QuestDialog>

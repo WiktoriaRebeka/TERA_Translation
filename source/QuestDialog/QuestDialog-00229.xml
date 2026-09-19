@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1025">
+        <Page social="0">(This book appears to be the Centurion's journal. It contains stories about an evil cult that's behind the gulas and about how the cultists brought {@LinkCreature:9#1400#Azarel's juggernaut} and {@LinkCreature:9#1410#labyrinthine stalkers} here. One particular entry stands out. It says these monsters can be defeated by pulling out their teeth.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">&lt;PCNAME&gt;, you're amazing! I once received a report about the maze monster, but I wasn't sure if we could even get through its protectors.&lt;BR&gt;&lt;BR&gt;Obviously the monster shows the level of threat we're facing, and our risk has doubled since the cultists are in cooperation with the gulas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">Did you really defeat those giant monsters?</Page>
+    </Text>
+</QuestDialog>

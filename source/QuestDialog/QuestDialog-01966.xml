@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="9903">
+        <Page social="2" voiceTypeId="0">&lt;PCNAME&gt;! It's an emergency!&lt;BR&gt;&lt;BR&gt;I got a letter from the Sanctum Mysterium and they want to close down our Fishery.&lt;BR&gt;We might never fish here again!&lt;BR&gt;&lt;BR&gt;Will you go and have a talk with {@linkcreature:207#1010#Meridien}?&lt;BR&gt;&lt;BR&gt;And of course you shouldn't go empty handed.&lt;NEXTPAGEBUTTON&gt;"What should I take?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3" voiceTypeId="0">This recipe should do the trick.&lt;BR&gt;&lt;BR&gt;I haven't met anyone who doesn't like a fish dish!&lt;BR&gt;&lt;BR&gt;Give {@linkcreature:207#1010#Meridien} a marinated fish.&lt;BR&gt;&lt;BR&gt;You can buy most of the ingredients from a Fishing Supplies merchant, or buy the dish direct from the Trade Broker.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">On the way to Sanctum Mysterium, &lt;PCNAME&gt; answered a distress call from Meridien.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="1010">
+        <Page social="4" voiceTypeId="0">That...that's  marinated fish.&lt;BR&gt;&lt;BR&gt;Are you attempting to bribe me?&lt;NEXTPAGEBUTTON&gt;"Actually, yes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">I'm blown away. The salt and the vinegar blend so well with the fish!&lt;BR&gt;&lt;BR&gt;A truly outstanding meal.&lt;BR&gt;&lt;BR&gt;Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1010">
+        <Page social="0">What to do...what to do...&lt;BR&gt;&lt;BR&gt;What is it? Please do not disturb me if it's not an emergency.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="3" villagerId="1010">
+        <Page social="1" voiceTypeId="0">You're from the Fishing Association, right? I'm sorry, but your Fishery has to remain closed for now.&lt;BR&gt;&lt;BR&gt;The thing is...there was an accident. Your fishery has been contaminated with Experimental Elinum, and we can't risk it spreading.&lt;BR&gt;&lt;BR&gt;Now, if someone were to retreive it....&lt;NEXTPAGEBUTTON&gt;"I'll get it back for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Good.&lt;BR&gt;&lt;BR&gt;Since you're not catching fish today, you'll need some Celisium Fragments to retrieve the Elinum.&lt;BR&gt;&lt;BR&gt;If you run out, there's plenty more.&lt;BR&gt;&lt;BR&gt;And don't worry, it's totally not toxic.&lt;BR&gt;Totally.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="5" villagerId="1010">
+        <Page social="4" voiceTypeId="0">You got them all!&lt;BR&gt;&lt;BR&gt;Thank you so much.&lt;BR&gt;&lt;BR&gt;I'll have a word with the Head Researcher and get the Fishery reopened.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" villagerId="1010">
+        <Page social="0">You're back. And without all the Elinium, I see.&lt;BR&gt;&lt;BR&gt;It's a simple equation. Use Celisium Fragments to retrieve Experimental Elinium from the Muricai Fishery, and the fish will come back.&lt;BR&gt;&lt;BR&gt;All the Celesium you'll need is in the boxes next to me.</Page>
+    </Text>
+</QuestDialog>

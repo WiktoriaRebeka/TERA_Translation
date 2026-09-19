@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1016">
+        <Page social="5">The defense shield is weakening. Without it there'll be no safe place in the temple. South of here, near the Chamber of Lost Souls, there are eldritch shards that will work to power it, I think.&lt;BR&gt;&lt;BR&gt;But there's no time to lose. If we can't keep this thing powered up, the nagas and their friends will be all over us.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1016">
+        <Page social="5">Thank the gods you're back! We'll be safe now.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1016">
+        <Page social="0">If you don't find us those shards to power the shield, we're all dead meat.&lt;BR&gt;&lt;BR&gt;Don't just stand there!</Page>
+    </Text>
+</QuestDialog>

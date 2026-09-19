@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1020">
+        <Page social="4">Despite being cut off from Kaiator, we're continuing our research efforts.&lt;BR&gt;&lt;BR&gt;We must understand the nature of cyasma to determine its impact on the war effort. Please collect a half dozen cylinders and bring them here.&lt;BR&gt;&lt;BR&gt;Many thanks.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1020">
+        <Page social="4">This cyasma is rich with energy and matter.&lt;BR&gt;&lt;BR&gt;Its ubiquitousness indicates it may be a fundamental part of the argons' existence.&lt;BR&gt;&lt;BR&gt;We're in your debt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1020">
+        <Page social="0">Cyasma cylinders are plentiful outside of {@Rgn:76001}.</Page>
+    </Text>
+</QuestDialog>

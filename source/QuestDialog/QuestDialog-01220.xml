@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="5">We need to hurt argon behemoths, particularly those involved with collecting iteris shards.&lt;BR&gt;&lt;BR&gt;Kill suulvir harvesters and arzakaar guardians throughout {@Rgn:50001}.&lt;BR&gt;&lt;BR&gt;Report to {@LinkCreature:250#1009} at {@Rgn:50003} when you're finished.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1009">
+        <Page social="5">Victory's assured with soldiers like you on our side.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" villagerId="1009">
+        <Page social="0">You didn't accomplish the mission objectives. Keep trying.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">You here to help?&lt;NEXTPAGEBUTTON&gt;"Sure. What can I do for you?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Can you lend a hand to {@LinkCreature:63#3002#Taratia}? She's trying to track down some crafting materials we desperately need.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">So, {@LinkCreature:63#3003#Elthienne} sent someone to help me, eh? About time!&lt;BR&gt;&lt;BR&gt;For days we've been telling customers to look elsewhere for items we should have in stock.&lt;BR&gt;&lt;BR&gt;Can you help me get what I need?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="4" villagerId="3002">
+        <Page social="5">Thanks. Now I can fill all those back orders.&lt;BR&gt;&lt;BR&gt;Thank {@LinkCreature:63#3003#Elthienne} for sending you my way. Then pants her and kick her in the shins. Joking!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Do you have the {@RawItem:206801}?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="5" villagerId="3002">
+        <Page social="5">Thanks. Now I can fill all those back orders.&lt;BR&gt;&lt;BR&gt;Thank {@LinkCreature:63#3003#Elthienne} for sending you my way. Then pants her and kick her in the shins. Joking!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Do you have the {@RawItem:206802}?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Thanks. Now I can fill all those back orders.&lt;BR&gt;&lt;BR&gt;Thank {@LinkCreature:63#3003#Elthienne} for sending you my way. Then pants her and kick her in the shins. Joking!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Do you have the {@RawItem:206803}?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="7" villagerId="3002">
+        <Page social="5">Thanks. Now I can fill all those back orders.&lt;BR&gt;&lt;BR&gt;Thank {@LinkCreature:63#3003#Elthienne} for sending you my way. Then pants her and kick her in the shins. Joking!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Do you have the {@RawItem:206804}?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Thanks. Now I can fill all those back orders.&lt;BR&gt;&lt;BR&gt;Thank {@LinkCreature:63#3003#Elthienne} for sending you my way. Then pants her and kick her in the shins. Joking!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Do you have the {@RawItem:206805}?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="11" villagerId="3003">
+        <Page social="4">&lt;PCNAME&gt;, you're entirely too helpful. Come back and be "too helpful" any time!&lt;BR&gt;&lt;BR&gt;Seriously, we're lucky to have you around.</Page>
+    </Text>
+</QuestDialog>

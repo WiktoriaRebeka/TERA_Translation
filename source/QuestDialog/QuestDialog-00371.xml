@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Sersine sent you out to uncover any possible link between the kariagons and disc reapers, and you returned with evidence of a dark conspiracy involving the dead god Lok.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Elleon was right, there's more to the Tainted Gorge than we first suspected. If you want to make a difference here, you must recognize opportunities when they come your way.&lt;BR&gt;&lt;BR&gt;To the east are creatures we need to know more about. {@linkcreature:13#6#Kariagons} rarely travel without minions, and here they have enslaved otherwise peaceful terrons. They are working in concert with the {@linkcreature:13#7#disc reapers} surrounding this camp, and it stands to reason that they are all connected.&lt;BR&gt;&lt;BR&gt;Kill as many as necessary to find out how.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Hmm...most unexpected. These are exact replicas of an ancient, now forbidden item.&lt;BR&gt;&lt;BR&gt;Do they still teach the legend of Lok in your home town, &lt;PCNAME&gt;? For if the dark god has returned as prophesied, demons are the least of our problems.&lt;NEXTPAGEBUTTON&gt;"Lok?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Yes, Lok, God of Betrayals. The tokens do more than just control creatures, they corrupt them from the inside. And these are newly minted, meaning this problem stretches much further than the Island of Dawn.&lt;BR&gt;&lt;BR&gt;You have done good work here today, but I fear it is far from over.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1025">
+        <Page social="0">We must know how the kariagons and disc reapers are connected. Please complete your task.</Page>
+    </Text>
+</QuestDialog>

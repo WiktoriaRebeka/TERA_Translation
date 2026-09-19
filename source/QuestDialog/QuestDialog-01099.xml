@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1021">
+        <Page social="4">To the north is an old scout camp. Would you see if the federation left any supplies behind when they fled? Whatever's there, we can probably use it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1021">
+        <Page social="4">Some of this is edible food! Why wouldn't the argons or any of their monstrous creations have eaten it by now?&lt;BR&gt;&lt;BR&gt;...What if their needs are very, very different from ours—more different than we ever suspected until now?</Page>
+    </Text>
+</QuestDialog>

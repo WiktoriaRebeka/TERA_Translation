@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1001">
+        <Page social="0">Dougal ordered &lt;PCNAME&gt; to investigate the location marked on the shifting map, and to take Zolyn along.&lt;BR&gt;&lt;BR&gt;Meanwhile, Zolyn was trying hard to figure out where Paesyn was.&lt;BR&gt;&lt;PCNAME&gt; rescued Paesyn from monsters and brought him to Zolyn.&lt;BR&gt;&lt;BR&gt;Paesyn had picking flowers to make bouquet for Zolyn. Receiving the bouquet, Zolyn is reminded of her missing sister, and forgave Paesyn's earlier, clumsier efforts to cheer her.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Are you going to investigate right now?&lt;BR&gt;&lt;BR&gt;You should take Zolyn with you. She's eager to find any clues as to where her sister might be—and if you run into trouble, you'll need her.&lt;NEXTPAGEBUTTON&gt;"Good idea. Where can I find her?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">She went looking for Paesyn. He's out picking flowers or something.&lt;BR&gt;&lt;BR&gt;Take a look around the area—you're bound to run into her.&lt;NEXTPAGEBUTTON&gt;"Okay, thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1104">
+        <Page social="4" voiceTypeId="0">I'm looking for Pae— that hairball popori. I can't find him anywhere.&lt;BR&gt;&lt;BR&gt;Dougal said he was with you earlier, by the sheep meadow?&lt;NEXTPAGEBUTTON&gt;"I haven't."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="2" villagerId="1104">
+        <Page social="4" voiceTypeId="0">Of course; he's the engineer of our ship...and a member of our expedition.&lt;BR&gt;&lt;BR&gt;And contrary to what you might think, I actually like him. I just wish he didn't try so hard to make people show that they like him.&lt;BR&gt;&lt;BR&gt;What are you looking at? Are you going to help me or not?&lt;NEXTPAGEBUTTON&gt;"It's Paesyn. Of course I'll help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="2" villagerId="1104">
+        <Page social="4" voiceTypeId="0">You left him somewhere out here...alone?&lt;BR&gt;&lt;BR&gt;I understand that you're the self-sufficient type, and a hero of the Argon War and all that, but not everyone is as capable as you are!&lt;BR&gt;&lt;BR&gt;Now, are you going to help me look for him or not?&lt;NEXTPAGEBUTTON&gt;"He's more capable than you think. But yes, I'll help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="3" villagerId="2071">
+        <Page social="0" voiceTypeId="0">(Paesyn clearly came this way...but it's odd that he would drop something like this from his toolbox and not notice.)&lt;NEXTPAGEBUTTON&gt;"Looks like he went this way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1019">
+        <Page social="0" voiceTypeId="0">(It's almost as though Paesyn were dropping the heaviest things he was carrying...)&lt;NEXTPAGEBUTTON&gt;"He was running from something..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="7" villagerId="3113">
+        <Page social="4" voiceTypeId="0">I got lost! I must've taken a wrong turn or something, because the next thing I knew, I was surrounded by those...things!&lt;NEXTPAGEBUTTON&gt;"What were you doing out here?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Ah, well...when you didn't come back right away with the springlike flowers, I thought maybe you had forgotten. So I decided to look for them myself—and I found them! I...I guess I wasn't paying too much attention to my surroundings...&lt;BR&gt;&lt;BR&gt;Anyway, I've put together a bouquet of flowers for Zolyn.&lt;BR&gt;&lt;BR&gt;Oh! Here she comes! Umm, could I ask you to deliver them for me, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"This is the last time, right? Then okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="181" prevId="8" villagerId="3104">
+        <Page social="4" voiceTypeId="0">What's that you've got? Oh, gods! Not another present from that useless hair...ball...&lt;BR&gt;&lt;BR&gt;Springlike flowers? My sister and I used to pick these together...&lt;BR&gt;&lt;BR&gt;How did you...? Oh, they're from Paesyn, aren't they? Oh, brother...&lt;BR&gt;&lt;BR&gt;Brother, I am so sorry for how I've acted! Can you ever forgive me?&lt;NEXTPAGEBUTTON&gt;"I think you just made his day, Zolyn."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="181" prevId="9" villagerId="3113">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Did you see that?&lt;BR&gt;&lt;BR&gt;Zolyn is finally warming up to me! She actually smiled at me! I mean, a real smile—not that "I-can't-wait-to-kill-you" smile she gives her enemies!&lt;BR&gt;&lt;BR&gt;I knew she just needed the right gesture to help her cheer up!&lt;NEXTPAGEBUTTON&gt;"She does seem a lot less murder-y. Well done, Paesyn."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="181" prevId="10" villagerId="3104">
+        <Page social="4" voiceTypeId="0">...Okay, that's enough celebrating. Back to work!&lt;NEXTPAGEBUTTON&gt;"...and right back to murder-y."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Dougal sent me to help you find some secret laboratory?&lt;BR&gt;&lt;BR&gt;Let me get Paesyn somewhere safe, and gather some soldiers, and I'll meet up with you shortly.&lt;NEXTPAGEBUTTON&gt;"Sounds good. Take care, Paesyn!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

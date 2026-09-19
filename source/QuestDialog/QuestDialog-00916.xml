@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="5">It's the journal of a prion archaeologist. &lt;NEXTPAGEBUTTON&gt;"What does it say?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Listen to this entry—"We had hoped to capture the giant we found inside the pyramid, but the ferocity of his attack rendered our plan useless. Those few of us who survived to retreat are surely favored of our father Saleron."&lt;BR&gt;&lt;BR&gt;Is that not amazing, &lt;PCNAME&gt;? A giant! Still alive after all this time.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Amazing, and kind of terrifying."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">You're right. Imagine the return of that terrible empire. The giant must still be inside the pyramid at Thunder Hold. It cannot be allowed to escape.&lt;BR&gt;&lt;BR&gt;Will you take the job of destroying it?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1026">
+        <Page social="5">Use this teleportal to transport yourself inside the pyramid.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1027">
+        <Page social="5">The threat is ended, for now. But if there was one giant here, might there be more in other places? We can only hope there are not.</Page>
+    </Text>
+</QuestDialog>

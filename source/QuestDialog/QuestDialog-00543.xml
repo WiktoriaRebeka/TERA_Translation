@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="4">My work is being hampered by bureaucracy. The basilisks need to be studied in their natural habitat but we're not allowed into the area!&lt;BR&gt;&lt;BR&gt;I know full well the dangers we face but someone has to take the risks!&lt;NEXTPAGEBUTTON&gt;"Can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Actually, yes. Head out to the &lt;font color='#660000'&gt;Desert Overwatch&lt;/font&gt; and deliver my &lt;font color='#660000'&gt;entry permit&lt;/font&gt; to &lt;font color='#660000'&gt;Rhysart&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;With luck, that will be enough to convince him to let us through.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1029">
+        <Page social="4">Save your breath. As I explained last week, permit or not, it's too dangerous to venture in here. The Mysterium lost an agent last week!&lt;BR&gt;&lt;BR&gt;I know they're willing, but I have my orders, too.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3101" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">You’ve found where the butterflies are coming from. Now go inside and see if you can find out why.&lt;BR&gt;&lt;BR&gt;[Your equipment level must be at least 463 to enter Gossamer Vault.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;. The place that Elleon show you appeared to be an artificial nest.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; defeated Queen Regent's guardian, the Hellgrammite, then, with Amarre's help, was able to reach the Regent's Vault.&lt;BR&gt;&lt;BR&gt;There, &lt;PCNAME&gt; successfully defeated the queen, and Amarre gathered samples from the butterflies.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="1" villagerId="1162">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, Amarre.&lt;BR&gt;&lt;BR&gt;I'm glad to see that you're both alright.&lt;BR&gt;&lt;BR&gt;What happened? What did you find down there?&lt;NEXTPAGEBUTTON&gt;"Well..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">A nest? Down there?&lt;BR&gt;&lt;BR&gt;An artificial hatching room?&lt;BR&gt;&lt;BR&gt;This is all too convenient to be a coincidence.&lt;BR&gt;&lt;BR&gt;The unknown flying object from northern Arun...it has to be connected...&lt;BR&gt;&lt;BR&gt;We can't be entirely certain...but we also can't just stand here and do nothing. We should inform the federation. I need to get Jelena here, and investigate further.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" prevId="3" villagerId="1107">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, thanks to you, I've got more data in the last hour than I could've gotten in ten years, working on my own.&lt;BR&gt;&lt;BR&gt;I should collate what I got and report back to the Mysterium. Thank you so much. I hope we meet again.</Page>
+    </Text>
+</QuestDialog>

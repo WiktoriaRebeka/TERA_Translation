@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">You're looking for a crown? Sorry, but I don't make those anymore. The soft fey hair is just too hard to come by, and people were getting a little too aggressive with the fey to get it.&lt;BR&gt;&lt;BR&gt;Unless you have some you inherited from a rich uncle or something, no crown for you.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Okay, I won't ask how you got this—just...don't bring me any more, okay?&lt;BR&gt;&lt;BR&gt;Now, what color do you want?&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Just leave those poor fey alone, all right? You don't need a crown that badly.</Page>
+    </Text>
+</QuestDialog>

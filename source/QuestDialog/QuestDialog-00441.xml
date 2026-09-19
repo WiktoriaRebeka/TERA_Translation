@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="5">Okay, I've made the potion according to the recipe's specifications.&lt;BR&gt;&lt;BR&gt;Bring it to {@LinkCreature:216#1010#Sadnica} and hope for the best.&lt;BR&gt;&lt;BR&gt;One way or the other, we won't have to worry about him anymore.&lt;BR&gt;&lt;BR&gt;Don't tell Alethea I said that.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1023">
+        <Page social="4">Oh. Oh dear.&lt;BR&gt;&lt;BR&gt;Well, you did the best you could. No one can say otherwise.&lt;BR&gt;&lt;BR&gt;Do give my condolences to Alethea.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" prevId="3" villagerId="1005">
+        <Page social="4">I see. So you tried to save him, but...I see.&lt;BR&gt;&lt;BR&gt;I can't ask for more than what you've done. Thank you.&lt;BR&gt;&lt;BR&gt;Can I have a moment alone?</Page>
+    </Text>
+</QuestDialog>

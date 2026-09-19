@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1011">
+        <Page social="4">Killian must have designed this ritual. Nobody's more versed in pain—I'm sure Thulsa knew that.&lt;BR&gt;&lt;BR&gt;Killian sent a vicious spectre to torture the victims—before and after they die—and channel all that misery for power.&lt;BR&gt;&lt;BR&gt;Well, no more. Kill that spectre!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1011">
+        <Page social="4">Fates be damned, you did it! I could hear Vaelmir screaming from here!&lt;BR&gt;&lt;BR&gt;No consolation for the dead, but don't you dare pay for your own drinks when we get back to town.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="4">Soldier, I need a courier. After the last argon surge, our lines of communication got crossed. We can't let that continue.&lt;NEXTPAGEBUTTON&gt;"I'm happy to help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Excellent. Head out to the {@Rgn:48004} and deliver these orders to {@LinkCreature:248#1015}. On your way, find {@LinkCreature:78#1012} around {@Rgn:78001} and order him back to base.&lt;BR&gt;&lt;BR&gt;Dismissed.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1012">
+        <Page social="4">Back to base? But I haven't finished delivering supplies.&lt;BR&gt;&lt;BR&gt;This stuff's perishable. Do you think you could drop it off for me?&lt;NEXTPAGEBUTTON&gt;"If it's on my way, absolutely."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Great! {@LinkCreature:78#1009} roasted some piglings for the blacksmiths at the {@Rgn:48001}.&lt;BR&gt;&lt;BR&gt;Find {@LinkCreature:248#1044} southeast of the fortress. He'll be the hungry-looking aman with a big hammer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="1044">
+        <Page social="6">By the titans, that smells good! I haven't had fresh meat in...I can't even remember!&lt;BR&gt;&lt;BR&gt;Now, if we can just stay alive long enough to enjoy this.&lt;NEXTPAGEBUTTON&gt;"Argon troubles?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Always. If you're heading toward {@Rgn:78001}, could you kill some argonomorph corpsefiends for me? It's on your way, and would help keep my people alive.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="4" villagerId="1015">
+        <Page social="6">Nice to meet you, &lt;PCNAME&gt;. Muhrak speaks well of you.&lt;BR&gt;&lt;BR&gt;Thanks for the orders. When we got cut off, I worried about keeping my people here. If we can harness argon technology, though, it would change the war.&lt;BR&gt;&lt;BR&gt;I hope it's worth the risk.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1031">
+        <Page social="0">You helped Elleon defeat Samael. You earned the gratitude of the federation and high praise from Velik. Velik also said you passed a test, though she didn't elaborate on what that meant.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1031">
+        <Page social="4" voiceTypeId="0">I've reported Samael's actions to Seir.&lt;BR&gt;&lt;BR&gt;Now that the leaders of the federation leaders know, they've decided to put an end to Samael. But our sources tell us that Samael already has an escape route.&lt;BR&gt;&lt;BR&gt;Dougal has the details. We can't afford to let Samael get away!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1032">
+        <Page social="10" voiceTypeId="0">Well met, &lt;PCNAME&gt;! It's been too long, and I wish we could meet under better circumstances.&lt;BR&gt;&lt;BR&gt;General Samael, a traitor...it sickens my heart. We must bring him to justice, but first we must eliminate the {@linkcreature:9#2100#storm rush kubai} and {@linkcreature:9#2200#bloody half moon Ladek} guarding access to his hideout inside Azarel's Labyrinth. Once we do that, we can use the {@linkcreature:209#1029#teleportal}.&lt;NEXTPAGEBUTTON&gt;"Teleportal?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Samael's no fool. Our arcanists detected teleportation magic in his official residence in Velika, and traced the energy back to Azarel's Labyrinth. We'll use his escape route against him and bring an end to this madness. I'll see you when all this is over.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1029">
+        <Page social="0" voiceTypeId="0">(This is the teleportal Dougal described. You can use it to infiltrate Samael's residence.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="401" prevId="4" villagerId="1001">
+        <Page social="0" voiceTypeId="0">I never thought this day would come...&lt;BR&gt;&lt;BR&gt;But Samael is now an enemy of the Valkyon Federation, and he must pay for his crimes.&lt;BR&gt;&lt;BR&gt;Let's do this. Tell me when you're ready.&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Select "I'm ready." to start the event.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="401" prevId="5" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Well done, &lt;PCNAME&gt;. You passed my test and proved yourself a true champion of the federation. Samael's fall from grace is sad. He was a great soldier once. No doubt his death will cripple the Scions of Lok to the point where their conspiracy will fall apart. For now, accept my gratitude and respect. You served Velika well, and saved my city—perhaps my life. Thank you.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="401" prevId="6" villagerId="1008">
+        <Page social="4" voiceTypeId="0">Well fought, &lt;PCNAME&gt;. If it wasn't for you and Elleon, we might have lost everything! Who'd have thought that Samael could end up this way? What makes someone fall so far?&lt;BR&gt;&lt;BR&gt;I'm ordering the rangers to track down the remaining Scions. If we can eliminate their leadership, we can end them once and for all.&lt;BR&gt;&lt;BR&gt;We have some serious decisions to make. I need you at the consul's office.</Page>
+    </Text>
+</QuestDialog>

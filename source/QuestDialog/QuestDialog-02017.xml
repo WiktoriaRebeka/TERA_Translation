@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="801" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="801" prevId="0" villagerId="1502">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="801" prevId="0" villagerId="1502">
+        <Page social="4">We believe the nexulitic fragments will help us enter the Nexus Traverse and track down the source of these nexuses.&lt;BR&gt;&lt;BR&gt;But we are spread thin on research; there are too many powerful monsters.&lt;BR&gt;&lt;BR&gt;Can you help us? We really need your help.&lt;BR&gt;&lt;BR&gt;The sovereign needs investigating. You should gather a team of more than 10 for this. The sovereign is a really strong monster.&lt;BR&gt;&lt;BR&gt;Also, be smart in your use of the nexulitic by-product. It can prove really useful.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="801" prevId="2" villagerId="1502">
+        <Page social="4">Oh! Thank you so much!&lt;BR&gt;&lt;BR&gt;We learned a lot thanks to you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="801" villagerId="1502">
+        <Page social="0">Please hurry. We are running out of time!</Page>
+    </Text>
+</QuestDialog>

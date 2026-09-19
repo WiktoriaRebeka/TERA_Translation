@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1134">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1134">
+        <Page social="4">Are you familiar with the smoldering bloodshard? It's near the Forge of Fury.&lt;BR&gt;&lt;BR&gt;Bloodshards corrupt the land around them. Obviously, they'd also make good weapons, so I want this one destroyed.&lt;BR&gt;&lt;BR&gt;Shouldn't be too tough for a &lt;PCCLASS:lcase&gt; like yourself.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1134">
+        <Page social="4">Excellent work. There are enough dangers in Fyrmount without leaving one for Akasha or Bahaar or whomever to exploit.</Page>
+    </Text>
+</QuestDialog>

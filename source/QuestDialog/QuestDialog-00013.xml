@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="4">What do you mean, "What's up?" Only the sky! Is that a trick question, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;'Cause I like tricks!&lt;NEXTPAGEBUTTON&gt;"Who doesn't?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Exactly! But it's no fun when you're the target of the trick, and that's what happened to me!&lt;BR&gt;&lt;BR&gt;A gang of faeries took my faerie dust, and they won't give it back.&lt;BR&gt;&lt;BR&gt;Can you get it back from them?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1021">
+        <Page social="4">Yes! Faerie dust! Straight from the faeries!&lt;BR&gt;&lt;BR&gt;Look at me! I'm glowing! I'm shiny! Now that's a trick, eh?&lt;BR&gt;&lt;BR&gt;Oh, don't be a poor sport, &lt;PCNAME&gt;. Maybe it wasn't exactly "my" faerie dust.&lt;BR&gt;&lt;BR&gt;But look at me—I'm twinkling!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1021">
+        <Page social="0">The faeries took my faerie dust. Don't you believe me?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="96" huntingZoneId="84" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="528" prevId="0" villagerId="5024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="528" prevId="0" villagerId="5024">
+        <Page social="6">Every day, a great many members of the federation fight each other for glory.&lt;BR&gt;&lt;BR&gt;Some don't seem to understand the fighting between the members of the same organization and even criticize the recklessness, but I'd say they don't know the thrills in the blood that pure fighting gets you. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you understand that, don't you?&lt;BR&gt;&lt;BR&gt;Oh, what am I babbling?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, are you ready to prove your strength in the Fraywind Canyon?&lt;BR&gt;&lt;BR&gt;Bring me news of victory, then I'll reward you handsomely. Good luck!&lt;BR&gt;&lt;BR&gt;[Fraywind Canyon is accessible via the Battleground Matching menu.]</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5024">
+        <Page social="4">Congratulations, &lt;PCNAME&gt;! You're as great as others say you are!&lt;BR&gt;&lt;BR&gt;Keep proving your honor in the Fraywind Canyon, and make everyone else in the federation jealous of your glorious record.&lt;BR&gt;&lt;BR&gt;Bellicarium credits, which are only available from the Fraywind Canyon, can be used to purchase various reward items at your team's Quartermaster over there.&lt;BR&gt;&lt;BR&gt;For the honor of the federation!</Page>
+    </Text>
+</QuestDialog>

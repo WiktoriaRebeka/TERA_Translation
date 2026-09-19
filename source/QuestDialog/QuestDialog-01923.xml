@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">We're low on food. Like, really low. {@LinkCreature:63#3003#Elthienne} wants someone to go to {@Rgn:7001#Celestial Hills} right away and get us some rations.&lt;BR&gt;&lt;BR&gt;Tell her you're available, as clearly, you are. Look at me, I'm shaking!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">&lt;PCNAME&gt;, did Taratia tell you we need someone to go to the {@Rgn:7001#Celestial Hills} for a good, old-fashioned hunt? Will you go?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Whoohoo! {@LinkCreature:63#3003#Elthienne} will be so glad you're back. We're practically starving to death.&lt;BR&gt;&lt;BR&gt;You wouldn't think that'd be possible in the big city, would you?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Hunt {@LinkCreature:7#1$$naga mercenaries} in the {@Rgn:7001#Celestial Hills} and bring back some fresh meat.&lt;BR&gt;&lt;BR&gt;Go! Quickly! I've never been so hungry in all my life. You wouldn't believe how greedy people are around here. Sharing is not caring in Velika. Not lately.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Thanks, &lt;PCNAME&gt;. This is fresh, right? It smells okay.&lt;BR&gt;&lt;BR&gt;Let {@LinkCreature:63#3003#Elthienne} know you're back. Cause she probably can't see you. I'm being sarcastic.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Hunt {@LinkCreature:7#3$$indolent kumases} in the {@Rgn:7001#Celestial Hills} and bring back some delicious kumas blubber.&lt;BR&gt;&lt;BR&gt;It's actually really good. Hey! Beggars can't be choosers.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">I can't wait to make something tasty out of this. Thanks, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has your payment.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Hunt {@LinkCreature:7#4$$torpid kumases} in the {@Rgn:7001#Celestial Hills} and bring back kumas blubber.&lt;BR&gt;&lt;BR&gt;If we weren't so hungry, I could make lipstick out of that blubber. You have to dye it, of course, if you want your lips to really pop. Eew, that was a weird visual.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Thanks, &lt;PCNAME&gt;. This is fresh and wonderful. Want to come back for dinner?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} will be happy to put an extra place setting at the table for you.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Hunt {@LinkCreature:7#23$$juggernaut mercenaries} in {@Rgn:7001#Celestial Hills} and bring back some meat. That stuff is tough, but it makes decent jerky.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">Thank the gods for you, &lt;PCNAME&gt;. We'll live to see another day.</Page>
+    </Text>
+</QuestDialog>

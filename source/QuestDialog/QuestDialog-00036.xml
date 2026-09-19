@@ -1,0 +1,99 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; helped heal soldiers in Oblivion Woods, and learned about the devas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">The people of Crescentia need help fending off devan attacks.&lt;BR&gt;&lt;BR&gt;Report to Centurion Neacal at Bulwark Camp in Oblivion Woods.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Crescentia needs our help. There are devas raiding supply lines throughout the area.&lt;BR&gt;&lt;BR&gt;Centurion Neacal is launching counter-operations from a command post at Bulwark Camp in Oblivion Woods.&lt;BR&gt;&lt;BR&gt;See what you can do to help him.&lt;NEXTPAGEBUTTON&gt;"How do I get there?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">How do you get there?&lt;BR&gt;&lt;BR&gt;Is that thing on your shoulders just an accessory?&lt;BR&gt;I don't care if you take the pegasus, use a scroll, or even walk.&lt;BR&gt;&lt;BR&gt;We don't have time for games. Move it!&lt;NEXTPAGEBUTTON&gt;"Yes, sir!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="0" voiceTypeId="0">(Get help from Dougal.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="0" voiceTypeId="0">(Get help from Getty.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="0" voiceTypeId="0">(Get help from Uriela.&lt;BR&gt;Dougal seems busy, and Getty wouldn't know.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="3" villagerId="1160">
+        <Page social="4" voiceTypeId="0">I've heard what you did on the Island of Dawn.&lt;BR&gt;&lt;BR&gt;I'm glad that you joined our forces. So, what brings you here. Is there anything I can help?&lt;NEXTPAGEBUTTON&gt;"How can I get to the  Bulwark Camp in Oblivion Woods?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bulwark Camp in Oblivion Woods?&lt;BR&gt;Yes, I do recall that they asked for reinforcements.&lt;BR&gt;&lt;BR&gt;Take a ride on the Pegasus to Crescentia. You can use the teleportal in the town when you get there.&lt;BR&gt;&lt;BR&gt;Say &amp;quot;Hello&amp;quot; to Ferus for me. He's an old friend.&lt;BR&gt;&lt;BR&gt;The Flight Manager will help you with the Pegasus. Good luck.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Bulwark Camp in Oblivion Woods?&lt;BR&gt;&lt;BR&gt;Sorry. I don't think there's a direct flight.&lt;BR&gt;The fastest way would be using the teleportal in Crescentia.&lt;BR&gt;&lt;BR&gt;[Take a pegasus and go to Crescentia.]&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Don't forget. It's Crescentia!&lt;BR&gt;You'll have to take another ride if you go someplace else.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="59" prevId="8" villagerId="1025">
+        <Page social="4" voiceTypeId="0">You're &lt;PCNAME&gt;! I've heard about you from Dougal.&lt;BR&gt;&lt;BR&gt;Especially what you did at the Island of Dawn. On behalf of Crescentia, I thank you.&lt;BR&gt;&lt;BR&gt;This is from Dougal.&lt;BR&gt;He said that you'll need this.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">On your right is the teleportal; you can use it to go to the Bulwark Camp. Neacal is waiting for you.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="59" prevId="9" villagerId="1017">
+        <Page social="4" voiceTypeId="0">This is Crescentia's teleportal.&lt;BR&gt;&lt;BR&gt;It's linked with various places in Arcadia.&lt;BR&gt;&lt;BR&gt;[Select teleport and go to Bulwark Camp in Oblivion Woods.]</Page>
+    </Text>
+    <Text id="11" huntingZoneId="203" prevId="10" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Are you my &amp;quot;reinforcements?&amp;quot; Well, at least you seem like you've had some experience.&lt;BR&gt;&lt;BR&gt;Welcome to Bulwark Camp, the halfway point between Lumbertown and Crescentia.&lt;BR&gt;&lt;BR&gt;We try to keep the road clear of devas, but they're starting to raid the towns now, and we need to protect the townspeople.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">First things first: We need medicine. We've got a lot of wounded soldiers, and we've run out of supplies.&lt;BR&gt;&lt;BR&gt;If we had more Sorrow Flowers, we could make some healing poultices. We've sent out a few foraging parties, but they keep running into sabertooths—which just makes for more wounded. Think you can fight your way through them and collect some Sorrow Flowers?&lt;NEXTPAGEBUTTON&gt;"You can count on me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Here, take this sickle with you.&lt;BR&gt;It's not the best in the world, but you'll have no problem gathering Sorrow Flowers with it.&lt;BR&gt;&lt;BR&gt;You can gather with or without tools, but the right tool will save you a lot of time, so you should learn how to use it.&lt;BR&gt;&lt;BR&gt;Once you're near the object, you'll know which tool to use.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="203" prevId="11" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Well done, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;The hard part is over...now we just need to apply the poultices to the wounded.&lt;BR&gt;&lt;BR&gt;Start with these two, will you? And don't take no for an answer! I know the poultices don't smell too good, but it's the fastest way to get them back on their feet and in fighting shape!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="203" villagerId="1004">
+        <Page social="0">Have you gathered the flowers?&lt;BR&gt;Just to be safe, you should get rid of any sabertooths nearby before you start gathering.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="3" villagerId="1228">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! It's a pleasure to see you again.&lt;BR&gt;You're not running out of inventory already are you?&lt;BR&gt;&lt;BR&gt;What? Bulwark Camp in Oblivion Woods?&lt;BR&gt;&lt;BR&gt;Ah, so that's what the fuss was all about.&lt;BR&gt;That's pretty heavy responsibility for a first mission!&lt;NEXTPAGEBUTTON&gt;"How can I get there?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Teleport scrolls are the most handy if you ask me!&lt;BR&gt;Bulwark Camp...you'll get there in no time once you go to Lumbertown.&lt;BR&gt;&lt;BR&gt;Let's see...where is it...?&lt;BR&gt;Voila! Here it is.&lt;BR&gt;&lt;BR&gt;You can use this scroll.&lt;BR&gt;Take it, it's on me.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="15" huntingZoneId="60" prevId="14" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Welcome to Lumbertown.&lt;BR&gt;&lt;BR&gt;You can call me Arn, I'm the Magistrate.&lt;BR&gt;I assume that you're from the Federation. What takes you to Lumbertown?&lt;NEXTPAGEBUTTON&gt;"I'm on my way to the Bulwark Camp in the Oblivion Woods".&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Yes, indeed I see.&lt;BR&gt;&lt;BR&gt;Follow the path towards the Pegasus Platform, and you'll be there in no time.&lt;BR&gt;&lt;BR&gt;If you need more help, Latton will guide you.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="16" huntingZoneId="60" prevId="15" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Stop! Where are you going?&lt;BR&gt;&lt;BR&gt;Up ahead is the Oblivion Woods, and you're nothing but fresh meat to those monsters if you don't have what it takes.&lt;BR&gt;&lt;BR&gt;I've heard that even devas are out there.&lt;BR&gt;&lt;BR&gt;I'd go there and help out if I could but...&lt;NEXTPAGEBUTTON&gt;"I'm on my way to help them out."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">So you're from the Federation?&lt;BR&gt;&lt;BR&gt;You should have said so!&lt;BR&gt;Neacal will be more than glad to see you.&lt;BR&gt;Just go straight ahead past the cave.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Take this healing pouch to Neacal for me.&lt;BR&gt;They're short on supplies with all the battles.&lt;BR&gt;If you can, please take down some sabertooths near the cave. They've been causing too much harm to the villagers.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Got it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">On your way, you'll see some Sorrow Flowers. Gather them. Since we're short on healing supplies, the flowers will come in handy.&lt;BR&gt;&lt;BR&gt;Here, take this sickle with you.&lt;BR&gt;It's not the best in the world, but you'll have no problem gathering Sorrow Flowers with it.&lt;BR&gt;&lt;BR&gt;You can gather with or without tools, but the right tool will save you a lot of time, so you should learn how to use it.&lt;BR&gt;&lt;BR&gt;Once you're near the object, you'll know which tool to use.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="203" prevId="16" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Are you my &amp;quot;reinforcements?&amp;quot; Well, at least you seem like you've had some experience.&lt;BR&gt;&lt;BR&gt;Welcome to Bulwark Camp, the halfway point between Lumbertown and Crescentia.&lt;BR&gt;&lt;BR&gt;We try to keep the road clear of devas, but they're starting to raid the towns now, and we need to protect the townspeople.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Patching up the wounded soldiers is first.&lt;BR&gt;We're out of supplies though...&lt;BR&gt;&lt;BR&gt;I think the Sorrow Flowers nearby can help.&lt;NEXTPAGEBUTTON&gt;"Latton sent this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Latton did what...?&lt;BR&gt;&lt;BR&gt;I'm speechless at all the support he's provided. Please aid the soldiers.&lt;BR&gt;&lt;BR&gt;It's going to help them a lot.&lt;BR&gt;&lt;BR&gt;I'll use the flowers you brought, in case of any emergencies.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="203" villagerId="1004">
+        <Page social="0">Have you gathered the flowers?&lt;BR&gt;Just to be safe, you should get rid of any sabertooth nearby before you start gathering.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="203" prevId="17" villagerId="1038">
+        <Page social="4" voiceTypeId="0">Is this actual medicine...?&lt;BR&gt;&lt;BR&gt;I was wondering when we could get something more than the Sorrow Flowers.&lt;BR&gt;I'm feeling better already.&lt;NEXTPAGEBUTTON&gt;"You hang in there."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="20" huntingZoneId="203" prevId="19" villagerId="1039">
+        <Page social="4" voiceTypeId="0">Thank you.&lt;BR&gt;I can get back in battle anytime now.&lt;BR&gt;&lt;BR&gt;I can't wait to deal with those devas again.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"That's the spirit."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="21" huntingZoneId="63" prevId="3" villagerId="1101">
+        <Page social="4" voiceTypeId="0">You're heading for Arcadia?&lt;BR&gt;&lt;BR&gt;It's because of Crescentia isn't it?&lt;BR&gt;It's your lucky day. I just got teleport scrolls, so please take some with you.&lt;BR&gt;&lt;BR&gt;It'll take you straight to the Oblivion Woods.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="203" prevId="21" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Are you my &amp;quot;reinforcements?&amp;quot; Well, at least you seem like you've had some experience.&lt;BR&gt;&lt;BR&gt;Welcome to Bulwark Camp, the halfway point between Lumbertown and Crescentia.&lt;BR&gt;&lt;BR&gt;We try to keep the road clear of devas, but they're starting to raid the towns now, and we need to protect the townspeople.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">First things first: We need medicine. We've got a lot of wounded soldiers, and we've run out of supplies.&lt;BR&gt;&lt;BR&gt;If we had more Sorrow Flowers, we could make some healing poultices. We've sent out a few foraging parties, but they keep running into sabertooths—which just makes for more wounded. Think you can fight your way through them and collect some Sorrow Flowers?&lt;NEXTPAGEBUTTON&gt;"You can count on me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Here, take this sickle with you.&lt;BR&gt;It's not the best in the world, but you'll have no problem gathering Sorrow Flowers with it.&lt;BR&gt;&lt;BR&gt;You can gather with or without tools, but the right tool will save you a lot of time, so you should learn how to use it.&lt;BR&gt;&lt;BR&gt;Once you're near the object, you'll know which tool to use.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="203" prevId="22" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Well done, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;The hard part is over...now we just need to apply the poultices to the wounded.&lt;BR&gt;&lt;BR&gt;Start with these two, will you? And don't take no for an answer! I know the poultices don't smell too good, but it's the fastest way to get them back on their feet and in fighting shape!</Page>
+    </Text>
+    <Text id="24" huntingZoneId="203" villagerId="1004">
+        <Page social="0">Have you gathered the flowers?&lt;BR&gt;Just to be safe, you should get rid of any sabertooths nearby before you start gathering.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="203" prevId="23" villagerId="1038">
+        <Page social="4" voiceTypeId="0">Oh, no! You're not putting that stuff on me!&lt;BR&gt;&lt;BR&gt;Do you have any idea how sensitive my sense of smell is?&lt;BR&gt;&lt;BR&gt;Just let me die...&lt;NEXTPAGEBUTTON&gt;"Come on, the centurion's watching..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="26" huntingZoneId="203" prevId="25" villagerId="1039">
+        <Page social="4" voiceTypeId="0">Whoa! Wait! What is that you're putting on me?&lt;BR&gt;&lt;BR&gt;It smells like Cutthroat Harbor at low tide!&lt;BR&gt;&lt;BR&gt;Oh, I think I'm going to throw up...!&lt;NEXTPAGEBUTTON&gt;"Just breathe through your mouth."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="27" huntingZoneId="203" prevId="26" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Quit complaining! I know what that tastes like.&lt;BR&gt;&lt;BR&gt;You'll be back in shape in no time.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;You gathered the flowers with that {@RawItem:206600}, didn't you?&lt;BR&gt;&lt;BR&gt;Each object has a tool that's suited to it. You should know which one to use once you're near a given object.&lt;BR&gt;&lt;BR&gt;Here, take these. They should help you on your journey.&lt;BR&gt;Thanks again, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

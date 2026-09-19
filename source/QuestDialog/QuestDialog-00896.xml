@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="6">I managed to get here in one piece, but returning to Elenea won't be so easy with those wandering hellhounds around.&lt;BR&gt;&lt;BR&gt;I've been watching them, though, and I've noticed they don't go near one particular type of bad-smelling flower.&lt;BR&gt;&lt;BR&gt;It seems to repel them. Could you find me some of those flowers so that I can keep those hounds away from me?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1032">
+        <Page social="8">They do smell really horrible, don't they?&lt;BR&gt;&lt;BR&gt;This should be enough to get me safely back to Elenea. Many thanks!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1032">
+        <Page social="0">This won't guarantee me a safe return to Elenea.&lt;BR&gt;&lt;BR&gt;Please find me some more.</Page>
+    </Text>
+</QuestDialog>

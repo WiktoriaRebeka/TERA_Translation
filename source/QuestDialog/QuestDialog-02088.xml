@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="131">
+        <Page social="0">Thanks for waiting. Our next targets are the Draakon Watchers downstairs.&lt;BR&gt;&lt;BR&gt;Clear the way to the engine room and I'll be able to search this place without trouble.&lt;BR&gt;&lt;BR&gt;Go! We don't have much time!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="131">
+        <Page social="0">Thank you. I'm more than happy to see their dead bodies. We only have one last step left.</Page>
+    </Text>
+</QuestDialog>

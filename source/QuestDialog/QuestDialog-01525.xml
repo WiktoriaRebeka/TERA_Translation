@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;I spoke to Rhodos recently. He asked after you, so I told him about all the work you've been doing around here.&lt;BR&gt;&lt;BR&gt;I think he's a bit worried. Would you go meet up with him? Just to show him you're doing fine and that I haven't worked you into the ground.&lt;BR&gt;&lt;BR&gt;Thanks,&lt;BR&gt; Dougal&lt;BR&gt;&lt;BR&gt;[You must have equipment level 431 or higher to enter Thaumetal Refinery.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;I spoke to Rhodos recently. He asked after you, so I told him about all the work you’ve been doing around here.&lt;BR&gt;&lt;BR&gt;I think he’s a bit worried. Would you go meet up with him? Just to show him you’re doing fine and that I haven’t worked you into the ground.&lt;BR&gt;&lt;BR&gt;Thanks,&lt;BR&gt;Dougal&lt;BR&gt;&lt;BR&gt;[You must have equipment level 431 or higher to enter Thaumetal Refinery.]</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="1" villagerId="1206">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! It's been a while!&lt;BR&gt;&lt;BR&gt;I was just recently talking with Dougal about you. Glad to see you!&lt;BR&gt;&lt;BR&gt;Now that the pleasantries are out of the way, however, naturally I have something I need your help with.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Naturally.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I've been helping Khirians track down traitors in their ranks. They're harder to catch wind of since Lakan's death, but we've picked up some suspicious movements.&lt;BR&gt;&lt;BR&gt;It looks like the traitors have a deal going with the archdevans.&lt;NEXTPAGEBUTTON&gt;&amp;quot;What should we do?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Joakim is investigating the Yaldaru Hills right now. I'm buried under my various duties, but he could really use some help out there.&lt;BR&gt;&lt;BR&gt;Meet up with him, and see what he needs you to do. The teleport platform will get you there pretty quickly.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1067">
+        <Page social="4" voiceTypeId="0">Greetings, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Rhodos sent you to help out, did he?&lt;NEXTPAGEBUTTON&gt;&amp;quot;He did.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Good. I could definitely use the help.&lt;BR&gt;&lt;BR&gt;I was lucky enough to find a map that seems to be from the Khirian traitors. Look here—the map has an area we didn't know about.&lt;BR&gt;&lt;BR&gt;It looks like it's accessible only by flight, though, and I...well, I'm afraid of heights. I've been trying to work up the courage to go, but since you're here, it seems like it'd be easier if you just went instead.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Sure. Can do.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Excellent. Thank you. Here, take the map with you.&lt;BR&gt;&lt;BR&gt;It looks like the hidden cave is beyond and above the Pools of Zurusuru. Good luck.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="794" prevId="4" villagerId="5001">
+        <Page social="4" voiceTypeId="0">No! intruder!&lt;BR&gt;&lt;BR&gt;Intruder, stay back! Baidun, uh...Baidun strong!&lt;NEXTPAGEBUTTON&gt;&amp;quot;I just have a question.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Question? What question?&lt;NEXTPAGEBUTTON&gt;&amp;quot;Why are the archdevans here?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Shiny rocks. Experiments. Being mean!&lt;BR&gt;&lt;BR&gt;Don't...know much else. Promised to help us. So far just mean.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1068">
+        <Page social="4" voiceTypeId="0">Rrr! Trick! Trick! Archdevans promised gems! Promised help for help! Promised good things!&lt;BR&gt;&lt;BR&gt;Only gave bad things! Bad! Experiment and kill. Lies! Rrr!&lt;NEXTPAGEBUTTON&gt;&amp;quot;What kind of experiment?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Gaaruksalk! Gaaruksalk! Important goblin. Stuck things on him. Did things to him. Made him mean like them. Mean! Nasty!&lt;BR&gt;&lt;BR&gt;Hood man's fault. Hood man lied!&lt;NEXTPAGEBUTTON&gt;&amp;quot;Where did he go?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Didn't see.&lt;BR&gt;&lt;BR&gt;Goblin always keep deal.&lt;BR&gt;&lt;BR&gt;Hood man lie! Lies!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1076">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, you're back!&lt;BR&gt;&lt;BR&gt;I heard a report from Joakim. Good work! What did you find out?&lt;NEXTPAGEBUTTON&gt;"Well..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">A hooded figure colluding with the Archdevans? That sounds serious. Did you get a good look at him?&lt;NEXTPAGEBUTTON&gt;"Not really. Older human, wore a hood."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Interesting. I'll need to look into this further.&lt;BR&gt;&lt;BR&gt;Thank you, as always, for the help you've provided. We won't soon forget this.</Page>
+    </Text>
+</QuestDialog>

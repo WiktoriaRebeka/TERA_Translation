@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1005">
+        <Page social="10">Safna was on his way here to confront me? I'm glad you found him first. You may have saved his life—and not from panthers, either.&lt;BR&gt;&lt;BR&gt;Well, if he still wants &lt;font color='#660000'&gt;astrocorn fungus&lt;/font&gt;, &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-19135,69664,1799&amp;type=1&amp;name=Astrocorn Fungus"&gt;look around here&lt;/A&gt;&lt;/font&gt; and you may be able to find some.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1005">
+        <Page social="4">I don't see any poisonous ones—these ought to make Safna happy. I'll deliver them. It seems the least I can do. And take this for helping me out.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1005">
+        <Page social="0">&lt;font color='#660000'&gt;Astrocorn fungus&lt;/font&gt; grows here and there in the northern part of Feral Valley.</Page>
+    </Text>
+</QuestDialog>

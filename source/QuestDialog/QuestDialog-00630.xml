@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1023">
+        <Page social="0">A familiar face waited for you in Cultists' Refuge. Jelena greeted you with enthusiasm.&lt;BR&gt;&lt;BR&gt;Elleon, however, was nowhere in sight, and Jelena explained that the team was split up by a mysterious force after using the teleportal.&lt;BR&gt;&lt;BR&gt;Jelena also explained she was injured in the process and barely escaped with the help of her younger sister.&lt;BR&gt;&lt;BR&gt;After Jelena asked you to help her sister, you learned Elleon had gone deeper in pursuit of Lok cultists.&lt;BR&gt;&lt;BR&gt;You went after Elleon and infiltrated the Cultists' Refuge, then joined forces with Elleon and defeated Priestess Akia and her servant, Terkasia.&lt;BR&gt;&lt;BR&gt;You then destroyed Samael's soul stone, with which Akia was planning to resurrect Samael.&lt;BR&gt;&lt;BR&gt;This ended the conflict with the Cult of Lok.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Jelena was injured but took the time to send word for you, then followed Elleon through the portal.&lt;BR&gt;&lt;BR&gt;Let's hope both those reckless hearts avoided death once more.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3003" prevId="2" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Blast and fire, I am glad to see you, &lt;PCNAME&gt;! I haven't found Elleon yet, but I need your help! My twin sister, Davina, is among the missing. I wasn't strong enough to stay with her.&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The Scions of Lok are crawling all over this place, but there's another group here—Atel Akaad, and they're far more organized than your standard cultists.&lt;BR&gt;I need a few minutes to catch my breath, but we need to find our friends—especially my sister!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3003" prevId="3" villagerId="1020">
+        <Page social="4" voiceTypeId="0">This place is a maze! I don't know where Elleon vanished to, but when we last saw Davina she was heading to the east. Unfortunately, the doors slammed down and cut us off.&lt;BR&gt;&lt;BR&gt;You can use the {@linkcreature:3003#1008#Eastern Wardstone} to open the eastern door and support {@linkcreature:3003#1023#Davina} on her patrol.&lt;BR&gt;&lt;BR&gt;Done talking. Start killing.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3003" prevId="4" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Thank the gods! You came for me!&lt;BR&gt;&lt;BR&gt;Is Jelena alright?&lt;BR&gt;&lt;BR&gt;Elleon went on ahead to the western sector, but the door shut behind him. From what I've learned, someone—or something—named {@linkcreature:3003#3609#Galanos} is guarding the {@linkcreature:3003#1011#Western Wardstone}. If we can activate that wardstone, we can access the western sector!&lt;BR&gt;&lt;BR&gt;You must follow Elleon and help him.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="3003" prevId="5" villagerId="1011">
+        <Page social="4" voiceTypeId="0">An ancient wardstone.&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Select 'Look at the crest.', then 'Reach for the crest.' to open the western sector entrance.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="3003" prevId="6" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Thank you for rescuing Davina! Oh, I could kiss you!&lt;BR&gt;&lt;BR&gt;If Elleon's gone west, that's where you need to go too.&lt;BR&gt;&lt;BR&gt;High Priestess Akia—remember her?—is rallying the Scions of Lok and working with these Atel Akaad creeps.&lt;BR&gt;Nullu's been mapping the place. She'll steer you right to Akia!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="3003" prevId="7" villagerId="1020">
+        <Page social="4" voiceTypeId="0">We can't end this until you kill Akia, and her pet demon Terkasia. You'll find her in the &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=3003#70422.2422,37561.2188,-9149.4219&amp;type=1&amp;name=priest's chamber"&gt;priest's chamber&lt;/A&gt;&lt;/font&gt; in the western sector of the refuge.&lt;BR&gt;&lt;BR&gt;She's very cunning. Expect the unexpected.&lt;BR&gt;Find the treacherous script and summon Terkasia. Only then can this be ended.&lt;NEXTPAGEBUTTON&gt;"What do I do next?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We can't end this until you kill Akia, and her pet demon Terkasia. You'll find her in the priest's chamber in the western sector of the refuge. She's very cunning. Expect the unexpected.&lt;BR&gt;&lt;BR&gt;Find the treacherous script and summon {@linkcreature:3003#3802#Terkasia}. Only then can this be ended.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="3003" prevId="8" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Sorry I was running behind. Too many cultists around here. Looks like you didn't need me, anyway. A resurrected Samael—knowing all our secrets, but beyond our reach—would have been a disaster.&lt;BR&gt;&lt;BR&gt;This soul stone shouldn't stand any longer. It keeps Samael's spirit from the Dream, ready to come back whenever some wild-eyed cultists beckon.&lt;BR&gt;&lt;BR&gt;Would you do the honors? Use these explosives to destroy {@linkcreature:3003#100#Samael's soul stone} and end this once and for all.&lt;NEXTPAGEBUTTON&gt;"Me?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">More than anyone, you've fought this battle. Seems only fitting that you bring it to a conclusion.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="3003" prevId="9" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Now that we've put an end to High Priestess Akia and Terkasia, the Scions of Lok should be done for good. But I don't think we've heard the last of Atel Akaad.&lt;BR&gt;&lt;BR&gt;It all makes sense now...Atel Akaad must be involved with the Argons.&lt;NEXTPAGEBUTTON&gt;"The Argons?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Yes.&lt;BR&gt;&lt;BR&gt;Atel Akaad wants to take the federation down from the inside, and they're using the Argons to do it.&lt;BR&gt;&lt;BR&gt;Samael's betrayal was always a question mark, but everything is clear now.&lt;BR&gt;&lt;BR&gt;Well done, &lt;PCNAME&gt;. Headquarters will contact you shortly.</Page>
+    </Text>
+</QuestDialog>

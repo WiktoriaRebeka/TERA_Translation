@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="4">I've been hearing that toward the end of that &lt;font color='#660000'&gt;Ceremony of Blessing&lt;/font&gt;, {@LinkCreature:16#2305#blood mages} came out from the castle's underground levels.&lt;BR&gt;&lt;BR&gt; And supposedly...supposedly they have &lt;font color='#660000'&gt;blood stones&lt;/font&gt;. They're power sources that ought to be in our hands, not theirs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1023">
+        <Page social="4">Just look at the size of this stone... Countless lives... sacrificed for this stone...&lt;BR&gt;&lt;BR&gt;The Blood Stone is a horrendous relic from evil vampirs of the past. As the name might suggest, the stone is essentially solidified blood—a powerful magic weapon wielded by vampirs of a bygone age.&lt;BR&gt;&lt;BR&gt;I can't explain what the blood mages were doing with this stone, but it's important that we find out.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1023">
+        <Page social="0">If they've tapped into the Blood Stone... I don't even want to imagine.</Page>
+    </Text>
+</QuestDialog>

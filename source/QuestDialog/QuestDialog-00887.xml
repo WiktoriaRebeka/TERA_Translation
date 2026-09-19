@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1008">
+        <Page social="6">We built this camp to investigate the lower reaches of the crypt...it seems a lifetime ago.&lt;BR&gt;&lt;BR&gt;But we can't continue on with our research because of the ravenous tyraks all over the place.&lt;BR&gt;&lt;BR&gt;Can you get rid of them?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1008">
+        <Page social="7">I'd heard rumors about what you could do, &lt;PCNAME&gt;! If we had an army of you, we'd clear out these crypts in no time.</Page>
+    </Text>
+</QuestDialog>

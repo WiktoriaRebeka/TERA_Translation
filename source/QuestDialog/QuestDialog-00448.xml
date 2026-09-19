@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1010">
+        <Page social="4">The town's being strangled by this cult in the Paraanon Plains. Those plains used to be our best farmlands. Now it's just a hole for the federation to throw troops into.&lt;BR&gt;&lt;BR&gt;Prefect Cafnil's in charge down at the Embattled Outpost. With your help maybe we can break this stalemate.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1010">
+        <Page social="4">New blood, eh?&lt;BR&gt;&lt;BR&gt;About time! &lt;PCCLASS&gt;s are powerful medicine for what ails this land, as the beasts in the valley are about to learn...to their dismay! Let's talk strategy!</Page>
+    </Text>
+</QuestDialog>

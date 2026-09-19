@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1013">
+        <Page social="4">We have a unique opportunity here to learn what makes the argons tick. There's another bubble, and more of those {@Creature:45#7003#spires}, by the northwestern swamp. Check them out, and bring back some fragments. I'll compare them to the others.&lt;BR&gt;&lt;BR&gt;If you see the argonomorph tuwangi leader while you're there, take him out.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1013">
+        <Page social="5">Thank you. Did everything go smoothly?&lt;NEXTPAGEBUTTON&gt;"A tuwangi called me an intruder."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Intruder, eh?&lt;BR&gt;&lt;BR&gt;So perhaps the spires are an alarm of some sort. The federation could use something like that.&lt;BR&gt;&lt;BR&gt;The tuwangis are protecting the spires. I hope killing the leader will cause the others to scatter so we can investigate further.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1013">
+        <Page social="0">I need pieces of those controller spires from the northwestern swamp.</Page>
+    </Text>
+</QuestDialog>

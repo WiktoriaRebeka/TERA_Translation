@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2001" prevId="0" villagerId="22001">
+        <Page social="5">Now this place is suitable to defend ourselves.&lt;BR&gt;&lt;BR&gt;But the Azura Tribe to the south still bothers me. I'm worried that they might assemble an attack on us. &lt;PCNAME&gt;, can you help?&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">It's simple. They won't dare stand a fight against us without their leaders.&lt;BR&gt;&lt;BR&gt;Please go defeat Crystal Storage Executioners and Crystal Storage Foremen.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="22001">
+        <Page social="0">Thank you again, &lt;PCNAME&gt;. Those nagas won't dare start a fight with us now.&lt;BR&gt;&lt;BR&gt;We'll stay here and wait for the federation's reinforcements.&lt;BR&gt;&lt;BR&gt;You go and stop Exodor.</Page>
+    </Text>
+</QuestDialog>

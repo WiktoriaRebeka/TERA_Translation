@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1011">
+        <Page social="0">Klaon had a vision of a ritual in Scarwood, so he summoned you to get your help. He spoke of a ritual around a series of floating stones, conducted by strange intruders. He knew the leader's name—Garkior—but not why they were in Scarwood.&lt;BR&gt;&lt;BR&gt;Klaon sent you to destroy the stones, and kill this Garkior. You did so and returned to Klaon, who said the vision faded, but felt certain the mystery was far from over. You also learned the name of your new enemies: the Scions of Lok.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1011">
+        <Page social="0">&lt;PCNAME&gt;! Klaon wishes to see you. I think he headed toward Aron's Camp!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1024">
+        <Page social="4">Thank you for coming, &lt;PCNAME&gt;. Events are afoot that are a bit beyond my ken.&lt;BR&gt;&lt;BR&gt;I'm just a humble village mystic. When I need guidance, I stop and listen to the Dream. In the Dream, I saw Scarwood—and intruders.&lt;NEXTPAGEBUTTON&gt;"Who were they?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">I'm not certain. They were conducting a ritual around a series of floating stones. They were setting up {@LinkCreature:2#209#vortex shards}.&lt;BR&gt;&lt;BR&gt;The shards seemed...hungry. I saw tendrils reaching out from each one, stealing from the forest itself. One figure seemed to direct this ritual. I heard his name in the vision—{@LinkCreature:2#259#Garkior}.&lt;BR&gt;&lt;BR&gt;Stop him and destroy those shards!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1024">
+        <Page social="4">I've never seen such creatures before, nor do I know of any groups calling themselves the Scions of Lok.&lt;BR&gt;&lt;BR&gt;The vision is fading, so I hope your efforts put a stop to this madness, but I fear it is only the beginning.&lt;BR&gt;&lt;BR&gt;Remain vigilant, &lt;PCNAME&gt;, and go with my thanks.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1024">
+        <Page social="0">I wonder what those shards are taking from the forest? And why are they taking it?&lt;BR&gt;&lt;BR&gt;So many questions. When you return, I hope we'll have answers.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1007">
+        <Page social="4">The former garrison prefect was mutated by the plague. Now he commands an army of plague mutants thirsty for our blood.&lt;BR&gt;&lt;BR&gt;I'm asking you to take care of this, &lt;PCNAME&gt;. As long as {@LinkCreature:40#40#Ectoros} lives, we're under a death sentence.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1035">
+        <Page social="4">May Kaia grant him rest.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2007">
+        <Page social="0">You delivered carving material to Dolme and received a Horn Helm.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2007">
+        <Page social="4">Hello, &lt;PCNAME&gt;! Listen, do you have any more of those wonderful carved horns? No?&lt;BR&gt;&lt;BR&gt;Hm. Pity...I've started a collection. I tell you what: If you can get some more for me, I'll give you a bottle of my best summer wine!&lt;BR&gt;&lt;BR&gt;I think Wahmel and Chelton were offering horn statues as prizes...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2007">
+        <Page social="4">Hoho. Thank you. This will do nicely!&lt;BR&gt;&lt;BR&gt;You've earned this bottle of summer wine, &lt;PCNAME&gt;! Drink it in good health, hoho!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="2007">
+        <Page social="0">Participate in the melon bash or splash cannon mini-games to earn horn statues.</Page>
+    </Text>
+</QuestDialog>

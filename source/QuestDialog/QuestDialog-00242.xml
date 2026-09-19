@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1009">
+        <Page social="4">It's hard to get luxury items during wartime. Everything is rationed.&lt;BR&gt;&lt;BR&gt;Take cosmetics, for example. Castanica has shortages of the stuff all the time. Did you know you can make mascara out of the hooves of the {@LinkCreature:10#9#longtusk slashers} along Boan Strand?&lt;BR&gt;&lt;BR&gt;If someone brought me hooves, I'm sure we could turn a tidy profit.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1009">
+        <Page social="4">Yeah, these are perfect. I thank you, and the ladies of Castanica—and many of the men—thank you, too.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1009">
+        <Page social="0">You know how the castanics like their eye makeup, &lt;PCNAME&gt;. Gathering the hooves of some {@LinkCreature:10#9#longtusk slashers} could be profitable for us both.</Page>
+    </Text>
+</QuestDialog>

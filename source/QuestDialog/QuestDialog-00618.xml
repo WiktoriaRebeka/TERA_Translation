@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1002">
+        <Page social="4">A great magical power sustains the Storst Ruins in the north. I believe the {@LinkCreature:24#14#bloodhorn maligoses}, the descendants of the ancient giants, are benefiting from the power of the relics.&lt;BR&gt;&lt;BR&gt;Maligos armor fragments may confirm this theory. If you gather them, we might measure the remaining mana and calculate the power of the ruins.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1002">
+        <Page social="4">Intriguing. The fragments tingle to the touch. The power present is far beyond what we've suspected.&lt;BR&gt;&lt;BR&gt;Your assistance will be remembered. Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1002">
+        <Page social="0">An untested hypothesis is merely a question. I need armor fragments to test. Quickly.</Page>
+    </Text>
+</QuestDialog>

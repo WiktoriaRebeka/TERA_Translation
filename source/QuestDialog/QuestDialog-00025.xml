@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1034">
+        <Page social="0">Even the unicorns have been corrupted by the ill wind that blows through the Fey Forest. I know Lillix had some luck helping Seravy, but the other unicorns are too fragile to survive such a transition.&lt;BR&gt;&lt;BR&gt;I see your eyes, &lt;PCCLASS:lcase&gt;. You think we don't realize how tragic it is to kill the {@LinkCreature:2#6#sullen} and {@LinkCreature:2#56#feral} unicorns? The only thing more tragic...is to let them live.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1034">
+        <Page social="4">The unicorns' pure spirits could not endure such corruption. But they say a little bit of each unicorn remains in its horn.&lt;BR&gt;&lt;BR&gt;Who knows? In time perhaps we can coax those spirits out of those horns and give them a way to gallop through the forest again!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1034">
+        <Page social="0">Bring back the unicorns' horns, &lt;PCNAME&gt;...after you've done what must be done.</Page>
+    </Text>
+</QuestDialog>

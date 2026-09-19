@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1022">
+        <Page social="0">(This supply crate is branded with a peculiar pattern and looks to have been left by the bandits. Maybe the pattern will help identify the bandit.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1001">
+        <Page social="4">Well met, soldier! What do you have there? Hey, those aren't federation goods—that brand's a kulkari marking! And that smell.&lt;BR&gt;&lt;BR&gt;Looks like they're not just driving the kobolds to attack but supplying them with explosives as well. Now I'm SURE we need to break the kulkari's hold on the creatures.&lt;NEXTPAGEBUTTON&gt;"Do you have a plan?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I have dozens of plans! Whatever we dream, the federation can do, right?&lt;BR&gt;&lt;BR&gt;The trouble is while the amani here are willing to give the federation the benefit of the doubt, the chieftains are skeptical. Our job here is critical, but I'd be lying if I said it was easy.&lt;BR&gt;&lt;BR&gt;Right now, I just need someone to bring proof that we're doing something about the {@LinkCreature:24#15#sandpaw hyenas} and {@LinkCreature:24#106#Sand Wind reapers}, while I try to convince Turrek to share his supplies.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="66" prevId="3" villagerId="1001">
+        <Page social="4">Excellent job, soldier. This should give Turrek and the other chieftains something to consider. And if not, we've at least given the kulkari and their minions some pause.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" villagerId="1001">
+        <Page social="0">Have you gotten the hides yet? I have to meet with Turrek soon.</Page>
+    </Text>
+</QuestDialog>

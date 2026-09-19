@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1021">
+        <Page social="0">Eria asked you to collect core essences from nearby sporewalkers for study. When she tried to compare the core essences to the corruption in Demonbane, someone resisted her efforts.&lt;BR&gt;&lt;BR&gt;She was heartbroken at the prospect of letting Leander down, but Leander seemed pleased. You believe your foe can be found atop the Arun Heights.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1021">
+        <Page social="4">I need you to kill some sporewalkers and bring me their core essence. Sporewalkers are primal creatures of the world—very sensitive to magical changes.&lt;BR&gt;&lt;BR&gt;I must know if the magic that affected Demonbane is affecting the island's denizens.&lt;BR&gt;&lt;BR&gt;Done talking! &lt;TEXTBUTTON&gt;"I'll take care of it!"&lt;/TEXTBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1021">
+        <Page social="4">Nicely done! You're much easier to work with than Master Tall, Fair, and Brooding.&lt;BR&gt;&lt;BR&gt;Let's see what these tell us... Oh, my!&lt;NEXTPAGEBUTTON&gt;"Are you all right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">I...can't do it! Nature's wrath, the power is too strong.&lt;BR&gt;&lt;BR&gt;Someone's resisting me. It felt...ugly in my mind. All I sense is that it's coming from the east—perhaps from that hill.&lt;BR&gt;&lt;BR&gt;I'm sorry. I don't want to let Leander down! I wanted to impress him by finding out more about Demonbane, but it's beyond my power.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1021">
+        <Page social="0">&lt;PCNAME&gt;, I really need your help. To establish a connection between what's happened and Demonbane, we need those cores!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="3" villagerId="1008">
+        <Page social="4">Someone resisted Eria's magical efforts? Interesting. We've seen movement atop that hill—we're calling them the Arun Heights.&lt;BR&gt;&lt;BR&gt;A fine vantage point—precisely what a clever foe might choose. Now we know where to look!</Page>
+    </Text>
+</QuestDialog>

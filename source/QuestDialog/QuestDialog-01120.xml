@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">The Cyanocannon Foundry is under attack by athakela hunters. We can't afford to lose the foundry.&lt;BR&gt;&lt;BR&gt;Intercept those argons at once!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="48" prevId="2" villagerId="1007">
+        <Page social="6">Excellent timing. After the argons hit our foundry at Magthulk Crater, I feared we'd be the next target.&lt;NEXTPAGEBUTTON&gt;"Are you all right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bah! It'll take more than a few scratches to fell me.&lt;BR&gt;&lt;BR&gt;What's this? It's not mine. Someone around {@Rgn:78001} must miss it. See if you can find the owner.</Page>
+    </Text>
+</QuestDialog>

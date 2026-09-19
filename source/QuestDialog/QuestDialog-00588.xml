@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1036">
+        <Page social="5">Several patrols were attacked by some unusual flaming creatures.&lt;BR&gt;&lt;BR&gt;I want to study them. Stalk and kill some {@LinkCreature:23#9#molten fangspawns} and collect their cores.&lt;BR&gt;&lt;BR&gt;That should give me a clue to a more permanent solution.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1036">
+        <Page social="5">These will do nicely. I'll begin my studies at once.&lt;BR&gt;&lt;BR&gt;Whoo—still hot!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1036">
+        <Page social="0">If we don't get the cores, these creatures could get out of hand.&lt;BR&gt;&lt;BR&gt;Imagine an army of molten fangspawns marching on Pora Elinu. Now get back out there and get me those cores.</Page>
+    </Text>
+</QuestDialog>

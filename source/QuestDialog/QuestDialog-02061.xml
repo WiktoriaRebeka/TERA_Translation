@@ -1,0 +1,76 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Elleon is looking for you to decide who goes for Titus and who goes for the villagers.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; and others rescued Titus from Rogash's Manor. Aurl begged &lt;PCNAME&gt; to save his fiancée, but &lt;PCNAME&gt; was too late. She was already lying down cold and still.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20104">
+        <Page social="4" voiceTypeId="0">According to Jelena, there are two main areas in this place. A manor and a garden.&lt;BR&gt;&lt;BR&gt;Titus and the villagers should be somewhere pass the garden.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I want you to create a distraction so I can go deep inside.&lt;NEXTPAGEBUTTON&gt;"Leave it to me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Amarre should stay here. The nagas are far too dangerous for her.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, would you explain that to Amarre.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" prevId="3" villagerId="20403">
+        <Page social="4" voiceTypeId="0">Unknown species are right there, and you want me to stay behind?&lt;BR&gt;&lt;BR&gt;I promise I won't get you in trouble! Please let me go with you.&lt;NEXTPAGEBUTTON&gt;"Sorry, Amarre."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">What if...I approach as a researcher? Not as an enemy.&lt;BR&gt;&lt;BR&gt;That looks says no.&lt;BR&gt;&lt;BR&gt;Okay. I'll wait here. Good luck on the rescue.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2000" prevId="4" villagerId="20105">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, good, you found me. Thanks to your distraction, I was able to fully examine the garden and these guards.&lt;BR&gt;&lt;BR&gt;If I am correct, the captured villagers are behind that door.&lt;BR&gt;&lt;BR&gt;But it seems a naga's identification tag is required to open that door.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, would you get the tag?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2000" prevId="5" villagerId="20105">
+        <Page social="4" voiceTypeId="0">Did you get the tag? Let's see. Yes, we'll be able to get inside now.&lt;BR&gt;&lt;BR&gt;Let's go.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2000" prevId="5" villagerId="20105">
+        <Page social="4" voiceTypeId="0">We need that tag to get inside.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2100" prevId="6" villagerId="20101">
+        <Page social="0">Give me the key, &lt;PCNAME&gt;. I'll open the door.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2100" prevId="6" villagerId="20101">
+        <Page social="0">That draakon must have the key.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2100" prevId="8" villagerId="20300">
+        <Page social="4" voiceTypeId="0">What took you so long?&lt;BR&gt;&lt;BR&gt;I can't believe that you left me here to suffer in the hands of the nagas.&lt;BR&gt;&lt;BR&gt;Anyways, thanks for rescuing me. The nagas took away my tools...they're smarter then I thought.&lt;BR&gt;&lt;BR&gt;I have to get my tools back.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2100" prevId="10" villagerId="20500">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, thank you so much! A lot of the other villagers were dragged down to a place called the Larvae Hatchery.&lt;BR&gt;&lt;BR&gt;My fiancée is there too. Please, please, save her.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2100" prevId="11" villagerId="20301">
+        <Page social="4" voiceTypeId="0">Let's see...this and that...all right, everything seems to be here.&lt;BR&gt;&lt;BR&gt;How about we just blow this place up, too?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2100" prevId="12" villagerId="20102">
+        <Page social="0">We should get out of here before more nagas arrive.&lt;BR&gt;&lt;BR&gt;Let's get back to Jelena and Amarre.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2000" prevId="13" villagerId="20201">
+        <Page social="0">&lt;PCNAME&gt;! I saw you go inside. You made it! Is everyone all right?&lt;BR&gt;&lt;BR&gt;I found another place where they're keeping villagers.&lt;BR&gt;&lt;BR&gt;But we can't move them and these all at once. It's too dangerous. What should we do?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="2000" prevId="14" villagerId="20201">
+        <Page social="0">It's a plan! We'll go and rescue the villagers.&lt;BR&gt;&lt;BR&gt;Come with me. I'll guide you to the place.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="2000" prevId="15" villagerId="20203">
+        <Page social="4" voiceTypeId="0">This is it.&lt;BR&gt;&lt;BR&gt;The entrance leads to a place full of larvae. I saw people trapped there.&lt;BR&gt;&lt;BR&gt;Take this platform and go down. You won't miss them.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="2000" prevId="16" villagerId="20205">
+        <Page social="0" voiceTypeId="0">This place is larger than I thought. Look at all those larvae and nagas...&lt;BR&gt;&lt;BR&gt;This won't be easy.&lt;BR&gt;&lt;BR&gt;Wait! Did you hear that?&lt;NEXTPAGEBUTTON&gt;"Hear what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Someone is calling for help.&lt;BR&gt;&lt;BR&gt;This way, follow me! Quick!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="2000" prevId="17" villagerId="20700">
+        <Page social="4" voiceTypeId="0">Thank you!&lt;BR&gt;&lt;BR&gt;I thought I was done for. Thank you so much for saving me.&lt;BR&gt;&lt;BR&gt;This place is just awful! There are more people trapped down there.&lt;NEXTPAGEBUTTON&gt;"Have you seen Airene?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, I saw her.&lt;BR&gt;&lt;BR&gt;They took her down there. That place gives me the shivers.&lt;BR&gt;&lt;BR&gt;She's Aurl's fiancée? Right?&lt;BR&gt;&lt;BR&gt;But Aurl is all right? That's a relief.&lt;BR&gt;&lt;BR&gt;Please go save Airene and the others.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="2000" prevId="18" villagerId="20600">
+        <Page social="4" voiceTypeId="0">(You carefully shake Airene and call her name, but she lies still.)</Page>
+    </Text>
+    <Text id="20" huntingZoneId="2000" prevId="19" villagerId="20502">
+        <Page social="13" voiceTypeId="0">I...I'll take Airene.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, please...please bring justice to the bloody nagas who killed Airene!&lt;BR&gt;&lt;BR&gt;I beg you!</Page>
+    </Text>
+    <Text id="21" huntingZoneId="2000" prevId="20" villagerId="20303">
+        <Page social="4" voiceTypeId="0">I've double checked and there's no one left behind.&lt;BR&gt;&lt;BR&gt;Let's get out of this miserable place.&lt;BR&gt;&lt;BR&gt;Did you find Aurl's fiancée?&lt;NEXTPAGEBUTTON&gt;"I did...but..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh...&lt;BR&gt;&lt;BR&gt;I'm sorry to hear that...&lt;BR&gt;&lt;BR&gt;I'd blow this place up for Aurl...but I should save the explosives for the greater good.&lt;BR&gt;&lt;BR&gt;Let's get out of here.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="2000" prevId="21" villagerId="20301">
+        <Page social="4" voiceTypeId="0">Good. Looks like everyone is here.&lt;BR&gt;&lt;BR&gt;I'm still worried about Aurl. It will be nearly impossible for him to stay calm after what happened to Airene, but...&lt;BR&gt;&lt;BR&gt;Maybe, you should talk to Elleon about Aurl.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="2000" prevId="22" villagerId="20109">
+        <Page social="4" voiceTypeId="0">You're worried that Aurl might not be thinking clearly because of his grief?&lt;BR&gt;&lt;BR&gt;But who are we to judge Aurl, when we don't even have a clue about the grief he is feeling.&lt;BR&gt;&lt;BR&gt;We should focus on stopping the nagas from making victims like Aurl and get them back to their families.</Page>
+    </Text>
+</QuestDialog>

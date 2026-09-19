@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1009">
+        <Page social="0">Up in the Hall of Maidens are the very worst of the horrors in this hellhole. I'm talking about those creepy dolls.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:33#1#ghost} and {@LinkCreature:33#2#cursed moppets} might seem harmless—or even cute!—the first time you spot one, but when they swarm on your comrade and skin him alive...well that's a lot less cute. That might just haunt you for the rest of your days.&lt;BR&gt;&lt;BR&gt;Are you brave enough to kill a few?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1009">
+        <Page social="0">You look like you were successful!&lt;BR&gt;&lt;BR&gt;Brave &lt;PCNAME&gt;! The—OH SWEET KAIA, THERE'S ONE ON YOUR BACK!&lt;BR&gt;&lt;BR&gt;Wait. No. Just a shadow. My mistake.</Page>
+    </Text>
+</QuestDialog>

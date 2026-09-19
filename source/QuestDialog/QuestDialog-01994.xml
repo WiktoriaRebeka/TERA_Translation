@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2004">
+        <Page social="0">You delivered carving material to Dolme and received a Horn Helm.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2004">
+        <Page social="4">&lt;PCNAME&gt;, welcome to the beach party.&lt;BR&gt;&lt;BR&gt;If you're interested in procuring a horn helm, you might be out of luck. Lots of customers looking to buy horn helms this year, and I bring near enough horns with me.&lt;BR&gt;&lt;BR&gt;I tell you what, though, &lt;PCNAME&gt;: You go get me two arachnen horns from Serpentis Isle, and I'll make you a horn helm. Deal?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2004">
+        <Page social="4">Well done, &lt;PCNAME&gt;! These are some fine horns, and they should last me through the rest of the day.&lt;BR&gt;&lt;BR&gt;Here's your horn helm, and thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="2004">
+        <Page social="0">I know getting arachnen horns isn't easy, &lt;PCNAME&gt;. But I'd very much appreciate it if you could hurry.</Page>
+    </Text>
+</QuestDialog>

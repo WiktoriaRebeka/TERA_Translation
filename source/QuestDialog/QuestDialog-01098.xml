@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1022">
+        <Page social="4">I do worry about our safety if the bears get any bolder. None of us are fighters here.&lt;BR&gt;&lt;BR&gt;You look to be a seasoned fighter, however. You could do us a great service with a bit of local bear-hunting.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1022">
+        <Page social="4">I'll confess I'm not ashamed to feel much safer now. I never claimed to be particularly brave, you know.</Page>
+    </Text>
+</QuestDialog>

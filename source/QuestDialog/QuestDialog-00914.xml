@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1027">
+        <Page social="12">Jermir was scouting to the north yesterday, and returned badly injured.&lt;BR&gt;&lt;BR&gt;There are iskaragards near the ruins of northern Ger, but they shouldn't have been any trouble for him.&lt;BR&gt;&lt;BR&gt;Will you find out what happened? I can't leave him when he's so weak.&lt;BR&gt;&lt;BR&gt;I'll consider any iskaragards you happen to dispatch as vengeance for Jermir's suffering.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1027">
+        <Page social="20">Even if Jermir's injuries owe nothing to the iskaragards, I feel better knowing there are fewer of them.</Page>
+    </Text>
+</QuestDialog>

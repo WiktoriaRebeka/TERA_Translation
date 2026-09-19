@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1023">
+        <Page social="9">Are you with the local regiment—Kaia's Sword? Can you help me?&lt;BR&gt;&lt;BR&gt;My sons left home a few days ago, and I'm starting to get worried. Can you check up on them for me?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1007">
+        <Page social="4">You're looking for Wynne's sons? Zebedah and Zebulon?&lt;BR&gt;&lt;BR&gt;Sorry, didn't mean to get your hopes up. Haven't seen hide nor hair of them. I try to keep an eye on everything around here, but I'm no Balder. I can't see everything.&lt;BR&gt;&lt;BR&gt;Check with {@LinkCreature:212#1001#Munam}. Don't let the gruff act fool you. He's the biggest gossip I've ever met.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1001">
+        <Page social="4">Did you say that you're here on Wynne's request? What do you mean the children have disappeared? There are so many things happening, I haven't received a report on that one yet. There was a child wandering around here a few days ago. Why don't you ask the guards as you look around the campsite? I'm sorry I'm not much of a help. Anway, it's great to have you back in one piece.</Page>
+    </Text>
+</QuestDialog>

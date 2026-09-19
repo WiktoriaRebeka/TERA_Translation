@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1107">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1107">
+        <Page social="4">Larusia swears that howling ghosts are keeping her awake. But I keep telling her: it's the wolves!&lt;BR&gt;&lt;BR&gt;Prove I'm right—and let me sleep—by killing the {@LinkCreature:4#1041#ashstalker wolves} out there!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1107">
+        <Page social="4">It's quiet. Almost...too quiet.&lt;BR&gt;&lt;BR&gt;But not too quiet for a nap, once this shift ends.&lt;BR&gt;&lt;BR&gt;Thanks, &lt;PCNAME&gt;. And I'll be thanking you in my dreams!</Page>
+    </Text>
+</QuestDialog>

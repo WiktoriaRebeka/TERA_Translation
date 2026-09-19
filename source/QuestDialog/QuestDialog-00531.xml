@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1008">
+        <Page social="4">&lt;font color='#660000'&gt;{@RawItem:206821}&lt;/font&gt; is famous for its wondrous purification powers. Why, it's only possible to rely on the village's oasis for our drinking water because there is &lt;font color='#660000'&gt;{@RawItem:206821}&lt;/font&gt; at the bottom of that very oasis.&lt;BR&gt;&lt;BR&gt;It is an invaluable resource that allows us to sustain life.&lt;BR&gt;&lt;BR&gt;If you happen to have some, I will pay you very handsomely for it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="2" villagerId="1008">
+        <Page social="4">Oh, you got it! Thank you!&lt;BR&gt;&lt;BR&gt;People who rely on the oasis water will appreciate you for this, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="65" villagerId="1008">
+        <Page social="0">If you get me some {@RawItem:206821} to maintain the clear oasis, it would be greatly appreciated.</Page>
+    </Text>
+</QuestDialog>

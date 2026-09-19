@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1019">
+        <Page social="4">The faeries used to guard the Staff of Isren. Since the argons and Thulsa's troops came through, the faeries turned against us.&lt;BR&gt;&lt;BR&gt;The unicorns and their urisk minions scour Darkquaver Woods, preying on travelers and soldiers. That's not normal for unicorns.&lt;BR&gt;&lt;BR&gt;I need you to find out why they're acting this way.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1019">
+        <Page social="4">These fragments are strange. They emanate argon energy, but there aren't many argons in Darkquaver Woods.&lt;BR&gt;&lt;BR&gt;Are these stones influencing the fey races? I must report this at once.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1019">
+        <Page social="0">Urisks are numerous, but not particularly durable. The unicorns, however, are dangerous foes. Be cautious and you'll survive.</Page>
+    </Text>
+</QuestDialog>

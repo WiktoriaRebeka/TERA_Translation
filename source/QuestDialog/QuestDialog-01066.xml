@@ -1,0 +1,59 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You entered the {@Rgn:9012001$$Three Towers Spires} to discover many dead and argonized victims, including Yasring, stored in argon cocoons. You couldn't save them, so you sought revenge against the argons in the towers. You found only one survivor: a castanic named Hasmina.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Valkyon Directive:&lt;BR&gt;&lt;BR&gt;We lost contact with an expedition to the Three Towers.&lt;BR&gt;&lt;BR&gt;Enter the {@Rgn:9012001$$Three Towers Spires} and search for survivors—especially Yasring.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="46" villagerId="2">
+        <Page social="0">Good, now we're in.&lt;BR&gt;&lt;BR&gt;This place gives me the creeps. We've figured out a lot of the towers' functions, but this area is still a mystery.&lt;BR&gt;&lt;BR&gt;Keep your eyes peeled and stay alert for a possible ambush.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="412" prevId="2" villagerId="2009">
+        <Page social="13" voiceTypeId="0">My team and I will move Yasring—or what's left of her—somewhere safer. We're all in shock, but someone has to report this. Between you and me, I'm worried about the nerves of the other scouts. You go on ahead. I'm going to get my squad back so we can regroup.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="412" prevId="4" villagerId="2005">
+        <Page social="13" voiceTypeId="0">Just when I thought all hope was lost...&lt;BR&gt;Thank you so much.&lt;BR&gt;&lt;BR&gt;I still have a job to do.&lt;BR&gt;We should stick together. It’s dangerous alone. Come on!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="412" prevId="5" villagerId="2006">
+        <Page social="1" voiceTypeId="0">N-not yet, all right? Let's get out of here.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="6" villagerId="2001">
+        <Page social="8" voiceTypeId="0">We heard the explosions. Striking the heart of the argon operation can only do good things. I've just a few additions to add to my report. Will you wait a moment?&lt;NEXTPAGEBUTTON&gt;"As you wish."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It’s a document of all the research I’ve been doing here.&lt;BR&gt;&lt;BR&gt;Please give this to {@Rgn:84001$$Kaiator}.&lt;BR&gt;This should help establishing strategies.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="7" villagerId="2008">
+        <Page social="4" voiceTypeId="0">Before I forget...thank you. I'm {@Creature:246#2008$$Hasmina}.&lt;BR&gt;&lt;BR&gt;I didn't expect to survive the Three Towers. To tell you the truth, I'm not sure I wanted to.&lt;BR&gt;&lt;BR&gt;I owe you my life.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="8" villagerId="2008">
+        <Page social="4" voiceTypeId="0">I must return to {@Rgn:84001$$Kaiator}. The fight isn't over yet, but I get the feeling our journey has just begun.&lt;BR&gt;&lt;BR&gt;Come with me, take this teleportal scroll.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="528" prevId="9" villagerId="5005">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! You're back!&lt;BR&gt;What's that? A report...?&lt;NEXTPAGEBUTTON&gt;"You should read this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">How...&lt;BR&gt;...could this...&lt;BR&gt;&lt;BR&gt;We should definitely have a discussion on this.&lt;BR&gt;Commander Gislan happens to be here right now.&lt;BR&gt;&lt;BR&gt;We can't keep him waiting, so please have a word with him while I read the rest of the report.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="528" prevId="10" villagerId="5026">
+        <Page social="4" voiceTypeId="0">It's a pleasure to meet you, &lt;PCNAME&gt;.&lt;BR&gt;I heard that you met Hasmina at the Three Tower.&lt;BR&gt;&lt;BR&gt;Hasmina is a bright young officer like you. We're grateful to you for saving her life.&lt;NEXTPAGEBUTTON&gt;"I'd never abandon a comrade."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">At terms like this, we need a hero to boost up our troops. We're not fully aware of our foes, are we.&lt;BR&gt;&lt;BR&gt;As you know, it's a living hell down at the {@Rgn:48001$$Khanovar Front}. The Argons are getting clever day by day.&lt;BR&gt;&lt;BR&gt;Velika had to stand up before the federation fell apart.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="528" prevId="11" villagerId="5026">
+        <Page social="4" voiceTypeId="0">I see. That might be true. &lt;PCNAME&gt;, do you have any thoughts?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="528" prevId="11" villagerId="5026">
+        <Page social="4" voiceTypeId="0">The Argons have become clever after the first war.&lt;br&gt;They approached Samael and nearly paralyzed the Velika Headquarters.&lt;BR&gt;&lt;BR&gt;If we withdraw our troops...that would be the worst possible scenario.&lt;NEXTPAGEBUTTON&gt;"I agree."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I believe no one wants that to happen, so we should send minimal force as possible.&lt;BR&gt;&lt;BR&gt;You'd make a fine warrior. Will you join me?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="528" prevId="11" villagerId="5026">
+        <Page social="4" voiceTypeId="0">Thank you for your opinion. Even if Helkan is wrong, with the Divine Furnace and Muhrak gone, it affects the manufacture of our supplies.&lt;br&gt;&lt;br&gt;It'll get worse as the war continues. We must balance our loss with the most minimal, yet efficient man power.&lt;NEXTPAGEBUTTON&gt;"You have a point."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Correct me if I'm wrong, but as far as I know you belong to the Velika Guards, soldier. I'd like to take you by my side.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="528" prevId="12" villagerId="5005">
+        <Page social="4" voiceTypeId="0">It's not that I don't know how the situation at {@Rgn:48001$$Khanovar Front} is...I just can't afford to lose you. This is giving me a headache.&lt;NEXTPAGEBUTTON&gt;"It's your call."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It was hard enough sending you to the Mysterium &lt;PCNAME&gt;. You're Kaia's Sword and rescuing Muhrak is the most urgent task right now.&lt;BR&gt;&lt;BR&gt;I mean no disrespect to Gislan, but I can't send you to a battlefield which can't guarantee your return.&lt;NEXTPAGEBUTTON&gt;"I understand."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">After this is settled, Kaiator will devote all strength to the Argon War.&lt;BR&gt;&lt;BR&gt;I'll send Hasmina with Gislan instead. She'll be most helpful.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, go and tell Hasmina about this. She should be at the supply depot.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="84" prevId="15" villagerId="10034">
+        <Page social="4" voiceTypeId="0">Thanks, &lt;PCNAME&gt;. I thought it would be me. Kaia wanted this.&lt;BR&gt;&lt;BR&gt;I wished to join the battle by your side, but I guess that will have to wait.&lt;NEXTPAGEBUTTON&gt;"Stopping Thulsa is first."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You’re very trustworthy &lt;PCNAME&gt;. While you stay here and stop Thulsa, I’ll go and stop the Argons.&lt;BR&gt;Don’t die soldier. When this is over, let’s have a drink.&lt;BR&gt;&lt;BR&gt;Take this. It’s a gift to my new friend.&lt;BR&gt;&lt;BR&gt;Take care.</Page>
+    </Text>
+</QuestDialog>

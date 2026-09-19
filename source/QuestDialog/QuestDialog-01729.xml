@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I've located the second stone. Please come find me in Highwatch.&lt;BR&gt;&lt;BR&gt;- Meren</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Meren discovered the location of the Celestial Stone.&lt;BR&gt;The stone was being held as a prize for the winner of the Celestial Arena.&lt;BR&gt;You won the prize, and further empowered the Eternal Crown.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I was waiting for you.&lt;BR&gt;&lt;BR&gt;I've located the second stone.&lt;BR&gt;&lt;BR&gt;It's called the Celestial Stone, and it's quite near us.&lt;BR&gt;&lt;BR&gt;Have you ever heard of the name &lt;font color='#FF0000'&gt;Bethania&lt;/font&gt;?&lt;NEXTPAGEBUTTON&gt;"No."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">She's a legendary entertainer. She's the one who created Bamarama.&lt;BR&gt;&lt;BR&gt;She's a born gambler who's always looking for a new game.&lt;BR&gt;&lt;BR&gt;She also designed the Celestial Arena.&lt;BR&gt;&lt;BR&gt;Speaking of which, there's a tournament to be held at the arena, and wouldn't you know, the Celestial Stone is the prize.&lt;BR&gt;&lt;BR&gt;You can find Bethania near the Celestial Arena Manager. To get the stone, you'll have to talk to her.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1149">
+        <Page social="0" voiceTypeId="0">Welcome, &lt;PCNAME&gt;! Are you here to participate in the tournament?&lt;BR&gt;&lt;BR&gt;You'll be able to show off your skills, and compete for fabulous prizes!&lt;BR&gt;&lt;BR&gt;What? Eternal Crown? Celestial Stone? I don't know what you're talking about&lt;BR&gt;&lt;BR&gt;What, this? It's just a shiny bauble. It isn't worth anything, I checked!&lt;BR&gt;&lt;BR&gt;This is a bit depressing.&lt;NEXTPAGEBUTTON&gt;"We need the stone."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Well, can you at least pretend to work for it? This arena is designed to challenge the best of the best, and you certainly qualify.&lt;BR&gt;&lt;BR&gt;By defeating monster after monster, challengers advance to the final stages. Do you see what I'm saying?&lt;BR&gt;&lt;BR&gt;The stone is part of the tournament, I can't just give it away..&lt;NEXTPAGEBUTTON&gt;"You know it's for the Goddess, right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I do now. That should give you more motivation to win and claim the prize!&lt;BR&gt;&lt;BR&gt;&lt;b&gt;[Speak with {@linkcreature:183#7001#Gaderong} to enter the Celestial Arena.]&lt;/b&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="830" prevId="4" villagerId="4000103">
+        <Page social="0" voiceTypeId="0">Looks like all the contestants are here.&lt;BR&gt;&lt;BR&gt;For those who are ready, go speak with Gaderong.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="1149">
+        <Page social="0" voiceTypeId="0">Well done. That was something indeed.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I won, right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Of course you did!&lt;BR&gt;Congratulations!&lt;BR&gt;&lt;BR&gt;And here's the stone.&lt;BR&gt;&lt;BR&gt;I wish you luck in restoring the Eternal Crown.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Did you get the stone?&lt;NEXTPAGEBUTTON&gt;"Two down, four to go."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We're on the right track.&lt;BR&gt;&lt;BR&gt;Take this. It should help you retrieving the other stones.&lt;BR&gt;I'll let you know when I have more information.&lt;BR&gt;May the goddess be with you.</Page>
+    </Text>
+</QuestDialog>

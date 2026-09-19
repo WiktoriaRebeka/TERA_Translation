@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1021">
+        <Page social="5">You don't look to be...overly-burdened with ethics. Interested in making a tidy bag of gold?&lt;BR&gt;&lt;BR&gt;The kumases wear a necklace with an enormous crystal in the middle. I've got arcanists asking after one with a whole lot of coins on the table. If you kill a {@LinkCreature:24#9#desert lightning kumas} and bring me the crystal, I'll see you're well-paid.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1021">
+        <Page social="5">That is quite a stone! Pleasure doing business with you!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1021">
+        <Page social="0">Come on—you're not going to try and tell me you can't find a kumas the size of a house? Hurry up and get that necklace!</Page>
+    </Text>
+</QuestDialog>

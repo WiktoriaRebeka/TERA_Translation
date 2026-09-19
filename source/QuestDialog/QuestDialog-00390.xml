@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1028">
+        <Page social="0">Jelena's plan got you into the manor. While Jelena cleared the way, you killed the vampir duke and duchess, found the device that produced the dementaliths—and blew it to bits.&lt;BR&gt;&lt;BR&gt;A Scion priestess, Akia, vowed revenge for your meddling. By the time you killed her pet arachnen, she'd escaped, but you forged a new friendship with Jelena.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1028">
+        <Page social="4" voiceTypeId="0">The nobles use that teleportal to come and go unseen.&lt;BR&gt;&lt;BR&gt;They think it's safe because it's keyed to their blood. Thanks to you, we have some of that!&lt;BR&gt;&lt;BR&gt;Grab a vial, and I'll see you on the other side!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3002" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Shhh! They're right up those stairs!&lt;BR&gt;&lt;BR&gt;Can you feel that tingling? Right in the back of your neck? That must be magic from their device. Blast, it's strong! We must be quick.&lt;BR&gt;&lt;BR&gt;Okay, are you ready?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3002" prevId="3" villagerId="1001">
+        <Page social="4" voiceTypeId="0">You'll be making a lot of noise, so I'll disable their alarms, and meet at the ladder to the ground floor.&lt;BR&gt;&lt;BR&gt;If anyone—or anything—gives you trouble, cut them down and let the Dream sort it out.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3002" prevId="4" villagerId="1005">
+        <Page social="4" voiceTypeId="0">You go crash {@linkcreature:3002#10#Duchess Tirania} and {@linkcreature:3002#13#Duke Volperon}'s little party.&lt;BR&gt;&lt;BR&gt;I'll rig the temple door to open when they die. Then we can put an end to this mess.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="15" villagerId="4">
+        <Page social="0">All right. It's time to take out that device. Hum a song or count as high as you can—anything to keep your mind focused. Just make sure you destroy the target!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="216" prevId="5" villagerId="1028">
+        <Page social="4" voiceTypeId="0">Is this the end of Sinestral Manor?&lt;BR&gt;&lt;BR&gt;We got rid of the duke and duchess and destroyed the dementalith generator. All in a day's work, eh? Great job in there!</Page>
+    </Text>
+</QuestDialog>

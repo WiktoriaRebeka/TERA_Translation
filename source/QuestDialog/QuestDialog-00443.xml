@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1009">
+        <Page social="4">I need to investigate this Ceremony of Blessing, but I can't get past the throngs of vampirs.&lt;BR&gt;&lt;BR&gt;If you could even get rid of the {@LinkCreature:16#2403#vampir runners} and {@LinkCreature:16#2404#vampir soldiers} in the &lt;font color='#660000'&gt;mansion garden&lt;/font&gt;, that would help.&lt;BR&gt;&lt;BR&gt;When you're done, report to Segodun—he's already in the garden.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1011">
+        <Page social="4">Made it through, I see. Good job!&lt;BR&gt;&lt;BR&gt;Take this for the work you've put in.</Page>
+    </Text>
+</QuestDialog>

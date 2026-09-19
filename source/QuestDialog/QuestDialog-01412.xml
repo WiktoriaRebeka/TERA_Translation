@@ -1,0 +1,55 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="61" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, there have been reports about an extraordinary phenomenon involving Smoldering Bloodshards in and around Castanica.&lt;BR&gt;&lt;BR&gt;Sophilia has requested our assistance. Please head to Firebase Intrepid in Fyrmount and give her a hand.&lt;BR&gt;&lt;BR&gt;I have enclosed a Teleport Scroll with this order. Please hurry.&lt;BR&gt;&lt;BR&gt;- Seir&lt;BR&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Desperate for help, Sophilia sent an urgent request for aid from Castanica. Seir, once again sent &lt;PCNAME&gt; to investigate. Arriving at Castanica, &lt;PCNAME&gt; could not believe what was happening: The area was covered in Smoldering Bloodshards.&lt;BR&gt;Led by a researcher named Loomey, &lt;PCNAME&gt; entered Bahaar's Sanctum, the source of the Fyrmount.&lt;BR&gt;&lt;BR&gt;There, &lt;PCNAME&gt; faced the Fire Lord himself.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="1" villagerId="1003">
+        <Page social="4" voiceTypeId="0">At last!&lt;BR&gt;I was hoping they would send you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The Smoldering Bloodshards are flaring, and spewing Toxic Gas everywhere...it's out of control.&lt;BR&gt;&lt;BR&gt;Sophilia has gone to evacuate civilians from the areas that were hit the hardest.&lt;BR&gt;&lt;BR&gt;I'll show you where she is. Please go help her.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="4" prevId="3" villagerId="904401">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! I'm so glad Seir sent you!&lt;BR&gt;&lt;BR&gt;I don't think I have to explain what's going on down here. I've evacuated most of the civilians, but there's many wounded left.&lt;BR&gt;&lt;BR&gt;But the Smoldering Bloodshards are spreading at an insane pace. It's only a matter of time before they'll be in Castanica.&lt;BR&gt;&lt;BR&gt;We can't let that happen.&lt;NEXTPAGEBUTTON&gt;"Any idea what's causing this?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I'm not sure...&lt;BR&gt;Everything happened so fast, I didn't have time to investigate. But this man, Loomey, claims that he knows the reason for all of this.&lt;BR&gt;&lt;BR&gt;He was just about to tell me about it. &lt;PCNAME&gt;, please come with me.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="4" prevId="4" villagerId="904402">
+        <Page social="4" voiceTypeId="0">Greetings. My name is Loomey. I'm something of a wandering researcher.&lt;BR&gt;&lt;BR&gt;Since we don't have much time, I'll keep this brief.&lt;BR&gt;Smoldering Bloodshards grow naturally on lava. But based on how fast they're spreading...I can only assume that Fyrmount is somehow over-producing energy.&lt;BR&gt;&lt;BR&gt;There must be something happening deep down the volcano.&lt;NEXTPAGEBUTTON&gt;"What can we do to stop it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">There's one way...but far too dangerous.&lt;BR&gt;I couldn't do anything even if I were to go there.&lt;BR&gt;&lt;BR&gt;Wait...aren't you &lt;PCNAME&gt;?&lt;BR&gt;I've been all over the world in my travels...and there wasn't a single place where people didn't know you...and they all spoke highly of you.&lt;BR&gt;&lt;BR&gt;I think you can help fix this problem, if you're willing to risk it.&lt;NEXTPAGEBUTTON&gt;"I'll do whatever it takes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Good. We have no time to lose.&lt;BR&gt;&lt;BR&gt;Meet me at the giant Smoldering Bloodshard near Firebase Valor.&lt;BR&gt;&lt;BR&gt;I'll put together a more detailed plan, and have it ready for you when you arrive.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="4" prevId="5" villagerId="904401">
+        <Page social="4" voiceTypeId="0">The volcano is causing all this?&lt;BR&gt;How in the goddess's name could he possibly know that?&lt;BR&gt;&lt;BR&gt;I still have my doubts, but if it keeps Castanica safe, that's all that matters.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, please go and help Loomey.&lt;BR&gt;I'm counting on you.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="4" prevId="6" villagerId="904403">
+        <Page social="4" voiceTypeId="0">This giant Smoldering Bloodshard...&lt;BR&gt;It's been growing here for quite some time.&lt;BR&gt;&lt;BR&gt;If we can sever the connection between the volcano and the bloodshards, this should all come to an end.&lt;BR&gt;&lt;BR&gt;Take this talisman.&lt;BR&gt;Use it to disconnect the volcano and bloodshards.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="4" prevId="7" villagerId="904403">
+        <Page social="4" voiceTypeId="0">Are you...okay?&lt;BR&gt;The talisman didn't work...? Why did it not work? Unless...?&lt;NEXTPAGEBUTTON&gt;"Unless what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It's the worst possible scenario...&lt;BR&gt;&lt;BR&gt;I prayed that this would not come to pass.&lt;BR&gt;&lt;BR&gt;Okay. We have no other choice now.&lt;BR&gt;&lt;BR&gt;I need to get closer to the source of this power...&lt;BR&gt;&lt;BR&gt;Follow me.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="4" prevId="8" villagerId="904404">
+        <Page social="4" voiceTypeId="0">Oh, Arun, this wasn't supposed to happen yet! Why now?&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I've encountered this overwhelming power before...&lt;BR&gt;&lt;BR&gt;This is Bahaar...the Fire Lord. A very old god.&lt;BR&gt;&lt;BR&gt;But it's impossible for his power to have grown so great... No! Something must have happened to the seal!&lt;NEXTPAGEBUTTON&gt;"What seal?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, I can feel that you have been blessed by the gods.&lt;BR&gt;&lt;BR&gt;Of all mortals, you are truly worthy...worthy enough to know the secrets of the gods.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="4" prevId="9" villagerId="904405">
+        <Page social="5" voiceTypeId="0">Allow me to reintroduce myself.&lt;BR&gt;&lt;BR&gt;I am Halrath the Traveler.&lt;BR&gt;&lt;BR&gt;I apologize: I did not mean to deceive you by concealing my true self.&lt;BR&gt;&lt;BR&gt;I had to save my strength, to be prepared for the worst possible scenario.&lt;NEXTPAGEBUTTON&gt;"What would that be?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Bahaar regaining his full power...and thereby destroying the world.&lt;BR&gt;&lt;BR&gt;What you are seeing here is only an omen.&lt;BR&gt;Once Bahaar has fully recovered, everything you have ever known will be burned to ashes.&lt;BR&gt;&lt;BR&gt;I do not know what happened in the Sanctum, but we will both need all of our strength to stop Bahaar.&lt;NEXTPAGEBUTTON&gt;"How do we do that?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Nothing is left of Bahaar but rage and fury. We have no choice but to seal him up inside his sanctum.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you must help me get inside. I have to see for myself what has happened. Of all this world's heroes, I think you are the most capable of helping me.&lt;BR&gt;&lt;BR&gt;Bahaar's Sanctum lies at the end of Fyrmount. You'll need a flying mount to reach it. I'll wait for you at the entrance.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="4" prevId="10" villagerId="904406">
+        <Page social="5" voiceTypeId="0">I see you made it, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Before you is the entrance to Bahaar's Sanctum.&lt;BR&gt;&lt;BR&gt;Only the most worthy can enter.&lt;NEXTPAGEBUTTON&gt;"It's certainly off the beaten path."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Balder intended that the Sanctum would be isolated from the world.&lt;BR&gt;&lt;BR&gt;It appears to be an featureless cave, in a nearly unreachable place, because the gods did not want anyone discovering it by chance.&lt;BR&gt;&lt;BR&gt;But because you have long since proven yourself worthy, you are able to see what ordinary mortals cannot.&lt;BR&gt;&lt;BR&gt;Let us make haste.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="444" prevId="11" villagerId="5001">
+        <Page social="0" voiceTypeId="0">(There's an oddly familiar feeling of power here...but it is not coming from Balder's Seal.)</Page>
+    </Text>
+    <Text id="13" huntingZoneId="444" prevId="12" villagerId="5000">
+        <Page social="5" voiceTypeId="0">That dragon...so much like Vergos...&lt;BR&gt;&lt;BR&gt;Whatever its origin, the dragon failed to achieve its goal.&lt;BR&gt;&lt;BR&gt;There's barely any trace of it on the wind.&lt;BR&gt;&lt;BR&gt;Still, it broke the seal, and now it's only a matter of time before Bahaar awakens.&lt;BR&gt;&lt;BR&gt;Nothing will be left of him now...but pure rage.&lt;NEXTPAGEBUTTON&gt;"Is there anything we can do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">I can try to restore the seal...but it will take time.&lt;BR&gt;&lt;BR&gt;You will have to prevent Bahaar from leaving. Once I've restored the seal, Bahaar will be imprisoned again.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="444" prevId="13" villagerId="5002">
+        <Page social="5" voiceTypeId="0">It's not perfect, but it's near enough. Thanks to you, I was able to restore the barrier that Balder created.&lt;BR&gt;&lt;BR&gt;If only Bahaar truly knew what Balder wanted for him, this would have never happened...&lt;BR&gt;&lt;BR&gt;Bahaar, was the noblest warrior of us all. If Bahaar awakened at the right time, he would have been the mightiest shield protecting Arborea.&lt;NEXTPAGEBUTTON&gt;"He was indeed a formidable opponent."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">I should stay here and guard the seal.&lt;BR&gt;&lt;BR&gt;Bahaar has been interred here in Fyrmount for such a long time, I can still faintly sense his presence deep within the mountains.&lt;BR&gt;&lt;BR&gt;Now, though, there is not left of him but pure fire...without the rage.&lt;BR&gt;&lt;BR&gt;Of course, if Bahaar awakens again, it could be a different story.&lt;BR&gt;&lt;BR&gt;Here, take this.&lt;BR&gt;I hope we can meet again, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

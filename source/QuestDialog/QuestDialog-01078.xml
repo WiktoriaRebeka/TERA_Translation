@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1036">
+        <Page social="4">Each floor of Raga Evala seems to have been used for advanced botanical research, plant evolution, energy metabolism, that sort of thing.&lt;BR&gt;&lt;BR&gt;They didn't cover that in your military training? Unsurprising.&lt;BR&gt;&lt;BR&gt;I believe the argons were trying to evolve plants into pure energy. They grew them in all these water tanks. Get some samples, but don't evolve into pure energy yourself!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1036">
+        <Page social="4">They're further along than we thought. The director should hear about this.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1036">
+        <Page social="0">Please destroy {@Creature:46#7004$$aquaas extractors} in surrounding rooms and collect samples.&lt;BR&gt;&lt;BR&gt;I want to know whether the plants can really evolve into pure energy.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1103">
+        <Page social="4">Evidence that plants can self-synthesize? That would mean limitless energy for the argons...</Page>
+    </Text>
+</QuestDialog>

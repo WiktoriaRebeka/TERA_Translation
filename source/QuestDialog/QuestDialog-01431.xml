@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Unless you have a piece of eldritch leather squirreled away somewhere, don't even ask. I can't make the top hats without the leather, and you can't get the leather anywhere.&lt;NEXTPAGEBUTTON&gt;"I have the leather."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Wow, you actually had some?&lt;BR&gt;&lt;BR&gt;Well, okay, then! What spectacular hat fits you best?&lt;NEXTPAGEBUTTON&gt;"Let me see your selection."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">If you need eldritch leather, you're out of luck. Trust me, just dump your bloodhide and rough hide on the market, and cut your losses.</Page>
+    </Text>
+</QuestDialog>

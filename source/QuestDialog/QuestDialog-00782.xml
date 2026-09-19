@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1027">
+        <Page social="4">They aren't as bad as those horrible dolls, but the monsters down in the Catacomb of Misery and the Bloody Depths are still nothing to sneeze at.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:33#8#merciless}, {@LinkCreature:33#9#armored}, {@LinkCreature:33#58#relentless}, and {@LinkCreature:33#59#pitiless disc reapers} have managed to chase down and kill a number of soldiers and researchers, despite the fact nothing should move that fast on its hands.&lt;BR&gt;&lt;BR&gt;You must eliminate them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1027">
+        <Page social="4">Ah! You truly laugh in the face of death!&lt;BR&gt;&lt;BR&gt;Those disc reapers have killed so many, collecting their insignia as trophies! I've fought on the bloodiest battlefields, but nothing makes my blood run cold like this place.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1027">
+        <Page social="0">Come on! You can find those disc reapers!</Page>
+    </Text>
+</QuestDialog>

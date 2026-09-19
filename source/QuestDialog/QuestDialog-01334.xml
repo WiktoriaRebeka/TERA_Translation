@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1025">
+        <Page social="4">The jalmaraks were once charged with guarding the Staff of Isren. No one knows why they betrayed the faerie, but that's just what they did.&lt;BR&gt;&lt;BR&gt;What concerns me, however, is the number of dracoloths lumbering around the Plaza of the Fallen. Dracoloths are powerful foes, treacherous and tempermental.&lt;BR&gt;&lt;BR&gt;I suspect Thulsa's hands behind their presence. Either way, they must die.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1025">
+        <Page social="4">Splendid work, my friend. With the dracoloths dead, we can turn our attention to the unseelie.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1025">
+        <Page social="0">Dracoloths are similar to dragons, but diverge sharply from them. No one really knows why. What we do know is they're vicious, powerful, and eager to inflict pain. We can't let them stay.</Page>
+    </Text>
+</QuestDialog>

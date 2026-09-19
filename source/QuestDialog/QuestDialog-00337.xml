@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="0">After crossing the bridge into the Tainted Gorge, you met Phaedra, a castanic scout, who sent you on a patrol of the perimeter. Once you arrived at the garrison's temporary camp, Sersine gave you additional orders.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1134">
+        <Page social="4">I'm cut off from my forward scouts, but carving my way through a pack of prowling cromoses would mean surrendering this bridge to the orcans.&lt;BR&gt;&lt;BR&gt;Now that you're here, can you check up on them for me? And deal with the cromoses, of course. Darius was on patrol, but if she's followed orders, Phaedra should be concealed just across the next bridge.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1005">
+        <Page social="4">Edan's still alive? Well, that's a relief. Maybe you can handle yourself after all.&lt;BR&gt;&lt;BR&gt;Let me give you the copper-piece tour of the Tainted Gorge. This is enemy territory, and there's a lot of them. Demons of every shape and size. They're searching for something, but I don't know what.&lt;NEXTPAGEBUTTON&gt;"What are my orders?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Our temporary camp is just over there, but we haven't had the manpower for a perimeter sweep. Until you showed up, that is. Head around the back of this hill and see what the demons are up to. And by that, I mean kill a few and see if they have anything interesting on them.&lt;BR&gt;&lt;BR&gt;Oh, and if you come across any of our fallen comrades, grab their expedition amulets and bring them back to Sersine.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1025">
+        <Page social="4">So Edan survived the attack. This is good news. We feared he was lost.&lt;BR&gt;&lt;BR&gt;Thank you for recovering these amulets, they should give some peace to the families of the fallen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1025">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

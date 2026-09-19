@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="78" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Tell Dougal that you are fully prepared for the Gridiron.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Dougal invites &lt;PCNAME&gt; to the Gridiron.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Are you ready to fight in the Gridiron?&lt;BR&gt;&lt;BR&gt;The best of the federation's competitors are gathering for a big match.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you are one of the greatest heroes I've ever met. Join them and test your prowess...then come back and let me know how you liked the competition.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1021">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Did you enjoy the competition?&lt;BR&gt;&lt;BR&gt;I always knew that your combat skills were beyond comparison. Sometimes it feels good to just leave all the elaborate quests behind and just focus purely on the fighting. Really good for relieving stress!&lt;BR&gt;&lt;BR&gt;Visit the Gridiron again soon!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="223" prevId="0" villagerId="9906">
+        <Page social="2" voiceTypeId="0">Excuse me, noble Angler. Can you spare some time for a poor fisherpopori down on his luck?&lt;BR&gt;&lt;BR&gt;I was hoping to start a new career in fishing, but I don't seem to be any good at it. I can't even catch enough to make some Fish Fritters for lunch.&lt;BR&gt;&lt;BR&gt;Can you help me?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; met Paparong at the Lake of Tears Fishery and helped him catch fish to feed his family.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="1" villagerId="9906">
+        <Page social="4" voiceTypeId="0">Wow! you're so kind. I love Fish Fritters, they're so crispy on the outside, juicy on the inside!&lt;BR&gt;&lt;BR&gt;I feel energized, but I'm afraid my fishing skills aren't high enough to provide for my family&lt;BR&gt;&lt;BR&gt;I hate to impose, but could you catch some fish for me so I can at least have something to show for today?&lt;BR&gt;&lt;BR&gt;Even though I'm no great shakes as an angler, I'm a fairly good merchant and can make it worth your while.&lt;NEXTPAGEBUTTON&gt;"You can count on me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Have you ever heard of a Freshwater Eel?&lt;BR&gt;&lt;BR&gt;It's a favorite in my house! If I can take two Freshwater Eels home, my family will forgive me for being gone all day.&lt;BR&gt;&lt;BR&gt;You can catch them here at the Lake of Tears Fishery, but you have to use the right kind of rod and bait.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="9906">
+        <Page social="0">What to do...what to do...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="3" villagerId="9906">
+        <Page social="2" voiceTypeId="0">May the Goddess bless you! Now I can go home! I promise to tell my family the truth...after dinner.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="223" villagerId="9906">
+        <Page social="0">Did you catch the eels?&lt;BR&gt;&lt;BR&gt; You may have to experiment with rods and bait to catch them. Genn over there said they were a "Grade 4" fish, whatever that means.</Page>
+    </Text>
+</QuestDialog>

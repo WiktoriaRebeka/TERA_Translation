@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2055">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2055">
+        <Page social="4">&lt;PCNAME&gt;! You opened the teleportal!&lt;BR&gt;&lt;BR&gt;Thanks to you, I can finally call myself a true teleportal researcher! Thank you!&lt;NEXTPAGEBUTTON&gt;"I'm happy to help!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">You did far more than merely "help."&lt;BR&gt;&lt;BR&gt;I know you have concerns of your own, but before you go through, can I please ask you just one more favor?&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">It is an auspicious day, when baraka all over the world are finally able to return to their ancestral homeland. We would like to reach out to them, to let them know that Highwatch is within their reach once more.&lt;BR&gt;&lt;BR&gt;Would you deliver these invitations to my baraka brothers in Velika?&lt;NEXTPAGEBUTTON&gt;"Leave it to me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1567">
+        <Page social="4">You came from where?&lt;BR&gt;&lt;BR&gt;Highwatch? It still exists, after all this time?&lt;NEXTPAGEBUTTON&gt;"Indeed—and the baraka there want you to come visit."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">This is indeed a day to remember!&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I will share this with the baraka in Kaiator and Allemantheia.&lt;BR&gt;&lt;BR&gt;Thank you for delivering this message, and when you return to Highwatch, tell them that the baraka will be on their way!&lt;NEXTPAGEBUTTON&gt;"Will do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2055">
+        <Page social="4">You have done the baraka people a tremendous service today, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I know we can never truly repay you, but please, accept this as a token of my personal gratitude.&lt;NEXTPAGEBUTTON&gt;"Thank you, Garm."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

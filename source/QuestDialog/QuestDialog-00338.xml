@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Sersine suspected that Kugai the Mighty held clues as to what was going on in the Tainted Gorge, and sent you to kill him. She was right, and you found a document on his body written in an ancient language.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">With what we have learned today, I cannot recommend that our forces withdraw from the island. But suspicions are not facts, and you hold in your hand the means to confirm them.&lt;BR&gt;&lt;BR&gt;{@linkcreature:13#1004#Kugai the Mighty} walks unmolested through demon infested lands, when so many of our comrades lie savaged at his feet.&lt;BR&gt;&lt;BR&gt;Search his corpse for clues.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Kugai has fallen by your hand, but instead of answers you bring me more questions. This scroll bears similar markings to the tokens you collected earlier, an ancient language few understand. Few besides myself, anyway.&lt;NEXTPAGEBUTTON&gt;"What does it say?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Sersine reads the scroll.)&lt;BR&gt;&lt;BR&gt;I fear a ritual is underway, meant to summon a darkness that will spread across the world.&lt;BR&gt;&lt;BR&gt;Conducted by a demon lord and servant of Lok thought defeated long ago.&lt;BR&gt;&lt;BR&gt;Karascha.</Page>
+    </Text>
+</QuestDialog>

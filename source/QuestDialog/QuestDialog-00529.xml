@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1025">
+        <Page social="4">Kulkari attacks threaten our position here in the desert. If we could strike back harshly enough, they might back off. Track down {@LinkCreature:21#5001#Crag Stalker warlord Beldresk} and kill him.&lt;BR&gt;&lt;BR&gt; In fact, bring back a fang and I'll hang it from our tent. Send them a message that we will not be intimidated!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1025">
+        <Page social="4">The Crag Stalkers will think twice before attacking again, thanks to you.&lt;BR&gt;&lt;BR&gt;It won't bring back the dead, but it might prevent more deaths. Well done!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1025">
+        <Page social="0">I said it would send them a message, not that it would be easy. Just take your time and use your head.&lt;BR&gt;&lt;BR&gt;You can do it!</Page>
+    </Text>
+</QuestDialog>

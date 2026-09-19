@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1003">
+        <Page social="5">{@LinkCreature:6#1061#Gutrend brigands} and {@LinkCreature:6#1062#pillagers}! Because we haven't been killing enough of these things.&lt;BR&gt;&lt;BR&gt;Those are the two main groups giving us trouble now. I know you're sick of the speech, so how about we skip it and you just head out there?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1003">
+        <Page social="5">Fantastic! Thanks. Wonder which group is going to pop up next.&lt;BR&gt;&lt;BR&gt;Maybe we can do something with these headpieces. Something that would serve as a warning to the rest.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1003">
+        <Page social="0">Going with the standing around approach, are you? How's that working for you?</Page>
+    </Text>
+</QuestDialog>

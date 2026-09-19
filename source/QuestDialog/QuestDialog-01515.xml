@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="1100">
+        <Page social="0">Naga pirates attack Intrepid, which sustains heavy damage, forcing the Vanguard Initiative to abandon ship.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="1100">
+        <Page social="4">These naga are trying to steal the sky cruiser!&lt;BR&gt;&lt;BR&gt;They must have hid in some of the crates. Should have been more careful…&lt;BR&gt;&lt;BR&gt;We have to defend the ship.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="1100">
+        <Page social="4">I'll hold this position. We'll keep them from getting into the cargo hold.&lt;BR&gt;&lt;BR&gt;Help Zolyn repel these wretches and secure Intrepid's deck.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1102">
+        <Page social="4">Naga scum!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! Do you see that ugly big one? He's in command.&lt;BR&gt;&lt;BR&gt;Think you can stop him?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" prevId="4" villagerId="1102">
+        <Page social="4">Excellent!&lt;BR&gt;&lt;BR&gt;We're not done yet, though. I'll keep clearing the deck. Have you seen that furry idiot?&lt;NEXTPAGEBUTTON&gt;"I haven't."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">He barked something about a manifold near the bow.&lt;BR&gt;&lt;BR&gt;See if you can find him. His wrenches aren't as deadly as he thinks they are.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" villagerId="7">
+        <Page social="0">We're in trouble!&lt;BR&gt;&lt;BR&gt;The nagas damaged the forward engines. Probably didn't know what they were doing.&lt;BR&gt;&lt;BR&gt;Dougal needs to evacuate the ship before it crashes. Hurry, help me reach him!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="5" villagerId="1100">
+        <Page social="4">Paesyn! &lt;PCNAME&gt;! Thank Velik you're all right.&lt;NEXTPAGEBUTTON&gt;"Intrepid can't fly, sir!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Damn! She can't be saved?&lt;BR&gt;&lt;BR&gt;Very well. Use this horn. Order all hands to abandon the sky cruiser.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="1100">
+        <Page social="4">That's enough.&lt;BR&gt;&lt;BR&gt;Let's go!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1000">
+        <Page social="4">&lt;PCNAME&gt;! Are you hurt? Do you still like me?&lt;BR&gt;&lt;BR&gt; I'm glad you're alive. Seren's blessings protected you, my friend!</Page>
+    </Text>
+</QuestDialog>

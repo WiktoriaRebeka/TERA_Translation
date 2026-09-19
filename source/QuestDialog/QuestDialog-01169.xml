@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1010">
+        <Page social="4">(It says "{@LinkCreature:76#1011}'s Field Guide" on the cover. Inside is a research report detailing findings about the argons. Perhaps you should show this to someone who knows {@Creature:76#1011}.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1016">
+        <Page social="6">Of course I know Linkia. Precocious lass, about my height.&lt;BR&gt;&lt;BR&gt;She lost her parents during an argon attack. Devoted herself to studying them ever since.&lt;NEXTPAGEBUTTON&gt;"I found some of her research notes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Linkia's out in the field at the moment. She's pretty fearless, but a bit forgetful. If you hunt around, you'll probably come across more of her notes and reports. She leaves tomes, clues, and scraps of information all over the place. She tends to write them while sitting on graves.&lt;BR&gt;&lt;BR&gt;Bring me any of her notes you find. We'll see what we can learn!</Page>
+    </Text>
+</QuestDialog>

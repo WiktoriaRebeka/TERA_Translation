@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; destroyed the Storm Barrier Regulator and returned to Highwatch with Paesyn, Rhodos, and Halran just before the lab collapsed.&lt;BR&gt;Hagand speculated that all the conditions for reactivating the teleportal had been met, and invited &lt;PCNAME&gt; to do the honors. With a new relativity stone in place, the mechanism worked, projecting a strong ray of light to the sky. The teleportal appeared, and moments later, the federation reinforcements arrived from Velika.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Zolyn is gone?&lt;BR&gt;&lt;BR&gt;Don't worry: We'll find her, and bring her back safely.&lt;BR&gt;&lt;BR&gt;But we need to get the teleportal working. Things have gone from bad to worse on the battlefield, and we need reinforcements.&lt;BR&gt;&lt;BR&gt;Hagand will explain what needs to be done.&lt;NEXTPAGEBUTTON&gt;"Okay, I'll talk to him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Welcome back, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I have been informed of your loss, and you have my promise that Highwatch will do everything it can to help you find Zolyn.&lt;BR&gt;&lt;BR&gt;The immediate concern, though, is the teleportal. I believe that all of the conditions are right for reactivating it—and I wanted you to have the honor.&lt;BR&gt;&lt;BR&gt;My friend, please place a Relativity Stone in the repository, and re-open Highwatch's teleportal!&lt;NEXTPAGEBUTTON&gt;"It would be my honor. Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="2114">
+        <Page social="4" voiceTypeId="0">Who opened this teleportal? &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;I knew from the moment I saw you that you were destined for great things—but you continue to exceed my expectations!&lt;BR&gt;&lt;BR&gt;I could not resist seeing the baraka homeland for myself, but I must return to Velika.&lt;BR&gt;There's still a war going on at the frontline, but with Highwatch, we now have the wisest on our side.&lt;BR&gt;&lt;BR&gt;Please assist Dougal in securing the area. With you both here, I have every confidence that this war is all but won!&lt;NEXTPAGEBUTTON&gt;"Yes, sir. Thank you, sir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="1020">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! A word, if I may?&lt;BR&gt;&lt;BR&gt;First, I wish to thank you for your efforts. Thanks to you, Highwatch has a chance again.&lt;BR&gt;&lt;BR&gt;But we are only just beginning this new phase of the war...and you are fated to play an even more important role. Mystel herself has ordained it.&lt;NEXTPAGEBUTTON&gt;"There is much still left to do, yes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

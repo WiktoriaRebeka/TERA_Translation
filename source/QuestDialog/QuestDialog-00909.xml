@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1008">
+        <Page social="5">You're the one they sent from Elenea! Maybe you can do something about the prions that burned our camp. We fled here, but it's scarcely more defensible, and the prions are at our doorstep again.&lt;BR&gt;&lt;BR&gt;Will you help us?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1008">
+        <Page social="5">Thank you. Soon we'll be excavating again, probably just in time to fend off some rogue god or other.</Page>
+    </Text>
+</QuestDialog>

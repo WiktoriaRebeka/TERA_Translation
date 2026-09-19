@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="4">The Blood Guard is Thulsa's most elite unit. They protect this place and so are a serious threat to the federation garrison. Worse, they seem to be up to something lately.&lt;BR&gt;&lt;BR&gt;You can find Blood Guard {@LinkCreature:33#10#mages}, {@LinkCreature:33#60#sorcerers}, and {@LinkCreature:33#70#arcanists} near the Shrieking Catacombs and the Distortion Prison.&lt;BR&gt;&lt;BR&gt;Bring back whatever information you can find.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1013">
+        <Page social="4">What have you found? Hmm...we'll need to study this further, but it may answer our questions about how Thulsa's power is supporting the Blood Guard.&lt;BR&gt;&lt;BR&gt;Before I get too far into these, here's your reward!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1013">
+        <Page social="0">You can find Blood Guard {@LinkCreature:33#10#mages}, {@LinkCreature:33#60#sorcerers}, and {@LinkCreature:33#70#arcanists} near the Shrieking Catacombs and the Distortion Prison.</Page>
+    </Text>
+</QuestDialog>

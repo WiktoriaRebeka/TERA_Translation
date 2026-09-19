@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1028">
+        <Page social="4">It's all well and good to slaughter the Red Lash here in the grotto, but we have to make sure they can't take to the high seas, too.&lt;BR&gt;&lt;BR&gt;Most of the Red Lash fleet is in for repairs, so our timing couldn't be better.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:11#3003#Red Lash injenirs} do most of the repair work. Kill them and steal their tools.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1028">
+        <Page social="4">Good luck repairing a hull with no tools and no workers. Can't call yourselves pirates if you never leave the dock!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1028">
+        <Page social="0">It's the {@LinkCreature:11#3003#Red Lash injenirs}. Without them, those pirate ships will never leave the docks.</Page>
+    </Text>
+</QuestDialog>

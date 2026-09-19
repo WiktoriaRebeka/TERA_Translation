@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="4">The remains of the gulas' victims are scattered around the Hungry Caverns Vaults. It won't bring them back or undo their suffering, but we owe it to them to return them to their homes.&lt;BR&gt;&lt;BR&gt;Gather up those you can find and bring them back here. I'll handle the rest.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="4">How we treat our dead says a lot about us as a society. I'm glad we've acted with honor. Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1001">
+        <Page social="0">We should return these remains to their homes.</Page>
+    </Text>
+</QuestDialog>

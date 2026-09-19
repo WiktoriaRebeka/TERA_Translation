@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">We need to know more about this hooded man you saw, &lt;PCNAME&gt;. Track him down for us.&lt;BR&gt;&lt;BR&gt;[You must have equipment level 457 or higher to enter RK-9 Kennel.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Rhodos asked you to track down the hooded man from the refinery. Once you got a good look at him, you confirmed this was Randun. Randun secretly took the Bloodshard and was creating a monstrous machine called RK-9. Eventually, after a fierce battle with RK-9, you were able to destroy it, and Randun faced his last moment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="1" villagerId="1073">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I've been thinking about this hooded man you saw in the refinery. I need to know more about him.&lt;BR&gt;&lt;BR&gt;The picture you paint...his intense interest in weaponry...I just have a bad feeling it might be...&lt;BR&gt;&lt;BR&gt;Well, it sounds like somebody I used to know.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Who's that?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">An old friend...of sorts. He was once part of the federation.&lt;BR&gt;&lt;BR&gt;I want to be wrong, but I need you to find out for sure. Track him down for me.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Where should I look?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Word around the Khirian Fighters is that Donakim actually tracked him to some suspicious facility, but didn't have the numbers to safely investigate further.&lt;BR&gt;&lt;BR&gt;I'm not sure where Donakim is stationed right now, but Roderan knows. Go ask him when you get a chance.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2034">
+        <Page social="0" voiceTypeId="0">Rhodos sent you? Hmm. Very well.&lt;BR&gt;&lt;BR&gt;Donakim is near Tranquility Falls. He'll have more information on that facility he found.&lt;BR&gt;&lt;BR&gt;Be careful, and make sure you've got enough people with you before you head in.&lt;NEXTPAGEBUTTON&gt;&amp;quot;I will. Thank you.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="1502">
+        <Page social="0" voiceTypeId="0">Ah, here to investigate the facility under the falls, are you? Good! We need someone who knows what they're doing!&lt;NEXTPAGEBUTTON&gt;&amp;quot;Let's hope that's me.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I watched some shady hooded guy wander behind Tranquility Falls a few days ago. I thought it was weird, so I followed him—carefully, of course.&lt;BR&gt;&lt;BR&gt;That's when I found it—a huge cave with a loud, constant whirring noise. Some kind of power plant, maybe? I'm not sure. I was alone, so I got back out of there pretty quick and sent word.&lt;NEXTPAGEBUTTON&gt;&amp;quot;So that's everything?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That's all I've got.&lt;BR&gt;&lt;BR&gt;I'd like to say there was more, but exploring further alone would have been a safety risk. You understand.&lt;BR&gt;&lt;BR&gt;Once you've got a group you trust, head in and see for yourself what it's all about.&lt;BR&gt;&lt;BR&gt;I really appreciate this!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="1503">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;I tried to hurry over to help out, but I couldn't get away any faster.&lt;BR&gt;&lt;BR&gt;Did you find anything further about the hooded man?&lt;NEXTPAGEBUTTON&gt;&amp;quot;Yes. His name is Randun.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Randun! It's as I suspected.&lt;BR&gt;&lt;BR&gt;Blast it all, I wanted to be wrong. What's he doing in there?&lt;NEXTPAGEBUTTON&gt;&amp;quot;He used the bloodshard to create a monstrous robot.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The bloodshard? Oh no. It's hard to believe that it's even the same man!&lt;BR&gt;&lt;BR&gt;Listen, &lt;PCNAME&gt;, you need to understand that when I knew him, Randun was... Well, I guess it hardly matters anymore. People change. Fussing over who they used to be doesn't get us anywhere.&lt;BR&gt;&lt;BR&gt;Where is he now? How do we counter him now?&lt;NEXTPAGEBUTTON&gt;&amp;quot;He died in the explosion.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">He did? Well, that...takes care of that, I suppose.&lt;BR&gt;&lt;BR&gt;I do wish this had gone a different way, but you did what you had to do. I appreciate that. We all do.&lt;BR&gt;&lt;BR&gt;If you'll give me just a moment, I need to take a moment for the man I once knew.</Page>
+    </Text>
+</QuestDialog>

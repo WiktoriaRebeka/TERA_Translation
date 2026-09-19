@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="0">You pass Saleron's test and receive an Ancient Slate in reward.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="1" voiceTypeId="0">Torsten sent you—and you brought tribute, I see. That's good.&lt;BR&gt;I also sense the influence of Kaia and Velik. I'm not exactly fond of my children right now, so that's bad. Very bad.&lt;NEXTPAGEBUTTON&gt;"Kelsaik has risen..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I know, mortal. I gathered that from the questions Killian and Icaruna asked while they tortured me. If I give you a relic fragment, Killian will just overpower you and seize it. A poor strategy. If you could prove you can stand up to Killian, though...hmmm. Perhaps a test?&lt;NEXTPAGEBUTTON&gt;"Willing, ready, and able."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We'll see, mortal. We'll see. If you truly think yourself ready, I'll send you to a place where few mortals have ever walked—my sky garden. Let's see if you can survive the journey....</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3007" prevId="2" villagerId="1110">
+        <Page social="1" voiceTypeId="0">Since you live, you have passed my master's test.&lt;BR&gt;Take the first relic fragment from this ancient slate.&lt;BR&gt;&lt;BR&gt;Would that Saleron could be there when Killian tries to take it from you. But as you know, he doesn't get around like he used to.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3007" villagerId="1110">
+        <Page social="0">So far, I'd give you an "incomplete" grade on this test.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3007" prevId="3" villagerId="1113">
+        <Page social="1" voiceTypeId="0">(The relic fragment shines with divine energy...&lt;BR&gt;&lt;BR&gt;Energy that is quickly absorbed. It's no longer visible, but you feel the thrum of power within.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="237" prevId="5" villagerId="1102">
+        <Page social="1" voiceTypeId="0">Now the relic fragment's power lies within you. Consider it my gift.&lt;BR&gt;&lt;BR&gt;Also, &lt;PCNAME&gt;, you may visit my sky garden again, should you wish to test yourself further.</Page>
+    </Text>
+</QuestDialog>

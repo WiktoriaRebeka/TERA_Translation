@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="62" prevId="0" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Everyone loves to have a nice fish dish these days.&lt;BR&gt;Getting the fish we catch into the hands of the consumer is the main way the Fishing Association–and it's member-anglers–makes money.&lt;BR&gt;Go to Lake of Tears Fishery and you'll learn how!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Learned how to make and deliver a Fish Crate at the Lake of Tears Fishery.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="1" villagerId="9904">
+        <Page social="4" voiceTypeId="0">Ready to go to the Lake of Tears Fishery?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="1" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Give my regards to Lushan at the Lake of Tears Fishery.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="3" villagerId="9904">
+        <Page social="3" voiceTypeId="0">Fishing isn't just about earning money. It's about earning a whole bunch of money, doing something we love!&lt;BR&gt;Sooner or later, everyone will appreciate the Fishing Association for what we do.&lt;NEXTPAGEBUTTON&gt;"I hope so."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You can always sell the fish you catch for money, but if you package them together in a Fish Crate, they'll stay fresh longer and command a higher price.&lt;BR&gt;You can get the basic design from me in exchange for some Angler Tokens, so let's get you started on the path to fortune and glory...through fishing!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="223" prevId="5" villagerId="9904">
+        <Page social="2" voiceTypeId="0">Well done! Now it's time to make your first delivery.&lt;BR&gt;You can sell Fish Crates to Association Fishmongers at any Fishery or major city.&lt;BR&gt;&lt;BR&gt;Like {@linkcreature:223#9905#Genn} over there. It looks like he's eager to talk to you!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="223" villagerId="9904">
+        <Page social="0">Any Angler Token Vendor can sell you a Fish Crate design.&lt;BR&gt;Why don't you try making one right now?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="223" prevId="6" villagerId="9905">
+        <Page social="1" voiceTypeId="0">Hello! I saw you showing off a Fish Crate to Lushan over there. Would you be willing to sell it to me?&lt;BR&gt;Since this is our first deal, I'll open a &lt;font color='#FF0000'&gt;Special Delivery Shop&lt;/font&gt; just for you..</Page>
+    </Text>
+    <Text id="9" huntingZoneId="223" prevId="8" villagerId="9925">
+        <Page social="1" voiceTypeId="0">Thank you. I hope this isn't our last deal.&lt;BR&gt;&lt;BR&gt;There's only so many orders I can fill a day, so be sure and deliver your most the most valuable items first.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="223" prevId="9" villagerId="9904">
+        <Page social="1" voiceTypeId="0">Did you have a nice talk with Genn?&lt;BR&gt;&lt;BR&gt;You probably noticed that the higher level Fish Crates command higher prices! As your skills in fishing and crafting increase, you'll want to learn to make all of them.</Page>
+    </Text>
+</QuestDialog>

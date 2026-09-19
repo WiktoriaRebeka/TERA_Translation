@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1009">
+        <Page social="5">Federation solder, eh? Well, listen here—I know soldiers ain't much for being sent on errands, but I could really use a hand here. I have this letter—it's for a friend of mine named Furlan.&lt;BR&gt;&lt;BR&gt;I asked one of the messengers to do it, but thing is it's in the Valley of Titans. Not too many willing to head that way these days.&lt;BR&gt;&lt;BR&gt;You'll need to get it from Brose first. He was going to take it, but I think fear got the better of him.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1008">
+        <Page social="5">Kenan asked you to take the letter? Well, I mean, I really was just about to leave. I just had to, you know, organize the firewood.&lt;BR&gt;&lt;BR&gt;If you insist, though, here you go. Have at.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1016">
+        <Page social="0">From Kenan? Well, thank you.&lt;BR&gt;&lt;BR&gt;Oh. Oh, dear. He wants me and my family to stay with him, where it's safe. It's such a nice thought, but we can't leave our home. We have to stay here and defend it.&lt;BR&gt;&lt;BR&gt;Thank you for the note. I'm sorry you made this trip for nothing, but I do appreciate it.</Page>
+    </Text>
+</QuestDialog>

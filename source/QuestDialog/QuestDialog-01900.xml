@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="4">Hey, want some relaxing work?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:71#3003#Ruma} is short of medicine.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="4">Good to see you, friend.&lt;BR&gt;&lt;BR&gt;Always out of something, what with all the cuts, bruises, and sloth bites.&lt;BR&gt;&lt;BR&gt;Bring what you find to Buran. And thanks!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3005">
+        <Page social="4">That'll do nicely!&lt;BR&gt;&lt;BR&gt;Thanks.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="71" villagerId="3005">
+        <Page social="0">The moon shadow plant that {@LinkCreature:71#3003#Ruma} needs grows around Seren's Garden.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="6" villagerId="3005">
+        <Page social="4">Aah, lovely smell on these! Very fresh.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="71" villagerId="3005">
+        <Page social="0">Moonlight lotus is a great disinfectant.&lt;BR&gt;&lt;BR&gt;There should be some near Seren's Lake.</Page>
+    </Text>
+</QuestDialog>

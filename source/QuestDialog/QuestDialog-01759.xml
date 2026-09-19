@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1096">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Good to see you again. Are you ready for your second task?&lt;BR&gt;&lt;BR&gt;As with the first task, you'll need to demonstrate your proficiency by clearing two dungeons suitable for your level, or just clear the same dungeon twice.&lt;BR&gt;&lt;BR&gt;These dungeons will be harder than the last ones, so you're really going to be put to the test.&lt;NEXTPAGEBUTTON&gt;"I'm ready."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1096">
+        <Page social="4" voiceTypeId="0">You are improving steadily, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;There's still more to do, though. Return to me when you're ready for more advanced training.&lt;NEXTPAGEBUTTON&gt;"Understood."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

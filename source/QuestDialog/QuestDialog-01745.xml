@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="29" prevId="0" villagerId="1043">
+        <Page social="0">Hennika noticed your suspicions about the Red Raiders' activities in Essenia, and tried to show you the truth.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="29" prevId="0" villagerId="1043">
+        <Page social="4" voiceTypeId="0">After all this time, &lt;PCNAME&gt;, you still have doubts as to my intentions.&lt;NEXTPAGEBUTTON&gt;"To be honest, yes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You hero types always jump to the wrong conclusions.&lt;BR&gt;&lt;BR&gt;The "federation's finest." So superior. Well we haven't been waiting around for you to save us all this time, we're working to effect real change in the world, no matter the cost.&lt;BR&gt;&lt;BR&gt; Why don't you go see for yourself. I'll give you a location where you can see the truth of the matter.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="29" prevId="2" villagerId="1029">
+        <Page social="4" voiceTypeId="0">(These raider corpses are studded with Amber Essenses.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="29" prevId="3" villagerId="1032">
+        <Page social="0" voiceTypeId="0">Some of the crystals are larger than others.&lt;BR&gt;&lt;BR&gt;They seem to grow as time passes.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="29" prevId="4" villagerId="1030">
+        <Page social="4" voiceTypeId="0">I can't feel...Urgh...Hennika? Is that you? I cared for the others... I tried...&lt;NEXTPAGEBUTTON&gt;"Are you alright?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Our sacrifice... for the children. It was the only way... to fight the infection...&lt;BR&gt;&lt;BR&gt;It spread...so... fast...(The raider has breathed his last.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="29" prevId="5" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Now can you believe me?&lt;BR&gt;&lt;BR&gt;We're not spreading this contamination, we're sacrificing ourselves to stop it!&lt;BR&gt;&lt;BR&gt;Take that news back to your federation masters, and leave us alone!</Page>
+    </Text>
+</QuestDialog>

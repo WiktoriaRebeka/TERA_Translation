@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">It's so strange that they'd choose to poison me now—it's not like they don't know me. I've been selling wares here for quite some time.&lt;BR&gt;&lt;BR&gt;After I was incapacitated, though, they took my things and ran off.&lt;BR&gt;&lt;BR&gt;Do you suppose you could collect my &lt;font color='#660000'&gt;belongings&lt;/font&gt; for me? I'm sure they're at the Babok Hollow west of here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="7">Yes, that's it! Thank you so much!&lt;BR&gt;&lt;BR&gt;And here is something for you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">Without my merchandise, I'm lost. Please, can you go retrieve it for me?</Page>
+    </Text>
+</QuestDialog>

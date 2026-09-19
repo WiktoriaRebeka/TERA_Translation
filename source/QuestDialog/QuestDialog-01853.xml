@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="4">The researchers in the {@Rgn:46016} keep running into research obstacles of the argon variety.&lt;BR&gt;&lt;BR&gt;We're trying to identify weaknesses in the argons, but our researchers are scholars, not venators. They're not trained for battle.&lt;BR&gt;&lt;BR&gt;Head over there and meet with Ashinne. She'll know how you can help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="4">The Invalesco welcomes all assistance.&lt;BR&gt;&lt;BR&gt;We mostly need the forceful acquisition of research materials. Sometimes we'll need samples from argonomorph {@LinkCreature:46#301#sikandaris}, {@LinkCreature:46#303#blood fiends}, or {@LinkCreature:46#304#jalmaraks}.&lt;BR&gt;&lt;BR&gt;Research needs change from day to day. Try to roll with them.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3003">
+        <Page social="4">Oh, look! Contaminated feathers from {@LinkCreature:46#301#argonomorph sikandaris}. Fine examples, too.&lt;BR&gt;&lt;BR&gt;These specimens quicken this scholar's heart!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" villagerId="3003">
+        <Page social="0">We're curious about the {@LinkCreature:46#301#argonomorph sikandaris} found in the {@Rgn:46008}.&lt;BR&gt;&lt;BR&gt;We'd like to study their feathers.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="7" villagerId="3003">
+        <Page social="4">Such a stench!&lt;BR&gt;&lt;BR&gt;We really shouldn't complain since we ordered the hearts, but...&lt;BR&gt;&lt;BR&gt;Ah, the sacrifices we make in the pursuit of knowledge.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" villagerId="3003">
+        <Page social="0">We wish to examine the hearts from {@LinkCreature:46#303#argonomorph blood fiends}. To transform such a twisted creature, we're certain to learn something astonishing.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="246" prevId="9" villagerId="3003">
+        <Page social="4">Intriguing.&lt;BR&gt;&lt;BR&gt;Their foci appear active, but not in the same way as one might find in Sylvanoth, for example.&lt;BR&gt;&lt;BR&gt;We'll look into this further. Thank you.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="246" villagerId="3003">
+        <Page social="0">There's a group of {@LinkCreature:46#304#argonomorph jalmaraks} in the {@Rgn:46007}.&lt;BR&gt;&lt;BR&gt;We're curious to discern to what extent their link to their fey heritage survived the transformation. Please bring us their foci.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">You forced your way into the Banquet of Blood, sealed up the vampir leader's coffin, and tainted their food.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7002">
+        <Page social="0">Rescuing villagers is important, but we need to do something that will completely disrupt the Banquet of Blood: Seal their leader's coffin, and taint their foul "food."&lt;BR&gt;&lt;BR&gt;So, &lt;PCNAME&gt;, are you up for another foray into the vampirs' midst?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">Once again, &lt;PCNAME&gt;, you have done a great service, for which you will be long remembered.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1008">
+        <Page social="4">Don't look so glum!&lt;BR&gt;&lt;BR&gt;Everyone around here is depressed because it's a thankless, career-killing post miles away from the argon front. It's all that, sure, but it's also an opportunity!&lt;BR&gt;&lt;BR&gt;The secret is the {@LinkCreature:10#4#lumbering kamaras}. I know a guy in Castanica who knows a guy, and that guy wants their shells. No idea why, but we're being paid well enough not to ask.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1008">
+        <Page social="4">&lt;PCNAME&gt;, this could be the beginning of a profitable friendship.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1008">
+        <Page social="0">You aren't allergic to gold, are you? Then get out there and carve up some {@LinkCreature:10#4#kamaras}!</Page>
+    </Text>
+</QuestDialog>

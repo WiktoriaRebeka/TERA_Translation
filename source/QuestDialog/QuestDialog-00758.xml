@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">The lightless mercenaries received more supplies yesterday.&lt;BR&gt;&lt;BR&gt;We can't pinpoint the supplier, but if they continue to get support as easily and frequently as this, it's definitely bad news for us.&lt;BR&gt;&lt;BR&gt;Are you up for a raid, &lt;PCNAME&gt;? Go to the mercenary camp in the basin to the north and steal those supplies.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">Thanks! This should keep things in our favor a little longer.&lt;BR&gt;&lt;BR&gt;Khasib was asking about you while you were gone. I think he might be starting to figure out what I mean by "not my type." If you know what I mean...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">The supplies are in the mercenary camp in the basin north of here. Well, did you get them?</Page>
+    </Text>
+</QuestDialog>

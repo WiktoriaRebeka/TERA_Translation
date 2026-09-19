@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1033">
+        <Page social="4">You think unicorns and imps will make themselves better? Ha!&lt;BR&gt;&lt;BR&gt;The mist falls on all the fey and makes everyone sick. Now forestcrown unicorns and caprin imps exposed to too much mist turn against us.&lt;BR&gt;&lt;BR&gt;Have the arcanists found a way to extract the mist out of them? No. Ha! I know the way—the way of weapons.&lt;BR&gt;&lt;BR&gt;We must stop them before they turn into argon puppets like the tuwangis.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1033">
+        <Page social="4">Do you think the arcanists will thank us for getting all this infection collected for them?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" villagerId="1033">
+        <Page social="0">Are you too weak to deal with the forestcrown unicorns and caprin imps?&lt;BR&gt;&lt;BR&gt;Then recruit some friends to help!</Page>
+    </Text>
+</QuestDialog>

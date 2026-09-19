@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1022">
+        <Page social="5" voiceTypeId="0">A good merchant knows how to turn a profit. I got great leather from an adventurer that came through here not so long ago.&lt;BR&gt;&lt;BR&gt;Made great gloves out of it—the woodcutters just loved them.&lt;NEXTPAGEBUTTON&gt;"Neat."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Yes. I tried to get more of that leather to make more of those gloves, but I can't take down the animal that bears it.&lt;BR&gt;&lt;BR&gt;If you can head into that cave with all those cultists and pick up some of that leather for me, I'll pay you very well.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1022">
+        <Page social="5" voiceTypeId="0">You've brought so much leather! Thank you! This is exactly the sort of thing I'll need.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1022">
+        <Page social="0">I really need to get that leather. Please help me out.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="5">I am vexed by this creature, Nakarash. I can't deduce why he's so hard to kill. To their credit, the soldiers did their best, but he cut them down like so much chaff.&lt;BR&gt;&lt;BR&gt;I won't lie to you, this will be a difficult battle. If you can kill {@LinkCreature:7#18#Nakarash}, we'll be one step closer to finishing our research. Then, perhaps, we can turn our attention to retaking this region for the federation.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1008">
+        <Page social="5">You slew Nakarash? And you brought me a scale to study? I'm beginning to think your talents are wasted here in the field. You should be at the Legion of Arms training our finest soldiers!&lt;BR&gt;&lt;BR&gt;Thanks to you, my insanely intrepid companion and I can finish our research and return to the sanctuary of Allemantheia. Gratitude, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="1008">
+        <Page social="0">I dare not continue my studies as long as Nakarash is stomping around the hills. I urge you to end his life and thus preserve ours.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" prevId="3" villagerId="1001">
+        <Page social="5">A piece of Nakarash's armor? Intriguing. You must be skilled indeed to take down a beast such as he.&lt;BR&gt;&lt;BR&gt;We will study this carefully and add its strength to our own. You have our gratitude.</Page>
+    </Text>
+</QuestDialog>

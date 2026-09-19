@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1009">
+        <Page social="4">The Atel Akaad is suspiciously quiet. Even though they've left behind a rearguard, I expected more fight out of them. Something's brewing.&lt;BR&gt;&lt;BR&gt;The only way to know is to acquire the scouting reports from the {@LinkCreature:25#2031#devan deathmasters} they left behind. I trust you can forge ahead and find a way to "acquire" them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1009">
+        <Page social="4">These are all the scouting reports? Hmm...here's something. Lok's Curse! This really is the calm before the storm. They're getting ready to stage a full-scale attack. We need reinforcements! This is more than one person can handle. Poke Rendalf with this; maybe he can light a fire.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1009">
+        <Page social="0">Get the dross out! More scouting reports! We need all the intelligence we can get.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="3" villagerId="1027">
+        <Page social="10">I'M RIGHT HERE, Culetta! You don't need messengers and official requisitions. Hmph. I'm five meters away.&lt;BR&gt;&lt;BR&gt;What's so important that...is this true?&lt;BR&gt;&lt;BR&gt;The ossugon warchiefs are gathering all the remaining cultists to attack this redoubt! We can't afford to lose this foothold. I'll call for reinforcements right away.&lt;BR&gt;&lt;BR&gt;Thanks for your help, &lt;PCNAME&gt;. Say, if you're not busy...</Page>
+    </Text>
+</QuestDialog>

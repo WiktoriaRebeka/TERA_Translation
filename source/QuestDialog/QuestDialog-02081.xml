@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Jelena is searching for &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">With the help of Aheaf, you were able to locate the engine room and Elleon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="110">
+        <Page social="0" voiceTypeId="0">By the looks of the draakons, I'm pretty sure that Elleon went down there.&lt;BR&gt;&lt;BR&gt;We can't leave Elleon alone. Let's go.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="3" villagerId="131">
+        <Page social="0" voiceTypeId="0">I am Aheaf. Ally of Vogzu.&lt;BR&gt;&lt;BR&gt;I serve Commander Rogash...but Rogash treats us nagas as puny insects.&lt;BR&gt;&lt;BR&gt;Vogzu told me that if I help you, you'll eliminate all the draakons here.&lt;BR&gt;&lt;BR&gt;(Nod)&lt;BR&gt;&lt;BR&gt;Fine. The engine room is that way.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2003" prevId="4" villagerId="111">
+        <Page social="4" voiceTypeId="0">Over here! I've found tracks of Elleon.&lt;BR&gt;&lt;BR&gt;This is the direction Aheaf told us. Elleon must be headed to the engine room, too.&lt;BR&gt;&lt;BR&gt;We're almost there.&lt;BR&gt;&lt;BR&gt;Let's go!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2003" prevId="5" villagerId="112">
+        <Page social="4" voiceTypeId="0">Go to the engine room with Titus and destroy the core.&lt;BR&gt;&lt;BR&gt;I'll look for Elleon.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2003" prevId="6" villagerId="132">
+        <Page social="0" voiceTypeId="0">I forgot to tell you that this is a dangerous zone. I think you already noticed that this place is polluted.&lt;BR&gt;&lt;BR&gt;This is where the butterflies were kept before the attack on your land was made.&lt;BR&gt;&lt;BR&gt;They're a deadly creature that turns other creatures to crystal. Lots of the butterflies are hidden in the fortress.&lt;BR&gt;&lt;BR&gt;The engine room just over there. Go! Your friend is waiting for you.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2003" prevId="7" villagerId="113">
+        <Page social="4" voiceTypeId="0">Did you meet Aheaf? He told me the way.&lt;BR&gt;&lt;BR&gt;Right behind this door is the engine room. Elleon must be inside.</Page>
+    </Text>
+</QuestDialog>

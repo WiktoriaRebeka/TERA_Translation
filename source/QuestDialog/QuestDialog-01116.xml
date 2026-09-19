@@ -1,0 +1,41 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="4108">
+        <Page social="0">You hear Omeros's poem in Court of Enlightenment and find out that Verikam has recovered.&lt;BR&gt;&lt;BR&gt;As you enter the Sanctuary of Illumination, Verikam thanks you and promises that the Barakas of Highwatch will support the federation.&lt;BR&gt;&lt;BR&gt;You show the location Tamur gave you to the teleportal guard and go to the center of the war.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="4108">
+        <Page social="4" voiceTypeId="0">The place which you came from was attacked by the Argons wasn't it?&lt;BR&gt;&lt;BR&gt;Dougal  was worried about sending you back there.&lt;BR&gt;&lt;BR&gt;Can you tell me what happened there?&lt;BR&gt;&lt;BR&gt;Wait...what's that sound?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="4108">
+        <Page social="4" voiceTypeId="0">Can't you hear it? I do have a sensitive hearing...&lt;BR&gt;&lt;BR&gt;Wait, it's getting louder.&lt;BR&gt;&lt;BR&gt;I can't understand a word...it must be Omeros.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1015">
+        <Page social="4" voiceTypeId="0">Greetings, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I was reading a poem so that every Baraka in the Black Continent can know that Verikam has recovered.&lt;BR&gt;&lt;BR&gt;Go to the Sanctuary of Illumination if you wish to meet him.&lt;BR&gt;&lt;BR&gt;Dougal should be there too.&lt;NEXTPAGEBUTTON&gt;"Thanks for letting me know."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;. Can I have a moment with you? I am a Bard.&lt;BR&gt;&lt;BR&gt;I heard from Dougal that Shara is under war. Can you please let me know more about it?&lt;NEXTPAGEBUTTON&gt;"The Argons..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">War with the Argons...&lt;BR&gt;If it weren't for the Iron Rampart, my people would have fought as well.&lt;BR&gt;&lt;BR&gt;I should recite a poem of this war, to let my people know.&lt;BR&gt;&lt;BR&gt;I would like to help, if it's not too late.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1051">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;. I could thank you all day. Thank you for saving Highwatch and rescuing me. We still haven't retrieved the Oriyn's Arcana yet though...&lt;NEXTPAGEBUTTON&gt;"Don't worry. Help is on the way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I heard that Sky Cruiser Endeavor is on its way after Dakuryon.&lt;BR&gt;&lt;BR&gt;And that beyond the Iron Rampart, creatures called Argons are invading our land.&lt;BR&gt;&lt;BR&gt;It's a pity that we can't make use of the Oriyn's Arcana right now, but the Barakas of Highwatch will support the Federation, till the end of this war.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="1050">
+        <Page social="4" voiceTypeId="0">I must get this news to the Commander at once.&lt;BR&gt;&lt;BR&gt;The last news I got was that we could lose Khanovar Front any minute now.&lt;BR&gt;Those damn Argons cut out our supply.&lt;BR&gt;&lt;BR&gt;Highwatch would be great help.&lt;NEXTPAGEBUTTON&gt;"They sure will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">That's right, I need you someplace else.&lt;BR&gt;At the Argon Frontline.&lt;BR&gt;&lt;BR&gt;Tamur wanted you to be there as soon as your scout mission was over.&lt;BR&gt;&lt;BR&gt;He sent you a letter. Here.&lt;BR&gt;Read while you pack.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="4108">
+        <Page social="4" voiceTypeId="0">Good byes are always hard to do. I knew you'd have to go...but...&lt;BR&gt;&lt;BR&gt;I know not much of the Argons, but I do know that you're our rising star.&lt;BR&gt;&lt;BR&gt;And just like you've saved us, you'll save those suffering from this war.&lt;BR&gt;&lt;BR&gt;I hope we can meet again some day.&lt;BR&gt;Good bye.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="2055">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;. This location is...&lt;BR&gt;I see. Alright. I'll send you right in the center of the battlefield.&lt;BR&gt;Brace yourself. You're going to the Khanovar Front.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="7" villagerId="2055">
+        <Page social="4" voiceTypeId="0">I understand.&lt;BR&gt;&lt;BR&gt;May triumph be with you always.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="7" villagerId="2003">
+        <Page social="12" voiceTypeId="0">Damn these...&lt;PCNAME&gt;?&lt;BR&gt;Excuse my language. All the battles going on...&lt;BR&gt;&lt;BR&gt;I guess you got Tamur's letter! Have you finished business at the north?&lt;NEXTPAGEBUTTON&gt;"I have."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Welcome to Khanovar! Argons and casualties are our specialties!&lt;BR&gt;&lt;BR&gt;The fighting's bogged down at the moment. Speculation runs rampant, but nobody knows why the argons fell back.&lt;BR&gt;&lt;BR&gt;You should check in with {@linkcreature:78#1010#Charti}. Good luck.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="78" prevId="10" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Greetings &lt;PCNAME&gt;. I was told that you were sent to northern Arun. I guess you've returned.&lt;BR&gt;&lt;BR&gt;As you can see...things couldn't get worse. We're barely withstanding thanks to the Shariar Fighters.&lt;BR&gt;&lt;BR&gt;Go out and head for {@Rgn:48002$$Khanovar Citadel}. {@linkcreature:248#2001#Tamur} is waiting for you.</Page>
+    </Text>
+</QuestDialog>

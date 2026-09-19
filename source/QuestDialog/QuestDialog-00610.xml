@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1020">
+        <Page social="4">Gah! I come out here to hunt for relics, and the scholars I came for send word they're not interested anymore.&lt;BR&gt;&lt;BR&gt;I've heard of collectors paying good coin for orcan necklaces, though. Trouble is, I'm not really...prepared for hunting {@LinkCreature:24#11#horned orcan berserkers}. &lt;BR&gt;&lt;BR&gt;Speaking of which, want to make some extra money?&lt;BR&gt;&lt;BR&gt;I get wares to sell, you get gold, the camp gets improved security, and the orcans feed the scorpions. Everybody's happy! What do you say?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1020">
+        <Page social="4">Who knew orcans could make such pretty baubles? These should fetch a good price. Just a few more, and I'll be on my way to the coast. Here's your share—pleasure doing business!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1020">
+        <Page social="0">Don't give me that. If you've made it this far, a few orcans aren't going to stop you.&lt;BR&gt;&lt;BR&gt;Get back out there, and don't get too much blood on the jewelry!</Page>
+    </Text>
+</QuestDialog>

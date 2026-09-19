@@ -1,0 +1,56 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="506" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Seir has an important assignment for you.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">After the Velika Banquet incident, Velik fell into a deep sleep.&lt;BR&gt;With the help of Mystel, you entered Velik’s dream, where you encountered and defeated a strange, giant butterfly. Then, in Velik's subconscious, you saw the people of Velika falling from the sky, trapped inside crystals—including the goddess herself. After you left the dream, Mystel warned that there was more.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, it's good to see you again. &lt;BR&gt;&lt;BR&gt;I'll cut straight to the heart of the matter. Ever since the banquet in Velik's honor, city residents are complaining of severe headaches and disorientation.&lt;BR&gt;&lt;BR&gt;I want you to find out what's causing this.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Check in with Getty first. He's vital to federation operations, and seems to be in a lot of pain.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1228">
+        <Page social="0" voiceTypeId="0">This headache isn't getting any better.&lt;BR&gt;&lt;BR&gt;Yesterday, I almost opened the wrong bank!&lt;BR&gt;Even going to sleep is hard. When I do, I always have nightmares.&lt;BR&gt;&lt;BR&gt;A black dragon falling off a cliff, butterflies and...&lt;BR&gt;&lt;BR&gt;Tarua had the same dream too!&lt;NEXTPAGEBUTTON&gt;"Have you seen a doctor about it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Tarua called a doctor!&lt;BR&gt;&lt;BR&gt;I want to go too, but I have a job to do.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1157">
+        <Page social="0" voiceTypeId="0">The nightmares I can handle. It's the headache that's killing me.&lt;BR&gt;&lt;BR&gt;I heard that Cottrey has a cure, so I called for help.&lt;BR&gt;&lt;BR&gt;He should be here any minute. Maybe he can treat you, too.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1264">
+        <Page social="0" voiceTypeId="0">This all started after the banquet, didn't it?&lt;BR&gt;&lt;BR&gt;It doesn't seem like food poisoning, though...&lt;BR&gt;&lt;BR&gt;Don't worry. Every sickness has a cure! We just have to find it.&lt;NEXTPAGEBUTTON&gt;"Everyone affected was at the banquet?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Yes...the Velika Banquet.&lt;BR&gt;&lt;BR&gt;Everyone I've talked to says their headache started a little after the banquet.&lt;BR&gt;&lt;BR&gt;And they're all having the same nightmares...that's the part that confounds me.&lt;BR&gt;&lt;BR&gt;My potions can reduce the pain and disorientation, but it's not quite a real cure, and it won't stop the dreams.&lt;BR&gt;&lt;BR&gt;For now, just take this medicine and try to get some rest.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1264">
+        <Page social="0" voiceTypeId="0">Felling any better?&lt;BR&gt;&lt;BR&gt;Perhaps it really was just food poisoning...&lt;BR&gt;&lt;BR&gt;Even Velik is in a deep sleep, after the banquet.&lt;NEXTPAGEBUTTON&gt;"Velik is...what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hah! Hard to believe, isn't it?&lt;BR&gt;&lt;BR&gt;Who ever heard of a god taking a nap?&lt;BR&gt;&lt;BR&gt;It's just absurd! I almost laughed in front of her.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1265">
+        <Page social="0" voiceTypeId="0">Welcome, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The goddess has been sleeping a long time, and I'm getting worried.&lt;NEXTPAGEBUTTON&gt;"Has she gone to sleep before?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Not that I know of...&lt;BR&gt;&lt;BR&gt;Maybe we should ask for help.&lt;BR&gt;&lt;BR&gt;I thought about calling a doctor, but I think that godly matters are a little out of a doctor's field of expertise.&lt;BR&gt;&lt;BR&gt;This is more in line with a theologist's work...so maybe Halran can shed some light on this?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="1003">
+        <Page social="0" voiceTypeId="0">Hold, there. The Hall of Knowledge is not open to the general public.&lt;BR&gt;&lt;BR&gt;Ah, but you are not the general public, are you, &lt;PCNAME&gt;? Halran speaks highly of you. Please come in.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I will send you directly to Halran.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="183" prevId="9" villagerId="1018">
+        <Page social="0" voiceTypeId="0">I have been waiting for you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Halran asked me to give you this.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="183" prevId="10" villagerId="1010">
+        <Page social="0" voiceTypeId="0">Mystel's Arcana is forming messages.&lt;BR&gt;&lt;BR&gt;[...@#$Goddess's dream...]&lt;BR&gt;&lt;BR&gt;[Only gods can...@#!$]&lt;BR&gt;&lt;BR&gt;[&lt;PCNAME&gt;...]&lt;BR&gt;&lt;BR&gt;[Gods...@#!$...not god.]&lt;NEXTPAGEBUTTON&gt;"Is there more to this?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Mystel's Arcana is forming more messages.&lt;BR&gt;&lt;BR&gt;[...Fountain of Shara...@#$#...]&lt;BR&gt;&lt;BR&gt;[...@#!$...trace of god...]&lt;BR&gt;&lt;BR&gt;[...&lt;PCNAME&gt;...]&lt;BR&gt;&lt;BR&gt;[...owner of traces...@#!$...appear...]</Page>
+    </Text>
+    <Text id="12" huntingZoneId="183" prevId="11" villagerId="2204">
+        <Page social="0" voiceTypeId="0">I hope you found what you were looking for.&lt;BR&gt;&lt;BR&gt;The arcana told me to give you these...and that you would know what to do with them.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="226" prevId="12" villagerId="2000">
+        <Page social="0" voiceTypeId="0">I've been waiting for you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;You and I are linked...if not in destiny, then in purpose.&lt;NEXTPAGEBUTTON&gt;"I need to know what Velik is dreaming about."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I can guide you into Velik's dream, but you'll need a few things, if you are to succeed.&lt;BR&gt;&lt;BR&gt;Overseer's Eyes to grant you divine insight, Motes of Distortion to protect your spirit in the dream, and a Root of Resurrection to bring you safely back to your living body.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="226" prevId="13" villagerId="2000">
+        <Page social="0" voiceTypeId="0">Listen carefully. There are two things you must remember.&lt;BR&gt;&lt;BR&gt;First, the Mote of Distortion's effect will gradually fade away.&lt;BR&gt;&lt;BR&gt;Once the effect is ends, I must bring you out of the dream so you are not lost between divinity and reality.</Page>
+        <Page social="0" voiceTypeId="0">Second, a god's dream operates on many levels, and can be distorted by outside forces.&lt;BR&gt;&lt;BR&gt;If you want to know the truth of what you see, look first for things that don't seem to belong, and eliminate them.&lt;BR&gt;&lt;BR&gt;Now, if you feel you are ready, I will send you into the dream.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="226" prevId="14" villagerId="2000">
+        <Page social="0" voiceTypeId="0">It is best if you don't share with me what you saw.&lt;BR&gt;&lt;BR&gt;Even so, the danger is plain to see.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you must prepare, for the world will depend on you again...and soon.&lt;BR&gt;&lt;BR&gt;Farewell...</Page>
+    </Text>
+</QuestDialog>

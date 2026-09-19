@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">Go to {@Rgn:45001$$Thrallhold} and visit {@LinkCreature:245#3511#Volvur} at  {@Rgn:45009}.&lt;BR&gt;&lt;BR&gt;He's hit a snag in his investigation, and requested someone with your unique skill set.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="4">My research focuses on the link between the argons and the impact they make on the world. It's much more exciting than it sounds.&lt;BR&gt;&lt;BR&gt;I'll rely upon you to collect samples, particularly from things that might try to eat me.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3511">
+        <Page social="4">Oh, these will do nicely.&lt;BR&gt;&lt;BR&gt;I appreciate your aid, as does the entire Invalesco.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="245" villagerId="3511">
+        <Page social="0">It's astonishing what you can learn from a creature's teeth. I'd like to focus on {@LinkCreature:45#3004#athakela stalkers}.&lt;BR&gt;&lt;BR&gt;Hunt them and bring me their fangs.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="245" prevId="7" villagerId="3511">
+        <Page social="4">Well, this is both fascinating and disgusting.&lt;BR&gt;&lt;BR&gt;Oh, well. No one promised me clean fingers.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="245" villagerId="3511">
+        <Page social="0">I'm curious about the biological changes to {@LinkCreature:45#4002#argonomorph tuwangis}.&lt;BR&gt;&lt;BR&gt;Bring me samples of their blood for comparison.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="245" prevId="9" villagerId="3511">
+        <Page social="4">Ah, yes. Argonite ore.&lt;BR&gt;&lt;BR&gt;It's not really made of argons, of course, but I suspect their presence impacted the mineral all the same.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="245" villagerId="3511">
+        <Page social="0">I'd like samples of argonite ore. It's a relatively rare mineral that the Invalesco believes is tied to the work the argons did here.&lt;BR&gt;&lt;BR&gt;Please collect some for me.</Page>
+    </Text>
+</QuestDialog>

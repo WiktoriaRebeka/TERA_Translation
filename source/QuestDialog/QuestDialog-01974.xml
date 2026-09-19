@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="9905">
+        <Page social="1" voiceTypeId="0">That beer was so tasty, I've come up with a new festival so everyone can enjoy it.&lt;BR&gt;&lt;BR&gt;What do you say, &lt;PCNAME&gt;? want to be a part of history?&lt;NEXTPAGEBUTTON&gt;"Actually, I already...Sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oh, thank you!&lt;BR&gt;&lt;BR&gt;This time out, I'll catch the Silver trout for the beer, but feeding the villagers is up to you.&lt;BR&gt;&lt;BR&gt;There's a particularly tasty Big-Ass Fish here in Celsian Lake called the Queen Salmon.&lt;BR&gt;I'm sure that would be enough to prepare the feast.&lt;BR&gt;Please catch that fish for us.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; caught a Big-Ass Fish to help feed a village.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="1" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Woah, that's a Big-Ass Fish!&lt;BR&gt;Thank you so much.&lt;BR&gt;I'll spread the word.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="9905">
+        <Page social="0">Have you caught the Queen Salmon yet?&lt;BR&gt;It can only be caught by fishing manually.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="3" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Thank you so much, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The villagers all looking forward to a wonderful meal, but you can tast the results before anyone else!&lt;BR&gt;&lt;BR&gt;And here's a little something extra from the Fishing Association.</Page>
+    </Text>
+</QuestDialog>

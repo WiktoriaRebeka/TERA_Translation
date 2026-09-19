@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1032">
+        <Page social="4">Volos has decided to send Himir to Lumbertown as the faeries' emissary.&lt;BR&gt;&lt;BR&gt;That's good news, except for one thing—Himir is a good ambassador, but a lousy soldier, and the rebellious faeries are bound to ambush her along the way.&lt;BR&gt;&lt;BR&gt;Himir has some preparations to make, so I can save you some time and send you on ahead to the Woodland Path. She'll be safe enough on her way there.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2" villagerId="44">
+        <Page social="0">Keep a watchful eye, friend.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="490" prevId="2" villagerId="1003">
+        <Page social="4">Thank the gods you both arrived safely!&lt;BR&gt;&lt;BR&gt;I'm sure Himir will make a wonderful emissary. She will be safe here under our protection.&lt;BR&gt;&lt;BR&gt;You've done a wonderful job here today, &lt;PCNAME&gt;. Talk to me when you're ready to go back to the Faerie Pond.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" prevId="4" villagerId="1032">
+        <Page social="4">Himir is safe! By Isren's name, that is good news!&lt;BR&gt;&lt;BR&gt;I'm sure the negotiations will take time. Lots of blood spilled on all sides.&lt;BR&gt;&lt;BR&gt;But if you ever wondered whether you could make a difference here...wonder no more, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

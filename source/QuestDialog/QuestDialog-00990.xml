@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0">Many of your soldiers have poisoned themselves by eating unknown plants. I know something that will help.&lt;BR&gt;&lt;BR&gt;On either side of the Black Claw stronghold are &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-25525,64884,1811&amp;type=1&amp;name=Caves"&gt;caves&lt;/A&gt;&lt;/font&gt;. Inside grow &lt;font color='#660000'&gt;azurebond stalks&lt;/font&gt;, whose flowers neutralize many kinds of poison. Bring some to {@LinkCreature:241#1019$$Hoorik} to make antidotes for your soldiers.&lt;BR&gt;&lt;BR&gt;After all, we're friends now.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1019">
+        <Page social="0">I've made an antidote from the juice of the azurebond flowers. Give it to {@LinkCreature:241#1003#Jaebel}. She may trust it more if it comes from you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1019">
+        <Page social="0">The cave entrance is near the Black Claw stronghold. The flowers grow inside.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="3" villagerId="1003">
+        <Page social="4">You say Hoorik sent it? He seems friendly, but I'll try it first, just in case.&lt;BR&gt;&lt;BR&gt;Eeeurgh. That's foul, but I feel all right. I doubt it will harm anyone. If it actually helps my soldiers, I'll send Kabalka a special gift of kamara meat! Thanks for your help, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

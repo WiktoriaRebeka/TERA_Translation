@@ -1,0 +1,43 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Basheek is waiting for &lt;PCNAME&gt; at the Verrak Fortress Platform.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; learned there's an engine room that controls the Black Core inside Verrak Fortress. To destroy the engine room, &lt;PCNAME&gt; disguised as a draakon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="126">
+        <Page social="0" voiceTypeId="0">This place is heavily guarded. An ordinary naga, such as I, can only come this far.&lt;BR&gt;&lt;BR&gt;Anyplace beyond the platform is restricted. The only nagas permitted to enter are the ones that closely aid the draakons. I won't be any help from now on.&lt;BR&gt;&lt;BR&gt;Past the Control Center you'll find Vogzu. He's waiting for you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="3" villagerId="100">
+        <Page social="4" voiceTypeId="0">I assume your friend Elleon went into the fortress.&lt;BR&gt;&lt;BR&gt;Most of the guards at the Control Center hurried to the fortress.&lt;BR&gt;&lt;BR&gt;The fortress was already a difficult place to sneak in. Now, it's almost impossible. We should disguise as draakons.&lt;NEXTPAGEBUTTON&gt;"How do we do that?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">The disguise will take care of our looks, but what really matters is our smell.&lt;BR&gt;&lt;BR&gt;Without changing our odor, it's only a matter of time before the guards realize that we're not draakons.&lt;BR&gt;&lt;BR&gt;Go gather some Exodor Metal Fragments and Rotted Mucus. With those ingredients, I can make a perfect disguise.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2003" prevId="4" villagerId="100">
+        <Page social="0" voiceTypeId="0">That's everything we need.&lt;BR&gt;&lt;BR&gt;This will make it very easy for us to get inside.&lt;BR&gt;&lt;BR&gt;Buy the way, would you mind doing a favor before we enter the fortress?&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Please defeat the wretches that betrayed my people.&lt;BR&gt;&lt;BR&gt;Although they betrayed us, it's difficult for us to kill our own people.&lt;BR&gt;&lt;BR&gt;I'll deliver the disguise to Jelena and Titus right away as soon as it is ready. I'll have them wait for you at the Dark Gate.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2003" villagerId="100">
+        <Page social="0">That won't be enough. I need all the materials to make the disguise.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2003" prevId="5" villagerId="140">
+        <Page social="1" voiceTypeId="0">Wait! Stop it! It's me, Titus.&lt;BR&gt;&lt;BR&gt;I have a disguise ready for you as well.&lt;BR&gt;&lt;BR&gt;So which shall it be?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2003" prevId="5" villagerId="140">
+        <Page social="1" voiceTypeId="0">A female Draakon is it?&lt;BR&gt;&lt;BR&gt;This will only take a minute.&lt;BR&gt;&lt;BR&gt;Let's see...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2003" prevId="5" villagerId="140">
+        <Page social="1" voiceTypeId="0">A male Draakon is it?&lt;BR&gt;&lt;BR&gt;This will only take a minute.&lt;BR&gt;&lt;BR&gt;Let's see...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2003" prevId="7" villagerId="140">
+        <Page social="0" voiceTypeId="0">This is it. Take this.&lt;BR&gt;&lt;BR&gt;Can't stand the smell here, can you? Believe it or not, you'll smell a sweet scent if you're in disguise.&lt;BR&gt;&lt;BR&gt;Use this and you'll look like a draakon.&lt;BR&gt;&lt;BR&gt;Jelena is already on her way, so hurry.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2003" prevId="7" villagerId="140">
+        <Page social="0" voiceTypeId="0">This is it. Take this.&lt;BR&gt;&lt;BR&gt;Can't stand the smell here, can you? Believe it or not, you'll smell a sweet scent if you're in disguise.&lt;BR&gt;&lt;BR&gt;Use this and you'll look like a draakon.&lt;BR&gt;&lt;BR&gt;Jelena is already on her way, so hurry.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2003" prevId="11" villagerId="120">
+        <Page social="0" voiceTypeId="0">Hey! What are you doing here!&lt;BR&gt;&lt;BR&gt;Didn't you get Commander Lumikan's orders?&lt;BR&gt;&lt;BR&gt;Go and find the intruders!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2003" prevId="12" villagerId="110">
+        <Page social="4" voiceTypeId="0">Over here! Thank the gods you're all right.&lt;BR&gt;&lt;BR&gt;I never thought that this disguise would work so well.&lt;BR&gt;&lt;BR&gt;Let's go and check this place out.</Page>
+    </Text>
+</QuestDialog>

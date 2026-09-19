@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="5">I just read a disturbing report about {@LinkCreature:23#18#vampir} and {@LinkCreature:23#24$$popori insurgents} aiding the rebels.&lt;BR&gt;&lt;BR&gt;The vampir aristocrats have never taken sides in kingdom politics. This is a bad sign, and one we must crush.&lt;BR&gt;&lt;BR&gt;Eliminate the insurgents near Spirit Outpost. Hopefully, the other vampirs will get the message.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1018">
+        <Page social="5">I always liked the vampirs, but we must make a statement.&lt;BR&gt;&lt;BR&gt;Dirty business, that. You did well. Thanks.</Page>
+    </Text>
+</QuestDialog>

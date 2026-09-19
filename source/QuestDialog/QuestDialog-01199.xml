@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1006">
+        <Page social="4">The argons are increasing their activity in the {@Rgn:50004}. If the argons can regenerate their lost forces, we're finished.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:250#1016} is on-site. We're sending you to help him.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1016">
+        <Page social="4">Some argons are built for battle, but others, like the suulvir harvester, support the argon war machine by mining iteris shards.&lt;BR&gt;&lt;BR&gt;If we cut through their support structure, the rest may come tumbling down.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1016">
+        <Page social="6">I've never seen bigger shards. Great work.&lt;BR&gt;&lt;BR&gt;The war effort can use these. Thanks.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="250" villagerId="1016">
+        <Page social="0">You'll need to kill the suulvir harvesters to collect their shards.</Page>
+    </Text>
+</QuestDialog>

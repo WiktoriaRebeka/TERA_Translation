@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1018">
+        <Page social="4">The tree planting over in the {@Rgn:47015#Spore Emitter Zone} was going fine until we ran into the argon faeries.&lt;BR&gt;&lt;BR&gt;Yeah, that's what I said. {@Creature:47#2002#argon faeries}.&lt;BR&gt;&lt;BR&gt;It gets worse. You need to kill them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1018">
+        <Page social="4">I despised argons anyway, but if it's possible to hate them even more for doing that to faeries, then I do. Thanks, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

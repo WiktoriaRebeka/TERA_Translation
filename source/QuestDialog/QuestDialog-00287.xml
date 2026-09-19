@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="4">I saw something on a recon mission just a bit ago...treasure! Lots of it!&lt;BR&gt;&lt;BR&gt;Guards? Well...um, yeah. Just one important guard: {@LinkCreature:11#5001#Belkarius}.&lt;BR&gt;&lt;BR&gt;Kill him, and the treasure is ours!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1027">
+        <Page social="4">Well, I'm sure you grabbed some treasure, right? Good.&lt;BR&gt;&lt;BR&gt;You also made it a lot easier for me to do recon in that chamber.</Page>
+    </Text>
+</QuestDialog>

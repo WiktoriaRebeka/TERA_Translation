@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="4">In spite of the argons' best efforts to eradicate the native flora of Val Kaeli, some species endure and adapt. We must understand these floral adaptations if we're ever to undo the argons' corruption to our world.&lt;BR&gt;&lt;BR&gt;Several scouts reported a lone plant—a raindrop bellflower—near the Noyul Extractor. Fight through the kalashes standing between us and this important specimen and retrieve it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1015">
+        <Page social="6">(The flower appears ordinary enough—remarkable given its proximity to the massive argon machines.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1014">
+        <Page social="6">There's an energy, indeed a purity, inside this flower.&lt;BR&gt;&lt;BR&gt;Remarkable. We'll begin our studies at once. Thanks.</Page>
+    </Text>
+</QuestDialog>

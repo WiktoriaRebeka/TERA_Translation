@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1013">
+        <Page social="1">Bound for Seren's garden?&lt;BR&gt;&lt;BR&gt;Here's a moon shadow flower seed from the Lake of Tears.&lt;BR&gt;&lt;BR&gt;Would you plant it by the pond for me?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1013">
+        <Page social="1">Thanks.&lt;BR&gt;&lt;BR&gt;The seeds would have gone bad if I'd waited for permission to visit the garden. Too dangerous, they say—but not for you, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

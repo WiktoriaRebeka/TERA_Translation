@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">Balder left many relics here when he died. Most are rotting in the weeds. A few still work.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3001#Semas} needs help with one.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3001">
+        <Page social="4">Arisel's brusque, even for one my sisters. Just ignore it.&lt;BR&gt;&lt;BR&gt;There's a device we call {@WorkObject:95} inside {@Rgn:30007$$Balder's Pavilion} that helps the plants and ghilliedhus grow.&lt;BR&gt;&lt;BR&gt;Supposed to run on its own, but it doesn't. Go turn it on again...please.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3001">
+        <Page social="4">Lovely spot.&lt;BR&gt;&lt;BR&gt;It's where Balder and Seren used to rest. You stood where they did.</Page>
+    </Text>
+</QuestDialog>

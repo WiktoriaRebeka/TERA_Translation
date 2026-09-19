@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1036">
+        <Page social="4">Psssst! Hey you! I need a favor. I'm undercover. Can you tell? But I'm running out of good disguises.&lt;BR&gt;&lt;BR&gt;Will you get me some clothing from those {@LinkCreature:40#2#berserk puppets} and {@LinkCreature:40#10#lunatic workers}? I can make them into great disguises!&lt;BR&gt;&lt;BR&gt;And you won't mention this to Narpa, right?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1036">
+        <Page social="4">Wait until you see the disguises I'll make with these! Our little secret, right? Thanks, friend!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1036">
+        <Page social="0">Pssssst! Did you get me that clothing yet from the {@LinkCreature:40#2#berserk puppets} and {@LinkCreature:40#10#lunatic workers}? I really need it!</Page>
+    </Text>
+</QuestDialog>

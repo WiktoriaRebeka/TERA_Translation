@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0">I believe we could win some of the orcan tribes over if it weren't for the besharan merchants. {@LinkCreature:241#1022$$Paduk} says they sell the rock tribe a fiery liquor that incites them to violence.&lt;BR&gt;&lt;BR&gt;Waylaying {@LinkCreature:41#2006#besharan smugglers} and {@LinkCreature:41#2002#enforcers} or their caiman {@LinkCreature:41#4010#porters} and {@LinkCreature:41#4009#guards} and taking their liquor might be the solution. Are you willing?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1022">
+        <Page social="0">The besharans will not be so eager to poison the minds of the orcans now! Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1022">
+        <Page social="0">Don't underestimate the besharans—they're small, but fierce.</Page>
+    </Text>
+</QuestDialog>

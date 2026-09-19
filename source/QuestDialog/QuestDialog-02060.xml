@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">You successfully arrived inside Exodor, but Titus is missing.&lt;BR&gt;Speak with Amarre and discuss what to do next.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; found Elleon inside Exodor. Elleon offers information about the Black Core and the kidnapped villagers. With a clue to stop Exodor, &lt;PCNAME&gt; decides to help Elleon rescue the kidnapped villagers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20400">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Take a look at this Murderwing. It used all its energy flying all the way here.&lt;BR&gt;&lt;BR&gt;One burst of energy, flying back to its home, and now in dying, it turns into a jewel...isn't it such a dramatic death?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Wait! Titus isn't here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah! Right! Titus! We need his explosives if we're going to blow all of this up.&lt;BR&gt;&lt;BR&gt;I'm sure he'll show up. What if we just wander and observe these crystals...&lt;BR&gt;&lt;BR&gt;Just look at the size of them! How many butterfly corpses did this cost?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" prevId="3" villagerId="20401">
+        <Page social="4" voiceTypeId="0">Did you notice that once the butterflies are dead, they become a solid crystal? I decided to call this phenomenon the crystallization.&lt;BR&gt;&lt;BR&gt;It's interesting that these little crabbers are eating the butterfly corpses.&lt;BR&gt;&lt;BR&gt;If I can find out what happens to the crabbers after eating the crystalized corpse, I'm certain that it would help us find a cure.&lt;BR&gt;&lt;BR&gt;So please get some samples of the Crabbers for me.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2000" prevId="4" villagerId="20402">
+        <Page social="4" voiceTypeId="0">This should be enough to continue my research.&lt;BR&gt;&lt;BR&gt;Thank you so much.&lt;NEXTPAGEBUTTON&gt;"Can we look for Titus now?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">What?! &lt;PCNAME&gt;! Did you see that? Someone's over there! I think that was Titus!&lt;BR&gt;&lt;BR&gt;Go see. Hurry.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2000" prevId="5" villagerId="20100">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, it's a pleasure to see you here. We were dying for help.&lt;BR&gt;&lt;BR&gt;Defeating Gossamer Regent did not stop people from disappearing.&lt;BR&gt;&lt;BR&gt;I snuck onto the airship when the villagers were being kidnapped.&lt;BR&gt;&lt;BR&gt;But...how did you get in here?&lt;NEXTPAGEBUTTON&gt;"The butterfly stroke..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I see. Stopping Exodor...I have a few ideas. Let me show you.&lt;BR&gt;&lt;BR&gt;But first, we need to get rid of those weird things blocking the way.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2000" prevId="6" villagerId="20101">
+        <Page social="4" voiceTypeId="0">This is it. Jelena and I call it the Black Core.&lt;BR&gt;&lt;BR&gt;You can feel the enormous energy within it from here. That must be the energy source of Exodor.&lt;NEXTPAGEBUTTON&gt;"Is it destroyable?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I suspect it's virtually impossible to destroy it from the outside. But...if Exodor was built by some entity, there might be a way.&lt;BR&gt;&lt;BR&gt;There has to be a some kind of controlling device for the Black Core. If we destroy that device, we can stop Exodor.&lt;BR&gt;&lt;BR&gt;We'll need Titus. You say he's missing? Let's find Jelena and ask if she saw anything.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2000" prevId="7" villagerId="20200">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! I never thought you'd be here!&lt;BR&gt;&lt;BR&gt;What brings our hero all the way here?&lt;NEXTPAGEBUTTON&gt;"The Exodor...Titus..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Titus? I saw the guards taking a castanic man with them.&lt;BR&gt;&lt;BR&gt;There was nothing I could do alone. But now, there's three of us.&lt;BR&gt;&lt;BR&gt;I'll back you two up. &lt;PCNAME&gt;, you and Elleon go in and search.</Page>
+    </Text>
+</QuestDialog>

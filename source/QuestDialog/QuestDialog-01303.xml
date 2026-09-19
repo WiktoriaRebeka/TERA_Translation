@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1008">
+        <Page social="4">Not good. But urgent.&lt;BR&gt;&lt;BR&gt;Find Anther at Grand Gate Watchpost. Repeat these words: argons want the Everbloom.&lt;BR&gt;&lt;BR&gt;Get running!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1037">
+        <Page social="4">The Everbloom? Puuru thinks the argons want Icaruna's Everbloom? Oh my.&lt;BR&gt;&lt;BR&gt;How can they even know about it? Only the fey know!&lt;BR&gt;&lt;BR&gt;Oh, this is not good.</Page>
+    </Text>
+</QuestDialog>

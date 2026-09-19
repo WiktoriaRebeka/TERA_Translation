@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1006">
+        <Page social="1">&lt;PCCLASS&gt;, I'd like a word with you.&lt;BR&gt;&lt;BR&gt;The azureroot ghilliedhus are in bloom, and their pollen can cause rashes.&lt;BR&gt;&lt;BR&gt;Would you ask Lashinuk if he has a treatment?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1007">
+        <Page social="1">Ah, yes. The pollen's a defense mechanism. Luckily there's a treatment.&lt;BR&gt;&lt;BR&gt;I can make a batch if you'll go to {@Rgn:30005$$Seren's Garden} and find some moon shadow plants.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1007">
+        <Page social="1">This is plenty.&lt;BR&gt;&lt;BR&gt;High elves make tea from the dried leaves, but if you mash them while they're still fresh, they make a soothing salve.&lt;BR&gt;&lt;BR&gt;Let me grind these up.&lt;NEXTPAGEBUTTON&gt;"Very fragrant."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Aren't they?&lt;BR&gt;&lt;BR&gt;Spread this on twice a day. It should reduce the rash within hours.&lt;BR&gt;&lt;BR&gt;Oh, it's for a friend of yours? I'm sure it is.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1007">
+        <Page social="0">Did you find any moon shadow plants?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="4" villagerId="1006">
+        <Page social="1">Thank the titans you're back. The itching was driving me mad.&lt;BR&gt;&lt;BR&gt;Forgive me for being brusque, but please accept my thanks...and then go away so I can slather this on.</Page>
+    </Text>
+</QuestDialog>

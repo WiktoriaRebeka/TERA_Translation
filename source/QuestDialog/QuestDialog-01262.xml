@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1018">
+        <Page social="4">It's bad enough that Thulsa's minions stab us, bite us, and claw us. Do they have to poison us, too?&lt;BR&gt;&lt;BR&gt;Tearroot is the best treatment we can find around here, but I'm a noncombatant. I can never get to the places it grows, not with Thulsa's army lurking about.&lt;BR&gt;&lt;BR&gt;An elite &lt;PCCLASS:lcase&gt; like you doesn't fear Thulsa, I'll bet. Gather some tearroot, and I'll make an antitoxin treatment for our soldiers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1018">
+        <Page social="4">I can make enough treatment for everyone with this. You make it look easy, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1018">
+        <Page social="0">Please hurry. Our soldiers are suffering from the deadly poison that Thulsa's resurrected soldiers spread.</Page>
+    </Text>
+</QuestDialog>

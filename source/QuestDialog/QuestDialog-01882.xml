@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:250#3002#Sunkuvil} in {@Rgn:50001$$Granarkus} has more argons than she cares to hunt down. Care for a jaunt?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="4">This camp is well hidden, but we've had close calls with some argons the last few days.&lt;BR&gt;&lt;BR&gt;I'm sure you'll enjoy clearing them out.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3002">
+        <Page social="4">Not bad!&lt;BR&gt;&lt;BR&gt;I was tempted to take them myself, but master woodsmen mustn't be greedy.</Page>
+    </Text>
+</QuestDialog>

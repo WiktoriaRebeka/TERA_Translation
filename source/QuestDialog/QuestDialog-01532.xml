@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; went to Hagand to ask for help recharging the Relativity Stone. Hagand told &lt;PCNAME&gt; how he once explored the habitat himself when he was young. Hagand prepared a special potion to arm &lt;PCNAME&gt; for entering the dangerous area.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">(Hagand is nowhere to be found.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Hagand will want to speak to you, before you leave. Look for him inside the building there.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Welcome, outlander. The researchers you rescued say that your name is &lt;PCNAME&gt;, and that you were present when High Elder Verikam was abducted. Momentous.&lt;BR&gt;&lt;BR&gt;Now, what were you doing in this area in the first place?&lt;NEXTPAGEBUTTON&gt;"I'm looking for Diranas Quarry."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hmm. Halran sent you? Or Garm? I do not suppose they warned you of the quarry's dangers...?&lt;BR&gt;&lt;BR&gt;Of course not. Listen well: When I last visited that area, it was under control of archdevas and parthians. I was able to get around using an invisibility potion...and fortunately for you I have some left.&lt;BR&gt;&lt;BR&gt;I have no further use for it, so it is yours. But I recommend trying it under controlled conditions first, so you'll know how to move correctly.&lt;NEXTPAGEBUTTON&gt;"No time like the present."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Hmm. You're not invisible. If anything, you look a bit green.&lt;BR&gt;&lt;BR&gt;As I feared, this potion has passed its expiration date. I should have thrown it out years ago.&lt;NEXTPAGEBUTTON&gt;"Any way we could make a new one?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">There is always a way, when there is a will.&lt;BR&gt;&lt;BR&gt;I have all the ingredients I need here, save for two. Would you be willing to retrieve them?&lt;BR&gt;&lt;BR&gt;First, I shall need Reflective Root, to confuse the casual onlooker.&lt;BR&gt;&lt;BR&gt;Second, Foggy Eyeballs, to confound the intent gaze.&lt;BR&gt;&lt;BR&gt;Both are relatively common nearby, if perhaps a bit difficult to gather.&lt;NEXTPAGEBUTTON&gt;"Get started, then. I'll bring back the ingredients."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Back so soon? Ten years ago, it took me a week to get those ingredients!&lt;BR&gt;&lt;BR&gt;Luckily, the potion is nearly finished. I just need you to be patient a moment longer.&lt;NEXTPAGEBUTTON&gt;"Take your time. Do it right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Finished!&lt;BR&gt;&lt;BR&gt;Now, listen carefully: This potion will not last forever, so do not drink it until you reach Diranas Quarry. Then collect the stones and leave at once.&lt;BR&gt;&lt;BR&gt;And remember: There will be no warning when the potion wears off.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I understand."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

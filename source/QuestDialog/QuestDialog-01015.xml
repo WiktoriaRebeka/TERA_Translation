@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="5">Say, one of our soldiers went missing while we were on patrol near the temple guesthouse. It was a terrible shock to everyone, of course—we turned around and he was gone.&lt;BR&gt;&lt;BR&gt;It would mean a lot to me if you'd look for Tilian. Will you?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1006">
+        <Page social="4">So he's dead. I was certain he must be, but still....&lt;BR&gt;&lt;BR&gt;Will you tell his brother, Burtrand?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1006">
+        <Page social="0">Please find Tilian. Not knowing what happened to him is hard on all of us.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="3" villagerId="1016">
+        <Page social="4">Tilian is dead? I suppose I was still holding on to some hope that he'd be back. I can only hope it was quick.&lt;BR&gt;&lt;BR&gt;I'll be all right. Really. And every one of those bastards I kill will be for him.</Page>
+    </Text>
+</QuestDialog>

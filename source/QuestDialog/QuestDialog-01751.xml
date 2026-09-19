@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="38" prevId="0" villagerId="140">
+        <Page social="0">&lt;PCNAME&gt; helped out the people in the Isolation Camp.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="38" prevId="0" villagerId="140">
+        <Page social="1" voiceTypeId="0">(There is a journal and a bowl hidden in the pile of rocks.&lt;BR&gt;&lt;BR&gt;What could it be?)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="38" prevId="2" villagerId="145">
+        <Page social="1" voiceTypeId="0">I'm not feeling so good after I ran into that Murderwing.&lt;BR&gt;&lt;BR&gt;The Mysterium say they have some kind of cure, but they don't have much, so they're only giving it a little at a time. I don't know when my turn will come.&lt;NEXTPAGEBUTTON&gt;Read the next page.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Now they're saying our symptoms aren't bad enough to get the cure yet... but my skin is so dry and stiff!&lt;BR&gt;&lt;BR&gt;I know that fleabane flowers are used to make skin cream... and there are a lot of them here.&lt;BR&gt;&lt;BR&gt;I just need a little bit of milk to make the cream, and I'll feel so much better...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="140">
+        <Page social="1" voiceTypeId="0">(You should report this to the Mysterium.)&lt;BR&gt;&lt;BR&gt;(There's something else in the pile of rocks...)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" villagerId="140">
+        <Page social="0">(It's just an ordinary pile of rocks.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="38" prevId="4" villagerId="144">
+        <Page social="4" voiceTypeId="0">(The ghostly figure points at the journal, then back toward the Isolation Camp.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="38" prevId="6" villagerId="120">
+        <Page social="4" voiceTypeId="0">Thank you for bringing these, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Fleabane is a vital ingredient for the anti-crystallization treatment... it's why we chose this place for the quarantine: a good supply of fleabane. We had a lot stored here in camp, but it went missing... and you saw how hard it was to gather more.&lt;BR&gt;&lt;BR&gt;We'll get started on the next batch of treatment... but this can't keep happening. People are dying from this disease...&lt;NEXTPAGEBUTTON&gt;"I know."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You've probably been exposed to more of the amber powder than anyone else alive. It's a wonder you're still able to move your limbs. The gods truly favor you.&lt;BR&gt;&lt;BR&gt;Nevertheless, you should take the treatment, too.&lt;BR&gt;&lt;BR&gt;It'll give you some temporary relief from the worst of the symptoms.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="38" prevId="7" villagerId="120">
+        <Page social="4" voiceTypeId="0">Do you have any idea who stole the fleabane in the first place? Or why?&lt;BR&gt;&lt;BR&gt;The journal said something about a skin cream? And the ghost pointed at the camp?&lt;NEXTPAGEBUTTON&gt;"That's right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We can't be sure what the ghost meant, but it seems obvious that someone in the camp stole the fleabane.&lt;BR&gt;&lt;BR&gt;It's a good thing you were here to get more. Otherwise, people might have succumbed to the disease before we could make more treatment.&lt;BR&gt;&lt;BR&gt;Speaking of which, excuse me. I need to finish this batch.</Page>
+    </Text>
+</QuestDialog>

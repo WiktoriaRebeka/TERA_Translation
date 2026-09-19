@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1008">
+        <Page social="4">The wendigos' chieftain is no friend to the federation.&lt;BR&gt;&lt;BR&gt;We need to keep the wendigos unorganized and out of our way. Kill Kalmatcha. With luck, any wendigos not dominated will be distracted by the struggle to name a new chieftain.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1008">
+        <Page social="4">Kalmatcha had no nobility, unlike other wendigos I've heard of. His death is no great loss to their tribe, much less ours.&lt;BR&gt;&lt;BR&gt;Now we can focus on our real enemies.</Page>
+    </Text>
+</QuestDialog>

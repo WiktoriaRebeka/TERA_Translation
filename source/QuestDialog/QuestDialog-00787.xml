@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="4">You're &lt;PCNAME&gt;, right? Maybe you can help me. The ordinary soldiers are useless.&lt;BR&gt;&lt;BR&gt;They sent me here to study the undead and find a weakness, but the troops can't gather...um...specimens.&lt;BR&gt;&lt;BR&gt;Kill {@LinkCreature:33#16#anguished minions} and {@LinkCreature:33#17#ebon inquisitors}.&lt;BR&gt;&lt;BR&gt;And take it from me: you're doing their trapped souls a favor by returning them to the Dream.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1008">
+        <Page social="0">Trust me: if you die down here, you'd rather your soul return to the titans' Dream than to be trapped in an undead body for years. If not centuries...</Page>
+    </Text>
+</QuestDialog>

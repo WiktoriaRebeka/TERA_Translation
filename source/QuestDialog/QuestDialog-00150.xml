@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="5">We're having trouble pushing forward, but we can't move backward at this point. They're gathering forces, and if we turn, they'll just destroy us from behind.&lt;BR&gt;&lt;BR&gt;Whimnia is convinced that {@LinkCreature:6#3031#Lokian reavers} and {@LinkCreature:6#3032#mystics} are in the base.&lt;BR&gt;&lt;BR&gt;I need you to go find out if that's true—and if it is, I need you to make it not be true anymore—if you're picking up what I'm putting down.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1022">
+        <Page social="5">Great, thanks. You've given us a chance to regroup.</Page>
+    </Text>
+</QuestDialog>

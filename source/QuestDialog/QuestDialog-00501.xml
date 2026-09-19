@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1006">
+        <Page social="4">Ah, are you a federation soldier? Just...can you just end this?&lt;NEXTPAGEBUTTON&gt;"What happened to you?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Everyone just...it was business as usual, and then everyone just starting losing their minds. I can't even explain it.&lt;BR&gt;&lt;BR&gt;They killed...they killed everyone in our village. Please, get rid of them before they do worse. Target the {@linkcreature:19#4002#Lokain cleavers} and {@linkcreature:19#4001#Lokian rippers}. Bring me something tangible so I can be sure they're really gone.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1006">
+        <Page social="4">Thank you. This...it brings me peace.&lt;BR&gt;&lt;BR&gt;Please take this. It's all I have.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1006">
+        <Page social="0">Please...I don't have much time, and I just...I need a moment of peace before I go.</Page>
+    </Text>
+</QuestDialog>

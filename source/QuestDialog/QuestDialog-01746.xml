@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="27" prevId="0" villagerId="561">
+        <Page social="0">Haron asked for help to find his lost daughter.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="27" prevId="0" villagerId="561">
+        <Page social="4" voiceTypeId="0">Someone, anyone. Please help me!&lt;BR&gt;&lt;BR&gt;My daughter...I don't even know if she's alive or not...&lt;BR&gt;&lt;BR&gt;She's a federation soldier. I tried to find her at the refugee camp, after the crash, but...&lt;NEXTPAGEBUTTON&gt;Keep listening.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I pray to the Gods every second that she still lives, but even if she doesn't, I at least want to give her a decent burial.&lt;BR&gt;&lt;BR&gt;Her name is Zachel. Anything you can find out would be helpful. Please, she's all I have left in this world.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="2" villagerId="563">
+        <Page social="4" voiceTypeId="0">The crash? yes, I saw it.&lt;BR&gt;&lt;BR&gt;Well, most of it, anyway. I lost sight of it just over that ridge.&lt;NEXTPAGEBUTTON&gt;Keep listening.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I've never met Zachel, but if her father loves her that much, we have to do something about it. Be careful up there, the air's too thin for flying mounts, and it's a long way down if you fall.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" prevId="3" villagerId="566">
+        <Page social="0" voiceTypeId="0">(This might be the body of Haron's daughter. treat it with respect)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="4" villagerId="561">
+        <Page social="4" voiceTypeId="0">Oh no! Is that... No!&lt;BR&gt;&lt;BR&gt;That's not my daughter. I don't know who that is.&lt;BR&gt;&lt;BR&gt;This really is hopeless, isn't it?&lt;NEXTPAGEBUTTON&gt;I'm sorry.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">No! Don't be sorry!&lt;BR&gt;&lt;BR&gt;But I...I can't stop looking, you know?&lt;BR&gt;&lt;BR&gt;If we find that missing transport, maybe there'll be some news about my daughter.</Page>
+    </Text>
+</QuestDialog>

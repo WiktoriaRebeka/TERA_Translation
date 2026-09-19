@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">We have to destroy the argons guarding this labyrinth.&lt;BR&gt;&lt;BR&gt;They have sturdier armor than we usually see on argons, so retrieve some of their armor plating for our smiths to research.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Hah! You peeled their hides right off!&lt;BR&gt;&lt;BR&gt;Quite bold, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Well done, my comrade.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1001">
+        <Page social="0">The argons have discovered a new way to make armor.&lt;BR&gt;&lt;BR&gt;Bring me some of it for our smiths to learn from.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1105">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1105">
+        <Page social="4">Ecryl wants to bring in reinforcements by beach, but the {@LinkCreature:10#2#grove} and {@LinkCreature:10#3#virek kamaras} make landing a force dangerous. Fortunately, we have a solution.&lt;BR&gt;&lt;BR&gt;Kill the kamaras. Simple.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1105">
+        <Page social="4">Excellent work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I'm sorry to report Ecryl's request was turned down, but don't feel badly. The kamaras are delicious when roasted.</Page>
+    </Text>
+</QuestDialog>

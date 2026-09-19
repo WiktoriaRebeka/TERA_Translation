@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Bruke issued an execution order on Jelena, and made you the executioner. Instead of bringing Bruke her head, you warned Jelena, who fled.&lt;BR&gt;&lt;BR&gt;You returned to Samael in Velika just in time for him to read Bruke's scathing report on your activities in Popolion. You escaped punishment, but Samael seems to be watching you more closely than ever.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="4">Mission Orders&lt;BR&gt;&lt;BR&gt;Bruke has issued an execution order for the traitor, Jelena. He demands that &lt;PCNAME&gt; find Jelena and bring her head to him at once.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1032">
+        <Page social="4" voiceTypeId="0">What? Bruke issued an execution order? On me? What a...charmer. "Bring me her head?" Who talks like that?&lt;BR&gt;&lt;BR&gt;Believe me, I'm no traitor. I wish there was time to explain. Suffice it to say, justicars and rangers don't get along.&lt;NEXTPAGEBUTTON&gt;"What will you do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">What can I do? Run, obviously.&lt;BR&gt;&lt;BR&gt;Tell your superiors you couldn't find me. You won't even have to lie. Just close your eyes for the next five seconds.&lt;BR&gt;&lt;BR&gt;Until we meet again, and you can bet we'll meet again.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1012">
+        <Page social="4" voiceTypeId="0">What? You let her get away? You incompetent fool! I don't care what you did in Sinestral Manor, this will stain your career as a soldier forever!&lt;NEXTPAGEBUTTON&gt;"I can explain..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I find it hard to believe she escaped without a trace. I think you're lying—I can see it in your eyes. My report will reflect that.&lt;BR&gt;&lt;BR&gt;Well, General Samael's problem now. Report to him immediately. Once he reads my report, you'll be lucky if you're not locked up as a traitor.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1137">
+        <Page social="4" voiceTypeId="0">I just read Bruke's report, &lt;PCNAME&gt;. It says you let a known traitor escape.&lt;BR&gt;&lt;BR&gt;On the other hand, it seems you were also instrumental in halting the instability there. &lt;NEXTPAGEBUTTON&gt;"Yes sir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">How do I make sure you get what's coming to you? Decisions, decisions. Well, you fulfilled your orders. That will have to do for now. In the future, however, if Bruke tells you to jump, you ask how high—and then jump even higher.&lt;BR&gt;&lt;BR&gt;Dismissed.</Page>
+    </Text>
+</QuestDialog>

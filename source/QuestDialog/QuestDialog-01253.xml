@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="4">We need backup for north Habere. So far they've been able to hold off Thulsa's army, but they're hanging by a thread.&lt;BR&gt;&lt;BR&gt;Sichel at the northern gate can direct you to the Remote Lodge. May Kaia bless you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1003">
+        <Page social="4">This road takes you northeast to the Remote Lodge.&lt;BR&gt;&lt;BR&gt;It's the only way to access the lodge, and it's guarded by undead lancers.&lt;BR&gt;&lt;BR&gt;If you defeat the lancers, however, it'll relieve us of a great burden.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1001">
+        <Page social="4">Wow, welcome! Thank you for coming all the way through piles of rotten corpses.&lt;BR&gt;&lt;BR&gt;I'm Prefect Khubyar. Nice to meet you, &lt;PCCLASS:lcase&gt;!</Page>
+    </Text>
+</QuestDialog>

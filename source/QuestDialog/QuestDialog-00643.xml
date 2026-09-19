@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="4">Those {@LinkCreature:25#2041#Lokian snipers} and {@LinkCreature:25#2042#Lokian blood reapers} keep herding us through the Dark Cathedral and away from our targets. Will you help us clear the way?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">Good job! We can handle the rest. Though, I wish I had more information about the Atel Akaad. Defending is easy—I'd rather crush them.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,52 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You met Dougal and Zolyn and learned Paesyn was missing.&lt;BR&gt;&lt;BR&gt;Paesyn brewed a tonic to cheer Zolyn up. Zolyn drank it gladly, but was enraged after learning the ingredients.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">Meet Dougal and Zolyn by the teleport platform.&lt;NEXTPAGEBUTTON&gt;"Sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2206">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;We were beginning to worry we'd lost you, too!&lt;BR&gt;&lt;BR&gt;Was your mission successful?&lt;NEXTPAGEBUTTON&gt;"I believe so."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Excellent!&lt;BR&gt;&lt;BR&gt;With any luck, that Seeker, Renish, will agree to let us into Highwatch now!&lt;NEXTPAGEBUTTON&gt;"I still need to convince him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">We'll talk to him, as well.&lt;BR&gt;&lt;BR&gt;But we'll have to catch up with you. We've lost track of Paesyn. He was out here with us one moment, then gone. You didn't happen to see him anywhere out there did you?&lt;NEXTPAGEBUTTON&gt;"Paesyn's missing?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I'm sure he's just wandered off. He's a smart guy, so I really shouldn't be worried about him.&lt;BR&gt;&lt;BR&gt;But you've seen what this place is like, and Paesyn can get careless when he's distracted.&lt;BR&gt;&lt;BR&gt;We were going to head back to camp and organize a search, but now that you're here, would you mind taking a quick look around? He can't have gone too far.&lt;NEXTPAGEBUTTON&gt;"Leave him to me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">Ah, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;So lovely to see you again! Did you finish your mission?&lt;NEXTPAGEBUTTON&gt;"People are looking for you, Paesyn."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Oh, I know.&lt;BR&gt;&lt;BR&gt;But I can't go back just yet. I'm looking for something!&lt;BR&gt;&lt;BR&gt;Say, why don't you help me find it?&lt;NEXTPAGEBUTTON&gt;"It's for Zolyn, isn't it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I'm worried about her! So grim! So determined! So withdrawn! &lt;NEXTPAGEBUTTON&gt;"Maybe she just wants to be left alone."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Stuff and nonsense! Who likes being alone? She came out here to find her sister, after all! She's obviously lonely, and worried!&lt;BR&gt;&lt;BR&gt;But I know a way to cheer her up. The Khirians gave me this recipe for a very special tonic, guaranteed to help her relax.&lt;BR&gt;&lt;BR&gt;But I still need one more ingredient: hot springs creature meat, either from kamara or starfish. But I can't bring myself to, you know...&lt;NEXTPAGEBUTTON&gt;"I will, so take that puppy look off your face."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">Then you'll help? Thank you so much, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">If this works, we won't need to try again! Thank you!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="3" villagerId="2209">
+        <Page social="4" voiceTypeId="0">What? Zolyn is in pain, &lt;PCNAME&gt;. I can't stand to see anyone suffer like that!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="4" villagerId="2209">
+        <Page social="1" voiceTypeId="0">Perfect! Thank you, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Okay, if I remember the instructions correctly, I just need to mash...it...all...up...and it's ready!&lt;NEXTPAGEBUTTON&gt;"Happy for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="182" villagerId="2209">
+        <Page social="0">Please hurry, &lt;PCNAME&gt;. Can't you see that Zolyn is hurting inside?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="182" prevId="8" villagerId="2209">
+        <Page social="1" voiceTypeId="0">Yes, of course! I need to give this to Zolyn right away!&lt;NEXTPAGEBUTTON&gt;"Are you sure that's a good idea?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">What do you mean? Oh, right. I guess my previous attempts to cheer her up didn't exactly endear me to her...&lt;BR&gt;&lt;BR&gt;Look, I know it's an imposition, but could I ask you to...?&lt;NEXTPAGEBUTTON&gt;"Well… Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="182" prevId="10" villagerId="2210">
+        <Page social="1" voiceTypeId="0">Any sign of that bothersome pest?&lt;NEXTPAGEBUTTON&gt;"He's on his way. Um...care for a drink?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Ah! Yes, I'm parched.&lt;BR&gt;&lt;BR&gt;Say, this is pretty good! Unusual, but flavorful! And...relaxing! I can feel the tension leaving my shoulders!&lt;BR&gt;&lt;BR&gt;What's in it?&lt;NEXTPAGEBUTTON&gt;"Ask Paesyn—he made it for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Really? He finally did sommething right!&lt;BR&gt;&lt;BR&gt;I guess I shoouldn't be so hard on 'im.&lt;NEXTPAGEBUTTON&gt;"Um, yeah. Are you feeling okay?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Never bedder!&lt;BR&gt;&lt;BR&gt;Wait...whuz wrong wiv mme? Whuwhuz innat dring? Whuzzat liddle furble dunna me issdime? Imunna killum! Annoo, too!&lt;NEXTPAGEBUTTON&gt;"Sorry, captain."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="182" prevId="11" villagerId="2011">
+        <Page social="1" voiceTypeId="0">Salutations once again, &lt;PCNAME&gt;. What do you have there?&lt;BR&gt;&lt;BR&gt;The energy radiating from this pendant! I can feel it reverberating through the talismans I've been inspecting!&lt;BR&gt;&lt;BR&gt;Very well, &lt;PCNAME&gt;, I believe that this demonstration adequately proves your noble intentions. My fellow Seekers are camping at Kazan's Ridge to the north.&lt;BR&gt;&lt;BR&gt;If you show this to Durom, he will lead you to the High Seeker, Janiam.&lt;NEXTPAGEBUTTON&gt;"Thank you, Renish."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="13" huntingZoneId="182" villagerId="2011">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

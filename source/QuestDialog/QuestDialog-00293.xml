@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">You've done all you can here, &lt;PCNAME&gt;. Cross the planks and you'll be in the part of the grotto where the Red Lash leadership squats.&lt;BR&gt;&lt;BR&gt;We've got scouts there—thanks to the disruptions you've already provided—and they might have seen this dementalith.&lt;BR&gt;&lt;BR&gt;Talk to Ebosius. He usually knows what's up.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">A dementalith? A big stone? I saw some of the little underlings take a big piece of stone downstairs about a month ago.&lt;BR&gt;&lt;BR&gt;It tipped over and crushed one of them. Might be your dementalith.</Page>
+    </Text>
+</QuestDialog>

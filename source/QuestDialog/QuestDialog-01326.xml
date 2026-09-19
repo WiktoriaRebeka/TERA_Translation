@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1012">
+        <Page social="4">Your work with the sporewalkers was excellent. My associate, Melkar, at Ceravin Point needs someone with your skills. So we needn't use magical communication all the time, kill the sabertooths you find along the way.&lt;BR&gt;&lt;BR&gt;We can start employing our runners again.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1010">
+        <Page social="4">If Cecera found your assistance invaluable, we'll take it as well.&lt;BR&gt;&lt;BR&gt;Unfortunately, our problems run a bit larger than sabertooths. Rest while you can, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

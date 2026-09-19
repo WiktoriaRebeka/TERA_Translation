@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="4">Several scholars have noted changes to stones exposed to a nexus. If we can identify the causal agent, we might develop a countermeasure.&lt;BR&gt;&lt;BR&gt;We need samples of nexulitic fragments. Feel up to the challenge?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1003">
+        <Page social="4">We'll study these samples at once. There must be a link.&lt;BR&gt;&lt;BR&gt;Please accept our gratitude.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1003">
+        <Page social="0">You should find fragments in the tainted mountain debris anywhere a nexus has formed recently. Scour the Helkan District and Val Kaeli.</Page>
+    </Text>
+</QuestDialog>

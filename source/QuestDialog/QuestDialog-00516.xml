@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="4">I know there are survivors up here. I can hear them scream, but the skeletons keep me from rescuing them.&lt;BR&gt;&lt;BR&gt;I feel like I've tried a dozen times.&lt;BR&gt;&lt;BR&gt;Please, &lt;PCNAME&gt;—I could really use your help here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1030">
+        <Page social="4">Ah! Door! Open door, open door. Bye!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="2" villagerId="1031">
+        <Page social="4">Thank you! I thought...just thank you!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="220" prevId="2" villagerId="1032">
+        <Page social="4">I'd love to stay and thank you properly, but I have to go!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="220" prevId="2" villagerId="1033">
+        <Page social="4">I need to get to my family. Thank you!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="220" prevId="2" villagerId="1034">
+        <Page social="4">Thank you.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="220" prevId="3" villagerId="1006">
+        <Page social="4">Oh, thank you. The villagers you rescued have been transported to Chebika.&lt;BR&gt;&lt;BR&gt;It was so good of you to help. It was killing me not being able to help.</Page>
+    </Text>
+</QuestDialog>

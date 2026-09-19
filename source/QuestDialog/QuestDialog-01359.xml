@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1023">
+        <Page social="4">There's a full company, at least, of devas encamped to the southeast. Atel Akaad scouts—they've cut us off from Amena Quatla. Kill some of them. Search their gear for some clue to their orders.&lt;BR&gt;&lt;BR&gt;An explorer guildsman, Casias, is shadowing them. Consult with him on what you find.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1014">
+        <Page social="4">Only the bravest travel these roads at present. There's business between us? Aah, the devas.&lt;BR&gt;&lt;BR&gt;The rings are Killian's, which explains the motley gathering of soldiers here in Dakonan Junction. The chaos god is never content to paint in single colors when he can use dozens.&lt;BR&gt;&lt;BR&gt;But these are mere scouts. Which begs the question—where is their main force?&lt;BR&gt;&lt;BR&gt;I'll tell Keallach. You warn Denmar at Blackspring Camp.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1014">
+        <Page social="0">Those devas must carry some evidence of their orders.&lt;BR&gt;&lt;BR&gt;Slay the fateshapers and reapers to the east and take whatever you find on their corpses.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" prevId="3" villagerId="1008">
+        <Page social="4">Atel Akaad, eh?&lt;BR&gt;&lt;BR&gt;What do they want with this blasphemy the featherheads are committing?</Page>
+    </Text>
+</QuestDialog>

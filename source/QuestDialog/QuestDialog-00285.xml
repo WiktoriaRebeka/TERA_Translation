@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1027">
+        <Page social="4">They sent me down the eastern passageway on a recon mission, but I ran into the {@LinkCreature:11#3006#Red Lash berserkers} before I got very far.&lt;BR&gt;&lt;BR&gt;I can't sneak past them, and I can't kill them. I'm stuck.&lt;BR&gt;&lt;BR&gt;Can you tear through them—just disrupt them for a while so I can do my recon? I hate to go back to base empty-handed.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1027">
+        <Page social="4">That's a lot of carnage, &lt;PCNAME&gt;. I'll head down there once the blood stops dripping.</Page>
+    </Text>
+</QuestDialog>

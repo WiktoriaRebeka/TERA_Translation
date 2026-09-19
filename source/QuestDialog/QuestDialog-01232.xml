@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="4">Listen, I need to get these furs back to Habere, but I don't want to leave the soldiers in the lurch.&lt;BR&gt;&lt;BR&gt;I'm the best choice to stay and help, but my daughter needs the medicine. Would you escort one of my apprentices back to camp? She can take the furs to Balrug.&lt;NEXTPAGEBUTTON&gt;"Of course."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Thanks. The apprentice can give the hides to Balrug and he can get the medicine for my girl.&lt;BR&gt;&lt;BR&gt;And tell him not to worry. I'll be fine and so will his little apprentices.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="51" villagerId="33">
+        <Page social="0">Craxan's saved my life many times. I'll do whatever I can to help his daughter.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" prevId="2" villagerId="1029">
+        <Page social="4">Thanks for bringing back the apprentice, but where are Craxan and the others?&lt;BR&gt;&lt;BR&gt;They're staying behind? Impulsive fool!&lt;BR&gt;&lt;BR&gt;Very well. I'll head to town and do what I can for Craxan's child.</Page>
+    </Text>
+</QuestDialog>

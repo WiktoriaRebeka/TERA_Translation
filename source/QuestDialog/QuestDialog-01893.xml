@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="4">There are some species here in Balder's Refuge that are extinct in the rest of the world.&lt;BR&gt;&lt;BR&gt;Want to help recover them? Talk to {@LinkCreature:71#3018#Meiga}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="4">Of course you can help!&lt;BR&gt;&lt;BR&gt;Let me see who needs you today.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3003">
+        <Page social="4">Great to see you, &lt;PCNAME&gt;! Our breeding pool is full.&lt;BR&gt;&lt;BR&gt;Head north to the stream and bring one of the babies back.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="604" villagerId="7">
+        <Page social="0">Greep!&lt;BR&gt;&lt;BR&gt;Greep!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="6" villagerId="3024">
+        <Page social="4">The seal breeding program is going smoothly. Could use someone to count new seal pups, though.&lt;BR&gt;&lt;BR&gt;Sound fun?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="3033">
+        <Page social="4">Aar! Aar!&lt;BR&gt;&lt;BR&gt;Aaar-aar!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="9" villagerId="3034">
+        <Page social="4">Aaar! Aar!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="10" villagerId="3035">
+        <Page social="4">Aaarr! Aar-aar!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" prevId="11" villagerId="3003">
+        <Page social="4">Oh, he's a big one!&lt;BR&gt;&lt;BR&gt;Nice work!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="230" prevId="12" villagerId="3024">
+        <Page social="4">Nice work!&lt;BR&gt;&lt;BR&gt;Aaah, I can think of worse jobs than swimming this river and counting the seals.</Page>
+    </Text>
+</QuestDialog>

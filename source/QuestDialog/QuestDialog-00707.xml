@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="1">You've gathered news that we should share with future generations. Fortunately, we have a means to do just that: the {@LinkCreature:230#1058#Repositories of Langsyne}.&lt;BR&gt;&lt;BR&gt;Go to the {@Rgn:30015$$Archive Stronghold}, and speak aloud to all the Repositories of Langsyne you find. They will record your words.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1058">
+        <Page social="1">(Words appear on the repository: The goddess Elinu hid the popori and elin from the rest of the world for centuries, and then set them down near Pora Elinu and disappeared herself. The elin and popori were quick to join the Valkyon Federation and battle against the argons.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1059">
+        <Page social="1">(Words appear on the repository: The elves had a mighty empire, which was devastated when they lost control of the Flower of Life. Only the creation of a living artifact called the Core saved the entire continent from destruction. Humbled somewhat by their near destruction, the high elves joined the Valkyon Federation out of necessity when the argons approached Allemantheia.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1060">
+        <Page social="1">(Words appear on the repository: On the {@LinkCreature:226#1102$$cenotaph} of {@Rgn:26001$$Blessing Basin}, the name of &lt;PCNAME&gt; is inscribed. This fearless &lt;PCCLASS:lcase&gt; killed the gods Akasha, Killian, and Thulsa, causing mortals and gods alike to tremble.)&lt;NEXTPAGEBUTTON&gt;"I didn't expect that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">More words appear on the repository: &lt;PCNAME&gt; also defeated the god Sikander's corrupted form, Kelsaik, but this victory was somewhat incomplete, because...)&lt;BR&gt;&lt;BR&gt;(The words fade out at this point.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="1061">
+        <Page social="1">(Words appear on the repository: The Lower Archive was originally where the giants worshipped the sun god, Balder, and the god of knowledge, Oriyn. The peaceful giants who pursued knowledge here eventually became the baraka. Only a few baraka remain here. Many have moved to Allemantheia, and perhaps some still live in Balderon, a baraka city on Northern Arun, now magically blockaded by the devas.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="1047">
+        <Page social="1">You are in an enviable position, &lt;PCNAME&gt;. You have both made history and helped to record it.&lt;BR&gt;&lt;BR&gt;Perhaps in centuries to come, a future you will stand here and contemplate what a single mortal can accomplish, given sufficient talent, drive, and wisdom.</Page>
+    </Text>
+</QuestDialog>

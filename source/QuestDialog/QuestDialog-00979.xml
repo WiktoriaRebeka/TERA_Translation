@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="4">We tested several plants and compounds in our attempts to cleanse this area, but all failed. I think dropwort might be the one that works.&lt;BR&gt;&lt;BR&gt;It's a potent disinfectant. Could you collect some for me? It grows around the village.&lt;BR&gt;&lt;BR&gt;Have {@LinkCreature:240#1101#Nevis} try it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1101">
+        <Page social="0">Ah, this is plenty of dropwort. More than enough for me to start my experiments.&lt;BR&gt;&lt;BR&gt;Thank you!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1101">
+        <Page social="0">Dropwort does sound promising. Can you fetch samples?</Page>
+    </Text>
+</QuestDialog>

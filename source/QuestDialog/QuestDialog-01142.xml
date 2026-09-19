@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="48" prevId="0" villagerId="1012">
+        <Page social="4">&lt;PCNAME&gt;! I need your help again.&lt;NEXTPAGEBUTTON&gt;"What did you find?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">The navashad that keeps chewing up our forces isn't sentient or magical. The argons use their technology to control its tentacles.&lt;BR&gt;&lt;BR&gt;If you kill those controllers, the argon war machine would be helpless. I saw Nauti, one of the zariiks, using the navashad.&lt;NEXTPAGEBUTTON&gt;"I'll handle it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">You did it! The navashad has stopped! Without those colossal metal arms wreaking havoc on our forces, we stand a chance here.&lt;NEXTPAGEBUTTON&gt;"We need to stop it permanently."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">True enough. I don't know what powers the navashad, but I'll make finding the source the top priority for our vanguards.&lt;BR&gt;&lt;BR&gt;Great work, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

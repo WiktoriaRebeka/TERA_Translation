@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1020">
+        <Page social="5">While I'm relieved we're making progress, I know the danger's not gone. I've got to get the news up to the Runicar Research Camp.&lt;BR&gt;&lt;BR&gt;Could you head up there and let them know what's going on? I'm on strict orders to head back.&lt;BR&gt;&lt;BR&gt;I'd really appreciate it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1003">
+        <Page social="5">Well, I'm glad Jadan's boy is safe, but the rest of the news you bring is quite troubling.&lt;BR&gt;&lt;BR&gt;We should probably sit down and discuss how to handle this.</Page>
+    </Text>
+</QuestDialog>

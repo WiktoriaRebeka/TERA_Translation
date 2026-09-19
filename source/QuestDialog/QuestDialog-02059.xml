@@ -1,0 +1,55 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt;, although we failed to blast Exodor, we're still trying to find a way to stop it.&lt;BR&gt;&lt;BR&gt;We have a new discovery about Exodor. Please come to me as soon as you see this order.&lt;BR&gt;&lt;BR&gt;— Ryshan</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">When explosives weren't the answer, the federation searched for a different solution to stop Exodor.&lt;BR&gt;With the help of the ecologist Amarre, the federation discovered a way to get inside Exodor. You went with Amarre and Titus to Exodor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="1" villagerId="6073">
+        <Page social="4" voiceTypeId="0">I've been hoping you'd come, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The Mysterium has tried everything they could think of but failed to take Exodor down.&lt;BR&gt;&lt;BR&gt;It seems that Exodor is now heading for Velika.&lt;BR&gt;&lt;BR&gt;We must find a way to stop it for the sake of the world.&lt;BR&gt;&lt;BR&gt;There was nothing we could do from the outside, but...&lt;NEXTPAGEBUTTON&gt;"From the inside?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">That's right.&lt;BR&gt;&lt;BR&gt;I received a report from Amarre.&lt;BR&gt;&lt;BR&gt;According to her report, the Murderwings and Mournwings have a homing instinct.&lt;BR&gt;&lt;BR&gt;Here, read it for yourself.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="6073">
+        <Page social="4" voiceTypeId="0">An amazing discovery! Don't you think so?&lt;BR&gt;&lt;BR&gt;This could be our chance to get inside Exodor!&lt;BR&gt;&lt;BR&gt;But of course, we'll need a plan for how we're to use the butterflies.&lt;BR&gt;&lt;BR&gt;Seek out Amarre and find out how we can make this happen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="4" villagerId="1170">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! What a surprise! You read my report?&lt;BR&gt;&lt;BR&gt;Ryshan said my report could be an answer to end this misery? That means a lot.&lt;BR&gt;&lt;BR&gt;I'm glad I chose to become an ecologist.&lt;BR&gt;&lt;BR&gt;So, you want to know how I think we can get inside Exodor?&lt;NEXTPAGEBUTTON&gt;"That's right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The key seems to be their jewel glands. We need to capture butterflies with contracted jewel glands. After that, we let them free near Exodor. That should make them go inside Exodor.&lt;BR&gt;&lt;BR&gt;Now this is the tricky part. We need to hop a ride on them just as we let them free.&lt;BR&gt;&lt;BR&gt;We'll need to be extra careful not to harm their wings when we capture them.&lt;NEXTPAGEBUTTON&gt;"Any tips?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">They're very sensitive wings. Very easy to injure.&lt;BR&gt;&lt;BR&gt;We need the butterflies calm and quiet before we capture them.&lt;BR&gt;&lt;BR&gt;These butterflies are deadly, but very instinctual. If we can make the right pheromone, we should be able to calm them.&lt;BR&gt;&lt;BR&gt;If you can collect their pheromones, I'll make the concentrate.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="27" prevId="5" villagerId="1170">
+        <Page social="4" voiceTypeId="0">Here take these for the next step. You'll need this Gossamer Webbing to capture the Murderwings. And this pheromone concentrate.&lt;NEXTPAGEBUTTON&gt;"How do I use the concentrate?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Spray it in the air and the Murderwings will come near.&lt;BR&gt;&lt;BR&gt;Wait briefly and you'll see them calm down.&lt;BR&gt;&lt;BR&gt;After that, use the webbing to capture the butterfly. I'll help. Let's meet later at the point.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="27" villagerId="1170">
+        <Page social="0">I'll need more than that to make the pheromone concentrate.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="27" prevId="6" villagerId="1181">
+        <Page social="4" voiceTypeId="0">(The pheromone concentrate made the Murderwing calm down.)&lt;BR&gt;&lt;BR&gt;(Use the Gossamer Webbing to capture the Murderwing.)&lt;NEXTPAGEBUTTON&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="27" prevId="8" villagerId="1182">
+        <Page social="4" voiceTypeId="0">(The pheromone concentrate made the Murderwing calm down.)&lt;BR&gt;&lt;BR&gt;(You use the Gossamer Webbing to capture the Murderwing.)&lt;NEXTPAGEBUTTON&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="27" prevId="9" villagerId="1183">
+        <Page social="4" voiceTypeId="0">(The pheromone concentrate made the Murderwing calm down.)&lt;BR&gt;&lt;BR&gt;(You use the Gossamer Webbing to capture the Murderwing.)&lt;NEXTPAGEBUTTON&gt;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="27" prevId="10" villagerId="1171">
+        <Page social="4" voiceTypeId="0">You did well not to harm the wings. I think you'd make an expert ecologist.&lt;BR&gt;&lt;BR&gt;Transport these Murderwings and free them at Spring Valley. They should head for Exodor.&lt;NEXTPAGEBUTTON&gt;"Excellent."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">On second thought, I should go with you.&lt;BR&gt;&lt;BR&gt;In case something goes wrong with the Murderwings.&lt;NEXTPAGEBUTTON&gt;"If you think it's necessary."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Don't mind me. All of this adds to my research.&lt;BR&gt;&lt;BR&gt;Ryshan said Spring Valley is the best location to set these Murderwings free. Let's go.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="182" prevId="11" villagerId="6074">
+        <Page social="4" voiceTypeId="0">I never thought I'd see a Murderwing so closely. Thank you, &lt;PCNAME&gt;. Thank you, Amarre.&lt;BR&gt;&lt;BR&gt;It's a relief to have a way inside Exodor. You should be able to stop Exodor from the inside.&lt;BR&gt;&lt;BR&gt;Titus and Amarre should be useful. Please take them with you and find a way to stop Exodor.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="182" prevId="12" villagerId="6071">
+        <Page social="4" voiceTypeId="0">So, it looks like we both just got a field promotion.&lt;BR&gt;&lt;BR&gt;I'm kind of worried...but excited at the same time.&lt;NEXTPAGEBUTTON&gt;"It's going to be dangerous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I know. But the people have suffered enough from the effects of the crystals and these butterflies.&lt;BR&gt;&lt;BR&gt;We must investigate Exodor and find a clue to end all this.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I hope we do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Was someone else coming? Titus...was it? We met each other just a while ago. He looks very confident about this.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="182" prevId="13" villagerId="6072">
+        <Page social="0" voiceTypeId="0">What? Amarre? That ecologist is coming with us? This is no job for a scholar, if you ask me.&lt;BR&gt;&lt;BR&gt;I won't stop her from coming, but I hope she doesn't get in our way.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="2000" prevId="14" villagerId="20400">
+        <Page social="4" voiceTypeId="0">So this is Exodor...&lt;BR&gt;Fascinating!&lt;BR&gt;&lt;BR&gt;We should take a look around.</Page>
+    </Text>
+</QuestDialog>

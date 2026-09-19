@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1141">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1141">
+        <Page social="4">Sersine looks out at the Tainted Gorge and sees a land to be tamed or pacified. But all I can see are the faces of friends killed by demons. What's worse, the ground here itself has "claimed" their bodies—turning them slowly into stone and absorbing them.&lt;BR&gt;&lt;BR&gt;I'm asking everyone who goes out on patrol to collect the &lt;b&gt;Expedition Amulets&lt;/b&gt; from those still recognizable. If you can get past the swarms out there, you should be able to get something for their families to bury.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1141">
+        <Page social="4">Well done, &lt;PCNAME&gt;. I know the families will appreciate having these.&lt;BR&gt;&lt;BR&gt;It's too bad there's not more like you around—we could take the fight straight to their leaders and end this siege!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1141">
+        <Page social="0">Every day we fend off waves of demons, spirits, and whatever those cloaked freaks with the weird heads are. It takes all of our skill just to hold this camp, and it's why we're so glad to see new recruits like you.&lt;BR&gt;&lt;BR&gt;Please, if you have the chance, help us send something back home for the families of the fallen. It could have been us lying out there—and someday soon, it may well be!</Page>
+    </Text>
+</QuestDialog>

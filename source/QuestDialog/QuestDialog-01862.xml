@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="4">Not that we're taking this war personally, but I want to hurt the argons as much as possible.&lt;BR&gt;&lt;BR&gt;I've ordered {@LinkCreature:248#3003#Vikhonul} to identify the argon commanders. Your job is to take them out.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">Kalkzak wanted targets, so I give you targets.&lt;BR&gt;&lt;BR&gt;The three argons I marked for death are responsible for multiple atrocities against federation forces.&lt;BR&gt;&lt;BR&gt;This isn't vengeance, it's justice.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">You got {@LinkCreature:48#25#Baruldur}! Great work.&lt;BR&gt;&lt;BR&gt;Our morale needed a boost like this. Long live the Shariar!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="3003">
+        <Page social="4">{@LinkCreature:48#27#Nauti}'s dead! Great work.&lt;BR&gt;&lt;BR&gt;Our morale needed a boost like this. Long live the Shariar!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="3003">
+        <Page social="4">You killed {@LinkCreature:48#28$$Mogmolor}! Great work.&lt;BR&gt;&lt;BR&gt;Our morale needed a boost like this. Long live the Shariar!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,55 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1013">
+        <Page social="0">Mysterium scholars in Blessing Basin asked for your aid after tales of your deeds etched themselves into ancient cenotaphs. You studied the cenotaphs and learned you were to face a great test. You faced the guardians of fate and met with the Seeress of the Gods, Mystel. She gave you a warning about the future and an ancient tome.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1013">
+        <Page social="5" voiceTypeId="0">Wait a minute. I've just got orders from the headquarters.&lt;BR&gt;&lt;BR&gt;Have you ever heard of Blessing Basin? It's located Northwest of Allemantheia. The expedition over there wants your help.&lt;BR&gt;&lt;BR&gt;They say only you can help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="2" villagerId="1013">
+        <Page social="5" voiceTypeId="0">The Mysterium team in Blessing Basin is asking for you by name. It appears they have made an important discovery that involves you.&lt;NEXTPAGEBUTTON&gt;Where can I find the expedition?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Go to Tralion. Jelren is waiting for you.&lt;BR&gt;Report to Magistrate Jelren in Tralion at once.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="69" prevId="3" villagerId="1001">
+        <Page social="5" voiceTypeId="0">The Mysterium is most eager to talk to you. They're adamant about needing your assistance, but are more close-lipped than usual about their discovery.&lt;BR&gt;&lt;BR&gt;The team is still in the field, so head west to Crossroads Camp. Be prepared for anything. This insistence on secrecy is unusual even for them, so I assume their request will be as well. Go and meet {@linkcreature:226#1025#Lilone}.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="226" prevId="4" villagerId="1025">
+        <Page social="5" voiceTypeId="0">Glorious! We've been keen to work with you ever since we read about your exploits. You've certainly made a name for yourself in your brief service. Small wonder the gods took notice!&lt;NEXTPAGEBUTTON&gt;"You read about me?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Your name, and your deeds, appeared on the cenotaphs a few weeks ago. All of your actions are chronicled there.&lt;BR&gt;&lt;BR&gt;You should speak with Ansine at Seekers' Locus. Along the way, read the stones. See for yourself!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="226" prevId="5" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Long ago, Arun and Shara, weary of war, left the realm of strife.&lt;BR&gt;&lt;BR&gt;They lay down their treasures and raiments of power, and fell into a deep sleep. And as they dreamed, this world came into being.&lt;NEXTPAGEBUTTON&gt;"I don't see anything about me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Arun's sleeping form became the eastern land, and Shara's the west.&lt;BR&gt;&lt;BR&gt;Their tears became the ocean; their breath, the wind. Their dreams became reality.&lt;BR&gt;&lt;BR&gt;(The stone continues to chronicle the Age of Gods, the Divine War, and the modern Age of Mortals.)&lt;NEXTPAGEBUTTON&gt;Skip to the end.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Among those to rose up to and protect the world was the adventurer, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="226" prevId="5" villagerId="1104">
+        <Page social="4" voiceTypeId="0">...and  set off to the city of the goddess Velik. The city was threatened by enemies within, while the worshippers of the deceiver Lok brought chaos over the continent of Arun. Through trials long and hard, &lt;BR&gt;&lt;PCNAME&gt; exposed their plot and ended it. But for &lt;PCNAME&gt; and Elleon, the entire realm would have perished.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="226" prevId="5" villagerId="1105">
+        <Page social="4" voiceTypeId="0">...and a secret will be revealed to &lt;PCNAME&gt; in the most unlikely of places...&lt;BR&gt;&lt;BR&gt;... will face a great trial......the Hand of the Seeress shall walk the path between the shadows of trees in Blessing Basin, and take a step closer to the truth.&lt;NEXTPAGEBUTTON&gt;"This can't be..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">(Maybe Ansine knows something about all this.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="226" prevId="6" villagerId="1003">
+        <Page social="4" voiceTypeId="0">Fascinating reading, isn't it? We didn't believe it ourselves until we inquired whether the Valkyon Federation even had a soldier named &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Elleon's exploits are well known. Yours, less so.&lt;NEXTPAGEBUTTON&gt;"I'm not here for the fame."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">A wise policy, no doubt.&lt;BR&gt;&lt;BR&gt;Well, the instructions are there. You are the "Hand of the Seeress," obviously. You must walk through the shadows.&lt;BR&gt;&lt;BR&gt;Whatever test you face next, the stones will guide you.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="226" prevId="9" villagerId="1107">
+        <Page social="4" voiceTypeId="0">The Hand of the Seeress must be tested. When fully prepared, the Hand may use this stone to proceed.&lt;BR&gt;&lt;BR&gt;Beware hubris. Destinies are infinitely mutable, and the visions of the seeress guarantee no outcome.&lt;BR&gt;&lt;BR&gt;There is no fate but what you make.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="402" prevId="10" villagerId="1003">
+        <Page social="4" voiceTypeId="0">(The symbols on the stone don't move, but a pattern is emerging in your mind.)</Page>
+    </Text>
+    <Text id="12" huntingZoneId="402" prevId="11" villagerId="1001">
+        <Page social="1" voiceTypeId="0">And so we meet at last, . I am Mystel, seeress of the gods. You have journeyed far to reach this place in space and time. You've been tested by the huntress herself, and now by me.&lt;BR&gt;&lt;BR&gt;I have to know if you have the strength to go even further—to defeat an evil more powerful than any mortal has ever imagined.&lt;NEXTPAGEBUTTON&gt;"What do you mean?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Our world faces a danger graver than anyone realizes. It will take a soldier of incredible courage and fortitude to face such an inexorable foe. This test was harsh, but necessary.&lt;BR&gt;&lt;BR&gt;You surprised me. You can't imagine how rare that is.&lt;NEXTPAGEBUTTON&gt;"So I passed the test?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">The test never ends, &lt;PCNAME&gt;. Your performance, however, was most promising. We're on the same path now. In time, I'll be able to reveal more. For now, take this book and study its secrets. There may be a moment where the knowledge in here will carry the day.&lt;BR&gt;&lt;BR&gt;Stay strong in heart and purpose.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Our destinies are intertwined now. The journey is clear, even though the destination is yet unknown.&lt;BR&gt;&lt;BR&gt;I have other pebbles to place, so I must take my leave. Farewell, for now.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="226" prevId="12" villagerId="1003">
+        <Page social="4" voiceTypeId="0">The goddess of fate chose you, and you passed her test! Incredible! Do you know how few are chosen, much less survive? &lt;BR&gt;&lt;BR&gt;This is a moment of enormous importance. I must prepare a report. You should return to Tralion and let Magistrate Jelren know what transpired here. Take this teleportal scroll.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="69" prevId="13" villagerId="1001">
+        <Page social="1" voiceTypeId="0">You're safe! We've been waiting on pins and needles. What happened?&lt;NEXTPAGEBUTTON&gt;"It was quite a test."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Incredible! You met with Mystel? And you passed her trial? Your fortunes are rising!&lt;BR&gt;&lt;BR&gt;The book she gave you is the Nelsiir Codex. It's said to contain the location of a terribly powerful artifact.&lt;BR&gt;&lt;BR&gt;I'll send the codex to the Mysterium in Allemantheia for further study. When the time is right, it will find its way back to you.&lt;BR&gt;&lt;BR&gt;Well done, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

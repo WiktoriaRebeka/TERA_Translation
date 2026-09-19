@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="4" voiceTypeId="0">This sabertooth? Mine since it was a cub. It sure eats more now than it did then!&lt;BR&gt;&lt;BR&gt;It eats like a gula...well, not really, but it has quite an appetite. Guess what it eats?&lt;NEXTPAGEBUTTON&gt;"Gula meat?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Close. Caimans.&lt;BR&gt;&lt;BR&gt;Its favorite meal is the tail of a {@LinkCreature:472#2#azure caiman thumper}. But I think the caimans have gotten wise to my traps.&lt;BR&gt;&lt;BR&gt;If you're going into the Golden Labyrinth, you might find some that the gulas keep as pets.&lt;BR&gt;&lt;BR&gt;Bring back their tails! You don't want a grumpy sabertooth around here, do you?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1018">
+        <Page social="6" voiceTypeId="0">This will keep my big baby happy. Or at least fed.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1018">
+        <Page social="0">Look, if I could get into the Golden Labyrinth—and out again—I would.</Page>
+    </Text>
+</QuestDialog>

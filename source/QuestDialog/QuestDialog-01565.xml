@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="9999">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="9999">
+        <Page social="4">Now we'll focus on more practical applications of &lt;font color='#FF0000'&gt;Intimidation&lt;/font&gt;. Traning dummies make good targets, but they don't hit back. The golems at the edge of this terrace, however, generate attacks for you to block. &lt;font color='#FF0000'&gt;Axe Block&lt;/font&gt;, that is.&lt;BR&gt;&lt;BR&gt;While using &lt;font color='#FF0000'&gt;Intimidation&lt;/font&gt;, a successful &lt;font color='#FF0000'&gt;Axe Block&lt;/font&gt; allows you to use &lt;font color='#FF0000'&gt;Axe Counter&lt;/font&gt;. Not only will you deliver a strong attack in response, but while doing so your resistance to knockdown and stagger increases, and any incoming damage is reduced by 50%.&lt;BR&gt;&lt;BR&gt;Well? What are you waiting for?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="9999">
+        <Page social="4">Excellent work. Timing is everything in combat. Intimidation also increases the amount of damage you can stop with an Axe Block, as well as extending its protective effects to allies behind you.&lt;BR&gt;&lt;BR&gt;You've learned all you need to know from me, the rest is in your hands!</Page>
+    </Text>
+</QuestDialog>

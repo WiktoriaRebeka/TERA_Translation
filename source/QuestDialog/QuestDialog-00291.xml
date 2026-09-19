@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1031">
+        <Page social="4">Well, it'd be easier to find this "magic stone" if we knew more about it. And it probably came here on a ship, right?&lt;BR&gt;&lt;BR&gt;Every ship in the Red Lash fleet has a logbook. And when the ships are docked, the {@LinkCreature:11#2001#Red Lash mates} and their subordinates, the {@LinkCreature:11#2005#Red Lash drillers}, carry the logbooks.&lt;BR&gt;&lt;BR&gt;Let's abscond with the logbooks and do a little research.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">Let's see... "Stone-comma-magic..." Here it is!&lt;BR&gt;&lt;BR&gt;Came here about a year ago. It's really big—the only cargo on that voyage. And in every other column, it just says "Dementalith. See Captain."&lt;BR&gt;&lt;BR&gt;I was hoping for more, frankly.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1031">
+        <Page social="0">Those logbooks are the key. They'll tell us what sort of magic stone to look for. Get the {@LinkCreature:11#2001#Red Lash mates} and {@LinkCreature:11#2005#Red Lash drillers}.</Page>
+    </Text>
+</QuestDialog>

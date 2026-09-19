@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1002">
+        <Page social="4">There are so many hired hands out here...&lt;BR&gt;&lt;BR&gt;I've heard the emblems the {@LinkCreature:40#27#Crestarath mercenaries} wear look like skulls. Will you get some for me? I'd like to see for myself.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1002">
+        <Page social="4">I was afraid of that. These match crests given by the Legion of Thulsa. Not good news at all.&lt;BR&gt;&lt;BR&gt;Not to mention, they're creepy...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1002">
+        <Page social="0">I'm still waiting for those skull emblems the {@LinkCreature:40#27#mercenaries} wear. Have you found any?</Page>
+    </Text>
+</QuestDialog>

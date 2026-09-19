@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">I need your help.&lt;BR&gt;&lt;BR&gt;In fact, I doubt anyone else could do it.&lt;NEXTPAGEBUTTON&gt;"Why? What's happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">One of the lighthouses has gone dark! Balder's Glyph spreads its energy over the whole refuge. The lighthouses convert some of it to...well, we're not sure. But when they go out, plants and animals die and the wards on this place weaken.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3026#Lilis} may know what's wrong. Give her whatever help she needs!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">&lt;PCNAME&gt;? Great!&lt;BR&gt;&lt;BR&gt;The {@WorkObject:95} in there must have jammed up.&lt;BR&gt;&lt;BR&gt;Take the teleportal inside, get to the top of the tower and restart the {@WorkObject:95}. Watch out for golems!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3026">
+        <Page social="4">Beautiful. Yes, the field's stabilizing.&lt;BR&gt;&lt;BR&gt;Hard work, between the stairs and the golems. We're very lucky you were here.</Page>
+    </Text>
+</QuestDialog>

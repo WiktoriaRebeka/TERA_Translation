@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1025">
+        <Page social="4">Do you know how to make {@RawItem:206816}? There's plenty of {@RawItem:206811} around here, but it's not all that safe to recover. Could you procure some {@RawItem:206816} for me? Don't look at me like that—I'm unarmed!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1025">
+        <Page social="4">Oh, this will do nicely. Much obliged, &lt;PCNAME&gt;. I'll put this to good use.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1025">
+        <Page social="0">You haven't got it yet? You know how to mine and polish, right?</Page>
+    </Text>
+</QuestDialog>

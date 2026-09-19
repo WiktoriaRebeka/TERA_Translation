@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="4">I have a message for Otus at Vanguard Bastion. Tell him the pirates are going to move the bombs and the "magic stone"—whatever that is—soon.&lt;BR&gt;&lt;BR&gt;If he wants to do anything about it, now is the time.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1009">
+        <Page social="4">Any news from Armentes?&lt;BR&gt;&lt;BR&gt;A magic stone...like a dementalith that Lok's cultists use? Nah...lots of angry pirates, but no crazy ones.&lt;BR&gt;&lt;BR&gt;Maybe it hasn't been activated yet?</Page>
+    </Text>
+</QuestDialog>

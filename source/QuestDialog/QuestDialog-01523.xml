@@ -1,0 +1,66 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Tamur asked that you secretly deliver the Aeonalis Pylon to Dougal and Paesyn, who in turn entrusted you with a secret mission. After you were teleported to Velika, you discovered the existence of a new enemy; the nefarious Archdevan Empire in Northern Arun.&lt;BR&gt;&lt;BR&gt;The archdevans used your old comrade Grapine to open a rift and send monsters called demokrons to fight you.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Kaiator Command]&lt;BR&gt;&lt;BR&gt;This is a general recall order. All field operatives should report to the Kaiator Command Center for new orders.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! The time has come for us to finalize our argon offensive.&lt;BR&gt;&lt;BR&gt;But although I'm eager to see what you can do against the enemy with your new skills, the Valkyon Federation has other plans.&lt;BR&gt;&lt;BR&gt;I need you to deliver something to some people from Velika.&lt;BR&gt;&lt;BR&gt;It's called a Aeonalis Pylon, and it's a central component in building airships.&lt;NEXTPAGEBUTTON&gt;"Alright, but why?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I'm curious about that myself. Airships with Aeonalis Pylons are nothing but giant targets to the argons. It's why we stopped using them. But Commander Seir asked for these himself, and I need this exchange to go down discreetly.&lt;BR&gt;&lt;BR&gt;So I want you to give these out to the guests from Velika, and help them with whatever they need.&lt;BR&gt;&lt;BR&gt;I look forward to hearing your report.&lt;BR&gt;&lt;BR&gt;&lt;A href="markmap:loc=84#-11510,5921,4105&amp;type=1&amp;name=Meeting Point"&gt;Meeting Point&lt;/A&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" prevId="3" villagerId="10036">
+        <Page social="4" voiceTypeId="0">Hello there!&lt;BR&gt;&lt;BR&gt;You look familiar, but I can't place your face. &lt;BR&gt;&lt;BR&gt;I'm Paesyn, and this Aeonalis Pylon will complete my masterpiece!&lt;NEXTPAGEBUTTON&gt;"Keep your voice down!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">What? I...oh, right. My masterpiece is classified. I'm not sure if I can even acknowledge that I'm an airship engineer! I...you should talk to Dougal now.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="84" villagerId="10036">
+        <Page social="0">Pssst. I'm here looking for an Aeonalis Pylon...do you have it?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="84" prevId="4" villagerId="10037">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;. It's been a while since we've spoken, and I'm glad to see you doing well.&lt;BR&gt;&lt;BR&gt;Please excuse Paesyn. He's a bit...enthusiastic. Thank you for delivering this.&lt;NEXTPAGEBUTTON&gt;"Why all the secrecy?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">There's too many unfamiliar eyes and ears here to tell you everything.&lt;BR&gt;&lt;BR&gt;(Whispering)&lt;BR&gt;&lt;BR&gt;In fact, even Valkyon Federation Headquarters in Velika may be compromised.&lt;BR&gt;&lt;BR&gt;There's only one place we know can be trusted: the Commander's Residence in Velika. Paesyn can teleport you there as soon as you're ready; and a mutual friend will fill you in when you arrive.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="84" prevId="6" villagerId="10036">
+        <Page social="4" voiceTypeId="0">You ready to be teleported to our super-secret meeting place?&lt;BR&gt;&lt;BR&gt;I probably shouldn't have said that.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="503" prevId="7" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Thank you for coming, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;What you're about to hear is confidential.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="503" prevId="8" villagerId="1012">
+        <Page social="0" voiceTypeId="0">100 years ago, a phenomenon known as the Storm Barrier cut off all access to Northern Arun. That's the official story, anywyay. Since the end of the first Argon War, we've made it a priority to breach the Storm Barrier and secure our northern borders.&lt;BR&gt;&lt;BR&gt;The federation has had some small success getting spies into Northern Arun, but very few return. The one thing we do know is that the area is dominated by an ancient enemy...the devans.&lt;BR&gt;&lt;BR&gt;You may remember facing off against them earlier in your career. Our agents in Crescentia have compiled solid evidence of their interference, enough for us to finally get approval to build an airship powerful enough to breach the barrier.&lt;BR&gt;&lt;BR&gt;I just wish...&lt;NEXTPAGEBUTTON&gt;"Has something happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You may remember one of our best agents, Grapine. On his last mission, he successfully infiltrated a stronghold of the Archdevan Empire and returned with an important bit of information.&lt;BR&gt;&lt;BR&gt;Not content with just using blood magic, the archdevans are now transforming living creatures into monstrous shock troops by the use of specialized relics called "marks."&lt;BR&gt;&lt;BR&gt;But whever he saw damaged his mind, and we were hoping a friendly face might help.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, we need to know about these Archdevan Marks. We need to find out what happened to Grapine.&lt;BR&gt;&lt;BR&gt;Talk to Kamia, then use this philter to calm Grapine's mind.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="503" prevId="9" villagerId="1008">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, You may remember that Grapine and I went undercover as devan raiders to foil their plans to destabilize the federation. What you don't know is that after you left, we discovered the true architects of those plans were not Lok believers, but followers of Lakan.&lt;NEXTPAGEBUTTON&gt;"Lakan?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Yes, Lakan the Avaricious.&lt;BR&gt;These "archdevas" said that they were blessed, reborn by Lakan to rule the world.&lt;BR&gt;&lt;BR&gt;They called for volunteers to organize another attack, and Grapine went with them. It took me a while to figure out where he'd gone, and you can see the toll it took on him.&lt;BR&gt;&lt;BR&gt;If you can help him remember his mission, we'll gain valuable intelligence on the Archdevan Empire.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="503" prevId="10" villagerId="1011">
+        <Page social="0" voiceTypeId="0">Can't...tell...must not...too...late...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="503" prevId="10" villagerId="1011">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;? Hehe...&lt;BR&gt;&lt;BR&gt;...You know what, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;...they told me I am worthy to become a unique deva...did you see the archdevas...?&lt;BR&gt;&lt;BR&gt;The blessed believers...the inferior are nothing but elements of the demokrons. I was given a great mission...&lt;NEXTPAGEBUTTON&gt;"Demokrons? Tell me more."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Quiet! You are not worthy to even whisper that name.&lt;BR&gt;&lt;BR&gt;I...no, I mustn't. My mission...&lt;BR&gt;&lt;BR&gt;I am a castanic, not a deva. I...</Page>
+    </Text>
+    <Text id="13" huntingZoneId="503" prevId="10" villagerId="1011">
+        <Page social="4" voiceTypeId="0">I...no, I mustn't. My mission...&lt;BR&gt;&lt;BR&gt;I am a castanic, not a deva. I...&lt;NEXTPAGEBUTTON&gt;"Try to remember..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;The archdevas...they gave me a vision of Lakan...said I had the great honor to follow him.&lt;BR&gt;&lt;BR&gt;Either follow Lakan, or become soil for the demokrons...&lt;BR&gt;&lt;BR&gt;The first...urgh...</Page>
+    </Text>
+    <Text id="14" huntingZoneId="503" prevId="11" villagerId="1012">
+        <Page social="4" voiceTypeId="0">This symbol is quite similar to that of the old deva empire.&lt;BR&gt;&lt;BR&gt;So these archdevans...definitely a threat we must address. With this evidence, we can eliminate all opposition to our skyship plan.&lt;NEXTPAGEBUTTON&gt;"When do we start?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We're on the brink of a new war with the argons, and to pull seasoned troops from Northern Shara won't make anybody happy.&lt;BR&gt;&lt;BR&gt;I'm detaching you from any official duties as of now, but you'll need to clear up any outstanding business with Tamur.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="503" villagerId="1012">
+        <Page social="0">Sending monsters through the rift.&lt;BR&gt;The archdevas are clever.&lt;BR&gt;&lt;BR&gt;I'll leave this matter to you.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="503" prevId="11" villagerId="1012">
+        <Page social="4" voiceTypeId="0">This symbol is quite similar to that of the old deva empire.&lt;BR&gt;&lt;BR&gt;So these archdevans...definitely a threat we must address. With this evidence, we can eliminate all opposition to our skyship plan.&lt;NEXTPAGEBUTTON&gt;"When do we start?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We're on the brink of a new war with the argons, and to pull seasoned troops from Northern Shara won't make anybody happy.&lt;BR&gt;&lt;BR&gt;I'm detaching you from any official duties as of now, but you'll need to clear up any outstanding business with Tamur.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="503" villagerId="1012">
+        <Page social="0">Sending monsters through the rift.&lt;BR&gt;The archdevas are clever.&lt;BR&gt;&lt;BR&gt;I'll leave this matter to you.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="503" prevId="16" villagerId="1012">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, I am officially enlisting you as a Vanguard Scout. I wish you luck in your travels, and will speak to you again when you are successful in your mission.</Page>
+    </Text>
+</QuestDialog>

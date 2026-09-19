@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">After Gutrend kulkaris raided the Valley of Titans south of Lumbertown, Prefect Daven sent you to help contain the problem and restore the peace.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Urgent Mission Orders&lt;BR&gt;&lt;BR&gt;Gutrends have pushed deep into the Valley of Titans.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt; Report to Prefect Daven in Lumbertown for your assignment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1014">
+        <Page social="4">You're here about the Gutrend business, right? We've set up a defensive post at Two Oaks Ranch, but I don't know how long it'll hold.&lt;BR&gt;&lt;BR&gt;Go through the southern gate, head to the ranch, and find {@LinkCreature:206#1010#Petrina}. She'll know how to use you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1010">
+        <Page social="4">You here to help? Good. The Gutrends seem dumb, but don't be fooled. Underestimate them and they'll cut you down.&lt;BR&gt;&lt;BR&gt;But for all their cleverness, they still tend to rely on their leader, {@LinkCreature:6#7051#Smulch}. If we can take that one down, the rest should be easier to target.&lt;BR&gt;&lt;BR&gt;Be careful out there. He's known for crushing enemies' skulls with a single blow.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="206" prevId="4" villagerId="1010">
+        <Page social="4">Really? You took care of him? He's finished? I've sent my best soldiers out there only to have them slaughtered! But you head out there and kill him like it's nothing!&lt;BR&gt;&lt;BR&gt;Not, uh, that I was sending you on a suicide mission or anything. I mean, I had faith in you. Daven spoke very highly of you.&lt;BR&gt;&lt;BR&gt;In light of your success, what would you say to another favor?&lt;NEXTPAGEBUTTON&gt;"A favor such as?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Well, we're getting things under control here, but Echo Ranch has been asking for help.&lt;BR&gt;&lt;BR&gt;While we get back on our feet, I need you to head over to the ranch and see if you can help.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="206" prevId="5" villagerId="1005">
+        <Page social="4">Reinforcements never looked so good. Head east to what's left of Colchester and meet up with {@LinkCreature:206#1003#Sozia}. She's got her hands full over there.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="206" prevId="6" villagerId="1003">
+        <Page social="4">If you're not here to help, the road's that way. We've got no room for loafers. Not anymore.&lt;BR&gt;&lt;BR&gt;If you're my reinforcements, I need you to find any survivors in town. Bring them to me. And do it quickly.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="6" villagerId="1">
+        <Page social="0">Help! Over here!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="206" prevId="7" villagerId="1003">
+        <Page social="4">You've helped so many people! Please, take this.&lt;BR&gt;&lt;BR&gt;We couldn't have saved them without you.</Page>
+    </Text>
+</QuestDialog>

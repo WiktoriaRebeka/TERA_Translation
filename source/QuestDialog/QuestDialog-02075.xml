@@ -1,0 +1,49 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Titus is eagerly looking for &lt;PCNAME&gt;. It seems that Titus found something.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You and Titus joined with Jelena on the search for Elleon. You headed for the center of Verrak Fortress.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="150">
+        <Page social="4" voiceTypeId="0">This seems to be some tracks of Elleon.&lt;BR&gt;&lt;BR&gt;But it stops here.&lt;BR&gt;&lt;BR&gt;Maybe we can find other tracks if we search this garden.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" prevId="3" villagerId="160">
+        <Page social="0" voiceTypeId="0">(You approach the fallen naga and notice a sword wound.)&lt;BR&gt;&lt;BR&gt;(The wound is colored in black.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2002" prevId="4" villagerId="151">
+        <Page social="4" voiceTypeId="0">There's no doubt that Elleon killed these nagas...but what is this black aura surrounding them...&lt;BR&gt;&lt;BR&gt;Maybe...Killian took over Elleon...&lt;BR&gt;&lt;BR&gt;We have to find Elleon quick.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2002" prevId="5" villagerId="161">
+        <Page social="0" voiceTypeId="0">(The naga corpse is slashed brutally.)&lt;BR&gt;&lt;BR&gt;(A black aura comes out from the wounds.)&lt;BR&gt;&lt;BR&gt;(If Elleon did this...)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2002" prevId="6" villagerId="170">
+        <Page social="0" voiceTypeId="0">Urgh...I thought...we were helping each other...&lt;BR&gt;Your friend slaughtered our people.&lt;BR&gt;&lt;BR&gt;I was able to survive but...&lt;NEXTPAGEBUTTON&gt;"Yes, I understand what happened."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">He almost looked like a demon.&lt;BR&gt;&lt;BR&gt;He seemed amused by killing us...with a black aura coming out from his face.&lt;BR&gt;&lt;BR&gt;It's something I never want to remember again.&lt;BR&gt;&lt;BR&gt;I need my belongings, but I can't carry them.&lt;BR&gt;&lt;BR&gt;And we should get out of here fast.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2002" villagerId="172">
+        <Page social="0">If you got everything, we should go... north...Argh.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2002" prevId="7" villagerId="171">
+        <Page social="0" voiceTypeId="0">We're safe now.&lt;BR&gt;&lt;BR&gt;We shouldn't lose anymore time. Go.&lt;BR&gt;&lt;BR&gt;I'll wait for my people here.&lt;BR&gt;&lt;BR&gt;Give this to Vogzu. It'll help you on your way to the fortress.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2002" prevId="9" villagerId="180">
+        <Page social="4" voiceTypeId="0">It's a relief to see that you're okay.&lt;BR&gt;&lt;BR&gt;I heard that your friend Jelena is on her way. The healer tried to stop her but she wouldn't listen. That's why I sent Basheek to help her.&lt;BR&gt;&lt;BR&gt;Speaking of, Basheek is late.&lt;BR&gt;&lt;BR&gt;Why don't you go and find Jelena and Basheek. If you find them, meet me at the platform.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2002" prevId="10" villagerId="190">
+        <Page social="4" voiceTypeId="0">Looks like I'm nothing but trouble aren't I? Sorry. I couldn't make it to the point with all these pursuers.&lt;BR&gt;&lt;BR&gt;I'm glad that we regrouped though. Have you found Elleon?&lt;NEXTPAGEBUTTON&gt;"Yes, he is not right..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">That's what I was worried about...&lt;BR&gt;&lt;BR&gt;We have to hurry. Elleon is battling Killian's ritual. We have to find Elleon before he's unconscious.&lt;BR&gt;&lt;BR&gt;Let's go to Vogzu.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2002" prevId="11" villagerId="124">
+        <Page social="0" voiceTypeId="0">The platform is right ahead of us.&lt;BR&gt;&lt;BR&gt;It's likely for the pursuers to search for us at the platform.&lt;BR&gt;&lt;BR&gt;Vogzu and I'll go in advance to distract the pursuers.&lt;BR&gt;&lt;BR&gt;Come to the platform later and get rid of their reinforcements.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2002" prevId="12" villagerId="125">
+        <Page social="0" voiceTypeId="0">The pursuers have gone to the fortress. They're probably after Elleon.&lt;BR&gt;&lt;BR&gt;Please come to the platform.&lt;BR&gt;&lt;BR&gt;Vogzu is waiting for you.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2002" prevId="13" villagerId="181">
+        <Page social="4" voiceTypeId="0">Many of us have seen your friend Elleon heading for the fortress.&lt;BR&gt;&lt;BR&gt;Most of the draakon and naga pursuers are after him. I assume that Commander Kalligar is giving the orders.&lt;BR&gt;&lt;BR&gt;Basheek and I will go clear the way.&lt;BR&gt;Use the platform and join us when you're ready.&lt;BR&gt;&lt;BR&gt;Basheek will be waiting for you.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="2002" prevId="14" villagerId="126">
+        <Page social="0" voiceTypeId="0">Welcome. This is the island with Verrak Fortress.&lt;BR&gt;&lt;BR&gt;The Core that you seek should be at the center of the fortress.&lt;BR&gt;&lt;BR&gt;Vogzu is keeping an eye on the fortress to help you out.</Page>
+    </Text>
+</QuestDialog>

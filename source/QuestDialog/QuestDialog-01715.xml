@@ -1,0 +1,67 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I have something for you that I must deliver in person. Please find me in Highwatch when you read this letter.&lt;BR&gt;&lt;BR&gt;- Braga</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">An invitation from your old friend Braga led you to the Velika Banquet. Music is playing, people are dancing, a play is in progress, fireworks are lighting up the sky, and everyone has a big smile on their face. It looks like Seir is about to make a speech.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1014">
+        <Page social="0" voiceTypeId="0">It's been a long time, &lt;PCNAME&gt;.&lt;BR&gt;I received a message from the federation. Velika is planning a banquet, and they wanted me to deliver your invitation to you.&lt;BR&gt;Halran will be there too. The banquet will be attended by numerous federation luminaries, as well as many of your old friends.&lt;BR&gt;&lt;BR&gt;The invitation is enchanted to transport you to Velika. Just use the invitation when you're ready to go.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="506" prevId="3" villagerId="3002">
+        <Page social="0" voiceTypeId="0">This is no time for a banquet!&lt;BR&gt;The troops... we have to call back the troops that were sent to Elenea! Velika... no, the entire world is in great danger!&lt;BR&gt;&lt;BR&gt;I have to speak to Seir... but these fools won't let me in without an invitation!&lt;BR&gt;&lt;BR&gt;Please, will you deliver this letter to Seir?&lt;BR&gt;The fate of the world lies in your hands!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="506" prevId="4" villagerId="1003">
+        <Page social="0" voiceTypeId="0">Greetings, &lt;PCCLASS:lcase&gt;. May I see your invitation?&lt;BR&gt;&lt;BR&gt;Ah! You're &lt;PCNAME&gt;! Welcome.&lt;BR&gt;&lt;BR&gt;Seir was looking for you.&lt;BR&gt;&lt;BR&gt;Please visit Valkyon Federation Headquarters before you enjoy the banquet.&lt;NEXTPAGEBUTTON&gt;"Is it possible to bring a guest?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Is this about that guy?&lt;BR&gt;&lt;BR&gt;Sorry, but no one is allowed into the banquet without an invitation... well, children being the exception.&lt;BR&gt;&lt;BR&gt;I'm afraid your invitation is only valid for you.&lt;BR&gt;&lt;BR&gt;Now please hurry. Seir is waiting for you.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="506" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="506" prevId="5" villagerId="2027">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I've been waiting for you.&lt;BR&gt;&lt;BR&gt;I'm always grateful for your service in the name of the Valkyon Federation.&lt;BR&gt;&lt;BR&gt;Now by all means, go enjoy the banquet.&lt;BR&gt;&lt;BR&gt;Elenea? Yes, we sent reinforcements. Why?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I have a letter for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Verdas? I'm not familiar with that name...&lt;BR&gt;&lt;BR&gt;The world is in great danger?&lt;BR&gt;&lt;BR&gt;Sounds like yet another dire pronouncement from a disturbed individual.&lt;BR&gt;&lt;BR&gt;I'll look into it after I finish my speech.&lt;BR&gt;&lt;BR&gt;The banquet guide is waiting for you just outside the headquarters entrance.&lt;BR&gt;&lt;BR&gt;Now please, relax and enjoy the festivities!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="506" prevId="7" villagerId="2100">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;! Thank you for gracing this celebration with your presence.&lt;BR&gt;&lt;BR&gt;We have prepared numerous events for the festivities: dancing, fine dining, a guessing game, a theatrical performance...and of course, Seir's speech.&lt;BR&gt;&lt;BR&gt;Drop by again after you've attended all the events. I'm having a souvenir prepared for you.&lt;BR&gt;&lt;BR&gt;You should start with the dance floor! I've been told you are an excellent dancer!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="506" prevId="8" villagerId="5027">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, you're quite the dancer! You must have worked up an appetite with all that dancing!&lt;BR&gt;&lt;BR&gt;Why don't you drop by the catering area? I'm sure the chef has something special for you.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">Welcome, &lt;PCNAME&gt;!&lt;BR&gt;What can we tempt you with today?&lt;BR&gt;&lt;BR&gt;Please select a dish, and you can pick it up from the chef, right over there.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">A fine choice! The Traditional Bleakfields BBQ is a dish that roasts a pigling wrapped in a palm leaf.&lt;BR&gt;&lt;BR&gt;Our chef will have that ready for you in just a moment!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">Ah, yes! The Freeholds Flame Salad! A delectable dish that mixes fresh vegetables with sky lotuses, tossed in a spicy dressing. I'm sure you'll enjoy it!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="506" prevId="9" villagerId="5030">
+        <Page social="0" voiceTypeId="0">A bold choice! Bleak Wings consist of a stir-fried struthio breast, marinated in a special sauce, topped with a sky lotus. One bite, and you'll be a fan for life!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="506" prevId="10" villagerId="2005">
+        <Page social="0" voiceTypeId="0">One Traditional Bleakfields BBQ ready! I hope you enjoy your meal.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="506" prevId="10" villagerId="2005">
+        <Page social="0" voiceTypeId="0">One Freeholds Flame Salad ready! Please enjoy your meal.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="506" prevId="10" villagerId="2005">
+        <Page social="0" voiceTypeId="0">One order of Bleak Wings ready! Enjoy your meal!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="506" prevId="16" villagerId="5030">
+        <Page social="0" voiceTypeId="0">How was your meal, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Care to try your luck at the guessing game now? Just visit Carbest for an explanation of the rules, and the prizes.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="506" prevId="17" villagerId="5000">
+        <Page social="0" voiceTypeId="0">Welcome, &lt;PCNAME&gt;! Here to try your luck? Excellent!&lt;BR&gt;&lt;BR&gt;One of the four boxes in front of you—and only one—contains a lucky coin! You can only choose one box to open!&lt;BR&gt;&lt;BR&gt;Are you feeling lucky? I'm ready when you are!</Page>
+    </Text>
+    <Text id="19" huntingZoneId="506" prevId="18" villagerId="5000">
+        <Page social="0" voiceTypeId="0">It seems it's your lucky day, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;You've sampled all the festivities, then? You should return to Meren, and collect your souvenir.&lt;BR&gt;&lt;BR&gt;Oh, and it's almost time for Seir's speech. Why in the name of Velik would they schedule the show for right after the speech?&lt;BR&gt;&lt;BR&gt;I'm guessing they didn't want everyone drifting away after the play, and not staying to hear what Seir has to say...</Page>
+    </Text>
+    <Text id="20" huntingZoneId="506" villagerId="5000">
+        <Page social="0">Wait! You forgot your lucky coin! Better get it before someone else grabs it.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="506" prevId="19" villagerId="2100">
+        <Page social="0" voiceTypeId="0">Have you been enjoying the festivities, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;You've visited all the events? Excellent! &lt;BR&gt;Here's the souvenir I promised you. I hope you like it.&lt;BR&gt;&lt;BR&gt;Seir should be delivering his speech any minute now. You should have a quick word with him before he goes on.&lt;BR&gt;And remember, there's a play scheduled for right after Seir's speech.</Page>
+    </Text>
+</QuestDialog>

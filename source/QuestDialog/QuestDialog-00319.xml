@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="5">Even today, the citizens of our federation are traded as slaves in the Rain Cages. We can't let the Kazuur Syndicate prey on our people!&lt;BR&gt;&lt;BR&gt;Gather your allies and strike at the {@LinkCreature:12#17#Red Lash marauders}. They're the syndicate's enforcers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1004">
+        <Page social="5">With the slaver threat ended and the pirates disrupted, the region can start contributing to the war effort.&lt;BR&gt;&lt;BR&gt;Our people feel safer than they have since the war started. I know the nagas and gulas are still out there, but you showed us they aren't unbeatable foes.&lt;BR&gt;&lt;BR&gt;We can win this thing! The federation's promise is as ironclad as ever!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1026">
+        <Page social="4">There's a lot of storage down here—too much for me to search while I'm sneaking around.&lt;BR&gt;&lt;BR&gt;But there's another way. If the Red Lash pirates have something unusual down here, the {@LinkCreature:11#1003#Red Lash veterans} will have it in the manifests they carry around with them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1026">
+        <Page social="4">Let me look through these...Yep, bombs all right. And lots of them!&lt;BR&gt;&lt;BR&gt;They're moving them from storage to the dock area. And there's a "magic stone" that's part of the same shipment.&lt;BR&gt;&lt;BR&gt;You better let Otus know something big is in the works.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1026">
+        <Page social="0">Get the manifests from the {@LinkCreature:11#1003#Red Lash veterans}, and we'll get to the bottom of this.</Page>
+    </Text>
+</QuestDialog>

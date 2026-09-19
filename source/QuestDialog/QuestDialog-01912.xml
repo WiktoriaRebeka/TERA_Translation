@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">Unbelievable!&lt;BR&gt;&lt;BR&gt;I'm so busy, I don't even have time to drink a flask of water. And here you are wandering around town with nothing to do!&lt;NEXTPAGEBUTTON&gt;"That's me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">{@LinkCreature:63#3002#Taratia} needs help, as usual. She's on my last nerve, I tell you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Thank the gods I don't trust that you're here. {@LinkCreature:63#3003#Elthienne}'s ready to kill me!&lt;BR&gt;&lt;BR&gt;I'm supposed to keep track of all the materials we need for our work, and that's not even counting our general merchant supply. Hunt down the supplies, and deliver things all over town. Her expectations are ridiculous!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206818} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="1098">
+        <Page social="0">You here to craft? Wait, you're the one who's bringing me {@RawItem:206818}, yes?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206819} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="1098">
+        <Page social="0">You here to craft? Wait, you're the one who's bringing me {@RawItem:206819}, yes?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206820} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="1098">
+        <Page social="0">You here to craft? Wait, you're the one who's bringing me {@RawItem:206820}, yes?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206821} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="1098">
+        <Page social="0">You here to craft? Wait, you're the one who's bringing me {@RawItem:206821}, yes?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206822} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="1098">
+        <Page social="0">You here to craft? Wait, you're the one who's bringing me {@RawItem:206822}, yes?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">Great work, as usual, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

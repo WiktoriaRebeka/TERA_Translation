@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1001">
+        <Page social="0">&lt;PCNAME&gt; informed Wiseguard Braga that Verikam is kidnapped and Oriyn's Arcana is now in the hands of Dakuryon.&lt;BR&gt;Upon Braga's request, Skald Omeros sings a poem to deliver the news, and all the baraka in Highwatch are shocked.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Here's what I need you to do, &lt;PCNAME&gt;: Go speak to Braga, the city Wiseguard, and tell him that Verikam is kidnapped and Oriyn's Arcana is stolen!&lt;BR&gt;&lt;BR&gt;I will contact Commander Seir at once and ask for reinforcements.&lt;NEXTPAGEBUTTON&gt;"Right away."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Oh, grievous day! Verikam has been abducted?&lt;BR&gt;&lt;BR&gt;I was a fool to leave the High Elder's side!&lt;BR&gt;&lt;BR&gt;If only I had been with him—!&lt;NEXTPAGEBUTTON&gt;"I was there; nothing could have saved him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I...am inclined to believe you, outlander. You seem a competent sort.&lt;BR&gt;&lt;BR&gt;And with Oriyn's Arcana also missing, we need the collective wisdom of all the baraka to decide on a course of action. I must ensure that the city's defenses are in place.&lt;BR&gt;&lt;BR&gt;While I do, please go to the agora, and seek out Skald Omeros. Tell him what has happened, and ask him to spread the word through the agora, and the city beyond. The news will soon reach everywhere.&lt;NEXTPAGEBUTTON&gt;"Got it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1015">
+        <Page social="4" voiceTypeId="0">I...see. This is truly a tragic day for all of Highwatch, and we must spare no effort to recover our High Elder, safe and sound.&lt;BR&gt;&lt;BR&gt;I will address the people, and ask them to spread the word.&lt;BR&gt;&lt;BR&gt;Please inform Wiseguard Braga that I will be directing all respondents to him.&lt;NEXTPAGEBUTTON&gt;"Much appreciated."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Thank you, &lt;PCNAME&gt;. I have been arranging to gather reports on the strength of our forces here.&lt;BR&gt;&lt;BR&gt;With two of the most important cultural icons missing, I worry that Highwatch is vulnerable.&lt;BR&gt;&lt;BR&gt;You should prepare, as well.&lt;NEXTPAGEBUTTON&gt;"I will prepare."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

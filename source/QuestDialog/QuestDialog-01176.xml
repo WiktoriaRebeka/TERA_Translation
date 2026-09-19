@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="4">You've hurt the argons, but we're not done. If the federation sends a battalion of troops, we need mobility to use them effectively.&lt;BR&gt;&lt;BR&gt;Hit the argons around the Northern Teleport Platform. If we get reinforcements, I don't intend to waste their lives at an unsecured site.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1034">
+        <Page social="6">Hey &lt;PCNAME&gt;—hold on a moment. If you're heading to the {@Creature:249#1102} I need a favor.&lt;BR&gt;&lt;BR&gt;There's an unusual argonomorph type called the zariik cyclops. They've got beautiful wings. Can't miss 'em.&lt;BR&gt;&lt;BR&gt;Bring me those wings. I'll put them to good use.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1034">
+        <Page social="6">The Mysterium pays well for argonomorph parts. They hope to reverse the process one day.&lt;BR&gt;&lt;BR&gt;A worthy goal...a worthy, well-paying goal.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" villagerId="1034">
+        <Page social="0">Look, you'd kill them securing the teleport platform anyway.&lt;BR&gt;&lt;BR&gt;This is just killing two gulas with one spear.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1024">
+        <Page social="6">Glad you're back. I'm tired of writing letters to families who'll never see their loved one again.&lt;BR&gt;&lt;BR&gt;All right. You did your job. Let's get on to the next one.</Page>
+    </Text>
+</QuestDialog>

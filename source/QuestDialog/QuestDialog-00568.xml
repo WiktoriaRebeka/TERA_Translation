@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="5">Apparently, our enemies include the Scions of Lok. You've fought them before, haven't you?&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:22#30#dark cardinals} have trained the {@LinkCreature:22#29#diminutive ovoliths} to serve them, and they've secured the catacombs.&lt;BR&gt;&lt;BR&gt;You have to stop them. Just kill them all.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1027">
+        <Page social="5">The cultists will never face so-called federation justice. When we've reclaimed the Eldritch Academy, we'll gather our strength and inflict such suffering upon them they'll wish Shakan had ripped THEM apart.&lt;BR&gt;&lt;BR&gt;Wow. I don't usually get that mad.</Page>
+    </Text>
+</QuestDialog>

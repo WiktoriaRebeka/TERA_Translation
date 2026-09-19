@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="436" prevId="0" villagerId="8002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="436" prevId="0" villagerId="8002">
+        <Page social="4">You will pay for this.&lt;NEXTPAGEBUTTON&gt;Ask what is to be done next.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="436" prevId="2" villagerId="8002">
+        <Page social="4">We've got it from here, &lt;PCNAME&gt;...but we still need to capture that treasure hunter. Find him, and bring him to Adria!&lt;NEXTPAGEBUTTON&gt;"You can count on me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="437" prevId="3" villagerId="8001">
+        <Page social="4">Why are you chasing me? I haven't done anything wrong! You have no evidence!&lt;NEXTPAGEBUTTON&gt;"You had sap from the World Tree. And that's a crime."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Are you sure that was sap? Or is that just what I told that fool Jorivah?&lt;BR&gt;&lt;BR&gt;His gullibility—and greed—doesn't prove that I did anything wrong.&lt;BR&gt;&lt;BR&gt;Now, since you have no evidence against me, I'll be going.&lt;NEXTPAGEBUTTON&gt;"Maybe not...but that wounded ear puts you at the scene."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oh...that.&lt;BR&gt;&lt;BR&gt;Well, now, I guess I don't have any other choice left...but to kill you.&lt;NEXTPAGEBUTTON&gt;"I was hoping you'd try that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="437" prevId="4" villagerId="8008">
+        <Page social="4">Enough! Enough! I yield!&lt;NEXTPAGEBUTTON&gt;"Hm. Perhaps I should render you unconscious."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">That's not necessary!&lt;BR&gt;&lt;BR&gt;I'm your prisoner. Let's get this over with.&lt;NEXTPAGEBUTTON&gt;"Then follow me...and keep your mouth shut."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="437" prevId="5" villagerId="8003">
+        <Page social="4">We got here as soon as we could.&lt;BR&gt;&lt;BR&gt;Leander said you'd gone after the treasure hunter, but we didn't know the Iron Order was waiting for him.&lt;BR&gt;&lt;BR&gt;Let's head back to the Tainted Gorge Outpost and I'll fill you in on what we learned.&lt;NEXTPAGEBUTTON&gt;"Sounds good."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="13" prevId="6" villagerId="8020">
+        <Page social="4">Zik was a confidence artist. That "sap" he was peddling was fake.&lt;BR&gt;&lt;BR&gt;He promised to get the sap and sell it to the highest bidder, but when he failed to get it, he tricked Aknam into destroying the World Tree, to hide the fact that he never actually got any sap out of it.&lt;BR&gt;&lt;BR&gt;Then he stalled all three magisters while he put together something that looked like it could be the real thing, then deliver it to each of them and get away with the money before they realized they'd been had.&lt;BR&gt;&lt;BR&gt;But when you started asking questions, they got suspicious of him, and it forced him to play his hand before he was ready.&lt;NEXTPAGEBUTTON&gt;"One of the magisters was bound to kill him over it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Once they knew Zik was dead and the game was up, the three magisters were all too eager to confess their part in things...although they all blame the treasure hunter for their own greed.&lt;BR&gt;&lt;BR&gt;I'll be delivering a report to Seir, and recommending that the alliances be held accountable for their parts in destroying the World Tree. And Aknam is, of course, guilty of murdering Zik to cover it all up.&lt;NEXTPAGEBUTTON&gt;"Let me know if you need me to testify."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Thank you for all your help, &lt;PCNAME&gt;. We couldn't have resolved all this without you.&lt;BR&gt;&lt;BR&gt;And Jovin thinks there might be a way to restore the Island of Dawn, even without the World Tree.&lt;BR&gt;&lt;BR&gt;I hope he's right. This old island still has a lot to offer.</Page>
+    </Text>
+</QuestDialog>

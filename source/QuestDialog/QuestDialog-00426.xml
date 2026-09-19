@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">Drained? His blood was drained?&lt;BR&gt;&lt;BR&gt;Okay, I've got soldiers heading out that way. Rendezvous with them in the Twisted Plains. Report to {@LinkCreature:216#1012#Ludin}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1012">
+        <Page social="5">Paka sent you? Yeah, okay. Good. See that wall of folks over there? They're killing anyone who gets nearby and we can't get through to the village.&lt;BR&gt;&lt;BR&gt;See what you can do to help.</Page>
+    </Text>
+</QuestDialog>

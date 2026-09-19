@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1534">
+        <Page social="0">Make your way to the airship dock and report in.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1534">
+        <Page social="4">I know you have to get to the airship dock. Would you mind dropping off one small box for me?&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tamari ordered a jeweled box. I've kept it safe, but with the luck I've had today, I'd rather get it out of my hands.&lt;BR&gt;&lt;BR&gt;Deliver it to her, if you please.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1533">
+        <Page social="0">Tonas came through? I wondered if he'd swindled me.&lt;BR&gt;&lt;BR&gt;Very well. I know who you are. You're cleared to ascend to the dock.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1502">
+        <Page social="4">Oh, I'm so clumsy!&lt;BR&gt;&lt;BR&gt;Well, hello!&lt;BR&gt;My nose is never wrong. You smell like a nice person, so I like you. Do &lt;em&gt;you&lt;/em&gt; like me?&lt;BR&gt;&lt;BR&gt;Hey, can I ask you a favor? This wind tore some really important secret papers from my bag. I have to get them back!&lt;BR&gt;&lt;BR&gt;Will you help me?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1502">
+        <Page social="4">My hero! It would have been a disaster if those pages had been found by the enemy...or her.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, are you boarding the sky cruiser, too?&lt;NEXTPAGEBUTTON&gt;"Indeed."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">That's great! You're great. We'll adventure together!&lt;BR&gt;&lt;BR&gt;You should report to Rafe! See you in the sky!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1502">
+        <Page social="0">Where are the rest of the pages?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="5" villagerId="1503">
+        <Page social="4">You're the last soldier on the list. Good!&lt;BR&gt;&lt;BR&gt;Please deliver the manifest to Maribel. Oh, and thanks to you the supplies will be loaded soon.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1566">
+        <Page social="4">Excellent work. Good luck on your mission.</Page>
+    </Text>
+</QuestDialog>

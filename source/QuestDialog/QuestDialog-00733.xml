@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1025">
+        <Page social="4">I search the continents for rare treasures, scouring ruins and shipwrecks for what time forgot.&lt;BR&gt;&lt;BR&gt;By your shabby clothes, I can tell you haven't done much treasure hunting. You're in luck! I can teach you how!&lt;NEXTPAGEBUTTON&gt;"Let's hear it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">The gula shipwrecks were once merchant ships—but even merchants have their secrets. Go onto the ship and search for anything out of place.&lt;BR&gt;&lt;BR&gt;Just find the ship, then find the treasure! Never would have thought of that, huh?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1032">
+        <Page social="4">(This chest looks different than the others.)&lt;NEXTPAGEBUTTON&gt;"Treasure!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(It's locked. Maybe one of the {@LinkCreature:31#14#drowned gula bosuns} has the key.)&lt;NEXTPAGEBUTTON&gt;"Let's go, treasure chest."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1025">
+        <Page social="4">See! I told you. For that I should get at least...two thirds of the treasure, I think. Yes, that seems fair!&lt;BR&gt;&lt;BR&gt;Let's open it up!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" villagerId="1025">
+        <Page social="0">Seek and you shall find. Done talking!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" prevId="4" villagerId="1025">
+        <Page social="4">Huh. It's...a map.&lt;BR&gt;&lt;BR&gt; I mean, look! A treasure map, no doubt! Yes, I'm sure it's a treasure map.&lt;NEXTPAGEBUTTON&gt;"Where does it lead?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">That...is not work for a genius explorer like myself. That's codebreaker work.&lt;BR&gt;&lt;BR&gt;See? It just looks like gibberish until you get it deciphered.&lt;BR&gt;&lt;BR&gt;Take it to Yasper at the Beacon Point Garrison. He's great at this sort of thing, being a junior explorer to myself.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="231" prevId="6" villagerId="1027">
+        <Page social="4">A coded map? Let me see.&lt;BR&gt;&lt;BR&gt;Where did you get this? It's not a treasure map. It's a piece of art.&lt;NEXTPAGEBUTTON&gt;"It's what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">I mean it's old, and it looks like a map, but this "code" is gula writing. It's meant to be decorative.&lt;BR&gt;&lt;BR&gt;It may be worth a little since it's so old, but only to the right collector. I'll buy it from you, if you're selling. What do you say?</Page>
+    </Text>
+</QuestDialog>

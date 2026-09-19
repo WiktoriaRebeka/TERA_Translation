@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="4">Balrug's going to have to handle the apprentices himself for a few days. I can't go back, not yet. I'm short of funds and need to bring a big shipment back to town.&lt;NEXTPAGEBUTTON&gt;"Perhaps I could help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">I wasn't asking for charity! I'm just—blast!&lt;BR&gt;&lt;BR&gt;Look, my daughter's ill—very ill. The healers say she'll live if she can get a special medicine from the Mysterium, but it's bloody expensive. If I can bring enough fine hides in, I can just afford it. If you're serious about helping, get after the sabertooths. I need perfect, pristine hides.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1032">
+        <Page social="4">I'm not used to saying thanks. I try to make my own way in the world, but these hides will fetch a fine price and I can get my daughter's medicine.&lt;BR&gt;&lt;BR&gt;I'm in your debt, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1032">
+        <Page social="0">My daughter's medicine's expensive. Please—kill those sabertooths and bring me their hides.</Page>
+    </Text>
+</QuestDialog>

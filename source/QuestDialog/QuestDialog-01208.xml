@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1033">
+        <Page social="4">I've watched you help {@LinkCreature:76#1036} in the pursuit of his hushang. It means much to see a soldier take the time to nuture.&lt;BR&gt;&lt;BR&gt;He needs a little more help, and I know where to find it. Take this letter to {@LinkCreature:248#1015}. He'll help with the rest.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1015">
+        <Page social="6">Interesting. A hushang, way out here. And you're willing to lend a hand?&lt;NEXTPAGEBUTTON&gt;"Absolutely."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">The lad will need some fine metal. We've no shortage around here, though collecting it won't be safe.&lt;BR&gt;&lt;BR&gt;Bring me some fyrdras ore to inspect. If it passes muster, it'll do for his hushang.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1033">
+        <Page social="4">Fyrdras ore? A worthy metal indeed. Our young friend is crafting a legend, not some display piece.&lt;BR&gt;&lt;BR&gt;Take this to {@LinkCreature:76#1036}. You deserve to see the expression on his face.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="76" villagerId="1033">
+        <Page social="0">Did you meet with success?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1036">
+        <Page social="4">F-f-fyrdras ore? Praise Kaia! That's amazing!&lt;BR&gt;&lt;BR&gt;Thanks to you, I won't just complete my hushang, I'll conquer it!</Page>
+    </Text>
+</QuestDialog>

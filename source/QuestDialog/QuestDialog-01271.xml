@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1045">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1045">
+        <Page social="4">The necromancers are uncovering piles of bones, and I'm afraid they're trying to mobilize skeleton soldiers.&lt;BR&gt;&lt;BR&gt;Not exactly a fun job, but collect those skeleton piles, or we'll be fighting the same enemies over and over again.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1045">
+        <Page social="4">We dodged an arrow, didn't we? I don't even want to imagine what might have happened if all these bones turned into soldiers.&lt;BR&gt;&lt;BR&gt;Good job, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1045">
+        <Page social="0">Collect those skeleton bones before the necromancers turn them into soldiers!</Page>
+    </Text>
+</QuestDialog>

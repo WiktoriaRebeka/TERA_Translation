@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1002">
+        <Page social="0">You gave Arin's draught to Rida, but her sister's attempt at manipulation angered her. Rida told you that a demon had taken over her army. You killed the demon, Rida agreed to return to Pora Elinu, and peace was restored...for now.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Now that we've got our draught, we just need my sister to drink it.&lt;BR&gt;&lt;BR&gt;You could just knock her out and pour it down her throat, but that might not be politic.&lt;BR&gt;&lt;BR&gt;Find Rupeush at the Emergency Camp east of Pora Elinu. He's very diplomatic. He can arrange the meeting with Rida.&lt;BR&gt;&lt;BR&gt;That might be a better approach.&lt;NEXTPAGEBUTTON&gt;"As you wish."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Whatever you do, don't tell Rupeush about the draught. He's strict and moral and tall and all that. He'd never agree to it.&lt;BR&gt;&lt;BR&gt;Just be...circumspect.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1050">
+        <Page social="4" voiceTypeId="0">You want to meet Princess Rida? May I ask why?&lt;BR&gt;&lt;BR&gt;I see. Well, it would be best if this preposterous fight were done with.&lt;BR&gt;&lt;BR&gt;If you're sincere about this, I could arrange a meeting with someone close to her. Agreed?&lt;NEXTPAGEBUTTON&gt;"Yes, please!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Very well. Rida's ladies-in-waiting live in Blessed Woods. One of them will be waiting for you. Tell her your tale and tell it well!&lt;BR&gt;&lt;BR&gt;If she approves, you will have your meeting with Rida.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Whatever you've heard from Arin, you don't know the whole truth.&lt;BR&gt;&lt;BR&gt;&lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7002#-34006.2383,57783.6563,782.0027&amp;type=1&amp;name=Princess Rida"&gt;Princess Rida&lt;/A&gt;&lt;/FONT&gt; never wanted this fight. It's not her idea!&lt;NEXTPAGEBUTTON&gt;"What do you mean?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">There are other forces at work. My princess is trying to contain this situation, not make it worse!&lt;BR&gt;&lt;BR&gt;If you're really here for peace, then you may proceed. Speak with &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7002#-34006.2383,57783.6563,782.0027&amp;type=1&amp;name=Princess Rida"&gt;Princess Rida&lt;/A&gt;&lt;/FONT&gt;, but keep an open mind. That's all I ask.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="4" villagerId="1043">
+        <Page social="4" voiceTypeId="0">You needn't have bothered with the potion.&lt;BR&gt;&lt;BR&gt;Arin's a fool if she thought it would work, and you bringing it doesn't endear you to me, either. Why are you here? What do you really want?&lt;NEXTPAGEBUTTON&gt;"To help you reconcile."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Really? So you brought a drug to convince me? The same one Arin used to delude the voting officials, no doubt.&lt;BR&gt;&lt;BR&gt;If this is how the federation helps, I'll have none of it. Besides, this whole affair is her fault, not mine.&lt;NEXTPAGEBUTTON&gt;"Yet you're the one with the army."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It wasn't supposed to happen this way. I just wanted to rally my people and frighten hers.&lt;BR&gt;&lt;BR&gt;A demon, Rhokasi the Mad}, used magic on my troops and whipped them into a frenzy. Now they're out for blood.&lt;BR&gt;&lt;BR&gt;I've held them back so far, but I'm not sure how much longer...&lt;NEXTPAGEBUTTON&gt;"You have to end this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Of course we must! But to do that we have to remove the spell from my troops. Find {@LinkCreature:23#101$$Rhokasi the Mad} and cut his heart out! If you eliminate that monster, I'll write a letter to Arin.&lt;BR&gt;&lt;BR&gt;Off you go now!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="223" prevId="5" villagerId="1043">
+        <Page social="4" voiceTypeId="0">That filthy demon is dead? Good. But that doesn't mean I'll simply bow to Arin.&lt;BR&gt;&lt;BR&gt;Take this letter to her. If she swears off her dirty tricks and helps me undo the spell on my troops, I'll reconcile with her and we can reunite the kingdom. Fair enough?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="223" villagerId="1043">
+        <Page social="0">Did you get kill that demon, {@LinkCreature:23#101$$Rhokasi}?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="223" prevId="6" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Did you give her the potion? Is this over?&lt;BR&gt;&lt;BR&gt;What? She saw right through me?&lt;BR&gt;&lt;BR&gt;She's right, though. We must help her troops. I think I can make a potion that will free them.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="223" villagerId="1002">
+        <Page social="0">Well? Did the potion work? Did she swoon? Have I won?&lt;BR&gt;&lt;BR&gt;You haven't given it to her yet, have you?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="223" prevId="8" villagerId="1044">
+        <Page social="4" voiceTypeId="0">Surprised to see me? I can move with the wind.&lt;BR&gt;&lt;BR&gt;The cure is underway, but sadly, Arin and I haven't fully reconciled yet.&lt;BR&gt;&lt;BR&gt;I still support the noble squirrel, and I will rally supporters again. This time, however, I will not give demons the opportunity to interfere!&lt;BR&gt;&lt;BR&gt;Also, I want you to throw your support in with the squirrel faction!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="223" prevId="10" villagerId="1002">
+        <Page social="4" voiceTypeId="0">I'm content to hear Rida never intended to attack Pora Elinu.&lt;BR&gt;&lt;BR&gt;Don't worry too much about the squirrel ears. I'll just brew up a better potion next time!&lt;NEXTPAGEBUTTON&gt;"I suggest a different approach."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Why? Potions have always gotten me my way.&lt;BR&gt;&lt;BR&gt;Well, except this time.&lt;BR&gt;&lt;BR&gt;Anyway, I told Lienyn about how much you helped me, &lt;PCNAME&gt;, and she asked to speak with you before you leave.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="68" prevId="11" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Princess Arin said you did her a great service, &lt;PCNAME&gt;. Princess Rida also had kind things to say.&lt;BR&gt;&lt;BR&gt;The Popori Kingdom is grateful to the federation for sending you to help avert a national crisis. Thanks to you, the Valkyon Federation now enjoys a much better reputation in Pora Elinu.</Page>
+    </Text>
+</QuestDialog>

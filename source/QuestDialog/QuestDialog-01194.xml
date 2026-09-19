@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Shandra Manaya took Sikander's flame and retreated to her lair. You killed her there, ending the Argon War, but she uttered the name "Manahan" before dying.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Kaia came to {@Rgn:76001$$Kanstria} for news of Shandra Manaya. Meet her and ask about Sikander's flame.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1040">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;! What happened?&lt;BR&gt;&lt;BR&gt;You saw Shandra Manaya?&lt;NEXTPAGEBUTTON&gt;"Yes, and she's got Sikander's flame."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That must be why the argons took Kelsaik's corpse. I had no idea part of Sikander remained within Kelsaik—and I have no idea what she's planning to do with it.&lt;BR&gt;&lt;BR&gt;Manahan, you created something so heartless. No wonder Arun and Shara locked you up.&lt;NEXTPAGEBUTTON&gt;"Wait...who's Manahan?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Manahan is an ancient name, &lt;PCNAME&gt;...a name best forgotten.&lt;BR&gt;&lt;BR&gt;Focus on the task at hand. Sikander's flame is the embodiment of creation itself. Think of the Core...then multiply it by a thousand.&lt;BR&gt;&lt;BR&gt;In Shandra Manaya's hands, Sikander's flame could destroy as well as create. Track Shandra Manaya down and retrieve Sikander's flame at all costs!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1033">
+        <Page social="1" voiceTypeId="0">I felt Shandra Manaya's death—a wave of pain that rippled across the world. The Argon War is over, and we won!&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;The whole world owes you its very existence. You did what no one else, god or mortal, could do. Hail &lt;PCNAME&gt;, destroyer of argons, vanquisher of gods, champion of the Valkyon Federation!&lt;BR&gt;&lt;BR&gt;In the coming months, we'll try to figure out why Shandra Manaya wanted Sikander's flame. I have my suspicions, but the important thing is that Shandra Manaya's plan died when she did.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1003">
+        <Page social="5">You know why they call it the "Desolate Coast?" Because nothing can live there anymore.&lt;BR&gt;&lt;BR&gt;If it's fauna, the {@LinkCreature:12#9#Red Lash butchers} kill it for food. And if it's flora, the insatiable {@LinkCreature:12#11#island kamaras} eat it.&lt;BR&gt;&lt;BR&gt;Clear that beach, &lt;PCCLASS:lcase&gt;! Maybe it can return to some semblance of the pleasant seaside it used to be.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1003">
+        <Page social="5">You cleared the beach by yourself? I wouldn't have thought it possible.&lt;BR&gt;&lt;BR&gt;They'll be back, but somewhere on that beach, a seed is growing that wouldn't have made it except for you, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

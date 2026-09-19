@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3004">
+        <Page social="4">{@LinkCreature:246#3001#Hurun} sent a message requesting help at the Three Towers.&lt;BR&gt;&lt;BR&gt;Given your assistance to date, we thought you'd be the perfect choice to assist him.&lt;BR&gt;&lt;BR&gt;I'm quite jealous, actually. I always wanted to study the Three Towers up close.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="4">Thank goodness! The argons keep killing our researchers, so I'm glad they sent a soldier.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:46#201#argonomorph kulkari crushers} or {@LinkCreature:46#202#shamans}, or even the {@LinkCreature:46#203#argonomorph Lokian slayers} are the big threats. Take them out to relieve the pressure on us.&lt;BR&gt;&lt;BR&gt;Of course, no one would cry if you destroyed {@LinkCreature:246#3010#cyasma conduits} instead.&lt;BR&gt;&lt;BR&gt;Anything would help.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="2" villagerId="3001">
+        <Page social="4">It's good to sting the argon war machine once in awhile.&lt;BR&gt;&lt;BR&gt;I'm grateful for your intercession, &lt;PCNAME&gt;. Thank you.</Page>
+    </Text>
+</QuestDialog>

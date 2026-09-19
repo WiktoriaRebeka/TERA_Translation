@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">This ancient recipe has been used for generations as a reliable means of filling an Elemental Orb with icy power.&lt;BR&gt;The following materials must be blended in perfect harmony:&lt;BR&gt;&lt;BR&gt;- 100 Elemental Shards&lt;BR&gt;- 1 Elemental Orb&lt;BR&gt;- 5 Hoar Frost Shards&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;The fusion recipe disappears as soon as you accept this quest.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1007">
+        <Page social="4">You are short of materials.&lt;BR&gt;&lt;BR&gt;&lt;font color='#02a4dc'&gt;- 100 Elemental Shards&lt;BR&gt;- 1 Elemental Orb&lt;BR&gt;- 5 Hoar Frost Shards&lt;/font&gt;&lt;BR&gt;&lt;BR&gt;Collect these items to receive a Hoar Frost Orb.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="2" villagerId="1007">
+        <Page social="4">You will receive a reward once you have collected the items.</Page>
+    </Text>
+</QuestDialog>

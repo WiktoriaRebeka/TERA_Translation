@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="4">I know you came back here to help find Elleon, but I'll be blunt: we had a lot of shell-shocked survivors come back here...survivors that should have stayed in their hospital beds.&lt;BR&gt;&lt;BR&gt;Don't get me wrong. I want you to find Elleon, but I don't want to someday be trying to find you. We need to make sure you're fully recovered and ready for combat.&lt;BR&gt;&lt;BR&gt;Speak with &lt;font color='#660000'&gt;Centurion Barsabba&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;If that old warhorse says you're ready for duty, that's good enough for me.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1106">
+        <Page social="4">We all want revenge on the demons, but this time we're going to be prepared. No more surprise storms or disastrous beach landings.&lt;BR&gt;&lt;BR&gt;You look as healthy as any other &lt;PCCLASS:lcase&gt;. But looks can be deceiving.</Page>
+    </Text>
+</QuestDialog>

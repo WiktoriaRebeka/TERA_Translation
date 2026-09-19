@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1017">
+        <Page social="0">Most of the older orcans don't believe there can be peace for us. They want to go on making war on the federation forever. &lt;NEXTPAGEBUTTON&gt;"Yet you feel differently. Why?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Karba and other wise orcans have helped us see a new way. Karba says it's no wonder the federation thinks of us as animals, when we act like animals. He says the only way forward is peace, and many of us believe him. We've been exiled for our beliefs. Many others have been killed.&lt;BR&gt;&lt;BR&gt;This statue is a symbol of peace. Show it to the orcans near the arena. If they believe what we do, they'll understand.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1018">
+        <Page social="0">Orcans made this. You know the meaning, of course, and so do we. I think we must trust you, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

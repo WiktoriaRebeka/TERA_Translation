@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">Ghabar's map indicates the pylons are coming out of Raseri Festning—that's the giants' stronghold in this area. Giant and argon technology would be a dangerous combination. Too dangerous to leave be.&lt;BR&gt;&lt;BR&gt;Your orders are to infiltrate Raseri Festning and destroy all the pylons!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">The Vale of Spires is much safer thanks to your hard work. The federation—we—owe you a great debt!&lt;BR&gt;&lt;BR&gt;Report back to Habere and let them know what we've managed here. They need to know it's time to mobilize our forces.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" prevId="3" villagerId="1007">
+        <Page social="4">If Thulsa doesn't have a hold over the vale, that means we can start bringing our troops in. He's running out of enemies to hide behind!&lt;BR&gt;&lt;BR&gt;Thulsa's reign of terror is coming to an end, in large part thanks to you!</Page>
+    </Text>
+</QuestDialog>

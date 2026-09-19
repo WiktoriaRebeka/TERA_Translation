@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">Hello. My name is Mystel,&lt;BR&gt;&lt;BR&gt;and the goddess of fate.&lt;BR&gt;&lt;BR&gt;This world is in danger.&lt;BR&gt;&lt;BR&gt;Please help Lok protect it!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">The mysterious woman has run away.&lt;BR&gt;&lt;BR&gt;Find and stop her from doing whatever it is she's trying to do.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="200">
+        <Page social="4">I don't know where she went.&lt;BR&gt;&lt;BR&gt;I'll let you know if something comes up again.&lt;BR&gt;&lt;BR&gt;You can help me again then.</Page>
+    </Text>
+</QuestDialog>

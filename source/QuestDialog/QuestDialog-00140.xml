@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="5">When you were over dealing with the Gutrend escorts, did you happen to run into a guard named {@LinkCreature:206#1020#Dakona}? She's guarding the temporary outpost north of Echo Ranch. The only one there, actually.&lt;BR&gt;&lt;BR&gt;Truth be told, I'm worried about her. It's hard to be the only guard in an area.&lt;BR&gt;&lt;BR&gt;Could you maybe check on her?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1020">
+        <Page social="13">Lethar sent you to check on me? Really? Stupid fool.&lt;BR&gt;&lt;BR&gt;He seems to think that the way to show affection for someone is to show a total lack of faith in their abilities. Honestly.</Page>
+    </Text>
+</QuestDialog>

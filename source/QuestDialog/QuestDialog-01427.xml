@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">A popo hat? Keep your voice down!&lt;BR&gt;&lt;BR&gt;Listen: I got word that certain popori really weren't pleased by me making popori hats, so I had to stop.&lt;NEXTPAGEBUTTON&gt;"Well, what do I do with this moppet?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Well, seeing as how you already had the popori moppet, I suppose I could make just one more.&lt;BR&gt;&lt;BR&gt;Now, what were you thinking for the fur color?&lt;NEXTPAGEBUTTON&gt;"Let's see..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">The Hands of Velika tell me that the popori don't find these hats all that amusing. But, if you already have the moppet—and you really, really want one—I suppose it's better I make it for you.</Page>
+    </Text>
+</QuestDialog>

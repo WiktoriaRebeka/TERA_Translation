@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="1">The mandrills are wreaking havoc on our camp, tearing down scaffolding, moving objects around, and otherwise making it impossible to perform proper archaeology here in {@Rgn:30001$$Balder's Refuge}.&lt;BR&gt;&lt;BR&gt;Wipe out the {@LinkCreature:30#510#direpaw} and {@LinkCreature:30#520#dreadpaw mandrills}.&lt;BR&gt;&lt;BR&gt;See Leiria for some post-slaughter compensation.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1090">
+        <Page social="1">Yep. That's a lot of dead mandrills.&lt;BR&gt;&lt;BR&gt;Now wash that blood off.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1090">
+        <Page social="0">Kill those mandrills before they tear our camp apart!</Page>
+    </Text>
+</QuestDialog>

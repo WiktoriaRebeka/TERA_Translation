@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="4" voiceTypeId="0">The argons are involved in Thulsa's plans at the most intimate level.&lt;BR&gt;&lt;BR&gt;When you kill them, &lt;PCNAME&gt;, pry out their cores. We can put those things to good use.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1033">
+        <Page social="4" voiceTypeId="0">Superb work. Thulsa's the current threat, but we can't let our eyes off the argons.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I thank you for your sacrifice. I will send these cores to the Mysterium for further research.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1033">
+        <Page social="0">Defeat the argons and bring me their cores.</Page>
+    </Text>
+</QuestDialog>

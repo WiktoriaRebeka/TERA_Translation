@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1147">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1147">
+        <Page social="4">So it's &lt;PCNAME&gt;. I've heard that you're doing extraordinarily well over here. As you can see, there are lots of violent Terrons running around this place. They are usually not that threatening, but more annoying I would say. However, they suddenly became violent and are a serious threat to the researchers. Look at Kamarnu. He took refuge here after he got injured.&lt;BR&gt;&lt;BR&gt;We cannot let these Terrons run like this anymore. Kill the {@LinkCreature:13#302#Terron Ringleaders} in the vicinity and bring back the petals from their heads as proof of their deaths.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1147">
+        <Page social="4">That should suffice. There will be more, of course. Giggling, jumping, spinning...this sword was meant for more meaningful pursuits than gardening!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1147">
+        <Page social="0">Even now Kamarnu neglects duty in favor of vengeance—all too common a flaw around here.&lt;BR&gt;&lt;BR&gt;Unlike Leander, though, the baraka has the object of his vengeance frolicking in front of him. Cut down a few dozen, and his mood should improve.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">So, you've reached level 65 but want to get more out of your skills? Then you've come to the right place. I can introduce you to the benefits of the talent system.&lt;BR&gt;&lt;BR&gt;Talents allow you to improve your skills the way you want them. In order to develop your talents, you need to collect EP points by earning EP XP. This can be done by completing quests with the "EP XP" symbol. The experience bar you fill applies to all of your characters on this server.&lt;BR&gt;&lt;BR&gt;Open the TERA Shop by clicking the TERA Shop symbol in the main menu. Open the category Featured Items under All Items, where you can collect the "Talent Token Bundle" for free. It contains a Talent Token to complete my quest, plus a Talent Experience Booster which doubles the EP XP you earn for an hour!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="0" villagerId="2011">
+        <Page social="4">Give me the Talent Token and I'll reward you with valuable items!&lt;BR&gt;&lt;BR&gt;The potion I give you resets all your EP points for a character. Use it if you want to take your fighting style in a new direction.&lt;BR&gt;&lt;BR&gt;After completion, you'll also find a personal package for you in the TERA Shop containing a 100% EP XP booster for 7 days. The package also includes 5x Kaia's Will which can reset your daily EP XP limit, allowing you to progress even faster!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="2" villagerId="2011">
+        <Page social="4">Bring me what I asked for and I'll reward you with valuable items!&lt;BR&gt;&lt;BR&gt;Open the TERA Shop by clicking the TERA Shop symbol in the main menu. Open the category Featured Items under All Items, where you can collect the required "Talent Token Bundle" for free.&lt;BR&gt;&lt;BR&gt;Don't forget to collect the token from your Item Claim before talking to me again! You'll find the Item Claim behind the same TERA Shop symbol in the menu.</Page>
+    </Text>
+</QuestDialog>

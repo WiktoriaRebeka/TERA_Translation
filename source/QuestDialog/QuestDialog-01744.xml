@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="29" prevId="0" villagerId="1042">
+        <Page social="0">Jelena worried that the Red Raiders' stockpile of amber powder was a greater threat than expected, and asked you to help her put a stop to it.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="29" prevId="0" villagerId="1042">
+        <Page social="4" voiceTypeId="0">The Red Raiders may not be the cause of this mess, but their plan isn't helping things much.&lt;BR&gt;&lt;BR&gt;If the amber powder is causing the crystallization, gathering it all up and storing it near infected people will kill them all!&lt;BR&gt;&lt;BR&gt;We need a better plan.&lt;NEXTPAGEBUTTON&gt;"Do you have anything in mind?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We have to get rid of the powder itself, or at least neutralize it!&lt;BR&gt;&lt;BR&gt;The Raiders are just storing it in crates and sacks. We have to get rid of it before there's an accident they can't walk away from.&lt;BR&gt;&lt;BR&gt;Let's go.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="29" prevId="2" villagerId="1023">
+        <Page social="4" voiceTypeId="0">These boxes are empty. These nearby Raiders must still have the powder on them..</Page>
+    </Text>
+    <Text id="4" huntingZoneId="29" prevId="3" villagerId="1042">
+        <Page social="4" voiceTypeId="0">Well done.&lt;BR&gt;&lt;BR&gt;So?&lt;BR&gt;Did you run into any trouble?&lt;NEXTPAGEBUTTON&gt;"Sort of."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I'll shed no tears over traitors to the federation.&lt;BR&gt;&lt;BR&gt;Now we have to find a way to destroy it. Care to have a go?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="29" prevId="4" villagerId="1042">
+        <Page social="4" voiceTypeId="0">Hey!&lt;BR&gt;&lt;BR&gt;Are you alright?&lt;BR&gt;&lt;BR&gt;This material is too dangerous to leave in the hands of traitors. I'll take our remaining samples to the Mysterium.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0">You met with a few...interesting members of the Tower Base garrison, and learned some even more interesting things to do with bombs.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">So, &lt;PCNAME&gt; is it?&lt;BR&gt;&lt;BR&gt;I'm hearing good things, but I can't clear you for additional duties until you qualify on the range.&lt;NEXTPAGEBUTTON&gt;"What do I have to do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">To become a full member of our garrison, you must be able to handle basic gear.&lt;BR&gt;&lt;BR&gt;When the federation started sending recruits here for seasoning, we set up a training area to teach proper use and handling of explosives.&lt;BR&gt;&lt;BR&gt;Just follow your ears, you can't miss it. {@linkcreature:64#1029#Kiriya} is...special, but has a lot of experience in these matters.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1029">
+        <Page social="4">WHAT? I CAN'T HEAR YOU!&lt;BR&gt;&lt;BR&gt;I'VE WORKED WITH EXPLOSIVES ALL MY LIFE, AND IT'S TIME I PASSED ON THAT WISDOM!&lt;BR&gt;&lt;BR&gt;READY TO MAKE THINGS GO BOOM?&lt;NEXTPAGEBUTTON&gt;"Let's do it!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">THIS ISN'T EXACTLY TELEPORT RESEARCH! JUST HURL THE BOMB AT THAT {@LinkCreature:13#888#TRAINING DUMMY} OVER THERE!&lt;BR&gt;&lt;BR&gt;THAT'S THE THING ABOUT A BOMB—WHEN IT WORKS, YOU'LL KNOW ABOUT IT!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1029">
+        <Page social="4">KNOWING HOW TO MAKE THINGS GO BOOM IS IMPORTANT, ESPECIALLY WHEN YOU'RE FACING HORDES OF ENEMIES!&lt;BR&gt;&lt;BR&gt;NOW GET OUT OF HERE AND KILL SOME STUFF FOR FREEDOM!</Page>
+    </Text>
+</QuestDialog>

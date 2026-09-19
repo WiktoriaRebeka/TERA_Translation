@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="63" huntingZoneId="100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1606">
+        <Page social="0">Here, take this design and try to make a Blazing Powder I.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="1606">
+        <Page social="0">There is nothing more I can teach you. You now know everything I know about how to create etchings. From now on, improving your skill is up to you. If you upgrade your crafting skill, you can expand your production points.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="84" villagerId="1606">
+        <Page social="0">Are you unclear on the process, &lt;PCNAME&gt;? Or are you just taking a break?</Page>
+    </Text>
+</QuestDialog>

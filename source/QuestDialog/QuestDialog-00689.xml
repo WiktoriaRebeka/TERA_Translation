@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1016">
+        <Page social="1">Behold! The dampening shroud!&lt;BR&gt;&lt;BR&gt;The risk of electrocution goes up significantly when the victim is wet. That's where the shroud comes in. It makes you dry...and safe!&lt;BR&gt;&lt;BR&gt;Its superfine fibers are woven from sloths' downy hair. An amazingly high thread count, thanks to my arcane weaving.&lt;BR&gt;&lt;BR&gt;I must showcase it to my customers, right?&lt;BR&gt;&lt;BR&gt;Can you take the shroud to the {@LinkCreature:230#1017#novice itinerant miner}? Show him its splendor and collect his praise—for me.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1017">
+        <Page social="1">What? {@LinkCreature:230#1016$$Leshoff} said I would want this?&lt;BR&gt;&lt;BR&gt;Look, I may, from time to time, deal with, um, "freelance mercantile connections" to Allemantheia, but Leshoff is crazy!&lt;BR&gt;&lt;BR&gt;You get that, right? He's out in the middle of nowhere making towels—oh, sorry, "shrouds"—out of sloth fur. You can't tell me that's sane.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1017">
+        <Page social="0">That's quite a story. They warned me about Leshoff. I'm not sure "crazy" is strong enough of a description, though.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="1016">
+        <Page social="1">You told them about the dampening shround, and they dared question my sanity?&lt;BR&gt;&lt;BR&gt;We are kindred spirits, you and I. Destined for greatness, but misunderstood by the unwashed masses.&lt;BR&gt;&lt;BR&gt;Speaking of unwashed, I should take a bath soon and field-test this shroud! For science!</Page>
+    </Text>
+</QuestDialog>

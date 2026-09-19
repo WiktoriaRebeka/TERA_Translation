@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1017">
+        <Page social="4">My mission is developing weapons that give us an edge over the argons. Certainly we don't have the advantage of numbers.&lt;NEXTPAGEBUTTON&gt;"Got any prototypes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Well, I have these argon flux modulators. They're supposed to affect argons but not endanger others.&lt;BR&gt;&lt;BR&gt;I just need you to test it in field. And not die.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">This bomb should only affect hulrap bashers near {@Rgn:48008}. It probably won't kill them, but it might render them docile.&lt;BR&gt;&lt;BR&gt;Or it might do something totally different. Report any rashes to me.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(After Selecting Part 1, Dialogue Page1)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(After Selecting Part 2, Dialogue Page1)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="4">(After Selecting Part 3, Dialogue Page1)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="1017">
+        <Page social="6">Take this argon flux modulator, test it on {@LinkCreature:48#5#hulrap bashers}, and report back to me.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="1017">
+        <Page social="6">It turned into a frog? Extraordinary.&lt;BR&gt;&lt;BR&gt;If it had turned into a pigling, we'd soon have the fattest army in history.&lt;BR&gt;&lt;BR&gt;Oh, well. Back to the drawing board.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="1017">
+        <Page social="6">Take this argon flux modulator, test it on hulrap bashers, and report back to me.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="1017">
+        <Page social="6">It shrank? Remarkable.&lt;BR&gt;&lt;BR&gt;If I can adjust the formula to affect akalaths or gilgashes, that could change the course of the war!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="1017">
+        <Page social="6">Take this argon flux modulator, test it on hulrap bashers, and report back to me.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="11" villagerId="1017">
+        <Page social="6">Stronger? That's bad.&lt;BR&gt;&lt;BR&gt;I don't know where the formula went wrong. I'll go over my notes again. Back to the drawing board.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1028">
+        <Page social="4">Take a good look. Drink it in. You stand before the most influential person you will ever meet.&lt;BR&gt;&lt;BR&gt;Well, I will be as soon as my goods arrive. Stupid carriage is three days late! If I go check on it, it will show up as soon as I leave. It's always the way.&lt;BR&gt;&lt;BR&gt;Can you go find it? I am willing to part with some money if that'd help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1029">
+        <Page social="0">(This carriage is destroyed. Supplies and merchants' goods lie scattered everywhere. Everything of value is already gone.&lt;BR&gt;&lt;BR&gt;It was most likely attacked by {@LinkCreature:18#3#Desert Fire ragers}s. They probably have the missing goods.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1028">
+        <Page social="4">Oh no! So much money dissolved into the sand....&lt;BR&gt;&lt;BR&gt;Well, thank you for what you were able to bring back.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1028">
+        <Page social="0">Keep an eye on those Desert Fire {@LinkCreature:18#2#shamans} and {@LinkCreature:18#3#ragers}!</Page>
+    </Text>
+</QuestDialog>

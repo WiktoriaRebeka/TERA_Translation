@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">{@LinkCreature:63#3003#Elthienne} was looking for you. Did you talk to her yet?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">Hey! I was just asking around for you.&lt;BR&gt;&lt;BR&gt;Apparently, our neighbors to the south are overrun with storm lizards, vulcans, and kumases.&lt;BR&gt;&lt;BR&gt;I'd love to provide them with some aid, but...vulcans? Kumases? Your skills vastly surpass those of any of the Hands—individually and perhaps even collectively.&lt;BR&gt;&lt;BR&gt;Can I send you to cut down some of the threats in Val Aureum?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">You went to {@Rgn:24001#Aurum Road}? Was it a suicide mission? If so, it wasn't successfull.&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} she'll need to try harder if she wants to get you killed.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Thin out the {@LinkCreature:24#5#swift storm lizards} on {@Rgn:24001#Aurum Road} and bring back their skin.&lt;BR&gt;&lt;BR&gt;Elthienne didn't ask for skin, but I'm not missing an opportunity to get some materials for a new outfit. It's gonna to be smokin' hot!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">I hate {@Rgn:24001#Aurum Road}. I mean, seriously, what does it have to offer? Searing heat, dead everything, and things that want to make you dead. I say we just give up on the south.&lt;BR&gt;&lt;BR&gt;I told {@LinkCreature:63#3003#Elthienne} to not even think about trying to send me down there. But I'm sure she promised you something pretty in return?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Hunt {@LinkCreature:24#9#desert lightning kumases} on {@Rgn:24001#Aurum Road} and bring back anything useful you find.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">Can I just say that you are an inspiration? I mean it!&lt;BR&gt;&lt;BR&gt;I hope {@LinkCreature:63#3003#Elthienne} appreciates you as much as I do. Pay her a visit and find out.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Kill {@LinkCreature:24#12#covetous vulcans} on {@Rgn:24001#Aurum Road} and bring back anything we can use...and we can use anything.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">Oh {@LinkCreature:63#3003#Elthienne}! Look who's back!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Kill {@LinkCreature:24#62#yearning vulcans} on {@Rgn:24001#Aurum Road} and pocket any useful items you find on their corpses.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">Taratia looks happy. You must have found some good stuff on the bodies of the hostiles on Aurum Road. Your resourcefulness never ceases to amaze.</Page>
+    </Text>
+</QuestDialog>

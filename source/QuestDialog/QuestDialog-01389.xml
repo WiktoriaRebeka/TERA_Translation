@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1009">
+        <Page social="4">The sikandaris believe they're waking Sikander to save him—and elevate themselves.&lt;BR&gt;&lt;BR&gt;Unfortunately, they're killing our people to do it. They bought Killian's twisted lies and false promises? So be it.&lt;BR&gt;&lt;BR&gt;We're not letting them win. Take out the sikandari champions and their stonebeaks.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1009">
+        <Page social="4">The sikandaris would make strong allies, if we could trust them. That ship has sailed, though.&lt;BR&gt;&lt;BR&gt;Well fought, my friend, but we've more yet to do.</Page>
+    </Text>
+</QuestDialog>

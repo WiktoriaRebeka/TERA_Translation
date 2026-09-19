@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3001" prevId="0" villagerId="1112">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3001" prevId="0" villagerId="1112">
+        <Page social="0" voiceTypeId="0">There is a suspicious blueprint between the books on the old bookshelf. &lt;BR&gt;&lt;BR&gt;(Take the blueprint and examine it.)&lt;BR&gt;&lt;BR&gt;It describes how to control the strange-looking stone in the center of the room.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3001" prevId="2" villagerId="1114">
+        <Page social="0" voiceTypeId="0">(You follow the instructions on the blueprint, but nothing happens.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" prevId="3" villagerId="1009">
+        <Page social="0" voiceTypeId="0">Hmm. Interesting information you've provided me. I'll see what I can do with it.&lt;BR&gt;&lt;BR&gt;Thank you.</Page>
+    </Text>
+</QuestDialog>

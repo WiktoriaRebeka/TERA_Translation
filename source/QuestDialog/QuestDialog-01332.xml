@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1027">
+        <Page social="4">We must occupy the Skyleaves and stop Thulsa's forces from securing Darkquaver Woods.&lt;BR&gt;&lt;BR&gt;Find Ebna—she's gone ahead to scout the area. Help her however you can. Move quickly. Time is not our ally.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1015">
+        <Page social="4">Oh, I've seen things all right. The Ksharans ambushed an amani officer and his guards.&lt;BR&gt;&lt;BR&gt;I need to report this, but the Ksharans are too numerous. Think you can tackle the Ksharan shadow archers and shadow reavers?&lt;BR&gt;&lt;BR&gt;Bring me some proof of their deaths. We'll need evidence when we ask for reinforcements.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" prevId="3" villagerId="1015">
+        <Page social="4">If I were Thulsa, I'd make killing you a top priority. You've done great work. I'll get word to my superiors—and show them these amulets.&lt;BR&gt;&lt;BR&gt;For the federation!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="255" villagerId="1015">
+        <Page social="0">Kill all the Ksharans you want, just get me proof. Nobody ever takes a scout at their word.</Page>
+    </Text>
+</QuestDialog>

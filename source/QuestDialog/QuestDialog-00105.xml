@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1002">
+        <Page social="5">Well, I have to confess that I haven't made this potion in quite a while. I do hope it still works as intended.&lt;BR&gt;&lt;BR&gt;I mean...I'm sure it will! I just...you know.&lt;BR&gt;&lt;BR&gt;Well, anyway. Bottoms up, eh? Good luck.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1004">
+        <Page social="12">You had the potion, eh? How was it? I thought you'd bring it back here for me, but seeing how I could smell you coming from down the road, I'm actually glad you drank it instead.&lt;BR&gt;&lt;BR&gt;Well, I guess the only thing left to do is see if you can get anything out of the tuwangi. Better head straight over to {@LinkCreature:205#1020#Baba Tuwangi Captive Tangmo} and see how that goes.&lt;BR&gt;&lt;BR&gt;Let me know what you find out.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1020">
+        <Page social="0">Hmm. What is that? It smells like skin. And despair.&lt;NEXTPAGEBUTTON&gt;"What, precisely, does despair smell like?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hmm? It understands. I can tell you what's happening. You want to know why the swamp is getting bigger? Have YOU never wanted a bigger house?&lt;BR&gt;&lt;BR&gt;Of course we're behind it—we're expanding!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="4" villagerId="1004">
+        <Page social="5">Oh, no. So it's the tuwangi, then? That's just not any good. That means...oh dear.&lt;BR&gt;&lt;BR&gt;Well, thank you so much for your help. Please take this.</Page>
+    </Text>
+</QuestDialog>

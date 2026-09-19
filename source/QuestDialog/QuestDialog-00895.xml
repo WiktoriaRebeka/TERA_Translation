@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1018">
+        <Page social="5">I knew the argons were here for something, but interfering with Saleron? That's strange. I thought argons were all about "destroy everything, mortal or not."&lt;BR&gt;&lt;BR&gt;Regardless, all this endless scouting has paid off. I know who—or what—leads the argons: a creature named Zhaathi.&lt;BR&gt;&lt;BR&gt;Take out Zhaathi, and I bet the argons will crawl back down their holes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1018">
+        <Page social="7">That'll teach those argons to mess with the federation, huh, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Any minute now, they'll probably retreat to wherever their underground lair is. Yep. Any minute now....</Page>
+    </Text>
+</QuestDialog>

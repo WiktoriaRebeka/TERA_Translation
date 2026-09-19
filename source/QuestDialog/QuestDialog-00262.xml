@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1110">
+        <Page social="4">In a last-ditch effort to turn the island against us, the nagas have the {@LinkCreature:10#6#agitated mycanars} fighting their battles for them.&lt;BR&gt;&lt;BR&gt;Take the mycanars out and put an end to this fight once and for all.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1110">
+        <Page social="4">Outstanding work, &lt;PCNAME&gt;! You took the fight to the nagas! The federation needs more soldiers like you.</Page>
+    </Text>
+</QuestDialog>

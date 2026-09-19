@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0">It's terrible—with the tuwangis divided like this, we can't even unite to face the real problems. The {@LinkCreature:5#13#inky sabertooths}, for instance, are absolutely plaguing us!&lt;BR&gt;&lt;BR&gt;Would you mind taking care of them? It would truly be a shame if the sabertooth got in the way of the tuwangi fighting.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1003">
+        <Page social="0">Thank you, thank you, &lt;PCNAME&gt;. Finally, I have a person I can trust.</Page>
+    </Text>
+</QuestDialog>

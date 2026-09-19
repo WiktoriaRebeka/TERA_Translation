@@ -1,0 +1,110 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="506" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Laaran is looking for you.&lt;BR&gt;Speak with Laaran in Tria.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">To everyone's surprise but yours, the Stronghold of Blood was not a safe place at all. On your way to save the villagers, you and Elleon encountered an enormous castle in the sky. From out of this flying castle emerged hordes of the butterflies that you saw in Velik’s dream. They attacked the refugees' transports, forcing them out of the sky. You hurried to the crash site and rescued all the survivors you could find.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="1" villagerId="1011">
+        <Page social="0" voiceTypeId="0">We've decided to send the villagers to the Stronghold of Blood until this plague has been dealt with.&lt;BR&gt;&lt;BR&gt;The area outside is dangerous, but they should be safe behind the fortifications. Please gather them up and make sure they get to the transports.&lt;BR&gt;&lt;BR&gt;I'm needed here to coordinate the evacuation, so they'll need someone they trust, and I can't think of anyone they'd trust more than you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="70" prevId="3" villagerId="1020">
+        <Page social="0" voiceTypeId="0">It's a good thing that I contacted Jordal beforehand.&lt;BR&gt;&lt;BR&gt;We won't be back for a long time, right?&lt;BR&gt;I should take some food, fruit, and...yes, some pills for travel sickness. Long-sleeved clothing, and...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="70" prevId="3" villagerId="1039">
+        <Page social="0" voiceTypeId="0">These recruits have never seen any real action before. All they had were drills. I'm not sure if they'll do a good job guarding the villagers.&lt;BR&gt;&lt;BR&gt;But who knows? Maybe one of them is the next &lt;PCNAME&gt;...</Page>
+    </Text>
+    <Text id="6" huntingZoneId="70" prevId="3" villagerId="1014">
+        <Page social="0" voiceTypeId="0">One hero can sometimes do what a hundred soldiers cannot.&lt;BR&gt;&lt;BR&gt;But when it comes to mundane, day-to-day bravery, it is soldiers who are the true heroes.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="70" prevId="3" villagerId="1042">
+        <Page social="0" voiceTypeId="0">If we're going to the Stronghold of Blood, a flying transport would be the safest way.&lt;BR&gt;&lt;BR&gt;Going to the ruins was impossible after the soldiers pulled out. So, on the bright side, I'm glad I can finally go and take a look for myself.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="70" prevId="4" villagerId="1011">
+        <Page social="0" voiceTypeId="0">It breaks my heart to evacuate the village like this.&lt;BR&gt;&lt;BR&gt;I've struggled to keep Tria safe, and failed more than I succeeded. Now this?&lt;BR&gt;&lt;BR&gt;Ah, well. It was never about me...it was always about them.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, please get the civilians aboard the transports.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="70" prevId="8" villagerId="1064">
+        <Page social="0" voiceTypeId="0">What will become of our home...?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="70" prevId="9" villagerId="1065">
+        <Page social="0" voiceTypeId="0">We will come back one day, right?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="70" prevId="10" villagerId="1066">
+        <Page social="0" voiceTypeId="0">My recruits are all accounted for.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="70" prevId="11" villagerId="1067">
+        <Page social="0" voiceTypeId="0">I'm actually looking forward to getting a closer look at the ruins!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="70" prevId="12" villagerId="1063">
+        <Page social="0" voiceTypeId="0">The last of the villagers are aboard the transports.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="70" prevId="13" villagerId="1053">
+        <Page social="0" voiceTypeId="0">No! I was too late!&lt;BR&gt;&lt;BR&gt;I got word from our scouts: The amber powder is coming from Stronghold of Blood! We must get word to the transports and get those people back here.&lt;BR&gt;&lt;BR&gt;If they land in the stronghold, they'll all be infected!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="70" prevId="14" villagerId="1011">
+        <Page social="0" voiceTypeId="0">This is devastating...I've put everyone's lives in danger...&lt;BR&gt;&lt;BR&gt;We must go after the transports!&lt;BR&gt;&lt;BR&gt;They'll be flying past Serenity Valley...Velnen should be there. He can tell you if the transports have already passed by. Go! Now!&lt;NEXTPAGEBUTTON&gt;"I'm on my way!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I can send you directly to Velnen at Liberation Station.&lt;BR&gt;&lt;BR&gt;Are you ready to teleport now?</Page>
+    </Text>
+    <Text id="16" huntingZoneId="227" prevId="15" villagerId="1008">
+        <Page social="0" voiceTypeId="0">I'm sorry, but Laaran is mistaken; those transports won't be passing by here. They'll be flying in over the Stronghold of Blood.&lt;BR&gt;&lt;BR&gt;And I'm afraid it won't be easy getting to them in there.&lt;BR&gt;&lt;BR&gt;The route in is overrun with ferocious monsters, and we've even had to evacuate most of our camps. Even if we get past them, it will be even more difficult getting back out.&lt;BR&gt;&lt;BR&gt;For now, I'll order all the troops I can spare to the Stronghold of Blood keep the villagers safe.&lt;BR&gt;&lt;BR&gt;Until we know more, you should help by recapturing our camps.&lt;NEXTPAGEBUTTON&gt;"Good plan. Leave it to me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">There are four camps under enemy control. Clear them of monsters, and repair their teleportals so we can reoccupy the camps.&lt;BR&gt;&lt;BR&gt;You can start just on the other side of the main road there.&lt;BR&gt;&lt;BR&gt;Clear out those Mutated Warthogs, then repair the teleportal.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="227" prevId="16" villagerId="1033">
+        <Page social="0" voiceTypeId="0">Velnen's plan is sound. Our first priority is keeping the villagers safe, and that will be easier if we can keep the road clear.&lt;NEXTPAGEBUTTON&gt;"I agree."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I think the teleportal's just misaligned. It shouldn't take much to get it working again.&lt;BR&gt;&lt;BR&gt;Jelena and I will help the soldiers secure the camp, then start searching for the transports. If we locate any villagers, we'll bring them here first.&lt;BR&gt;&lt;BR&gt;Good luck with the other camps. I'll catch up as soon as I can.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="227" prevId="17" villagerId="1034">
+        <Page social="0" voiceTypeId="0">It's an honor to meet you, &lt;PCNAME&gt;. I am Hudere, Velnen's assistant. He sent me ahead to get the camps into liveable condition.&lt;BR&gt;&lt;BR&gt;Thank you for repairing the teleportal.&lt;BR&gt;&lt;BR&gt;I'll follow after you with supplies after I get this place set up.&lt;NEXTPAGEBUTTON&gt;"Sounds good."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Our biggest obstacle, I think, will be all those vulcans. They're going to tear our supply wagons to pieces.&lt;BR&gt;&lt;BR&gt;Can you clear a path so we can get the supplies through?&lt;BR&gt;&lt;BR&gt;I'll meet you at the next camp.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="227" prevId="18" villagerId="1035">
+        <Page social="0" voiceTypeId="0">The supplies made it through, thanks to you.&lt;BR&gt;&lt;BR&gt;We'll get this camp operational, and meet you at the next camp.&lt;BR&gt;&lt;BR&gt;But...these siege weapons need repairs. We don't have the facilities to do that here.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Would you escort one of these siege weapons to the next camp?&lt;BR&gt;&lt;BR&gt;They're in bad shape, so you'll have to protect it from enemy attacks... but once you get it to the camp, we'll be able to repair it, then send it back to escort the next one, and so on.&lt;BR&gt;&lt;BR&gt;Just be quick. There's very little fuel left in the tanks right now.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="27" villagerId="1019">
+        <Page social="0">The fuel tank is almost empty.&lt;BR&gt;&lt;BR&gt;You have to hurry.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="227" prevId="19" villagerId="1038">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;! I've heard all about you!&lt;BR&gt;&lt;BR&gt;You're the one who wiped out the Lok cultists!&lt;BR&gt;&lt;BR&gt;Ah, excuse me... I have to deliver my report.&lt;BR&gt;&lt;BR&gt;We took heavy losses, recapturing the fourth camp, and Laaran still needs to make sure the the way is clear between here and there.&lt;NEXTPAGEBUTTON&gt;"How many soldiers did you lose?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Not many, actually... but it was brutal, and now their morale is in the gutter.&lt;BR&gt;&lt;BR&gt;Hey... on your way, why don't you collect monster teeth and show them to the troops at Camp Delta?&lt;BR&gt;&lt;BR&gt;That should cheer them up. I'd do it myself, if we had time to wait for the rest of the siege weapons... but I'm sure you can handle it on your own.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="227" prevId="21" villagerId="1037">
+        <Page social="0" voiceTypeId="0">I knew this would be easy work for you.&lt;BR&gt;&lt;BR&gt;The soldiers are relieved that you got a little vengeance on those fangspawns. Thank you.&lt;NEXTPAGEBUTTON&gt;"Tell them the hard part's over."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Now that all the camps are set up, please go rescue the villagers and bring them to me.&lt;BR&gt;&lt;BR&gt;After they're safe behind the barricades, the guards will be able to keep the monsters at a safe distance.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="27" prevId="22" villagerId="1000">
+        <Page social="0" voiceTypeId="0">I heard that you were recapturing the camps, so I came back to get you.&lt;BR&gt;&lt;BR&gt;The transports are nearly at the Stronghold of Blood.&lt;BR&gt;&lt;BR&gt;We have to stop them before they set down!</Page>
+    </Text>
+    <Text id="24" huntingZoneId="27" prevId="23" villagerId="1014">
+        <Page social="0" voiceTypeId="0">There's no time to lose!&lt;BR&gt;&lt;BR&gt;We have to get inside quickly and get those refugees out of there.&lt;BR&gt;&lt;BR&gt;Elleon went on ahead, and he should have reached the stronghold by now.&lt;BR&gt;&lt;BR&gt;But that flying castle... those giant butterflies... he's going to need our help.&lt;NEXTPAGEBUTTON&gt;"Go! I'm right behind you!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We should split up, search different crash sites.&lt;BR&gt;&lt;BR&gt;We need to work fast.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="27" prevId="24" villagerId="1001">
+        <Page social="0" voiceTypeId="0">Monsters...! Giant butterflies—everywhere!!&lt;BR&gt;&lt;BR&gt;They're spreading around some kind of amber-colored powder!&lt;BR&gt;&lt;BR&gt;The rest of my unit is still in there...if we don't hurry, they'll all get the crystal plague!</Page>
+    </Text>
+    <Text id="26" huntingZoneId="27" prevId="25" villagerId="1015">
+        <Page social="0" voiceTypeId="0">The transport just fell out of the sky...!&lt;BR&gt;&lt;BR&gt;I got separated from my husband... I can't find him!&lt;BR&gt;&lt;BR&gt;Please find him. I can't live without him!&lt;NEXTPAGEBUTTON&gt;"I'll find him. Wait here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Thank you. Thank you so much!&lt;BR&gt;&lt;BR&gt;May the gods guide your way.</Page>
+    </Text>
+    <Text id="27" huntingZoneId="27" prevId="26" villagerId="1016">
+        <Page social="0" voiceTypeId="0">Those... butterfly things surrounded the transport and...we crashed!&lt;BR&gt;&lt;BR&gt;People were screaming, crying...we all panicked and...&lt;NEXTPAGEBUTTON&gt;"You're safe now."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You're right. I...thank you.&lt;BR&gt;&lt;BR&gt;There are still people inside. They're back that way...up the stairs, then to the left.&lt;BR&gt;&lt;BR&gt;Please save them!</Page>
+    </Text>
+    <Text id="28" huntingZoneId="27" prevId="27" villagerId="1017">
+        <Page social="0" voiceTypeId="0">The corpse is covered in blood and crystal powder.</Page>
+    </Text>
+    <Text id="29" huntingZoneId="27" prevId="28" villagerId="1003">
+        <Page social="0" voiceTypeId="0">We found some survivors, but there are still too many unaccounted for.&lt;BR&gt;&lt;BR&gt;The bulk of the wreckage is this way...on the other side of all these giant butterflies.&lt;BR&gt;&lt;BR&gt;I'll distract them... You go see if you can find any more survivors!</Page>
+    </Text>
+    <Text id="30" huntingZoneId="27" villagerId="1018">
+        <Page social="0">This is our refuge? I thought we were supposed to be safe here!</Page>
+    </Text>
+    <Text id="31" huntingZoneId="27" prevId="29" villagerId="502">
+        <Page social="0" voiceTypeId="0">I'll get these survivors to the refugee camps. You should report to Seir, and let him know that the Stronghold of Blood isn't secure.&lt;BR&gt;&lt;BR&gt;Bringing these people here was federation's idea in the first place. We obviously need a better plan now.&lt;BR&gt;&lt;BR&gt;Jelena and I will go do some reconnaissance on tha...whatever it is in the sky.&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I have a spare teleport scroll. When we're done here, I'll send you back to Liberation Station. Check in with Velnen...see if he needs any more help here, then join us in Spring Valley.&lt;BR&gt;&lt;BR&gt;We'll fill you in on what we find out when you get there.&lt;BR&gt;&lt;BR&gt;I can teleport you when you're ready to go.</Page>
+    </Text>
+    <Text id="32" huntingZoneId="227" prevId="31" villagerId="1008">
+        <Page social="0" voiceTypeId="0">Nice to see you still in one piece, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I should've known that the transports would crash...&lt;BR&gt;&lt;BR&gt;It feels like I dreamed about it, or something like it.&lt;BR&gt;&lt;BR&gt;Anyway... it looks like you've found all the survivors we're likely to find. Good work.&lt;NEXTPAGEBUTTON&gt;"I only wish we'd found more still alive."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Get some rest.&lt;BR&gt;&lt;BR&gt;I'll take care of the survivors, but I might need you to help me, if you have the time.</Page>
+    </Text>
+</QuestDialog>

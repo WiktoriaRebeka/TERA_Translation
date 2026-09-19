@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1013">
+        <Page social="4">After the recent kidnappings, we forbade normal traffic anywhere near the Hungry Caverns.&lt;BR&gt;&lt;BR&gt;But that just made the gulas bolder.&lt;BR&gt;&lt;BR&gt;Let's keep them from getting too cocky. Kill the {@LinkCreature:8#1011#hulking sentries} and {@LinkCreature:8#1021#cromos prowlers} in Vexatus Swamp. That'll teach them to fear the federation!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="4">Those gulas are going to think twice before making a meal out of us, eh?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1002">
+        <Page social="4">The appeal of the {@Rgn:50008} to me as a scholar is that it somehow avoids most of the argons' corruption. How did it stave off the argon transformative magic?&lt;BR&gt;&lt;BR&gt;The implications stagger the imagination.&lt;NEXTPAGEBUTTON&gt;"And you need some help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Quite so. These shambling creepers were once gorgeous flowers before the argons reshaped them.&lt;BR&gt;&lt;BR&gt;Use this tyalinth blossom on the creepers. Let's see if we can undo the argons' damage.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1002">
+        <Page social="6">Most promising results! If I can adapt the method to other creatures, we might just reclaim our world.</Page>
+    </Text>
+</QuestDialog>

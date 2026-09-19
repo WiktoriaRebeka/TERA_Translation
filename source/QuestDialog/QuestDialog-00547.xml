@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="4">I hate to ask, but a Mysterium operative sneaked past our lines and headed into southern Basilisk Crag.&lt;BR&gt;&lt;BR&gt;He might be dead or he might be some kulkari's dinner. If you could find him and bring him back, I'd be grateful.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1041">
+        <Page social="0">(The man is obviously dead. A Mysterium amulet is around his neck. You should gather his belongings and return them to Rhysart.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" prevId="3" villagerId="1029">
+        <Page social="4">These are Jerod's things. Blast it, I warned him about going in there.&lt;BR&gt;&lt;BR&gt;Now you know why we've tried to keep the Mysterium out of here in the first place!&lt;BR&gt;&lt;BR&gt;I'm sorry he's dead, but at least we can tell his family what happened. Thanks.</Page>
+    </Text>
+</QuestDialog>

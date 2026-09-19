@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1102">
+        <Page social="1">A great plague stalks this valley. None know where it came from. It breeds uncontrollably, and it destroys all it touches. Its name is "sloth." No, really.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:30#100#Jittery sloths} have now cut us off from Centurion {@LinkCreature:230#1010$$Erdis}'s Camp Sunlight. That's the last straw.&lt;BR&gt;&lt;BR&gt;Slaughter those {@LinkCreature:30#100#sloths}—down to the last!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1010">
+        <Page social="1">What a pleasant surprise! How many of those {@LinkCreature:30#100#jittery sloths} did you kill getting here?&lt;BR&gt;&lt;BR&gt;The numbers don't matter, but my gratitude does. Take this reward, and I'll ensure that my coordinator pays you any time you do more sloth slaughtering.</Page>
+    </Text>
+</QuestDialog>

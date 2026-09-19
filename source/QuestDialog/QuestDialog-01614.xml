@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2108">
+        <Page social="0">Rhodos wanted a way to free the Parthians from the archdevan magic. Tirene, a Mysterium researcher with the Vanguard Initiative, examined an archdevan seal and said it might be possible to save the Parthians. Relieved, Rhodos vowed vengeance against Dakuryon.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2108">
+        <Page social="4">Jitt's final words change everything. We can't simply slaughter the Parthians. We must find another way.&lt;BR&gt;&lt;BR&gt;I know nothing of magic. Find someone who does and bring me the answer I seek.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2109">
+        <Page social="4">If the archdevan spell lifted just before death, we might be able to undo it en masse. There must be a focus, however. That's the key.&lt;BR&gt;&lt;BR&gt;The seal! Examine several other fallen Parthians. Retrieve anything that looks out of place.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2109">
+        <Page social="4">A malignant power dwells within.&lt;BR&gt;&lt;BR&gt;Give me a moment to study it.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2109">
+        <Page social="4">I'm an arcanist, but not a soldier.&lt;BR&gt;&lt;BR&gt;The magic that transforms someone into a demokron cannot be undone, but we might free these poor people from the archdevas.&lt;BR&gt;&lt;BR&gt;Perhaps.&lt;BR&gt;&lt;BR&gt;With the aid of the baraka, we must try.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" prevId="5" villagerId="2108">
+        <Page social="4">I don't understand magic, but I understood Tirene. There might be hope for my people.&lt;BR&gt;&lt;BR&gt;Dakuryon will pay for pitting my brothers against me!</Page>
+    </Text>
+</QuestDialog>

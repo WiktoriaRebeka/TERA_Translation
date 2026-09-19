@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1004">
+        <Page social="4">We're here to keep the undead in their place. To me, that means dead, but in the broader sense it means they shouldn't be coming up out of their cave.&lt;BR&gt;&lt;BR&gt;If you can get rid of the {@LinkCreature:20#30114002#ossugon prefects}, then I think you'll be able to quell the rest of them for a while.&lt;BR&gt;&lt;BR&gt;Oh! And don't forget their skulls. They can't reanimate without them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1027">
+        <Page social="4">Excellent. They no longer pose a threat as long as they're in pieces like this.&lt;BR&gt;&lt;BR&gt;Hopefully the rest will stay put.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1027">
+        <Page social="0">Do you want to see them up and running around outside of that cave?</Page>
+    </Text>
+</QuestDialog>

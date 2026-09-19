@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1008">
+        <Page social="4">Linkia's research mentioned this argon queen—Shandra Manaya. Obviously, she'd be a damned good target to hit.&lt;BR&gt;&lt;BR&gt;To that end, I'm sending you to help {@LinkCreature:250#1003}. If we can get a line on the queen's location, we're going to kill her. Or die trying.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1003">
+        <Page social="6">I'm not making any promises, but security around here is pretty tough. Queen or no queen, the argons don't want anyone crashing this party.&lt;BR&gt;&lt;BR&gt;If you can kill Dulixan and his floaty prismar watchers, I'll study the entrance for Medhvan.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1008">
+        <Page social="6">Outstanding! Gah! My blood boils at the thought of getting my claws around that wretch's throat!&lt;BR&gt;&lt;BR&gt;I'll get this information to Kaiator at once. Fine work, soldier!</Page>
+    </Text>
+</QuestDialog>

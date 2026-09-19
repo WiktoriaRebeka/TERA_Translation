@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="84" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1605">
+        <Page social="0">All right. You've got alkahest, an enchantable weapon, and some feedstock.&lt;BR&gt;&lt;BR&gt;Let's get started.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1605">
+        <Page social="3">Enchanting takes good equipment and makes it better, but it only works on items with the enchantable attribute.&lt;BR&gt;&lt;BR&gt;Weapons require a minimum of four feedstock per attempt. Chest armor takes three. Footwear and handwear each take two. The feedstock must be of the same tier or higher than the item you're enchanting.&lt;BR&gt;&lt;BR&gt;When you get to higher bonuses, you'll want to use more feedstock to improve your changes. But I'm getting ahead of myself.&lt;NEXTPAGEBUTTON&gt;"Got it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">For alkahest...the tier is your guide; you'll use 10 more alkahest than the tier for each attempt.&lt;BR&gt;&lt;BR&gt;Now the practicalities: open the enchant menu by pressing the "T" key. Right-click the item you want to enchant. Your feedstock and the alkahest will automatically load and the optimal amounts will be highlighted. To attempt once, click Enchant.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1605">
+        <Page social="0">Got all that? Great! I knew you were a smart one.&lt;BR&gt;&lt;BR&gt;Enchanting is really quite easy. The best &lt;PCCLASS:lcase&gt;s enchant their gear as much as possible. Here, this will help.</Page>
+    </Text>
+</QuestDialog>

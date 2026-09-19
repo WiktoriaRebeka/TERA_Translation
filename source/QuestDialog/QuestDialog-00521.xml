@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1006">
+        <Page social="4">Lamya has infiltrated the tunnel and probably needs help down there.&lt;BR&gt;&lt;BR&gt;I didn't want any soldiers going solo, but she wouldn't listen.&lt;BR&gt;&lt;BR&gt;Find her and see what she needs help with. You may want to hurry.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1012">
+        <Page social="4">Huh. Well, I didn't need extra help, but I suppose you'll come in handy.&lt;BR&gt;&lt;BR&gt;As long as you're ready to work.</Page>
+    </Text>
+</QuestDialog>

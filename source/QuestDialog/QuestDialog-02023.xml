@@ -1,0 +1,9 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="1022" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">The device you see before you is the Oneiric Generator; the four satellite devices are its Focusing Array. They are designed to counteract and stabilize the effect of the Dreamstorms.&lt;BR&gt;Calibrating them properly takes time, however, during which the archdevans forces will be doing all they can to destroy our devices. We would very much appreciate it if you would do your best to prevent the destruction of our devices.&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;- Warning - &lt;/font&gt;&lt;BR&gt;&lt;font color='#660000'&gt;There is an upper limit on the number of participants. Additional participants can assist, but cannot obtain this quest.&lt;BR&gt;Additionally, if you accept this quest and leave the area of the Dreamstorm, you will automatically abandon the quest. &lt;/font&gt;</Page>
+    </Text>
+</QuestDialog>

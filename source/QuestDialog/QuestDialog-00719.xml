@@ -1,0 +1,114 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Fraya, commander of Allemantheia's forces and Kaidun's lover, sent you to Acarum to find out what or who was behind the rebel army attacking there. While it seemed to be Kaidun himself leading the attacks, Fraya believed someone else was inciting rebellion. You discovered strange controller crystals embedded in the rebels' necks. Using those crystals, you obtained an antidote to remove the curse from Kaidun's henchman, Ghufran, who informed you that the real Kaidun was dragged away by Thulsa. The man people believed was Kaidun was actually Thulsa's servant in disguise. By killing him, you proved Kaidun's innocence.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5" voiceTypeId="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Return to Allemantheia headquarters immediately for reassignment.&lt;BR&gt;&lt;BR&gt;—Fraya</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Ah, ! Good of you to come so quickly. As much as you've done for the federation, I need you to do something more.&lt;BR&gt;&lt;BR&gt;You must understand, &lt;PCNAME&gt;, the federation is my first responsibility, then proud Allemantheia. What I must ask you to do, neither the federation nor Allemantheia will appreciate, but it is a...debt I owe. You must trust my words. You must not tell a soul.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="518" prevId="3" villagerId="1001">
+        <Page social="5" voiceTypeId="0">The elders suspect Kaidun, a commander in Westonia, has rebelled and seized the power of the Core for himself. The Kaidun I know would never do such a thing. But our...relationship colors that sentiment. The elders of Allemantheia will not listen to me. Especially since Kaidun is amani.&lt;BR&gt;&lt;BR&gt;If I am wrong, I will lead my army against him myself. But I know in my heart of hearts he is innocent.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Take the pegasus to Acarum. That's as near to the rebellion as you can safely fly. The Mysterium agent there, Harule, is trustworthy. She will help you find the evidence we need.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="73" prevId="4" villagerId="1110">
+        <Page social="5" voiceTypeId="0">Kaidun might not have been a traitor, but the army seems to be his, and we can't just ignore that.&lt;BR&gt;&lt;BR&gt;Several of Kaidun's former soldiers live here in Acarum. Maybe they'll have some insight.&lt;NEXTPAGEBUTTON&gt;"What about the other villagers?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">A fine plan. The more input the better.&lt;BR&gt;&lt;BR&gt;Keep warm and good luck. I hope you get more out of them than I have.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="73" prevId="5" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Traitor! Kaidun the traitor! He fooled us all into thinking him a hero while he plotted this rebellion. Now his army brings chaos and death!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="73" prevId="5" villagerId="1009">
+        <Page social="5" voiceTypeId="0">Yes, I was once one of Kaidun's soldiers. He was an excellent leader, worthy of respect.&lt;BR&gt;&lt;BR&gt;For that reason, I would make the traitor's death quick and painless. Out of respect for who he was, of course.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="73" prevId="5" villagerId="1100">
+        <Page social="5" voiceTypeId="0">I can't believe General Kaidun is leading the rebel army. Sure, it looks like Kaidun's army. There are similarities.&lt;BR&gt;&lt;BR&gt;But those rebels...there's something strange about them. Something...wrong.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="73" prevId="5" villagerId="1023">
+        <Page social="5" voiceTypeId="0">It doesn't matter whether it's Kaidun's army or not. Why won't Allemantheia Headquarters deal with the rebels once and for all? They're killing us. They killed my family!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="73" prevId="6" villagerId="1110">
+        <Page social="5" voiceTypeId="0">Sounds familiar. Well, at least you're up to speed now.&lt;NEXTPAGEBUTTON&gt;Pass the message.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It's not exactly a tea party out here. We've killed a few of them, but they've killed a lot more of us.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="73" prevId="10" villagerId="1110">
+        <Page social="0" voiceTypeId="0">If we don't do something decisive soon, this whole area will lose trust in federation forces, and Allemantheia will not take well to it.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="73" prevId="10" villagerId="1110">
+        <Page social="0" voiceTypeId="0">To see what's so "wrong" about them? Not a bad plan. Investigate the bodies and report back with anything you find.&lt;br&gt;&lt;br&gt;First, make a few more corpses out of the Sihran {@LinkCreature:32#1#fighters} and {@LinkCreature:32#3#berserkers} at Daunting Pass on Mount Tyrannas; they'll impede your progress. It might give these people a little peace of mind as well.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="73" prevId="10" villagerId="1110">
+        <Page social="0" voiceTypeId="0">I don't know either. It's only a theory...but I know from a wizard in the Mysterium who researches mind control.&lt;br&gt;&lt;br&gt;First, make a few more corpses out of the Sihran {@LinkCreature:32#1#fighters} and {@LinkCreature:32#3#berserkers} at Daunting Pass on Mount Tyrannas; they'll impede your progress. It might give these people a little peace of mind as well.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="232" prevId="10" villagerId="1025">
+        <Page social="5" voiceTypeId="0">(A strange crystal, emanating an eerie light, is embedded in the corpse's neck.)</Page>
+    </Text>
+    <Text id="15" huntingZoneId="232" prevId="10" villagerId="1026">
+        <Page social="5" voiceTypeId="0">(A strange crystal, emanating an eerie light, is embedded in the corpse's neck.)</Page>
+    </Text>
+    <Text id="16" huntingZoneId="232" prevId="10" villagerId="1027">
+        <Page social="5" voiceTypeId="0">(A strange crystal, emanating an eerie light, is embedded in the corpse's neck.)</Page>
+    </Text>
+    <Text id="17" huntingZoneId="232" prevId="10" villagerId="1028">
+        <Page social="5" voiceTypeId="0">(A strange crystal, emanating an eerie light, is embedded in the corpse's neck.)</Page>
+    </Text>
+    <Text id="18" huntingZoneId="73" prevId="14" villagerId="1110">
+        <Page social="4" voiceTypeId="0">You found these crystals embedded in their necks? Well, I'll be damned. Someone's controlling them!</Page>
+    </Text>
+    <Text id="19" huntingZoneId="73" villagerId="1110">
+        <Page social="0">Have you found anything yet?</Page>
+    </Text>
+    <Text id="20" huntingZoneId="73" prevId="18" villagerId="1110">
+        <Page social="5" voiceTypeId="0">Take these to {@linkcreature:232#1010#Nania}, the Mysterium arcanist at the Holdouts Redoubt. If anyone can help us, she can. But remember—don't say anything about Fraya.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="232" prevId="20" villagerId="1010">
+        <Page social="4" voiceTypeId="0">You found these where? Odd. We usually find them lodged in the brain.&lt;BR&gt;&lt;BR&gt;Reversing the effect is possible, but it's not a simple thing. Four crystals will be enough to break the effect on one person.&lt;NEXTPAGEBUTTON&gt;"That will have to do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">All right then. I'll have to ask you to step back. This will take a moment.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="232" villagerId="1010">
+        <Page social="0">Soldier, a moment of your time?</Page>
+    </Text>
+    <Text id="23" huntingZoneId="232" prevId="21" villagerId="1010">
+        <Page social="5" voiceTypeId="0">It's weak—that happens when you rush things. Wear down your victim before you use it—that will help break the hold.&lt;BR&gt;&lt;BR&gt;Might I suggest a target? Ghufran was Kaidun's best soldier. He's even bigger now, thanks to Sihran magic, but I think you can take him, and he'll have real information.&lt;NEXTPAGEBUTTON&gt;"Where do I find him?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">{@linkcreature:32#16#Ghufran} will be deep inside the rebel army encampment.&lt;BR&gt;&lt;BR&gt;Remember, the potion will work best if he's badly injured and exhausted. Good luck.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="31" villagerId="1">
+        <Page social="0">I...what? Was that a dream?&lt;BR&gt;&lt;BR&gt;No? Oh...oh Kaia!&lt;BR&gt;&lt;BR&gt;Please...I don't want to fall under that spell again. Take me to the &lt;A href="markmap:loc=7012#-27702,-85642,5819&amp;icon=1&amp;name=near the Redoubt"&gt;Redoubt&lt;/A&gt;.&lt;BR&gt;&lt;BR&gt;Please. I have to lie down for a while.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="232" prevId="23" villagerId="1024">
+        <Page social="5" voiceTypeId="0">We left Allemantheia in search of the Core. We were captured—Kaidun, too—and put under Thulsa's curse.&lt;NEXTPAGEBUTTON&gt;"So Kaidun is being controlled?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Thulsa took the real Kaidun. I don't know where. {@linkcreature:32#17#"Kaidun" the Tyrant} over at Mount Tyrannas is really Thulsa's servant, Natharkan, wearing Kaidun's armor.&lt;NEXTPAGEBUTTON&gt;"What can we do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The only way to clear Kaidun's name is to take down the imposter and make sure everyone knows it isn't Kaidun. Kill Natharkan and bring back his head.&lt;BR&gt;&lt;BR&gt;We need to prove it's not really Kaidun who's been making war.&lt;BR&gt;&lt;BR&gt;Then we find Kaidun and rescue him.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="232" prevId="25" villagerId="1010">
+        <Page social="4" voiceTypeId="0">What's that you're holding? Did you waste my potion and cut Ghufran's head off?!&lt;BR&gt;&lt;BR&gt;Oh...no. That's not Kaidun! I knew it!&lt;BR&gt;&lt;BR&gt;I mean, it didn't seem likely that Kaidun would betray us. Take the head to Harule in Acarum. Quickly!</Page>
+    </Text>
+    <Text id="27" huntingZoneId="232" villagerId="1010">
+        <Page social="0">Have you gone yet? How did it go?</Page>
+    </Text>
+    <Text id="28" huntingZoneId="73" prevId="26" villagerId="1110">
+        <Page social="4" voiceTypeId="0">Fraya was right! Oh, that's such a relief!&lt;BR&gt;&lt;BR&gt;Show that around so we can clear Kaidun's name as quickly as possible!&lt;BR&gt;&lt;BR&gt;Fraya will also want to hear about this! Show her as soon as you've cleared Kaidun's name.</Page>
+    </Text>
+    <Text id="29" huntingZoneId="73" prevId="28" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Kaidun isn't a traitor? Can you prove it?&lt;NEXTPAGEBUTTON&gt;"Look at this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Whoa. I, uh...a head, huh? Well. So...there that is. Right there. In your hands.&lt;BR&gt;&lt;BR&gt;Okay. I got it. Wasn't Kaidun.&lt;BR&gt;&lt;BR&gt;I'm just gonna...walk over there now.</Page>
+    </Text>
+    <Text id="30" huntingZoneId="73" prevId="28" villagerId="1009">
+        <Page social="5" voiceTypeId="0">I heard you got to Kaidun before I could.&lt;BR&gt;&lt;BR&gt;Wait, what do you mean it wasn't Kaidun?&lt;NEXTPAGEBUTTON&gt;"It was this guy."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">One of Thulsa's servants. Hmm...but where did he get Kaidun's armor? Do you think the general is still alive?</Page>
+    </Text>
+    <Text id="31" huntingZoneId="73" prevId="28" villagerId="1100">
+        <Page social="5" voiceTypeId="0">I knew it! I knew something strange was happening.&lt;BR&gt;&lt;BR&gt;Where did the imposter go?&lt;NEXTPAGEBUTTON&gt;"Right here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Well, that seems unnecessary. But at least we have proof it wasn't Kaidun now! Fraya will be pleased.</Page>
+    </Text>
+    <Text id="32" huntingZoneId="73" prevId="28" villagerId="1023">
+        <Page social="5" voiceTypeId="0">So? What do I care about Kaidun's honor? Those rebels killed my family, whoever was leading them, and there ain't nobody's head going to change that.&lt;BR&gt;&lt;BR&gt;And it's not going to change the fact these rebels are killing villagers left and right.&lt;NEXTPAGEBUTTON&gt;"I know. We're doing what we can."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">That's not good enough, is it? Doing the best you can doesn't stop anyone from dying.&lt;BR&gt;&lt;BR&gt;Let Allemantheia know we need a reinforcement army!</Page>
+    </Text>
+    <Text id="33" huntingZoneId="518" prevId="29" villagerId="1001">
+        <Page social="5" voiceTypeId="0">There was never any doubt in my mind. Thank you for proving his innocence and restoring his honor.&lt;NEXTPAGEBUTTON&gt;"What about the other rebels?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Support from the Mysterium is critical if we're going to clear them out.&lt;BR&gt;&lt;BR&gt;If the crystals are as powerful as you say, we cannot save them.&lt;BR&gt;&lt;BR&gt;But that is the duty of a soldier. You must be willing to give your life to prevent others from suffering.</Page>
+    </Text>
+</QuestDialog>

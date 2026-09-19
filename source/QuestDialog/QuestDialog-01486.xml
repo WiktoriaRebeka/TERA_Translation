@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="84" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="6">Anyone can guide a handful of soldiers to victory. Can you take a squad to new heights of glory?&lt;BR&gt;&lt;BR&gt;Face off against more foes and ignite the cauldrons of Fraywind Canyon!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="6">Splendid! Your victory does credit to you and the entire federation!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">No victory, no prize! Don't be a keener!</Page>
+    </Text>
+</QuestDialog>

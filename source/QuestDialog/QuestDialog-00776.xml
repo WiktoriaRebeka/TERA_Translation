@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0">I may look like a monster, but once I was like you—an honorable soldier of the federation, an amani warrior who stormed these halls with Kaidun himself.&lt;BR&gt;&lt;BR&gt;We all believed we could seize this place without breaking a sweat. By the time we realized these halls were filled with our worst nightmares, it was too late to retreat.&lt;BR&gt;&lt;BR&gt;Most have gone completely mad, and some have changed into hideous creatures. Thulsa's cursed me by letting me keep my sanity—so I can see how far I've fallen.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You can't help me. My cursed body may look alive, but it's only because my soul is still trapped in it.&lt;BR&gt;&lt;BR&gt;My mission is to liberate my comrades from their misery. Please help me release the {@LinkCreature:33#7#eldritch defenders}. I know they wouldn't want to continue on as Thulsa's lapdogs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1012">
+        <Page social="0">You cannot imagine the agony of watching your own body change of its own volition.&lt;BR&gt;&lt;BR&gt;As for me, I can no longer imagine what "stability" feels like.&lt;BR&gt;&lt;BR&gt;Thank you for helping them. Here's a reward for your deeds. This place may be old, but it holds many treasures.</Page>
+    </Text>
+</QuestDialog>

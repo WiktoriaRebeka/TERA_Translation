@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="4">Loxetrius awaits you at Vanguard Post Alpha. That's where the real trouble is: underground. So naturally, that's where we're sending our favorite kind of "trouble:" you.&lt;BR&gt;&lt;BR&gt;Don't keep him waiting.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1022">
+        <Page social="4">I hope you're ready for some real fighting, &lt;PCNAME&gt;. Gory stuff doesn't make you retch, right?</Page>
+    </Text>
+</QuestDialog>

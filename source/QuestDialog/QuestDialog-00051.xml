@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4">You've been a big help thus far, &lt;PCNAME&gt;. I'd like you to go deeper into Deva Silva and work with one of my scouts, {@LinkCreature:203#1011#Droyan}.&lt;BR&gt;&lt;BR&gt;He's a good scout, but he could probably use some combat power like yours. Take the field, soldier!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1011">
+        <Page social="4">Welcome to Devas R Us!&lt;BR&gt;&lt;BR&gt;Good to see a friendly face! I've been watching these fiends for some time. There's work to be done, but I can't risk my position.&lt;BR&gt;&lt;BR&gt;Up for a little fighting? How about a lot of it? Hah!</Page>
+    </Text>
+</QuestDialog>

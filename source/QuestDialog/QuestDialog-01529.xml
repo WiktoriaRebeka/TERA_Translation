@@ -1,0 +1,48 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Inside the Hall of Knowledge while seeking a way to ask for reinforcements from Velika, &lt;PCNAME&gt; met Halran, the wise of Highwatch, who has been waiting for &lt;PCNAME&gt;.&lt;BR&gt;&lt;PCNAME&gt; tried to commune with Mystel's Arcana, a relic which gives answer only to those who seek their way voluntarily, and saw a vision of archdevas and the Storm Barrier.&lt;BR&gt;Halran foretold that &lt;PCNAME&gt; will be the hero of the baraka.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1003">
+        <Page social="4" voiceTypeId="0">As I said, the Hall of Knowledge is not open to everyone...usually.&lt;BR&gt;&lt;BR&gt;But I have heard Omeros speak on your behalf, &lt;PCNAME&gt;, and I believe it wise to allow you access.&lt;BR&gt;&lt;BR&gt;Once inside, you should seek Halran. He might be able to help you.&lt;NEXTPAGEBUTTON&gt;"I will. Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Very good. I will send you directly to where Halran waits for you.&lt;NEXTPAGEBUTTON&gt;"I'm ready."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1018">
+        <Page social="4" voiceTypeId="0">Halran told me to expect a visitor.&lt;BR&gt;&lt;BR&gt;Are you &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"I am."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Very good. Allow me to guide you.&lt;BR&gt;&lt;BR&gt;Just outside this room is a staircase. At the top of the stairs you will see Mystel's Arcana, and Halran will be there waiting for you.&lt;BR&gt;&lt;BR&gt;If you would be so kind, please collect any books you find on the stairs.&lt;NEXTPAGEBUTTON&gt;"Don't worry."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="2037">
+        <Page social="4" voiceTypeId="0">["In the Age of Legends there were giants, who enslaved the amani and conquered vast portions of Arun and Shara. Then came the fire of Yurian, and Balder's Sacrifice. Amid the ashes, Balder stripped away from the giants all that made them children of Tithus, leaving only that which made them children of Oriyn."]&lt;NEXTPAGEBUTTON&gt;(Collect The Book of the Wise.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="2038">
+        <Page social="4" voiceTypeId="0">[On a page detailing the events of the Divine War, the ancient sage has scribbled:&lt;BR&gt;&lt;BR&gt;"The Storm Barrier predates the Rift? No mention of it in The Book of the Wise. Rift follows course of Barrier. Cause? Effect? Coincidence?"]&lt;NEXTPAGEBUTTON&gt;(Collect The Book of the Learned.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="2039">
+        <Page social="4" voiceTypeId="0">[The note tucked into the book reads: &lt;BR&gt;&lt;BR&gt;"Lakan"&lt;BR&gt;&lt;BR&gt;"Castanics to Devas to Archdevas"&lt;BR&gt;&lt;BR&gt;"BLOOD MAGIC"&lt;NEXTPAGEBUTTON&gt;(Collect The Book of the Sage.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="2113">
+        <Page social="4" voiceTypeId="0">[On a page detailing types of devas, someone has written: &lt;BR&gt;&lt;BR&gt;"The effects of blood magic seem to survive death and even transmit across generations. Blood magic may be used to undo blood magic, but without decades of practice—which notion is abhorrent—any attempt to undo a transformation would be like unto erasing a scar by inflicting additional wounds around it."]&lt;NEXTPAGEBUTTON&gt;(Collect The Book of the Cunning.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="1019">
+        <Page social="4" voiceTypeId="0">Hello, &lt;PCNAME&gt;. Yes, I know who you are.&lt;BR&gt;&lt;BR&gt;Thank you for collecting the books I left on the steps. I do hope you read them. That was my intention, after all; I do not ordinarily leave such valuable volumes just lying about.&lt;NEXTPAGEBUTTON&gt;"I did—the important parts, anyway."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Excellent. Now you are prepared to find the answers you seek, in Mystel's Arcana. It has been waiting for you for a very long time.&lt;NEXTPAGEBUTTON&gt;"I've met Mystel; she never mentioned this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Mystel knows that a prophecy with no apparent resolution is a burden on mortal minds. Even a single prophecy, with a short-term conclusion, is a test of one's sanity. Imagine how much more maddening it would be to have complete foreknowledge—but without understanding, let alone the ability to yet play your part in future events.&lt;BR&gt;&lt;BR&gt;Of all those I have known, only Verikam and I have had the mental fortitude to receive more than a handful of prophecies from Mystel's Arcana at one time.&lt;BR&gt;&lt;BR&gt;But it appears to be your destiny to attempt to do so. Are you prepared to commune with it?&lt;NEXTPAGEBUTTON&gt;"I am."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="183" villagerId="1019">
+        <Page social="0">The abilities of one who doesn't comprehend "collect all the books" concerns me.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="183" prevId="9" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Archdeva. Deception. Change. Concealment.&lt;BR&gt;&lt;BR&gt;Storm Barrier. Relativity Stone. Reinforcement. Reunification.&lt;BR&gt;&lt;BR&gt;Expansion. Growth. Change.&lt;BR&gt;&lt;BR&gt;Blood magic. Torture. Loss. Tragedy.&lt;NEXTPAGEBUTTON&gt;"I...understand. I think."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="183" prevId="11" villagerId="1019">
+        <Page social="4" voiceTypeId="0">Prophecies of the archdevas, the Storm Barrier, and blood magic? And another beside?&lt;BR&gt;&lt;BR&gt;Mystel clearly sees you as vital to many of the world's key events—beyond those you have already participated in!&lt;BR&gt;&lt;BR&gt;Clearly, you were meant to come here, to Highwatch, and help the baraka combat Dakuryon—though given the references to tragedy and loss, I do not envy you your place in the history books.&lt;NEXTPAGEBUTTON&gt;"It's...a lot to take in."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I apologize, &lt;PCNAME&gt;. You have already endured so much, just to come here, and now I have placed this burden upon you. You must be tired, and you have much to think upon.&lt;BR&gt;&lt;BR&gt;If nothing else, remember this: Mystel chose you. Clearly, you are equipped to see these events through to their resolutions. In fact, you might have been chosen because you are in the unique position to resolve each of the prophecies together.&lt;NEXTPAGEBUTTON&gt;"It wouldn't be the first time."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="13" huntingZoneId="183" prevId="12" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Where do you wish to begin the journey Mystel has set out for you?&lt;NEXTPAGEBUTTON&gt;"The Relativity Stone. We need reinforcements."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">A wise choice, I think.&lt;BR&gt;&lt;BR&gt;I suggest you speak with my friend Hagand, head of the Seekers. He has travelled throughout the land, seeking rare relics. He will have useful advice.&lt;BR&gt;&lt;BR&gt;And please take this, as my humble sign of gratitude. It may aid you.&lt;NEXTPAGEBUTTON&gt;"Hagand. Got it. And thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

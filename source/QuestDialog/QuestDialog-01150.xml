@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1010">
+        <Page social="5">The argons are reinforcing as fast as we can kill them. I need you to take the fight to them.&lt;BR&gt;&lt;BR&gt;Head out and kill hulrap bashers, vulnaq threshers, zariik dazzlers and cyclopses, iknephar prelates, kalash sentinels, and syndrene dragoons wherever you find them.&lt;BR&gt;&lt;BR&gt;Report to Sistiren at Khanovar Citadel when your mission is complete.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1002">
+        <Page social="5">Fine work, &lt;PCNAME&gt;. Hopefully, that gives our forces time to forge ahead.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1002">
+        <Page social="0">It doesn't look like you've completed your objectives.</Page>
+    </Text>
+</QuestDialog>

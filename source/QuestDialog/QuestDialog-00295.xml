@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="4">The good news is that there's a regular crew down here. That means any given {@LinkCreature:11#1001#Red Lash bosun} or {@LinkCreature:11#2006#raider} probably saw your dementalith when they were moving it around.&lt;BR&gt;&lt;BR&gt;Now pirates don't usually talk, even under interrogation. Something about a black spot.&lt;BR&gt;&lt;BR&gt;But challenge a few of 'em. Maybe you'll get lucky.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">These were on their bodies? Why would they chip away parts of the magic stone? Unless...&lt;BR&gt;&lt;BR&gt;Unless carrying a chip from the dementalith protects you from exposure to its power.&lt;BR&gt;&lt;BR&gt;I think you're going to have to go right to the top, &lt;PCNAME&gt;: Orless, the Red Lash pirate captain.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">{@LinkCreature:11#1001#Red Lash bosuns} and {@LinkCreature:11#2006#raiders} probably have information on the dementalith...if anyone does.</Page>
+    </Text>
+</QuestDialog>

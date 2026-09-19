@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1047">
+        <Page social="1">The Consos clan has lived in Balder's Refuge for centuries. Empires rose and fell around us, but we never left this place.&lt;BR&gt;&lt;BR&gt;I have some sense of what's happened in the outside world, but my knowledge of what you'd call "current events" is woefully inadequate.&lt;BR&gt;&lt;BR&gt;Walk among the people, &lt;PCNAME&gt;, and hear their stories. Report back to me, but first: truly listen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1037">
+        <Page social="1">Nandu wants a retelling of popori history since the god Balder's death? Has he got a spare month?&lt;BR&gt;&lt;BR&gt;Very well. Tell him this. The elin royalty leads us from {@Rgn:68001$$Pora Elinu}. Rida, one of the princesses, was in Balder's refuge recently, and maybe Nandu met her.&lt;NEXTPAGEBUTTON&gt;"Tell me more."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Well, the goddess Elinu hid us away from the world for centuries, but then she disappeared. We should know better than anyone: no one can seal herself away like Elinu. The popori and elin joined the federation as soon as we learned that the argons were destroying the world, not just conquering it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1036">
+        <Page social="1">The history of the high elves should be well known, even to a recluse such as Nandu.&lt;BR&gt;&lt;BR&gt;Perhaps he seeks the perspective of a learned high elf, however, rather than hearing tales of glory secondhand. So be it.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Just a summary, please."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Elven society flourished and was the envy of the world, until an accident caused the Flower of Life, the source of all Allemantheia's power, to cascade out of control.&lt;BR&gt;&lt;BR&gt;Only the sacrifice of the greatest elven mind brought the magic under control again, in the form of a living artifact called the Core.&lt;BR&gt;&lt;BR&gt;Today the high elves are one of many races in the Valkyon Federation, but as always, elves lead by example. My people kindly and gently correct our less-refined brethren.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="1034">
+        <Page social="1">Nandu knows that gods often strive against gods. For centuries, he has lived where the noblest of gods, Balder, died at the hands of his divine enemies.&lt;BR&gt;&lt;BR&gt;After the Divine War, the surviving gods were all safe. Until recently.&lt;BR&gt;&lt;BR&gt;But now...Akasha? Dead. Killian? Dead. Thulsa? Dead. All at the hands of the same mortal. Isn't that so, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"I didn't act alone."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Are you being modest or cautious, I wonder?&lt;BR&gt;&lt;BR&gt;You need not reveal yourself, but you might mention to Nandu that everyone—the Mysterium, the federation, the argons, the gods themselves—is watching the mortal who killed those gods.&lt;BR&gt;&lt;BR&gt;I wonder how this mortal god-killer withstands such scrutiny. But I bet you don't have to wonder, do you?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="3" villagerId="1047">
+        <Page social="1">Three tales from three storytellers. An interesting current events lesson for me.&lt;BR&gt;&lt;BR&gt;And an interesting psychology lesson for you.&lt;NEXTPAGEBUTTON&gt;"How so?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Consider this, &lt;PCNAME&gt;: Did the storytellers teach you about history, or did they inadvertently teach you about themselves?</Page>
+    </Text>
+</QuestDialog>

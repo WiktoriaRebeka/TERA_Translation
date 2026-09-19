@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2000" prevId="0" villagerId="20403">
+        <Page social="5">Thanks for waiting &lt;PCNAME&gt;.&lt;BR&gt;I've just finished inspecting the gland.&lt;BR&gt;&lt;BR&gt;For some reason, the toxicity of the gland is far more severe compared to the ones I inspected at home. This makes me wonder...&lt;BR&gt;&lt;BR&gt;Just how do other creatures live alongside this toxic creature?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"You got me there."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">If we can figure that out, it might be a big step toward the cure.&lt;BR&gt;&lt;BR&gt;First, I'll need stingers of the nearby eyestalkers.&lt;BR&gt;&lt;BR&gt;I've watched the butterflies and the stinger is their most common diet. I'm certain that it'll give us a clue.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20403">
+        <Page social="5">Excellent. That should be enough. Now, it's time to analyze the stingers.&lt;BR&gt;&lt;BR&gt;Wait! Don't go. Just give me a minute. There's something else I need you to do for me.&lt;BR&gt;&lt;BR&gt;Thanks for helping me out.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" villagerId="20403">
+        <Page social="0">Without enough samples, I can't continue the research.</Page>
+    </Text>
+</QuestDialog>

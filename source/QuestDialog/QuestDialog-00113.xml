@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1022">
+        <Page social="0" voiceTypeId="0">Will you help us?&lt;BR&gt;&lt;BR&gt;Pangari is a great magician, very powerful, but without the &lt;font color='#660000'&gt;{@RawItem:206818}&lt;/font&gt;, for his potions, he can do nothing!&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;{@RawItem:206818} can be gathered from Crimson Essence. If you can't find any out in the field, then you might be able to buy them...but they're very expensive!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1022">
+        <Page social="0" voiceTypeId="0">Yay! Done, and quickly! This will help Pangari greatly.&lt;BR&gt;&lt;BR&gt;Thank you, thank you!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1022">
+        <Page social="0">Ingredients? Where are the essences of wind? Did you collect them?</Page>
+    </Text>
+</QuestDialog>

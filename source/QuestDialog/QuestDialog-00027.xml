@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1023">
+        <Page social="4">My sister! Have you seen my sister?&lt;BR&gt;&lt;BR&gt;She ran off into the forest. We...we had an argument. She always comes back when she's calmed down, but it's been two days already!&lt;BR&gt;&lt;BR&gt;They say the forest isn't safe anymore, but you look brave. Can you find my sister {@LinkCreature:202#1028#Jerelyn}?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1028">
+        <Page social="4">(It's a corpse. You notice that her necklace has broken, a small segment of the chain remains. There are muddy marks all over her.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1023">
+        <Page social="13">Jerelyn! Jerelyn! No!&lt;BR&gt;&lt;BR&gt;I can't believe she isn't coming back...&lt;BR&gt;&lt;BR&gt;It's all my fault...just a stupid, stupid argument...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1023">
+        <Page social="0">I have a confession to make, &lt;PCNAME&gt;. We were arguing over a necklace that we both coveted.&lt;BR&gt;&lt;BR&gt;Could you get it back for me? I want to bury Jerelyn with it.&lt;BR&gt;&lt;BR&gt;The least I can do is let her win our last argument.</Page>
+    </Text>
+</QuestDialog>

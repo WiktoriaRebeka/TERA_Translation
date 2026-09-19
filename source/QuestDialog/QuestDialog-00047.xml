@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1012">
+        <Page social="4">Oblivion Woods was never this dangerous before. Oh, sure, years ago, perhaps, but not in recent memory.&lt;BR&gt;&lt;BR&gt;It's not just the devas, the earth spirits are aggressive and the dead walk once more. It must all be connected, I just can't prove it yet.&lt;BR&gt;&lt;BR&gt;Would you go through Berzerad Cemetery and bring me spores from {@LinkCreature:3#2#Agitated Sporewalkers}? That would give me a place to start my research.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1012">
+        <Page social="4">Excellent work. This couldn't have been easy. Let me just apply this reagent solution and...oh my.&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">These spores aren't natural or elemental, they're fused with soul energy—souls from our dead.&lt;BR&gt;&lt;BR&gt;This isn't a natural occurrence, but it explains why they're so violent! There may be a way to reverse it, but for now, you'll simply have to kill them.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" villagerId="1012">
+        <Page social="0">If you search &lt;font color='#660000'&gt;Berzerad Cemetery&lt;/font&gt;, you'll find plenty of sporewalkers. Just bring me their spores.</Page>
+    </Text>
+</QuestDialog>

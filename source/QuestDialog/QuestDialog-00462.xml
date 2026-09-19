@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1011">
+        <Page social="5">My land was east of here. I was in the fields when the cult came to evict us. They killed my older brother and hung him on a scarecrow!&lt;BR&gt;&lt;BR&gt;I want revenge! I've been in this camp a week, but nobody will help.&lt;BR&gt;&lt;BR&gt;Friend, will you kill {@LinkCreature:17#301201#Heavens Fall captains} and {@LinkCreature:17#101#partisans}? They have to bleed for what they've done!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1011">
+        <Page social="5">Yes. Yes! At last, some payment! I can smell the blood staining the ground. This was for you, Firla! Blood for blood! Here, soldier. May nature smile on you.</Page>
+    </Text>
+</QuestDialog>

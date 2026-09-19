@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="230" prevId="0" villagerId="9903">
+        <Page social="2" voiceTypeId="0">&lt;PCNAME&gt;, have you ever seen a Golden Octopus?&lt;BR&gt;&lt;BR&gt;I heard one of those tourists talking about it, and now I want to see one for myself!&lt;BR&gt;&lt;BR&gt;But the eye-witness testimony of a trusted Fishing Association member such as yourself is just as good. How about looking into it?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You caught a Golden Octopus at Seren's Lake so the Lake Fairy can follow her dreams.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="1" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Let me guess–you want to know about the octopus right?&lt;BR&gt;Believe me, I saw it.&lt;BR&gt;It was as big as five barakas!&lt;BR&gt;The fairies of the lake chased it away before I could come up with any more similes.&lt;NEXTPAGEBUTTON&gt;"Fairies of the Lake?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">What, you've never seen fairies do strange things? Anyway, I gave them a piece of candy for their efforts, and now we're best friends&lt;BR&gt;&lt;BR&gt;If you want to talk with one, try sprinkling some Star Candy on that Starlight Lotus over there.&lt;BR&gt;You don't have any Star Candy? It's a must-have for travelers!&lt;BR&gt;&lt;BR&gt;I'll make you a deal–if you bring me a Seafood Mushroom Salad, I'll give you a Star Candy.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1043">
+        <Page social="4" voiceTypeId="0">You got the salad!&lt;BR&gt;&lt;BR&gt;Okay, take this Star Candy, and sprinkle it on that Starlight Lotus over there.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1043">
+        <Page social="0">Did you get the salad?&lt;BR&gt;You can buy the ingredients from the Fishing Supplies vendor. Most of them, any way. You'll need to do a bit of fishing as well.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="4" villagerId="9906">
+        <Page social="4" voiceTypeId="0">Did you prepare this sweet treat?&lt;BR&gt;&lt;BR&gt;I do love candy, but we don't get much of it underwater. Maybe if that darned Golden Octopus would leave us alone, I could start the underwater candy shop I've always dreamed of.&lt;BR&gt;&lt;BR&gt;Say, how about you catch that Octopus for me?&lt;BR&gt;You can keep the fish, and I'll reward you for your time.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="6" villagerId="9906">
+        <Page social="4" voiceTypeId="0">You actually caught it!&lt;BR&gt;Thanks to you, all my dreams are about to come true.&lt;BR&gt;Here, this is your reward.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="9906">
+        <Page social="0">Did you get the Golden Octopus?&lt;BR&gt;Tough, isn't it? Take your time.</Page>
+    </Text>
+</QuestDialog>

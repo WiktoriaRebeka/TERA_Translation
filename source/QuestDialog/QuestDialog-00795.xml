@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;The Blood Guard is gaining a foothold against us.&lt;BR&gt;&lt;BR&gt;Eliminate the {@LinkCreature:33#10#Blood Guard mages}, {@LinkCreature:33#11#berserkers}, {@LinkCreature:33#12#lancers}, {@LinkCreature:33#60#sorcerers}, {@LinkCreature:33#61#reapers}, {@LinkCreature:33#62#champions}, and {@LinkCreature:33#70#arcanists}.&lt;BR&gt;&lt;BR&gt;Report to Celion when mission is complete.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="4">It's a reward from the federation. Blessings to all the members of the guild!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    </Text>
+</QuestDialog>

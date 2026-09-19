@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="4">Ruanal has been asking for help in the Halls of Gloom. I think he just gets lonely in there. I know I would.&lt;BR&gt;&lt;BR&gt;Anyway, report to him.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1028">
+        <Page social="0">Rotting bodies everywhere I look. What's worse, they never stop moving. You have to do something.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:20#30011002#Cruel taskmasters} and {@LinkCreature:20#30011001#slave overseers} have been forcing the {@LinkCreature:20#30039000#zomporis} to mine thermionic deposit nodes around here for quite some time. I don't know what they intend to do with all that ore, but history tells me the answer won't make me dance for joy.&lt;BR&gt;&lt;BR&gt;Get rid of them all—slaves and masters alike—and collect any thermionic deposit nuggets they've gathered. Studying the nuggets might tell us what they're up to.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="3" villagerId="1004">
+        <Page social="4">Did Ruanal send this ore? This is something new.&lt;BR&gt;&lt;BR&gt;I'll send it off for examination straightaway.&lt;BR&gt;&lt;BR&gt;Good job.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="220" villagerId="1004">
+        <Page social="0">I heard Ruanal has something he wants me to see?</Page>
+    </Text>
+</QuestDialog>

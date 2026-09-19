@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1007">
+        <Page social="5">At ease, soldier. We've got our hands and paws full at the moment, so an unattached soldier is a real boon.&lt;BR&gt;&lt;BR&gt;I want you to find {@LinkCreature:223#1007$$Serelia} as quick as you can. He's in charge of field operations and needs assistance.&lt;BR&gt;&lt;BR&gt;That's where you come in. Dismissed!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1007">
+        <Page social="5">In from Velika? Welcome. We're always short of hands here.&lt;BR&gt;&lt;BR&gt;No need to wait for me to give you work. Just dig in!</Page>
+    </Text>
+</QuestDialog>

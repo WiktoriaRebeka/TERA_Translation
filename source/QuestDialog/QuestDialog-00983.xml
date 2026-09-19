@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="4">One of the Frontera merchants, a fellow named Safna, has broken the quarantine and run out the north gate.&lt;BR&gt;&lt;BR&gt;Ask {@LinkCreature:75#1012#Junith}. He may know where he's going.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1012">
+        <Page social="4">Safna? Don't get me started. I told him we're quarantined, but he knocked me down and ran right past me. I chased him, but he had too good a head start. Last I saw him he was headed to Feral Valley.&lt;BR&gt;&lt;BR&gt;You can look for him, but you'll probably find nothing but bones.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1102">
+        <Page social="12">I won't go back. That swindling decurion, Jeulile, agreed to gather some rare mushrooms for me, but when her messenger brought them, they weren't the ones I asked for. They were poisonous!&lt;BR&gt;&lt;BR&gt;I told him, but he said he was acting on her orders.&lt;BR&gt;&lt;BR&gt;I'm going straight to Feral Valley to give her a piece of my mind and deliver this letter of complaint!&lt;BR&gt;&lt;BR&gt;Of course, it is pretty dangerous out here...&lt;NEXTPAGEBUTTON&gt;"I'll deliver it for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12">You will? Well, if you insist...and you seem pretty trustworthy.&lt;BR&gt;&lt;BR&gt;Tell her come plague, panthers, or anything else, she'll be sorry if she cheats me again!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="4" villagerId="1005">
+        <Page social="4">Poisonous mushrooms? I'm afraid someone must have made a terrible mistake. I'm sorry you had to get involved.</Page>
+    </Text>
+</QuestDialog>

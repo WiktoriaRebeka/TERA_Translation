@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">Something only you can do, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Not all the guardian machines of the Refuge shut down when they should have. {@LinkCreature:71#3007#Bakra} will direct you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="4">Just the &lt;PCCLASS:lcase&gt; I need!&lt;BR&gt;&lt;BR&gt;The gods put this place off limits when Balder died. Put machines in here that build iskaragards. They all shut down when the gods allowed us back in.&lt;BR&gt;&lt;BR&gt;Almost all. An iskaragard almost killed me this morning. Can you hunt it down?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3007">
+        <Page social="4">Thank you, hero. I'd be more lenient if it attacked the sloths as well!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="7" villagerId="3007">
+        <Page social="4">Can't prune the vines if that thing cuts me in two.&lt;BR&gt;&lt;BR&gt;You're a great help, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="71" prevId="8" villagerId="3007">
+        <Page social="4">These things were built to last. Amazing that they're even around to malfunction!&lt;BR&gt;&lt;BR&gt;Our teams still haven't found whatever replaces them.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;pcname&gt;, please come see me when you have the chance. I've prepared a gift for you.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Marmundam opened the Highwatch armory to help outfit you for your next adventure.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2024">
+        <Page social="0" voiceTypeId="0">This is an honor, &lt;pcname&gt;!&lt;BR&gt;Please accept this small token of our apprediation.&lt;BR&gt;&lt;BR&gt;A flying mount, and a pair of skill glyphs.&lt;BR&gt;I hope you'll like them!&lt;BR&gt;</Page>
+    </Text>
+</QuestDialog>

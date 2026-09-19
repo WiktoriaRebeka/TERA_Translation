@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="4">The fierce resistance of the Atel Akaad is frightening. It's as if something were controlling them.&lt;BR&gt;&lt;BR&gt;Go kill the {@LinkCreature:25#1021#devan prelates} and {@LinkCreature:25#1022#skeletal wardens}. We'll see if anything changes. Maybe they're controlling the beasts.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1016">
+        <Page social="4">A psycho-suppressive shackle! So this is how they were controlling the Atel Akaad!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1016">
+        <Page social="0">There must be something that keeps those dread knights leashed.</Page>
+    </Text>
+</QuestDialog>

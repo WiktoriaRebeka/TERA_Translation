@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="5">Greetings, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;No, we haven't met. But everyone's heard of you. Heck, word in the barracks is that Dirken will pay top coin for anything, um, disparaging about you.&lt;BR&gt;&lt;BR&gt;Well, screw Dirken and his dirty money. But others lack both my rugged good looks and my unimpeachable virtue.&lt;BR&gt;&lt;BR&gt;You ought to ingratiate yourself to your new comrades around here. One good way to do that is to hunt a bunch of {@LinkCreature:12#8#Red Lash killers} and bring back their weapons. That'll impress 'em.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1008">
+        <Page social="4">I'll make sure everyone knows that these swords mean "&lt;PCNAME&gt; is here and ready to kick ass."&lt;BR&gt;&lt;BR&gt;And I might send a sword to Dirken with a note that says, "Dear Dirken: When I plucked this sword from a now-dead enemy, I thought of you..."</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1008">
+        <Page social="0">Look, if you just sit around, you'll get a reputation as a lollygagger. No one wants that.&lt;BR&gt;&lt;BR&gt;I mean, just listen to the word. "Lollygagger." I can't say it with a straight face.&lt;BR&gt;&lt;BR&gt;"Lollygagger." Hee hee!</Page>
+    </Text>
+</QuestDialog>

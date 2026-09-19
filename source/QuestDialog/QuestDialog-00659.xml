@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Mission Orders:&lt;BR&gt;&lt;BR&gt;Researchers studying Blessing Basin's ancient relics have requested federation reinforcements. The teralith, Andras, has gone berserk and is attacking anyone who approaches the artifacts. This research is vital, therefore all vanarchs and their guilds are hereby ordered to join the effort to eliminate {@LinkCreature:26#501#Andras}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">Accept the gratitude of the federation! Your guild is an inspiration to all!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    </Text>
+</QuestDialog>

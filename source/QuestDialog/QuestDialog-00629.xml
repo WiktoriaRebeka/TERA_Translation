@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Jelena sent word that Elleon and the rest of his contingent were missing in the Dark Cathedral and asked for your help.&lt;BR&gt;&lt;BR&gt;At the Dark Cathedral, you met with Runha, a ranger like Jelena, and learned that Elleon and his soldiers went through a teleportal in pursuit of a Scion priestess, but were cut off. You were able to help Runha establish a new connection to Cultists' Refuge.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Emergency Call]&lt;BR&gt;&lt;BR&gt;Hello &lt;PCNAME&gt;. &lt;BR&gt;Velika needs you.&lt;BR&gt;&lt;BR&gt;Please find me at Tulufan as soon as you see this.&lt;BR&gt;&lt;BR&gt;—Raciel</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1017">
+        <Page social="4" voiceTypeId="0">Greetings, &lt;PCNAME&gt;. Your stories are well known, even among the federation parliament.&lt;BR&gt;&lt;BR&gt;I heard that you even stopped Samael. Who would have thought that man would become a traitor...he has done so much for the federation.&lt;BR&gt;&lt;BR&gt;Anyways, I thought the messenger was looking for me, but it was you, &lt;PCNAME&gt;.&lt;BR&gt;I'll see you later.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="66" prevId="3" villagerId="1024">
+        <Page social="4" voiceTypeId="0">Are you &lt;PCNAME&gt;? If you're not, we have nothing to talk about.&lt;BR&gt;&lt;BR&gt;Well, if you're sure you are... Jelena sent word for you. Elleon disappeared while tracking down a lead on the Scions of Lok. Inform Baruch and get moving.&lt;BR&gt;&lt;BR&gt;Elleon needs you!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" prevId="4" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Elleon...missing? I pray he's safe.&lt;BR&gt;&lt;BR&gt;Elsine raced toward the Dark Cathedral as soon as she heard. That's not the sort of place an archaeologist should go alone.&lt;BR&gt;&lt;BR&gt;Speak with Centurion Orlaith at Crusader Camp. If she's there, he'll know where she's going.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="225" prevId="5" villagerId="1006">
+        <Page social="4" voiceTypeId="0">Elsine said she was going to the Cathedral Redoubt and should be there now. As for Elleon, we haven't heard from him since he left.&lt;BR&gt;&lt;BR&gt;He was pursuing a priestess. Ackbar? Saskia? What was her name?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="225" prevId="6" villagerId="1022">
+        <Page social="4" voiceTypeId="0">Ah, &lt;PCNAME&gt;. You must have heard the news, too. Elleon and his team went missing inside the cathedral.&lt;BR&gt;&lt;BR&gt;I know there's not much I can do here, but I can't just sit and wait.&lt;NEXTPAGEBUTTON&gt;"So let's do something!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I suppose you're right. It's probably a better idea to get your help. Please go save them.&lt;BR&gt;&lt;BR&gt;It's Prefect {@LinkCreature:225#1027#Rendalf} who first reported Elleon missing. He's waiting at Vindicator Redoubt. Find him, and he'll tell you the details.&lt;BR&gt;&lt;BR&gt;Go to {@LinkCreature:225#2000#Deirin}. He'll make sure to get you there safe.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="225" prevId="7" villagerId="1027">
+        <Page social="4" voiceTypeId="0">You're the famous &lt;PCNAME&gt;? The one who helped capture the traitor Samael, may he rot forever? What an honor! How can I be of service?&lt;BR&gt;&lt;BR&gt;Elleon? He took his team through this teleportal we found on the lowest level of this place...&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">It just stopped working. No one's been able to get through it. Runha and Karus is working on it, but they haven't succeeded yet.&lt;BR&gt;&lt;BR&gt;No doubt they could use your help.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="225" prevId="8" villagerId="1019">
+        <Page social="4" voiceTypeId="0">You must be &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;I'd go through that teleportal right now, but we've got a problem.&lt;BR&gt;&lt;BR&gt;After Elleon and his team went through, one of the Scions, {@linkcreature:25#8041#Libtrixas}, sealed the teleportal.&lt;BR&gt;&lt;BR&gt;We need to take down {@linkcreature:25#8041#Libtrixas} to get the teleportal working again.&lt;NEXTPAGEBUTTON&gt;"Leave it to me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We'll need "mementos of sacrifice"—borne by {@linkcreature:25#8011#Nurkrasid}, {@linkcreature:25#8021#Valursus}, and {@linkcreature:25#8031#Masakrad}.&lt;BR&gt;&lt;BR&gt;After collecting all three, activate the {@linkobject:31#Dimensional Hold} at Chapterhouse.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="225" prevId="9" villagerId="1023">
+        <Page social="4" voiceTypeId="0">The portal is open! Well done! We must hurry, however. Who knows what trouble the others are in!</Page>
+    </Text>
+</QuestDialog>

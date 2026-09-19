@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">Two questions for you, &lt;PCNAME&gt;. And they're related.&lt;BR&gt;&lt;BR&gt;Ever heard the phrase "madder than an mugato nest?"&lt;BR&gt;&lt;BR&gt;You notice the mugato nest just &lt;font color='#660000'&gt;south&lt;/font&gt; of here?&lt;BR&gt;&lt;BR&gt;We can't have a nest that close. Can you drive away the {@LinkCreature:9#200#mugatos}, or at least beat them back some?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">At least this place isn't crawling with mugatos. Literally.&lt;BR&gt;&lt;BR&gt;But they'll be back, I'm sure.&lt;BR&gt;&lt;BR&gt;What pests!</Page>
+    </Text>
+</QuestDialog>

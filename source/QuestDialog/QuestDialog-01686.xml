@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1006">
+        <Page social="0">For justice, peace for Crescentia, and their lost allies, you went into the Bastion of Lok to eliminate the cultists.&lt;BR&gt;&lt;BR&gt;You wiped them out, and killed their leader Murdranak.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1006">
+        <Page social="4" voiceTypeId="0">The report you brought revealed the location of the &lt;FONT COLOR='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=Bastion Entrance"&gt;Bastion of Lok&lt;/A&gt;&lt;/FONT&gt; and gave us the name of their commander—{@LinkCreature:487#101}. Get your final briefing, and head out.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">First, we need to clear the way for your backup.&lt;BR&gt;Basilisks are wandering the Bestial Vale, and they're no small threat.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I want you to clear the path for us.&lt;BR&gt;&lt;BR&gt;You may want to enhance your skills so as to properly face bigger threats.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">The easiest way to do so is by using glyphs.&lt;BR&gt;&lt;BR&gt;Glyphs are activated by glyph points, which you earn every time you level up.&lt;BR&gt;&lt;BR&gt;Every skill has a selection of useful glyphs with you learn it, and you can get more powerful glyphs from Glyph Boxes, specialty shops or leveling up.&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;&lt;img src='img://__Icon_KeyboardShape.Keyboard_k' width='21' height='21' vspace='-6'/&gt; Open your skill window to activate glyphs.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">If you activate the wrong glyph by mistake, just reset your glyph points.&lt;BR&gt;&lt;BR&gt;When you get more powerful glyphs later in your career, they will replace the ones you learn today.&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">One more thing!&lt;BR&gt;&lt;BR&gt;Go to Ausdan after you finish fighting Basilisks.&lt;BR&gt;&lt;BR&gt;I'm heading back to Crescentia.&lt;BR&gt;&lt;BR&gt;Good luck!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="2" villagerId="1006">
+        <Page social="4" voiceTypeId="0">Good for you!&lt;BR&gt;&lt;BR&gt;Remember that how skill works changes depending on what glyphs you choose.&lt;BR&gt;&lt;BR&gt;Over time, you'll settle on the best combinations of skills and glyphs for your combat style.&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Great!&lt;BR&gt;&lt;BR&gt;Don't forget to go to Ausdan after you finish fighting Basilisks.&lt;BR&gt;&lt;BR&gt;I'm heading back to Crescentia.&lt;BR&gt;&lt;BR&gt;Good luck!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="2" villagerId="1033">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! You're back!&lt;BR&gt;Looks like you're going to the Bastion of Lok.&lt;NEXTPAGEBUTTON&gt;"Indeed I am."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="9" voiceTypeId="0">The entrance is right over there. Take the path on my left to the cave entrance. I've seen those cultists going in and out, probably via a &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=Bastion of Lok"&gt;teleportal&lt;/A&gt;&lt;/font&gt;. Grapine's inside in disguise.&lt;BR&gt;&lt;BR&gt;Those wretches killed most of my unit—don't be gentle with them!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="3001" prevId="6" villagerId="1111">
+        <Page social="4" voiceTypeId="0">You're from the Valkyon Federation! Seems like my report was delivered safely.&lt;BR&gt;&lt;BR&gt;Where are your backup units?&lt;NEXTPAGEBUTTON&gt;"They..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We must destroy the Bastion of Lok, so that this never happens again.&lt;BR&gt;&lt;BR&gt;I'll tell you everything I know.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="3001" prevId="7" villagerId="1109">
+        <Page social="4" voiceTypeId="0">This teleportal will exit Bastion of Lok and transport you to the Bestial Vale.&lt;BR&gt;&lt;BR&gt;Go to Isla and tell her the news.&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;The dungeon may not automatically reset if you exit after completing it.&lt;BR&gt;&lt;BR&gt;If necessary, you can reset the dungeon with the command '/dungeonreset' or by using the instance reset button.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="203" prevId="8" villagerId="1006">
+        <Page social="4" voiceTypeId="0">You've cleared out the Bastion of Lok?&lt;BR&gt;&lt;BR&gt;Thank you. Our men will be able to rest in peace now. Without the devas and scions, Arcadia will be safe for a while.&lt;BR&gt;&lt;BR&gt;Please go to Crescentia and report this to Jodoc. Use this teleport scroll if you want to get there faster.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="59" prevId="9" villagerId="1009">
+        <Page social="4" voiceTypeId="0">This news brings me great comfort.&lt;BR&gt;&lt;BR&gt;Dismissed!</Page>
+    </Text>
+</QuestDialog>

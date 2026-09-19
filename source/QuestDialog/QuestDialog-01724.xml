@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You vanquish your inner demons and defeat Khemadia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="508" prevId="1" villagerId="7001">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;... &lt;BR&gt;&lt;BR&gt;You have returned from your inner purgatory, and awakened to your true strength.&lt;BR&gt;&lt;BR&gt;It is time for you to return to the mortal world and face the Black Dragon once more.&lt;BR&gt;&lt;BR&gt;This is my gift, please take it.&lt;BR&gt;Go, and bring peace back to the world...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="507" prevId="3" villagerId="7001">
+        <Page social="0" voiceTypeId="0">The Black Dragon did major damage to the Veil.&lt;BR&gt;But its threat is ended now.&lt;BR&gt;&lt;BR&gt;I must restore the Veil.&lt;BR&gt;&lt;BR&gt;No one will ever set foot in this place again, other than I, Mystel, the Goddess of Fate.&lt;NEXTPAGEBUTTON&gt;"Does this mean that...?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Velika is safe. Velik... myself... we are safe as well.&lt;BR&gt;&lt;BR&gt;But the device that the cultists were using...&lt;BR&gt;I felt a dark energy from it that I've never experienced before...&lt;BR&gt;&lt;BR&gt;We must keep a watchful eye out for their return.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1014">
+        <Page social="0" voiceTypeId="0">It is nice to see you again, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I received a message from the Valkyon Federation. The city of Velika is planning a banquet, and they wanted me to deliver your invitation.&lt;BR&gt;Halran will be there too. The banquet will be attended by numerous luminaries, as well as many of your old friends.&lt;BR&gt;&lt;BR&gt;The invitation is enchanted to transport you to Velika. Just use the invitation when you're ready to go.</Page>
+    </Text>
+</QuestDialog>

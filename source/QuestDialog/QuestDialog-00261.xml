@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1118">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1118">
+        <Page social="4">One of our spies inside the Temple of Dagon reports seeing colorful stones called "stones of joy." She says they &lt;b&gt;shine with five colors&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;No idea why the nagas call 'em "stones of joy," what they're good for, or who made them in the first place.&lt;BR&gt;&lt;BR&gt;But I do know this: you're gonna steal those iridescent nuggets.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1118">
+        <Page social="4">Top men will figure out what these stones do. Top. Men.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1118">
+        <Page social="0">Gathering the stones will annoy the nagas, but it's not a mission imperative. Just keep an eye out, will you?</Page>
+    </Text>
+</QuestDialog>

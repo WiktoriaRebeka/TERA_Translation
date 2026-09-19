@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1018">
+        <Page social="6">Each of us has much to do, but supplies and equipment are thin on the ground.&lt;BR&gt;&lt;BR&gt;We need dracoloth wings to trade in Elenea. Will you gather some for us?&lt;BR&gt;&lt;BR&gt;Avoid Grigelt—he's a force to be reckoned with. The others should be no match for your strength.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1018">
+        <Page social="18">Our many thanks to you for going above and beyond your duty for the greater good.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1018">
+        <Page social="0">We need those dracoloth wings if we are to trade them for much-needed supplies.</Page>
+    </Text>
+</QuestDialog>

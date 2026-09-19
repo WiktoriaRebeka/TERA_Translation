@@ -1,0 +1,84 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="60" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">After getting a leave of absence from the Badge Merchants, Titus accepted &lt;PCNAME&gt;'s request to build a siege weapon. Titus needed "Ruby Durignite", which &lt;PCNAME&gt; retrieved from Barbtail Coulee.&lt;BR&gt;After completing the weapon, &lt;PCNAME&gt; fired the cannon at Exodor, but the attack was reflected and destroyed the federation's firebase near Hana Hot Springs.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">After getting a leave of absence from the Badge Merchants, Titus accepted &lt;PCNAME&gt;'s request to build a siege weapon. Titus needed "Ruby Durignite", which &lt;PCNAME&gt; retrieved from Barbtail Coulee.&lt;BR&gt;After completing the weapon, &lt;PCNAME&gt; fired the cannon at Exodor, but the attack was reflected and destroyed the federation's firebase near Hana Hot Springs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="6003">
+        <Page social="4" voiceTypeId="0">You got them to agree? Impressive.&lt;BR&gt;&lt;BR&gt;That Exodor you were talking about...it's a skycastle, isn't it. To take down a skycastle, I need more than a small forge in a village.&lt;BR&gt;&lt;BR&gt;Why yes, I need setup like Muhrak has.&lt;BR&gt;&lt;BR&gt;We should go meet him.&lt;NEXTPAGEBUTTON&gt;"Let's go."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="6003">
+        <Page social="0">Sorry, but I can't leave without their permission.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="79" prevId="3" villagerId="1036">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;! What brings you all the way here?&lt;BR&gt;Have you come to repair your gear?&lt;BR&gt;&lt;BR&gt;Wait, is that Titus?&lt;NEXTPAGEBUTTON&gt;"Surprised to see him?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">It has been a while. I honestly thought he was dead.&lt;BR&gt;&lt;BR&gt;His weapons, we'd never seen anything like them. He was a hero who never wanted credit, just a challenge&lt;BR&gt;&lt;BR&gt;You always keep good company, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"It is what it is."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Muhrak is inside.&lt;BR&gt;&lt;BR&gt;You can show yourself in.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="411" prevId="5" villagerId="5001">
+        <Page social="0" voiceTypeId="0">Why if it isn't a special guest! My old friend Titus, back after all this time. And &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;I am happy to see you both, but I fear that you've come together for a grand purpose. Am I right?&lt;NEXTPAGEBUTTON&gt;"We need a weapon. A big one"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">A weapon? But yours fits you so well.&lt;BR&gt;&lt;BR&gt;Of course, I could make a better one.&lt;BR&gt;&lt;BR&gt;What are you fighting. Argons? Giants?&lt;NEXTPAGEBUTTON&gt;"think bigger. Much bigger."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Bigger than an argon?&lt;BR&gt;&lt;BR&gt;You should tell me the whole story.&lt;NEXTPAGEBUTTON&gt;"Well..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That is big.&lt;BR&gt;&lt;BR&gt;Alright. let's get to work. It will be just like the old days, Titus. We'll build a weapon worthy of a god!&lt;BR&gt;&lt;BR&gt;Of course, we'll need your help too, &lt;PCNAME&gt;. Someone has to gather materials!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="411" prevId="6" villagerId="6000">
+        <Page social="0" voiceTypeId="0">To build the masterpiece I have in mind, I needed a place like this.&lt;BR&gt;&lt;BR&gt;It's impossible to build such a thing in an ordinary forge.&lt;BR&gt;&lt;BR&gt;We need to talk to Muhrak.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="411" prevId="7" villagerId="6000">
+        <Page social="0" voiceTypeId="0">Time to go to work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Exodor isn't going to destroy itself &lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Where do we go now?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The most important thing I need is Ruby Durignite. Most things we can buy from the Badge Merchants or at the Amadjuak Trading Post, but money isn't the problem here.&lt;BR&gt;&lt;BR&gt;You have to get it at the source.&lt;NEXTPAGEBUTTON&gt;"Ruby Durignite?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I'm not surprised you've never heard of. It's incredibly dangerous, and a carefully kept Mysterium secret.&lt;BR&gt;&lt;BR&gt;You can only find it at Barbtail Coulee in Sienna Canyon. There's a Mysterium research station in the area. This teleport scroll should take you straight there, and they'll give you more details about Ruby Durignite.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="238" prevId="8" villagerId="1031">
+        <Page social="0" voiceTypeId="0">Hello! My name is Zalik. How may I help you?&lt;NEXTPAGEBUTTON&gt;"Do you know what Ruby Durignite is?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Of course, yes. It's a extremely rare Ore.&lt;BR&gt;I've never seen it myself—even my supervisor has only seen it once, and that was back in the Argon War.&lt;BR&gt;&lt;BR&gt;I've heard it's extremly vaulable—and extremely explosive.&lt;NEXTPAGEBUTTON&gt;"Do you know where to find it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">If there's any left around here, it would be deep in the Barbtail Coulee.&lt;BR&gt;&lt;BR&gt;If you're planning to explore the area search for it, you'd better be careful. I've seen many people go in, and very few come back.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="238" prevId="9" villagerId="3000">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;It's good to see you again. What brings you here today&lt;NEXTPAGEBUTTON&gt;"I'm looking for Ruby Durignite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ruby Durignite? You came all the way here alone to find that?&lt;BR&gt;&lt;BR&gt;I know you're a skilled combatant, but some things are best left buried. Although, having seen you in action, I think you might be able to handle it.&lt;NEXTPAGEBUTTON&gt;"Don't worry about me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Take this this potion anyway. It's proof against even the worst burns, and I've always got some with me when I'm in the field.&lt;BR&gt;&lt;BR&gt;Also, you may have to kill a few Dracoloths.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="38" prevId="10" villagerId="3000">
+        <Page social="0" voiceTypeId="0">The Durignite shines brightly, but turns dark red in your hand.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="38" prevId="11" villagerId="153">
+        <Page social="0" voiceTypeId="0">You must be &lt;PCNAME&gt;. Titus is waiting for you.&lt;BR&gt;&lt;BR&gt;Look at that brilliant color...&lt;BR&gt;&lt;BR&gt;I never thought I'd see such a valuable material.&lt;NEXTPAGEBUTTON&gt;"Be careful , it explodes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Umm...okay. I will. You can count on me.&lt;BR&gt;&lt;BR&gt;Say, can you look after Berus for a while? A dracoloth attacked us on the way here and burned him.&lt;BR&gt;&lt;BR&gt;We used Vergos' potion on him, but he's still in severe pain.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Please gather some Salixia Flowers.&lt;BR&gt;&lt;BR&gt;It's not a perfect remedy, but chewing Salixia petals might ease the pain.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="38" villagerId="153">
+        <Page social="0">Do you have the Ruby Durignite with you?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="38" prevId="12" villagerId="154">
+        <Page social="0" voiceTypeId="0">Argh...&lt;BR&gt;&lt;BR&gt;So much pain...</Page>
+    </Text>
+    <Text id="15" huntingZoneId="38" villagerId="154">
+        <Page social="0">Urgh...</Page>
+    </Text>
+    <Text id="16" huntingZoneId="38" prevId="14" villagerId="157">
+        <Page social="0" voiceTypeId="0">Thank you very much. An aman mustn't show weakness, so please, let's keep this between ourselves.&lt;BR&gt;&lt;BR&gt;I won't forget your help &lt;PCNAME&gt;. The day I become a full weaponsmith, I will make you the finest weapon!&lt;BR&gt;&lt;BR&gt;You should hurry to to Firebase Exodor. Master Titus should be done with his new weapon by now.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="182" prevId="16" villagerId="6017">
+        <Page social="0" voiceTypeId="0">You're here, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I heard that you took a visit to Muhrak's Workshop, but I never thought that I'd see Titus again.&lt;BR&gt;&lt;BR&gt;With Titus's new weapon, it's only a matter of time before Exodor falls.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="182" prevId="17" villagerId="6005">
+        <Page social="0" voiceTypeId="0">So...that huge thing is the Exodor you were talking about?&lt;BR&gt;&lt;BR&gt;Take a good look at it while you can. My weapon will soon turn it in to dust.&lt;NEXTPAGEBUTTON&gt;"It might be tougher than the Argons."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nonsense. My weapon's destructive capability is unparalleled!&lt;BR&gt;&lt;BR&gt;It'll only take a single shot.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="182" prevId="18" villagerId="6049">
+        <Page social="0" voiceTypeId="0">I have no doubt that Titus's weapon will take down Exodor for good.&lt;NEXTPAGEBUTTON&gt;"Is there any news?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Not really. We should take it down as fast as we can. Please, you should have the honor of firing the Challenger Cannon.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="20" huntingZoneId="182" prevId="19" villagerId="6016">
+        <Page social="0" voiceTypeId="0">How...how can this be...?&lt;BR&gt;&lt;BR&gt;(Ryshan looks shocked.)&lt;NEXTPAGEBUTTON&gt;"We need to stay calm."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I've never seen such a...&lt;BR&gt;&lt;BR&gt;I cast a barrier as soon as I could... but I couldn't cover everyone...</Page>
+    </Text>
+    <Text id="21" huntingZoneId="182" prevId="20" villagerId="6014">
+        <Page social="0" voiceTypeId="0">That thing reflected my weapon's attack!&lt;BR&gt;&lt;BR&gt;How dare those...!&lt;NEXTPAGEBUTTON&gt;"We should regroup..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That weird purple light almost blinded me.&lt;NEXTPAGEBUTTON&gt;"Purple light?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Right before the Challenger Cannon fired, I saw a flash of purple. You know the rest.&lt;NEXTPAGEBUTTON&gt;"I'm glad you're okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I'm alright...go and take care of the others.&lt;BR&gt;&lt;BR&gt;My weapon didn't work...inconcievable!</Page>
+    </Text>
+</QuestDialog>

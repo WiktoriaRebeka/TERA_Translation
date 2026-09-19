@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="13" prevId="0" villagerId="8001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="13" prevId="0" villagerId="8001">
+        <Page social="4">I'd like to take a closer look at some of these monsters.&lt;BR&gt;&lt;BR&gt;Meet me at the Free Traders Collective Camp. It's just up the road here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="2" villagerId="8027">
+        <Page social="4">The World Tree is obviously our primary concern, but we can't afford to overlook these monsters.&lt;BR&gt;&lt;BR&gt;At the very least, we need to clear up the road. These sickly beasts make it impossible to get by—particularly the basilisks, ovoliths, and orisks.&lt;BR&gt;&lt;BR&gt;You take out a few, I'll take out a few, and I'll meet you over at Dulari's Camp.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="8028">
+        <Page social="4">Good work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;This next round of beats is going to be a bit tougher. Come this way and help me clear out the more brutal of these things—again, with focus on the basilisks, orisks, and ovoliths. Meet me at the Iron Order camp up on the hill when you're done.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" prevId="4" villagerId="8029">
+        <Page social="4">Well done, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I've got a reward here for you—and if you feel like pitching in even more with these monsters, I'm sure the federation will reward you for that, as well.</Page>
+    </Text>
+</QuestDialog>

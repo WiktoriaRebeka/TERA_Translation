@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1014">
+        <Page social="4">A unique opportunity presents itself.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:50#3} is to blame for much of what we see around us. One of the outriders spotted him in the Nest of the Shaper.&lt;BR&gt;&lt;BR&gt;Fight your way past the argon defenses and slay this abominination.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1014">
+        <Page social="6">Maskimxuul's death will slow, if not stop, the argon corruption of this region. We might even see some of the stolen energy diffuse into the land.&lt;BR&gt;&lt;BR&gt;Your timely intervention gives us new options to consider. Thanks.</Page>
+    </Text>
+</QuestDialog>

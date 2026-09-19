@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">Oh no! This whole time I thought that I'd managed to keep the &lt;font color='#660000'&gt;shiny jewelry&lt;/font&gt;, but it looks like they got that, too! It's worth more than everything else!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:5#18#Bauba} specifically asked me to get it for him—those tuwangis must have stolen it to bring it to him.&lt;BR&gt;&lt;BR&gt;Please—either go bring the jewelry back or at least bring back the payment for it!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="7">Well, I can tell you that as of now, I'm cutting my ties with these tuwangi troublemakers. Thank you for getting my things back—at least now I can go and sell them elsewhere.&lt;BR&gt;&lt;BR&gt;Here—I don't have a lot of fluid money right now, but take this for your efforts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">I know I've asked a lot of you, but please. I could really use the help.</Page>
+    </Text>
+</QuestDialog>

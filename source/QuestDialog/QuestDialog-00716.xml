@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1603">
+        <Page social="1">We've got too many sloths in {@Rgn:30001$$Balder's Refuge}, and they're making our lives miserable. Yes, really.&lt;BR&gt;&lt;BR&gt;Wipe out the {@LinkCreature:30#100#jittery sloths}, {@LinkCreature:30#110#sloth slashers}, and {@LinkCreature:30#120#languid sloths}.&lt;BR&gt;&lt;BR&gt;Report to Raciba for compensation.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1089">
+        <Page social="1">You're pretty much doom to sloths, eh?&lt;BR&gt;&lt;BR&gt;Great job.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1089">
+        <Page social="0">Seriously, &lt;PCCLASS:lcase&gt;. They're sloths.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, the recipe is complete!&lt;BR&gt;Meet me on the Island of Dawn.&lt;BR&gt;&lt;BR&gt;- Olivung</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You obtained a Searing Fangspawn's Fire Sac, and successfully retrieved the last piece of the Aspiration Stone.&lt;BR&gt;&lt;BR&gt;Before leaving the Island of Dawn, you received a special gift from Olivung, a lunchbox for Meren.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="1" villagerId="9005">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, you're here just in time! I've finished developing my latest recipe.&lt;BR&gt;&lt;BR&gt;I call it 'Hell's Wings!'&lt;BR&gt;&lt;BR&gt;I just need you to get a {@linkcreature:13#7006#Searing Fangspawn}'s Fire Sac.&lt;BR&gt;&lt;BR&gt;Take care of yourself out there.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Job well done.&lt;BR&gt;&lt;BR&gt;The heat is blistering!&lt;BR&gt;&lt;BR&gt;They say that a Searing Fangspawn's Fire Sac is the most powerful taste one can expereince without dying.&lt;BR&gt;&lt;BR&gt;Just give me one minute!&lt;NEXTPAGEBUTTON&gt;"Umm... alright."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Argh! That almost burned my whiskers off!&lt;BR&gt;&lt;BR&gt;Here, try it!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" villagerId="9005">
+        <Page social="0">I want every gourmet in the land to experience this treat!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="13" prevId="4" villagerId="9005">
+        <Page social="0" voiceTypeId="0">You have to be very cautious when handling a Searing Fangspawn's Fire Sac. It's so insanely hot, it could turn your dish to ashes.&lt;BR&gt;&lt;BR&gt;Don't worry. You're looking at the world's greatest chef! It's going to be crispy on the outside, soft and moist on the inside. You won't believe what you're tasting!&lt;NEXTPAGEBUTTON&gt;"It's a little spicy."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nice feedback!&lt;BR&gt;&lt;BR&gt;I'm thinking it would go well with a sweet sauce.&lt;BR&gt;&lt;BR&gt;Thank you.&lt;BR&gt;&lt;BR&gt;Now that I'm done with the main dishes for the banquet, I should prepare some side dishes.&lt;NEXTPAGEBUTTON&gt;"Going back to Velika?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Eventually. I have some more work to do.&lt;BR&gt;&lt;BR&gt;I've packed a lunchbox with all the dishes I made today. Please give this to Meren.&lt;BR&gt;&lt;BR&gt;Don't worry! I made one for you, too.&lt;BR&gt;&lt;BR&gt;Ah, and of course, here's the last piece of the stone. I'm looking forward to watching the goddess trying my dishes while wearing the Eternal Crown!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Olivung's finally finished? Let me try...&lt;BR&gt;&lt;BR&gt;(Meren samples the dishes)&lt;BR&gt;...These are so good! Such amazing flavors! I don't have to worry about the cuisine now.&lt;BR&gt;&lt;BR&gt;What ingredients did he use to make these?&lt;NEXTPAGEBUTTON&gt;"Well..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">A Bloodbound Teralith's Core, and...what did you say?&lt;BR&gt;&lt;BR&gt;...Searing Fangspawn's Fire Sac and a Fimbrilisk's...&lt;NEXTPAGEBUTTON&gt;"Is there a problem?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I may need to reconsider Olivung's menu choices.&lt;BR&gt;&lt;BR&gt;These dishes use extremely rare ingredients, and I've got hundreds of people to feed.&lt;BR&gt;&lt;BR&gt;I'll talk with Olivung about possible substitutions.&lt;BR&gt;&lt;BR&gt;Did you find the Aspiration Stone?&lt;NEXTPAGEBUTTON&gt;"Here it is."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We're almost there.&lt;BR&gt;&lt;BR&gt;Take this, it should help you retrieve the other stones.&lt;BR&gt;I'll let you know when I have more information.&lt;BR&gt;May the Goddess be with you.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" villagerId="1151">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1012">
+        <Page social="4">Bleakrock depends upon the eldritch shard trade for its economic survival. We'd like to diversify but Allemantheia pays so well for the shards that nothing else is as profitable.&lt;BR&gt;&lt;BR&gt;We're running out of deposits, however.&lt;BR&gt;&lt;BR&gt;We've sent someone along the Ice Trail to look. Would you check in with Dio? Find out if there are other areas to mine.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1006">
+        <Page social="4">Yes, yes—everyone wants to know where the next deposit is. To be honest, our existing mines are just about tapped out, but the plains are showing promise.&lt;BR&gt;&lt;BR&gt;Here, take my report back. It explains everything. Be careful, though. The Junaidar would slit your throat for that report.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" prevId="3" villagerId="1012">
+        <Page social="4">This is bad. These suggestions take us deeper into wendigo territory. We'll be fighting more than mining.&lt;BR&gt;&lt;BR&gt;Take this report to Praetor Nunahd and see if he thinks it possible.&lt;BR&gt;&lt;BR&gt;We chose this life to test ourselves; I only hope we've not bitten off more than we can chew—or that can chew us!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="4" villagerId="1004">
+        <Page social="4">Hmph. Possible, yes. Desirable, no.&lt;BR&gt;&lt;BR&gt;The wendigos present a different threat than the Junaidar. If we have to fight just to mine, we'll lose a lot of lives.&lt;BR&gt;&lt;BR&gt;Well, that magistrate has spoken. I'll get the troops ready.</Page>
+    </Text>
+</QuestDialog>

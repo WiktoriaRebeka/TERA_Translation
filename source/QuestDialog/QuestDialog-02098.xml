@@ -1,0 +1,9 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="20102">
+        <Page social="4">Are you finding your feet in Arborea?&lt;BR&gt;&lt;BR&gt;You’ll have to train hard to get used to your new surroundings quickly.&lt;BR&gt;&lt;BR&gt;Do you want me to give you some training? &lt;NEXTPAGEBUTTON&gt;"What have I got to do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Excellent. If you use {@WorkObject:250001}, you’ll need to defeat the Shadow Warrior that appears. But it’s just a warm-up exercise.&lt;BR&gt;&lt;BR&gt;You can come to me for training any time.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

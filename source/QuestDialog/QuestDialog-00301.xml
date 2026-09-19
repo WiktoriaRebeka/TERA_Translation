@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="4">You look like you could use a nice vacation on the beach, &lt;PCNAME&gt;. So I have just the assignment for you.&lt;BR&gt;&lt;BR&gt;At Cutthroat Harbor is a sailor named &lt;font color='#660000'&gt;Dirken&lt;/font&gt;. He's instigating trouble between Kaia's Sword and the pirates that call that harbor home.&lt;BR&gt;&lt;BR&gt;Yes, they're real pirates, although most of them are stuck on land because a struggle with some nagas left their ships at the bottom of the ocean.&lt;BR&gt;&lt;BR&gt;We can't have a strategically important harbor fall into chaos, for obvious reasons. So keep the peace and keep a low profile—the Justicars are lurking around, too.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1026">
+        <Page social="4">Dirken is a busy entrepreneur. He doesn't have time for the "Whores of Kaia" or whatever you people call yourself.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1024">
+        <Page social="4">Whoa, &lt;PCCLASS:lcase&gt;. A little touchy, eh? Kaia's Sword...that's what I meant to say. Slip of the tongue.&lt;BR&gt;&lt;BR&gt;Anyway, if you're military, let me guess: you're going to "requisition" something from us law-abiding, hard-working folk, right?&lt;BR&gt;&lt;BR&gt;If you ask me, it's worth some coin to get you to play soldier somewhere else.</Page>
+    </Text>
+</QuestDialog>

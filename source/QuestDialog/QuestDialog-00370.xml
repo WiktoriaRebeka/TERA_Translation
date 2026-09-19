@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1126">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1126">
+        <Page social="4">Orcans in the camp below are continuously reinforcing from somewhere. It is only a matter of time before they build to a strength capable of seriously threatening the federation presence on the island. The proper military response is to remove them by force—but the scouts here are all those assigned to the problem.&lt;BR&gt;&lt;BR&gt;An excellent start would be to thin the ranks of {@LinkCreature:13#5#Orcan Raiders} patrolling the edge of their encampment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1126">
+        <Page social="4">Watching orcans run and hide is quite enjoyable. Come back and kill with us any time.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="84" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1209">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1209">
+        <Page social="4">Our man Tapa here has never heard of ground carlams pepper! It's only the most delicious spice ever!&lt;BR&gt;&lt;BR&gt;His grilled pigling is very good, but a little carlams sprinkled on top would really take it up a notch.&lt;BR&gt;&lt;BR&gt;Carlams pepper grows in Tuwangi Mire. The most flavorful peppercorns are those that have been eaten by swamp toads. When dried, they have the most delectible flavor.&lt;BR&gt;&lt;BR&gt;Want to make a little something on the side, soldier? Get some freshly-eaten peppercorns and take them to Huchu in Pora Elinu. He trades fresh for dried straight across.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="68" prevId="2" villagerId="1012">
+        <Page social="5">Fresh carlams peppercorns! I can smell the toad belly on you. These are just right for drying.&lt;BR&gt;&lt;BR&gt;I'll give you this portly bag of recently dried and ground pepper in exchange.&lt;BR&gt;&lt;BR&gt;Do we have a deal?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="68" villagerId="1012">
+        <Page social="0">Bring me that pepper and I'll make it worth your while.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="84" prevId="3" villagerId="1209">
+        <Page social="4">A whole bag!&lt;BR&gt;&lt;BR&gt;Tapa will be blown away by this stuff.&lt;BR&gt;&lt;BR&gt;Thanks, friend.</Page>
+    </Text>
+</QuestDialog>

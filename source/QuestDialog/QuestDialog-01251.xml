@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="79" prevId="0" villagerId="1102">
+        <Page social="0" voiceTypeId="0">Are you heading for the Ebon Tower? I know I can't be much help to you, but I will be praying for your safe return. Please come back safely.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You entered the Ebon Tower and defeated Thulsa, who ran, leaving a trail of blood behind him. Kelsaik was nowhere to be seen...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="1" villagerId="1033">
+        <Page social="1" voiceTypeId="0">The teleportal in the Ebon Tower won't work no matter what you do. There's only one key that works, and it's...&lt;BR&gt;&lt;BR&gt;...Killian's gem? You have it? And you're going in? Here's what we know; it's not much. There are five levels in the tower, and everything is toxic, thanks to Thulsa. Don't forget to use that purification totem.&lt;BR&gt;&lt;BR&gt;But we have faith that you will defeat all threats inside—especially Thulsa!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" prevId="3" villagerId="1501">
+        <Page social="1" voiceTypeId="0">You have activated the teleportal using Killian's gem. A portal to the Ebon Tower is opening.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="251" villagerId="1501">
+        <Page social="0">It's time to use Killian's gem.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="251" prevId="4" villagerId="1501">
+        <Page social="1" voiceTypeId="0">You have investigated the teleportal in the Ebon Tower. Traces of Thulsa's magic sustain it, and it vibrates in resonance with another teleportal nearby...over there!</Page>
+    </Text>
+</QuestDialog>

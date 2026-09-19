@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1023">
+        <Page social="5">The creatures that these Gutrends irritate into coming to bother us is just unbelievable. Now we have the {@LinkCreature:6#2021#great tusk warthogs} to put up with.&lt;BR&gt;&lt;BR&gt;Go put an end to them, would you? I'm tired of looking at them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1023">
+        <Page social="5">Thank you. Hopefully that's the end of that, eh?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="223" prevId="0" villagerId="9906">
+        <Page social="2" voiceTypeId="0">&lt;PCNAME&gt;, I have to apologize to you. I explained to my son that I had help catching dinner, but he was so excited about the eels that he ran out and started telling people what a great angler I am.&lt;BR&gt;&lt;BR&gt;I hate to ask, but can you help me again?&lt;NEXTPAGEBUTTON&gt;"What do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Well...I've renounced fishing, you see, but he expects me to come home with an even bigger fish. I was wondering...&lt;NEXTPAGEBUTTON&gt;"Just tell me what you need."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">I thought that if we caught the biggest fish possible from this Fishery, the Fairy Snakehead, he'll stop expecting more from me.&lt;BR&gt;&lt;BR&gt;I know this is a tremendous favor, but I'll definitely reward you for your efforts.&lt;BR&gt;&lt;BR&gt;I can also give you a little advice–if you want to catch a Big-Ass Fish, you have to do it yourself. They're too crafty to fall for a simple lure on a timer.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Paparong's son was so excited about the fish Paparong brought home that he started bragging to all his friends. &lt;PCNAME&gt; took pity on the poor popori and helped him catch a whopper.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="1" villagerId="9906">
+        <Page social="0" voiceTypeId="0">You really caught it! Hooray! now I can hang up my fishing rod forever!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="9906">
+        <Page social="0">Have you caught the Fairy Snakehead?&lt;BR&gt;&lt;BR&gt;Remember that you have to catch it manually–you'll need to reel it in yourself!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1033">
+        <Page social="4">Heads. That's what I need. Specifically, the heads of the argonomorph ossugon warlords around Raga Kabash. I can't figure out how the argons reprogrammed them!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1033">
+        <Page social="4">With these samples, I think I can reverse engineer the argon's indoctrination techniques for machinery. Well, it's on to the next chamber for you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1033">
+        <Page social="0">I need those heads, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1035">
+        <Page social="4">I know, I know, argons nearby, got to evacuate...what? You're not trying to make me leave? Good. Because I was going to refuse.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="0">The researchers' gauges showed a new, dark magical signature. Leander was intrigued and suggested you both investigate the Shrine of Yurian, where the magic was strongest.&lt;BR&gt;&lt;BR&gt;You recovered the sword Demonbane, which belonged to Elleon. Eria, who seems to have a crush on Leander, confirmed that the blade belonged to the expedition's leader and that the corruption in the blade was demonic magic.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="4">Our initial results showed nothing odd about the creatures on this island, but our latest samples show another energy signature.&lt;BR&gt;&lt;BR&gt;Speak with Eria about these findings. She's erudite about such matters, if a bit stubborn. We'll hope for the best.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1021">
+        <Page social="4">Stubborn? He called me stubborn? Was he looking in a mirror when he said it? Hmph.&lt;BR&gt;&lt;BR&gt;Well, I'll make some allowances since his brother's missing...or worse. What do you have for me?&lt;NEXTPAGEBUTTON&gt;"These gauges have the latest samples."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Let me see.&lt;BR&gt;&lt;BR&gt;Fascinating!&lt;BR&gt;&lt;BR&gt;This magic isn't spiritual or arcane. There's almost something malevolent about it. I sense something in the west.&lt;BR&gt;&lt;BR&gt;Let me see... The Shrine of Yurian. I can feel it flowing from there. It's dark and malevolent energy.&lt;BR&gt;&lt;BR&gt;I hope it helps the poor, stubborn, emotionally bedridden fool.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1008">
+        <Page social="4">What did Eria say?&lt;BR&gt;&lt;BR&gt;Hmmm... So that's it. The Shrine of Yurian, eh? Was that all she said?&lt;NEXTPAGEBUTTON&gt;"She...hopes her information helps."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Interesting. A dark energy, eh?&lt;BR&gt;&lt;BR&gt;Our scouts are watching an orcan force to the south, but it's inconceivable that they're responsible for this.&lt;NEXTPAGEBUTTON&gt;"What's the next step?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Isn't it obvious? We must investigate the {@LinkCreature:213#1036#Shrine of Yurian}. We'll meet up at the shrine itself.&lt;BR&gt;&lt;BR&gt;Don't let any orcans follow us up, however. We're there to study, not fight.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1036">
+        <Page social="4">Hmm. This sword is very familiar, but the energy it radiates is not at all correct.&lt;BR&gt;&lt;BR&gt;Take this to Eria. No doubt, she'll be able to identify the source of this mysterious blight upon the blade.&lt;BR&gt;&lt;BR&gt;Time is of the essence, &lt;PCNAME&gt;. Do not tarry.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="5" villagerId="1021">
+        <Page social="4">This sword is?&lt;BR&gt;&lt;BR&gt;Oh, no! This is Elleon's blade—Demonbane!&lt;BR&gt;&lt;BR&gt;You found it up at the shrine? But how did such dark energy get infused into the blade? I don't understand.&lt;BR&gt;&lt;BR&gt;Worse still, Elleon loved this sword. There's no way he'd part with it or leave it behind. I fear for Leander's tender heart.&lt;NEXTPAGEBUTTON&gt;"So Elleon really is dead?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Let's hope not! Nature forbid!&lt;BR&gt;&lt;BR&gt;No, all I can say for sure is this blade is infused with dark, demonic energy. Very powerful. This isn't good, &lt;PCNAME&gt;. Not at all.</Page>
+    </Text>
+</QuestDialog>

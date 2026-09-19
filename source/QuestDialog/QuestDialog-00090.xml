@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="4">A power source...that's the next step.&lt;BR&gt;&lt;BR&gt;And what power source could be better than fire—especially when you're standing on the very ground where Bahaar, the god of fire, lurks.&lt;BR&gt;&lt;BR&gt;Flamelicked ore, infused with the essence of Bahaar himself. That's what we need.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1133">
+        <Page social="4">The pure power of fire...now for us to command.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1133">
+        <Page social="0">All the mirrors in the world won't help us without flamelicked ore to serve as our power source.</Page>
+    </Text>
+</QuestDialog>

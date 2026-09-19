@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1007">
+        <Page social="4">Arachne is the queen of the spiders. She lives in a system of caves north of Frontera called Arachnaea.&lt;BR&gt;&lt;BR&gt;I want to know if the missing people and the contamination problems we've been facing around here have anything to do with her, or with that place.&lt;BR&gt;&lt;BR&gt;Take these supplies to Tenush at the supply camp outside the lair, then nose around a bit and find out what you can.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1038">
+        <Page social="4">Let me see those. That's it? This isn't enough for our forces out here. How can I support troops without supplies?&lt;BR&gt;&lt;BR&gt;Command just doesn't get it, blast them!&lt;BR&gt;&lt;BR&gt;Well, not your fault, I suppose. Here. Take these supplies to Gatsil at Wary Vigil. Tell him I'll send more when I can.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" prevId="3" villagerId="1001">
+        <Page social="4">These aren't nearly enough. Wasn't Tenush clear about our needs?&lt;BR&gt;&lt;BR&gt;Well, let's be grateful for what we have. There are other units in worse shape.</Page>
+    </Text>
+</QuestDialog>

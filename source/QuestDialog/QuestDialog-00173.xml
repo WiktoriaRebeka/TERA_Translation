@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">How to use Kaia's Binding</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mission Orders &lt;BR&gt;&lt;BR&gt;Mission Details: Bring selective reward item, &lt;font color='#0000FF'&gt;Kaia's binding&lt;/font&gt; from repeatable quest to Dougal in Velika HQ.&lt;BR&gt;&lt;BR&gt;Operation Target: Dougal in Velika HQ</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="5">You brought &lt;font color='#0000FF'&gt;Kaia's binding&lt;/font&gt;. Good job!&lt;BR&gt;&lt;BR&gt;Kaia's binding will help you in your next missions, so you better learn how to use it.&lt;BR&gt;&lt;BR&gt;During your mission, you will have to fight with boss monsters. With Kaia's binding, you can suppress boss monster's abilities by Kaia's power. If you use this wisely, you can kill boss monster alone.&lt;BR&gt;&lt;BR&gt;You can have Kaia's binding from repeatable quest's reward, so use it wisely.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1160">
+        <Page social="0">If you bring &lt;font color='#0000FF'&gt;Kaia's binding&lt;/font&gt; with Kaia's blessing, I will tell you how to use it.</Page>
+    </Text>
+</QuestDialog>

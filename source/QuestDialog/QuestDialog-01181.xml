@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1024">
+        <Page social="4">One of the villagers, {@LinkCreature:249#1018}, hurried to the Eastern Teleport Platform. He's impatient and anxious to study the argons, but he's as deadly as rotten fruit.&lt;BR&gt;&lt;BR&gt;Please, head to the platform and do what you can to help him. I need people with his courage.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1018">
+        <Page social="6">You're here to help? Outstanding. I hoped they'd send me a bodyguard.</Page>
+    </Text>
+</QuestDialog>

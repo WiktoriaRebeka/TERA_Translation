@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1019">
+        <Page social="5">On my way here from Wyvern Watch I saw a wondrous sight. It was a mycanar, a type of nature spirit like a ghilliedhu, and I thought I saw an enormous greatsword thrust into its back.&lt;BR&gt;&lt;BR&gt;I didn't stay to fight it, of course, but I haven't been able to stop thinking about that sword.&lt;BR&gt;&lt;BR&gt;Are you curious yet, &lt;PCNAME&gt;? I certainly am. Find it, and bring me that sword. It's a piece of history.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1019">
+        <Page social="5">This is the sword? But it's not old at all! It's a mystery, &lt;PCNAME&gt;. Perhaps the giants are still about...somewhere. Or perhaps not.&lt;BR&gt;&lt;BR&gt;I love a mystery, don't you?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1019">
+        <Page social="0">Yes, I know that mycanar's big and tough. Why do you suppose I didn't want to fight it myself? Still, I'll pay you well for the sword.</Page>
+    </Text>
+</QuestDialog>

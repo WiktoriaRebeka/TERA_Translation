@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3025">
+        <Page social="1">You must indeed be the sun's chosen champion.&lt;BR&gt;&lt;BR&gt;The greatest mysteries of the temple are hidden from illumination within ancient urns. Release the dimensional mirror from within one of the jars, then you must face {@LinkCreature:425#8005}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="10004">
+        <Page social="1">The sun itself has chosen you as its champion.&lt;BR&gt;&lt;BR&gt;The god Balder placed {@LinkCreature:425#8005} to stand against any who would unjustly seek the temple's ultimate blessing.&lt;BR&gt;&lt;BR&gt;Balder also offers tribute to your courage in the form of a peerless gift.&lt;BR&gt;&lt;BR&gt;May the titans, Arun and Shara, hold you forever within their dream.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="131">
+        <Page social="0">It's almost impossible to get inside this fortress without being seen.&lt;BR&gt;&lt;BR&gt;But that means there some tricks we must use in this place.&lt;NEXTPAGEBUTTON&gt;"What do you mean?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I mean getting rid of those draakons. The draakons are proud and arrogant. Even though they're attacked, they won't call for any reinforcements outside the fortress.&lt;BR&gt;&lt;BR&gt;Defeat them and go to the engine room. Their backup is going to be slower than you think.&lt;NEXTPAGEBUTTON&gt;"What should I do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">We shouldn't run into any trouble if we act step by step. First, take care of the Ravagers over there.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="131">
+        <Page social="0">Good job. Hang on. I'll tell you what to do next.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1042">
+        <Page social="4">Many of our colleagues died during Thulsa's raid, and there was not enough time to take the bodies of the dead with us. The only thing I could do was gather the horns of our fallen comrades into graves of horns.&lt;BR&gt;&lt;BR&gt;Now I wish to return the horns of my friends to their families. Retrieve the horns from the grave and bring them to me.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1042">
+        <Page social="4">Thank you. At last, the horns will return to where they belong.&lt;BR&gt;&lt;BR&gt;Kebal, Duka, and all of you...Once we reclaim the holy ground, I will take your horns to the crypts of your families myself. This I swear.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1042">
+        <Page social="0">I want to return my friends' horns to their families.</Page>
+    </Text>
+</QuestDialog>

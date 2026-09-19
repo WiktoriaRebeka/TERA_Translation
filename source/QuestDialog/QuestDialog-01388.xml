@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1022">
+        <Page social="4">&lt;PCNAME&gt;, Khulil says we're cut off from Sonacria at Broken Bridge Camp by two sikandari fighters, Ctholak and Pothika.&lt;BR&gt;&lt;BR&gt;They've slaughtered everyone who's faced them. Knowing that, they still have to die. Sonacria must be told about Killian's involvement and the growing Atel Akaad presence.&lt;BR&gt;&lt;BR&gt;For the federation!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1008">
+        <Page social="4">You got through? Seems that there's no dross in you!&lt;BR&gt;&lt;BR&gt;I suspected Killian's involvement—that freak loves chaos and mayhem—but the connection to the Atel Akaad scares me.&lt;BR&gt;&lt;BR&gt;Well, there's nothing to do but our duty. Ready for a fight?</Page>
+    </Text>
+</QuestDialog>

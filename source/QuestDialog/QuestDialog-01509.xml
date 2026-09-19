@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You report your success with Tamur to Seir. Seir informs you the airship is ready to take you and the scouts to Northern Arun. Prepare for your new mission by traveling to the Velika Outskirts, secure the supplies, then report to the airship dock.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">(Orders from Dougal]&lt;BR&gt;&lt;BR&gt;You're now officially a Vanguard Scout.&lt;BR&gt;I was worried about support after hearing Kaiator was preparing a massive attack on the argons.&lt;BR&gt;&lt;BR&gt;Now that Kaia granted your dispatch to the Northern Arun, it's time to board the skyships in the Velika Outskirts.&lt;BR&gt;&lt;BR&gt;We must achieve victory for the sake of the world.&lt;BR&gt;&lt;BR&gt;I'll see you on the battlefield.&lt;BR&gt;&lt;BR&gt;—Dougal</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1507">
+        <Page social="4" voiceTypeId="0">Isn't it wonderful? So much bustle and activity!&lt;BR&gt;What can I do for you?&lt;NEXTPAGEBUTTON&gt;"I must go to Northern Arun."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I see. You're going north aboard the sky cruiser? That's great!&lt;BR&gt;&lt;BR&gt;It's much more powerful than our normal airships.&lt;BR&gt;&lt;BR&gt;Bound for Northern Arun and adventure! Doesn't it make your heart race?&lt;NEXTPAGEBUTTON&gt;"Where exactly is this sky cruiser?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">See it there, hovering to the west?&lt;BR&gt;&lt;BR&gt;Listen, the sky cruiser won't leave for the next couple of hours, but I could use some help.&lt;NEXTPAGEBUTTON&gt;"What do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We're coordinating supplies for the sky cruiser, but we've hit a few snags.&lt;BR&gt;&lt;BR&gt;Jemo can put you to work. It's all for your new mission! Done talking.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1242">
+        <Page social="4" voiceTypeId="0">A sight for sore eyes! If we don't get these supplies loaded, my fur will fall out!&lt;BR&gt;&lt;BR&gt;The supply wagon left before we could get the emberbloom oil. Burns slow and doesn't smoke, which makes it ideal for airships.&lt;NEXTPAGEBUTTON&gt;"How much do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Not much! Not much!&lt;BR&gt;&lt;BR&gt;See those sheep? They love to eat emberblooms. Pick a few flowers and bring them to me.&lt;BR&gt;&lt;BR&gt;I'll do the rest.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1242">
+        <Page social="4" voiceTypeId="0">Good, good. Those will do. A little squeeze....&lt;BR&gt;&lt;BR&gt;Done! One crate, just like the quartermaster ordered.&lt;BR&gt;&lt;BR&gt;Just one step left.&lt;NEXTPAGEBUTTON&gt;"Delivering it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Correct!&lt;BR&gt;&lt;BR&gt;A trader named Tonas just left for the airship platform. His wagon's quite slow though, so you can probably catch up.&lt;NEXTPAGEBUTTON&gt;"That's all?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nothing more.&lt;BR&gt;&lt;BR&gt;Thank you!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1242">
+        <Page social="0">You don't have enough. Keep picking emberblooms.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="5" villagerId="1534">
+        <Page social="4" voiceTypeId="0">I didn't see it. It just came out of nowhere and smacked my wagon.&lt;BR&gt;&lt;BR&gt;The horses panicked and tore their harnesses free.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Perhaps I can help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I'm grateful, but the impact cracked my axles. I need to fix the wagon first.&lt;BR&gt;&lt;BR&gt;The trouble is, I don't have anything to improvise for the repair.&lt;NEXTPAGEBUTTON&gt;"So you need wood?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Yes! Those ghilliedhus or mycanars might do the trick, but not without a fight.&lt;BR&gt;&lt;BR&gt;I need a handful of strong boughs. See what you can do while I find my tools.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1534">
+        <Page social="4" voiceTypeId="0">Are they gone?&lt;NEXTPAGEBUTTON&gt;"Who?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">These blasted bears just attacked the wagon! They ate some supplies, cracked my seat, and made me soil my pants before my guards drove them off!&lt;BR&gt;&lt;BR&gt;I need to make up for the lost food.&lt;NEXTPAGEBUTTON&gt;"Would bear meat do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hah! It would indeed. Velik bless you!&lt;BR&gt;&lt;BR&gt;Thank you, thank you so much!&lt;BR&gt;&lt;BR&gt;You bring me some meat, and I'll get these axles fixed.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="1534">
+        <Page social="0">I can't make repairs with less than five boughs. Can you get some more?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="1534">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, you're the best!&lt;BR&gt;&lt;BR&gt;I'll get this shipment to the airship dock and buy some new horses.&lt;BR&gt;&lt;BR&gt;Thanks again. May Velik guide you on your hunt!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="1534">
+        <Page social="0">Time is running out, soldier.</Page>
+    </Text>
+</QuestDialog>

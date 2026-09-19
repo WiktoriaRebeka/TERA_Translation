@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">You want a gilded feather? Sorry, but I made myself a promise: I don't make those anymore.&lt;BR&gt;&lt;BR&gt;It's the downy struthio feathers, you see: The Shariar made struthio-poaching illegal. It's not worth it to me to invoke their wrath.&lt;NEXTPAGEBUTTON&gt;"But I already have this feather..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">You've already got the feather? Well, the Shariar only enforce the "no-hunt" law, so I guess I could make one more.&lt;NEXTPAGEBUTTON&gt;"Great news."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Sorry, but the valiant fighters of the Shariar made struthio-hunting a crime. My advice is to sell off your xermetal ore and luria fibers and forget all about struthio feathers.</Page>
+    </Text>
+</QuestDialog>

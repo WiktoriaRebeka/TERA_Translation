@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="3004">
+        <Page social="0">&lt;PCNAME&gt; spoke to a goblin and baraka about the archdevans' activities in Ex Prima.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="3004">
+        <Page social="4" voiceTypeId="0">We must gather information about the archdevas' activities, but the Seekers will not be all that useful. Let us seek another.&lt;BR&gt;&lt;BR&gt;There is a goblin, Jagreg, who can be found east of Baaldaz Post. Ask him if he has seen any archdevas around.&lt;NEXTPAGEBUTTON&gt;"I'll talk to him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Stay away from Jagreg's moneytrees, &lt;PCRACE:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Jagreg saw them first! That makes them Jagreg's pecunia fruit!&lt;NEXTPAGEBUTTON&gt;"Hmm. I can get them for you...for a price."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">...trade? Alright.&lt;BR&gt;&lt;BR&gt;Jagreg agrees! Get them now!&lt;NEXTPAGEBUTTON&gt;"Okay, wait here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Hah! Jagreg is rich!&lt;BR&gt;&lt;BR&gt;Good work, &lt;PCRACE:lcase&gt;. Now, what you want to know?&lt;NEXTPAGEBUTTON&gt;"What are the archdevas doing?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Archdevas? &lt;PCRACE&gt; dies soon, Jagreg thinks.&lt;BR&gt;&lt;BR&gt;Archdevas digging up the past. Don't know why.&lt;NEXTPAGEBUTTON&gt;"Do you know where?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Kamun.&lt;BR&gt;&lt;BR&gt;Kamun knows where. Kamun watches archdevas. Studies. Kamun dies soon too, Jagreg thinks.&lt;BR&gt;&lt;BR&gt;Ask Kamun.&lt;NEXTPAGEBUTTON&gt;"Enjoy your pecunia fruit, Jagreg."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1010">
+        <Page social="4" voiceTypeId="0">The archdevas have numerous camps in this region. Any one of them could prove the locus of their Storm Barrier apparatus.&lt;NEXTPAGEBUTTON&gt;"Which one is most likely?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">An excellent question!&lt;BR&gt;&lt;BR&gt;The best way to find an accurate answer is to interrogate an archdeva or two—but they are notoriously dishonest. I have only been able to obtain accurate intelligence by judicious application of truth needles.&lt;NEXTPAGEBUTTON&gt;"Any chance you have a spare?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Alas, my supply is depleted. I was just now preparing to mount an expedition to collect more components—but if you would undertake that task, I would be willing to make one for you.&lt;BR&gt;&lt;BR&gt;Simply acquire some glittering scales from the nearby chupathingies.&lt;NEXTPAGEBUTTON&gt;"All right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Were you successful in obtaining the glittering scales?&lt;NEXTPAGEBUTTON&gt;"All in a day's work."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" villagerId="1010">
+        <Page social="0">Still searching for glittering scales? Ascertaining the truth requires it.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="6" villagerId="1010">
+        <Page social="4" voiceTypeId="0">You have done well. Now just give me a moment...and...there!&lt;BR&gt;&lt;BR&gt;May this truth needle serve you well.&lt;NEXTPAGEBUTTON&gt;"Thank you, Kamun."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

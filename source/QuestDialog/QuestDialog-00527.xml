@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1009">
+        <Page social="4">I sent a scout to watch the Crag Stalker kulkari two days ago. No word since. I don't have more scouts, so I'm sending you.&lt;BR&gt;&lt;BR&gt;Head out the west gate and find {@LinkCreature:221#1047#Hebbin}. If she's alive, get her report. If she's not, scout them out yourself and report back.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1047">
+        <Page social="4">The captain was worried? Huh. Well, I just couldn't sneak away, is all.&lt;BR&gt;&lt;BR&gt;Strangely, the kulkari aren't up to anything in particular. It's been oddly quiet.</Page>
+    </Text>
+</QuestDialog>

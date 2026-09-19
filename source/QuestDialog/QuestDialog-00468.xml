@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1001">
+        <Page social="4">This place was once the center of the giants' empire. It's ruined now, of course, but...it was once so great.&lt;BR&gt;&lt;BR&gt;It's so exciting to be among so much history! I'm here studying the ancient city—or I was before the kulkaris arrived.&lt;BR&gt;&lt;BR&gt;As soon as they're gone, though...I'll be back out there.&lt;NEXTPAGEBUTTON&gt;"Can I help in the meantime?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Well, I can't get back to my research unless I explore outside the camp. If you're willing to brave it, you could investigate the giants' relics in Mags Kurata to the north and Mags Kuchanaru to the west.&lt;BR&gt;&lt;BR&gt;Any fragments with anything that looks like writing would be wonderful.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1001">
+        <Page social="4">It's amazing how the giants were able to make such beautiful, delicate things. You always imagine them as clumsy and oafish.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;. We can learn more about the area with these and gain an edge over our enemy.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1001">
+        <Page social="0">Your hands are empty. Have you not gone out yet?</Page>
+    </Text>
+</QuestDialog>

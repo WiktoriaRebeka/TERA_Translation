@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1004">
+        <Page social="0">Iron-Eating Monster Hunting</Page>
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1004">
+        <Page social="4">You know {@LinkCreature:249#1013}, right?&lt;BR&gt;&lt;BR&gt;He went to study the {@Rgn:50008}. Alone.&lt;NEXTPAGEBUTTON&gt;"Is that dangerous?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Yes. The zariik spodas near the {@Rgn:50008} could tear him to pieces. He's not a soldier.&lt;BR&gt;&lt;BR&gt;If you can keep him alive, I'll owe you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1002">
+        <Page social="6">How amusing! I was just wondering how I'd get out of here alive, and then you suddenly show up!&lt;BR&gt;&lt;BR&gt;You possess a remarkable facility for fortuitous intervention.</Page>
+    </Text>
+</QuestDialog>

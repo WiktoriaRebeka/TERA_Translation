@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="27" prevId="0" villagerId="565">
+        <Page social="0">Zeihenne is a former Essenia Guard who witnessed the crash. Since then she has been analyzing the movements of Mournwings and Murderwings.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="27" prevId="0" villagerId="565">
+        <Page social="4" voiceTypeId="0">Say, can you help me with something? I've been studying Mysterium reports on the strange giant butterflies infesting the Stronghold of Blood, and have noticed a disturbing pattern.&lt;BR&gt;&lt;BR&gt;Normally, butterflies descend on an area, ravage it, then return to a central point.&lt;BR&gt;&lt;BR&gt;But these show no signs of leaving the Stronghold of Blood, which is a serious problem for our evacuation plan.&lt;NEXTPAGEBUTTON&gt;How can I help?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">One of my men is in the fortress, gathering data.&lt;BR&gt;&lt;BR&gt;If you don't mind, please find Kierhan and help him out.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="27" prevId="2" villagerId="564">
+        <Page social="4" voiceTypeId="0">These creatures maintain certain numbers, no matter how many I kill.&lt;BR&gt;&lt;BR&gt;Why they're here... where they came from... we've got too many questions and not enough answers.&lt;BR&gt;&lt;BR&gt;You up for a bug hunt?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;Am I ever!&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">With both of us hunting, we should make a big dent in their numbers.&lt;BR&gt;&lt;BR&gt;Hopefully, I can see some sort of pattern in their migrations, that should tell us what they're doing here.&lt;BR&gt;&lt;BR&gt;Hopefully.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="27" prevId="3" villagerId="564">
+        <Page social="4" voiceTypeId="0">You're back.&lt;BR&gt;I was right!&lt;BR&gt;The newer butterflies are following a different flight pattern. It's almost like they're...searching for something.&lt;BR&gt;&lt;BR&gt;We've got to get this report to Ziehenne!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="27" prevId="4" villagerId="565">
+        <Page social="4" voiceTypeId="0">According to this data, the central point of the migration must be...here.&lt;BR&gt;&lt;BR&gt;That's where we should start looking. And by we, I mean you.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="27" prevId="5" villagerId="567">
+        <Page social="4" voiceTypeId="0">What was that?&lt;BR&gt;I've never seen something like it...&lt;BR&gt;&lt;BR&gt;You seem to know something.&lt;BR&gt;&lt;BR&gt;Does that have anything to do with those crazy giant butterflies?&lt;NEXTPAGEBUTTON&gt;"It's complicated..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">If you ever see something like that again, try and capture it alive!&lt;BR&gt;&lt;BR&gt;It would be an invaluable research subject.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="0">Real simple, &lt;PCCLASS:lcase&gt;. A bounty on {@LinkCreature:9#430#gula gutslashers}.&lt;BR&gt;&lt;BR&gt;What are they wanted for? Crimes against the federation, including homicide, cannibalism, and just being fat and disgusting.&lt;BR&gt;&lt;BR&gt;Bring back butcher knives for proof, eh?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1011">
+        <Page social="4">You got knives, I got cash. Let's settle up.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1011">
+        <Page social="0">Just look at the creature and ask yourself, "Could it be any fatter or uglier?"&lt;BR&gt;&lt;BR&gt;If the answer is no, then it's a {@LinkCreature:9#430#gula gutslasher}.&lt;BR&gt;&lt;BR&gt;Or your mom.</Page>
+    </Text>
+</QuestDialog>

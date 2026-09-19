@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="5" voiceTypeId="0">Those wraiths—they're the only creatures in here I feel sorry for.&lt;BR&gt;&lt;BR&gt;You don't kill them so much as you set them free.&lt;BR&gt;&lt;BR&gt;So...set a whole bunch free, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Their bodies died long ago, but now their souls can return to the Dream. That enriches us all.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1031">
+        <Page social="0">Please—even wraiths deserve better than this.</Page>
+    </Text>
+</QuestDialog>

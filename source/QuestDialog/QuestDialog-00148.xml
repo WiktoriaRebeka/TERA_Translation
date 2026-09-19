@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1029">
+        <Page social="5">Once we get the mission to kill the Gutrend chief underway, the rest are going to start coming after us in huge waves. We'll want to drop as many as we can before that happens.&lt;BR&gt;&lt;BR&gt;Go out and kill as many as you can before we get started. Keep a special eye out for the {@LinkCreature:6#2081#Gutrend Seers} and {@LinkCreature:6#2082#Juggernauts} in &lt;font color='#660000'&gt;Mags Kulkar&lt;/font&gt;. They'll be the hardest to deal with when the time comes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1029">
+        <Page social="5">Great, good, excellent! You've done a good job. Hopefully that will hold them back once the real job starts.</Page>
+    </Text>
+</QuestDialog>

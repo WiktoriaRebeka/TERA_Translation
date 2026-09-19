@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1028">
+        <Page social="4">The argons were up to something here in Raga Shadi—I just know it. &lt;BR&gt;&lt;BR&gt;Not many clues, though. Just the thick, keratinized skin of {@LinkCreature:46#303#argonomorph blood fiends}. It's a grisly task, but could you gather some, um, "fresh" skin so I can compare with the, um, "vintage" samples I have?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1028">
+        <Page social="4">Now I get to employ the taxidermy skills my uncle taught me. Not exactly how I thought I'd put that skill to use.&lt;BR&gt;&lt;BR&gt;Raga Evala needs your help more than I do here...unless you were a taxidermist before the war? No? I thought not.&lt;BR&gt;&lt;BR&gt;Bring them this. It's a simple wildflower that's been argonized. Creepy, but rather interesting.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1028">
+        <Page social="0">Please bring me the keratinized skin of the argonomorph blood fiends. It's for research, not trophies.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1029">
+        <Page social="4">You have an intact argonized wildflower? So far we've just found fragments.&lt;BR&gt;&lt;BR&gt;The argons are clearly capable of transforming the vegetation of an entire region, but we don't know how they do it, much less how to stop it.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1033">
+        <Page social="5">It's bad enough that you can't tell day from night in the crypt. But those destroyers will keep you from getting any rest.&lt;BR&gt;&lt;BR&gt;Killian left them behind—something about stealing the rest of Saleron's power.&lt;BR&gt;&lt;BR&gt;And if you see any of our scouts, tell them to return to base. We don't need scouts to tell us these crypts are endless and overrun with the enemy.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1026">
+        <Page social="6">Return to camp? Fine by me!&lt;BR&gt;&lt;BR&gt;I've got news to report anyway: It's not just Killian's minions down here.&lt;BR&gt;&lt;BR&gt;The argons are down deeper...and I've even seen them up here on occasion.&lt;BR&gt;&lt;BR&gt;So yes, I'll return to base. I'm a scout, not a martyr.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" prevId="3" villagerId="1033">
+        <Page social="10">That took longer than I thought it would, &lt;PCNAME&gt;. Everything all right?&lt;BR&gt;&lt;BR&gt;Argons? Here?&lt;BR&gt;&lt;BR&gt;Things just got very bad, didn't they?</Page>
+    </Text>
+</QuestDialog>

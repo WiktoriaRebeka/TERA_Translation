@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1003">
+        <Page social="4">Can you find my brother? He left a few days ago to get some materials for the shop, but I haven't seen him since. His name's Pattek.&lt;BR&gt;&lt;BR&gt;More and more villagers are getting kidnapped, and I just...&lt;BR&gt;&lt;BR&gt;Can you go look for him for me?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="2" villagerId="1024">
+        <Page social="0">(One old box has "Pattek" inscribed on it. Footprints around the box lead toward Tenebrous Mines.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="3" villagerId="1002">
+        <Page social="0">I can't...there's not enough information. I don't know what happened.</Page>
+    </Text>
+</QuestDialog>

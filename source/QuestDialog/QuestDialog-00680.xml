@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1106">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1106">
+        <Page social="1">Have a few minutes, soldier? I have a mission that requires ability and brains. I hear you have both.&lt;BR&gt;&lt;BR&gt;The local {@LinkCreature:30#10#ashpelt gorillas} are being overrun by aggressive, invasive sloths. No, really. Sloths.&lt;BR&gt;&lt;BR&gt;The gorillas don't attack unless provoked, but the sloths are fiercely territorial! &lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">We're gathering gorillas in a protected area by the Bastion's gates to save the population.&lt;BR&gt;&lt;BR&gt;Take one of these fruits that the gorillas like and lead one of them into the enclosure. We'll do the rest.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:30#10$$gorillas} are gentle, but watch out for sloths.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="30" villagerId="23">
+        <Page social="0">(The gorilla's eyes are locked on the fruit, but it seems nervous about coming too close.)&lt;BR&gt;&lt;BR&gt;(If you move slowly toward the enclosure, it should follow.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="1104">
+        <Page social="1">Handsome creatures, aren't they?&lt;BR&gt;&lt;BR&gt;A shame the sloths are driving them off.&lt;BR&gt;&lt;BR&gt;Even the naturalists among us would be quite happy if those clawed nightmares died off.</Page>
+    </Text>
+</QuestDialog>

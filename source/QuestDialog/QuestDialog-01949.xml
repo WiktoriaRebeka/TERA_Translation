@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1703">
+        <Page social="4">&lt;PCNAME&gt;, the organization needs your help with a rather unusual task.&lt;BR&gt;&lt;BR&gt;Fish in this area stink so bad that they're inedible, but in the forest west of here is a mushroom that eliminates the odor and adds a delicious flavor. Tasty and profitable!&lt;BR&gt;&lt;BR&gt;Can you gather some fragrant mushrooms for me? I know mycology isn't your thing, but I also know rewards are very much your thing.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1703">
+        <Page social="4">Oh, yes! Mushrooms! We sell these in volume on a daily basis. Strictly for cuisine, mind you.&lt;BR&gt;&lt;BR&gt;The organization profits, and our profits are your profits.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" villagerId="1703">
+        <Page social="0">This fishy smell is terrible! Bring me some fragrant mushrooms as soon as you can.</Page>
+    </Text>
+</QuestDialog>

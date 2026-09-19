@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="4">Victory is in our reach, and we can do nothing about the enemies lurking in our path. We're stuck here, waiting to advance, while the {@LinkCreature:25#1011#devan reavers} pick us off.&lt;BR&gt;&lt;BR&gt;Help us make way by killing those you can catch. It should take you no time at all, and you can catch up to Elleon when you're finished.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1008">
+        <Page social="4">Great job! Those scouts have to fall back—now they can see what they're really up against. We'll be able to catch up with the advance party in the cathedral!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1008">
+        <Page social="0">If you can't take out more of those {@LinkCreature:25#1011#devan reavers}, we can't advance.</Page>
+    </Text>
+</QuestDialog>

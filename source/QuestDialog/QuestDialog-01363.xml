@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1013">
+        <Page social="4">You going out there?&lt;BR&gt;&lt;BR&gt;Our volunteer scout, Jabran, is overdue. I sent him to find the leader of the runekeepers.&lt;BR&gt;&lt;BR&gt;Little hairball's probably dead, so his mission's yours. Find and kill the head runekeeper.&lt;BR&gt;&lt;BR&gt;And if you find Jabran's body, bring it back here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1020">
+        <Page social="4">Hey! You down from Blackspring? I was on the way back there when I ran across these ghostly horrors here. Stopped to take a look.&lt;BR&gt;&lt;BR&gt;Hah! I knew Selia was sweet on me! Almost feel guilty makin' her worry.&lt;BR&gt;&lt;BR&gt;Almost.</Page>
+    </Text>
+</QuestDialog>

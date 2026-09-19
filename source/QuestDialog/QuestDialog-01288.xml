@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1041">
+        <Page social="4">You're federation? Will you help the mandrakes? Will you help the fey?&lt;BR&gt;&lt;BR&gt;Can you speak to Pedicel?&lt;BR&gt;&lt;BR&gt;Can you save Seeliewood?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="79" prevId="2" villagerId="1042">
+        <Page social="5">Are you brave? Are you strong?&lt;BR&gt;&lt;BR&gt;Didn't the goddess Isren task the fey with protecting nature against corruption?&lt;BR&gt;&lt;BR&gt;Where are our federation allies when the fey need help?&lt;BR&gt;&lt;BR&gt;Will you take this scroll and join the fight in Seeliewood?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" prevId="3" villagerId="1028">
+        <Page social="4">Have you ever seen such a beautiful place? Don't you want to help preserve it?</Page>
+    </Text>
+</QuestDialog>

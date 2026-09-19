@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1011">
+        <Page social="4">We're out of supplies, and obviously the wagon train isn't coming soon. Not while we're surrounded, anyway.&lt;BR&gt;&lt;BR&gt;But you know, supply lines pass nearby.&lt;BR&gt;&lt;BR&gt;They're just not our supply lines.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, go requisition us some supplies from Thulsa's troops over there. By force!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1011">
+        <Page social="4">These supplies definitely help. If they keep bringing 'em, and we keep taking 'em, we can hold out here forever!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1011">
+        <Page social="0">I don't feel comfortable using equipment from the walking dead, but beggars can't be choosers, can they?</Page>
+    </Text>
+</QuestDialog>

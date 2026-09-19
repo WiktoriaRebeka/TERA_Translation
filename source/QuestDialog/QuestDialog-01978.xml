@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">You assisted the Consos Clan with the temple by rekindling the Flames of Sacrifice, Honor, and Mercy.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7001">
+        <Page social="0">Under the name of Balder! I am Modan.&lt;BR&gt;&lt;BR&gt;It is my duty to maintain the Flames of Balder, so that all who visit the temple might reflect upon his nobility.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, would you like to take charge of my duties for a short time? &lt;NEXTPAGEBUTTON&gt;"It would be an honor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Visit each of the three flames, in turn. Ensure that they are burning, and do not lack for fuel.&lt;BR&gt;&lt;BR&gt;Spend as much time at each flame as you like; think about what Balder's sacrifice, honor, and mercy mean to you. When you have seen to each of the three flames, return to me here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="8101">
+        <Page social="4">The Flame of Sacrifice is burning brightly.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="8102">
+        <Page social="4">The Flame of Honor is burning properly.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="8103">
+        <Page social="4">The Flame of Mercy is burning warmly.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="3" villagerId="7001">
+        <Page social="4">Thank you for your work. I trust you feel closer to Balder now?&lt;BR&gt;&lt;BR&gt;Ah, I had almost forgotten. Please accept these small tokens of the Consos Clan's appreciation.</Page>
+    </Text>
+</QuestDialog>

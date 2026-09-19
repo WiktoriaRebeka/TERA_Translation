@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1102">
+        <Page social="0">&lt;PCNAME&gt; collected evidence of the murderer by talking to baraka survivors.&lt;BR&gt;Then &lt;PCNAME&gt; encountered a suspicious soldier who said he never heard of Skald Omeros's lyrics, and he was revealed to be an Archdevan Imperial Army infiltrator in disguise.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1102">
+        <Page social="4" voiceTypeId="0">These baraka soldiers were part of a patrol that went missing; the Highwatch guard have been looking for them.&lt;BR&gt;&lt;BR&gt;You should let their captain know that you found them dead, and that you cleansed their souls.&lt;NEXTPAGEBUTTON&gt;"I'll let him know."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1022">
+        <Page social="4" voiceTypeId="0">My apologies, &lt;PCNAME&gt;. I am a bit on edge, and I did not recognize you at first.&lt;BR&gt;&lt;BR&gt;We are looking for members of a patrol that went missing last night. We found some, but there are still a great many missing.&lt;BR&gt;&lt;BR&gt;Have you seen any sign of them?&lt;NEXTPAGEBUTTON&gt;"I found them...murdered in the night by archdevas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I feared as much. The archdevas have become much bolder since Verikam was abducted.&lt;BR&gt;&lt;BR&gt;We found a few of them alive, but they are...not quite themselves. Perhaps if you talk to them, they can tell you what happened—how the archdevas were able to surprise them?&lt;BR&gt;&lt;BR&gt;Check those medicine chests for Composure Philters, and if you find some, give them to any survivors you find. That should bring them back to their senses.&lt;NEXTPAGEBUTTON&gt;"I'll take care of it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1028">
+        <Page social="4" voiceTypeId="0">(Amid the broken bottles and torn bandages, there is a vial marked "Composure.")&lt;NEXTPAGEBUTTON&gt;"This must be it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1026">
+        <Page social="0" voiceTypeId="0">Nuh-nuh...no...not me! Stay back stay back get away from me!&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Easy, soldier. Here, this will ease your suffering."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Nuhh! No! I...I... Do I know you?&lt;BR&gt;&lt;BR&gt;Ahh, it is all coming back to me...&lt;BR&gt;&lt;BR&gt;We were walking patrol when my comrades began screaming and running. I do not know what started it, but moments later I was gripped with a blind panic as well! Something...something that moved with insane speed was following us!&lt;BR&gt;&lt;BR&gt;But now the panic has passed, thank you. Am I the only survivor?&lt;NEXTPAGEBUTTON&gt;"I'm still looking."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1027">
+        <Page social="0" voiceTypeId="0">Have mercy! Mercy! Oh, please—spare my life, or at least take it quickly!&lt;NEXTPAGEBUTTON&gt;"Take it easy, there. This should help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">What...? What happened? Where did he go?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! I saw what happened! It was one of us!&lt;BR&gt;&lt;BR&gt;It was someone disguised as a Highwatch soldier! I thought he was a new member of the patrol, but once we were far enough away from the city lights, he attacked us! But it was no mere disguise! He...it somehow instilled blind panic in us all!&lt;BR&gt;&lt;BR&gt;I tell you, &lt;PCNAME&gt;: Something is hiding among us, disguised as one of us... Find it, before any more soldiers die!&lt;NEXTPAGEBUTTON&gt;"You have my word."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1008">
+        <Page social="4" voiceTypeId="0">I said the way is closed.&lt;BR&gt;&lt;BR&gt;If you don't leave right now, I'll hogtie you and leave you on the side of the road for the hyenas!&lt;BR&gt;&lt;BR&gt;Just who do you think you are, you foreign vermin?&lt;NEXTPAGEBUTTON&gt;"Omeros sent me, to give you a message."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Huh?&lt;BR&gt;&lt;BR&gt;Oh, right—Omeros, the...High Seeker. What's the message?&lt;NEXTPAGEBUTTON&gt;"We're coming for you, archdeva!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="7" villagerId="1022">
+        <Page social="4" voiceTypeId="0">An archdeva disguised as a Highwatch guard?&lt;BR&gt;&lt;BR&gt;This is grim news. I must report to the Wiseguard; he will want to ensure that we are not infiltrated like this again.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"What are friends for?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

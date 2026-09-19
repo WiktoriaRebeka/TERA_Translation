@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="5">Know I can trust you, at least. I'm sure Licinza's a spy. Report a spy, they go to jail. But TRAP a spy and you can use them! I can deal with Licinza, but the cult spymaster {@LinkCreature:17#205#Vilastasia} will figure out about the ledger.&lt;BR&gt;&lt;BR&gt;So we kill him. Yes! Perfect. Protect the secret and the spy. Think you can do it?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1023">
+        <Page social="5">Good soldier! Now we send their raiders where we want!&lt;BR&gt;&lt;BR&gt;Winning wars is all about logistics and intelligence. &lt;PCCLASS&gt;, you just helped us with both.</Page>
+    </Text>
+</QuestDialog>

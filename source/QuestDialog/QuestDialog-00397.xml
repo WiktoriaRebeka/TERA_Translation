@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1026">
+        <Page social="0">The vampirs and Lok's cultists were producing dementaliths, the cause of the Mad Blood Disease. After learning of the existence of a production device, &lt;PCNAME&gt; decided to help Jelena break into the Sinestral Manor.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1026">
+        <Page social="4" voiceTypeId="0">Duke Volperon always orders the count and countess to guard the entrance to the manor.&lt;BR&gt;&lt;BR&gt;First, we need to locate the {@LinkObject:5#Countess's Coffin} and {@LinkObject:4#Count's Coffin} to get rid of them. Without them, the duke won't have a clue what's going on until we break into his manor.&lt;NEXTPAGEBUTTON&gt;"I'm on it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I'll be {@linkcreature:216#1028#right outside Sinestral Manor} to see how things go.&lt;BR&gt;&lt;BR&gt;Join me {@linkcreature:216#1028#there} after you take care of the count and countess.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1028">
+        <Page social="4" voiceTypeId="0">You bled those blue-bloods? Well done.&lt;BR&gt;&lt;BR&gt;I've got some bombs...and protection from that sanguine magic.&lt;BR&gt;&lt;BR&gt;First to fight, first to drink! Let's go!</Page>
+    </Text>
+</QuestDialog>

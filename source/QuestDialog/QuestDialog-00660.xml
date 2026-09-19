@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Summoned to Velika, you met with Commander Seir and Priestess Ciebel, and were briefed on the growing crisis in Allemantheia.&lt;BR&gt;&lt;BR&gt;They dispatched you to the high elf capital to meet with Commander Fraya, one of the high elves' greatest heroes. Fraya explained a power struggle was underway and she hoped the influence of an outsider would stabilize things.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5" voiceTypeId="0">Mission Orders&lt;BR&gt;&lt;BR&gt;You are requested and required to return to Velika for immediate reassignment.&lt;BR&gt;&lt;BR&gt;Report to Commander Seir as soon as possible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="5" voiceTypeId="0">Welcome back, &lt;PCNAME&gt;. It's been too long. Reports speak well of you, as I would expect.&lt;BR&gt;&lt;BR&gt;A request for assistance has come to us from Allemantheia, from a person no less notable than Fraya.&lt;NEXTPAGEBUTTON&gt;"Who's Fraya?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">One of their most distinguished commanders.&lt;BR&gt;&lt;BR&gt;I can offer no details, but be delicate and be wary.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Also, Ciebel has asked to speak with you before you leave.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1167">
+        <Page social="5" voiceTypeId="0">You have done well thus far, &lt;PCNAME&gt;. Velik wishes you to know that the shadow that threatened Velika now looms over the desert, and is darker than before.&lt;NEXTPAGEBUTTON&gt;"Thank you for the warning."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Be cautious in Allemantheia—be ever watchful for the danger that lurks in the shadows.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="4" villagerId="1132">
+        <Page social="5" voiceTypeId="0">Welcome to Allemantheia, &lt;PCNAME&gt;. Your flight went well?&lt;BR&gt;&lt;BR&gt;The Desert Jewel is grateful for your assistance, as am I.&lt;BR&gt;&lt;BR&gt;You must be wondering why you were summoned.&lt;NEXTPAGEBUTTON&gt;"Very much."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Power in Allemantheia is shared between the federation, the elders, and the Mysterium. It's a delicate balance. We need an outsider for some very specialized tasks, and your name was agreed upon by all three groups.&lt;BR&gt;&lt;BR&gt;The Mysterium is pleased with you after your work in the Celestial Hills, and your own commanders exult over your cunning and courage.&lt;NEXTPAGEBUTTON&gt;"And the elders?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">More acquiescent than exultant. Still, that is a great victory. I don't want to give you the wrong impressions or mislead you.&lt;NEXTPAGEBUTTON&gt;"Don't mind it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Fraya wants to speak with you directly before we begin. She's not only our greatest soldier, but a true inspiration. Speak to {@linkcreature:72#1103#Arshadh} first.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="5" villagerId="1103">
+        <Page social="5" voiceTypeId="0">Greetings, &lt;PCNAME&gt;. Fraya is waiting for you inside.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="518" prevId="6" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Elleon's new friend arrives at last! Welcome to Allemantheia! Thank you for making the journey.&lt;BR&gt;&lt;BR&gt;There are a number of issues facing this city. Some require a deft touch—an outsider's touch. Sharing power in this city is something of a dance. It's intricate, it requires exquisite timing, and if one missteps, it hurts for a long time.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="518" prevId="7" villagerId="1001">
+        <Page social="5" voiceTypeId="0">As an outsider, you have certain latitude in how you conduct business. Still, there are skeptics. Your work will reflect upon us all.&lt;BR&gt;&lt;BR&gt;Not that there's any pressure.</Page>
+    </Text>
+</QuestDialog>

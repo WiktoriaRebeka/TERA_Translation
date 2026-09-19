@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1012">
+        <Page social="4">It's not that anyone here is afraid of snakes, because no one is. But the nagas are closing in on us from the north, and some of us would be more comfortable if you...discouraged them.&lt;BR&gt;&lt;BR&gt;And as long as you're going north, my colleague Shannow at the Temporary Patrol Camp has been waiting for reinforcement since he made camp days ago. Will you help him?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1021">
+        <Page social="4">We are terribly understaffed here. Fortunately the bears are half-blind. Now if only we could clean up the air.</Page>
+    </Text>
+</QuestDialog>

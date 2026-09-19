@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1115">
+        <Page social="0">Nivek asked you to kill Vekas, the Wicked Tree.&lt;BR&gt;&lt;BR&gt;It was your toughest fight yet, but you prevailed and destroyed the rampant ghilliedhu.&lt;BR&gt;&lt;BR&gt;You then travelled further south to Tower Base, and met Tribune Adria.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1115">
+        <Page social="4">It's tough keeping morale up here. We've lost a lot of people, but those who remain are stronger for the experience.&lt;BR&gt;&lt;BR&gt;Case in point--that crazed ghilliedhu over there, Vekas. I keep the road clear as best I can, but every so often I head over and chop him down to size.&lt;BR&gt;&lt;BR&gt;Say, you've got that "newly-learned skill" look about you. Care to give it a try yourself?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1115">
+        <Page social="4">Well fought, &lt;PCCLASS:lcase&gt;. It might not seem like much, but all we soldiers can really depend on in a place like this are each other.&lt;BR&gt;&lt;BR&gt;Head on up this hill to Tower Base, and give Adria my regards.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1004">
+        <Page social="4">So, another new recruit!&lt;BR&gt;&lt;BR&gt;I can't blame you, as soon as I heard about the Island of Dawn I had to come here myself!&lt;BR&gt;&lt;BR&gt;This is the Northern Overwatch, a campsite for those who protect the Tower Base. We expect you to keep up the good work.&lt;BR&gt;&lt;BR&gt;Follow this road and you will find Tribune Adria at the Tower Base. I'm sure she's waiting for your reports.&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1001">
+        <Page social="4">Welcome to the Island of Dawn, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Our mission here is to protect our researchers from whatever threats they uncover.&lt;BR&gt;&lt;BR&gt;Most of the people you'll meet here are seasoned veterans, due to return home soon. Learn from them while you can, and I'm sure you'll do fine.&lt;BR&gt;&lt;BR&gt;My adjutant, Jorhon, will give you your next orders.</Page>
+    </Text>
+</QuestDialog>

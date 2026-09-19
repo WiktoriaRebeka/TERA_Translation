@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="9999">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="9999">
+        <Page social="4">&lt;font color='#FF0000'&gt;Overwhelm&lt;/font&gt; sends you charging up to 18m. When you encounter a target during your charge, you'll stop and attack, with a high chance of knocking your enemy down.&lt;BR&gt;&lt;BR&gt;The training dummies across from me are well within range. Destroy one, and we'll continue.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="9999">
+        <Page social="4">We're off to a good start, but you still have a lot to learn.&lt;BR&gt;&lt;BR&gt;We'll work on &lt;font color='#FF0000'&gt;Axe Counter&lt;/font&gt; next.</Page>
+    </Text>
+</QuestDialog>

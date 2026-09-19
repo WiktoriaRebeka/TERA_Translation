@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Would you like to do some crafting today? Please say "yes!"&lt;BR&gt;&lt;BR&gt;Wonderful! It's my day off. Not officially. Actually...I told {@LinkCreature:63#3003#Elthienne} I'm sick, so I'm sure she'll need your fine crafting skills.&lt;BR&gt;&lt;BR&gt;See? We both win!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0">Good to see you!&lt;BR&gt;&lt;BR&gt;Taratia is sick, and Barian needs a highly-skilled crafter today. Actually, I'm sure he'll be happier to work with you. And a day without Taratia bugging me is like a vacation day. Deliver your completed work to {@LinkCreature:63#3001#Barian}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3001">
+        <Page social="5">Nice work! Say, you wouldn't want to be the Hands of Velika court crafter, would you? No?&lt;BR&gt;&lt;BR&gt;Sorry, Elthienne put me up to it. You're welcome here anytime.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} has your payment.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft two {@RawItem:206812} and bring your finished work to me.&lt;BR&gt;Thank you in advance.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3001">
+        <Page social="5">Nice work! Say, you wouldn't want to be the Hands of Velika court crafter, would you? No?&lt;BR&gt;&lt;BR&gt;Sorry, Elthienne put me up to it. You're welcome here anytime.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} has your payment.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft two {@RawItem:206813} and bring your finished work to me.&lt;BR&gt;Thank you in advance.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3001">
+        <Page social="5">Nice work! Say, you wouldn't want to be the Hands of Velika court crafter, would you? No?&lt;BR&gt;&lt;BR&gt;Sorry, Elthienne put me up to it. You're welcome here anytime.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} has your payment.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft two {@RawItem:206814} and bring your finished work to me.&lt;BR&gt;Thank you in advance.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="13" villagerId="3001">
+        <Page social="5">Nice work! Say, you wouldn't want to be the Hands of Velika court crafter, would you? No?&lt;BR&gt;&lt;BR&gt;Sorry, Elthienne put me up to it. You're welcome here anytime.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} has your payment.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft two {@RawItem:206815} and bring your finished work to me.&lt;BR&gt;Thank you in advance.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="15" villagerId="3001">
+        <Page social="5">Nice work! Say, you wouldn't want to be the Hands of Velika court crafter, would you? No?&lt;BR&gt;&lt;BR&gt;Sorry, Elthienne put me up to it. You're welcome here anytime.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} has your payment.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3001">
+        <Page social="0">Craft two {@RawItem:206816} and bring your finished work to me.&lt;BR&gt;Thank you in advance.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="3002">
+        <Page social="4">Nice work. You're giving me a run for my money, that's for sure.&lt;BR&gt;&lt;BR&gt;Guess I'd better not take too many "sick" days with you around. I'll be out of a job!</Page>
+    </Text>
+</QuestDialog>

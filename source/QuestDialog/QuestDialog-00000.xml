@@ -1,0 +1,53 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Lumbertown was reeling under an onslaught of refugees from the Fey Forest and Oblivion Woods. The fey races in the Fey Forest were in revolt against the woodcutters, and there were even rumors of dark sorcery in Scarwood.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Mission Orders&lt;BR&gt;&lt;BR&gt;The fey races in Arcadia are assaulting loggers and disrupting timber shipments bound for Velika.&lt;BR&gt;&lt;BR&gt;Report to Garrison Commander Samael.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1137">
+        <Page social="4">Took your time getting here, &lt;PCCLASS:lcase&gt;. You have a problem with authority?&lt;BR&gt;&lt;BR&gt;If so, get over it.&lt;BR&gt;&lt;BR&gt;I'm sending you to Arcadia province immediately. The fey races are attacking loggers, and we haven't seen a supply wagon in days.&lt;BR&gt;&lt;BR&gt;Troius will tell you what you need to know to get to Lumbertown. Get moving!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1107">
+        <Page social="4">The fastest way to Lumbertown is by pegasus, and if I know Samael, the fastest way is what you want. Adela's the flight manager. You probably met her when you landed. She'll get you in the saddle.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1009">
+        <Page social="4">Ready to ride? &lt;BR&gt;&lt;BR&gt;Click on &lt;B&gt;Flight Points&lt;/B&gt; to open up the map of Southern Arun, and select the place you want to go to on the map.&lt;BR&gt;&lt;BR&gt;You want Lumbertown, right? That's north of here.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="60" prevId="5" villagerId="1014">
+        <Page social="4">I need a dozen &lt;PCCLASS:lcase&gt;s, not just one. But you're a start.&lt;BR&gt;&lt;BR&gt;We're trying to keep Velika supplied, even with most of the army at the argon front, but right now it's not possible. Centaurs and faeries are going after loggers, and we can't protect them all.&lt;BR&gt;&lt;BR&gt;Meanwhile, Klaon's got a lot of sick refugees getting sicker. Give him a hand, will you?!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="60" prevId="6" villagerId="1039">
+        <Page social="4">Loggers out of work, rampaging fey, hungry refugees...we're hanging by a thread here.&lt;BR&gt;&lt;BR&gt;The refugees rely on me to keep them healthy, and more arrive every day. Our supply of medicine is almost exhausted—and gods, I'm exhausted, too....&lt;BR&gt;&lt;BR&gt;I thought I'd use some artful gracebloom to make a remedy. Can you get me some? They grow in a field just past the north bridge.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="60" prevId="7" villagerId="1039">
+        <Page social="4">This gracebloom should do the job, I think.&lt;BR&gt;&lt;BR&gt;Give me a moment to mix this up...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="60" villagerId="1039">
+        <Page social="0">Please hurry, &lt;PCNAME&gt;. These refugees aren't getting any healthier. Artful gracebloom might be the only thing between us and a full-blown epidemic!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="60" prevId="8" villagerId="1039">
+        <Page social="4">Give some of this tonic to the sickest refugees. The more of them that drink, the less contagion I'll have to worry about later.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="60" prevId="10" villagerId="1040">
+        <Page social="4">What's happening to me? I'm so sick. I can't even stand up. Why did we come here?&lt;BR&gt;&lt;BR&gt;I just want to curl up and die!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="60" prevId="11" villagerId="1041">
+        <Page social="4">So...cold. So...weak...</Page>
+    </Text>
+    <Text id="13" huntingZoneId="60" prevId="12" villagerId="1042">
+        <Page social="4">Help me. Do something for me. Anything!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="60" prevId="13" villagerId="1043">
+        <Page social="4">The pain...is horrible. Someone make it stop.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="60" prevId="14" villagerId="1039">
+        <Page social="4">I really think this tonic is the answer. Of course there are some odd side effects, but I'm sure I can make the necessary refinements...&lt;BR&gt;&lt;BR&gt;Meanwhile, Centurion Verus at the Woodcutter Palisade might be able to use some of this—he's bound to have some refugees there soon. He's northwest of town.&lt;NEXTPAGEBUTTON&gt;"I can do that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Verus knows a popori by the name of Maon in the Fey Forest who might have some influence with the faeries there. We could use an insider to help us solve this uprising against our loggers.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="202" prevId="15" villagerId="1004">
+        <Page social="4">Ah, potions from Klaon. We might use this camp to house refugees soon, so it's wise to have medicine stockpiled here in advance. I didn't realize Klaon was so well supplied...&lt;BR&gt;&lt;BR&gt;In any case, thanks for the delivery. Anything I can do for you while you're here?&lt;NEXTPAGEBUTTON&gt;"Heard of Maon?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">We're old friends, Maon and I. He knows the woods, and he knows the fey.&lt;BR&gt;&lt;BR&gt;He doesn't come out this way since all the trouble started, but if you need to talk to him, he lives in a cabin west of here with his son. Cute kid.</Page>
+    </Text>
+</QuestDialog>

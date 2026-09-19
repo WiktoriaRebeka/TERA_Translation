@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1111">
+        <Page social="0">The lead researcher in {@Rgn:71001$$Bastion} asked you to visit in order to unravel a prophecy tied to the god Balder's death.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1111">
+        <Page social="1" voiceTypeId="0">A pleasure to see you safe. I hear Thulsa is no more? Well done, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Now, to the point. {@linkcreature:71#1101$$Alais}, the research director in the town of {@Rgn:71001$$Bastion} in {@Rgn:30001$$Balder's Refuge}, has requested someone with experience in...godly matters, let's say. Obviously, I thought of you.&lt;NEXTPAGEBUTTON&gt;"Balder's Refuge?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1111">
+        <Page social="1" voiceTypeId="0">It's not widely known outside Allemantheia.&lt;BR&gt;&lt;BR&gt;It was the home of the gods Balder and Seren, and is where Balder was killed. It's a beautiful place with many gifts for the world, but also some puzzles Alais can't solve.&lt;NEXTPAGEBUTTON&gt;"Why do you need me?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;, you're the first outsider ever to be invited to this facility.&lt;BR&gt;&lt;BR&gt;To be honest, I don't exactly know what you'll be doing here.&lt;BR&gt;&lt;BR&gt;You should have a word with {@linkcreature:71#1101$$Alais} for details.&lt;BR&gt;&lt;BR&gt;Have you ever met him?&lt;NEXTPAGEBUTTON&gt;"Can't say that I have..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">{@linkcreature:71#1101$$Alais} is great in a library, but out of his depth in the field. You, on the other hand? You've stood toe-to-toe with the gods themselves.&lt;BR&gt;&lt;BR&gt;{@linkcreature:71#1101$$Alais} seems to think that's important.&lt;BR&gt;&lt;BR&gt;Before you go, please confirm your identity at the Identifier behind me. Can't be too careful!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1446">
+        <Page social="1" voiceTypeId="0">Yes, I remember you, from when you intervened in the quarrel between me and my sister. I hear you've become quite the war hero.&lt;BR&gt;&lt;BR&gt;But you're still just a soldier...while I am a princess among my people, divinely selected for my might and wisdom. Whatever needs doing in {@Rgn:30001$$Balder's Refuge}, I can handle it on my own.&lt;BR&gt;&lt;BR&gt;You belong on a battlefield, not guarding a bunch of archaeologists.&lt;NEXTPAGEBUTTON&gt;"At least let me escort you there."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">No!&lt;BR&gt;&lt;BR&gt;That is, I can protect myself.&lt;BR&gt;&lt;BR&gt;And besides, I won't be traveling by pegasus!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="4" villagerId="1445">
+        <Page social="1" voiceTypeId="0">(One line, scribbled in fresher ink, catches your eye.)&lt;BR&gt;&lt;BR&gt;("The Sun shall await two: one drawn from soil and strong, and one drawn from air and wise. Through might and wisdom, they will reawaken a long-lost hope.")</Page>
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="5" villagerId="1114">
+        <Page social="1" voiceTypeId="0">You followed me all the way from Allemantheia to return my book? Thank you, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;You didn't read it, did you?&lt;NEXTPAGEBUTTON&gt;"No, Princess."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Good.&lt;BR&gt;&lt;BR&gt;As a princess of the elin, I channel the goddess Seren's will. When she sends me a prophecy or vision, I write it down here. Some of them are personal.&lt;BR&gt;&lt;BR&gt;Um, thank you, &lt;PCNAME&gt;. It would have been embarrassing for this to fall into...indiscreet hands.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="6" villagerId="1101">
+        <Page social="1" voiceTypeId="0">Elsine tells me you did well in {@Rgn:26001$$Blessing Basin}, when you encountered the {@LinkCreature:226#1105$$cenotaphs} that chronicled your deeds. It probably seems long ago to you, eh?&lt;BR&gt;&lt;BR&gt;Your connection to those cenotaphs is why you're here. When the god Balder died, the other gods forbade the mortal races from entering his refuge. Now the ban's been lifted on all but one part of Balder's Refuge.&lt;BR&gt;&lt;BR&gt;To break the seal on Balder's Temple, we need you and one other person.&lt;NEXTPAGEBUTTON&gt;"Princess Rida?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Rida? Yes. I figured it would be either Rida or her sister.&lt;BR&gt;&lt;BR&gt;Either sister would be suitable. I gather Rida is somewhat headstrong?&lt;NEXTPAGEBUTTON&gt;"They're both stubborn."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Arin is more politically minded than Rida, so perhaps it's best that we're saddled with Rida.&lt;BR&gt;&lt;BR&gt;To unlock the temple, we need a "hero of earth"—that would be you—and a "wise spirit of the air." Rida will do for that.&lt;BR&gt;&lt;BR&gt;You will need to work together. Can you convince her?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="7" villagerId="1114">
+        <Page social="1" voiceTypeId="0">Both of us? Hmm. That explains something I've been wondering about.&lt;BR&gt;&lt;BR&gt;You're a capable fighter, so you could be of some use in that regard. I'll allow it. You may protect me while I figure out how to open the temple. Seren must have told {@LinkCreature:71#1101$$Alais} that we'd be coming.&lt;BR&gt;&lt;BR&gt;How much do you know about this place?&lt;NEXTPAGEBUTTON&gt;"It was Balder's home."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Not just Balder's home—it was also home to Seren, patron of the elin. The refuge is full of Seren's natural beauty and Balder's kindness. Balder's own creations still tend and protect this most sacred of sacred ground.&lt;BR&gt;&lt;BR&gt;It's also a target. A clan of baraka tends an archive left over from the ancient empire of the giants. I've heard that some of those baraka were actually here when Balder died.&lt;BR&gt;&lt;BR&gt;Consider what that means.&lt;NEXTPAGEBUTTON&gt;"They'd...be very old?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">So old they'd be dead! And whatever keeps them alive is nothing compared to what's preserving the temple itself.&lt;BR&gt;&lt;BR&gt;It's Balder's legacy. If you're exploring the refuge with me, I need to know you'll treat it with the proper respect.&lt;BR&gt;&lt;BR&gt;Ask Alais what we need to do, and give some thought to respect, hmm?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="71" prevId="8" villagerId="1101">
+        <Page social="1" voiceTypeId="0">Rida agreed? Excellent! Elsine was right about you.&lt;BR&gt;&lt;BR&gt;The refuge has already taught us much. Who knows what other secrets Balder's temple contains?&lt;BR&gt;&lt;BR&gt;The sooner we unseal the temple, the sooner we can learn its secrets and put them to use for the federation.</Page>
+    </Text>
+</QuestDialog>

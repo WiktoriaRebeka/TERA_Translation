@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1014">
+        <Page social="4">Those big mushrooms you see release contaminating spores—part of the argons' contamination plan.&lt;BR&gt;&lt;BR&gt;They're remarkably tough, but explosives work quite well, so I'll give you some.&lt;BR&gt;&lt;BR&gt;When you run out of bombs, stop by {@Rgn:47008$$Eastwatch} and see if they need anything.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1018">
+        <Page social="4">They say the argons are gone, but this place is so crowded with their leavings that we haven't been able to plant the saplings the faeries sent us from Seeliewood. It's all we can do to maintain a close perimeter.</Page>
+    </Text>
+</QuestDialog>

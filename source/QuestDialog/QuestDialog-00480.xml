@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">You can help me, can't you? You'd have to be better than my incompetent assistant. I'll share everything I learn about the giants with you. Good, right?&lt;BR&gt;&lt;BR&gt;Okay then, please go hunt some {@LinkCreature:18#11#wheelwatch golems} and see if you can find more &lt;FONT COLOR='#660000'&gt;fragments&lt;/FONT&gt;.&lt;BR&gt;&lt;BR&gt;Those fragments will have the academic world crawling at my feet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">Excellent! Oh, the history in these inscriptions—I just can't get enough history!&lt;BR&gt;&lt;BR&gt;Ooh, this seems like propaganda. Intrigue!&lt;BR&gt;&lt;BR&gt;I can't wait to look into this further. Thank you for your help!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">Still here? You dawdle an awful lot, don't you?</Page>
+    </Text>
+</QuestDialog>

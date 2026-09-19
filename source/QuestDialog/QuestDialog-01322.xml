@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1012">
+        <Page social="4">We're understrength and desperately afraid. People disappear overnight and no one sees them taken. Doesn't help that the woods aren't safe, either.&lt;BR&gt;&lt;BR&gt;If you're looking to do some good, we'll take it.&lt;BR&gt;&lt;BR&gt;Talk to Master Yedwin of the &lt;font color='0000ff'&gt;Explorer Guild&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="80" prevId="2" villagerId="1020">
+        <Page social="4">The situation's grim. Between the disappearances and the unseelie, things are tough. We're isolated here—it's too dangerous to push through to Susurrus Woods or Amena Quatla.&lt;BR&gt;&lt;BR&gt;We need basic supplies. Bring Thaqib some hyena hides and he can protect the troops better.&lt;BR&gt;&lt;BR&gt;Can't miss the hyenas. They're lurking around the village.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" prevId="3" villagerId="1017">
+        <Page social="4">Thanks. I can use these. I don't know what good it'll do, though. People disappear no matter how many soldiers we field.&lt;BR&gt;&lt;BR&gt;Kaia grant me courage. I don't want to live in fear.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="255" villagerId="1017">
+        <Page social="0">Those hyenas make it tough for supplies to get to us or to the other outposts. Getting rid of them serves two goals.</Page>
+    </Text>
+</QuestDialog>

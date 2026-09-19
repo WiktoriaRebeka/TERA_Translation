@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="2029">
+        <Page social="0">While chasing Mihog, you learned the demokrons actually were Parthians, transformed via cruel experiments. Enraged, the Khirian commander Rhodos swore revenge.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="2029">
+        <Page social="1" voiceTypeId="0">(This barrel is too neat compared to the dusty barrels around. And someone seems to have moved it recently.)&lt;NEXTPAGEBUTTON&gt;Move the barrel&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="822" prevId="2" villagerId="2003">
+        <Page social="1" voiceTypeId="0">Archdevan sorcerer? She ran right past me, with Zolyn and the popori right behind her!&lt;NEXTPAGEBUTTON&gt;"Okay, thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="822" prevId="3" villagerId="2012">
+        <Page social="1" voiceTypeId="0">Zolyn went after her. If you hurry, you can catch up to her and kill that damned archdeva!&lt;NEXTPAGEBUTTON&gt;"What about Rhodos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I'll talk to Rhodos...calm him down. You worry about the archdevan sorcerer!&lt;NEXTPAGEBUTTON&gt;"Consider it done!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2010">
+        <Page social="1" voiceTypeId="0">This overcautious buffoon suspected a trap and wouldn't let me get by! Now we've lost the archdevan sorcerer's trail.&lt;NEXTPAGEBUTTON&gt;"Don't blame him too much."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

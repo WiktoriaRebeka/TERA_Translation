@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">Noruks are normally docile enough, but damned if they don't get skittish at the slightest magical twinge.&lt;BR&gt;&lt;BR&gt;I need you to kill several {@LinkCreature:13#300921#noruks} and bring samples of their fur up to Neziir at the Northern Overwatch.&lt;BR&gt;&lt;BR&gt;Think you can manage? Noruks are a little tougher than ghilliedhus.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1004">
+        <Page social="4">You've done well &lt;PCNAME&gt;! Thank you!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1004">
+        <Page social="0">Watch out for the noruk's charge attack. It's deadly!</Page>
+    </Text>
+</QuestDialog>

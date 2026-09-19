@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="9905">
+        <Page social="2" voiceTypeId="0">Cold...it's so cold.&lt;BR&gt;&lt;BR&gt;All I can think of right now is a warm bowl of Fish Soup.&lt;BR&gt;&lt;BR&gt;I'd make it myself, but I can't leave my post to gather the necessary ingredients.&lt;BR&gt;&lt;BR&gt;Say, if I give you the recipe, would you make some for me?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Ainve asked &lt;PCNAME&gt; for help making a refreshing beverage. After catching a Silver Trout, Jakren was able to brew a special beer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="1" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Thank you!&lt;BR&gt;Thank you!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="9905">
+        <Page social="0">Is the soup ready?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="3" villagerId="9905">
+        <Page social="4" voiceTypeId="0">I really appreciate you helping me out with that soup, and I was wondering if you'd be willing to do me another favor.&lt;BR&gt;&lt;BR&gt;My friend Jakren is looking for some Silver Trout to brew a special beer.&lt;BR&gt;&lt;BR&gt;I promised him I'd get some after my shift, but now that you're here we can speed the process up a bit.&lt;BR&gt;&lt;BR&gt;Can you help us out?&lt;NEXTPAGEBUTTON&gt;"Actually, I can."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Go straight north and you'll see a patch of Crane Flowers.&lt;BR&gt;&lt;BR&gt;Silver Trout can't resist the stuff!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="83" prevId="5" villagerId="9905">
+        <Page social="4" voiceTypeId="0">You got the flower!&lt;BR&gt;Good work. Now, crush the flower into juice and spread it evenly over your bait.&lt;BR&gt;&lt;BR&gt;You'll have success in no time.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="83" prevId="6" villagerId="9905">
+        <Page social="0" voiceTypeId="0">You caught the Silver Trout! Now we're ready. This shouldn't take too long.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="83" villagerId="9905">
+        <Page social="0">Any luck with the Silver Trout?&lt;BR&gt;Just spread the juice on your bait and we'll be drinking beer in no time.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="83" prevId="7" villagerId="9905">
+        <Page social="4" voiceTypeId="0">Thank me? No, thank you!&lt;BR&gt;&lt;BR&gt;Here, have a beer!</Page>
+    </Text>
+</QuestDialog>

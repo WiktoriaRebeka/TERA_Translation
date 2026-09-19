@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="0">Help Canen preparing the recruits who will board Elkaia. The recruits seem uneasy on such long expedition.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1566">
+        <Page social="4">This isn't the first mission north, you know. We sent another group not too long ago.&lt;BR&gt;&lt;BR&gt;No one likes to talk about it, but we fear the worst. Take care of yourself, &lt;PCNAME&gt;. The federation can't afford to lose you, too.&lt;BR&gt;&lt;BR&gt;Please check with Caenia to make sure all the personnel are prepared.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1532">
+        <Page social="4">&lt;PCNAME&gt;? I greet you. I've read of your exploits. Nice to work with a soldier like you.&lt;BR&gt;&lt;BR&gt;Unfortunately, some of the others are as formidable as a bucket of apples. Can you round them up? I think your presence might inspire them.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1535">
+        <Page social="4">Stomach... cramping. Gods above, what did we eat?&lt;BR&gt;&lt;BR&gt;Can't go back... like this...&lt;BR&gt;&lt;BR&gt;Find... Tilda. Bring us a cure.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1564">
+        <Page social="4">Those fools! I warned them not to drink my elixirs. The concentration is too strong. They're poisoned!&lt;NEXTPAGEBUTTON&gt;"What's the cure?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Well, my entire stock is loaded aboard the sky cruiser. I don't have any tonics.&lt;BR&gt;&lt;BR&gt;We could use macerated herbs…that is, already chewed.&lt;BR&gt;&lt;BR&gt;Disgusting, I know, but it will save their lives.&lt;BR&gt;&lt;BR&gt;Probably.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1535">
+        <Page social="4">Ack! What foul poultice is this? It's worse than vampir blood!&lt;BR&gt;&lt;BR&gt;What about Actol? Hurt, er, help him, too.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1535">
+        <Page social="0">What did the apothecary say?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="1536">
+        <Page social="4">I knew Eduyar grabbed the wrong elixir. My guts feel like a dracoloth is rampaging around inside.&lt;BR&gt;&lt;BR&gt;Gack! What is this? Are you trying to speed my return to the Dream?&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1532">
+        <Page social="4">Poisoned? And you saved them by feeding them… Hah!&lt;BR&gt;&lt;BR&gt;That'll teach them to pilfer our supplies. Nicely handled.</Page>
+    </Text>
+</QuestDialog>

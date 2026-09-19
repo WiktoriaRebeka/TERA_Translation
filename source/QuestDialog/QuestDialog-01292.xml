@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1044">
+        <Page social="4">The creatures of this wood bond with the faeries, acting as companions and guardians both. They protect the fey against outsiders, even your federation.&lt;BR&gt;&lt;BR&gt;But since the epidemic started circulating, the gutripper sabertooths have turned against the healthy faeries, too!&lt;BR&gt;&lt;BR&gt;Could you trim them back for us?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1044">
+        <Page social="4">Thank you. I see fewer gutripper sabertooths around.&lt;BR&gt;&lt;BR&gt;I am both saddened and relieved. You did what had to be done.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1035">
+        <Page social="4">Pssssst! I'm observing the enemy. I'm also supposed to be guiding some stranded soldiers from the checkpoint north of here back to a safer place.&lt;BR&gt;&lt;BR&gt;Problem is, I can't do both at once. Will you let the checkpoint know that I'll be there as soon as I can? Thanks.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1015">
+        <Page social="4">Ah, a federation soldier at last. The rescue team's on the way, right? Do me a favor and inform Prefect Anelle. Just grab the vine and climb straight up.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" prevId="3" villagerId="1002">
+        <Page social="4">Well, even if you're not the rescue team, it's good to know they'll be here soon. Anything to create a little hope, you know?</Page>
+    </Text>
+</QuestDialog>

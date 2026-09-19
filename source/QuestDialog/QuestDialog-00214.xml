@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1007">
+        <Page social="4">The crocutas have attacked our supply caravan again!&lt;BR&gt;&lt;BR&gt;First it was {@LinkCreature:9#300#armored crocutas}, and we doubled the size of the escort. But now {@LinkCreature:9#310#alpha crocutas} are hitting the caravans, too. And they're eating the guards for lunch.&lt;BR&gt;&lt;BR&gt;Literally.&lt;BR&gt;&lt;BR&gt;Get rid of the crocutas, &lt;PCNAME&gt;, and bring back their hides. We can probably make blankets or something out of them, since we aren't getting supplies anytime soon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1007">
+        <Page social="4">We should be able to tan these before the next cold snap. And certainly before we actually see a supply wagon around here.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1007">
+        <Page social="0">It's not just the supply situation. The {@LinkCreature:9#300#armored crocutas} and {@LinkCreature:9#310#alpha crocutas} are actually inflicting casualties. And we've got few enough soldiers to spare.</Page>
+    </Text>
+</QuestDialog>

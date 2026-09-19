@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="5">Show these feathers to {@LinkCreature:242#1034#Penucha}. He should be able to say for sure if they're mekonari.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1034">
+        <Page social="5">Yes, these are mekonari feathers. But not just any feathers, mind you. These are inscribed wing-tip feathers of the type that are exchanged in an oath-taking ceremony.&lt;BR&gt;&lt;BR&gt;If you found these feathers here, it may mean the mekonari have oath-bound themselves to someone in this place, possibly the nagas who were carrying the feathers.&lt;BR&gt;&lt;BR&gt;The disturbing questions—but ones to which you must find the answers—are...who? And why?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1006">
+        <Page social="5">So now we have mekonaris into the mix. Great. I don't suppose you'd be willing to kill a few more {@LinkCreature:42#1020#mekonari bloodletters}? And some {@LinkCreature:42#230#Dagonite templars}? If you find any proof of this alliance between them, report back here immediately.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="4" villagerId="1006">
+        <Page social="4">So this is the written alliance between the nagas and mekonaris? That's exactly the kind of evidence we were hoping to find. Well done, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Tell Darim on the third level everything we've discussed here. He's a clever one, that Darim.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="242" villagerId="1006">
+        <Page social="0">Did you find what we were looking for? We need proof the nagas and mekonaris have an alliance.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="242" prevId="5" villagerId="1035">
+        <Page social="5">Mekonaris and nagas? Worse and worse. Might explain why the nagas have been so brave lately.&lt;BR&gt;&lt;BR&gt;Give me a minute to think about this and come up with a plan.</Page>
+    </Text>
+</QuestDialog>

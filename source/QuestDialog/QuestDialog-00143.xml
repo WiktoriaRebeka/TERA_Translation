@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="5">So many of our soldiers have fallen to the Gutrends—many of them my friends—and still the Gutrends keep coming.&lt;BR&gt;&lt;BR&gt;The two that plague us the worst are the {@LinkCreature:6#1041#Gutrend kulkaris} and  {@LinkCreature:6#1051#clawtamers}. Go thin out their numbers.&lt;BR&gt;&lt;BR&gt;It will not only help us out, but will give me vengence for those who have fallen.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1020">
+        <Page social="5">I like what you've done out there. I'll fight the ones that remain—it should be fairly low-maintenance from here.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1020">
+        <Page social="0">Have you done the job?</Page>
+    </Text>
+</QuestDialog>

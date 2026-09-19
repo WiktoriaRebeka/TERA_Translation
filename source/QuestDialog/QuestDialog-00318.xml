@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1011">
+        <Page social="5">I heard that you're headed toward Mistmoor Island. Those damned slavers! I managed to escape, but they took my brother. I have to save him before they take him to a slave market and sell him! He yelled out for me to run as they dragged him away.&lt;NEXTPAGEBUTTON&gt;"Where'd they take him?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">They headed east. The market's called the Rain Cages. I can't remember anything else. Please, I beg you. Bring my brother back.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1012">
+        <Page social="4">Who are you? Are you a soldier? Have you seen my brother, Zebulon, by any chance?&lt;BR&gt;&lt;BR&gt; He's alive? What a relief.&lt;BR&gt;&lt;BR&gt;I need a key so I can get out of here. See if you can pinch a key from the {@LinkCreature:12#16#slave watchers}. Don't know which is which, so bring me a few.&lt;BR&gt;&lt;BR&gt;I'll be hiding back here. And, please stay alive.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" prevId="3" villagerId="1012">
+        <Page social="4">So good to be free! Tell our mother we're safe, won't you?&lt;BR&gt;&lt;BR&gt;Also, here's a tip: you'll save yourself a lot of drama if you tell my mother that we promised not to associate with Dirken anymore. I think he set us up to fail!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" villagerId="1012">
+        <Page social="0">Hurry, &lt;PCCLASS:lcase&gt;! If the slavers catch you, they'll lock you up, too!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="4" villagerId="1023">
+        <Page social="4">They're alive? Both of them? Oh, thank the titans!&lt;BR&gt;&lt;BR&gt;But oh, when those boys get home...how dare they make me worry so? And consorting with the likes of Dirken? Did they listen to nothing I told them?&lt;BR&gt;&lt;BR&gt;If only they were more like you, &lt;PCNAME&gt;. You're the perfect example of what happens when you heed the wisdom of your parents.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1018">
+        <Page social="4">You've honored Kaia's Sword through deed and example. You've honored this place with resolute dedication as well.&lt;BR&gt;&lt;BR&gt;So today, we honor a peerless &lt;PCCLASS:lcase&gt; in our ranks.&lt;BR&gt;&lt;BR&gt;Go forth, &lt;PCNAME&gt;, and know that you'll always have a place in the regiment.</Page>
+    </Text>
+</QuestDialog>

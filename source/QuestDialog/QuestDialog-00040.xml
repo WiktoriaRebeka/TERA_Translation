@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1013">
+        <Page social="9">Neacal's got me keeping an eye on the caravan route, but that doesn't mean there's not work to do.&lt;BR&gt;&lt;BR&gt;Foledus lost profits from a whole shipment when the {@LinkCreature:3#300142#devan warriors} attacked. They've probably still got it on them. See if you can recover it. You'll make that castanic's tiny heart sparkle with avaricious glee!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1013">
+        <Page social="8">Foledus'll be right pleased with your work. Run back to Bulwark Camp and give him the good news.&lt;BR&gt;&lt;BR&gt;And if he has any spare ale, bring me some.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1013">
+        <Page social="0">Pick a deva, any deva. Odds are good they've got his loot.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1005">
+        <Page social="4">Blast and damnation! I thought I'd never get these back! Thanks! Bloody devas are always ruining it for others.&lt;BR&gt;&lt;BR&gt;If I get back to town and set up shop, I promise you first pick of the best merchandise—wholesale!</Page>
+    </Text>
+</QuestDialog>

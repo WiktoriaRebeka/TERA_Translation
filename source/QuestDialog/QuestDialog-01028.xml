@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="5">We've detected some alarming magical energy from the northeast quadrant of the third level. Frankly, it seems beyond anything the nagas can do. I suspect the mekonaris.&lt;BR&gt;&lt;BR&gt;Specifically, I suspect the {@LinkCreature:42#910#mekonari witches}. They're smart.&lt;BR&gt;&lt;BR&gt;Killing enough of them may throw a wrench into whatever they're planning. We can hope so, at least.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1036">
+        <Page social="5">I still don't get it. Okay, magical energy. Lots of it. How does that equal bringing back a dead serpent god?&lt;BR&gt;&lt;BR&gt;Well, we did the best thing. Thanks, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

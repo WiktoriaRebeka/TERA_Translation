@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="4">No pirate ship has left, so the dementalith must be upstairs somewhere. And we're gonna track it down.&lt;BR&gt;&lt;BR&gt;Talk to Piarto upstairs. He's gathering intelligence up there. On the way, kill some {@LinkCreature:11#2007#Red Lash slayers} so we don't face such tough resistance on the second floor.&lt;BR&gt;&lt;BR&gt;Oh, and one other thing: Piarto is a master of disguise. No telling what he looks like.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1031">
+        <Page social="4">Otus sent you, right? Good. I was starting to think they'd forgotten about me.&lt;BR&gt;&lt;BR&gt;A dementalith, eh? No, haven't heard anything about it.&lt;BR&gt;&lt;BR&gt;You're welcome to look around, though.</Page>
+    </Text>
+</QuestDialog>

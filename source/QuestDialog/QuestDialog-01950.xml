@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1704">
+        <Page social="4">Expanding markets means expanding profits. We need you to do a little market research, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Find Tryphena at a camp near Azarel's Labyrinth and ask her about "market opportunities." She'll know what you mean.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">You're one of Jax's people, aren't you?&lt;BR&gt;&lt;BR&gt;Tell them I've noticed a lot of traffic in this area, and some of it has a high value/risk ratio. They'll know what I mean.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1704">
+        <Page social="4">High value/risk ratio, she said?&lt;BR&gt;&lt;BR&gt;Take this token of our appreciation, and remember: market research can be lucrative.</Page>
+    </Text>
+</QuestDialog>

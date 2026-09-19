@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1019">
+        <Page social="5">Protecting researchers is like herding hyperactive drunk cats. They don't listen, they go off on their own, and only when they get bloodied do they come whimpering back.&lt;BR&gt;&lt;BR&gt;I've got everyone here, for now. If you could thin out the ranks of {@LinkCreature:7#10#lean hyenas}, that would make our trips a lot safer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1019">
+        <Page social="5">I almost feel bad for the hyenas. Almost. The researchers will be a lot safer now, thanks to you. I know they don't say it very often, but your help is appreciated.</Page>
+    </Text>
+</QuestDialog>

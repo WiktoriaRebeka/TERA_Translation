@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1099">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1099">
+        <Page social="5">Don't be afraid. Batooni not here to kill you. I love peace. Would you help me?&lt;BR&gt;&lt;BR&gt;There's a place called the Tuwangi Mire south of here. Tuwangis were living peacefully there. But the stonehammer tuwangis tricked tuwangis to turn against the humans.&lt;BR&gt;&lt;BR&gt;I will take you to a place called the Marshlands. I can take you there at a blink of an eye, and you can meet with {@LinkCreature:205#1017#Rathe}. Tell him you're there to help tuwangis.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1017">
+        <Page social="5">A tuwangi riding a huge toad sent you? Oh, my, not again...&lt;BR&gt;&lt;BR&gt;It may be an urgent issue for them, but ten people a week come here because of him.&lt;BR&gt;&lt;BR&gt;Who cares if the tuwangi tribes riot against each other? Those little frog-looking things act like they're the center of the world, but all they do is wander around in a pack and strike drums.&lt;BR&gt;&lt;BR&gt;Well, you're here, so I'd appreciate it if you'd help out here at the camp. Beats looking at the "scenery"—a soggy marsh covered in mud.</Page>
+    </Text>
+</QuestDialog>

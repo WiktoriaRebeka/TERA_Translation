@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1110">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1110">
+        <Page social="4">Terrons are primal spirits—although who knows why the titans dreamed them up.&lt;BR&gt;&lt;BR&gt;In any event, terrons are particularly sensitive to magical currents. If we could examine them, it might shed some light on why we were attacked.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:13#300944#terrons} are gathered in small groups along the treeline. Kill them and collect the terronite they carry for study.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1110">
+        <Page social="4">This should be sufficient. And the incessant giggling has stopped—a welcome bonus.&lt;BR&gt;&lt;BR&gt;Let us see. Leander demonstrated this technique...how did it go?&lt;BR&gt;&lt;BR&gt;Ah! There we are. A simple test, but an illuminating one. The terrons bear the corruption of dark magic.&lt;BR&gt;&lt;BR&gt;Interesting.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1110">
+        <Page social="0">Are the samples gathered yet?&lt;BR&gt;&lt;BR&gt;My meager skills should be adequate to this task, but it will be for naught without something to study.</Page>
+    </Text>
+</QuestDialog>

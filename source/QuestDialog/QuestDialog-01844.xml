@@ -1,0 +1,79 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3008">
+        <Page social="4">One of our younger researchers, {@LinkCreature:77#3002#Paruru}, lost his two prized dogs. The problem is we can't risk his safety to find the dogs, so we'd like your help.&lt;BR&gt;&lt;BR&gt;You know, because you're a soldier.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="4">I don't care if the argons turn blue in the face, I'm not working on anything until I know my dogs are on their way back.&lt;NEXTPAGEBUTTON&gt;"Fine. What are their names?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Yes! Prince and Sweetie! Help me find my dogs and I promise to get back to work.&lt;BR&gt;&lt;BR&gt;I know they really like smoked jerky. Use that to coax them home, all right?&lt;BR&gt;&lt;BR&gt;Mmmm...jerky.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="77" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="77" prevId="2" villagerId="3015">
+        <Page social="4">(The dog glares at you, as if expecting you to place a vomit-colored sweater on it.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="77" prevId="8" villagerId="3017">
+        <Page social="4">(The dog glares at you, as if expecting you to place a vomit-colored sweater on it.))</Page>
+    </Text>
+    <Text id="10" huntingZoneId="77" prevId="9" villagerId="3018">
+        <Page social="4">(The dog glares at you, as if expecting you to place a vomit-colored sweater on it.)</Page>
+    </Text>
+    <Text id="11" huntingZoneId="77" prevId="10" villagerId="3019">
+        <Page social="4">(The dog glares at you, as if expecting you to place a vomit-colored sweater on it.))</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="4">Did you give Sweetie the jerky? Is she on her way back?&lt;BR&gt;&lt;BR&gt;You didn't eat all the jerky, did you?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="14" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="15" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="16" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="17" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="18" huntingZoneId="77" prevId="11" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="19" huntingZoneId="245" prevId="11" villagerId="3517">
+        <Page social="4">(The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)</Page>
+    </Text>
+    <Text id="20" huntingZoneId="245" prevId="19" villagerId="3518">
+        <Page social="4">(The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)</Page>
+    </Text>
+    <Text id="21" huntingZoneId="245" prevId="20" villagerId="3519">
+        <Page social="4">(The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)</Page>
+    </Text>
+    <Text id="22" huntingZoneId="247" prevId="21" villagerId="3515">
+        <Page social="4">(The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)</Page>
+    </Text>
+    <Text id="23" huntingZoneId="247" prevId="22" villagerId="3516">
+        <Page social="4">(The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)</Page>
+    </Text>
+    <Text id="24" huntingZoneId="247" prevId="23" villagerId="3517">
+        <Page social="4">(The dog glares back at you with the wary eyes of one forced to wear ribbons in its hair.)</Page>
+    </Text>
+    <Text id="25" huntingZoneId="77" prevId="24" villagerId="3002">
+        <Page social="4">Did you find Prince? Did he eat the jerky? He loves jerky so much he would come running from miles away for it.&lt;BR&gt;&lt;BR&gt;I'm grateful for your help. I promise to work diligently on our research.</Page>
+    </Text>
+</QuestDialog>

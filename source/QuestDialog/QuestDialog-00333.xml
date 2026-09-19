@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0">At Chione's request, you fought Acharak and his minions and recovered a simple-looking feather, then brought it to Centurion Edan.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">If orcans are to blame for the crash, then it was {@linkcreature:13#1002#Acharak} who ordered it.&lt;BR&gt;&lt;BR&gt;We have tracked his movements for weeks, but never have so many orcans gathered in one place.&lt;BR&gt;&lt;BR&gt;He must have overrun the Tainted Gorge Garrison, but a decisive blow will break their morale.&lt;BR&gt;&lt;BR&gt;Kill Acharak and take the Dark Claw tribe's talisman, a black feather. If Centurion Edan still lives, he will know what to do with it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1134">
+        <Page social="4">This token is so small, so simple, yet to the orcans it is a powerful talisman.&lt;BR&gt;&lt;BR&gt;For a courier, Chione has a surprising grasp of tactics. I'm impressed! You did a good job too, &lt;PCNAME&gt;. Thank you.</Page>
+    </Text>
+</QuestDialog>

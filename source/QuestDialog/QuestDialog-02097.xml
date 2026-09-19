@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2500" prevId="0" villagerId="2504">
+        <Page social="4" voiceTypeId="0">I'm Elleon.&lt;BR&gt;&lt;BR&gt;Titus and I are trying to fend off Exodor's invasion.&lt;BR&gt;&lt;BR&gt;We really could use your help.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You’ve helped Elleon destroy Exodor.&lt;BR&gt;&lt;BR&gt;But the other Elleon, the powerful one, has disappeared.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2500" prevId="1" villagerId="2504">
+        <Page social="4">Thank you.&lt;BR&gt;&lt;BR&gt;I would have been in big trouble if it weren’t for you.&lt;NEXTPAGEBUTTON&gt;"I’m glad."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">By the way, that other me was incomparably more powerful than myself.&lt;BR&gt;&lt;BR&gt;Okay!&lt;BR&gt;&lt;BR&gt;I’d better train hard.</Page>
+    </Text>
+</QuestDialog>

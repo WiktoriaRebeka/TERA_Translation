@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1016">
+        <Page social="5">Princess Arin's ordered more herbs to create healing draughts for the soldiers, but with all the bears around the lake, I'd be killed!&lt;BR&gt;&lt;BR&gt;If you could kill off some {@LinkCreature:23#1#bristleback bears}, I could safely complete my work.&lt;BR&gt;&lt;BR&gt;Would you help me? It's for soldiers like you, after all!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1016">
+        <Page social="5">With the bears dead or run off, I can fulfill my quota on time. Thanks for your help! I know it was risky work!</Page>
+    </Text>
+</QuestDialog>

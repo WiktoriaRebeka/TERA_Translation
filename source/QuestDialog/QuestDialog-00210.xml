@@ -1,0 +1,64 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1166">
+        <Page social="0">Elleon needed help proving that Samael is betraying the Valkyon Federation. Samael realized you were onto him and used Bruke to set up a trap, but you managed to escape.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1166">
+        <Page social="4" voiceTypeId="0">Thanks for coming so quickly.&lt;BR&gt;&lt;BR&gt;Samael has deployed the Justicars, his handpicked agents, to Ostgarath. It's the first time he's ever ordered the entire corps to one place.&lt;BR&gt;&lt;BR&gt;He's up to something, and we're going to find out what. Our fame prevents us from intervening directly, but there are other ways, eh?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1166">
+        <Page social="4" voiceTypeId="0">Good enthusiasm, but it's not that simple. Samael didn't get this far without a certain amount of paranoia.&lt;BR&gt;&lt;BR&gt;Samael won't issue orders for Ostgarath to anyone he doesn't trust, but if someone else in the chain of command sent you....Consult with Priestess Ciebel. Perhaps she can facilitate the journey.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1167">
+        <Page social="4" voiceTypeId="0">Recommendation letter?&lt;BR&gt;&lt;BR&gt;Anything to aid the cause of justice. We'll simply tell Samael that your unique skills are required in Ostgarath.&lt;BR&gt;&lt;BR&gt;Even the general would not be so foolish as to deny a request from Velik. She doesn't appreciate it when mortals spurn her...suggestions.&lt;BR&gt;&lt;BR&gt;The arc of your career is quite remarkable. We continue to watch with great interest.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1311">
+        <Page social="4" voiceTypeId="0">So Ciebel is handling troop deployments now? You'd think praying to Velik would be a full-time job. She should leave military matters to soldiers. You don't see me kneeling before the huntress statue every morning, do you? If you're determined to get to Ostgarath, though, I won't stop you. Far be it from me to ignore orders from a goddess.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1166">
+        <Page social="4" voiceTypeId="0">Ciebel remains as subtle as ever. She takes a great interest in the most promising young soldiers. Head to Ostgarath and scope out the situation. Talk to the officers in Cutthroat Harbor and find Jelena, if possible. She has a talent for turning up in the most interesting places, eh?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1001">
+        <Page social="12" voiceTypeId="0">You're from the Valkyon Federation? I was starting to believe that was a myth. I mean, I can tell my children that the federation will protect us from the slave traders, but they're getting a little too old to find comfort in folktales. It's all we can do to keep order in the towns. My authority doesn't reach further than the end of my staff. And no, I haven't seen anyone named Jelena.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="62" prevId="6" villagerId="1001">
+        <Page social="12" voiceTypeId="0">You're here to stay, right? We had a whole column of hard-looking soldiers march through here the other day, but they kept right on marching. Orders, they said. Off to Mistmoor Island they went. Weird place for the Justicars to go, but who really knows what they do.&lt;NEXTPAGEBUTTON&gt;"The justicars are here?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It's not you, it's the justicars. My apologies.&lt;BR&gt;&lt;BR&gt;You're friends with Elleon aren't you? I can tell by your questions. What I have for you is...&lt;BR&gt;&lt;BR&gt;Go to {@LinkCreature:62#1018#Arkaius}. He's investigating the justicars.&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="62" prevId="6" villagerId="1001">
+        <Page social="12" voiceTypeId="0">Have you heard of the Kazuur Syndicate? They're notorious trading slaves.&lt;BR&gt;&lt;BR&gt;I think they're here in the harbor for a deal.&lt;BR&gt;&lt;BR&gt;I heard that they were looking for some relic...they must be stopped! What is the federation doing?&lt;NEXTPAGEBUTTON&gt;"I'll take a look into this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Young people...tsk tsk. Having a deal with the gulas? They're out of their minds aren't they? Next thing you know it, you're kidnapped or your flesh is used as fodder!&lt;BR&gt;&lt;BR&gt;Wait a minute...why would you ask something like that.&lt;BR&gt;Are you friends with Elleon? If you are, you should go to {@LinkCreature:62#1018#Arkaius}. It looked like he was doing something for Elleon.&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" prevId="6" villagerId="1001">
+        <Page social="12" voiceTypeId="0">These ragetts...I feel it, I just know it that they're hiding something.&lt;BR&gt;&lt;BR&gt;They seem to be disguised as sailors...as if they were a gula trying to kidnap someone!&lt;BR&gt;Why is the federation doing nothing about this!&lt;NEXTPAGEBUTTON&gt;"I just happened to receive information of the ragetts."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Seir...that noble man wouldn't care about Cutthroat Harbor would he! I've heard about the argons but...&lt;BR&gt;&lt;BR&gt;Anyways it's funny that you ask me.&lt;BR&gt;Are you a friend of Elleon?&lt;BR&gt;&lt;BR&gt;If you are, go to {@LinkCreature:62#1018#Arkaius}. He's doing something on behalf of Elleon.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="62" prevId="7" villagerId="1018">
+        <Page social="4" voiceTypeId="0">Greetings, &lt;PCNAME&gt;. I got the message, and the magistrate filled me in.&lt;BR&gt;&lt;BR&gt;These justicars aren't at all interested in Cutthroat Harbor. Something suspicious is going on here...&lt;NEXTPAGEBUTTON&gt;"I think so too."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We'll look into these mysterious "sailors." They must be odd indeed to stand out in Cutthroat Harbor.&lt;BR&gt;&lt;BR&gt;Meanwhile, focus on the justicars. Coordinate with Jelena. She's lurking around the outskirts of the harbor.&lt;BR&gt;&lt;BR&gt;We must discover what they're after. Samael ordered them here for a reason. If it's good for him, it must be bad for us.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="62" prevId="11" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Good to see you, &lt;PCNAME&gt;. Bruke and the justicars are definitely up to something on Mistmoor Island. I've "intercepted" a number of messengers recently. The messages are encoded, but the sheer volume of them suggests something big.&lt;NEXTPAGEBUTTON&gt;"What should I do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Your job is to check it out firsthand.&lt;BR&gt;&lt;BR&gt;As far as I can get is the Vindicator Basecamp. But I can't go any further.&lt;BR&gt;&lt;BR&gt;So it's up to you. Go to {@linkcreature:62#1031#Fyrsil} and find out where Bruke went.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="62" prevId="12" villagerId="1031">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;?&lt;BR&gt;I've heard about you from Samael.&lt;BR&gt;That you would come here to help the justicars.&lt;BR&gt;&lt;BR&gt;Bruke is on a mission at Mistmoor Island. Head east and follow the shores.&lt;BR&gt;&lt;BR&gt;You'll find him at &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#40460,90317,395&amp;type=1&amp;name=Vindicator Basecamp"&gt;Vindicator Basecamp&lt;/A&gt;&lt;/font&gt;. Go and help him.&lt;NEXTPAGEBUTTON&gt;"Don't worry about it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="14" huntingZoneId="12" prevId="13" villagerId="24">
+        <Page social="4" voiceTypeId="0">Look who it is? Our top prospect! Samael won't stop talking about you. I knew that you were a big shot!&lt;BR&gt;&lt;BR&gt;I'm on a very important mission. I could use some help.&lt;NEXTPAGEBUTTON&gt;"I thought justicars didn't need help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">What? You're not here to help me?&lt;BR&gt;&lt;BR&gt;Come on, if this goes well, I promise you won't regret it.&lt;BR&gt;&lt;BR&gt;We're about to do a big deal, so come along!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="212" prevId="14" villagerId="1033">
+        <Page social="8" voiceTypeId="0">Don't be alarmed—they're just gulas. We're here for business, not dinner. We're making a deal for a very important relic and I want you to retrieve it for me.&lt;NEXTPAGEBUTTON&gt;"Alright."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The gulas want to control the setting, so they've chosen a site far from prying eyes. Use the{@LinkCreature:212#1030# teleportal}. Do what you're told, for once.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="212" prevId="15" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Something doesn't feel right... It's all too easy. &lt;PCNAME&gt;—Bruke might well have engineered a trap. Whether we find relics or not, we must quickly find out what the Justicars are up to and make it out of here alive. There's no time to waste. Use the {@linkcreature:212#1030#teleportal} and get to the &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#35117,96767,675 &amp;type=1&amp;name=rendezvous"&gt;rendezvous&lt;/A&gt;&lt;/font&gt; in the Mysterious Jungle. I'll call for reinforcements, but until then, you're on your own. Be careful!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="212" prevId="16" villagerId="1035">
+        <Page social="4" voiceTypeId="0">We're lucky to have made it out of there alive. Now, let's take a look at what we retrieved from Bruke.&lt;BR&gt;&lt;BR&gt;Samael knew all along—this was a trap! We mustn't underestimate him again. Samael will no doubt seek retribution for this. We must hurry!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="212" villagerId="1035">
+        <Page social="0">We need evidence—something incontrovertible. This mission is for naught if we can't face the deeper threat Velik warned you about.</Page>
+    </Text>
+</QuestDialog>

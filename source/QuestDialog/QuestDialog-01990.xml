@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2008">
+        <Page social="0">Elesa explained all the things you can do at the beach party.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2008">
+        <Page social="4">Okay...where to start?&lt;BR&gt;&lt;BR&gt;Ah! First, you should head out in front of the tavern and meet the little popori called Langon. He can teach you all about how to build things with beach sand. He's quite the artist!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2010">
+        <Page social="4">Hello? Hehe, do you see the sand castles back there? I built them myself! I can show you how to make them, too. Hehe!&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Start by collecting wet sand on the beach, then do what I am doing right now. When you're done, you'll have a sand castle.&lt;BR&gt;You should try it, &lt;PCNAME&gt;! Make, oh, three sand castles, and we'll see how well you do.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="3" villagerId="2010">
+        <Page social="6">Hehe, have you tried it?&lt;BR&gt;&lt;BR&gt;Fun, huh? Hehe.&lt;BR&gt;&lt;BR&gt;But, you know, it's kind of a game for kids, like me. Wahmel has a game I want to try—but I'm too young. It's just inside the fence over there. You should give that a try!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="210" prevId="4" villagerId="2005">
+        <Page social="4">Welcome, &lt;PCCLASS:lcase&gt;! Looking for a fun game? Well, then you came to the right place.&lt;BR&gt;&lt;BR&gt;What's the game, you ask?&lt;BR&gt;&lt;BR&gt;It's called a "melon bash!"&lt;NEXTPAGEBUTTON&gt;"What's a melon bash?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">You haven't ever played a melon bash? Well, prepare to experience your new favorite sport!&lt;BR&gt;&lt;BR&gt;All you have to do is smash three watermelons before your time runs out! Anyone can do it with one eye closed, right?&lt;BR&gt;&lt;BR&gt;Well, what say we make it more interesting, and you wear a blindfold the whole time?&lt;BR&gt;&lt;BR&gt;Oh, and don't listen to the watermelons. They'll try to convince you they're not watermelons, but I guarantee, they're lying!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="210" prevId="5" villagerId="2005">
+        <Page social="4">What do you think? It's like I told you, right?&lt;BR&gt;&lt;BR&gt;Want to go another round, or looking for a new challenge? Well, if you ask me, I suggest Chelton's splash cannons, just up the beach!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="210" prevId="6" villagerId="2001">
+        <Page social="4">Welcome, &lt;PCRACE:lcase&gt;.&lt;BR&gt;&lt;BR&gt;This is the Splash Cannon Shooting Range! The rules are simple.&lt;BR&gt;&lt;BR&gt;First, let me know you're interested and I'll get you set up on one of the cannon you see on the beach over there.&lt;BR&gt;&lt;BR&gt;Then you're going to shoot monsters. Shoot! Shoot! Shoot! Red ones are worth more than blue ones!&lt;BR&gt;&lt;BR&gt;To recap: Red, good; blue, not as good. Got it? Then let's get you started!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="210" prevId="7" villagerId="2001">
+        <Page social="4">How was that?&lt;BR&gt;&lt;BR&gt;Haha. Don't worry. Keep at it—you'll get the hang of it, I promise!&lt;BR&gt;&lt;BR&gt;Want to try something new? Head over to the other side of the beach, and look for Stefanna.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="210" prevId="8" villagerId="2011">
+        <Page social="4">Welcome. My name is Stefanna. I'm sure you've heard of me: the world-famous beautician and fashion designer? No? Well, not everyone is concerned with fashion...obviously.&lt;BR&gt;&lt;BR&gt;So, what brings you here, then? I know that a lot of Castanics get their skin tanned around this time of year, but I don't think you need a tan, &lt;PCNAME&gt;. &lt;NEXTPAGEBUTTON&gt;"I'm looking for something fun to do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Hm. Fun to do. Oh! You should go see my partner Dolme. He's a horn carver, and he is doing his own horn exhibition. You should go introduce yourself!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="210" prevId="9" villagerId="2004">
+        <Page social="4">Greetings. You look familiar. Have we met before? Haha.&lt;BR&gt;If you are looking for something that will make the beach party more fun for you, you came to the right place. To be honest with you, stuff like cannons, watermelons, and sand castles are just about making money from the tourists. &lt;NEXTPAGEBUTTON&gt;"So what do you do at the festival?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">I'm a traditionalist: I grind horns. It's only the most important part of the beach party. In fact, &lt;PCNAME&gt;, let me make you something awesome, by way of a demonstration. The first thing we'll need are some useful horns. Why don't you bring a molar of a warthog?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="210" prevId="10" villagerId="2004">
+        <Page social="4">Ooh, an excellent specimen!&lt;BR&gt;&lt;BR&gt;Now please just wait here a little bit while I make something for you. &lt;NEXTPAGEBUTTON&gt;"Okay. I can't wait to see it!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">...and finished!&lt;BR&gt;&lt;BR&gt;Doesn't it look great? Well, I don't know what you expected from a little warthog tooth.&lt;BR&gt;&lt;BR&gt;Oh, well, it's not a complete loss. Take it to Ramsay at the Tear of the Viper—the tavern on the beach—and he'll give you a free drink for it!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="210" villagerId="2004">
+        <Page social="0">Go get a horn and I will make you something great.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="210" prevId="11" villagerId="2007">
+        <Page social="4">Ah! So cute! This is for me?&lt;BR&gt;&lt;BR&gt;Wow, it's made so well! And you want me to have it? Thank you!&lt;BR&gt;&lt;BR&gt;Here: a gift for you. It's the least I could do. And any time you want another, just bring me another one of these great horn carvings.&lt;BR&gt;&lt;BR&gt;Enjoy the festival!</Page>
+    </Text>
+</QuestDialog>

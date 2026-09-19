@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Welcome back, &lt;PCNAME&gt;. I hope you're ready for your fifth archery task. You're nearly finished.&lt;BR&gt;&lt;BR&gt;Things will be a little bit different this time: You need to clear a total of three dungeons suitable for your level, or, as before, clear the same dungeon three times. Any combination totaling three, really.&lt;BR&gt;&lt;BR&gt;And at your level, these dungeons will be harder than anything you've faced before.&lt;NEXTPAGEBUTTON&gt;"I'm ready for anything."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Well done! At the rate you're going, I'll be taking lessons from you soon!&lt;NEXTPAGEBUTTON&gt;"I'm feeling very confident."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

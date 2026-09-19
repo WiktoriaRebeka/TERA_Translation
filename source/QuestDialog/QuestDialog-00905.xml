@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1036">
+        <Page social="4">It may be the excavation of Ger, or only the chance of a good fight that quickens &lt;PCNAME&gt;'s heart. Whichever the case, our commander at Roostcliff Quarter was not happy with the last reinforcements we sent.&lt;BR&gt;&lt;BR&gt;Dispatching a seasoned fighter such as &lt;PCNAME&gt; may make Areish feel more kindly towards us.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1006">
+        <Page social="4">What was Raynor thinking when he sent Elraine? "Better her than no one" he said.&lt;BR&gt;&lt;BR&gt; Actually, no one would be an immense improvement. So as she will not do her job, &lt;PCNAME&gt; shall have it.&lt;BR&gt;&lt;BR&gt;Southeast of here are ruins we were working until the prions arrived. I want you to defeat their leaders, Veriksha and Narak, and thin their numbers a bit so we can return to our work.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1006">
+        <Page social="6">You've done well, but I wonder how long your work will hold. Where there are prions, can Saleron be far away?&lt;BR&gt;&lt;BR&gt;Gods and their schemes and us in the middle, as ever.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1015">
+        <Page social="5">I've killed a lot of things in this temple, but the scariest thing I ever saw was called {@LinkCreature:42#5000#Murassk}, and I got out of there before IT killed ME.&lt;BR&gt;&lt;BR&gt;So if you ever feel like you have to prove yourself around here, killing Murassk would be one way to do it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1015">
+        <Page social="5">Good job! You've avenged the dead and made believers out of the living. Here's something I'd like you to have.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1012">
+        <Page social="5">I've come to provide financial support. If you'll lend me your ear...&lt;BR&gt;&lt;BR&gt;Rockstalker basilisks roam this region. They're fierce, hideous creatures. However, their scales fetch a handsome price.&lt;BR&gt;&lt;BR&gt;How 'bout we make a deal? Get me some of those scales and I'll donate half the take to the garrison.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1012">
+        <Page social="18">It was a pleasure doing business with you. I'm sure your armory will benefit greatly from the extra coin.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1012">
+        <Page social="0">You don't have the scales yet? I'll just be waiting here...partner.</Page>
+    </Text>
+</QuestDialog>

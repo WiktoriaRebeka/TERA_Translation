@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1301">
+        <Page social="0">Rhodos revealed some of the history of Northern Arun, while Paesyn tried a new tactic to make Zolyn like him.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1301">
+        <Page social="4">That the Khirians took us in speaks well for your work, &lt;PCNAME&gt;. We needed the shelter.&lt;BR&gt;&lt;BR&gt;This Rhodos fellow talks about things falling from the sky. Perhaps we can salvage Intrepid!&lt;BR&gt;&lt;BR&gt;Maybe our mission won't fail.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1301">
+        <Page social="4">Paesyn wants to talk to you if you have a moment.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1100">
+        <Page social="4">This is why I like you! You saved the day!&lt;BR&gt;&lt;BR&gt;I've seen several pieces of Intrepid's wreckage. I'll check them over. Maybe impress Zolyn a bit. Get her to like me!&lt;BR&gt;&lt;BR&gt;Since my poem didn't cheer her up, I drew a portrait of her. Could you deliver it? Please?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1102">
+        <Page social="4">I heard you saved Madat. Not bad. You're a fine soldier.&lt;NEXTPAGEBUTTON&gt;"Paesyn drew this for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I take it back.&lt;BR&gt;&lt;BR&gt;Stop wasting my time with this nonsense. What is with that silly engineer? Doesn't he have work to do?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1301">
+        <Page social="4">Have you seen where Paesyn went by any chance?&lt;NEXTPAGEBUTTON&gt;"He's investigating the wreckage."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Well, we must press on.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1206">
+        <Page social="4">The way ahead will not be easy. You are new to Val Oriyn, so hear our grim tale.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1206">
+        <Page social="4">We, the Khirians, resist the archdevas, but most of my kind are enslaved. We refer to them as the Parthia.&lt;BR&gt;&lt;BR&gt;They have a camp nearby, but I don't know if they'll let us pass without a fight.&lt;NEXTPAGEBUTTON&gt;"I'll talk to them."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I hope diplomacy works for you.&lt;BR&gt;&lt;BR&gt;Look for Pariya. The Parthia respect her, but be careful.&lt;BR&gt;&lt;BR&gt;She's dangerous.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1015">
+        <Page social="0">Hatishna? You believe such a popori tale?&lt;BR&gt;&lt;BR&gt;No one stands against Lord Dakuryon. You too shall kneel before him!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="172" prevId="9" villagerId="1200">
+        <Page social="4">Oh, &lt;PCNAME&gt;! You're here? Great!&lt;BR&gt;&lt;BR&gt;Did Zolyn like the picture? I worked for days on it. What did she say?&lt;NEXTPAGEBUTTON&gt;"She didn't care for it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">She probably doesn't appreciate my abstract realism. I studied art for two days in Velika, so I know all about it.</Page>
+    </Text>
+</QuestDialog>

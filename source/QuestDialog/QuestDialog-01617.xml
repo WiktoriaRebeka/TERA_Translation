@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2124">
+        <Page social="0">&lt;PCNAME&gt; crossed the Infernal Span and destroyed the siege cannons protecting Trellum Consurgo. After sweeping through the Furyguard defenders, &lt;PCNAME&gt; joined Rhodos to press the attack.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2124">
+        <Page social="4">We can't take the fortress unless we silence the guns on top of the wall. To do that, we need to get to them, but their crossfire will smash any assault.&lt;BR&gt;&lt;BR&gt;If your magical people cannot save the demokons, can they protect us?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2126">
+        <Page social="4">This draught should protect you against the worst of the blast. Won't be perfect, of course, but you should survive.&lt;BR&gt;&lt;BR&gt;But try not to dawdle once you drink it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2127">
+        <Page social="4">&lt;PCNAME&gt;, down there!&lt;BR&gt;&lt;BR&gt;The archdevas don't realize we've gotten inside! Now's our chance to catch them unawares!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2118">
+        <Page social="4">Our losses weren't as heavy as I'd feared. Well done.&lt;BR&gt;&lt;BR&gt;Are you ready to end this?</Page>
+    </Text>
+</QuestDialog>

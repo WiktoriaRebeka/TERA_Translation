@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1105">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1105">
+        <Page social="1">No, no, no!&lt;BR&gt;&lt;BR&gt;Another analysis device broken? I hardly touched it! Vice Director Deresk will kill me if I request another!&lt;BR&gt;&lt;BR&gt;Can you fix this {@LinkCreature:71#1110#analysis device}, or get {@LinkCreature:71#1108$$Adean} to do it?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="1110">
+        <Page social="1">(The {@LinkCreature:71#1110#analysis device} makes a grinding noise, and a strange violet liquid seeps from it.&lt;BR&gt;&lt;BR&gt;It's definitely broken. Bring it to {@LinkCreature:71#1108$$Adean}, the equipment merchant.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="3" villagerId="1108">
+        <Page social="1">{@LinkCreature:71#1105$$Mienne}'s {@LinkCreature:71#1110$$analysis device}? Let's take a look.&lt;BR&gt;&lt;BR&gt;Well no wonder. When was this last tuned?&lt;BR&gt;&lt;BR&gt;Here, plug this into that socket over there. If it works, take it to {@LinkCreature:71#1102$$Deresk} and tell him not to skimp on maintenance.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="4" villagerId="1111">
+        <Page social="1">(The device hums quietly.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="5" villagerId="1102">
+        <Page social="1">Maintenance? Why?&lt;BR&gt;&lt;BR&gt;Before I gave it to Mienne, I'd used it for four years and never had any problems with it!</Page>
+    </Text>
+</QuestDialog>

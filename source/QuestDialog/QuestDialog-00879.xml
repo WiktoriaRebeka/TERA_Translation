@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="0">After passing Saleron's test, you set about gathering the other relic fragments that would bring about Kelsaik's defeat. You acquired the second and third fragments by overpowering their guardians, but the fourth fragment was in the hands of Killian, god of terror. You entered Killian's stronghold, the Jester's Villa, and faced off against an arrogant Killian. A message from Thulsa interrupted the battle, and Killian left to deal with a mysterious "Divine Furnace." With one relic fragment out of reach, Fraya opted for a risky solution: use the power of the Core as a replacement.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1102">
+        <Page social="1" voiceTypeId="0">One fragment isn't enough, mortal. That's why they're called "fragments."&lt;BR&gt;&lt;BR&gt;Striktryssir and Grigelt are creatures I've blessed with my power. More to the point, they hold the second and third fragments within them.&lt;BR&gt;&lt;BR&gt;If you can defeat them, I will send my prophet, Torsten, to purify the relic fragments and grant you their power.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1100">
+        <Page social="1" voiceTypeId="0">As our creator, Saleron, once said, the dragon's horn is the height of its power. Can you reach the top of that pyramid, &lt;PCCLASS:lcase&gt;?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1100">
+        <Page social="0">Now, prove your power...by defeating Striktryssir!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="238" prevId="3" villagerId="1110">
+        <Page social="1" voiceTypeId="0">(The relic fragment shines with divine energy...&lt;BR&gt;&lt;BR&gt;Energy that is quickly absorbed. It's no longer visible, but you feel the thrum of power within.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="235" prevId="5" villagerId="1110">
+        <Page social="1" voiceTypeId="0">Hear the words of the creator, Saleron—the dragon's wrath is the depth of its fuel. Can you reach the altar, &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="235" villagerId="1110">
+        <Page social="0">Match Grigelt's wrath with your own...defeat it!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="235" prevId="6" villagerId="1111">
+        <Page social="1" voiceTypeId="0">(The relic fragment shines with divine energy...&lt;BR&gt;&lt;BR&gt;Energy that is quickly absorbed. It's no longer visible, but you feel the thrum of power within.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="235" prevId="8" villagerId="1110">
+        <Page social="1" voiceTypeId="0">The fourth and final fragment lies beyond the reach of even Saleron's dragons.&lt;BR&gt;&lt;BR&gt;It's in the hands of Killian, God of Terror. Unless you can take his fragment from him, we'll have no hope against the great beast, Kelsaik.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="236" prevId="9" villagerId="1110">
+        <Page social="1" voiceTypeId="0">(This teleportal takes you to the heart of Killian's lair.)&lt;BR&gt;&lt;BR&gt;(Are you ready?)</Page>
+    </Text>
+    <Text id="11" huntingZoneId="518" prevId="10" villagerId="1001">
+        <Page social="4" voiceTypeId="0">The entire federation—male and female, adult and child—grieves that you could not gather the relic fragments. Killian may be insane, but he's not to be trifled with.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Without all four fragments, we cannot hope to defeat Kelsaik. Yet you fell one...fragment...short. Do you remember the pendant that Kaidun gave me, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Of course."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">When gambling, it helps to have a wild card, does it not?&lt;BR&gt;&lt;BR&gt;Consider this pendant such a wild card, for it can substitute for the fourth fragment. But know the risks: the pendant contains most of the Core's power. If it's lost...or worse, taken...Allemantheia will collapse within days. I will hold Allemantheia together as long as I can. Stop Kelsaik! Stop Thulsa! Avenge Kaidun!</Page>
+        <Page social="1" voiceTypeId="0">There's no time to lose! Take this teleportal scroll. Hurry.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="528" prevId="11" villagerId="5009">
+        <Page social="4" voiceTypeId="0">You have retrieved three relic fragments...and I see Fraya has sacrificed greatly to make up for the missing fourth fragment. You have done well, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I could make the weapon to destroy Kelsaik right now, but...Thulsa seized the Divine Furnace. He must know we're up to something.&lt;NEXTPAGEBUTTON&gt;"The Divine Furnace?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">The legendary amani blacksmith, Muhrak, can create a vessel to hold the fragments' power. I sent him ahead to prepare the Divine Furnace, where he can do such wondrous work...&lt;BR&gt;&lt;BR&gt;...sent him ahead unwisely, it seems. Thulsa controls the furnace, Muhrak is missing, and I don't know whether he was able to complete the vessel in time.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="528" prevId="12" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Muhrak? He really exists? I thought he was just a legend.&lt;BR&gt;&lt;BR&gt;I don't know anything about Muhrak, but Prefect Biath in Habere sent us a message. Only one apprentice escaped the Divine Furnace when Thulsa attacked.&lt;NEXTPAGEBUTTON&gt;"Someone escaped?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">If anyone knows what happened to Muhrak, it'll be that apprentice. He's under Gahreed's protection in Habere.</Page>
+    </Text>
+</QuestDialog>

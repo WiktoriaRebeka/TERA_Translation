@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1029">
+        <Page social="4">I'm going to strangle him! Gah!&lt;BR&gt;&lt;BR&gt;Apologies, but you haven't seen Craxan, have you? Tall aman, thinks he's all that and a pouch of crisps?&lt;BR&gt;&lt;BR&gt;He took a group of apprentice hunters out and hasn't reported back in. He's probably fine, but the apprentices are another story. If you spot him, let him know I'm worried about them and ticked at him.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1032">
+        <Page social="4">Balrug worries more than a wet nurse. Naturally, I'm fine.&lt;BR&gt;&lt;BR&gt;The apprentices, however, haven't exactly covered themselves in glory. Pathetic.&lt;BR&gt;&lt;BR&gt;As for me, I can't go back yet. Someone's counting on me.</Page>
+    </Text>
+</QuestDialog>

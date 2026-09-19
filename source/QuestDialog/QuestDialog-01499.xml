@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="10031">
+        <Page social="0">You sign for supporting Kaiator with princess Rida and join the federation by Tamur's suggestion.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="10031">
+        <Page social="0" voiceTypeId="0">I need you to do something for me.&lt;BR&gt;&lt;BR&gt;Not that I want you to!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="10031">
+        <Page social="4" voiceTypeId="0">I came here to request support for Pora Elinu. But...with the war going on, I'm afraid that Kaiator might not be able to spare any aid.&lt;BR&gt;&lt;BR&gt;Will you...come with me into the headquarters?&lt;NEXTPAGEBUTTON&gt;"Of course I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Really? Thank you.&lt;BR&gt;&lt;BR&gt;Not that this is meant as a compliment—just an observation—but you have every right to be welcomed in Kaiator.&lt;BR&gt;&lt;BR&gt;The amani are brave warriors, with great honor. They would have to honor my request if it came from you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Welcome to Kaiator!&lt;BR&gt;&lt;BR&gt;You're the hero who saved Pora Elinu!&lt;BR&gt;&lt;BR&gt;I can sense your bravery just from looking at you!&lt;BR&gt;&lt;BR&gt;I've heard about the situation at Pora Elinu. You have my word: Pora Elinu has Kaiator's support.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We're only able to offer our support at this point because the tide of battle against the argons is turning in our favor.&lt;BR&gt;&lt;BR&gt;But we have one condition.&lt;BR&gt;&lt;BR&gt;Kaiator needs a warrior to be its sword. A brave warrior...just like you.&lt;BR&gt;&lt;BR&gt;I want you to fight the argons with us.&lt;BR&gt;&lt;BR&gt;What do you say?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="528" prevId="4" villagerId="5040">
+        <Page social="4" voiceTypeId="0">I can't wait to tell this to my people.&lt;BR&gt;&lt;BR&gt;Pora Elinu still has a long road to recovery...but &lt;PCNAME&gt;, you should stay in Kaiator, and fight for the greater good.&lt;BR&gt;&lt;BR&gt;Just like you did for Pora Elinu.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="528" prevId="5" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Splendid! Tamur knows a warrior when he sees one!&lt;BR&gt;&lt;BR&gt;Get out there and slaughter those argons!&lt;BR&gt;&lt;BR&gt;I prepared something as a welcome gift! Talk to my deputy, Ukenul. He should have it ready by now.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="528" prevId="6" villagerId="5011">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Thank you for joining our cause.&lt;BR&gt;&lt;BR&gt;Now all you need is...yes, you'll need a flying mount.&lt;NEXTPAGEBUTTON&gt;"A flying mount?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">It can, indeed, yes. Go to the Transporation Hall and speak with Kunar.&lt;BR&gt;&lt;BR&gt;He has one set aside for you.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="84" prevId="7" villagerId="10032">
+        <Page social="4" voiceTypeId="0">Oops, sorry. With that weapon, I thought you were someone else.&lt;BR&gt;&lt;BR&gt;My friend's sister uses something like that.&lt;BR&gt;&lt;BR&gt;Hi, I'm Hasmina, from the Mysterium.&lt;NEXTPAGEBUTTON&gt;"You can call me &lt;PCNAME&gt;."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;? Where did I hear that name before...? &lt;PCNAME&gt;...wait...&lt;PCNAME&gt;! Yes!&lt;BR&gt;&lt;BR&gt;I heard that a mercenary named &lt;PCNAME&gt; single-handedly saved Pora Elinu! That was you!&lt;BR&gt;&lt;BR&gt;So, you're involved in the Argon War, too?&lt;BR&gt;&lt;BR&gt;If you're going to get your supplies, let me go with you!&lt;BR&gt;&lt;BR&gt;I have some business there, too.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="84" prevId="8" villagerId="10033">
+        <Page social="4" voiceTypeId="0">Thanks for the chat.&lt;BR&gt;&lt;BR&gt;We won't have any time for this when we're on the battlefield.&lt;BR&gt;&lt;BR&gt;It seems that there never will be an end to this war. I'm scared.&lt;BR&gt;&lt;BR&gt;I'm afraid that I might not get vengeance for my sister.&lt;NEXTPAGEBUTTON&gt;"Maybe I can help you with that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Thanks. That means a lot to me.&lt;BR&gt;&lt;BR&gt;I hope we can fight side by side one day.&lt;BR&gt;&lt;BR&gt;Oh, and if you happen to meet someone from the Moonlight mercenary, can you check if Syona is okay?&lt;BR&gt;&lt;BR&gt;Syona's sister should be there. She'll know.&lt;BR&gt;&lt;BR&gt;Just let me know if you have the chance.&lt;BR&gt;&lt;BR&gt;Take care!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="84" prevId="9" villagerId="1604">
+        <Page social="4" voiceTypeId="0">So many people have been asking for a flying mount today.&lt;BR&gt;&lt;BR&gt;We're short on supplies, but I'm happy to support a soldier fighting against the argons.&lt;BR&gt;&lt;BR&gt;Here! Take it! Oh. Ehh...&lt;NEXTPAGEBUTTON&gt;"Is something wrong?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I was supposed to save one for you, but...well, I gave away the last one.&lt;BR&gt;&lt;BR&gt;A federation officer came through earlier and raided our stores for some big mission in Northern Arun. I don't know what's going on, but it seems bad.&lt;BR&gt;&lt;BR&gt;But I can't send you off to battle with nothing!&lt;BR&gt;&lt;BR&gt;I'll give you other supplies instead. And may Kaia give you strength!</Page>
+    </Text>
+</QuestDialog>

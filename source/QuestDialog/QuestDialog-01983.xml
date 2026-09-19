@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="0">You have delivered sarberry ices to the festival pilgrims.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="1">&lt;PCNAME&gt;, I'm so glad you're here! Do you have time to help me? &lt;NEXTPAGEBUTTON&gt;"What do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">I've made all these sarberry ices for the festival pilgrims, but Luman is too busy to deliver them!&lt;BR&gt;&lt;BR&gt;Just tell my assistant, Trilyn, that you'll deliver them. &lt;NEXTPAGEBUTTON&gt;"I suppose I have time."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">Ah, &lt;PCNAME&gt;. Lilan convinced you to help again, I see.&lt;BR&gt;&lt;BR&gt;Oh, well, as long as you don't mind. I have orders here for Morun...Tanith...and Hayden. Take this one first; it's been waiting the longest.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">Remember to smile.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">Remember to smile.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="7102">
+        <Page social="4">Remember to smile.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="3" villagerId="7103">
+        <Page social="1">So this is the famous sarberry ice? Why, it tastes just like summer!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="3" villagerId="7104">
+        <Page social="1">Ah, sarberry ice. The perfect cold treat for a hot day, wouldn't you say?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="3" villagerId="7105">
+        <Page social="1">Ah, sarberry ice! These are the real reason I come here, to be honest, but, uh, let's just keep that between us.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="9" villagerId="7101">
+        <Page social="4">Thank you for helping me again, &lt;PCNAME&gt;! You're the absolute best!</Page>
+    </Text>
+</QuestDialog>

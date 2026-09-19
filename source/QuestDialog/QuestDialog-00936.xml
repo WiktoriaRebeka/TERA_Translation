@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1026">
+        <Page social="4">The poison's run its course. I'm still a little woozy, but I'll be fine.&lt;BR&gt;&lt;BR&gt;Tell Anwold I still have work to do here, so I'm not coming back yet. Don't worry—I'll be careful this time. Done talking.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1016">
+        <Page social="4">Good to hear Animan's alive and well. The little furball's lucky you were there. He may not get so lucky next time.</Page>
+    </Text>
+</QuestDialog>

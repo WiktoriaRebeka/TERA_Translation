@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1109">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1109">
+        <Page social="4">We've hurt the shurians, but we're not done here yet.&lt;BR&gt;&lt;BR&gt;There's still the {@LinkCreature:4#3031#tyraks}—there may be more than one—lurking near Bahaar's shrine. Do what you do best, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1109">
+        <Page social="4">You've got a lot of energy, &lt;PCNAME&gt;. And you're putting it to good use!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="4">Everyone's worried about the undead in here, but that's just the part of the problem that we can see.&lt;BR&gt;&lt;BR&gt;I think I've figured out how Thulsa is doing it—he's using invisible ghosts as a conduit to send dark energy to the other undead.&lt;BR&gt;&lt;BR&gt;We can't fight what we can't see directly, but we can keep them from getting energy in the first place. That means collecting aetherducts from the Chambers of Endless Misery. That means you!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1008">
+        <Page social="4">These aetherducts can't power Thulsa's minions anymore.&lt;BR&gt;&lt;BR&gt;Perhaps I can put this power to good use. Hmm...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1008">
+        <Page social="0">Go to the Chambers of Endless Misery. The place should be thick with aetherducts.</Page>
+    </Text>
+</QuestDialog>

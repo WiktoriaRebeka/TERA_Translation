@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1021">
+        <Page social="5">Cultists neglect the land and murder our stewards. See the southwest there? Every day I watch those fat boars root up the plants and foul the soil. Farmland into dust pits! Hogs should be in the woods where they belong. Never would have happened before.&lt;BR&gt;&lt;BR&gt;Can't run them off because it's not the army's job! Have me killing my neighbors instead! Nature's upside down.&lt;BR&gt;&lt;BR&gt;Kept some money from my last harvest before...this. Kill those {@LinkCreature:17#300050#wary gutspiller warthogs} and {@LinkCreature:17#104#forked tusk warthogs}, and it's yours.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1021">
+        <Page social="5">Nature smiles, friend. That was good work. Wish I was still a farmer, a hunter. Money was worth it, just to see them run!</Page>
+    </Text>
+</QuestDialog>

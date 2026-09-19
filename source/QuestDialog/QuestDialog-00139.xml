@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1005">
+        <Page social="5">We can't get our supplies. No supplies means no food. No food means no energy, and no energy means no chance of fighting off the Gutrends that are attacking us and taking our supplies!&lt;BR&gt;&lt;BR&gt;If we could just get some meat.... Maybe you wouldn't mind killing a few {@LinkCreature:6#1021#stomping noruks} so we can use their meat to survive?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1005">
+        <Page social="5">Thank you. This should be an interesting experience.&lt;BR&gt;&lt;BR&gt;We don't usually eat noruk meat, you see. Extraordinary circumstances, though.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" villagerId="1005">
+        <Page social="0">Have you brought the meat back? We don't usually eat noruks, but we're really quite desperate around here.</Page>
+    </Text>
+</QuestDialog>

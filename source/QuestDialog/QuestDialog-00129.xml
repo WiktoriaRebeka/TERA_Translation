@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1049">
+        <Page social="0">&lt;PCNAME&gt; uncovered more facts about the Scions of Lok, then used Kamia's invisibility potion to infiltrate a secret meeting and learn that there is a supply base somewhere in the northern part of the Oblivion Woods.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1049">
+        <Page social="4" voiceTypeId="0">Something's bothering me.&lt;BR&gt;&lt;BR&gt;When Kantusa told us about the meeting she witnessed between Dakanius and the Lok cultist, she said the cultist was a "high priestess."&lt;BR&gt;&lt;BR&gt;Basenius is male, as were the reavers and sorcerers we killed.&lt;BR&gt;&lt;BR&gt;So where's the high priestess?&lt;NEXTPAGEBUTTON&gt;"Good question."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">And come to think of it, where are all the weapons? The cultists were supplying Dakanius with weapons, but there are none here. So where did they come from? They sure didn't forge them here.&lt;BR&gt;&lt;BR&gt;Let's look around here some more.&lt;NEXTPAGEBUTTON&gt;"Okay, let's see what we can find."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1049">
+        <Page social="4" voiceTypeId="0">Look! A secret passage!&lt;BR&gt;Let's get in there, before it closes!&lt;NEXTPAGEBUTTON&gt;"Slow down. We need to be careful."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You're right, &lt;PCNAME&gt;. I just got ahead of myself.&lt;BR&gt;&lt;BR&gt;Although...I might have a solution: an invisibility potion!&lt;BR&gt;&lt;BR&gt;There's only enough for one of us, though, and the duration is very short, so it'll have to be a quick reconnaissance, then straight back out.&lt;BR&gt;&lt;BR&gt;You're better at this than I am, &lt;PCNAME&gt;. Take the potion and head on in...and good luck!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="420" prevId="3" villagerId="1007">
+        <Page social="4" voiceTypeId="0">This "Tetra" must be the high priestess Kantusa told us about.&lt;BR&gt;&lt;BR&gt;She already knew the assault leader was dead...so this surprise assembly probably means she knows about Dakanius now, too.&lt;BR&gt;&lt;BR&gt;I think it's time to report in. We've learned a lot. Are you ready?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Glad to have you back. Kamia was just telling me about what you found...and about Kantusa.&lt;BR&gt;&lt;BR&gt;She'll be missed. She was a good scout, and a good friend.&lt;BR&gt;&lt;BR&gt;Thanks for pitching in, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1006">
+        <Page social="4">Thulsa's scouts have us surrounded, and it's just a matter of time before more of Thulsa's minions show up.&lt;BR&gt;&lt;BR&gt;Unless we strike first.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, repel the scout brigade and show them we won't give up ground without a fight!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1006">
+        <Page social="4">You've not only saved Habere from Thulsa, but I think you just opened a supply route to the Remote Lodge, &lt;PCNAME&gt;. Thanks!</Page>
+    </Text>
+</QuestDialog>

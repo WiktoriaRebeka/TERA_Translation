@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
+        <Page social="4">I need someone who knows what they're doing to get into the Citadel of Torment and help those researchers before they're all killed.&lt;BR&gt;&lt;BR&gt;Apparently the soldiers inside already aren't enough. Would you like the mission, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Then report to Meygren inside the Citadel of Torment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1003">
+        <Page social="4">Welcome, welcome. Hope you're ready to knuckle down.&lt;BR&gt;&lt;BR&gt;Our highest priority is to develop a defense so that the people are not affected by the monsters' evil spells, but unfortunately, we can't seem to gather the necessary ingredients.&lt;NEXTPAGEBUTTON&gt;"What do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">The second and third floors are host to a variety of strange undead creatures—and their belongings, which radiate the sort of mana we need.&lt;BR&gt;&lt;BR&gt;Please get the bloodstained hairbrushes from the {@LinkCreature:33#3#vampir noblewoman} and {@LinkCreature:33#53#cursed vampir noblewoman} on the second floor, and the deathshead pocketwatches from the {@LinkCreature:33#4#vampir gentleman} on the third floor.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1003">
+        <Page social="4">You did it! With these I can block the vampirs and their mesmerizing magic. Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="233" villagerId="1003">
+        <Page social="0">You can find the {@LinkCreature:33#3#vampir noblewoman} and the {@LinkCreature:33#53#cursed vampir noblewoman} in the Hall of Maidens. The {@LinkCreature:33#4#vampir gentleman} is in the Hall of Masters. Fortunately, you'll be a floor away from those awful dolls...</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1010">
+        <Page social="5">Come here, trooper. Just north of us the cultists are massing for an attack. {@LinkCreature:17#301220#Mutated elins}, {@LinkCreature:17#300442#Heavens Fall guards}, and a flood of {@LinkCreature:17#300552#barrelhead threshers}.&lt;BR&gt;&lt;BR&gt;I think one decisive blow on the battlefield will end this rebellion! Destroy them!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1010">
+        <Page social="5">That upstart Puran and his strategies! Real soldiers fight against other soldiers, face to face.&lt;BR&gt;&lt;BR&gt;Skulking around killing officers? Pfeh. Only toothless cowards fight that way!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1010">
+        <Page social="0">That formation of troops to the north is still gathering, soldier. Get out there and cut them to ribbons!</Page>
+    </Text>
+</QuestDialog>

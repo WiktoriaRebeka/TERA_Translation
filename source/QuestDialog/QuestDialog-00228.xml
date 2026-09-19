@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1024">
+        <Page social="0">(The soldier's corpse has been mutilated and still has a blade stuck in it.)&lt;BR&gt;&lt;BR&gt;(But it's a {@LinkCreature:9#1000#Lokian} weapon, not a gula weapon.)&lt;BR&gt;&lt;BR&gt;Weapons like this are evidence that the {@LinkCreature:9#1100#cultists} are working with the gulas. Collect more of these &lt;font color='#660000'&gt;weapons&lt;/font&gt; to be sure.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1005">
+        <Page social="4">For an amateur, you know your way around a blade. And you're right. This isn't a gula weapon.&lt;BR&gt;&lt;BR&gt;Lok cultists working with the gulas? May the goddess Kaia preserve us!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1005">
+        <Page social="0">What's so urgent?</Page>
+    </Text>
+</QuestDialog>

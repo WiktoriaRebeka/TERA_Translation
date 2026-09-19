@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Jelena is looking for you and Titus. Speak with Jelena.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; tried to destroy the engine, but Lumikan overloaded the Black Core and caused a massive explosion. However, Elleon sacrificed himself and minimized the damage. With Elleon's body, &lt;PCNAME&gt; headed back to Velika.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="113">
+        <Page social="4" voiceTypeId="0">I can feel it. Elleon is here.&lt;BR&gt;&lt;BR&gt;It's all up to us. Let's get in, save Elleon, and put an end to Exodor. Ready when you are.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2103" prevId="3" villagerId="100">
+        <Page social="4" voiceTypeId="0">Like Titus said, we need to destroy the control system.&lt;BR&gt;&lt;BR&gt;We have to get higher up though... Let's split up and find a way up.&lt;BR&gt;&lt;BR&gt;Titus and I will take the right.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2103" prevId="4" villagerId="101">
+        <Page social="4" voiceTypeId="0">Good.&lt;BR&gt;&lt;BR&gt;Now, all we have to do is destroy this place and the control system, right?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2103" prevId="5" villagerId="110">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Argh...I can barely...now I'm okay.&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I'm sorry. I can't remember anything after the battle in Iridian Wetlands.&lt;BR&gt;&lt;BR&gt;It's as if I woke up...and all of a sudden I'm here now.&lt;BR&gt;&lt;BR&gt;Where are we?&lt;NEXTPAGEBUTTON&gt;"This is the engine room of Exodor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I see...this is the engine room...&lt;BR&gt;&lt;BR&gt;We should destroy this place first and think next.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2103" prevId="6" villagerId="102">
+        <Page social="24" voiceTypeId="0">(Jelena is still having a hard time recovering.)&lt;BR&gt;&lt;BR&gt;(You ask if she's okay)&lt;BR&gt;&lt;BR&gt;Urgh...yes...I'm fine now.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2103" prevId="7" villagerId="111">
+        <Page social="1" voiceTypeId="0">(Elleon took his last breath stopping the explosion. He lies still.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2103" prevId="8" villagerId="120">
+        <Page social="4" voiceTypeId="0">All right! Now...!&lt;BR&gt;&lt;BR&gt;(Ttitus activated something.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="9" villagerId="20005">
+        <Page social="4" voiceTypeId="0">We...we're alive...&lt;BR&gt;&lt;BR&gt;Not all of us though...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="10" villagerId="20007">
+        <Page social="4" voiceTypeId="0">...&lt;BR&gt;&lt;BR&gt;Sorry...&lt;BR&gt;&lt;BR&gt;I...I...want to be alone...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="11" villagerId="1102">
+        <Page social="4" voiceTypeId="0">I heard news about Exodor. If it weren't for Elleon, the whole world would have faced great danger.&lt;BR&gt;&lt;BR&gt;But...I never thought we'd lose him...</Page>
+    </Text>
+</QuestDialog>

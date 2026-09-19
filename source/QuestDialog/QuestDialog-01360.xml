@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1014">
+        <Page social="4">By elven doctrine, our armies have few officers and many soldiers. No officers means no discipline—too many are inefficient.&lt;BR&gt;&lt;BR&gt;After all these battles so many of the deva footsoldiers are dead, and yet their officers—the viziers and reavers—still live.&lt;BR&gt;&lt;BR&gt;I draw near my point. Bringing them to proper elven trim is overambitious, but might we not...even their numbers?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1014">
+        <Page social="4">Aah, blessed symmetry. I'm sure the devas will thank us for it later.</Page>
+    </Text>
+</QuestDialog>

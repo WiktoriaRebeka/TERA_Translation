@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1019">
+        <Page social="4">I'm ruined! Those kulkari bastards got my cargo, my wagons, and nearly got my hide!&lt;BR&gt;&lt;BR&gt;They think they've won, but I still have enough gold to put a bounty on those {@LinkCreature:24#6#Sand Wind kulkari}, {@LinkCreature:24#7#champions}, and {@LinkCreature:24#8#prophets}, and then move on to the {@LinkCreature:24#57#crushers}, {@LinkCreature:24#58#shamans}, and {@LinkCreature:24#156#reavers}.&lt;BR&gt;&lt;BR&gt;Kill them all!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1019">
+        <Page social="4">Now I feel avenged. I can sleep with some peace of mind. Thanks.</Page>
+    </Text>
+</QuestDialog>

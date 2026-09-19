@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1019">
+        <Page social="4">The sikandaris are keeping us far from the Temple of Sikander. If we're going to end this, we've got to punch through.&lt;BR&gt;&lt;BR&gt;That means starting with the sikandari stalwarts. They want to die for their god? Let's oblige them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1019">
+        <Page social="4">Nice work. I don't know what possessed the sikandaris to side with Killian and Thulsa, but we've got to protect our own first. This is a good start.&lt;BR&gt;&lt;BR&gt;There's more to do. Don't wait for me.</Page>
+    </Text>
+</QuestDialog>

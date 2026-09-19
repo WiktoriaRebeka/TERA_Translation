@@ -1,0 +1,43 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="2108">
+        <Page social="0">Renish, a Seeker from Highwatch, sought information on how archdevas tame and control demokrons. Rhodos suggested his men could help, since they were dispatched to the western archdevan post.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="2108">
+        <Page social="1" voiceTypeId="0">I've been talking to my scouts, and I have some news for you about the archdevas' troop movements.&lt;BR&gt;&lt;BR&gt;From what Madat just told you, it sounds like this is the perfect moment.&lt;NEXTPAGEBUTTON&gt;"So where can I find an archdeva to interrogate?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">To the west of here, near the Hina Hot Springs. My scouts will show you the way; the first of them, Gaku, is waiting for you just over the western crest.&lt;BR&gt;&lt;BR&gt;Here, take my sigil. Show it to my scouts, so they'll know that I sent you.&lt;NEXTPAGEBUTTON&gt;"Got it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2048">
+        <Page social="1" voiceTypeId="0">Who are you? Keep your distance!&lt;NEXTPAGEBUTTON&gt;"Rhodos told me to show you this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Oh, you're the one Rhodos told me about. What do you need from me?&lt;NEXTPAGEBUTTON&gt;"Show me where to find an archdeva."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I've got to deal with this mess, but there are other scouts ahead on the road who can help you. Just follow the road westward and they'll show themselves when you get close.&lt;BR&gt;&lt;BR&gt;Roderan's over there. Just show him Rhodos's sigil and he'll point you at the enemy.&lt;NEXTPAGEBUTTON&gt;"I see."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2034">
+        <Page social="1" voiceTypeId="0">Come on, Dorman. Just tell me how many mystics there are, and—&lt;BR&gt;&lt;BR&gt;Whoa! You're not supposed to be out here! What are you doing here?&lt;NEXTPAGEBUTTON&gt;"Rhodos sent me. Here's his sigil, as proof."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Ah, secret mission, eh? Me, too. &lt;PCNAME&gt;, meet Dorman. Dorman, meet &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Dorman's just been telling me about the archdevan training camp up the road there. Seems like they don't treat him very well, and he's thinking of switching sides. It doesn't hurt that I've been feeding him blatherweed, either.&lt;BR&gt;&lt;BR&gt;Speaking of which, and just between you and me, I'm out—but he's still got a few secrets to share with me. You don't have any, do you?&lt;NEXTPAGEBUTTON&gt;"What's blatherweed?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">It's just an herb, used in cooking. But when it's fresh, eating it makes you kind of "talky"—which as you can imagine comes in handy in my line of work.&lt;BR&gt;&lt;BR&gt;I can't leave Dorman, or he'll just wander off. Think you can head over to the stream, toward the waterfall, and grab me some more blatherweed? Five leaves ought to do the trick.&lt;NEXTPAGEBUTTON&gt;"I'm on it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2034">
+        <Page social="1" voiceTypeId="0">That's the stuff! Here you go, Dorman. Eat your fill!&lt;BR&gt;&lt;BR&gt;Okay, he'll be useless until he finishes eating. So, why did Rhodos send you out here? Not to gather blatherweed, I'm sure.&lt;NEXTPAGEBUTTON&gt;"Actually, I need an archdeva to interrogate."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Well, there's plenty of archdevas in the training camp, but I'm guessing that you're not looking to interrogate them all at once.&lt;BR&gt;&lt;BR&gt;Okay, follow this road to the west and look for Donel.&lt;BR&gt;&lt;BR&gt;Just show him the sigil, like you did with me, and you're all set.&lt;NEXTPAGEBUTTON&gt;"Thanks, Roderan. Good meeting you, Dorman!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" villagerId="2034">
+        <Page social="0">Any luck finding that blatherweed?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="5" villagerId="2014">
+        <Page social="1" voiceTypeId="0">Shh...quietly. Enemies up the road, and right over the ridge here.&lt;BR&gt;&lt;BR&gt;Rhodos sent you? Okay, what do you need?&lt;NEXTPAGEBUTTON&gt;"I need an archdeva to interrogate."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Good luck with that. Plenty of archdevas stationed not ten meters from here—but getting one alone won't be easy.&lt;BR&gt;&lt;BR&gt;They've got a training camp set up, and along with the Parthian traitors, the camp is full of demokrons.&lt;NEXTPAGEBUTTON&gt;"That's actually why I'm here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Ah. Aha. Okay, I see what you're after now. Seekers sent you, right?&lt;BR&gt;&lt;BR&gt;But let me save you some trouble: They won't talk. Even blatherweed doesn't loosen their tongues.&lt;BR&gt;&lt;BR&gt;If you're determined to try, though, I won't stop you. Just don't lead them back here when you're done. Leave their camp by the north entrance, and meet up with Saduran. He'll get you back to the camp.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="7" villagerId="2047">
+        <Page social="1" voiceTypeId="0">Get out of sight!&lt;BR&gt;&lt;BR&gt;I could've killed you six times while you were blundering around. What are you doing here?&lt;BR&gt;&lt;BR&gt;Oh, and if you're an archdeva in disguise: Prepare to die.&lt;NEXTPAGEBUTTON&gt;"I'm on a mission for Rhodos. Here's his sigil."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Huh...&lt;BR&gt;&lt;BR&gt;Okay, but you can't hang around here. You'll draw too much attention. Get back to the camp, and be quick about it.&lt;NEXTPAGEBUTTON&gt;"My mission isn't finished yet."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I doubt you'll learn anything new by raiding the training camp again. Maybe I can help. What do you need to know?&lt;NEXTPAGEBUTTON&gt;"How these talismans control the demokrons."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I've seen these before. Cromagh had a bunch of them he took off dead archdevas, as trophies. If anyone knows how they work, it's him.&lt;BR&gt;&lt;BR&gt;Head north across that bridge, then take a left, and you'll meet up with Cromagh. You can't miss him—just look for a mountain that walks and talks and carries a gigantic sword.&lt;NEXTPAGEBUTTON&gt;"Uh...sure. Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="182" prevId="8" villagerId="2015">
+        <Page social="1" voiceTypeId="0">If Rhodos ever trusts a man, then it should be this man—Cromagh! Cromagh the Invincible! Cromagh the...Unstoppable! Slayer of...Slayers!&lt;BR&gt;&lt;BR&gt;Now: What can Cromagh Slayer-Slayer do for you, little outlander?&lt;NEXTPAGEBUTTON&gt;"I took these talismans as trophies..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Ha! Well done you! One day you could be as mighty as Cromagh, who is mighty...mighty!&lt;BR&gt;&lt;BR&gt;Yes, the archdevas use these to summon and control the demokrons. Like a whistle...for dogs. A dog-whistle!&lt;NEXTPAGEBUTTON&gt;"Archdevas in the south don't use them."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Your southern archdevas probably don't need an army like they do here—an army to face Cromagh, the Army...Facer.&lt;NEXTPAGEBUTTON&gt;"What should I do now?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

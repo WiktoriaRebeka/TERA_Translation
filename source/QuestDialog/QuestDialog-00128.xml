@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1048">
+        <Page social="0">With Kamia's help, &lt;PCNAME&gt; killed several cultists, weakening the devan force.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1048">
+        <Page social="4" voiceTypeId="0">No. There are too many. We need reinforcements.&lt;BR&gt;&lt;BR&gt;But I'm worried that if we go back for more troops, the devans and the cultists will scatter, and we'll be back to square one.&lt;BR&gt;&lt;BR&gt;What do you think we should do, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"We can handle this ourselves."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1048">
+        <Page social="4" voiceTypeId="0">Okay, then. Let's do this!&lt;BR&gt;&lt;BR&gt;If we are to succeed, we need to kill Reavers of Resurrection and Ebonheart Sorcerers, as well as their leader...a real beast, named Basenius!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1049">
+        <Page social="4" voiceTypeId="0">That does it. There are still plenty of these cultists, but without Basenius and his alliance with the devas, they're not much of a threat.&lt;BR&gt;&lt;BR&gt;Once again, &lt;PCNAME&gt;, you've done Crescentia and Lumbertown an immeasurable service. Thank you.</Page>
+    </Text>
+</QuestDialog>

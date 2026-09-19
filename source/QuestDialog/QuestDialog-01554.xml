@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">The recovered evidence was very important to the Highwatch Seekers.&lt;BR&gt;&lt;BR&gt;You battled to reach High Seeker Janiam who could give you permission to enter Highwatch.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">Dougal is on the move now. You should discuss this issue with Madat.&lt;NEXTPAGEBUTTON&gt;"Sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2107">
+        <Page social="1" voiceTypeId="0">It seems you were successful in your mission, &lt;PCNAME&gt;. Are you headed for Highwatch now?&lt;NEXTPAGEBUTTON&gt;"Yes, I am."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Then don't waste any time. You should leave at once.&lt;NEXTPAGEBUTTON&gt;"I don't feel right leaving you all here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">We cannot move the entire encampment up that road without suffering heavy losses—not without reinforcements. "Not all roads should be tread, not all armies should be engaged, not all territory should be fought over."&lt;BR&gt;&lt;BR&gt;You must arrange for the reinforcements that will get us out of this trap we have created for ourselves.&lt;NEXTPAGEBUTTON&gt;"Will do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2012">
+        <Page social="1" voiceTypeId="0">Salutation, stranger. I am Sentinel Durom, commander of this contingent of Seekers. I surmise that your are one of the foreign arrivals in the valley. What purpose brings you to me?&lt;NEXTPAGEBUTTON&gt;"Renish sent me. I need to get to Highwatch."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">As fortune would have it, I have newly been authorized by High Seeker Janiam to arrange the evacuation of the resistance fighters to the city. Once they begin moving up the road to Highwatch, we will use our siege engine to clear the way.&lt;NEXTPAGEBUTTON&gt;"Should I inform my friends?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I will send word to Renish to prepare the camp for departure.&lt;BR&gt;&lt;BR&gt;You, meanwhile, should speak to Karlam, near the Parthian barricade. He can guide you to our next outpost—from which you can reach Highwatch in relative safety.&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2063">
+        <Page social="1" voiceTypeId="0">Endeavor to avoid attention, foreigner. The Parthian lines are just a short distance away.&lt;BR&gt;&lt;BR&gt;Do you have a message for me?&lt;NEXTPAGEBUTTON&gt;"Durom said you could get me past...?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I do not share Durom's confidence in that regard. As you can see, the Parthian forces completely control this section of the road.&lt;BR&gt;&lt;BR&gt;May I recommend that you speak to Sentinel Durom again, and suggest that he revise his assessment?&lt;NEXTPAGEBUTTON&gt;"Will do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2012">
+        <Page social="1" voiceTypeId="0">I had not expected to make your acquaintance again at this juncture. Is something amiss?&lt;NEXTPAGEBUTTON&gt;"The road is blocked."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Hmm. Then you have a choice to make. There is an alternate route which both we and the enemy avoid, due to the unusually high concentration of valley grizzlies and the occasional valley mugato. It parallels the road, and lets out just beyond the enemy lines.&lt;BR&gt;&lt;BR&gt;You can make your way through via that passage, and, in fact, if you were to thin out the beasts' numbers, it would be much safer to send the camp's refugees via that route, when they arrive.&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2049">
+        <Page social="1" voiceTypeId="0">Felicitations, outlander. I am Seeker Tercad. I was able to observe your approach, and I must say that I admire your skill and bravery.&lt;BR&gt;&lt;BR&gt;What is so urgent that you are willing to fight your way through a host of savage beasts to reach our embattled position?&lt;NEXTPAGEBUTTON&gt;"I'm looking for High Seeker Janiam."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">The High Seeker is overseeing our operations from farther up the hill.&lt;BR&gt;&lt;BR&gt;Continue eastward along the road and you cannot fail to encounter him.&lt;NEXTPAGEBUTTON&gt;"Thanks—and good luck here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

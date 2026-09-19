@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="4">Okay, so I may have been a little...dismissive...about the huge pumpkin monster. Sorry about that.&lt;BR&gt;&lt;BR&gt;But I just figured out the source of the attacks: Gourdo.&lt;BR&gt;&lt;BR&gt;Most of the year, he's a harmless spirit. But come harvest time, he grows in power—and he's always had a knack for summoning. He'll bury us under his minions.&lt;BR&gt;&lt;BR&gt;We need to soothe Gourdo somehow. You know...placate the angry spirit, just like any proper ghost story. You know how to placate a spirit?&lt;NEXTPAGEBUTTON&gt;"I'm better at fighting than placating."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">At this point, I'll take what help I can get. Keep all the uninvited guests out of the party hall.&lt;BR&gt;&lt;BR&gt;If you see Gourdo, disperse him. If you do that, he's next year's problem.&lt;BR&gt;&lt;BR&gt;One last thing. Take this—it's a little something for later.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="8001">
+        <Page social="5">I'm hiring you to be the bouncer at all our parties, &lt;PCNAME&gt;. Well, we don't have many parties. Too much study, chores, study, chores...but nevertheless, you're good at keeping the riffraff out.&lt;BR&gt;&lt;BR&gt;Since it's Halloween, you deserve a treat! Take this, and feel free to enjoy the party!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="8001">
+        <Page social="0">Keep the tuwangis away from the candy!&lt;BR&gt;&lt;BR&gt;And if you see Gourdo, kick him out. We sure didn't invite him to the party.</Page>
+    </Text>
+</QuestDialog>

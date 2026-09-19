@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Protecting Paesyn, &lt;PCNAME&gt; advanced to the heart of Energia Celo, killing every monster that arose.&lt;BR&gt;On the way, &lt;PCNAME&gt; witnessed the tragic scene of captured Parthians being transformed into demokrons.&lt;BR&gt;Zolyn appeared with her mercenaries, asking &lt;PCNAME&gt; to free the captives while she and her soldiers advanced to wipe out the archdevan guards.&lt;BR&gt;However, when &lt;PCNAME&gt; and Paesyn followed Zolyn, they had to witness an even more tragic scene...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="818" prevId="2" villagerId="1112">
+        <Page social="4" voiceTypeId="0">What? No, I'm going with you! Zolyn says you're very important—part of a prophecy!&lt;BR&gt;&lt;BR&gt;If you get in trouble, I can go get help!&lt;NEXTPAGEBUTTON&gt;"I...okay. But stay back until it's safe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="818" prevId="3" villagerId="1112">
+        <Page social="4" voiceTypeId="0">How many guards do you think there are?&lt;BR&gt;&lt;BR&gt;Do you think maybe we should wait for Zolyn?&lt;NEXTPAGEBUTTON&gt;"I'm going in—I heard prisoners in there. Stay here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="818" prevId="4" villagerId="1116">
+        <Page social="4" voiceTypeId="0">Thanks for keeping Paesyn safe. I guess he's kind of...grown on me.&lt;BR&gt;&lt;BR&gt;Okay, down to business: I'll take my soldiers in to capture the lab. You find a way to release these prisoners.&lt;BR&gt;&lt;BR&gt;Oh, and don't mention this to Rhodos! All of these test subjects are Parthians—his people. Rhodos would go berserk to see them like this.&lt;NEXTPAGEBUTTON&gt;"I understand. I'll join you when I'm finished."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="818" prevId="5" villagerId="1103">
+        <Page social="4" voiceTypeId="0">We have to save her!&lt;BR&gt;&lt;BR&gt;I'm not leaving until we get her back!&lt;BR&gt;&lt;BR&gt;You're supposed to be a hero! You're supposed to be THE hero! The prophecy! Mystel's "chosen one!"&lt;BR&gt;&lt;BR&gt;HELP ME GET HER BACK!&lt;NEXTPAGEBUTTON&gt;"There's nothing we can do from here. I'm sorry."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="818" prevId="6" villagerId="1002">
+        <Page social="4" voiceTypeId="0">I have arrived both in time...and too late. I am sorry that your friend Zolyn could not be saved, but take heart: Mystel has prophesied that you will see her again.&lt;BR&gt;&lt;BR&gt;Now, to address your role in events: That machine in the middle of the room regulates the Storm Barrier. It cannot be shut down...but it can be overloaded.&lt;BR&gt;&lt;BR&gt;Pull the lever, and it will destroy itself.&lt;NEXTPAGEBUTTON&gt;"It will be my pleasure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="818" prevId="7" villagerId="1002">
+        <Page social="4" voiceTypeId="0">The regulator is going to explode!&lt;BR&gt;&lt;BR&gt;We should depart without delay.&lt;NEXTPAGEBUTTON&gt;"Come on, Paesyn...it's time to go."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

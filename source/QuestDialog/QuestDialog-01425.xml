@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Seriously? You want a custom-made pirate hat?&lt;BR&gt;&lt;BR&gt;Look, if you don't have a piece of cyasma-infused leather sitting in a bank vault somewhere, there's nothing I can do for you. Even the Invalesco don't bother with it anymore.&lt;NEXTPAGEBUTTON&gt;"It so happens, I do!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Well, well. Been hoarding this somewhere, have you? No, none of my business.&lt;BR&gt;&lt;BR&gt;Let's get you that hat. Which color did you want?&lt;NEXTPAGEBUTTON&gt;"Let's see..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Let me guess: You've found everything but the cyasma-infused leather.&lt;BR&gt;&lt;BR&gt;Want my advice? If you haven't found it by now, you're not going to.</Page>
+    </Text>
+</QuestDialog>

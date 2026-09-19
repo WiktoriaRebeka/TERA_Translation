@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1001">
+        <Page social="4">Parlan asked me to help him with his research, but his request is slightly insane. He wants me, ME, to bring him some ghilliedhu roots.&lt;BR&gt;&lt;BR&gt;I can barely weed a garden, I'm not about to go toe-to-toe with a growling, walking tree. Could you go into the northern Bestial Vale and collect roots from {@LinkCreature:3#3#Mossy Ghilliedhus}?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1001">
+        <Page social="4">You're a lifesaver, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;This is just what Parlan wants. Would you mind taking them to him? I've some notes to finish on some other flora.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1001">
+        <Page social="0">I'm pretty sure Parlan only wants roots from {@LinkCreature:3#3#Mossy Ghilliedhus}. I doubt I could fool him with a substitute.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1009">
+        <Page social="4">&lt;PCNAME&gt;! Good to see you again. And you brought ghilliedhu roots? Excellent!&lt;BR&gt;&lt;BR&gt;It's all part of my elixir research. It's dangerous, I know, but a priest or mystic isn't always around to save the fallen. A potion that could do it would be a treasure beyond price for the Valkyon Federation!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1041">
+        <Page social="4">&lt;PCNAME&gt;! I need your help—right now!&lt;NEXTPAGEBUTTON&gt;"What's wrong?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">The argons attacked a Shariar transport somewhere between the Argon Bulwark and Carnage Vale.&lt;BR&gt;&lt;BR&gt;Your orders are to locate the transport and provide aid to any survivors. Especially...uh, just hurry.&lt;NEXTPAGEBUTTON&gt;"I'll leave at once."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1042">
+        <Page social="6">Didn't expect to see anyone so quickly. I assume I have Truhna to thank for that.&lt;NEXTPAGEBUTTON&gt;"Any casualties?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">None from the crash, but the subsequent ground attack cost us a lot of lives.&lt;BR&gt;&lt;BR&gt;We've set up a defensible position, and I have scouts moving toward our original target, but we could use some help if you're up to it.</Page>
+    </Text>
+</QuestDialog>

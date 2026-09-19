@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1020">
+        <Page social="4">&lt;PCNAME&gt;! We've got big problems. Last night—keep this quiet, all right?&lt;BR&gt;&lt;BR&gt;After the mekonaris took the woods and the junction, they blockaded the valley. Dragonfall looked safe, but just now the Watch found a house empty. Whole family snatched. A few bloodstains...and some black feathers.&lt;BR&gt;&lt;BR&gt;If word gets out...well, the town's in a panic already.&lt;BR&gt;&lt;BR&gt;We have to act! My guild will scout ahead if you can break the blockade. You in?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1006">
+        <Page social="4">Well met, &lt;PCCLASS:lcase&gt;! My day is improving!</Page>
+    </Text>
+</QuestDialog>

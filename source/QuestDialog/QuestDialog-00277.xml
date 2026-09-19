@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="4">The Red Lash pirates are getting close to our perimeter. Too close, if you ask me.&lt;BR&gt;&lt;BR&gt;After all, why call it a perimeter if you're not going to enforce it?&lt;BR&gt;&lt;BR&gt;Make sure the {@LinkCreature:11#4001#Red Lash crushers} and {@LinkCreature:11#4002#rovers} southwest of here stay away from our base. Heck, paint 'em a boundary line in their blood if you like.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1005">
+        <Page social="4">What a find! The code is simple...It might take a while, but there shouldn't be a problem decoding it. Thank you, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1005">
+        <Page social="0">See, it's all about setting boundaries—and then enforcing them in a bloody, brutal way.&lt;BR&gt;&lt;BR&gt;Reminds me of my childhood, actually.</Page>
+    </Text>
+</QuestDialog>

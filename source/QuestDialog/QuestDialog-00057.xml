@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1009">
+        <Page social="4">The basilisks are laying eggs. Bestial Vale is already crawling with the monsters, we don't need more.&lt;BR&gt;&lt;BR&gt;If you could collect some eggs, we could stave off the basilisk births and do some experiments. Those eggs are very magical. Might make something useful.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1009">
+        <Page social="4">Yuck, but great! Look at these eggs. They're a little soft and you can even see something moving when you look closely. Maybe they'll hatch soon!&lt;BR&gt;&lt;BR&gt;The eggs might complete the elixir of resurrection. I'll have to try a sample. Give me a minute.&lt;BR&gt;&lt;BR&gt;(Mixes the ingredients and makes something.)&lt;BR&gt;&lt;BR&gt;Done! Now I've made my first elixir of resurrection. I'd love to give you the honor of taking this elixir first, but too bad you're not dead yet.&lt;BR&gt;&lt;BR&gt;(Smacks his lips.)&lt;BR&gt;&lt;BR&gt;Well, you can see how it works if you use this on an {@LinkCreature:203#1023#Unfortunate Victim}. Here, take it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1009">
+        <Page social="0">The eggs are most likely found in the Nest of the Beast.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1023">
+        <Page social="0">(Moss partially covers the lifeless form. This person's been dead a very long time. You uncork the vial and pour the elixir into the mouth.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1024">
+        <Page social="0">As soon as you pour the reagent over the body, the body dissolves to the ground! You jump in surprise and when you look at the ground where the body melted, only fragments of bones remain. Maybe the body was dead for too long to be saved.&lt;BR&gt;&lt;BR&gt;Hmmm... Or maybe the medicine that Parlan gave you... &lt;BR&gt;&lt;BR&gt;Nevermind, let's go back and report what happened.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="6" villagerId="1009">
+        <Page social="4">Well, it would be unprecedented for the elixir to work the very first time. This was a test and I'll learn from it.&lt;BR&gt;&lt;BR&gt;Perhaps we'll be able to save basilisk victims in the future.</Page>
+    </Text>
+</QuestDialog>

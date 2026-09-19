@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1011">
+        <Page social="4">My husband died protecting Acarum. The {@LinkCreature:32#3#Sihran berserkers} cut off his hands, and let him bleed to death.&lt;BR&gt;&lt;BR&gt;His spirit haunts me, begging me to bring him some justice. I know what he wants, but I can't do it, and everyone in the village thinks I'm mad so they won't help.&lt;BR&gt;&lt;BR&gt;It's such a simple request—just kill the {@LinkCreature:32#3#Sihran berserkers}, cut off their hands, and offer them to Batuk's spirit on Mount Tyrannas.&lt;BR&gt;&lt;BR&gt;Here, you may need this sack.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1006">
+        <Page social="4">(The path to the grave is well-worn by travelers' feet. You put the sack of hands in a place already stained with blood. What's going on here?)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1006">
+        <Page social="0">Batuk died at Daunting Pass.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:32#3#Sihran berserkers} that murdered him and {@LinkCreature:32#1$$fighters} and take their hands.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="232" prevId="3" villagerId="1019">
+        <Page social="4">You believed her too, huh? She hasn't been the same since Batuk died. Haunted.&lt;BR&gt;&lt;BR&gt;She keeps sending people out after hands. At least it's Sihran hands...and not anyone else's.&lt;BR&gt;&lt;BR&gt;Can we just keep this between us? Thanks.</Page>
+    </Text>
+</QuestDialog>

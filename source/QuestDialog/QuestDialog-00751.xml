@@ -1,0 +1,66 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1027">
+        <Page social="4" voiceTypeId="0">Report immediately to {@linkcreature:73#1009#Georrif} at Tempest Reach on the Frozen Coast. Support the arcanists looking into the cause of the recent disaster and subsequent undead attacks.–Mysterium Chief Arcanist Ryshan</Page>
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1009">
+        <Page social="4" voiceTypeId="0">I'm glad you're here. As near as anyone can tell, a mana fluctuation along the shoreline caused that freak storm. The water—and everything that was in it—are frozen solid.&lt;BR&gt;&lt;BR&gt;Kennance at Glacial Bay Research Station is in charge of the mana gauges. She could use your help.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1024">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;? Good. I heard you were in the area.&lt;BR&gt;&lt;BR&gt;You've heard about our mana gauges, right? Okay, here's the problem: As soon as we installed the gauges, the undead moved in.</Page>
+        <Page social="0" voiceTypeId="0">I never saw so many in one place.&lt;BR&gt;&lt;BR&gt;Unless I miss my guess, this is Thulsa's work.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We sent one of our researchers, Versa, to collect results from the gauges we put along the shore of Icefang Inlet, but she hasn't come back. Can you go look for her?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1046">
+        <Page social="4" voiceTypeId="0">Thank goodness! A soldier!&lt;BR&gt;&lt;BR&gt;An {@LinkCreature:31#2#ossugon icelord} attacked me, and I had to flee. If it hadn't been for that bard, you'd be rescuing a corpse. She played her harp and the monsters just scattered!&lt;BR&gt;&lt;BR&gt;Unfortunately, the {@LinkCreature:31#2#icelord} took the mana wave maps with the research data I've collected. Can you help me get them back? We need that information.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" prevId="5" villagerId="1046">
+        <Page social="4" voiceTypeId="0">Thank you for your help! Do you think I could lean on you one more time?&lt;BR&gt;&lt;BR&gt;I couldn't reach the last two mana gauges because of the icelords. Can you find them and fetch their results? Just follow this path up the hill. Once you retrieve the mana wave maps, take them to Matil at the Beacon Point Garrison.&lt;BR&gt;&lt;BR&gt;When it comes to the study of necromancy, he has no equal in the Mysterium. Don't worry about me. I'll catch a ride back with the garrison soldiers.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="231" villagerId="1046">
+        <Page social="0">We really need to know what those gauges say. I hope you can get them back.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="231" prevId="6" villagerId="1047">
+        <Page social="0" voiceTypeId="0">(Light escapes from the gauge and shows a piece of parchment sticking out from inside.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="231" prevId="8" villagerId="1048">
+        <Page social="0" voiceTypeId="0">(Take this path to the top of the hill. I'll be waiting for you there with the mana wave maps.)&lt;BR&gt;&lt;BR&gt;(—Ona)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="231" prevId="9" villagerId="1041">
+        <Page social="4" voiceTypeId="0">Do you see that cyclone? Zenobia, goddess of storms, laid her lover Iannis to rest at its center. She has kept the waters calm over his grave so their descendants can reap the bounty of the sea.&lt;NEXTPAGEBUTTON&gt;"It's a sad story."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Not so sad as what Thulsa's followers have planned. They're using tombstones to concentrate his necromantic power around Iannis's crypt. They want to bring Iannis back...undead.&lt;BR&gt;&lt;BR&gt;Zenobia froze the sea to stop it temporarily.&lt;BR&gt;&lt;BR&gt;If only we knew more about Thulsa's magic, maybe we could find a more permanent solution.&lt;NEXTPAGEBUTTON&gt;"I know someone!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">A researcher? Then perhaps there's hope for Tempest Reach. Please help me. Tell your researcher friend what's happening, and find a way to stop Thulsa!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="231" prevId="10" villagerId="1049">
+        <Page social="4" voiceTypeId="0">It's about time someone brought me those readouts.&lt;BR&gt;&lt;BR&gt;Tombstones? A bard? How did she get anywhere near Icefang Inlet? Maybe she's one of Thulsa's spies.&lt;NEXTPAGEBUTTON&gt;"Quite the opposite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">They told me I was getting someone to help, not give me more work.&lt;BR&gt;&lt;BR&gt;But I won't pretend I'm not intrigued. If you can bring me some blood from drowned gula {@LinkCreature:31#14#bosuns} or {@LinkCreature:31#15#officers}, I can analyze the mana to see if it's gotten any stronger.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="231" villagerId="1049">
+        <Page social="0">Aren't you the one who's supposed to bring me the mana wave maps?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="231" prevId="11" villagerId="1049">
+        <Page social="4" voiceTypeId="0">Hmm. Your so-called bard is right—something's definitely going on, and those "tombstones" are concentrating the mana somehow.&lt;NEXTPAGEBUTTON&gt;"Do you know how to destroy them?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Yes, but I don't think you're going to like it.&lt;BR&gt;&lt;BR&gt;Seraeno the Dark Caller is running the show with the Thulsans. You're going to have to kill this Seraeno to get the Onyx Breath, a black mana core, from him. Then you can use it on this seal to destroy those {@linkcreature:31#34#bloody tombstones}.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="231" villagerId="1049">
+        <Page social="0">Did you get that blood yet?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="231" prevId="13" villagerId="1040">
+        <Page social="4" voiceTypeId="0">(The dark magic fades.)</Page>
+    </Text>
+    <Text id="16" huntingZoneId="231" prevId="15" villagerId="1100">
+        <Page social="4" voiceTypeId="0">Thank you. Without your help I could not have returned.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="231" prevId="16" villagerId="1101">
+        <Page social="4" voiceTypeId="0">Return to my people, and tell them their struggles are nearing an end. I will aid them in driving away the undead.&lt;BR&gt;&lt;BR&gt;As for you...I, Zenobia, Goddess of the Winds, give you my blessing. May Arun and Shara dream your way safely.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="231" prevId="17" villagerId="1049">
+        <Page social="4" voiceTypeId="0">What? The bard was Zenobia?&lt;BR&gt;&lt;BR&gt;You didn't tell her I called her a spy, did you?&lt;BR&gt;&lt;BR&gt;Well, I guess we're heading in the right direction. If Zenobia is helping us, we may get there even sooner than we hoped.&lt;BR&gt;&lt;BR&gt;Go back to Acarum and tell {@linkcreature:73#1110$$Harule}.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="73" prevId="18" villagerId="1110">
+        <Page social="4" voiceTypeId="0">Divine intervention, eh? Well, I believe it. Maybe you're the one whom bards will sing about.&lt;BR&gt;&lt;BR&gt;Meanwhile here's a little something from the federation and from us. You've earned it.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1702">
+        <Page social="4">So Jax wasn't kidding...new recruits.&lt;BR&gt;&lt;BR&gt;I'll keep it simple: our organization profits when Cutthroat Harbor flourishes.&lt;BR&gt;And it's hard to flourish around here with all the monsters. Go hunt arachnen stalkers and Red Lash enforcers on the eastern beach. We'll all profit.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1702">
+        <Page social="4">Good job taking care of those pests so quickly. You've done this before, haven't you?&lt;BR&gt;&lt;BR&gt;You know, that beach needs clearing on a daily basis. I'm just sayin'. Oh, and take this reward for your good work.</Page>
+    </Text>
+</QuestDialog>

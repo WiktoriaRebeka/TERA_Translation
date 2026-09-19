@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">You made a dish and gave it to Melsa.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="4">Welcome back, &lt;PCNAME&gt;! Came back to Rootstock for some more fun, eh?&lt;BR&gt;&lt;BR&gt;Any chance you can you come back later? I'm kind of swamped; we ran out of food last night, so I need to make a lot more today.&lt;NEXTPAGEBUTTON&gt;"Anything I can do to help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh, my! Are you sure? Yes! Absolutely! I already know you're a great cook, &lt;PCNAME&gt;, so you'd be a big help!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">For now, I don't need anything too complex—but I don't have time to do it myself. &lt;NEXTPAGEBUTTON&gt;"Just tell me what you need."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Popped cobseed was extra-popular yesterday, so how about you make up a batch of that?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">The mudroot salad went over really well, so I could use some more of that!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Pigling is always a big hit. Fire up the grill!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">Oh my, that's some savory cobseed! Nice and salty, too, so we'll sell a lot of root beer with this!&lt;BR&gt;&lt;BR&gt;Hey, &lt;PCNAME&gt;, since you helped me, let me give you this. You can use it anytime. &lt;NEXTPAGEBUTTON&gt;"I didn't do much."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Don't forget: Always keep the recipe handy, and you can't go wrong!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">You made enough mudroot salad to feed an army, &lt;PCNAME&gt;! Good work!&lt;BR&gt;&lt;BR&gt;Listen: Since you helped me, let me give you this. You can use it anytime. &lt;NEXTPAGEBUTTON&gt;"I didn't do much."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" villagerId="7000">
+        <Page social="0">When in doubt, always check the recipe.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" prevId="3" villagerId="7000">
+        <Page social="4">I don't know what it is about monster fights that makes people hungry for grilled pigling, but this should satisfy them!&lt;BR&gt;&lt;BR&gt;Hey, &lt;PCNAME&gt;, since you helped me, let me give you this. You can use it anytime. &lt;NEXTPAGEBUTTON&gt;"I didn't do much."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="12" huntingZoneId="219" villagerId="7000">
+        <Page social="0">When in doubt, check the recipe. That's my secret!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1015">
+        <Page social="5">Whew! I've been drawing up evacuation contingency plans all day. My usual business is going by the wayside.&lt;BR&gt;&lt;BR&gt;I haven't even followed up with young...Gumbi? Gamilon? The youngster running the southern gate.&lt;BR&gt;&lt;BR&gt;It sounded urgent. Can you do an old man a favor?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1027">
+        <Page social="5">Thanks for coming. Old Bisi's been so busy I'm surprised he remembered! Camp Vigilance, south of there, is full of plague researchers, and that pack of {@LinkCreature:15#3#sulking inky sabertooths} has cut them off. Could you clear a path?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1009">
+        <Page social="5">Sabertooth fangs! Much prefer them outside the sabertooth's mouth, don't you?&lt;BR&gt;&lt;BR&gt;Say, are you free to help with another little problem?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" villagerId="1009">
+        <Page social="0">I'd rather have a dozen sabertooth fangs in my hand than a pair in the back of my neck. You're working on that, aren't you?</Page>
+    </Text>
+</QuestDialog>

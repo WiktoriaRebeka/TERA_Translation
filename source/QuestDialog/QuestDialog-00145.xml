@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1019">
+        <Page social="5">Gutrends are running around everywhere! Preying on the weak. Our children can't even play anymore! It's just terrible!&lt;BR&gt;&lt;BR&gt;There are some that seem to be targeting the kids. I assume those are the weakest of the group—the {@LinkCreature:6#2051#Gutrend reapers} and {@LinkCreature:6#2061#sentries}.&lt;BR&gt;&lt;BR&gt;Knock 'em back and maybe we'll be able to let the children outside the house, at least.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1019">
+        <Page social="5">Well, it's a step in the right direction. More to be done, but we'll be safer for a while.</Page>
+    </Text>
+</QuestDialog>

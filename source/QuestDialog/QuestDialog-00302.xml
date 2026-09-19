@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1024">
+        <Page social="4">Yeah, I'll pay to have you bug someone else, but it's pay, not a handout.&lt;BR&gt;&lt;BR&gt;When the pirates chased me here, I had to jettison some of my cargo to stay ahead of them.&lt;BR&gt;&lt;BR&gt;It washed up on the beach, just down that staircase east of the village. Bring them to {@LinkCreature:212#1002$$Sidara}, who'll pay you to stay away.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="4">You recovered more than Dirken thought you would. Wait a minute...no wonder! You recovered crates that don't belong to us.&lt;BR&gt;&lt;BR&gt;This one belongs to that blasted regiment. Hmm....&lt;BR&gt;&lt;BR&gt;Finders keepers, eh? You're getting paid, so as far as I'm concerned, that makes it private between us. Are you picking up what I'm putting down?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1002">
+        <Page social="0">Why are you here? Unlike a soldier, I don't get paid to stand in one place and let teenagers admire the uniform.&lt;BR&gt;&lt;BR&gt;I work for a living. You could work for a living, too, if you got those crates over on the beach.</Page>
+    </Text>
+</QuestDialog>

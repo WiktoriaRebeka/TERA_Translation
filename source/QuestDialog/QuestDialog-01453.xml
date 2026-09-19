@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="56" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1070">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1070">
+        <Page social="5">A duel, remember, is a test of skill between two opponents. It is never a fight to the death. The federation needs soldiers, not dead fools.&lt;BR&gt;&lt;BR&gt;So what do you say—are you ready to go a round?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1070">
+        <Page social="5">Duels aren't brawls, so pay attention and learn the protocol. Dueling requires consent, so show respect and ask. Any coward who doesn't want to duel you can decline and walk away.&lt;BR&gt;&lt;BR&gt;Dueling is never to the death—it's a sport of honor! You can duel freely outside the city limits, but in town you can only duel in certain areas. Some people are just too soft to enjoy the sight of two skilled opponents battling right to the very edge!&lt;NEXTPAGEBUTTON&gt;"All right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">If you want to duel, type &lt;b&gt;/duel "character name"&lt;/b&gt; in your Chat window, or bring up your cursor by pressing the Alt key, &lt;b&gt;right-click your opponent, and select Duel from the menu.&lt;/b&gt;&lt;BR&gt;&lt;BR&gt;Your opponent must agree, so there might be a bit of a wait—be patient!&lt;BR&gt;&lt;BR&gt;If someone challenges you, you'll see a message on your screen. You can &lt;b&gt;accept or decline&lt;/b&gt; as you please.&lt;BR&gt;&lt;BR&gt;For those who fight for it, however, life has a flavor the sheltered can never know.</Page>
+    </Text>
+</QuestDialog>

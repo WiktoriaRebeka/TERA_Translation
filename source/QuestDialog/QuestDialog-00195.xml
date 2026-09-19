@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1022">
+        <Page social="4">So far, &lt;PCNAME&gt;, you've hurt the gulas, but we need to limit their power.&lt;BR&gt;&lt;BR&gt;That means hitting the {@LinkCreature:8#3041#gula overseers} and the {@LinkCreature:8#3042#kobold thugs}. Anything that fits into their shackles becomes a slave and slavery's where they make their gold.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1022">
+        <Page social="4">These ledgers...they're a trove of information!&lt;BR&gt;&lt;BR&gt;Business partners, slave families who've been split up...everything's in here!&lt;BR&gt;&lt;BR&gt;I'm sending this onward to high command. Well done!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1022">
+        <Page social="0">If we keep them from collecting slaves, we keep them from selling slaves. It's that simple.</Page>
+    </Text>
+</QuestDialog>

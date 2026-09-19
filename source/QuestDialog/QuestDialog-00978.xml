@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="4">I believe the plague hasn't spread to Frontera because they use a different well.&lt;BR&gt;&lt;BR&gt;In order to confirm my hypothesis, however, I need you to go to the Quarantined Village and collect samples of their contaminated wellwater.&lt;BR&gt;&lt;BR&gt;Leave them with {@LinkCreature:240#1035$$Narpa}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1035">
+        <Page social="0">Excellent! Now I can continue with my research. With luck, we'll find a way to end this.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1035">
+        <Page social="0">We must have samples of the contaminated wellwater from the village! Please—we're counting on you.</Page>
+    </Text>
+</QuestDialog>

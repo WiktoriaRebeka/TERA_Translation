@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Fraya asked you to track down Akasha, who kidnapped Serion, a living embodiment of the Core energy that powers high elf civilization. You arrived in Castanica, where Elleon told you that Akasha was working with gulas from the Hungry Caverns.&lt;BR&gt;&lt;BR&gt;You infiltrated the Hungry Caverns, defeated the head gula, Gluorn, and discovered that Akasha had likely fled to Fyrmount.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5" voiceTypeId="0">Mission Orders&lt;BR&gt;&lt;BR&gt;We have received new information about the Core.&lt;BR&gt;&lt;BR&gt;Report to Commander Fraya at Allemantheia Headquarters immediately.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">I'll get straight to the point. Akasha has left Southern Shara, and it's almost certain she took the Core with her. I put in a word with our colleagues in Velika, and High Priestess Ciebel thinks she's found Akasha already.&lt;NEXTPAGEBUTTON&gt;"Let's go."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Allemantheia cannot spare me in this state. You'll have to go alone. Use this teleportal scroll, then talk to Ciebel in Velika.&lt;BR&gt;&lt;BR&gt;Please hurry. Every day without the Core brings Allemantheia closer to slipping into the sands.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1167">
+        <Page social="5" voiceTypeId="0">I was hoping Fraya would send you, &lt;PCNAME&gt;. I sensed two powerful presences—one emanating an elven serenity, the other seething with barely suppressed rage—enter the Hungry Caverns.&lt;NEXTPAGEBUTTON&gt;"And one is Akasha?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Yes. The echoes are fading, but she can't have gone far.&lt;BR&gt;&lt;BR&gt;Go to Castanica first. Elleon is there.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="4" villagerId="1104">
+        <Page social="5" voiceTypeId="0">&lt;PCNAME&gt;! Wherever I go, I hear of your exploits. We were blindsided in Allemantheia, but this time, we'll regain the Core.&lt;NEXTPAGEBUTTON&gt;"You know where it is?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Ciebel gave me a few leads. You know how good her sources are!&lt;BR&gt;&lt;BR&gt;Someone matching Akasha's description has been seen among the gulas. It's not much, but it's a lead.&lt;BR&gt;&lt;BR&gt;{@linkcreature:61#1105#Fraya} might have more details for you.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="61" prevId="5" villagerId="1105">
+        <Page social="5" voiceTypeId="0">Akasha is hiding among the gulas, and I'm not sure why. Why bring the Core here?&lt;BR&gt;&lt;BR&gt;I have my own suspicions...suspicions that drew me here, even though I'm needed back home. Also, here is in the scope of Velika.&lt;BR&gt;&lt;BR&gt;Regardless of my problems, we need the Core back. Check in with Smernav at the Gula Avenger Outpost. He'll get you inside the caverns.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1002">
+        <Page social="5" voiceTypeId="0">Elleon and Fraya sent you? Well, I hope you like a good fight. The gulas will give you all you can handle.&lt;BR&gt;&lt;BR&gt;The most dangerous of them is the enforcer {@linkcreature:8#8021#Dulinka} and his mekkitar guards.&lt;BR&gt;&lt;BR&gt;They're in the innermost part of the first floor; take them out, and you may gain some advantage.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="208" prevId="7" villagerId="1015">
+        <Page social="5" voiceTypeId="0">Don't hurt me! It's not my fault!&lt;BR&gt;&lt;BR&gt;Sure, I kept a high elf prisoner, but I didn't eat him!&lt;BR&gt;&lt;BR&gt;Look at me! I'm skin and bones! The high elf smelled so...so delicious. But I was a good gula. He still has all his fingers and toes!&lt;NEXTPAGEBUTTON&gt;"Where is he now?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The high elf? Akasha has him, I bet.&lt;BR&gt;&lt;BR&gt;First I was supposed to move the elf along with the supplies, but then Akasha changed plans.&lt;BR&gt;&lt;BR&gt;Now the orders say just move the supplies, not the tasty, juicy elf. My ledger says so!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="208" prevId="8" villagerId="1041">
+        <Page social="0" voiceTypeId="0">You've got gluron's ledger!&lt;BR&gt;&lt;BR&gt;I've heard that the gulas stocked in on a lot recently. I can't be sure, but it has to do something with Akasha.&lt;BR&gt;This place definitely has more than we know.&lt;BR&gt;&lt;BR&gt;First, let's go back to Fraya and check the ledger.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="208" prevId="8" villagerId="1041">
+        <Page social="0" voiceTypeId="0">Let's go!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="61" prevId="8" villagerId="1105">
+        <Page social="5" voiceTypeId="0">The ledger confirms what we thought—Akasha has kidnapped the Core, and she's taking him to Fyrmount.</Page>
+    </Text>
+</QuestDialog>

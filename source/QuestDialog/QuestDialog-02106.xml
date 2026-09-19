@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Message]&lt;BR&gt;&lt;BR&gt;Aheaf found something important. Please come to me when you see this message.&lt;BR&gt;&lt;BR&gt;- Vogzu</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Vogzu sent an urgent message. It seems to be something important.&lt;BR&gt;&lt;BR&gt;If you complete the quest, you can start &lt;font color='#FF3333'&gt;[Dungeon - 463] Hidden Enemy&lt;/font&gt;. Afterwards, the quest &lt;font color='#7F00FF'&gt;[Important] Kaia’s Anvil&lt;/font&gt; will be activated automatically.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="4" voiceTypeId="0">I was waiting for you &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Aheaf found out that there's an unknown force at a quarentine area in the fortress.&lt;BR&gt;&lt;BR&gt;I was hoping you would go and take a look what they are.</Page>
+    </Text>
+</QuestDialog>

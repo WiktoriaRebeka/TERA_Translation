@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1023">
+        <Page social="5">Have a job for you, soldier. We lose supplies to the Heavens Fall cultists. Every mouthful they eat strengthens them and weakens us! Need you to get back all you can from the {@LinkCreature:17#300551#barrelhead harvesters} east of here. Distasteful, but we have to stop these locusts to survive!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1023">
+        <Page social="5">Well done, soldier. Don't forget this lesson: hungry enemies are desperate enemies, and desperation causes mistakes. Just have to keep the pressure on.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1023">
+        <Page social="0">Know it's not pleasant, but each cultist you kill is a double victory for us. Done talking.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,32 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">After ending the bloodletting at the Raven Altar, you went to Amena Quatla to end Thulsa's plan. You slew the sikandari priests and their argon reinforcements, giving Isrenia time to join with Sikander.&lt;BR&gt;&lt;BR&gt;But even as she did, Thulsa and Killian appeared. Sikander, maddened, erupted as Kelsaik.&lt;BR&gt;&lt;BR&gt;But Kaia assured you there was still hope. Thulsa couldn't control Kelsaik. Kaia ordered you to find an ancient artifact and destroy Kelsaik before Thulsa could bind it.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">(Isrenia's voice)&lt;BR&gt;&lt;BR&gt;The sikandaris live around Sikander's temple in Amena Quatla. Sikander rests in a massive golden egg, if the Vanguards aren't lying. Find Sonacria at Broken Bridge Camp. She'll know what to do now. And Kaia watch over you!</Page>
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1008">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;? I'd heard you were—&lt;BR&gt;&lt;BR&gt;Wait, what? The sikandaris are waking Sikander? Now? Oh, blast and damnation! That explains all kinds of things.&lt;BR&gt;&lt;BR&gt;A huge parade of elders and attendants entered Sikander's temple this morning. Sikander sleeps in a huge egg down south, but I'd bet my weight in wine that ritual's in the temple!&lt;BR&gt;&lt;BR&gt;Go! And may your strength suffice!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="474" prevId="3" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Excellent work, . Sikander's turmoil is lessening. He might heal on his own now...if left alone.&lt;BR&gt;&lt;BR&gt;Isrenia, I sense you too! You know what you have to do, don't you—what Isren would want? And the cost?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, stop that ritual! If you don't, we're all done for. Even me. I can think of no flowery blessings—just know that I trust you with this.&lt;BR&gt;Now go. Fight! Win!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="474" prevId="4" villagerId="1008">
+        <Page social="4" voiceTypeId="0">It's time. I'm ready.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;...thank you. I enjoyed walking the mortal world for a little while with you.&lt;BR&gt;&lt;BR&gt;But now Sikander needs me...needs all I have.&lt;BR&gt;&lt;BR&gt;Sikander! Remember Isren! Remember her—our—love for you!&lt;BR&gt;&lt;BR&gt;Don't do this!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="474" prevId="5" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Damn you, Thulsa! How can someone so smart be so stupid?&lt;BR&gt;&lt;BR&gt;Be proud, mortal. Though Thulsa woke Kelsaik, through your efforts he lost control of it. Kelsaik is a crazed beast instead of an obedient weapon.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="474" prevId="6" villagerId="1009">
+        <Page social="4" voiceTypeId="0">This is a tragedy, and the beast is unimaginably dangerous, but we can beat them separately.&lt;BR&gt;&lt;BR&gt;I will summon you. Come back to Kaiator. Are you ready?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="474" prevId="6" villagerId="1009">
+        <Page social="4" voiceTypeId="0">I will see you at Kaiator. You did well.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="528" prevId="6" villagerId="5029">
+        <Page social="4" voiceTypeId="0">I cannot use powers like I used to ever since the gate closed.&lt;BR&gt;But I got you back in one piece. &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;With using Saleron's Inscribed Fragment, you should be able to defeat Kelsaik.&lt;NEXTPAGEBUTTON&gt;"Where is Saleron?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Saleron is imprisoned in Doomcrypt.&lt;BR&gt;&lt;BR&gt;But with his power, controlling Kelsaik as he wishes wouldn't be a problem. I suspect that Thulsa and Killian both are after the fragment as well.&lt;BR&gt;&lt;BR&gt;You must put a stop to them.</Page>
+    </Text>
+</QuestDialog>

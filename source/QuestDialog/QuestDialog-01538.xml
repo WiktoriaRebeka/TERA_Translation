@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="3001">
+        <Page social="0">Hagand's attempt to activate the Relativity Stone failed, leading him to suggest that disabling the Storm Barrier would be the key to opening the teleportal to Velika.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="3001">
+        <Page social="4" voiceTypeId="0">Paesyn said he needed to talk to you—said it was really important. He was going to come looking for you himself, but I convinced him to let me come with him.&lt;BR&gt;&lt;BR&gt;He's waiting in the pasture at the top of this ladder.&lt;NEXTPAGEBUTTON&gt;"I'll go talk to him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1103">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! We found you!&lt;BR&gt;&lt;BR&gt;Listen, I need your help! I saw Zolyn looking at a picture of her sister earlier, and they were holding springlike flowers. And a little while ago, I saw a baraka with some of those very same flowers!&lt;BR&gt;&lt;BR&gt;I want to give them to Zolyn, as an apology for whatever I did wrong with that relaxation potion I gave her. The baraka said they grow around here somewhere, but I can't find any! Help me!&lt;NEXTPAGEBUTTON&gt;"Are you SURE that's what you want to do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Of course! Why not? They'll remind her of her sister—and even if that doesn't make her feel good, it will make her that much more determined to find her again! It's a sure thing!&lt;BR&gt;&lt;BR&gt;Did you see any, down in the quarry?&lt;NEXTPAGEBUTTON&gt;"No...but I might know someone who knows where to find them."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Oh, thank you, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;And I promise: Whether this works or not, that's the end of it! I won't try to cheer Zolyn up any more!&lt;BR&gt;&lt;BR&gt;...But it'll work. I know it will!&lt;NEXTPAGEBUTTON&gt;"Sure, Paesyn. I'll let you know if I find them."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You're the best, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;While you talk to your contact, I'll keep looking for the flowers around here. Be careful, now!&lt;NEXTPAGEBUTTON&gt;"You too."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1021">
+        <Page social="4" voiceTypeId="0">You!&lt;BR&gt;&lt;BR&gt;Stone delivered! Job done!&lt;BR&gt;&lt;BR&gt;Business done! Going now!&lt;NEXTPAGEBUTTON&gt;"Wait...I need something else."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You pay more then!&lt;BR&gt;&lt;BR&gt;What need?&lt;NEXTPAGEBUTTON&gt;"Springlike flower. Enough for a bouquet."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Flower?&lt;BR&gt;&lt;BR&gt;Like, flower from dirt?&lt;BR&gt;&lt;BR&gt;Like, flower baraka grow?&lt;BR&gt;&lt;BR&gt;Baraka like that one there, that one there, Hagand there...this trick, right?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Hagand's here? Never mind—I'll ask him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="3004">
+        <Page social="4" voiceTypeId="0">Greetings, friend &lt;PCNAME&gt;. I hope my invisibility potion served you well.&lt;BR&gt;&lt;BR&gt;Did I overhear you discussing flowers with this goblin smuggler? I keep a considerable number of local flowers on hand for my alchemy. I most likely have what you need, and you are more than welcome to them.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">My pleasure. But I actually came to speak to you about the Relativity Stones.&lt;BR&gt;&lt;BR&gt;Knowing that Garm has failed multiple times to recharge the Relativity Stone, I kept one, to experiment with under the same conditions as our ancestors did when they first created the teleportal.&lt;BR&gt;&lt;BR&gt;And I failed—but unlike Garm, I was easily able to discern why I failed, and why Garm has failed, as well.&lt;NEXTPAGEBUTTON&gt;"Okay...what did you find out?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The only variable is the Storm Barrier. We think of it as a physical barrier, but it is clearly magical as well. That is why the teleportal does not function.&lt;BR&gt;&lt;BR&gt;If the Storm Barrier can be disabled somehow, the teleportal will function again. And I believe that since the archdevas are able to pass through it, they must know a way to disable it.&lt;NEXTPAGEBUTTON&gt;"Seems logical. How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

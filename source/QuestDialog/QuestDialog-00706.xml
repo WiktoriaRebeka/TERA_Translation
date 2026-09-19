@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1036">
+        <Page social="1">People everywhere crave a physical connection to Balder's Refuge. The spot where Balder died so the world could be saved has a spiritual resonance...one we can exploit.&lt;BR&gt;&lt;BR&gt;We can't take the ruins away, but the vegetation is another matter...&lt;BR&gt;&lt;BR&gt;Are you picking up what I'm putting down?&lt;NEXTPAGEBUTTON&gt;"Unfortunately, yes. You need something. "&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Yes I do. &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7015#-14741.8672,86906.8828,-441.2695&amp;type=1&amp;name=Lamenting Grass"&gt;Lamenting grass&lt;/a&gt;&lt;/font&gt;, to be exact. This unusual plant only grows near Lok's Spear—the very weapon Lok used in the battle that killed him and Shakan. The spear has been stuck in the ground since that fateful day.&lt;BR&gt;&lt;BR&gt;So, just collect some grass in a bottle, I'll label it with a bit of doggerel, like "Life thrives, even in a place of death," and we sell the idea of the spear by just mowing the grass.&lt;BR&gt;&lt;BR&gt;It's corny, sure, but in wartime, people cling to sentimental crap like that.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1036">
+        <Page social="1">See? Gathering grass is much simpler than killing a god, to pick an example totally at random.&lt;BR&gt;&lt;BR&gt;Take this as payment, and bring back more grass when you think of it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1036">
+        <Page social="0">Business is all about timing the market, so let's get rich while everyone wants a piece of Balder's Refuge. Go to Lok's Spear and pick some grass. What could be easier?</Page>
+    </Text>
+</QuestDialog>

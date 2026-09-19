@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1035">
+        <Page social="0">Jelena said that Samael's spies had infiltrated Cutthroat Harbor and must be killed before they could report back to him.&lt;BR&gt;&lt;BR&gt;With the help of soldiers from the Kaia's Sword regiment, you identified Samael's justicars and eliminated them.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Samael still has justicars in Cutthroat Harbor. They cannot be allowed to report to him! I've bribed a local, {@LinkCreature:62#1010#Kasib}, to identify the operatives. It's time to track down these traitorous dogs!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Of course I have a report for you, &lt;PCNAME&gt;. Here's the summary. Most of Samael's spies are pretending to be sailors. You'll find full descriptions of each of them—in disguise, of course—in my report.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Did you learn the whereabouts of Samael's spies?&lt;BR&gt;&lt;BR&gt;Great. Now it's time to get rid of them.&lt;BR&gt;&lt;BR&gt;I've prepared a little...surprise for each of them.&lt;NEXTPAGEBUTTON&gt;"What do I do with it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Deliver it to the spies!&lt;BR&gt;&lt;BR&gt;Don't worry. They'll think of you as someone from the Scions.&lt;BR&gt;&lt;BR&gt;Once they open this box, it'll reveal their identities.&lt;BR&gt;&lt;BR&gt;You take care of this {@LinkCreature:212#1037#one}, and I'll handle the others.&lt;BR&gt;&lt;BR&gt;Even if this doesn't work, it'll be enough to slow Samael down.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="4" villagerId="1037">
+        <Page social="4" voiceTypeId="0">You look familiar...hmm...sorry.&lt;BR&gt;&lt;BR&gt;I heard that Justicar Bruke failed in his mission. Do you have new orders for me?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="5" villagerId="1035">
+        <Page social="9" voiceTypeId="0">Deftly handled. With those traitors out of the way, we can now expose the true connection between the Scions of Lok and Samael.</Page>
+    </Text>
+</QuestDialog>

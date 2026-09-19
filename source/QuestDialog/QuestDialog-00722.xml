@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1001">
+        <Page social="4">Those who survived the storm at Tempest Reach fled in every direction. They're returning now, to rebuild, but I don't know how successful they'll be.&lt;BR&gt;&lt;BR&gt;The entire area is overrun with undead, and even on a pleasant day, everything's frozen. And that's just to start with.&lt;NEXTPAGEBUTTON&gt;"Oh?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Unfortunately, the people of Acarum have no idea where the next attack will come from. Thulsa? The rebellion? The weather in this nightmare place? The burden of taking in refugees has been the final straw. And villagers like Arvo have convinced the others not to help.&lt;BR&gt;&lt;BR&gt;It's sad, really. As isolated as they are here, the people of Acarum have always valued cooperation and sympathy, even in times of great danger.&lt;BR&gt;&lt;BR&gt;This emblem belonged to one of the elders of Acarum who fell during Thulsa's first attack. Would you bring it to Arvo and convince her to change her mind?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="73" prevId="2" villagerId="1011">
+        <Page social="4">We have already been asked to bear too much! It's not turning our backs on our neighbors—it's turning our backs on our future enemies. They could all join the traitor any day now!&lt;BR&gt;&lt;BR&gt;Things have been unbearable since my husband died fighting the traitor. I've dedicated myself to his memory and to serving Acarum in the old ways. The way our elders—&lt;NEXTPAGEBUTTON&gt;"Like the one who owned this?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Where did you get that? This emblem belonged to my aunt. She was a brave aman—and a kind one, too. She died leading a group of wounded away from the fighting.&lt;BR&gt;&lt;BR&gt;Perhaps my grief has been directed at the wrong people. Will you help me fix what I've broken?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="73" prevId="3" villagerId="1015">
+        <Page social="4">I don't want to talk about the coastal refugees. Every time Arvo comes around, it's "blahblah resources" or "yakyak enemies." I'm just tired of it.&lt;NEXTPAGEBUTTON&gt;"Arvo's not upset anymore."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Really? What did you say to calm her down?&lt;BR&gt;&lt;BR&gt;Well, I don't mind sharing some supplies as long as no crazy-women are going to harass me.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="73" prevId="4" villagerId="1016">
+        <Page social="4">Are you insane? Look, we can barely take care of our own—I mean, have you met Crazy Arvo?&lt;NEXTPAGEBUTTON&gt;"I think she's doing better."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">"Better" is relative, isn't it?&lt;BR&gt;&lt;BR&gt;Well, if Arvo's going to help out, I can't exactly refuse. Tell Karihne I'll help escort the refugees across the reach.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="73" prevId="5" villagerId="1001">
+        <Page social="4">Wow—&lt;PCNAME&gt;, I know you're good, but even I'm amazed. Arvo's been making trouble for months. Poor thing.&lt;BR&gt;&lt;BR&gt;We need to get news to the people of Tempest Reach. Will you take this letter down to the Glacial Bay Research Station and give it to Gron, the commissioner there?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="231" prevId="6" villagerId="1015">
+        <Page social="4">Huh. Well, I won't say I'm not surprised. Acarum has been ignoring us for months now. But better late then never. Thank you.&lt;BR&gt;&lt;BR&gt;I'll send someone to Acarum and coordinate with Karihne. But since you're here, maybe you could help out? We need everyone we can get, especially with all the undead roaming around.</Page>
+    </Text>
+</QuestDialog>

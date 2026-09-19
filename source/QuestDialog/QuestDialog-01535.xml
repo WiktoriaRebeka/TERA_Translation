@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1022">
+        <Page social="0">&lt;PCNAME&gt; entered Diranas Quarry and drank the invisibility potion Hagand provided.&lt;BR&gt;While so concealed, &lt;PCNAME&gt; collected Relativity Stones right under the noses of demokrons and the Parthians.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1022">
+        <Page social="4" voiceTypeId="0">Where are you going now? Diranas Quarry in Famine Valley?&lt;BR&gt;&lt;BR&gt;I believe you might be on a fool's errand—no one has ever gotten so much as a spark from that teleportal.&lt;BR&gt;&lt;BR&gt;But you seem competent, so I trust you will at least return alive. Good luck.&lt;NEXTPAGEBUTTON&gt;"We need that teleportal working, or we're all doomed."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1018">
+        <Page social="4" voiceTypeId="0">Hagand request stone!&lt;BR&gt;&lt;BR&gt;Gold much!&lt;BR&gt;&lt;BR&gt;Hagand experiment, want stone!&lt;NEXTPAGEBUTTON&gt;"Can I trust you?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Trust Guikol? Maybe.&lt;BR&gt;&lt;BR&gt;Trust Hagand, sure.&lt;BR&gt;&lt;BR&gt;Trust gold? Of course!&lt;NEXTPAGEBUTTON&gt;"I get it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" villagerId="1018">
+        <Page social="0">Krrrr....&lt;BR&gt;&lt;BR&gt;No stone. No talk.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="3" villagerId="1018">
+        <Page social="4" voiceTypeId="0">Stones, too many! Too heavy!&lt;BR&gt;&lt;BR&gt;Hide stones, in pile. Not far!&lt;BR&gt;&lt;BR&gt;Get help, come back, carry stones.&lt;NEXTPAGEBUTTON&gt;"Fine."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="2064">
+        <Page social="4" voiceTypeId="0">(This must be the pile of stones Guikol told you about.)&lt;NEXTPAGEBUTTON&gt;"This looks like the place."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

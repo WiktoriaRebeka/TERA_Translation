@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1008">
+        <Page social="5">The Mysterium is trying to uncover the secrets behind these giant stone towers. Some of us believe there are secrets to truly divine powers.&lt;BR&gt;&lt;BR&gt;Regrettably, the nagas impede our research. My own power is inadequate to deal with them but perhaps you can serve as my proxy.&lt;BR&gt;&lt;BR&gt;Gather a group and take out some {@LinkCreature:7#1#Naga mercenaries}. That would be a tremendous help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1008">
+        <Page social="5">Your prowess is considerable and will earn you much renown.&lt;BR&gt;&lt;BR&gt;Now that the nagas are thinned out a bit, we can send reports back to the Sanctum Mysterium. May Oriyn light your way.</Page>
+    </Text>
+</QuestDialog>

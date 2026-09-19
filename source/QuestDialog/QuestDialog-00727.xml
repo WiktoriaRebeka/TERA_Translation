@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="4">It would be nice to treat these hard-working people to a little luxury for all their help, but we're down to rations and hardtack.&lt;BR&gt;&lt;BR&gt;I know Halwyn has been exploring the shipwrecks. Would you mind asking her if she's found anything better in there?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1010">
+        <Page social="4">As luck would have it, yes!&lt;BR&gt;&lt;BR&gt;Well, that is to say, yes, we found a lovely stash of wine onboard. But before we could recover it, we were overrun by undead monsters.&lt;BR&gt;&lt;BR&gt;Look, I'm not a coward, but I'm not staring down those drowned gula bastards for some wine...no matter how delicious and fancy and well-balanced...&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you could get the wine, right? For Dyfed and her volunteers, I mean.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1036">
+        <Page social="4">(The barrel is empty and so are the wine bottles. The labels read, "One ration per officer." Perhaps the drowned gula officers have full bottles on them...)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1010">
+        <Page social="4">Wonderful...I mean, I'll take these straight to Dyfed and the volunteers. They'll be really pleased by the surprise.&lt;BR&gt;&lt;BR&gt;Here, take this for your troubles.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" villagerId="1010">
+        <Page social="0">Don't worry. I'm sure you can pry the wine from those gula sailors' hands.</Page>
+    </Text>
+</QuestDialog>

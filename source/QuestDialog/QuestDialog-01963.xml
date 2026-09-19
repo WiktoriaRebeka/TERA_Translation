@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Now that you've learned the basics of fishing, you're ready to use fish to cook some interesting dishes.&lt;BR&gt;My friends in Cutthroat Harbor will give you the details.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Learned how to cook using fish at Cutthroat Harbor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="9904">
+        <Page social="4" voiceTypeId="0">Are you ready to travel?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="1" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Give my regards to Cordi at the Cutthroat Harbor Fishery.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="3" villagerId="9904">
+        <Page social="2" voiceTypeId="0">Welcome friend!&lt;BR&gt;I haven't seen you around here before, so you're probably one of Waining's new recruits.&lt;BR&gt;&lt;BR&gt;Don't tell anybody, but in my opinion cooking with fish is even more fun than fishing itself!&lt;BR&gt;&lt;BR&gt;But don't take my word for it, try this recipe yourself!&lt;BR&gt;&lt;font color='#FF0000'&gt;Use the 'Fish Fry' recipe to prepare a 'Fish Fry' from the Cooking (Battle Dishes) menu (J).&lt;/font&gt;&lt;NEXTPAGEBUTTON&gt;"I'll give it my best."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Just talking about a Fish Fry makes me so hungry.&lt;BR&gt;Can you please make me a Fish Fry?&lt;BR&gt;Just use the recipe I gave you.&lt;BR&gt;&lt;BR&gt;If you need more Fish Filets, just Dismantle any fish in your inventory. You'll use up the fish, but you can always catch more, right? You can buy any other ingredients you need from a Fishing Supplies merchant.&lt;BR&gt;If you're short on time, you can also buy a Fish Fry from the Trade Broker.&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;Use the 'Fish Fry' recipe to prepare a 'Fish Fry' from the Cooking tab in the Crafting (J) UI.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="5" villagerId="9904">
+        <Page social="4" voiceTypeId="0">Thank you so much! I can already feel my strength returning!&lt;BR&gt;A Fish Fry is a quick and easy recipe that fetches a good price at the Trade Broker.&lt;BR&gt;&lt;BR&gt;Oh, and you can also get other cooking recipes at a Fishing Supplies merchant.&lt;NEXTPAGEBUTTON&gt;"Thanks for the tip."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Some cooking ingredients need to be gathered from plants. I'll give you a Gathering Tool to help with that.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" villagerId="9904">
+        <Page social="0">Use the recipe I gave you to make a Fish Fry. If you need more Fish Filets, just Dismantle any fish in your inventory. You'll use up the fish, but you can always catch more, right? If you have enough money, you can also buy a Fish Fry from the Trade Broker.</Page>
+    </Text>
+</QuestDialog>

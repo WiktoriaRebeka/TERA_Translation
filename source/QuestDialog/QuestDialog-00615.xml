@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="5">Pay attention now—this isn't an operation for keeners. I've found an arena in Sand Wind Village where the kulkari force prisoners, slaves, and even other kulkari to fight monsters.&lt;BR&gt;&lt;BR&gt;The worst is called {@LinkCreature:24#5001#Merkaratos}. We're going to kill it and deprive the buggers of their bloody fun. And by "we," I mean you and whoever you can convince to come along. Much as I want to join in the fun, I have another scouting mission to attend to.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1014">
+        <Page social="5">Do you want your fellow soldiers captured and forced to fight to the death? Go kill Merkaratos.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1014">
+        <Page social="0">I don't know how they caught it, but as long as it has victims to hunt, {@LinkCreature:24#5001#Merkaratos} isn't going anywhere.</Page>
+    </Text>
+</QuestDialog>

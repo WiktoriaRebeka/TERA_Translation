@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1019">
+        <Page social="0">Both {@LinkCreature:41#2008#swamp} and {@LinkCreature:41#2009#mire tentacullars} live in the two &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=2#-37835,67917,1178&amp;type=1&amp;name=Caves"&gt;caves&lt;/A&gt;&lt;/font&gt; just north of here.&lt;BR&gt;&lt;BR&gt;We drink their blood to grow strong, and we offer it as a gift of friendship. Kuban's going soon to visit orcan tribal leaders. It would make a wonderful peace offering.&lt;BR&gt;&lt;BR&gt;Will you get some for {@LinkCreature:241#1013$$Kuban}?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1013">
+        <Page social="0">Ah, it smells wonderful. It's all I can do not to drink it all myself.&lt;BR&gt;&lt;BR&gt;Perhaps just a sip...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1013">
+        <Page social="0">The tentacullar blood will make a fine gift for the tribes I want to bring over to the ways of peace.</Page>
+    </Text>
+</QuestDialog>

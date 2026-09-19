@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1009">
+        <Page social="4">The wendigos claim our mining of the shards is going to deplete them forever. They also claim the Azurice Shrine can grow them indefinitely—if there's enough energy.&lt;BR&gt;&lt;BR&gt;We've decided to believe them for now. We need crimson shards—they're the most potent—if we're going to imbue the shrine.&lt;BR&gt;&lt;BR&gt;Head southeast and gather what you can.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1009">
+        <Page social="4">It's possible these shards can restore the Azurice Shrine and keep the shards from disappearing entirely from our world.&lt;BR&gt;&lt;BR&gt;There's a lesson to be learned about sustainability and balance.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1009">
+        <Page social="0">Apologies, &lt;PCNAME&gt;. We need more crimson shards.</Page>
+    </Text>
+</QuestDialog>

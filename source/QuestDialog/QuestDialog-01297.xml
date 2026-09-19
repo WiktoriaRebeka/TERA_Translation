@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1006">
+        <Page social="4">I don't have the resources here, but I'll make sure Mysterium experts study that mass.&lt;BR&gt;&lt;BR&gt;Meanwhile, I want you to find out what the argons are using to make that mist.&lt;BR&gt;&lt;BR&gt;You should head south, because that's the direction the argons went. Find Puuru at the Arcanum Outpost.&lt;BR&gt;&lt;BR&gt;He's no workaholic, but he'll know where to look.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1008">
+        <Page social="4">Nila wants something? Big surprise. It's always urgent with her.&lt;BR&gt;&lt;BR&gt;Nope, no argons here. You see any?&lt;BR&gt;&lt;BR&gt;Of course, you want my help, but can it wait a minute or three?</Page>
+    </Text>
+</QuestDialog>

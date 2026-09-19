@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1028">
+        <Page social="1">The mighty sorcerer Oshar has experiments of his own, of course. I don't pretend to understand them...yet.&lt;BR&gt;&lt;BR&gt;I know he always appreciates a shipment of wing dust from fiery tentacullars.&lt;BR&gt;&lt;BR&gt;Of course, the tentacullars don't exactly give up their wing dust willingly. Wait...I have an idea!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1028">
+        <Page social="1">You've got the wing dust, right?&lt;BR&gt;&lt;BR&gt;Oshar and I will richly reward you on the day of reckoning, when our school of sorcery ascends to become...what? You want a more immediate reward? Of course.&lt;BR&gt;&lt;BR&gt;Sorry. Got a little carried away there.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1028">
+        <Page social="0">The great sorcerer Oshar says wing dust is the source of the tentacullar's power. Go get some!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I've located the fourth stone. Please find me in Highwatch.&lt;BR&gt;&lt;BR&gt;- Meren</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">The fourth stone, the "Captivity Stone," was located in the Training Ground. You gave Clahk a hand with inspecting the system, retrieved the stone, and attached it to the Eternal Crown.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;The banquet is almost ready now.&lt;BR&gt;&lt;BR&gt;Go talk to {@linkcreature:183#1150#Clahk}, the banquet's Facility Designer.&lt;BR&gt;The Captivity Stone is inside one of his simulations.&lt;NEXTPAGEBUTTON&gt;"Where can I find Clahk?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">He's also one of the Training Ground designers, so look for the {@linkcreature:183#7007#Guardian Trainer}, and Clahk should be somewhere nearby.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1150">
+        <Page social="0" voiceTypeId="0">There's an Eternal Stone in my simulation?&lt;BR&gt;&lt;BR&gt;Fascinating, but very bad timing. Normally I'd just take the system down and find it for you, but we just deployed some new features, and the simulation has to run for three days to iron out the bugs.&lt;NEXTPAGEBUTTON&gt;"When will it be done?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">At least a couple more days. We need a full shakedown to see if the Dimensional Stabilizer spell works or not.&lt;BR&gt;&lt;BR&gt;And some skilled volunteers to run the simulation through its paces, of course.&lt;NEXTPAGEBUTTON&gt;"I can help you with that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You can?&lt;BR&gt;Wait...are you &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;My apologies for not recognizing you.&lt;BR&gt;With your help, this should all go much faster.&lt;BR&gt;&lt;BR&gt;What a relief!&lt;NEXTPAGEBUTTON&gt;"What do I need to do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Let's see. Will you go and activate the Priest Buff Stone or the Mystic Buff Stone &lt;font color='#FF0000'&gt;twice&lt;/font&gt;?&lt;BR&gt;&lt;BR&gt;The last time we ran this test, we had reports that the buffs weren't working, so if you can obtain a buff and try attacking the dummies, we're good, and I can extract whatever you need from the system.&lt;BR&gt;&lt;BR&gt;Be careful.&lt;BR&gt;&lt;BR&gt;[Speak with {@linkcreature:183#7002#Whurloc} to enter an Ace Dungeon.]</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="1150">
+        <Page social="0" voiceTypeId="0">Yes! You completed this job in record time!&lt;BR&gt;&lt;BR&gt;You needed the Captivity Stone, right?&lt;BR&gt;&lt;BR&gt;I located it moments after you finished your second run.&lt;BR&gt;&lt;BR&gt;Please, take it. And my thanks.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Did you find the Captivity Stone?&lt;NEXTPAGEBUTTON&gt;"Here it is."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Wonderful. The crown looks more radiant every time we add a stone.&lt;BR&gt;&lt;BR&gt;By the way, did Clahk come with you?&lt;BR&gt;He still needs to submit his blueprints for the banquet...&lt;NEXTPAGEBUTTON&gt;"He was going to get some sleep."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Get some sleep?&lt;BR&gt;How irresponsible!&lt;BR&gt;&lt;BR&gt;I'm sorry for Clahk, but nobody rests until I have that blueprint!&lt;BR&gt;&lt;BR&gt;Anyways, thank you. Take this, it should help you with retrieving the other stones.&lt;BR&gt;I'll let you know when I have more information.&lt;BR&gt;&lt;BR&gt;May the Goddess be with you.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Thulsa has pulled in troops from all over to protect his ugly skin.&lt;BR&gt;&lt;BR&gt;His Ebon Tower shamans, Ebon Tower guards, arachnen painspinners, and anguish fiends are all reinforcements from other battlefields.&lt;BR&gt;&lt;BR&gt;He's at the end of his reserves. Kill them off!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Fantastic! If you aren't blessed by Kaia, I don't know who is.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1035">
+        <Page social="0">If showing compassion to servants of evil is the virtuous path, I choose the path of the wicked!</Page>
+    </Text>
+</QuestDialog>

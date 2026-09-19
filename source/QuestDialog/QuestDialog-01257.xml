@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1032">
+        <Page social="4">Before Thulsa's army took over, this was a land of animals and hunters. Mugatos are especially notorious for their ferocity.&lt;BR&gt;&lt;BR&gt;But the fur...the soft, warm fur.&lt;BR&gt;&lt;BR&gt;Bring me the hides of furious mugatos on the Scorched Snowfield.&lt;BR&gt;&lt;BR&gt;It's not for me! I want to make winter coats for our soldiers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1032">
+        <Page social="4">This is enough to make a coat for every soldier, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I've always wanted to help our soldiers, and I couldn't have done it without you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1032">
+        <Page social="0">Furious mugatos inhabit the Scorched Snowfield, but in small numbers.&lt;BR&gt;&lt;BR&gt;Please bring me as many mugato hides as possible.</Page>
+    </Text>
+</QuestDialog>

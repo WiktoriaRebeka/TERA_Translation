@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1021">
+        <Page social="5">The path to the eastern section and the eastern section of the second floor are swarming with {@LinkCreature:22#26#toxic vampiric jesters}.&lt;BR&gt;&lt;BR&gt;Take them out before they take you out.&lt;BR&gt;&lt;BR&gt;The next time we hire entertainers, they'll be castanic dancers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1021">
+        <Page social="5">You made it back, and apparently none the worse for wear.&lt;BR&gt;&lt;BR&gt;Stay ready. The endgame approaches.</Page>
+    </Text>
+</QuestDialog>

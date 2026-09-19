@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1003">
+        <Page social="4">Someone observed that these nexuses only appear in argon territory, which suggests a direct link. We've also spotted a strange device in the hands of some argons.&lt;BR&gt;&lt;BR&gt;The mission is to scour {@Rgn:49001}, {@Rgn:50001}, and the {@Rgn:48001}, kill argons, and collect these devices for study.&lt;BR&gt;&lt;BR&gt;Return safely. We need all the help we can get.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1003">
+        <Page social="4">Excellent work. We'll begin our studies at once.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1003">
+        <Page social="0">We must have those devices. It may prove the key to stopping these nexuses.</Page>
+    </Text>
+</QuestDialog>

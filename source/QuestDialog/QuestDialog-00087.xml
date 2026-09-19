@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="4">I think the shurians have messed things up for everyone. It used to be that the {@LinkCreature:4#3021#soulstalkers}, chosen protectors of Bahaar's sanctum, left us alone unless we got too close.&lt;BR&gt;&lt;BR&gt;Not anymore! Thanks to the shurians, the soulstalkers are attacking anything that moves! I've got no gripe with Bahaar, but we've got to wipe out the soulstalkers before they wipe us out!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1133">
+        <Page social="4">With the shurians on the run and the rampaging soulstalkers taken care of, Bahaar can simmer in peace and we can finish our work without fear.&lt;BR&gt;&lt;BR&gt;Things are dangerous enough as it is.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1133">
+        <Page social="0">The {@LinkCreature:4#3021#soulstalkers} are our highest priority target right now. Keep them away from our troops.</Page>
+    </Text>
+</QuestDialog>

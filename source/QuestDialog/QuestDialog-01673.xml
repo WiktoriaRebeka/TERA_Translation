@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Killian has rounded out his forces with paid help—chaos mistresses and Sihranar mercenaries.&lt;BR&gt;&lt;BR&gt;They're dangerous, but not as devoted to Killian as his followers.&lt;BR&gt;&lt;BR&gt;Kill them and take their pay. Once we remove the profit from the job, they'll go looking for other work.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Exceptional work! Mercenaries are all about business. They'll leave Killian's service once it's clear there's no upside.&lt;BR&gt;&lt;BR&gt;Plus, you just funded Habere's bereavement program for a month. Look at all these coins!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1014">
+        <Page social="0">Target the chaos mistresses and Sihranar mercenaries. Those paid soldiers won't stay with Killian if it's clear his end is coming.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Careful observation of the gorge reveals the demons that directly control the spirits. What a discovery!&lt;BR&gt;&lt;BR&gt;According to the scouts, the kariagons hold magical shackles with them. Those shackles need to be examined.&lt;BR&gt;&lt;BR&gt;Please retrieve the shackles from the {@LinkCreature:13#6#kariagons} and {@LinkCreature:13#300942#terron thralls}. They mostly appear on the southwest of Tainted Gorge.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Already the roads are safer. Whatever the scions were doing with the enslaved spirits suffers for your success. But more than just this one victory is necessary for our goal.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1025">
+        <Page social="0">The shackles are the key. No simple binding should enslave spirits so completely. Kill as many {@LinkCreature:13#6#kariagons} as is necessary to obtain them.</Page>
+    </Text>
+</QuestDialog>

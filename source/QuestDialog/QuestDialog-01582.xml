@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="58" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Meet up with {@linkcreature:183#7002#Ramull}, the Ace Dungeon Instructor, over in Highwatch.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="7002">
+        <Page social="4">You must be &lt;PCNAME&gt;! I've heard so much about you from Dougal, it's like we're already friends.&lt;BR&gt;&lt;BR&gt;I'm looking for someone like you—skilled and competent—to help tune the federation's training exercises.&lt;BR&gt;&lt;BR&gt;We've created something called an Ace Dungeon to hone your skills, using reports of your past adventures.&lt;BR&gt;&lt;BR&gt;Give it a whirl and let us know what you think.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Will do.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="7002">
+        <Page social="4">Great, thank you!&lt;BR&gt;I think Ace Dungeons are a little too difficult for a standard federation operative, but you veterans will definitely benefit from the experience.&lt;BR&gt;&lt;BR&gt;Here, take this as a token of our appreciation, and come and train whenever you like.</Page>
+    </Text>
+</QuestDialog>

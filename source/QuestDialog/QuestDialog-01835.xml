@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="827" prevId="0" villagerId="222">
+        <Page social="4" voiceTypeId="0">Ghilliedhus sprout from a sort of "prime ghilliedhu." It’s usually the biggest one… and the most dangerous.&lt;BR&gt;&lt;BR&gt;If we can identify and destroy that one, the others will be too afraid to stick around.&lt;BR&gt;&lt;BR&gt;I’ll take Anya to safety, back in the village. I’ll be back as soon as I can. Meanwhile, see if you can find the prime ghilliedhu.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; succeeded in defeating Varkas, the source of the ghilliedhu invasion, then found and collected some ghilliedhu seeds...hopefully preventing any more ghilliedhu invasions.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="827" prevId="1" villagerId="242">
+        <Page social="4" voiceTypeId="0">Well done.&lt;BR&gt;I thought it would be tough, but you made it look so easy.&lt;BR&gt;I’ll give you a mount as a reward.&lt;BR&gt;Open your inventory and use &lt;font color='#0000FF'&gt;Riding Skill: Bay Gelding&lt;/font&gt; and go to Shadetree.&lt;BR&gt;I’ll meet you there.&lt;NEXTPAGEBUTTON&gt;"I’ll be right there."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="827" prevId="3" villagerId="223">
+        <Page social="0">You came earlier than I thought. I was debating if I should go pick you up. This is good.&lt;BR&gt;Head Researcher Glennock has been looking for you.&lt;NEXTPAGEBUTTON&gt;Did something urgent happen?&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

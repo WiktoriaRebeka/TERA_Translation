@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Vergos cultists were planning to invade Velika using the dragons, to take revenge on the goddess who ordered the death of the dragon lord Vergos.&lt;BR&gt;You tracked down the cultists, and using a mysterious portal the followers left behind, you teleported to Fyrmount.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Using the strange teleportal device, you arrived at Fyrmount.&lt;BR&gt;Clearing the path full of Shurian Summoners, you defeated Elite Dracoloths, and put an end to the Vergos cultists's plan.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="4" prevId="1" villagerId="3000">
+        <Page social="0" voiceTypeId="0">I think I can use the device to get back to Wyrmgorge.&lt;BR&gt;&lt;BR&gt;I'll go to Elenea and report what happened here, then head to Velika to plead for reinforcements.&lt;BR&gt;&lt;BR&gt;Please clear a path for our troops, and take care of those Shurian Summoners. Good luck!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="4" prevId="3" villagerId="3026">
+        <Page social="0" voiceTypeId="0">Stop killing my people... please! We were deceived! Akasha sent us here, against our will...&lt;BR&gt;There was a...person who threatened to wipe us all out if we did not guard this path.&lt;BR&gt;&lt;BR&gt;They were working with the elite dracoloths... the leaders of the dragon forces.&lt;BR&gt;&lt;BR&gt;We have nothing to do with your Goddess.&lt;BR&gt;&lt;BR&gt;When your troops arrive, I'll order my people to clear a path.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="4" prevId="4" villagerId="3056">
+        <Page social="0" voiceTypeId="0">Most of us are still dealing with the dragons on the other side of the teleportal.&lt;BR&gt;&lt;BR&gt;But that Verdas fellow stormed in to Valkyon Headquarters and cried out that Velik was in danger.&lt;BR&gt;&lt;BR&gt;At first, he didn't make any sense... but we realized that he knew you, so we couldn't ignore him. I've never seen so many dragons!&lt;BR&gt;&lt;BR&gt;Verdas said that you were after the mastermind of this incident... a Black Dragon. Do what you have to do. We'll handle things here.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="4" prevId="5" villagerId="3063">
+        <Page social="0" voiceTypeId="0">Gods... &lt;PCNAME&gt;, are you alright?&lt;BR&gt;Did you kill all these dragons by yourself?&lt;BR&gt;&lt;BR&gt;I guess the Vergos cultists were communicating their orders to the dragons via the Elite Dragons.&lt;BR&gt;&lt;BR&gt;Who knows what would have happened if you hadn't slain them all?</Page>
+    </Text>
+</QuestDialog>

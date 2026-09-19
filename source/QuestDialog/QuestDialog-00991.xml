@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1018">
+        <Page social="0">Far too many orcans are happy to war with the federation forever. That way lies ruin and death.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:41#4004#Black Claw berserkers}, {@LinkCreature:41#4005#slaughterers}, and {@LinkCreature:41#3006#blood fighters} are the most warlike of all. I would like to take their insane eyes to {@LinkCreature:241#1023$$Majduk} as proof of their madness. Will you help me do this?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1023">
+        <Page social="0">Now I'll take these eyes to the other tribes and try to convince them to lay down their arms. Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1023">
+        <Page social="0">Kill the {@LinkCreature:41#4004#Black Claw berserkers}, {@LinkCreature:41#4005#slaughterers}, and {@LinkCreature:41#3006#blood fighters} and bring me their eyeballs.</Page>
+    </Text>
+</QuestDialog>

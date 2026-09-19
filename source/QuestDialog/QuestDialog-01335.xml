@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1026">
+        <Page social="4">You've got to stop the mekonari arcanathieves and their urisk minions.&lt;BR&gt;&lt;BR&gt;Those feathery wretches are killing our people without pause. You've got to do the same here.&lt;BR&gt;&lt;BR&gt;Hunt them down and send them back to the Dream.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1026">
+        <Page social="4">You got these from the mekonaris? Well done.&lt;BR&gt;&lt;BR&gt;Whatever they are up to, I hope we're in time to stop them.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1026">
+        <Page social="0">The mekonaris and their minions must be dealt with. Don't come back until you've completed your mission.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">I don't have the time to worry about stupid archaeologists when I've got creatures wandering every which way.&lt;BR&gt;&lt;BR&gt;Speaking of which, you look idle. Go kill some of those {@LinkCreature:18#16#rubblemaker golems} and bring me their cores. I want to string them together and make a rope around the city.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1005">
+        <Page social="4">Well done! I'd ask you to string these together for me, but I see another slacker who needs a task....</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1005">
+        <Page social="0">Are you stupid as well as idle? Going to get lost like that useless archaeologist?&lt;BR&gt;&lt;BR&gt;You're after {@LinkCreature:18#16#rubblemaker golems} and {@LinkCreature:18#15#rockcrawler scavengers}. Go on.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1033">
+        <Page social="8">Lots of animals eat what they kill, but the gulas hunt us, flay us, then serve us up!&lt;BR&gt;&lt;BR&gt;So let's punish the kitchen help! {@LinkCreature:8#3021#Gula skinners} and {@LinkCreature:8#3022#slavering auric imps} are next on your menu, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;And bring back their knives, would you? We might be able to turn them into weapons we can use.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1033">
+        <Page social="4">Knives! I like knives! Sharp, pointy knives!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1033">
+        <Page social="0">When you're asleep, they're out there chopping, cooking, gnawing. When you're awake...more chopping, cooking, gnawing.</Page>
+    </Text>
+</QuestDialog>

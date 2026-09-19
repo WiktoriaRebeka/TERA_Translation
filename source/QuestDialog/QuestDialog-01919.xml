@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Question for you, &lt;PCNAME&gt;. Do you think it would hurt more to be eviscerated, or have the fingers on your left hand chopped off one by one? Sure, the former would probably kill you, but see, that's why I think it would hurt less.&lt;BR&gt;&lt;BR&gt;Why the left hand? I thought that would be obvious—he's left-handed.&lt;BR&gt;&lt;BR&gt;Will you ask {@LinkCreature:63#3003#Elthienne} what she thinks?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">She asked what? That kid's going be the death of me. Although I guess it's not me I should be worried about at the moment. Her boyfriend must have really done something bad this time.&lt;BR&gt;&lt;BR&gt;In other news, the Hands need someone to head to Basilisk Crag on a little hunting trip. Interested?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">You're back! I wanted to tell you, I decided to go with option three—terron giggle torture.&lt;BR&gt;&lt;BR&gt;I knew you would approve.&lt;BR&gt;&lt;BR&gt;Thanks for these. See {@LinkCreature:63#3003#Elthienne} for your payment.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">The Hands need to put together some makeshift weapons. For these we need {@LinkCreature:21#1#vicious dusky basilisk} scales. They're particularly tough and sharp.&lt;BR&gt;&lt;BR&gt;Head to {@Rgn:21001#Basilisk Crag} and hunt some down for us.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="5">Ooh, you got some sun, didn't you? {@Rgn:21001#Basilisk Crag} is so hot and dry. I can't stand that place.&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} you delivered the goods.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" villagerId="3002">
+        <Page social="0">The Hands need to put together some makeshift weapons. For these we need {@LinkCreature:21#2#dusky basilisk} scales. They're tough and sharp.&lt;BR&gt;&lt;BR&gt;Head to {@Rgn:21001#Basilisk Crag} and hunt some down for us.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" prevId="10" villagerId="3002">
+        <Page social="5">I'm totally over him.&lt;BR&gt;&lt;BR&gt;Who? Whatshisname, of course! I can't even say his name, he's such a jerk!&lt;BR&gt;&lt;BR&gt;Oh, you have the scales. Great!&lt;BR&gt;&lt;BR&gt;Talk to {@LinkCreature:63#3003#Elthienne}. And don't listen if she says I'll be "crawling back" in no time. She knows squat about love.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" villagerId="3002">
+        <Page social="0">The Hands need to put together some makeshift weapons. For these we need {@LinkCreature:21#3#vicious orisk} claws. They're inches thick, and sharp as razors.&lt;BR&gt;&lt;BR&gt;Head to {@Rgn:21001#Basilisk Crag}, and be careful! Don't damage the claws.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="3002">
+        <Page social="5">What? Oh, hi &lt;PCNAME&gt;. No, I wasn't crying. I—I'm fine.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} will have...well, you know. Just go away.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="3002">
+        <Page social="0">The Hands need to put together some makeshift weapons, so we need {@LinkCreature:21#4#brutal orisk} claws. They're thick, tough, and and sharp. Perfect for weapon making.&lt;BR&gt;&lt;BR&gt;Head to {@Rgn:21001#Basilisk Crag}, and aim high. You don't want to damage those claws.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" prevId="14" villagerId="3003">
+        <Page social="4">Ah, wonderful! We'll get to work putting together the weapons. It's amazing how many we go through. We don't have the coin for fancy weapons like yours. Ours break and wear out, and all too soon.&lt;BR&gt;&lt;BR&gt;Guess that means we're doing it right! Or something...</Page>
+    </Text>
+</QuestDialog>

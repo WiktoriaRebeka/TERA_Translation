@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="38" prevId="0" villagerId="117">
+        <Page social="0">&lt;PCNAME&gt; found Ameldas's dog.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="38" prevId="0" villagerId="117">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;! My puppy is gone!&lt;BR&gt;I didn't want to take my medicine so I threw my doll far away...&lt;BR&gt;&lt;BR&gt;My puppy went to fetch the doll and didn't come back...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="38" prevId="2" villagerId="117">
+        <Page social="1" voiceTypeId="0">I got mad when they made me take that medicine, and I threw my doll way &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7014#-66688,-21739,709&amp;type=1&amp;name=where Ameldas threw her doll"&gt;over there&lt;/A&gt;&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;My dog Stinky thought I was playing, and he ran after it. This is all my fault...!&lt;BR&gt;&lt;BR&gt;Stinky usually comes running back when I blow this whistle but he won't...&lt;BR&gt;&lt;BR&gt;I'm really scared for him.&lt;BR&gt;&lt;BR&gt;I want to go find him, but Mom and Dad won't let me go.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="142">
+        <Page social="1" voiceTypeId="0">(This must be Ameldas's doll. There are rags scattered all over the place. Perhaps the dog tore the doll apart?)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" prevId="4" villagerId="141">
+        <Page social="1" voiceTypeId="0">Woof!&lt;BR&gt;&lt;BR&gt;(The dog seems happy to see the doll.)&lt;NEXTPAGEBUTTON&gt;"There you are. Let's get you home."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Woof! Woof!&lt;BR&gt;&lt;BR&gt;(The dog wags his tail.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="510" villagerId="30">
+        <Page social="0">Woof! Woof!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="38" prevId="5" villagerId="117">
+        <Page social="4" voiceTypeId="0">You brought him back!&lt;BR&gt;&lt;BR&gt;Thank you so much, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;But...did you find my doll?&lt;NEXTPAGEBUTTON&gt;"I think this is your doll."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">What? Did Stinky do that?&lt;BR&gt;&lt;BR&gt;Is that why he didn't come back?&lt;BR&gt;&lt;BR&gt;Oh, Stinky! I'm so sorry!&lt;BR&gt;&lt;BR&gt;No! I won't cry.&lt;BR&gt;I'm going to be good from now on!&lt;BR&gt;I'm just glad you came back.&lt;BR&gt;&lt;BR&gt;What am I going to do with my doll now...?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="38" villagerId="117">
+        <Page social="0">Did you find my doll, too?</Page>
+    </Text>
+</QuestDialog>

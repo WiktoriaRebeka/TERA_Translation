@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2001" prevId="0" villagerId="22001">
+        <Page social="5">Thanks to you people have food and sleep well.&lt;BR&gt;&lt;BR&gt;But we don't have any weapons to defend ourselves from unexpected attacks. Can you gather some weapons for us?&lt;NEXTPAGEBUTTON&gt;"From where?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You should have passed by some nagas near the mine to the west.&lt;BR&gt;&lt;BR&gt;Please collect weapons from those nagas.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="22001">
+        <Page social="5">We're finally armed. That's a relief.&lt;BR&gt;&lt;BR&gt;Now it's time to get rid of anything that threatens us.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" villagerId="22001">
+        <Page social="0">Please, we need those weapons.</Page>
+    </Text>
+</QuestDialog>

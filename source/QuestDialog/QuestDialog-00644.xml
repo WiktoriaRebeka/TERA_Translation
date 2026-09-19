@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="4">The Atel Akaad is led by the devas, but the Lok followers include other races as well and not all of them were abducted and forced to convert. I don't know what lies the {@LinkCreature:25#2071#dark deacons} tell to gain willing converts, but I'd sure like to find out.&lt;BR&gt;&lt;BR&gt;If you can defeat the deacons and bring their scriptures to me, I'm sure we'll find an answer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">I knew you could do it. Let's see what we have.&lt;BR&gt;&lt;BR&gt;"The resurrection of Lok shall save you..."&lt;BR&gt;&lt;BR&gt;It goes on, promising redemption in Lok's hands. These people don't know the deacons think of them as disposable assets! They're being lured in by pretty promises.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1027">
+        <Page social="0">I know the Lok believers value their scripture above their own lives, but you have to find a way to collect one.</Page>
+    </Text>
+</QuestDialog>

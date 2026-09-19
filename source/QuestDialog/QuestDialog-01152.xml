@@ -1,0 +1,53 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Commander Tamur ordered you and Hasmina to infiltrate Argonea in an effort to harry the argons' rear echelon, as well as reestablish contact with the town of Kanstria. Kanstria was cut off when the argons surrounded the town and disabled the flight platform, but you made it through the lines. The magistrate asked you to find several missing scouts. Hasmina led you to them, and the argons' troop transport portals. You recovered the fallen scouts' unit insignias and delivered the bad news to Kanstria.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Meet up with Hasmina for an operation behind the lines in Argonea.&lt;BR&gt;&lt;BR&gt;Hasmina has experience and knows the terrain. She'll brief you on the mission details.—Tamur</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2011">
+        <Page social="4" voiceTypeId="0">Listen, uh, I wanted to thank you for saving my life. I didn't think I'd make it out of the Three Towers.&lt;BR&gt;&lt;BR&gt;By the way, finally I have some decent time to say hello to you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="2011">
+        <Page social="4" voiceTypeId="0">Glad to see you again as well.&lt;BR&gt;&lt;BR&gt;I prayed to the Gods that you would return in one piece. I knew you'd make it back.&lt;BR&gt;&lt;BR&gt;Kind of sad that you're back...at a living hell. But I have faith we can turn this war around.&lt;BR&gt;&lt;BR&gt;It's an honor to be at war with a warrior like you.&lt;NEXTPAGEBUTTON&gt;"Same here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I'm going to head this way right away. You should get ready.&lt;BR&gt;&lt;BR&gt;Who knows what the place could be like now.&lt;BR&gt;&lt;BR&gt;By the way, have you spoke with {@LinkCreature:248#1022#Albain}? He was the one that came up with this plan.&lt;BR&gt;&lt;BR&gt;You should have a word with him.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="2011">
+        <Page social="4" voiceTypeId="0">There's not much time. The fighting here has slowed down, so we're going to try an assault on the argons' rear echelon. First, we need to make contact with Kanstria. We lost touch with them after the last argon surge. I'll meet you on the outskirts of town.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="249" prevId="2" villagerId="2013">
+        <Page social="4" voiceTypeId="0">See those reddish pillars? That's Kanstria. There should be a response force just out of sight.&lt;BR&gt;&lt;BR&gt;The proximity of these kalash forces worries me. Do you think the argons killed everyone? Are we too late?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="249" prevId="6" villagerId="2001">
+        <Page social="12" voiceTypeId="0">Federation soldiers? You're a sight for sore eyes!&lt;NEXTPAGEBUTTON&gt;"What happened here?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12" voiceTypeId="0">The argons did something to our flight platform, and we're cut off. We sent a patrol to Khanovar Citadel, but we never heard back from them.&lt;BR&gt;&lt;BR&gt;Look, you should really talk to the magistrate. Take this letter—I'll vouch for you. Good luck.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="249" prevId="7" villagerId="2002">
+        <Page social="1" voiceTypeId="0">New faces...does that mean the federation's secured the province?&lt;NEXTPAGEBUTTON&gt;"Not exactly. We're here to help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hmm. Celtan vouches for you. That's good enough for me.&lt;BR&gt;&lt;BR&gt;Look, we haven't sat idle this whole time. I've sent anyone I could spare to link up with federation forces, but none came back. Finding them, or even what happened to them, would be a boon for our morale. Can you help us?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="249" prevId="8" villagerId="2003">
+        <Page social="4" voiceTypeId="0">I heard him. I-I'm ready to go. There's a small overwatch north of here. I used to hide there when I was a little girl. If the scouts survived, I bet that's where they're hiding.&lt;BR&gt;&lt;BR&gt;Head to the &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=8001#65883, 25758, 4896&amp;type=1&amp;name=Melgatol Portal"&gt;Melgatol Portal&lt;/A&gt;&lt;/font&gt;. I'm going to check one other spot first, but I'll meet you at the hill overlooking the portal.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="249" prevId="9" villagerId="2005">
+        <Page social="4" voiceTypeId="0">See those portals? That's where the argons bring in their reinforcements. If only we had some of those siege weapons...You—I mean we—should get a closer look. Let's go, before I lose my nerve.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="249" prevId="10" villagerId="2010">
+        <Page social="10" voiceTypeId="0">Look down there! It's an active portal. This is where they're gathering forces to send to the {@Rgn:48001$$Khanovar Front}. So many...&lt;BR&gt;&lt;BR&gt;Let's go. I want to leave. Now!&lt;NEXTPAGEBUTTON&gt;"Wait, aren't those the Kanstrian scouts?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Yes. I'm sorry. I lost my head for a moment. We'll take their unit insignias back.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="249" prevId="11" villagerId="2010">
+        <Page social="0" voiceTypeId="0">Nice work, &lt;PCNAME&gt;. Go back to Kanstria. I need to stay here and investigate the structures a little more.&lt;BR&gt;&lt;BR&gt;The Argons were sending energy somewhere at the Three Towers. I think this place might be it.&lt;BR&gt;&lt;BR&gt;I'll send you back to Kanstria. Let me know when you're ready.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="249" prevId="11" villagerId="2010">
+        <Page social="4" voiceTypeId="0">Alright. Say hi to the magistrate for me. See you later!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="249" prevId="11" villagerId="2002">
+        <Page social="13" voiceTypeId="0">Dead? All of them? I feared as much, of course, but I—I still hoped they'd return safely.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="249" prevId="14" villagerId="2006">
+        <Page social="4" voiceTypeId="0">I heard your report to the magistrate. I'm sorry to hear the scouts all died. They left under my orders. Blast and damnation!&lt;NEXTPAGEBUTTON&gt;"They died doing their duty."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">True enough. They didn't die cowards. That might give some comfort to their families, should we ever reestablish contact with the rest of the world.&lt;BR&gt;&lt;BR&gt;Thank you for bringing back their insignias. Only a fellow soldier knows how much that matters.</Page>
+    </Text>
+</QuestDialog>

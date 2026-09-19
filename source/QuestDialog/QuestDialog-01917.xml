@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Feel like going on an adventure?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne}'s looking for someone to do a little dirty work out in the field.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">We use materials from all over the world. Some of it's supply and demand—we are merchants, you know.&lt;BR&gt;&lt;BR&gt;But we also need the odd items from time to time to aid in our efforts to ward off the many evils around here.&lt;BR&gt;&lt;BR&gt;But we're a small group. We can't be everywhere. That's where you come in.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">Body parts! My favorite.&lt;BR&gt;&lt;BR&gt;The only one who appreciates them more than me is {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Hunt {@LinkCreature:12#13#Red Lash clawriders} on {@Rgn:12001#Mistmoor Island} and bring back teeth, claws, and carapaces.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">How was the trip? I've heard {@Rgn:12001#Mistmoor Island} is nice this time of year.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has your payment.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Hunt {@LinkCreature:12#17#Red Lash marauders} on {@Rgn:12001#Mistmoor Island} and bring back teeth, claws, and carapaces.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">I knew I could count on you.</Page>
+    </Text>
+</QuestDialog>

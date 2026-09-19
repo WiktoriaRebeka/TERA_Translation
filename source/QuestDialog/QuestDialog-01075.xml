@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1102">
+        <Page social="4">Watch out for argon remnants both above and below. They creep back in here on a regular basis. Slaughter any you see on your way out.&lt;BR&gt;&lt;BR&gt;On your way out? Yes. Report to Shadowspark Chamber. I know we've been bouncing you from chamber to chamber, but we're trying to stay one step ahead of the argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1033">
+        <Page social="4">Every researcher says how you're not just protecting them, but aiding in some of the more dangerous aspects of our field work. So...could you do me a favor, too?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="528" prevId="0" villagerId="5029">
+        <Page social="0">Kelsaik rampages across the landscape, beyond anyone's control. Kaia sent you to confront Saleron, a god imprisoned since the end of the Divine War, and seek a means to defeat Kelsaik. Saleron tested you in his Sky Garden. When you proved yourself worthy, Saleron gave you the first of four relic fragments required to end Kelsaik's threat.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="528" prevId="0" villagerId="5029">
+        <Page social="0" voiceTypeId="0">Saleron is bound in a great cavern in Val Elenium. He won't give in to Thulsa or Killian willingly, but you must hurry&lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Inform Tamur, then seek Fraya's aid. Kelsaik is a raging, destructive force. Only Isrenia's influence keeps it from submitting to Thulsa. Kelsaik can lay waste to the world. In Thulsa's hands, that's exactly what it will do. There's greatness in you mortals. You show it. Thulsa fears it. Fight bravely, my friend. Win us the weapon we need.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
+        <Page social="4" voiceTypeId="0">Vengeance against Killian...a luxury I cannot afford, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Killian didn't just murder my father. He took my childhood dream—leading the amani people into battle—and turned it to ash. I now command Kaiator, to be sure, but no son should be promoted over his father's corpse.&lt;NEXTPAGEBUTTON&gt;"The amani need you, Tamur."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Yes, they do. Thus, &lt;PCNAME&gt;, you must be the instrument of my vengeance.&lt;BR&gt;&lt;BR&gt;You are seeking a way to stop Kelsaik. Killian seeks a way to control Kelsaik. I pray that your paths will cross!&lt;BR&gt;&lt;BR&gt;And on that day, remember this: Not even a god can thwart justice!&lt;NEXTPAGEBUTTON&gt;"I'll avenge your father."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I'll keep Kaiator safe—an "orderly transition of power," as Fraya calls it.&lt;BR&gt;&lt;BR&gt;Just stop Kelsaik before it attacks us...or before Killian and Thulsa get their hands on it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="518" prevId="3" villagerId="1001">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;...a welcome sight. A firsthand account of the events at Sikander's egg, if you please...&lt;BR&gt;&lt;BR&gt;...so Thulsa has taken Killian under his wing? And they've turned Sikander into Kelsaik?&lt;BR&gt;&lt;BR&gt;Bleak news, friend. No doubt Tamur agitates for vengeance, but Kelsaik is a greater threat...greater than Killian.&lt;NEXTPAGEBUTTON&gt;"Kaia said Saleron can help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Perhaps Saleron can help, but his allegiance is unclear.&lt;BR&gt;&lt;BR&gt;The other gods imprisoned Saleron at the end of the Divine War, so he's no friend of theirs. On the other hand, Killian is Saleron's son. The only way to know...is to go. The Mysterium has several research camps near Elenea. Seek out Elvar there. He may know how to reach Saleron's prison.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="74" prevId="4" villagerId="1100">
+        <Page social="4" voiceTypeId="0">So an inquisitive &lt;PCCLASS:lcase&gt; seeks Saleron, creator of the prions, father of the dragons, eh?&lt;BR&gt;&lt;BR&gt;The Crypt of the Damned holds the answers you seek.&lt;BR&gt;&lt;BR&gt;Know this, though: You walk in the footsteps of the gods! When the gods imprisoned Saleron at the end of the Divine War, they made his children—Kaia, Velik, Killian, and Icaruna—watch as they covered him in stone.&lt;NEXTPAGEBUTTON&gt;"Kaia, Velik, Killian, Icaruna?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">How his children have scattered!&lt;BR&gt;&lt;BR&gt;Kaia and Velik have adopted mortal races and shepherd them to this day. Icaruna died during the Divine War...the historical records are sketchy on that point. And no one's seen Killian, god of terror, since the war ended. Saleron loathes mortals and gods alike, but he spares some kindness for his creations, the prions. Most of what we know about Saleron comes from researchers like {@LinkCreature:237#1029#Legia}, who have spoken with Saleron personally.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="237" prevId="5" villagerId="1029">
+        <Page social="1" voiceTypeId="0">You felt that earthquake, right?&lt;BR&gt;&lt;BR&gt;I was worried that Kelsaik was on the rampage, but so far it's just that single tremor. Whatever happened, it's got the prions spooked. They're even less coherent than usual. Maybe a fresh face can get something useful out of them, though. Why don't you ask {@LinkCreature:237#1027#Torsten} here? He's supposedly their prophet.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="237" prevId="6" villagerId="1027">
+        <Page social="1" voiceTypeId="0">The gods themselves have breathed on you, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;I remember the sacred words: "On the eve of the end times, pain shakes the earth. A mere mortal treads lightly, hunting the harbinger. A vision evokes sorrow, betrayal, defiance."&lt;BR&gt;&lt;BR&gt;Thus spake my ancestors.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="237" prevId="7" villagerId="1027">
+        <Page social="1" voiceTypeId="0">Killian, god of terror, left countless minions in his wake, and now we few remaining prions cannot visit our imprisoned master.&lt;BR&gt;&lt;BR&gt;Defeat these insolent fearmongers, and perhaps Saleron will look upon you kindly.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="237" prevId="8" villagerId="1102">
+        <Page social="1" voiceTypeId="0">A mortal...pardon me if I don't shake your hand.</Page>
+    </Text>
+</QuestDialog>

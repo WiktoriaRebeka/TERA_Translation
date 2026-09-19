@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="4">We're lucky that Akia and Terkasia aren't giving the ossugon warchiefs orders anymore—all thanks to you. The {@LinkCreature:25#2011#ossugon warchiefs} will be easier to divide and eliminate without their leaders.&lt;BR&gt;&lt;BR&gt;Make sure you bring back their skulls so they can't resurrect. Without the generals, their armies will scatter for sure.&lt;BR&gt;&lt;BR&gt;This is a critical mission, &lt;PCNAME&gt;. I can't think of anyone better to take on the generals. Our future rests on your shoulders.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">That's how it's done! Without the generals, the remnants of the army don't dare proceed with their attack plans! You saved the day!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1027">
+        <Page social="0">Hurry! Kill the {@LinkCreature:25#2011#ossugon warchiefs} before their army attacks!</Page>
+    </Text>
+</QuestDialog>

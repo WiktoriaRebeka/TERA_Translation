@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1001">
+        <Page social="5">I keep thinking I'm going to be able to finally get this survey taken care of, but things keep cropping up! The {@LinkCreature:5#15#Hungry Cullar} and the {@LinkCreature:5#15#tentacullar} keep strolling through right where I want to be. They aren't the nicest critters.&lt;BR&gt;&lt;BR&gt;I don't suppose you could wander over there and take them out for me? It would make finishing this survey so much easier.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1001">
+        <Page social="5">Finished already? Wow, thank you! I should be able to finish this up in no time without the critters in my way.&lt;BR&gt;&lt;BR&gt;Take this for your efforts. I, and by extension, Ackerly, really apprecitae this.</Page>
+    </Text>
+</QuestDialog>

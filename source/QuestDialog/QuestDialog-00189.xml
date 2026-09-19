@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="4">What a gula doesn't eat, it enslaves. And after a while, the slaves wish they'd been chosen for the butcher's block instead.&lt;BR&gt;&lt;BR&gt;If we take out enough {@LinkCreature:8#2031#gula slavers} and {@LinkCreature:8#2041#taskmasters}, we'll cut their slavery operation off at the knees!&lt;BR&gt;&lt;BR&gt;That's worth a little risk, don't you think?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="4">Nicely done, &lt;PCNAME&gt;. There's enough cruelty in the world without the gulas adding to it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1001">
+        <Page social="0">Slavery doesn't bother you? Not even a little?</Page>
+    </Text>
+</QuestDialog>

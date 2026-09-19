@@ -1,0 +1,48 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3007">
+        <Page social="4">As a soldier, you understand that we don't leave our fallen behind. Every effort must be made to recover the dead, or at least their effects.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:418#2001#Baruster}'s got just such a mission in the {@Rgn:9018001$$Argon Catacombs} and asked for you personally.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="4">All full-fledged members of the Shariar carry a ring into battle. It's a token, nothing more, but returning it to the families of the fallen might bring them some peace.&lt;BR&gt;&lt;BR&gt;Search the catacombs for fallen Shariar and recover their rings for me, &lt;PCNAME&gt;. From one soldier to another?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="418" prevId="2" villagerId="2001">
+        <Page social="4">Excellent. I hope their families appreciate your efforts for our honored dead.&lt;BR&gt;&lt;BR&gt;Certainly I do.&lt;BR&gt;&lt;BR&gt;Please, take the rings to Agrakh at Zulfikar Fortress.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="418" villagerId="2001">
+        <Page social="0">I know you'd rather be kicking ass and taking serial numbers, but how we honor our dead is at least as important as how we protect the living.&lt;BR&gt;&lt;BR&gt;It's what separates us from the argons. Please, bring back those rings.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="418" prevId="7" villagerId="2001">
+        <Page social="4">Excellent. I hope their families appreciate your efforts for our honored dead.&lt;BR&gt;&lt;BR&gt;Certainly I do.&lt;BR&gt;&lt;BR&gt;Please, take the rings to Agrakh at Zulfikar Fortress.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="418" villagerId="2001">
+        <Page social="0">I know you'd rather be kicking ass and taking serial numbers, but how we honor our dead is at least as important as how we protect the living.&lt;BR&gt;&lt;BR&gt;It's what separates us from the argons. Please, bring back those rings.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="418" prevId="9" villagerId="2001">
+        <Page social="4">Excellent. I hope their families appreciate your efforts for our honored dead.&lt;BR&gt;&lt;BR&gt;Certainly I do.&lt;BR&gt;&lt;BR&gt;Please, take the rings to Agrakh at Zulfikar Fortress.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="418" villagerId="2001">
+        <Page social="0">I know you'd rather be kicking ass and taking serial numbers, but how we honor our dead is at least as important as how we protect the living.&lt;BR&gt;&lt;BR&gt;It's what separates us from the argons. Please, bring back those rings.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="78" prevId="11" villagerId="3007">
+        <Page social="4">The Shariar are grateful for your help, &lt;PCNAME&gt;. When this war finally ends and we record the deeds of the fighters, your name will stand in a place of honor.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="78" prevId="13" villagerId="3007">
+        <Page social="4">The Shariar are grateful for your help, &lt;PCNAME&gt;. When this war finally ends and we record the deeds of the fighters, your name will stand in a place of honor.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="78" prevId="14" villagerId="3007">
+        <Page social="4">The Shariar are grateful for your help, &lt;PCNAME&gt;. When this war finally ends and we record the deeds of the fighters, your name will stand in a place of honor.</Page>
+    </Text>
+</QuestDialog>

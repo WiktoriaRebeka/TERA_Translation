@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1020">
+        <Page social="4">Jelena needs me, but I can't abandon my men here. I want you to go help my comrade in the city.&lt;BR&gt;&lt;BR&gt;I can't remember who's in charge of the advance scouts... &lt;BR&gt;&lt;BR&gt;Oh! Right. Rendalf. You should talk to him first.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">Are you my reinforcement? Sorry for the short notice, but these cultists are stronger than we thought. Only Elleon and Leander were able to advance any farther.&lt;BR&gt;&lt;BR&gt;We stayed here to build the camp. I'm expecting worse to come.</Page>
+    </Text>
+</QuestDialog>

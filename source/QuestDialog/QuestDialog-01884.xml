@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:250#3001#Derik} is asking after you.&lt;BR&gt;&lt;BR&gt;Seems he has enough argons to share.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">Damned good to see you, &lt;PCNAME&gt;. So many argons, so little time!&lt;BR&gt;&lt;BR&gt;I'd stalk them myself if I could, but I figure someone should get a shot at them!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="2" villagerId="3001">
+        <Page social="4">Graceful and fast.&lt;BR&gt;&lt;BR&gt;Ahem...I was talking about the prowlers!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Stay sharp, even if you've hunted something a dozen times.&lt;BR&gt;&lt;BR&gt;Complacency kills!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="250" prevId="7" villagerId="3001">
+        <Page social="4">Not the most beautiful argons, but still gratifying to bring 'em down, eh?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Watch yourself.&lt;BR&gt;&lt;BR&gt;They attack from below.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="250" prevId="9" villagerId="3001">
+        <Page social="4">Must be a bit dull for you, eh? Or is this good practice for the front lines?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="250" villagerId="3001">
+        <Page social="0">Stay alert.&lt;BR&gt;&lt;BR&gt;It's when you're fighting familiar foes that you slip up.</Page>
+    </Text>
+</QuestDialog>

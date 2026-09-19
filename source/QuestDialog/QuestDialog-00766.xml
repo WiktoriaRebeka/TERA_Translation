@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="4">&lt;PCNAME&gt;, Nashwa has told me about your many successful missions.&lt;BR&gt;&lt;BR&gt;The secret documents you recovered include a map marking the location of one of Kaidun's staff officer's bases. {@LinkCreature:32#21#Lotishara}'s strategies have sent many of the federation's soldiers to their deaths.&lt;BR&gt;&lt;BR&gt;Go and show her the might of the Valkyon Federation.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1002">
+        <Page social="4">Outstanding! The traitor's army has lost its right arm with Lotishara's death. The end of our battles is in sight.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1032">
+        <Page social="4">The {@LinkCreature:32#4#Sihran ragers} and their {@LinkCreature:32#5#tuwangi thumpers} keep our armies at a distance and protect their supply chains. Take them out, and bring me their tags. We'll make sure Kaidun knows what he's lost.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1032">
+        <Page social="4">I wish I could see the look on that traitor, Kaidun's, face when he hears his elites are all dead.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1032">
+        <Page social="0">Eliminate the {@LinkCreature:32#4#Sihran ragers} and {@LinkCreature:32#5#tuwangi thumpers} and bring me their tags.</Page>
+    </Text>
+</QuestDialog>

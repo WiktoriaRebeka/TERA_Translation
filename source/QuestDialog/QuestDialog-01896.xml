@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">Feeling brave, &lt;PCNAME&gt;? I need someone to rescue some relics from the {@Rgn:9017001$$Lighthouse of the Sun}. Up for it?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="4">The worker golems have started moving every relic they dig up into the lighthouse for safety.&lt;BR&gt;&lt;BR&gt;That would be fine, but the combat golems inside often damage them! Go inside and rescue a few artifacts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3025">
+        <Page social="4">Oh, look at these!&lt;BR&gt;&lt;BR&gt;A few slates of wisdom, some statues...these are beautiful.&lt;BR&gt;&lt;BR&gt;Nature smiles, &lt;PCNAME&gt;. That was good work.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="3025">
+        <Page social="0">Rescue those relics before the golems get at them!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="7" villagerId="3025">
+        <Page social="4">Let's see what you found.&lt;BR&gt;&lt;BR&gt;Hmm. Several scrolls, a vase, and...whatever this is.&lt;BR&gt;&lt;BR&gt;The Mysterium will love it. Thanks again!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" villagerId="3025">
+        <Page social="0">Rescue those relics before the golems get at them!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="3025">
+        <Page social="4">Aaah, and what did you find?&lt;BR&gt;&lt;BR&gt;Oh, these are golem instruction discs! The Consos will know what to do with them.&lt;BR&gt;&lt;BR&gt;A great day's work, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" villagerId="3025">
+        <Page social="0">Rescue those relics before the golems get at them!</Page>
+    </Text>
+</QuestDialog>

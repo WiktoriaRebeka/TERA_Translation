@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1042">
+        <Page social="4">In addition to uncovering these endless conspiracies, we've also got treasures to find. The war effort is depending on us, and the {@LinkCreature:42#210#Dagonite crusaders} are making it difficult. Let us make things difficult for them in turn, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="5">We're always happy to reward work well done, and this was well done indeed.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">We'll never find those treasures if we have to wade through {@LinkCreature:42#210#Dagonite crusaders} in every room, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

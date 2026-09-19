@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="5">So by now, you surely know of the problem the tuwangis have been giving us. Quite a surprise, frankly. Who would have known they'd start up like that?&lt;BR&gt;&lt;BR&gt;Anyway, the bottom line is that we don't have a lot of troops here because it used to be one of the safest places in the federation. We've been thinking about this, though, and now we're pretty sure that we've got a way to fight them with the forces that we have.&lt;NEXTPAGEBUTTON&gt;"Oh? What's that?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">We can do that by disabling the communication between their villages. Fighting one village at a time won't be as difficult, don't you think?&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:5#12#Frog Drum} the Stonehammer Tuwangis have is a very important communication tool among their villages in case of emergency. If we can tear the Frog Drum apart, the villages will be isolated from each other.&lt;BR&gt;&lt;BR&gt;You're not busy, are you? I want you to be in charge of this job.&lt;BR&gt;&lt;BR&gt;I am already occupied with training the new soldiers. Please help me out.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1015">
+        <Page social="5">They're disabled, are they? All done? Fantastic.&lt;BR&gt;&lt;BR&gt;Time to get down to business, then.</Page>
+    </Text>
+</QuestDialog>

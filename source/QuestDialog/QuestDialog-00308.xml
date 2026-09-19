@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1008">
+        <Page social="5">The Kazuur Syndicate—a gula outfit, so imagine crazy cannibals—sold some slaves to Dirken.&lt;BR&gt;&lt;BR&gt;Now wouldn't it be interesting if word got around that dealing with Dirken could be lethal? Nothing diminishes profits like your own death, if you know what I mean.&lt;BR&gt;&lt;BR&gt;Go to the northern part of Desolate Coast and wipe out the {@LinkCreature:12#7#gula brawlers}. Word will get around.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1008">
+        <Page social="5">We're the next dream team, &lt;PCNAME&gt;. I set 'em up, you knock 'em down.&lt;BR&gt;&lt;BR&gt;Hmmm. Just saying that makes me thirsty...</Page>
+    </Text>
+</QuestDialog>

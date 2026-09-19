@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1010">
+        <Page social="0">Something's been speaking to me. I keep hearing a voice say, "Gather shadow fragments," and, "Listen to our voices."&lt;BR&gt;&lt;BR&gt;You think I'm crazy? Well I'll prove I'm not! Kill some {@LinkCreature:33#6#malevolent wraiths} in the Vertigo Reach, collect the shadow fragments, and we'll see who's crazy!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1010">
+        <Page social="4">All right, let's see if this works. I'll put these to my ears.&lt;BR&gt;&lt;BR&gt;What do you want, you damned voices? Let's hear it.&lt;BR&gt;&lt;BR&gt;It's...oh, they're the voices of the missing soldiers!&lt;NEXTPAGEBUTTON&gt;"Kaidun's soldiers?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes! My amani comrades! Curses on Thulsa! Curses on this foul place!&lt;BR&gt;&lt;BR&gt;The eldritch defenders on Anguish Heights were truly the missing soldiers, and...no!&lt;BR&gt;&lt;BR&gt;Helehr is still up there, trying to warn us...there's a curse which permeates this place. Oh my friend!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you must bring this information to Alssiyah!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1010">
+        <Page social="0">I'm not sure what I do with the shadow fragments. Stick them in my ears?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="233" prevId="3" villagerId="1001">
+        <Page social="4">Helehr? He was here all this time? Oh foul Thulsa, curse you for dishonoring a proud warrior so.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you must find him. The curse may have altered his form, but he is still our comrade. Help him!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="233" prevId="5" villagerId="1012">
+        <Page social="0">You heard my voice! I don't want anyone to see me like this, but I cannot just lie down and die when my fellow soldiers are in danger.</Page>
+    </Text>
+</QuestDialog>

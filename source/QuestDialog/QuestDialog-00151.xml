@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1022">
+        <Page social="5">{@LinkCreature:6#3011#Scion Justicars} wait just inside the gates of the base. If we're going to get in there and burn through the Gutrends, we're going to need the ones at the gate to already be ash piles.&lt;BR&gt;&lt;BR&gt;Head in there and get rid of them so this whole thing can go easier.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1022">
+        <Page social="5">Yes! Now we can plan the attack. It's going to be amazing how fast we can blow through them without those guards right at the gate.</Page>
+    </Text>
+</QuestDialog>

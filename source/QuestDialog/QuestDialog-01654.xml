@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1018">
+        <Page social="4" voiceTypeId="0">I live only for a righteous death. The gulas have...consumed everything else.&lt;BR&gt;&lt;BR&gt;Friends...eaten. Family...eaten. My whole life...eaten.&lt;BR&gt;&lt;BR&gt;But know this, &lt;PCNAME&gt;: many gulas will precede me back into the Dream.&lt;NEXTPAGEBUTTON&gt;"I'm with you, Kurak."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I've been stalking the gulas for years now, but I can't reach the heart of their operations: the Golden Labyrinth.&lt;BR&gt;&lt;BR&gt;A teleportal in the Hungry Caverns Catacombs leads there, but for some reason it won't work for me!&lt;BR&gt;&lt;BR&gt;Will you be an instrument of righteousness, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;Will you kill {@LinkCreature:472#4#gula deathbringers}, {@LinkCreature:472#24#reavers}, and {@LinkCreature:472#11#savages}, and {@LinkCreature:472#207#brutal gulas}? Take their hearts, just as they've taken mine.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1018">
+        <Page social="6" voiceTypeId="0">Thank you, &lt;PCNAME&gt;. Thank you for these hearts.&lt;BR&gt;&lt;BR&gt;If you'll pardon me, I find myself...hungry.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1018">
+        <Page social="0">They will die before our righteous might! I will consume them as they've consumed me!</Page>
+    </Text>
+</QuestDialog>

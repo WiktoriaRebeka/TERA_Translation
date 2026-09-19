@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1007">
+        <Page social="5">I need my messenger Jadan to deliver a package that just arrived, but he's nowhere to be found in the village.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, can you go ask {@LinkCreature:67#1008$$Okon} at the northern gate if he saw Jadan leave?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1008">
+        <Page social="5">Jadan? No, I haven't seen him pass by today.&lt;BR&gt;&lt;BR&gt;Check with {@LinkCreature:67#1019#Kripa} over there, though, just to be sure.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="67" prevId="3" villagerId="1019">
+        <Page social="5">Say the name again...Jadan? Oh, sure. He and his boy came through a while ago, headed toward the &lt;font color='#660000'&gt;Vale of the Fang&lt;/font&gt;. Said he had herbs to gather.&lt;BR&gt;&lt;BR&gt;Now that you mention it, it's been quite some time.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="216" prevId="4" villagerId="1013">
+        <Page social="5">(It's a popori corpse lying next to some freshly pulled herbs. The fur makes it difficult to examine, but with some effort you discover that all of his blood has been drained.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="67" prevId="5" villagerId="1019">
+        <Page social="5">He...what? That...that doesn't sound right. How does something like that happen?&lt;BR&gt;&lt;BR&gt;You should let Paka know immediately.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="67" prevId="6" villagerId="1007">
+        <Page social="5">Jadan is dead? That's horrible. Strange things are happening lately, that's for sure. We should initiate a buddy system.&lt;BR&gt;&lt;BR&gt;But wait, where's his son, Dipa?</Page>
+    </Text>
+</QuestDialog>

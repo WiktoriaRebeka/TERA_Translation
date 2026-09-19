@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1010">
+        <Page social="4">If Thulsa's really behind all this, it would explain the Ksharans we've gotten word of.&lt;BR&gt;&lt;BR&gt;Arast at Dusk Camp said he saw a Ksharan near his post. Ksharans are undead made through argon artifice. They're definitely a threat.&lt;BR&gt;&lt;BR&gt;Confirm their presence and report to Arast directly.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1025">
+        <Page social="4">These are definitely Thulsan amulets. Thulsa's cast his net wide and gathered numerous allies to shield his work.&lt;BR&gt;&lt;BR&gt;That explains why the unseelie are so bold. They think Thulsa will support them. Fools.&lt;BR&gt;&lt;BR&gt;Thulsa's only loyalty is to himself.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1025">
+        <Page social="0">I must know if the roads are safe. Please ensure they're clear or bring something tangible we can share with command.</Page>
+    </Text>
+</QuestDialog>

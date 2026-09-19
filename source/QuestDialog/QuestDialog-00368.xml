@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1128">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1128">
+        <Page social="4">These {@LinkCreature:13#300541#rockcrawlers} are eating the relics around here.&lt;BR&gt;&lt;BR&gt;Every time one of them pulverizes an outcropping, Eria lets out a piercing scream. For the sake of all our ears, can you go out and retrieve some relic fragments from them before it's too late?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1128">
+        <Page social="4">This should be enough for now. I saw Eria peeking around a pillar at you while you were fighting...I think she's a fan of your work.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1128">
+        <Page social="0">I'm going to need more than just promises to pacify that woman. I think Leander's got those long ears completely stuffed with fabric to block out Eria's screams.&lt;BR&gt;&lt;BR&gt;Please, &lt;PCNAME&gt;, I'm begging you. Help a poor soldier out and bring me back something I can use.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1136">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1136">
+        <Page social="4">The {@LinkCreature:4#2041#eldritch reavers} are killing morale around here. Too many casualties, and they...they taunt us about every soldier they kill.&lt;BR&gt;&lt;BR&gt;Slaughter them, &lt;PCNAME&gt;. Give us something to taunt them about for a change.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1136">
+        <Page social="4">Most impressive, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Not only have you weakened the enemy, but our soldiers are already composing new insults based on the reavers' inability to defend themselves against a lone &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;I'd tell you the insults, but wow...filthy, filthy stuff.</Page>
+    </Text>
+</QuestDialog>

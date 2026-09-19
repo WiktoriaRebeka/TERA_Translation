@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1016">
+        <Page social="6">Those blasted argons would destroy this land to satisfy their bizarre hunger for conquest. We have to do something!&lt;NEXTPAGEBUTTON&gt;"I'm game."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Excellent! I saw several quernok borers in the Nest of the Shaper. Those look expensive. Destroy them.&lt;BR&gt;&lt;BR&gt;We'll see how the argons like losing their possessions!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1016">
+        <Page social="6">You came through in fine style. Thanks.&lt;BR&gt;&lt;BR&gt;If we don't fight to preserve our dreams, what will we leave our children?</Page>
+    </Text>
+</QuestDialog>

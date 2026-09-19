@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0">Trouble, trouble, trouble. Need help from {@LinkCreature:218#1027#Takucha}, but cannot go.&lt;BR&gt;&lt;BR&gt;You go, say I sent you. Otherwise no talking, no help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1027">
+        <Page social="0">Hmm. Kunchara? Trusted friend. I help.&lt;BR&gt;&lt;BR&gt;Tribe became angry. Something about a spell. No turning back now.&lt;BR&gt;&lt;BR&gt;Must eliminate leader, {@LinkCreature:18#101#Tukarus}. Go go go.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1027">
+        <Page social="0">That is Tukarus. Remember him well.&lt;BR&gt;&lt;BR&gt;Always did have big head. Ha!&lt;BR&gt;&lt;BR&gt;Take back to Kunchara, yes?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1027">
+        <Page social="0">Get lost? {@LinkCreature:18#101#Tukarus} is back that way.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="218" prevId="4" villagerId="1002">
+        <Page social="0">Tukarus's head? You, um?&lt;BR&gt;&lt;BR&gt;He knew the truth, but didn't think Takucha would have you, er....&lt;NEXTPAGEBUTTON&gt;"Are you feeling okay?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh. Yes! Kunchara good.&lt;BR&gt;&lt;BR&gt;Thank you for...uh, this.</Page>
+    </Text>
+</QuestDialog>

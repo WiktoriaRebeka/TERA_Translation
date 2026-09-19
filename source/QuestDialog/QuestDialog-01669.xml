@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1033">
+        <Page social="4" voiceTypeId="0">Thulsa has an argon in there known as the Cardinal of Undeath.&lt;BR&gt;&lt;BR&gt;I believe this "cardinal" is none other than Krivalga, one of Thulsa's most powerful necromancers. He's been strangely absent from battle.&lt;BR&gt;&lt;BR&gt;Find him and kill him.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1033">
+        <Page social="4" voiceTypeId="0">So the Cardinal was Krivalga? Excellent. Krivalga was the closest thing Thulsa had to a high priest.&lt;BR&gt;&lt;BR&gt;Nicely done, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

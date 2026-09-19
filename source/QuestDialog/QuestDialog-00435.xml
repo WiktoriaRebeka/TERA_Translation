@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1004">
+        <Page social="4">I don't understand what's happened with the vampirs. They were almost friendly with us for so long. We coexisted peacefully, anyway.&lt;BR&gt;&lt;BR&gt;I hate saying this, but at this point, it's them, or us.&lt;BR&gt;&lt;BR&gt;If you could get rid of the {@LinkCreature:16#2302#blood lords}, I'd feel better about this posting.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1004">
+        <Page social="4">Thank you, &lt;PCNAME&gt;. So many people think this isn't their problem, but if we don't stop it now...well, I'm sure you follow.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1003">
+        <Page social="4">I haven't received any news from the research base. The last news was that hyenas were following their leader. Kill the hyenas and collect their hearts.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1003">
+        <Page social="4">Thank you!&lt;BR&gt;&lt;BR&gt;We can send our Herald now.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1003">
+        <Page social="0">You see the hyenas?&lt;BR&gt;I can send my guys out there after you kill some more of the hyenas.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="64" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;BR&gt;After the incident in the Broken Prison, the Valkyon Federation has sent reinforcements to defend Northern Arun.&lt;BR&gt;&lt;BR&gt;It seems that while we were focusing our attention elsewhere, Velika began experiencing earthquakes.&lt;BR&gt;The Mysterium Scholars inform us that this is not a natural occurrence.&lt;BR&gt;&lt;BR&gt;We need someone to find the cause of these earthquakes—someone brave and competent.&lt;BR&gt;Naturally, I thought of you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;There is no time to waste.&lt;BR&gt;The citizens are growing more and more panicked every day.&lt;BR&gt;&lt;BR&gt;[You must have equipment level 453 or higher to enter Velik’s Hold.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Seir asks &lt;PCNAME&gt; to investigate the sudden earthquake in Velika. Upon arriving in a secret, underground complex, &lt;PCNAME&gt; faces an endless group of monsters demolishing the area, and the source of all evil himself, the god Lakan.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Good to see you, &lt;PCNAME&gt;.&lt;BR&gt;You've arrived at the perfect time.&lt;BR&gt;&lt;BR&gt;Recently, the area around Velika has experienced strange earthquakes. At first it seemed to be affecting just the area around the Dock, but now we're getting reports that people in Velika Plaza have felt tremors as well.&lt;BR&gt;Something is happening under the city... and we need your help investigating it.&lt;BR&gt;&lt;BR&gt;Go to Velik's Steps, and you'll find a secret passage leading to a network of passages under the city.&lt;NEXTPAGEBUTTON&gt;Secret passage... interesting.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The gate that leads to Velika's underground is normally a closely-guarded secret, but the situation is urgent.&lt;BR&gt;&lt;BR&gt;Please hurry, &lt;PCNAME&gt;. Time is running out.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;[Your equipment level has to be at least 446 to enter Velik's Hold]</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1102">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, you look like you've seen something absolutely horrific. What happened down there?&lt;NEXTPAGEBUTTON&gt;The Archdevan Army... they are invading Velika from below.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The Archdevans...?&lt;BR&gt;&lt;BR&gt;The picture is becoming clearer. I'm afraid that Lakan has returned.&lt;BR&gt;&lt;BR&gt;We've been dreading this day... I had hoped it would not come in my lifetime...&lt;BR&gt;&lt;BR&gt;I need some time to consider our next move.&lt;BR&gt;Get some rest, &lt;PCNAME&gt;. You have done Valika a great service this day.</Page>
+    </Text>
+</QuestDialog>

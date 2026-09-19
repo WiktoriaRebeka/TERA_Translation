@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1036">
+        <Page social="4">Okay, here's my plan. If there were fewer {@LinkCreature:42#1100#naga guardians}, it would be a lot easier to reach the naga leaders.&lt;BR&gt;&lt;BR&gt;I didn't promise it would be a big, complicated plan, did I? Just trust me. Get rid of as many as you can, and take out whoever they're guarding for good measure.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1036">
+        <Page social="5">Thanks, &lt;PCNAME&gt;. I know that couldn't have been easy.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1036">
+        <Page social="0">Just kill them one at a time, &lt;PCNAME&gt;. What's bad for {@LinkCreature:42#1100#naga guardians} is good for us.</Page>
+    </Text>
+</QuestDialog>

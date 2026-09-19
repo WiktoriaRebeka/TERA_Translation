@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1701">
+        <Page social="4">Good to see you, &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;I love doing business. But you know what I hate? Tardiness. It's a small thing, but some of my business associates owe me updated ledgers for recent times.&lt;BR&gt;&lt;BR&gt;Can you gently remind them? And I mean it: gently.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1702">
+        <Page social="4">Hey, what brings you here?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Here! Here! By the titans, don't kill me!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1703">
+        <Page social="4">What's up, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">I have a family...please. Take it! Take it to Jax and tell him I'll never, ever be late!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="4" villagerId="1704">
+        <Page social="4">Another day in paradise, eh, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">And he sent you to...wait! This doesn't have to end like this—just let me sign off on it really quickly! It's nearly done!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="5" villagerId="1705">
+        <Page social="4">What can I do for ya?&lt;NEXTPAGEBUTTON&gt;"Jax wants updated ledgers."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Don't hurt me! Not in the face! Look, take the ledger...and tell Jax I'm sorry!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1701">
+        <Page social="4">You came back quickly. No troubles, I hope?&lt;BR&gt;&lt;BR&gt;Here's a little something for your time.</Page>
+    </Text>
+</QuestDialog>

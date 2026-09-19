@@ -1,0 +1,47 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Seir asked you to clear your schedule and get ready to travel to Northern Arun.&lt;BR&gt;&lt;BR&gt;You traveled back to Kaiator to persuade Tamur, but he did not think it was a good idea until Ukenul mentioned that if the Storm Barrier came down, the federation would have more resources to use in the coming war against the argons.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Leander's family is a main contributor to the airship project. You should assure him that his money has been well spent.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="503" prevId="2" villagerId="1004">
+        <Page social="4" voiceTypeId="0">I don't expect outsiders to understand the politics of Allemantheia, but in my brother Elleon's absence I am required to represent not only my family's interests, but those of our people.&lt;BR&gt;&lt;BR&gt;This "Archdevan Empire" you describe is troubling, but I cannot ignore the evidence of my own eyes. As a scholar from a family of merchants, I've dedicated my life to the truth, and must admit I am intrigued.&lt;BR&gt;&lt;BR&gt;You should prepare yourself for the challenges to come.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="503" prevId="2" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Yes. Elleon and I are "rebels" in our father's eyes. My family's trade consortium is one of the Valkyon Federation's main suppliers, and we also spend a not inconsiderable amount of money aiding refugees around the world.&lt;BR&gt;&lt;BR&gt;And now this new Vanguard Initiative? Sometimes I wonder if we've already given too much.&lt;NEXTPAGEBUTTON&gt;"This threat is real!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Indeed, and I intend to tell the Elders of Allemantheia as much&lt;BR&gt;&lt;BR&gt;Our generation may have embraced the New Way, but our grandparents are still skeptical of the Valkyon Federation.&lt;BR&gt;&lt;BR&gt;Fraya was its greatest advocate, but now that she must also bear the burden of the Core, she cannot champion this cause as well.&lt;BR&gt;&lt;BR&gt;I will take your report to them, and convince them to fund yet another expedition to uncharted lands.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="503" prevId="2" villagerId="1004">
+        <Page social="4" voiceTypeId="0">My brother was badly injured fighting Killian, and went into seclusion to heal. But recently he and his friend Jelena cut off all contact with our family, and when I went to check on them they were gone.&lt;BR&gt;&lt;BR&gt;He's done this before, and I'm sure he will be okay. But if he doesn't resurface soon, I'll need to go looking for him. Again.&lt;BR&gt;&lt;BR&gt;But I'm not the only one with problems. So I'm trying to keep my spirits high, and wait.&lt;NEXTPAGEBUTTON&gt;"I'm sorry to hear that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I've chosen my path, and now I must walk it. Supporting the Vanguard initiative is the right thing to do, and will make the world a better place. My personal struggles nonwithstanding.&lt;BR&gt;&lt;BR&gt;If you will excuse me, I should return to Allemantheia and brief Fraya on this latest development.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="503" prevId="2" villagerId="1004">
+        <Page social="4" voiceTypeId="0">You must know by now that as your power grows, the enemies you face become more and more dangerous. It is the Dream's way of keeping the balance, and there are some fights you just can't win. My brother learned that lesson the hard way, and someday you will as well.&lt;BR&gt;&lt;BR&gt;I, too, have suffered setbacks in my quest for ultimate truth, but there is no point in dwelling on the past. The future is either set, or unwritten, by sleeping titans, and nothing will ever break that cycle.&lt;NEXTPAGEBUTTON&gt;"That's...uh...wow."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Such is life. Perhaps you will find a way to rise above despair.&lt;BR&gt;&lt;BR&gt;If you will excuse me, I should return to Allemantheia and brief Fraya on this latest development, and plead your case to the Elders. Our generation may have embraced the New Way, but our grandparents are still skeptical of the Valkyon Federation.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="503" prevId="3" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Leander is off to brief the elves, and you must be my emissary to the amans. Show Tamur the Archdevan Mark, and impress upon him the urgency of our cause. The Vanguard Initiative, if successful, will bring much needed resources to the Valkyon Federation.&lt;BR&gt;&lt;BR&gt;Use this teleport scroll, and then hurry back. We have a lot of work to do.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="84" prevId="7" villagerId="1088">
+        <Page social="4" voiceTypeId="0">Welcome back, &lt;PCNAME&gt;. Commander Tamur is waiting for your report.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="528" prevId="8" villagerId="5005">
+        <Page social="4" voiceTypeId="0">So this mark was on a new kind of monster, placed there by devas? My people once bore marks of servitude, until the devas—no, the castanics, helped Kaia and Lok break them.&lt;BR&gt;&lt;BR&gt;if these "archdevas" are as formidable as you say, I can understand Seir's reasoning. It doesn't change the fact that I need you on the front lines of the coming war, though.&lt;NEXTPAGEBUTTON&gt;"We have to do this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Oh, I agree. I just don't like it.&lt;BR&gt;&lt;BR&gt;Give me some time to think this over.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="528" villagerId="5005">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="528" prevId="9" villagerId="5011">
+        <Page social="4" voiceTypeId="0">The Storm Barrier went up generations ago, but we baraka have very long memories. We all learn the stories of Highwatch as initiates, and I for one would like to see the city of my people.&lt;NEXTPAGEBUTTON&gt;"Highwatch?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">When the empire of the giants fell, Highwatch was a refuge for our people. Over time, we collected knowledge from around the world, and from ages long past. If the Vanguard Initiative can restore access to that knowledge, it's worth any sacrifice.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="528" prevId="11" villagerId="5031">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, there is no question as to what you should do. Follow the dictates of your heart, but always fight injustice. You must join this Vanguard Initiative, and free the oppressed peoples of Northern Arun.&lt;BR&gt;&lt;BR&gt;I remember Highwatch, and the secrets its vaults contain may well turn the tide in our coming war.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="528" prevId="12" villagerId="5005">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, the Shieldmaiden has spoken, and I agree.&lt;BR&gt;&lt;BR&gt;I'll be waiting for the day you return with new knowledge, and hopefully new allies for our cause. I look forward to demolishing Argons by your side.&lt;BR&gt;&lt;BR&gt;Take this. I believe you will need it.</Page>
+    </Text>
+</QuestDialog>

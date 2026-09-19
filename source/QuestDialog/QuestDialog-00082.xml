@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1135">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1135">
+        <Page social="4">Everyone talks about our victory like it's inevitable, but you know what? Even when we were at peace, Fyrmount was beyond our control.&lt;BR&gt;&lt;BR&gt;I swear, I'm the only one worried about a major counterattack. Our defenses are laughable!&lt;BR&gt;&lt;BR&gt;I think I can strengthen our defenses using our enemy's strength against them! We could build ramparts out of flamewood from the {@LinkCreature:4#2051#raging arbosks} around here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1135">
+        <Page social="4">Imagine...the enemy scales our walls, then blam! The walls themselves catch fire!&lt;BR&gt;&lt;BR&gt;I've got some architectural work ahead of me, but with the raw materials are the hardest part.&lt;BR&gt;&lt;BR&gt;Thanks again, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1135">
+        <Page social="0">The {@LinkCreature:4#2051#raging arbosks} are in Blazing Vale, but you probably figured that out already.</Page>
+    </Text>
+</QuestDialog>

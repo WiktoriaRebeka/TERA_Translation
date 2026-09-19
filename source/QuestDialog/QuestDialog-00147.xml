@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1019">
+        <Page social="5">I haven't heard from {@LinkCreature:206#1006#Ethia} in quite some time. I was working with her before I came out here, but as I remember it, she didn't have much help.&lt;BR&gt;&lt;BR&gt;I have to stay here, but it would be a huge favor if you could go see how things are going.&lt;BR&gt;&lt;BR&gt;I'm certain she'll need help out there.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1006">
+        <Page social="5">Yes! Yes, we do need help. I'm not sure who you are, but I'll learn your name eventually.&lt;BR&gt;&lt;BR&gt;First, let's talk about what you're going to do for us.</Page>
+    </Text>
+</QuestDialog>

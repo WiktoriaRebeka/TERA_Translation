@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1020">
+        <Page social="4">The good news is the riots have calmed down. The bad news is now we've got warthog problems.&lt;BR&gt;&lt;BR&gt;They're all over Digory's Farmstead, and those crops make up at least half of our supplies for Velika.&lt;BR&gt;&lt;BR&gt;If you could get over there and help us out, everyone would appreciate it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1020">
+        <Page social="4">Oh, that's a relief. Thanks for clearing that up.</Page>
+    </Text>
+</QuestDialog>

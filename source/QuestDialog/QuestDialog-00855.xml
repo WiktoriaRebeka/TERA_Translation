@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1010">
+        <Page social="5">They keep saying we should wait for confirmation, wait to find out why the Tenebrara randomly attacked us.&lt;BR&gt;&lt;BR&gt;Waiting is for cowards! We must take action! They know my plans, though, and if they see me leave, they'll stop me.&lt;BR&gt;&lt;BR&gt;If you get out there and kill enough of them, I'll see to it that you're known for your bravery.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1010">
+        <Page social="8">Ha! Wonderful!&lt;BR&gt;&lt;BR&gt;I'll keep my promise. You'll be known.</Page>
+    </Text>
+</QuestDialog>

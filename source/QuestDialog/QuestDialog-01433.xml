@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3006">
+        <Page social="5">Now, beasts have minds of their own. Training them to obey your subtle commands means limiting their vision.&lt;BR&gt;&lt;BR&gt;What you need is a cowl harness—they keep the beast's eyes forward. Bring me one of those.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3006">
+        <Page social="5">Ah, perfect. This will make training much easier on both of you.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3006">
+        <Page social="0">Yes, you could try to train the beast without the harness, but you'll probably lose a hand or leg or other useful appendage.&lt;BR&gt;&lt;BR&gt;Your call. Done talking.</Page>
+    </Text>
+</QuestDialog>

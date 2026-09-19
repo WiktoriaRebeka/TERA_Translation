@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1038">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1038">
+        <Page social="5">Who would dare to disturb a god, much less one like Saleron, who's held grudges for centuries?&lt;BR&gt;&lt;BR&gt;Everyone—our federation included—wants to seize these crypts, but wouldn't we be better off leaving Saleron alone?&lt;BR&gt;&lt;BR&gt;Neither the greatest &lt;PCCLASS:lcase&gt; nor I rule our own destinies, however. So with some reluctance, I offer this challenge: defeat the manaathols and shatter the enemy's command structure.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1038">
+        <Page social="18">A worthy victory, &lt;PCNAME&gt;. Let us hope that your effort isn't a pointless advance in these endless tunnels.</Page>
+    </Text>
+</QuestDialog>

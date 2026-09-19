@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1015">
+        <Page social="4">Hesitation in battle means death. But who can help but hesitate when you draw your weapon and find your enemy is your former comrade, fallen to the darkness?&lt;BR&gt;&lt;BR&gt;Some of us have loved ones fighting as one of the {@LinkCreature:32#12#Sihran templars}. They will not yield, and I dread putting my sword in my own brother's chest. But to you they are strangers...the enemy!&lt;BR&gt;&lt;BR&gt;Will you release them from Kaidun's wicked grasp?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1015">
+        <Page social="4">You did it? That's...good. Thank you.&lt;BR&gt;&lt;BR&gt;It's never an easy thing, killing a good soldier.&lt;BR&gt;&lt;BR&gt;I'd like to be alone now.</Page>
+    </Text>
+</QuestDialog>

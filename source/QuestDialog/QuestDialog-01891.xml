@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">The {@Rgn:30008$$Lower Archive}'s golems are acting up again.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3004#Kurda} knows which ones.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="4">Not all the guardians the gods put here work right.&lt;BR&gt;&lt;BR&gt;Some didn't shut down like the others. Some just slipped a gear.&lt;BR&gt;&lt;BR&gt;Today, this one's in my way.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3004">
+        <Page social="4">Thing's just pruning the wrong things, is all.&lt;BR&gt;&lt;BR&gt;Can't find its base to reprogram it.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="3004">
+        <Page social="4">Used to be tons of those. When the refuge reopened, they just went away.&lt;BR&gt;&lt;BR&gt;A few won't stay away, though.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="3004">
+        <Page social="4">Think that one guarded the archive vaults.&lt;BR&gt;&lt;BR&gt;Must not even realize they're gone!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="4">Unless you're blind, you see all the rotting corpses, skeletons, and...what is that? Something dead, I suppose.&lt;BR&gt;&lt;BR&gt;Anyway, you're in the middle of our enemies, specifically the Raven Troops...Thulsa's largest battalion of all.&lt;BR&gt;&lt;BR&gt;Wanna make the Raven Troops into Thulsa's second-largest battalion? Inflict some casualties, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1034">
+        <Page social="4">Wow, this is more than I expected. No wonder Krok recommended you so highly!&lt;BR&gt;&lt;BR&gt;Kaia bless you, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1034">
+        <Page social="0">The Raven Troops are everywhere in this furnace.&lt;BR&gt;&lt;BR&gt;Behead them all and prove your worth!</Page>
+    </Text>
+</QuestDialog>

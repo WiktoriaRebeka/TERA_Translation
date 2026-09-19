@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1010">
+        <Page social="5">I knew it would be folly to have such a young boy in what amounts to a war zone, and sure enough...he's a casualty.&lt;BR&gt;&lt;BR&gt;But he's not dead...yet, and that's where you come in.&lt;BR&gt;&lt;BR&gt;For me to work my herbal magic, I need the blossoms of &lt;font color='#660000'&gt;hazevines&lt;/font&gt;. The boy doesn't know it, but he's lucky. Hazevine is underground nine months of the year.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1010">
+        <Page social="4">Those blossoms aren't a secret exactly. But they grow only here, so knowledge of their medicinal uses is rather obscure.&lt;BR&gt;&lt;BR&gt;The boy will awaken soon enough. His body is on the mend, and that's what counts.&lt;BR&gt;&lt;BR&gt;When he rises, I'll be sure to tell him of the kind soldier who saved his life.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1010">
+        <Page social="0">Look, everyone else wants you to slay all these lethal enemies or recover world-shattering artifacts.&lt;BR&gt;&lt;BR&gt;I'm just asking you to... Pick. Some. Flowers.&lt;BR&gt;&lt;BR&gt;Kids today. No appreciation for light duty.</Page>
+    </Text>
+</QuestDialog>

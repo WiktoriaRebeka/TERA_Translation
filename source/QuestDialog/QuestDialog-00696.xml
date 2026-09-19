@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">No time for chitchat. We're busy repairing the camp fences.&lt;BR&gt;&lt;BR&gt;Strong timber would certainly help, but you've heard this song and dance before.&lt;BR&gt;&lt;BR&gt;The best wood in Balder's Refuge is just walking around—in the form of {@LinkCreature:30#170#viny arbosks}.&lt;BR&gt;&lt;BR&gt;No other tree is that durable, so it's worth the risk.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1066">
+        <Page social="1">You live up to your reputation, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;No one's ever brought me so much wood before.&lt;BR&gt;&lt;BR&gt;Hey! Come here and take this! And thank you so much.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1066">
+        <Page social="0">The wood of {@LinkCreature:30#170#viny arbosks} is so hard that an axe-wielding, rampaging orcan can't hack it apart. I'd never sleep here if I didn't trust these walls.</Page>
+    </Text>
+</QuestDialog>

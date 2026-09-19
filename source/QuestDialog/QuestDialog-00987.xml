@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1011">
+        <Page social="0">The Black Claw keeps us from our usual hunting grounds. Now we must fight {@LinkCreature:41#4001#ravenous basilisks} for every bite we eat. Every day they kill more of our hunters.&lt;BR&gt;&lt;BR&gt;The Decurion says you are a great hunter. Will you take on the task of thinning out the basilisks for us?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1018">
+        <Page social="0">Look at the size of that tusk! This basilisk would have killed many of us. We are grateful, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1018">
+        <Page social="0">The {@LinkCreature:41#4001#ravenous basilisks} are a great danger to us, or we wouldn't have asked for your help.</Page>
+    </Text>
+</QuestDialog>

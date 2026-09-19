@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="223" prevId="0" villagerId="9904">
+        <Page social="2" voiceTypeId="0">So, &lt;PCNAME&gt;. Can I call you &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;If you're wondering what you should do with all the Angler Tokens you've been collecting, think about upgrading your fishing rod. Not only will it look better, but you'll be catching better fish in no time!&lt;BR&gt;If you're interested in learning more, I'll send you to my friends at the Vexatus Swamp Fishery.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You learned why you should upgrade your fishing rod at the Vexatus Swamp Fishery.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="1" villagerId="9904">
+        <Page social="4" voiceTypeId="0">Are you ready to go to the Vexatus Swamp Fishery?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="1" villagerId="9904">
+        <Page social="0" voiceTypeId="0">Give my regards to Mayel when you arrive!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="3" villagerId="9904">
+        <Page social="3" voiceTypeId="0">Shhhh! You're scaring the fish away.&lt;BR&gt;&lt;BR&gt;What? Lushan sent you?&lt;BR&gt;&lt;BR&gt;Ah, my apologies.&lt;BR&gt;&lt;BR&gt;So, I bet you're eager to catch some high grade fish, right?&lt;NEXTPAGEBUTTON&gt;"Yes I am."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Well, to catch better fish, you're going to need a better fishing rod, and better bait.&lt;BR&gt;&lt;BR&gt;The latter I can give you, but think about exchanging Angler Tokens for a better rod than that battered relic you're using, and maybe upgrading it as well.&lt;BR&gt;&lt;BR&gt;Go catch me a Crucian Carp, and we'll see what happens next.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="61" prevId="5" villagerId="9904">
+        <Page social="4" voiceTypeId="0">You got it! Nicely done.&lt;BR&gt;&lt;BR&gt;You've got the basics down, and have seen the benefits of upgrading your equipment. But there's one last thing you need to know.&lt;BR&gt;&lt;BR&gt;In each Fishery, there are enormous fish called BAFs. That's short for Big-Ass Fish, something those clever federation types were keen to call them. As long as you're willing to fight for them, you can catch one. But you'll need a fully upgraded fishing rod and some expensive bait if you want a fighting chance.&lt;BR&gt;&lt;BR&gt;You should try it someday!&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">The Fishing Association is still a new organization, but our numbers are growing every day. We needs lots of new anglers like you to make it work.&lt;BR&gt;If you have some time, you should visit all of our Fisheries and ask around for work.&lt;BR&gt;I hear a motivated angler can make some serious bank.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="61" villagerId="9904">
+        <Page social="0">Have you caught a Crucian Carp yet? It's a Grade 3 fish, so you'll need an advanced rod capable of catching one.&lt;BR&gt;&lt;BR&gt;Using high grade bait will help too.</Page>
+    </Text>
+</QuestDialog>

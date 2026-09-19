@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mysterium researchers learned that the argons transferred energy from the destroyed Cyasma Spire to somewhere in Granarkus. While looking for the energy's destination, you witnessed argons draining Kelsaik's corpse. Then Shandra Manaya, the argon queen, stole Sikander's Flame.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">The Cyasma Spire has been successfully destroyed. Report to Commander Tamur in {@Rgn:84001$$Kaiator}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
+        <Page social="1" voiceTypeId="0">You reversed the energy flow within the Cyasma Spire! Clever, &lt;PCNAME&gt;, very clever.&lt;BR&gt;&lt;BR&gt;Reports are pouring in from everywhere; the argons are either shutting down or retreating. For once, we're winning!&lt;BR&gt;&lt;BR&gt;But we can't quit until the job's done. We'll never be safe as long as Shandra Manaya, the argon queen, lives.&lt;BR&gt;&lt;BR&gt;You've faced down gods before, so you're the best chance we've got. Your mission: take down Shandra Manaya. Do whatever it takes.&lt;NEXTPAGEBUTTON&gt;"Where is she?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That's a good question. The short answer is: we don't know. But we've got a lead.&lt;BR&gt;&lt;BR&gt;Some Mysterium researchers are tracking the last energy transmission from the Cyasma Spire. They've narrowed it down to somewhere in Granarkus.&lt;BR&gt;&lt;BR&gt;Here comes Adeille, the leader of the researchers. She'll brief you on the details.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5039">
+        <Page social="1" voiceTypeId="0">Tamur brought you up to speed? Good.&lt;BR&gt;&lt;BR&gt;The theory is simple: Cyasma Spire was a high-value target because the argons were using it as an energy source. All that energy had to go somewhere—that's basic physics—and we're betting that it went to the argons' main base.&lt;BR&gt;&lt;BR&gt;Granarkus is a big place, though. To track the energy to its destination, we need boots on the ground. Your boots.&lt;NEXTPAGEBUTTON&gt;"Let me at her!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We're sending some of our best researchers with you. They're experts in argon technology and power transmission, not combat.&lt;BR&gt;&lt;BR&gt;You'll need to keep them alive long enough to do their work, and it won't be easy. The argons in Granarkus are still organized and dangerous—probably because they're close to the argon queen.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="528" prevId="4" villagerId="5039">
+        <Page social="0" voiceTypeId="0">For more details, you can talk to Virienne at the Cyasma Spire. She's forgotten more about the argons than most people will ever know.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="528" prevId="4" villagerId="5039">
+        <Page social="4" voiceTypeId="0">Go and speak with Virienne. She's hiding from the Argons.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="250" prevId="4" villagerId="1031">
+        <Page social="1" voiceTypeId="0">So you're &lt;PCNAME&gt;, the liberator of Kanstria. We've never met, but I've spent months analyzing the argons you've...dismantled.&lt;BR&gt;&lt;BR&gt;Let's get down to business. You've been briefed?&lt;NEXTPAGEBUTTON&gt;"Yes, I have."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The energy from the Cyasma Spire went to an energy purifier in Granarkus...and then somewhere else nearby.&lt;BR&gt;&lt;BR&gt;But the area around the purifier isn't safe. Seize the energy purifier southeast of the Noyul Extractor in Granarkus, then open a portal so my team can teleport there safely.&lt;BR&gt;&lt;BR&gt;I know teleportal calibration isn't your specialty, so I've made it simple: Insert this teleport stone into the purifier, and you'll convert it into a temporary teleportal.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="250" prevId="7" villagerId="1024">
+        <Page social="1" voiceTypeId="0">Hmmm...this might be easier than I thought. See those metallic things that look like roots? Those are argon energy conduits.&lt;BR&gt;&lt;BR&gt;You might have seen similar conduits near the Cyasma Spire. Remember?&lt;NEXTPAGEBUTTON&gt;"Yes, I remember."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We might be able to follow the conduits straight to Shandra Manaya. I sent a researcher, Dadoam, to follow the conduits. He should be able to track them even if they go underground.&lt;BR&gt;Catch up to Dadoam, make sure he's safe, and see where those conduits lead.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="250" prevId="8" villagerId="1025">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;! This way! That small globe has the same energy signature as the Cyasma Spire. And something beyond those giant argons is emitting energy...well, it's off the charts. Judging from the structure, it's an argon incubator. And that makes it an obvious target.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="250" prevId="9" villagerId="1032">
+        <Page social="1" voiceTypeId="0">Shandra Manaya! The power of a god, but as heartless as an argon. And that's Kelsaik's body!&lt;NEXTPAGEBUTTON&gt;"Indeed it is."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Shandra Manaya took something from it: Sikander's flame. Perhaps the flame was a little bit of Sikander that survived after Thulsa turned Sikander into Kelsaik.&lt;BR&gt;&lt;BR&gt;It'll take a god to figure out what Shandra Manaya is doing with a fragment of a dead god. You should tell Kaia what we've learned.</Page>
+    </Text>
+</QuestDialog>

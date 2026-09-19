@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1029">
+        <Page social="0">I need a sample, a shard—anything from the fragments of the fallen argon fortress. They're in the {@Rgn:45005$$Skyfields} near the collapsed entrance.&lt;BR&gt;&lt;BR&gt;Can you save me a trip, and probably my life, and collect one for me? Kill the wendigos before you go near them, though—they'll protect the fragments.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1029">
+        <Page social="4">There's no getting inside the fortress, I fear. But the more we know about what the argons were doing here, the better.&lt;BR&gt;&lt;BR&gt;Fortunately, we control a much more functional fortress—the Three Towers.&lt;BR&gt;&lt;BR&gt;Take this report and give it to Borskan in Pathfinder Post. Thank you for your assistance.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="3" villagerId="1009">
+        <Page social="4">Give your report to Ellisiana, and follow her instructions. There's still much to learn about this supposed argon retreat.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="4" villagerId="1011">
+        <Page social="4">This report troubles me. It raises uncomfortable questions—possibly with even more uncomfortable answers.&lt;BR&gt;&lt;BR&gt;We need to know why the argons abandoned this region. Will you help us?</Page>
+    </Text>
+</QuestDialog>

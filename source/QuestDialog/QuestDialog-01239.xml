@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">Miserable wendigos! I ordered several barrels of fortified Allemantheian silver wine, a favorite among the soldiers around here—took a lot of horse-trading. Last night, the wendigos raided our supply cache. What do you think they took?&lt;BR&gt;&lt;BR&gt;That wine is for my men, and I intend for them to enjoy it.&lt;BR&gt;&lt;BR&gt;Hunt through Wendigo's Howl and retrieve those barrels. I will personally compensate you for your time.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1001">
+        <Page social="4">Well done!&lt;BR&gt;&lt;BR&gt;You found all there was to find, I expect. I'm sure the wendigos drank the rest.&lt;BR&gt;&lt;BR&gt;In any case, thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1001">
+        <Page social="0">Find those wine barrels. If you kill a few wendigos in the process, all the better!</Page>
+    </Text>
+</QuestDialog>

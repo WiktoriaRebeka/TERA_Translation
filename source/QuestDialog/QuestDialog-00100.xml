@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="0">If you happen to pass through Lumbertown, talk to Tomba. He's from Tuwangi Mire, and there's some sort of crisis over there.&lt;BR&gt;&lt;BR&gt;The mire is a unique place, so I suggest you explore it regardless.&lt;BR&gt;{@LinkCreature:60#1099} can guide you there.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1099">
+        <Page social="0">Me from place you call Tuwangi Mire. Many good tuwangis live there.&lt;BR&gt;&lt;BR&gt;But tuwangis crazy now. Tuwangis drive out humans and want to be kings and queens of world. Me different. Me not like fighting. Tuwangis lose if fight against outsiders.&lt;BR&gt;&lt;BR&gt;Me send you place called Marshlands. Go meet {@LinkCreature:205#1017#Rathe}. Tell Rathe you come to stop tuwangis.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1017">
+        <Page social="5">The local tuwangis are wailing as if the world's about to come to an end, and they've been begging everyone carrying a weapon to come to the mire.&lt;BR&gt;&lt;BR&gt;But in reality, it's nothing but boredom here in Tuwangi Mire. The tuwangi here are pretty docile—it's the ones that left the area and came back that you have to worry about.</Page>
+    </Text>
+</QuestDialog>

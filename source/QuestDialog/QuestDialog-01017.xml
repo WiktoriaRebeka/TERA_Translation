@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1041">
+        <Page social="5">The nagas used to come here occasionally to worship Dagon, then go their way. Now they come and fight us.&lt;BR&gt;&lt;BR&gt;The answer may lie with the {@LinkCreature:42#200#Dagonite slayers}. If you kill enough of them, we may find some verification, documentation...who knows?&lt;BR&gt;&lt;BR&gt;At the very least, nagas would be dying, and we're always in favor of that.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1041">
+        <Page social="4">Let's see those orders...&lt;BR&gt;&lt;BR&gt;"We elders of Serpentis Isle...complete mission..." Yes, this is what we were looking for.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;. The federation owes you much.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1041">
+        <Page social="0">Why have the nagas stayed? Do you think the {@LinkCreature:42#200#Dagonite slayers} might know? Do you think killing a few of them might get us the answer?</Page>
+    </Text>
+</QuestDialog>

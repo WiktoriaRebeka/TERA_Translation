@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1024">
+        <Page social="5">Strange plants sprouted here just before those blood fiends took up residence. The flowers bear a striking resemblence to bloodpetals.&lt;BR&gt;&lt;BR&gt;Perhaps it is only a coincidence, but to be sure, we must study the plants. Would you be so kind as to gather their flowers for me while you are out?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1024">
+        <Page social="5">Yes, this is the plant. The flowers turn red as blood when picked. There seems nothing at all unusual about these samples, but appearances can be misleading.&lt;BR&gt;&lt;BR&gt;Here is a token of a humble scholar's gratitude.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1024">
+        <Page social="0">Be wary of the blood fiends, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

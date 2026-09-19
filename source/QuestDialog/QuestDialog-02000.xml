@@ -1,0 +1,53 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7001">
+        <Page social="0">You went to the communal ranch built by the Liberated Free Brotherhood and learned how to collect ranch products and play the Pigling Rodeo game.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7001">
+        <Page social="4">Hey, &lt;PCNAME&gt;, are you a foodie? You must be, if you came all the way here for sky lotus.&lt;BR&gt;&lt;BR&gt;You should go to the ranch down there. They have the freshest produce, for use in the best recipes.&lt;BR&gt;&lt;BR&gt;Look for Karadus. &lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1004">
+        <Page social="4">Welcome, stranger. Came for the festival, right?&lt;BR&gt;&lt;BR&gt;This is a communal ranch, worked and shared by all the Freeholders. We wrangle livestock and leave Lein and his family to the produce end of things.&lt;BR&gt;&lt;BR&gt;Have you met Tagun? He's a shepherd. Dozes off all the time, but he's got a good heart—and he knows everything there is to know about lamb meat. If you want the best lamb for a recipe, go see him. &lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" prevId="3" villagerId="7002">
+        <Page social="4">Looking for good lamb?&lt;BR&gt;&lt;BR&gt;Me, too, actually...I just closed my eyes for a second, and they ran off. Help me herd the sheep, and I'll give you some choice lamb. &lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="702" villagerId="4">
+        <Page social="0">Baah-aah! Baaaaaa-aah!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="4" villagerId="7002">
+        <Page social="4">Any chance you're thinking about a career change, &lt;PCNAME&gt;? You'd make a good shepherd.&lt;BR&gt;&lt;BR&gt;No need to decide now. Here: that lamb meat I promised you. &lt;NEXTPAGEBUTTON&gt;"What other ingredients can I get?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Go see Filton at his dairy farm, if you're interested in beef or milk.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" prevId="6" villagerId="7003">
+        <Page social="4">Welcome, friend. Don't think I've seen you around here before. Sous chef? Or just visiting for the festival?&lt;BR&gt;&lt;BR&gt;Well, you missed slaughter season, but I have plenty of fresh milk.&lt;BR&gt;&lt;BR&gt;Of course, slaughter season never really ends, with those hyenas around. Think you can chase 'em off for me? &lt;NEXTPAGEBUTTON&gt;"I suppose so."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" prevId="7" villagerId="7003">
+        <Page social="4">Wow, that was fast!&lt;BR&gt;&lt;BR&gt;Now ordinary milk seems like a poor reward. Let's see: You're looking for ingredients for recipes, right? Trichi's your man. He can help you get the really special ingredients you need. &lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="8" villagerId="7004">
+        <Page social="4">Filton sent you, eh?&lt;BR&gt;&lt;BR&gt;Have you ever tried struthio eggs? Better than chicken eggs, any day.&lt;BR&gt;&lt;BR&gt;Take as many as you like, but please take one to Tippani for me. She asked me for one, but I've been too busy to make it over there! Thanks in advance! &lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" prevId="9" villagerId="7005">
+        <Page social="4">Trichi! You're late, and I don't like it! It's a bad start!&lt;BR&gt;&lt;BR&gt;Wait...you're not Trichi! Where's Trichi?&lt;BR&gt;&lt;BR&gt;Uh, wait. What I meant was: Welcome to the pig rodeo! Care to try your hand? &lt;NEXTPAGEBUTTON&gt;"I'm just here to deliver this egg."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ohh! Trichi sent you to deliver the egg I asked for! He's so sweet. Please tell him I said "thank you."&lt;BR&gt;&lt;BR&gt;Wait, don't go yet! You have to try the pig rodeo! The prize is delicious pigling meat—best in the Freeholds! Are you sure you don't want to give it a go?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"How do you play?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Now I got your interest! Well, it's twice as fun as any old Kick-Bale game, I'll tell you that!&lt;BR&gt;&lt;BR&gt;If you can keep control of the piglings until the timer runs out, you win! Just throw some ghost fire at them, and they'll follow you around. But watch out of the swineherd bot! It'll try to steal your piglings from you.&lt;BR&gt;&lt;BR&gt;Give it a try—you'll get the hang of it!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" villagerId="7005">
+        <Page social="0" />
+    </Text>
+    <Text id="12" huntingZoneId="219" prevId="10" villagerId="7005">
+        <Page social="4">Not bad, not bad. And here's your prize: pigling meat! Best in the Freeholds! &lt;NEXTPAGEBUTTON&gt;"How do you cook it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Melsa at Lein's Farm is well-known for her pigling recipes.&lt;BR&gt;&lt;BR&gt;I know how to smoke-cure pigling meat, but Melsa is the best when it comes to cooking it. Tell her I said so, and maybe she'll share her recipe with you.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="219" prevId="12" villagerId="7000">
+        <Page social="4">Welcome back, &lt;PCNAME&gt;! Find anything fun to do?&lt;BR&gt;&lt;BR&gt;Oh, I see you got some of Tippani's cured pigling meat.&lt;BR&gt;&lt;BR&gt;It's not bad like this, but it's such a waste not to cook it properly. Lucky you, I just happen to have a recipe—best in the Freeholds! Here: You'll need some salt. Now head on over to the fire pit. &lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="14" huntingZoneId="219" prevId="13" villagerId="7000">
+        <Page social="4">Wow, that smells really good! Good color, too, and comes away from the bone just right. Downright mouth-watering! Mind if I taste it?&lt;BR&gt;&lt;BR&gt;Mmm, that's perfect! Great job, &lt;PCNAME&gt;! Have you tried it yet? &lt;NEXTPAGEBUTTON&gt;"I could go for a bite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You've got yourself some hidden talents, don't you? So many would-be chefs cook pigling to charcoal—or don't cook it enough, and end up doing the "outhouse dash"...&lt;BR&gt;&lt;BR&gt;Uh, anyway...here. This is the recipe for Kaiator BBQ. I think you can handle it. If you make it, save me some!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Don't forget, &lt;PCNAME&gt;: Just follow the recipe I gave you, and you'll be fine.</Page>
+    </Text>
+</QuestDialog>

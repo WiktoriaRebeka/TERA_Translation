@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1004">
+        <Page social="4">The weapons may not have worked, but this time I have a plan to win Nascha's heart that's foolproof!&lt;BR&gt;&lt;BR&gt;Kaidun awards his strongest and fiercest officers with special rank insignias. Nashwa couldn't refuse such a prize! Would you get them from the {@LinkCreature:32#15#Sihran loyalists} for me? I'd go...but...you've already proven you can handle this sort of thing.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1004">
+        <Page social="4">Nashwa will surely fall in love with me when I bring her these! I can't thank you enough, but this reward is a start!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1004">
+        <Page social="0">All I need are the rank insignias worn by the {@LinkCreature:32#15#Sihran loyalists} and Nashwa will see I do care about her. Right?</Page>
+    </Text>
+</QuestDialog>

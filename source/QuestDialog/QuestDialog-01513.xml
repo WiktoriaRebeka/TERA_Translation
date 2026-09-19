@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="1005">
+        <Page social="0">The in-flight meals leave something to be desired.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="1005">
+        <Page social="4">Actol hasn't gotten his sea…er, air legs yet.&lt;BR&gt;&lt;BR&gt;My bunk's below his, so I want him healthy before tonight.&lt;BR&gt;&lt;BR&gt;Could you check with the others for medicine or firewhiskey?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="3004">
+        <Page social="4">Air sickness? Sure. Not many people have the stomach to fly. I, on the other hand, have flown twice.&lt;BR&gt;&lt;BR&gt;Try some Essenian ginger. There's probably some in the footlockers.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1006">
+        <Page social="4">Oh, praise Velik, heck—praise Kaia, Seren, and Akasha, too. My stomach feels much better. Thanks.&lt;BR&gt;&lt;BR&gt;Would you ask Fieri if there's anything to eat.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" villagerId="1006">
+        <Page social="0">No ginger? Keep looking.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="4" villagerId="3007">
+        <Page social="4">Oh, heck yeah. I'm the king of comfort food.&lt;BR&gt;&lt;BR&gt;By the way, do you want to try my latest dish?&lt;BR&gt;&lt;BR&gt;Come on, don't be shy. I learned from the most prominent chef in Arun.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="6" villagerId="1007">
+        <Page social="4">(The smell reminds you of onions and argons.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="3007">
+        <Page social="4">What? You're crazy. That dish is off the hook with flavor!&lt;BR&gt;&lt;BR&gt;Here, try this one.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="823" prevId="8" villagerId="1008">
+        <Page social="4">(Looks and smells less suspicious.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="823" prevId="9" villagerId="3007">
+        <Page social="4">I'm telling you, that was a symposium of flavor! Shut the front door, I am amazing!&lt;BR&gt;&lt;BR&gt;I should compete to be Arun Chef!</Page>
+    </Text>
+</QuestDialog>

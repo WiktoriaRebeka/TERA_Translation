@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="599" prevId="0" villagerId="194">
+        <Page social="4" voiceTypeId="0">Dougal tells me he invited you to Velika with him to join the federation.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Yes, he did.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Well, I think you should go. You’re obviously competent, and you’ve proven your heroism. The Valkyon Federation could use a dozen more like you.&lt;NEXTPAGEBUTTON&gt;"What about Shadetree?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">What, gathering samples and fetching jars? No, you’re built for more than that. I can see it. We all saw it today.&lt;BR&gt;&lt;BR&gt;See what Emun has to say about it.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Once you drove the argons off, Stepstone Isle had little to offer you. You spoke with Dougal about joining the Valkyon Federation, posing as an Island of Dawn recruit, then took a pegasus to Velika.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="1" villagerId="142">
+        <Page social="4" voiceTypeId="0">You're not sure about leaving? What, you want to stay here with maybe 50 people on this tiny island?&lt;BR&gt;&lt;BR&gt;Listen, the argons you saw here are hardly the worst of it. They'll definitely need your skills out there.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;&amp;quot;I won't let you down.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="302">
+        <Page social="4" voiceTypeId="0">Glad to hear it. Welcome to the Valkyon Federation!&lt;BR&gt;&lt;BR&gt;Other than you, there are only a handful of people in the federation I can really trust. Between you and me, there's a spy among us, and I'll need your help finding them.&lt;NEXTPAGEBUTTON&gt;&amp;quot;My help?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Yeah. Here's the trick, though—I need you to pretend you're one of the recruits from Island of Dawn. I need you to pretend you've never even heard of anything on this island.&lt;BR&gt;&lt;BR&gt;I know that sounds silly, but it's really important.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Why the secrecy?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I don’t know who the traitor is, but if that person finds out you defeated the argons here today, you won’t have long to live. Skills like yours won’t go unnoticed for long, and the traitor is going to want to eliminate as many troublemakers as possible.&lt;NEXTPAGEBUTTON&gt;"Understood."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="913">
+        <Page social="4" voiceTypeId="0">Let me look at your papers. Hmm… Dougal says you follow orders and you’re eager to learn, so welcome to the federation, soldier.&lt;BR&gt;&lt;BR&gt;Ever ridden a pegasus before? Nothing to it at all. &lt;BR&gt;&lt;BR&gt;Finish up any business you have here, then come talk to me again and tell me you want to &lt;b&gt;Travel&lt;/b&gt;. Then just click on your destination—in this case &lt;b&gt;Velika&lt;/b&gt;.&lt;NEXTPAGEBUTTON&gt;"Travel, choose Velika. Got it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1107">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;? I don’t have you on the list… can I see your papers?&lt;BR&gt;&lt;BR&gt;Ah. Captain Dougal speaks highly of you.&lt;BR&gt;&lt;BR&gt;Very well, then! Welcome to Velika! I’m Troius, the federation legate. My job is to orient new recruits and point you toward headquarters.&lt;BR&gt;&lt;BR&gt;Dougal wants you to report to him, but you’ve got time to tour the city first. If you get lost, just ask any guard for directions.&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1107">
+        <Page social="0">&lt;PCNAME&gt;? I don't have you on the list...can I see your papers?&lt;BR&gt;&lt;BR&gt;Ah. Captain Dougal speaks highly of you.&lt;BR&gt;&lt;BR&gt;Very well, then! Welcome to Velika! I'm Troius, the federation legate. My job is to orient new recruits and point you toward headquarters.&lt;BR&gt;&lt;BR&gt;Dougal wants you to report to him, but you've got time to tour the city first. If you get lost, just ask any guard for directions.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Thanks.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="83" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1136">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1136">
+        <Page social="0">Hey, I don't suppose you're on your way to the Creation Workshop in Velika, are you? I'm waiting for a weapon from them—do you think you could stop in and ask Santia when it will be finished? Only if you happen to find yourself going that way, of course.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="0">Oh, Velik's left...well, nevermind. I completely forgot about Jefaln's weapon. I'm absolutely swamped, though—it would really help me out if you could lend me a hand. Here! take this {@RawItem:206809} and get materials and a design from that merchant, and then do the processing for me. Don't worry, I'll make the actual weapon, and it won't take long, but it would go so much faster if the {@RawItem:206814} was already processed.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1190">
+        <Page social="0">Yes, I'm in charge of the materials and design...&lt;BR&gt;&lt;BR&gt;When processing a stone, all you need is a stone, a kit, and a design.&lt;BR&gt;&lt;BR&gt;You can gather stones or buy them from the brokerage, and you can buy kits and designs from merchants.&lt;BR&gt;&lt;BR&gt;I see that you need to make a {@RawItem:206814}. You'll need a {@RawItem:206809} and a {@RawItem:204050}. Since it's your first time here, the {@RawItem:204050} is free.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1196">
+        <Page social="0">Designs, designs, I'm up to my eyeballs in designs. You look rather plaid. Ha! Ha ha! Ha? Eh, design merchant humor. You wouldn't get it. Anyhow, here's the design you'll need.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1098">
+        <Page social="0">You did well! I'll give you another design just so you can try something else. Choose what you wish.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1098">
+        <Page social="0">What are you staring at? Your arms broken? Well, I didn't see any {@RawItem:206814}, so I assumed you had trouble lifting it.</Page>
+    </Text>
+</QuestDialog>

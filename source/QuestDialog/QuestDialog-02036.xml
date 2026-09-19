@@ -1,0 +1,9 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="1022" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Dark, distorted sky...strange, malformed monsters...&lt;BR&gt;&lt;BR&gt;What's causing this? We don't know yet, but we do know we have to find a way to stop what's happening in the nexus.&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;- Warning! - &lt;/font&gt;&lt;BR&gt;&lt;font color='#660000'&gt;A maximum of 120 players can work in this area on this quest. If you leave this area, your quest will be canceled.&lt;/font&gt;</Page>
+    </Text>
+</QuestDialog>

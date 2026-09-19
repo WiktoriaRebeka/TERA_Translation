@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1024">
+        <Page social="0">Our resident arachnen expert, Animan, is missing. He's a fearless little researcher, so I can imagine him getting in over his head.&lt;BR&gt;&lt;BR&gt;I need you to venture into the upper levels east of here and find him. Help him if he needs it.&lt;BR&gt;&lt;BR&gt;And I wouldn't mind knowing he's all right, either.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1026">
+        <Page social="4">Aah!&lt;BR&gt;&lt;BR&gt;Sorry! Thought you were an arachnen. Very scary. Turns out, nature drinks blood. I'm better now.</Page>
+    </Text>
+</QuestDialog>

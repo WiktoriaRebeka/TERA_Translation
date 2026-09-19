@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1008">
+        <Page social="5">We believe that the new soldiers here are merceneries, so money is their primary objective.&lt;BR&gt;&lt;BR&gt;To be so organized, though, they can't be working independently. More importantly, we think we've identified their leader. Find {@LinkCreature:16#1007#Captain Kirithia} and bring me her head. That should throw a wrench in their wheel.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1008">
+        <Page social="5">Marvelous!&lt;BR&gt;&lt;BR&gt;Good job. I'm sure we'll see the fruits of this soon.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1008">
+        <Page social="0">What, you thought I was being figurative?&lt;BR&gt;&lt;BR&gt;No, I literally want the woman's head!&lt;BR&gt;&lt;BR&gt;Now go, quickly, and get it!</Page>
+    </Text>
+</QuestDialog>

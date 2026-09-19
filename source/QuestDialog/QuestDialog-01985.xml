@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Wielding the power of the Consos Clan clerics, you interrupted the Banquet of Blood.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">I am told that you helped repel a small vampir incursion into the temple. The timing of this is...troubling.&lt;BR&gt;&lt;BR&gt;The Festival of the Sun is aimed at rejuvenating the temple, so that the sun remains strong—but vampirs cannot bear Balder's light. If they are attempting to interfere with the temple's annual cleansing, it could mean that they are attempting to weaken the light of the sun... &lt;NEXTPAGEBUTTON&gt;"What can I do to help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Nahad told me that you drove vampirs away from the temple without much difficulty, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;You can disrupt their activities and allow the Consos Clan to complete our rituals. &lt;NEXTPAGEBUTTON&gt;"You can count on me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Please speak to Harun. He is our best battle cleric, and he is in charge of eliminating vampirs. &lt;NEXTPAGEBUTTON&gt;"I'm on my way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7002">
+        <Page social="4">&lt;PCNAME&gt;? Keep your voice down. Thank you for coming. Renmi told me you could help.&lt;BR&gt;&lt;BR&gt;We must hurry—the vampirs' Banquet of Blood is already under way. Are you ready? &lt;NEXTPAGEBUTTON&gt;"I'm ready."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Very well, and may Balder watch over us both.&lt;BR&gt;&lt;BR&gt;I can temporarily bestow upon you Balder's gifts and imbue you with the power of a battle priest, but you must use this power on vampirs only. &lt;NEXTPAGEBUTTON&gt;"I promise."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I admire your devotion, &lt;PCNAME&gt;. &lt;NEXTPAGEBUTTON&gt;"What's next?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="452" prevId="3" villagerId="7002">
+        <Page social="4">Please listen carefully now, and I will explain how these gifts work. &lt;NEXTPAGEBUTTON&gt;"I'm listening."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Balder gives three protective gifts which offer some protection from vampirs.&lt;BR&gt;&lt;BR&gt;"Fear" makes vampirs run away.&lt;BR&gt;&lt;BR&gt;"Stun" immobilizes vampirs temporarily.&lt;BR&gt;&lt;BR&gt;"Quake" makes all vampirs around you fall to the ground." &lt;NEXTPAGEBUTTON&gt;"I understand."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">There are also gifts which are highly effective in slaying vampirs.&lt;BR&gt;&lt;BR&gt;"Mutate" turns a vampir into a boar, which can be to your advantage.&lt;BR&gt;&lt;BR&gt;"Light" burns all vampirs around you with Balder's light. It may be your most effective weapon against them.&lt;BR&gt;&lt;BR&gt;Lastly, "Punish" kills one vampir outright. &lt;NEXTPAGEBUTTON&gt;Nod.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Once inside, you need to prevent the vampirs from calling upon more ghosts, find a way into the Ceremonial Room, and then destroy their unholy altar.&lt;BR&gt;&lt;BR&gt;It's time. By the name of Balder, let's end this abomination!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="7002">
+        <Page social="4">You have done a noble task today, &lt;PCNAME&gt;. The Consos Clan will remember you for generations to come.&lt;BR&gt;&lt;BR&gt;Please take this token of our esteem, and know that you will always have friends here.</Page>
+    </Text>
+</QuestDialog>

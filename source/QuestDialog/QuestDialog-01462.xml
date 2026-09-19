@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="69" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="6001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="6001">
+        <Page social="5" voiceTypeId="0">&lt;PCNAME&gt;, I'm Launa from the Guardian Legion.&lt;BR&gt;&lt;BR&gt;Interested in doing some flying?&lt;BR&gt;The federation has been looking for heroes that can handle some flight missions.&lt;BR&gt;If you'd like to help out, I'm in Velika. Come talk to me.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="6001">
+        <Page social="5" voiceTypeId="0">Good to see you.&lt;BR&gt;&lt;BR&gt;Things have been pretty hectic these days with the usual federation issues, and now we're starting to discover threats coming from the air.&lt;BR&gt;We can barely cover the ground areas, but there are still aerial areas that need to be guarded.&lt;BR&gt;&lt;BR&gt;Any chance you want to help us out?&lt;NEXTPAGEBUTTON&gt;"You've got my attention."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Then, let's do a quick test first. If you have the potential for aerial combat, I'll let you participate in a special flight mission.&lt;BR&gt;&lt;BR&gt;The stakes are high, but if you succeed you'll be hailed as a hero. That's worth the risk, right?&lt;BR&gt;&lt;BR&gt;There are five essences around the Freedom Plaza. Collect them all and bring them back here, understood?&lt;BR&gt;&lt;BR&gt;Now, get ready... and go!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="6001">
+        <Page social="5" voiceTypeId="0">Wow, better than expected!&lt;BR&gt;&lt;BR&gt;We shouldn't waste a second with this great ability.&lt;BR&gt;&lt;BR&gt;Alright. Since you have proven yourself worthy, you can officially help us search the skies.&lt;BR&gt;&lt;BR&gt;Participate in any flight mission, get some satisfactory results and come talk to me again. Understood?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="6001">
+        <Page social="5" voiceTypeId="0">Amazing, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Thanks to you, the skies are much safer now. Maybe now we can concentrate on more important issues.&lt;BR&gt;&lt;BR&gt;Hope to see you fly again soon!</Page>
+    </Text>
+</QuestDialog>

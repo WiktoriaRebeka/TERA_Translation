@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1008">
+        <Page social="4">The devas think they own this forest. I suppose they did before we got here, but that doesn't mean we let them keep it.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:3#20#Kulsilva}, his {@LinkCreature:3#300160#devan arcanists}, and their sporewalker pets are using some pretty dark magic to hold on to this place. I'd like to get a look at those amulets they wear, to see if they they hold a clue.&lt;BR&gt;&lt;BR&gt;Are you willing to bring me back a few?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1008">
+        <Page social="4">These will do nicely. I'll see if I can use these foci to disrupt their necromantic power. That would go a long way to restoring Oblivion Woods.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1008">
+        <Page social="0">You'll find them lurking in Deva Silva.</Page>
+    </Text>
+</QuestDialog>

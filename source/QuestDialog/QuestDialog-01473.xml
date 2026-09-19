@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="82" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Don A. Tion has lost everything while playing dice games with Demoros. However, Don does not want to give up yet. He constantly begs generous adventurers for a Gold Ticket to get back in the game.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">Perhaps that man over there knows something about this place.&lt;BR&gt;Let's go and ask what happened here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">Hello! Yes, you! Do you have time... and money perhaps?&lt;BR&gt;&lt;BR&gt;I don't know what got into me! That demon must have hypnotized me, and forced me to spend all our savings!&lt;BR&gt;&lt;BR&gt;Oh, please, just one Gold Ticket. I'm a poor man, who just wants to see his children.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">OK... Last chance. One win, and I'm outta here.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="466" prevId="2" villagerId="1078">
+        <Page social="4" voiceTypeId="0">Please!!! I beg you. My children are waiting for me!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="466" prevId="3" villagerId="1078">
+        <Page social="4" voiceTypeId="0">Please, just one ticket will be enough, thank you.&lt;BR&gt;&lt;BR&gt;One more game and this can become a fortune...</Page>
+    </Text>
+    <Text id="7" huntingZoneId="466" villagerId="1078">
+        <Page social="0">Help out this poor soul...</Page>
+    </Text>
+</QuestDialog>

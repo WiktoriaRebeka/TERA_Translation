@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1017">
+        <Page social="4">Good to see you, &lt;PCNAME&gt;. Follow this road southwest. Centurion Karrteh is waiting for you at Firebase Audacity.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, they're saying great things about you. I hope half of them are true, for our sakes.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1037">
+        <Page social="4">Brave &lt;PCCLASS:lcase&gt;, I welcome you with open arms! How did you get through all those enemies?</Page>
+    </Text>
+</QuestDialog>

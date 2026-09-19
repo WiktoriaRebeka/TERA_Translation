@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3003">
+        <Page social="4">Seen the sloths yet? Like them?&lt;BR&gt;&lt;BR&gt;No? Want to do something about them?&lt;BR&gt;&lt;BR&gt;Go see {@LinkCreature:71#3014#Arura}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">Hey, hero! Guessing you've got your share of sloth bites, eh?&lt;BR&gt;&lt;BR&gt;Time to get even. That fruit they love? Bring me as many as you can carry.&lt;BR&gt;&lt;BR&gt;Easy! Just shake a few {@WorkObject:75}s.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3014">
+        <Page social="4">Great job. Now the fun part—poisoning them!&lt;BR&gt;&lt;BR&gt;Don't worry. Only things here that eat 'em are the sloths!&lt;BR&gt;&lt;BR&gt;And me.</Page>
+    </Text>
+</QuestDialog>

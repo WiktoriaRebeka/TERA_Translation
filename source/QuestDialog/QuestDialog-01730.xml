@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I've located the third stone. Please meet me in Highwatch.&lt;BR&gt;&lt;BR&gt;- Meren</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">The third stone was with Olivung, on the Island of Dawn.&lt;BR&gt;&lt;BR&gt;To your surprise, Olivung had broken the stone into three pieces and was using them to fuel a brazier.&lt;BR&gt;&lt;BR&gt;Olivung promised to turn over the stone, but only if you gathered the ingredients he needed.&lt;BR&gt;&lt;BR&gt;After a fearsome battle with a Bloodbound Teralith, you were able to get its core, deliver it to Olivung, and retrieve the Aspiration Stone.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, you're here.&lt;BR&gt;&lt;BR&gt;I have located the Aspiration Stone. A member of our Banquet Committee has it.&lt;NEXTPAGEBUTTON&gt;"Who is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;font color='#FF0000'&gt;Olivung&lt;/font&gt;, our Head Chef.&lt;BR&gt;He's on the Island of Dawn, trying to develop a new dish for the banquet.&lt;BR&gt;&lt;BR&gt;How someone could ever cook on the Island of Dawn is a mystery, but Olivung's always been a bit...odd.&lt;BR&gt;&lt;BR&gt;While you're retrieving the stone, can you please check on how his recipes are coming?&lt;BR&gt;&lt;BR&gt;This teleport scroll should take you right to him.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Meren is looking for me? I'm not done with my new recipes yet.&lt;BR&gt;&lt;BR&gt;What? A red stone? Yes! It's right there, in the brazier!&lt;BR&gt;&lt;BR&gt;The fire was too hot when I put the whole stone in, so I had to break it up into &lt;font color='#FF0000'&gt;&lt;b&gt;three pieces&lt;/b&gt;&lt;/font&gt;!&lt;BR&gt;&lt;BR&gt;Thanks to that stone, the temperature is just right! I don't know what I would have done without that stone!&lt;NEXTPAGEBUTTON&gt;"That's actually..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hmm. That stone's not much use stuck on some dusty old crown. It's better used here by the world's most renowned chef!&lt;NEXTPAGEBUTTON&gt;"Just give me the stone."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">What? No!&lt;BR&gt;&lt;BR&gt;I just can't bring some ordinary dish to this banquet!&lt;BR&gt;&lt;BR&gt;The best food comes from using the best ingredients and tools—including this stone!&lt;BR&gt;&lt;BR&gt;My whole reputation is riding on this!&lt;NEXTPAGEBUTTON&gt;"Won't you reconsider?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Well... I suppose, since the crown is for the goddess...&lt;BR&gt;You’ll have to gather ingredients that have power equivalent to this stone’s heat.&lt;BR&gt;&lt;BR&gt;I need materials that can maintain the same temperature that it is now.&lt;BR&gt;&lt;BR&gt;But... but I’m only going to give you one piece at a time!&lt;BR&gt;I’m risking my whole career on this!&lt;BR&gt;&lt;BR&gt;First, get me a {@linkcreature:13#7004#Bloodbound Teralith} Core.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" prevId="4" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Good job!&lt;BR&gt;&lt;BR&gt;The core is fresh, indeed! Just looking at it makes my mouth water.&lt;BR&gt;&lt;BR&gt;Hang on. I'll test its properties by preparing a quick dish.&lt;NEXTPAGEBUTTON&gt;"Take your time."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Here you are!&lt;BR&gt;&lt;BR&gt;One '&lt;font color='#FF0000'&gt;Bloodbound Salad&lt;/font&gt;'!&lt;BR&gt;&lt;BR&gt;This should whet your appetite!&lt;BR&gt;Try it!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="13" villagerId="9005">
+        <Page social="0">I want every gourmet in the land to experience this treat!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="13" prevId="5" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Tasty isn’t it?&lt;BR&gt;&lt;BR&gt;I’ve learned that the Bloodbound Teralith Core makes a fine ingredient for an appetizer.&lt;BR&gt;&lt;BR&gt;Watching someone enjoy my food is a true pleasure for a chef! &lt;NEXTPAGEBUTTON&gt;"It’s a bit sour..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Is it? Hm...I might've used the wrong size measuring spoon...&lt;BR&gt;&lt;BR&gt;Well, you kept your part of our bargain, so so will I.&lt;BR&gt;&lt;BR&gt;Here is the first piece of the stone, like I promised. Let me know when you put it in the crown.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="13" prevId="7" villagerId="9005">
+        <Page social="0" voiceTypeId="0">That's the Eternal Crown? Look! It changed a little bit!&lt;NEXTPAGEBUTTON&gt;"What do you need next?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I'm still working on the next recipe...&lt;BR&gt;You'll need to wait until I can finish it.&lt;BR&gt;&lt;BR&gt;You need to get stronger to handle the crown anyway, right?&lt;BR&gt;&lt;BR&gt;You'll get stronger in no time when I finish this dish!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1048">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1048">
+        <Page social="4">Our holy ground is defiled by greedy swine blinded by the lure of Thulsa's dirty money.&lt;BR&gt;&lt;BR&gt;The vicious runekeepers and maligos conquerers. Not you. You're on our side.&lt;BR&gt;&lt;BR&gt;Bring me the beasts' hearts, and I'll pay you by the pound.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1048">
+        <Page social="4">It's been a long time since I laughed so hard!&lt;BR&gt;&lt;BR&gt;Thank you for punishing the greedy swine. Take this small token of my appreciation. &lt;BR&gt;&lt;BR&gt;Please, I insist. My money isn't as dirty as Thulsa's.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1048">
+        <Page social="0">Take care of some vicious runekeepers and maligos conquerers, then bring me their hearts, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

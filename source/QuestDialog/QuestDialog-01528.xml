@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1014">
+        <Page social="0">Dougal tried contacting Seir for backup force, but failed.&lt;BR&gt;&lt;PCNAME&gt; meets Garm, the guard of Highwatch teleportal, to learn why Mysterium communication device was not working. Garm revealed that the teleportal of Highwatch is closed for some reason.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1014">
+        <Page social="4" voiceTypeId="0">I have something for you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;While you were speaking with Olmeros, your friend Dougal's man came by, with a note.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Mysterium...? Communication device...? I am not familiar with either of these things.&lt;BR&gt;&lt;BR&gt;Highwatch has been isolated for generations—ever ever since our teleportal stopped working.&lt;BR&gt;&lt;BR&gt;There simply is no way to reach the outside world without physically traveling through the Storm Barrier.&lt;NEXTPAGEBUTTON&gt;"There's always a way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You no doubt have more experience of teleportals than I do. Thousands of baraka have tried to reactivate ours, but all in vain.&lt;BR&gt;&lt;BR&gt;You really should plan an alternate route.&lt;NEXTPAGEBUTTON&gt;"Can I at least see your teleportal?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">...of course.&lt;BR&gt;&lt;BR&gt;Speak with Garm, who guards Highwatch's teleportal.&lt;BR&gt;&lt;BR&gt;He is Highwatch's foremost authority on teleportals.&lt;BR&gt;&lt;BR&gt;If anyone here can help you, it is Garm.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1016">
+        <Page social="4" voiceTypeId="0">I have always imagined what it would be like to travel beyond Val Oriyn, to see the world.&lt;BR&gt;&lt;BR&gt;I have performed thousands of experiments with the Relativity Stone there, but to no avail.&lt;BR&gt;&lt;BR&gt;These days I mostly stand guard, not so much over the teleportal as my experiment.&lt;NEXTPAGEBUTTON&gt;"Is there nothing that can be done?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">My current theory is that the Relativity Stone is depleted, from automatically trying to breach the Storm Barrier for so long. Now that the Storm Barrier has ruptured, the Relativity Stone is too weak to push through.&lt;NEXTPAGEBUTTON&gt;"Are there any more Relativity Stones?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">There...might be.&lt;BR&gt;&lt;BR&gt;I recommend you visit the Hall of Knowledge, where the baraka have chronicled all of our discoveries for as long as we can remember. I have tried, but you might have insights I do not.&lt;NEXTPAGEBUTTON&gt;"Then I'll look for an answer there."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I must warn you that you require specific permission to enter the Hall of Knowledge.&lt;BR&gt;&lt;BR&gt;Ask Rimun for authorization.&lt;BR&gt;&lt;BR&gt;And if you find a way to obtain Relativity Stones, I suggest you secure a large number; there is no guarantee that the first will work.&lt;BR&gt;&lt;BR&gt;And please, take this in advance, as a sign of my gratitude.&lt;NEXTPAGEBUTTON&gt;"Don't worry."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1002">
+        <Page social="4">There's nothing more terrifying than a massive wendigo assault. Their predations grow more bold each day.&lt;BR&gt;&lt;BR&gt;We must secure this area if we're to succeed. I need you to slay some {@LinkCreature:34#610#wendigo ragers} and {@LinkCreature:34#710#warlords} to weaken their force.&lt;BR&gt;&lt;BR&gt;Move quickly and don't draw them back to our position.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1002">
+        <Page social="4">Well fought. While the wendigos are licking their wounds, we can reinforce our position.</Page>
+    </Text>
+</QuestDialog>

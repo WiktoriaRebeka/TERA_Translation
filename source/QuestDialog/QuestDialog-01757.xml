@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="6014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="6014">
+        <Page social="4" voiceTypeId="0">I can't stand the fact that we were defeated. I want to take down Exodor no matter what it costs.&lt;BR&gt;&lt;BR&gt;Can you get me more Ruby Durignite? I'll need more to repair the cannon, and improve efficiency for our next attempt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="6014">
+        <Page social="0" voiceTypeId="0">You couldn't find any?&lt;BR&gt;&lt;BR&gt;This is intolerable! Why can't you follow simple... No, I'm sorry. I get too excited sometimes.&lt;BR&gt;&lt;BR&gt;Ruby Durignite is very rare, it makes sense that you couldn't find more.&lt;BR&gt;&lt;BR&gt;Besides, repairing this failed experiment would make no difference. I need to go back to the drawing board.&lt;BR&gt;&lt;BR&gt;I'll get back to you when I have a new design, then we'll take our revenge.</Page>
+    </Text>
+</QuestDialog>

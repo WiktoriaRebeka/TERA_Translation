@@ -1,0 +1,84 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1703">
+        <Page social="4">Fusion science...some say we're on the fringe, but that's just jealousy! Jealousy, I say!&lt;BR&gt;&lt;BR&gt;Fusion science is the key to ultimate power! Turn away from your petty clockworks and dusty grimoires. Embrace the future!&lt;BR&gt;&lt;BR&gt;But study first. There'll be a test.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1711">
+        <Page social="4">Fusion science combines &lt;font color='#0000FF'&gt;magic and machinery&lt;/font&gt;. (Details omitted.)&lt;BR&gt;&lt;BR&gt;The most successful example of fusion science is &lt;font color='#0000FF'&gt;the Core&lt;/font&gt;, which combines energy from the Flower of Life with a mechanically augmented lifeform. (Details omitted.)&lt;BR&gt;The most crucial elements of fusion science are the material components used to channel the &lt;font color='#0000FF'&gt;magic&lt;/font&gt;, and their creation is a matter of great delicacy. (Details omitted.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1703">
+        <Page social="4">You look confident.&lt;BR&gt;&lt;BR&gt;Ready to embrace the future? Let's see how hard you've studied.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="3" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">In fusion science, material components channel this force. What is it?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">I'm disappointed. You were fated to do more than this!&lt;NEXTPAGEBUTTON&gt;"I know, and I'll do better."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Perhaps so. Until then, go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">Is your head attached to your body?&lt;NEXTPAGEBUTTON&gt;"I wish it were right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You know what I wish? That you'd go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">Wrong, wrong, wrong.&lt;NEXTPAGEBUTTON&gt;"I fell asleep while studying..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Go back to Collegium Arcane and study harder. And stay awake this time!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">That's right! The future is yours!&lt;NEXTPAGEBUTTON&gt;"That was kinda easy."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, but the future has no place for the dull-witted.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">Fusion science combines what two elements?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">You've been hanging out with the mechanical engineers, I see. Wrong!&lt;NEXTPAGEBUTTON&gt;"Can I try again?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Of course, but go back to the Collegium Arcane and read the correct book this time!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">Correct! You really did study!&lt;NEXTPAGEBUTTON&gt;"These questions are kinda basic..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I know they are. You're just proving that you didn't skip the reading.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">You're either joking with me, or you're hormone-addled. Either way, wrong!&lt;NEXTPAGEBUTTON&gt;"I'll study more."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">At this point, I'll take what I can get. Go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">Here's my reaction: Wrong!&lt;NEXTPAGEBUTTON&gt;"I can do better!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You have a chance to take action: go back to Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">What is the most successful example of fusion science?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">Did you just think, "I'll answer the first thing that pops into my head?" Wrong!&lt;NEXTPAGEBUTTON&gt;"I should hit the books."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Indeed you should. Go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">Pegasus travel is but a trifle! A fad, I say!&lt;NEXTPAGEBUTTON&gt;"This was covered in the book?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, not that you'd know. Go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">A correct answer! Excellent.&lt;NEXTPAGEBUTTON&gt;"It's also the only example."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Perhaps, but that's why we study, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="22" huntingZoneId="72" prevId="4" villagerId="1703">
+        <Page social="0">Magic stones? A tuwangi term for so many things that litter the landscape of our world! Wrong!&lt;NEXTPAGEBUTTON&gt;"Can I get a do-over?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You may "do-over" whatever you like, but first go back to the Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="72" prevId="18" villagerId="1703">
+        <Page social="4">There's no end to learning.&lt;BR&gt;Keep studying, and perhaps the future will be yours!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1021">
+        <Page social="4">Excuse me, soldier, but I could use your help.&lt;BR&gt;&lt;BR&gt;Our supply of fyrdras ore grows dangerously low. I'd pay well if you brought me some. In this battle, we need the best weapons and equipment we can field.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1021">
+        <Page social="4">The federation's smiths will put this fyrdras ore to good use. Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1021">
+        <Page social="0">You might find fyrdras ore around pools of fire. Search there.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">The enemy came from the portal and did something with pumpkins growing in vegetable patches around Popolion. Pumpkins come to life and attack civilians.&lt;BR&gt;&lt;BR&gt;But we found a way to end the curse!&lt;BR&gt;&lt;BR&gt;My friend, if you battle the killer pumpkins and bring me their pieces, I'll be able to cast a counterspell on them. That should give our people some respite.&lt;BR&gt;&lt;BR&gt;Now be quick!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="0" villagerId="1011">
+        <Page social="4">Thanks for helping us with those pumpkin monsters! You demosntrated real courage prowess in your battles, and you more than deserve this reward.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="67" prevId="0" villagerId="1011">
+        <Page social="4">Hm... I'm going to need more.&lt;BR&gt;&lt;BR&gt;Here's the list again: &lt;BR&gt;&lt;BR&gt;Scraps of Cloth ×500&lt;BR&gt;Pumpkin Seeds ×250&lt;BR&gt;Enchanted Leaves × 100&lt;BR&gt;Cursed Substance ×100&lt;BR&gt;&lt;BR&gt;Deliver all of these materials to me, and I'll reward you with a random reward chest!</Page>
+    </Text>
+</QuestDialog>

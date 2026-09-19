@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1026">
+        <Page social="4">There's nothing quite as frightening as going up against a {@LinkCreature:31#21#naga colossus}. They're like storms themselves, as strong and destructive as they are.&lt;BR&gt;&lt;BR&gt;But I'll bet they're no trouble for a sturdy &lt;PCCLASS:lcase&gt; like you! In fact, I'll bet you could kill a lot of colossi and bring back their unit insignias.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1026">
+        <Page social="4">You're something all right! Nice work!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1026">
+        <Page social="0">I don't care what anybody says. I think you can take on a {@LinkCreature:31#21#naga colossus}.</Page>
+    </Text>
+</QuestDialog>

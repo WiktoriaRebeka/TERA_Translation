@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1002">
+        <Page social="4">Our scouts followed up on some of the other maps you recovered and found a strange, red structure near the center of Kaidun's base.&lt;BR&gt;&lt;BR&gt;Sihran forces chased them off before they could examine it too closely. I need you to bring back a piece of it...or destroy it if need be.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1008">
+        <Page social="0">(With a few well-placed strikes, a small fragment of the structure breaks off.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1002">
+        <Page social="4">Interesting. This is all you could chip off? The sorcerers in the rear camp will have to look carefully at this.&lt;BR&gt;&lt;BR&gt;Good work, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

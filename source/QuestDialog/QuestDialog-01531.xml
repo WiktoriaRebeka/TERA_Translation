@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Researchers from Qeldar Station couldn't proceed to their post because of nearby demokrons.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; saved the researchers and escorted them the rest of the way.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Hello? Anyone?&lt;BR&gt;&lt;BR&gt;"We can use a little help over here!"</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="3006">
+        <Page social="4" voiceTypeId="0">Oh, thank Oriyn someone has come!&lt;BR&gt;&lt;BR&gt;I am an archaeologist, bound for Qeldar Station. We were en route back to our dig site when we were set upon by demokrons. Our guards were overwhelmed—but at least they led the creatures away from us!&lt;BR&gt;&lt;BR&gt;Unfortunately, now we're stuck here, with no escort.&lt;NEXTPAGEBUTTON&gt;"I can help you, if you're ready to go."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" villagerId="5">
+        <Page social="0">Thank you so much, &lt;PCNAME&gt;—and I am so sorry if this inconveniences you.&lt;BR&gt;&lt;BR&gt;We really should spend a little less time reading about warriors, and a little more time learning how to defend ourselves.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="3" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Thank you for helping our researchers return to us.&lt;BR&gt;&lt;BR&gt;Ordinarily, the Highguards are more than capable to ensuring our safety...but with everyone working to locate High Elder Verikam and shore up the city's defenses, they are most likely overwhelmed.&lt;BR&gt;&lt;BR&gt;You have our gratitude.&lt;NEXTPAGEBUTTON&gt;"I'm happy to help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1025">
+        <Page social="4" voiceTypeId="0">Relentless disc reapers protect the halls of the Necromancer Tomb. They're just guards, but nightmarishly effective ones.&lt;BR&gt;&lt;BR&gt;Kill the disc reapers so we can figure out what everyone else is up to.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1025">
+        <Page social="4" voiceTypeId="0">We're starting to take control of this place, &lt;PCNAME&gt;. I can feel it.</Page>
+    </Text>
+</QuestDialog>

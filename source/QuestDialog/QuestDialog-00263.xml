@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="4">I discovered an unmarked grave southwest of here a few days ago. There's no name or way to tell who it was, but I think we can do something to pay tribute.&lt;BR&gt;&lt;BR&gt;Sprinkle these armalis seeds around the grave. They symbolize eternal rest.&lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1001">
+        <Page social="4">I'm certain the dead soldier would be pleased.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

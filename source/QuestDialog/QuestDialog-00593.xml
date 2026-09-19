@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1018">
+        <Page social="5">Reports are coming in about {@LinkCreature:23#25#guerrilla officers} and other {@LinkCreature:23#19#popori rebels} skulking about the lake. They might be scouting for an attack or simply gathering intelligence. It doesn't matter. They must die.&lt;BR&gt;&lt;BR&gt;While they're watching us, you'll watch them...die! No mercy to traitors of the kingdom.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1018">
+        <Page social="5">Those who turn against the kingdom turn against nature herself. They deserved their fate.&lt;BR&gt;&lt;BR&gt;General {@LinkCreature:223#1003$$Menani} has asked about your progress. Report in and bring her up to speed.&lt;BR&gt;&lt;BR&gt;Don't waste the general's time, though. Stick to the facts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" prevId="3" villagerId="1003">
+        <Page social="5">This is a dark time for our kingdom. Your efforts may help us resolve this pointless conflict and restore balance to Poporia. Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

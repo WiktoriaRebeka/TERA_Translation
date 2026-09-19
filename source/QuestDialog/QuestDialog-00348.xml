@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1023">
+        <Page social="4">Researchers insist that Jirash halt the attacks of {@LinkCreature:13#2#sporewalkers} on their supplies. Adria commands that all sentries stay at their posts.&lt;BR&gt;&lt;BR&gt;Those who are neither researchers nor sentries can still be of assistance. The spirits seek mana crystals, which were taken from other spirits.&lt;BR&gt;&lt;BR&gt;Reclaim as many crystals as possible and bring them here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1023">
+        <Page social="4">Precisely what they wanted. Researchers and sentries alike celebrate! Perhaps now Jirash can join the real fight—wherever it is you are going.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" villagerId="1023">
+        <Page social="0">The {@LinkCreature:13#2#sporewalkers} are directly below. Be wary of their arms. Spinning, slamming, and striking heavy blows to the unwary. Perhaps the recruit knows this already, since there are no mana crystals to return yet.&lt;BR&gt;&lt;BR&gt;Seek them out, and bring them back. Returning before then is pointless.</Page>
+    </Text>
+</QuestDialog>

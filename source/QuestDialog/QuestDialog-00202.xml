@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1037">
+        <Page social="4">We can't save the dead, but we can end their torment. Take down the {@LinkCreature:8#4061#undying miners}.&lt;BR&gt;&lt;BR&gt;Returning them to the Dream is the greatest gift we can offer them at this point.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1037">
+        <Page social="4">It's our duty to end their suffering!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2033">
+        <Page social="0">After the Vault of Oriyn incident, all forces of Highwatch gathered to do their best to find Verikam and protect the city.&lt;BR&gt;&lt;BR&gt;This reduced the number of soldiers who could fight the demokron surge, leading &lt;PCNAME&gt; to help the baraka.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2033">
+        <Page social="4" voiceTypeId="0">You are the one Omeros spoke of!&lt;BR&gt;&lt;BR&gt;Heading to the Havenstone Ruins? I have a request of you.&lt;BR&gt;&lt;BR&gt;With everyone seeking High Elder Verikam, our forces are stretched thin, and we cannot patrol the road as we should.&lt;BR&gt;&lt;BR&gt;If you can kill demokrons on the way to Qeldar Station, we will reward you.&lt;NEXTPAGEBUTTON&gt;"I'll do what I can."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Ah! Yes, you are &lt;PCNAME&gt;, the visitor from the south.&lt;BR&gt;&lt;BR&gt;Thank you for helping us.&lt;NEXTPAGEBUTTON&gt;"I hope what I am doing is helping."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1009">
+        <Page social="12">I heard the Tenebrara attacked the supply carriage.&lt;BR&gt;&lt;BR&gt;That's terrible, but it seems out of the blue. I can't think what we might have done recently to anger them.&lt;BR&gt;&lt;BR&gt;In any case, we still need those supplies. I'll need you to find them and get them back to us.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1009">
+        <Page social="8">Oh, good! We'll get to handing these out as needed immediately.&lt;BR&gt;&lt;BR&gt;You've helped a lot here, &lt;PCNAME&gt;. Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1009">
+        <Page social="0">Did you get lost? You're going to Outlaws' Nest.</Page>
+    </Text>
+</QuestDialog>

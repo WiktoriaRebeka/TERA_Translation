@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">The witches are connected to the power of the titans by ouijic energy.&lt;BR&gt;&lt;BR&gt;Even if we can eliminate the witches, there's lots of ouijic ore around so reinforcements can always be brought to fill their places.&lt;BR&gt;&lt;BR&gt;We need someone to sever the connections from the ouijic ore at Tyrant's Overwatch and Frigid Vigil.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">Great job! Now those hags can't cause any more trouble.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">Did you solve our problem with the ouijic ore?</Page>
+    </Text>
+</QuestDialog>

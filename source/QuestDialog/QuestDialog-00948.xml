@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1033">
+        <Page social="4">I'm devising new ways to fight the arachnens—hopefully before they become giant slashy killing things.&lt;BR&gt;&lt;BR&gt;That means research, so I thought we'd appease two baraka with one scroll.&lt;BR&gt;&lt;BR&gt;Head into the Hatchery and collect some of their cocoons. That will give me research subjects and leave the arachnens with fewer fighters. Sound good?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1033">
+        <Page social="0">Did you bring me the cocoons? Nicely done!&lt;BR&gt;&lt;BR&gt;Hopefully, I can find a way to fight Arachne's children without risking our soldiers' lives!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1033">
+        <Page social="0">Cocoons make much easier targets than grown arachnens. Hurry!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="4">Oh, actually I have another job for you.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:13#301194#Stonebeak highcrests} have been stealing research equipment and ruining some sensitive measurements on the northeast edge of our base.&lt;BR&gt;&lt;BR&gt;Go and see whether you can get some of the &lt;b&gt;research tools&lt;/b&gt; back.&lt;BR&gt;&lt;BR&gt;When you've got a good supply, take them to Jarius.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1042">
+        <Page social="4">This is a welcome surprise! I've been walking around, trying to think of how to complete my research on this magnificent tree structure here. Every time I set these instruments up, these stonebeaks come and steal them. I wonder why....&lt;BR&gt;&lt;BR&gt;Anyway, thank you very much for your help.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" villagerId="1042">
+        <Page social="0">Adria said someone was out recovering my instruments. Is that you? I ask because you don't seem to have what the {@LinkCreature:13#301194#stonebeak highcrests} stole.&lt;BR&gt;&lt;BR&gt;If you have occasion to hit them with weapons or something, I'd really appreciate getting those instruments back...</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Madat suggested consulting the baraka Seekers to get help from Highwatch, the baraka city. To earn their trust, you decided to help the baraka Seekers on their mission for information.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">Confer with Rhodos.&lt;NEXTPAGEBUTTON&gt;"Will do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2008">
+        <Page social="1" voiceTypeId="0">I can't believe the archdevas have been spying on our camp all this time!&lt;NEXTPAGEBUTTON&gt;"You need to calm down."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You're right, &lt;PCNAME&gt;. What's done is done, and it's time to focus on solutions.&lt;BR&gt;&lt;BR&gt;The archdevas have us surrounded, but they're not attacking. I'll talk to my scouts and have them try to find out what they're waiting for.&lt;BR&gt;&lt;BR&gt;Meanwhile, you should see if Madat has any advice. He's not a fighter, but he's the wisest person I know.&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2107">
+        <Page social="1" voiceTypeId="0">Hmm. "To a surrounded enemy, you must provide a means of escape." The archdevas have our backs literally to a wall, but they act as though we have an escape route...why is that?&lt;BR&gt;&lt;BR&gt;Yes? &lt;PCNAME&gt;, wasn't it?&lt;BR&gt;&lt;BR&gt;What can I do for you?&lt;NEXTPAGEBUTTON&gt;"Rhodos said you might have some advice."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I'll give you the same advice I've given him: Head for Highwatch. The road is mostly clear—but that means it's probably a trap, and we can't commit our forces to a full retreat that way.&lt;BR&gt;&lt;BR&gt;So here's the alternative: Send a messenger to Highwatch, to ask for reinforcements to break this siege.&lt;NEXTPAGEBUTTON&gt;"Okay. How do I get there?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Highwatch is also under siege, though it's doing better than we are. But you're all strangers here, and the guards won't just let you stroll through the gates.&lt;NEXTPAGEBUTTON&gt;"Then how do I get in?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You'll need someone with you, to vouch for you...&lt;BR&gt;&lt;BR&gt;Ah! Yes! The Seekers! If you show them you can be trusted, they'll get you into the city.&lt;BR&gt;&lt;BR&gt;Start by talking to Renish, here in the camp.&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2011">
+        <Page social="1" voiceTypeId="0">Ah, one of the outlanders. What compels you to make my acquaintance at this unexpected juncture?&lt;NEXTPAGEBUTTON&gt;"I'm trying to get into Highwatch."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You are hardly alone in that regard.&lt;BR&gt;&lt;BR&gt;Alas, I must be the bearer of bad tidings. With so many archdevan spies extant, the Seekers have undertaken the grim responsibility of maintaining absolute security.&lt;BR&gt;&lt;BR&gt;There will be no circumventing their cordon, except...&lt;NEXTPAGEBUTTON&gt;"Except what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">The Seekers are currently involved in determining how the archdevas are able to control demokrons. If we can disrupt that control—free the demokrons, or better still turn them against their former masters—the Archdevan Imperial Army will lose a great deal of its impetus.&lt;BR&gt;&lt;BR&gt;But so far, our research has yielded little insight. If you can secure some data, it would prove most propitious for both of us.&lt;NEXTPAGEBUTTON&gt;"Umm...you need data? What data?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">The archdevas utilize Parthians—an offshoot sect of Khirians who have turned traitor, in effect—as their front-rank combatants. Yet the demokrons completely ignore them, whereas demokrons are ordinarily given to assaulting anything weaker than they.&lt;BR&gt;&lt;BR&gt;Ascertain the reason for this, and the Seekers' mission will be concluded. They will return to Highwatch—and you may be allowed to accompany them.&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2011">
+        <Page social="1" voiceTypeId="0">These talismans are certainly quizzical, but strangeness is hardly conclusive evidence of their purpose—or of your trustworthiness. I am sorry, but you must understand that an archdevan spy could have easily secured these, then concocted a hypothesis regarding them, specifically with prevarication in mind.&lt;BR&gt;&lt;BR&gt;I suggest you attempt to establish a more coherent connection to the phenomenon of the demokrons' behaviors. Madat may be able to offer you some guidance.&lt;NEXTPAGEBUTTON&gt;"If that's what it takes, fine."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" villagerId="2011">
+        <Page social="0">Should I have trusted the stranger?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="6" villagerId="2107">
+        <Page social="1" voiceTypeId="0">I heard what Renish said to you! That fool! "Spies cannot be usefully employed without a certain intuitive sagacity"—which, clearly, that particular Seeker lacks! "Prevarication," indeed!&lt;NEXTPAGEBUTTON&gt;"Any advice, then?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Clearly, Renish won't cooperate until he's absolutely convinced that you're not some archdevan spy in disguise, so you'll just have to prove it to him.&lt;NEXTPAGEBUTTON&gt;"How do I do that?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">"When in doubt, consult the manual!"&lt;BR&gt;&lt;BR&gt;Clearly, the archdevas understand what these talismans do, or they wouldn't be handing them out to their troops. Get one of them to explain how they work, and then share that information with Renish.&lt;BR&gt;&lt;BR&gt;Luckily, I think Rhodos has some information that will help...&lt;NEXTPAGEBUTTON&gt;I see.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

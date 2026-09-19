@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1005">
+        <Page social="4">Are you coming to tell me how I should give Khasib a chance, too? 'Cause I'm really getting tired of it.&lt;BR&gt;&lt;BR&gt;I'd much rather talk about the insurgents' intelligence network. They're short on supplies and reinforcements.&lt;BR&gt;&lt;BR&gt;Now that they've lost their commander, it's the perfect time to strike.&lt;NEXTPAGEBUTTON&gt;"What did you have in mind?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">The most important members of the intelligence network are the {@LinkCreature:32#13#Sihran arcanists} and their {@LinkCreature:32#14#tuwangi froglars}. Just eliminating them will keep dozens of soldiers safe, but if you can recover documents from them, it will help even more.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1005">
+        <Page social="4">Outstanding! If Khasib is so desperate to impress me, he could do something brave and...useful! Like this!&lt;BR&gt;&lt;BR&gt;I'm not saying he's not a good person. Just...not what I'm looking for right now.&lt;BR&gt;&lt;BR&gt;Bah! Enough about Khasib. Here's your reward.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1005">
+        <Page social="0">Didn't I tell you that the {@LinkCreature:32#14#tuwangi froglars} are in Frigid Vigil?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1012">
+        <Page social="10">Imps. Sounds like a cute band of youngsters, but they're more and more a formidable trouble.&lt;BR&gt;&lt;BR&gt;Bring down their numbers and their masters for us. It would really help us focus on what's important here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1012">
+        <Page social="7">Oh, good, you've brought...ears. All right then.&lt;BR&gt;&lt;BR&gt;Here. It's...a reward. For the...ears.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1012">
+        <Page social="0">We really need those imps out of our way. We have enough troubles without that lot to deal with.</Page>
+    </Text>
+</QuestDialog>

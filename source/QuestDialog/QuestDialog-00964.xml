@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1017">
+        <Page social="4">If the plague only killed people, that would almost be a kindness. Instead it turns the survivors into monsters. I'm so afraid I'll be next.&lt;BR&gt;&lt;BR&gt;I have a sad task for you, if you're willing. I'd like to see the {@LinkCreature:40#28#selvaras infiltrators}, {@LinkCreature:40#15#mutant workers}, and {@LinkCreature:40#30#mutant tribladers} put out of their misery.&lt;BR&gt;&lt;BR&gt;I wouldn't want to live that way, would you?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1036">
+        <Page social="4">What you did was a mercy, &lt;PCNAME&gt;. Never forget that.</Page>
+    </Text>
+</QuestDialog>

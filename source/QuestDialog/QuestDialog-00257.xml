@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1120">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1120">
+        <Page social="4">With all due respect to my fellow soldiers, we're going about this all wrong.&lt;BR&gt;&lt;BR&gt;The nagas are coming here for a reason: to restore the temple and bring back Dagon. Take away that reason, and the nagas will go away.&lt;BR&gt;&lt;BR&gt;I figure the {@LinkCreature:10#15#naga seeresses} are the key. Take them out and the naga's will be weaker. Then we'll have 'em!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1120">
+        <Page social="4">Fine work. Those seeresses aren't easy kills, I know.&lt;BR&gt;&lt;BR&gt;I'll study these stones you collected. It may help us further disrupt their plans.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1120">
+        <Page social="0">Just because the {@LinkCreature:10#15#naga seeresses} claim to "wield power over life and death" doesn't mean you can't kill them.&lt;BR&gt;&lt;BR&gt;Trust me. They bleed just fine.</Page>
+    </Text>
+</QuestDialog>

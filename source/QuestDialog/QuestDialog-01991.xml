@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="2001">
+        <Page social="0">You participated in the splash cannon shooting game at Chelton's shooting gallery.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="2001">
+        <Page social="4">So, you like my little splash cannon game? Nice!&lt;BR&gt;&lt;BR&gt;Why don't you go have yourself another game? Remember: Hit a red monster and get points! Hit a blue monster and lose points!&lt;BR&gt;&lt;BR&gt;Now go get 'em!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2001">
+        <Page social="4">All finished? Let's take a look at your score!&lt;BR&gt;&lt;BR&gt;Well, well, I think you're getting the hang of this! I tell you what: Just because I like you so much, I'm going to give you a special prize: a pet demon! Isn't it just adorable? Don't worry, it's tame—and it will only stick around for one day, anyway. Have fun with it—and make sure you show it to all your friends!</Page>
+    </Text>
+</QuestDialog>

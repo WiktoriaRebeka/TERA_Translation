@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="48" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="48" prevId="0" villagerId="1013">
+        <Page social="4">I need to return to Chatran, but I'd never survive the journey. Too many blasted argons!&lt;NEXTPAGEBUTTON&gt;"You will, under my protection."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Excellent! I'm eager to return to work. Let me know when you're ready to set out.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="48" villagerId="30">
+        <Page social="0">Shall we?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="1034">
+        <Page social="6">You're as good as your word, &lt;PCNAME&gt;. Thank you.&lt;NEXTPAGEBUTTON&gt;"You're welcome."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">By the way, I found a letter. Judging from all the big words, it's from a baraka. Think you could find the owner? I'd start looking at {@Rgn:78001}.</Page>
+    </Text>
+</QuestDialog>

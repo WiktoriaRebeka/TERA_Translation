@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1035">
+        <Page social="4">I didn't believe the rumors at first, but our scouts have confirmed it. Virkan is back.&lt;BR&gt;&lt;BR&gt;Thulsa's necromancy brought back Virkan the Slayer, and he wanders the halls of the furnace even now. Just as he did in life, when he wandered Shara, searching for a worthy opponent.&lt;BR&gt;&lt;BR&gt;Virkan disappeared when our whole continent had no one worthy to face him. And now he's back. And probably looking for you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1035">
+        <Page social="4">Virkan himself called you "worthy one."&lt;BR&gt;&lt;BR&gt;I'd save praise like that for your tombstone, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

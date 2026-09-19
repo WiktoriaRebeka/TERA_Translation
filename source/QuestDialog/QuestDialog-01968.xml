@@ -1,0 +1,50 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="62" prevId="0" villagerId="9903">
+        <Page social="2" voiceTypeId="0">Ever hear the name Dirken? He's nominally in charge of the Cutthroat Harbor docks, which pretty much means the harbor as well.&lt;BR&gt;He's asking us to pay fees for using the fishery there, and wants us to send a negotiator.&lt;BR&gt;&lt;BR&gt;I can't think of anyone better suited to the task than you.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Dirken at Cutthroat Harbor requested help with pirates...and lunch.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="1" villagerId="1024">
+        <Page social="4" voiceTypeId="0">You're an angler, aren't ya? Here to complain about the fee?&lt;BR&gt;&lt;BR&gt;Well you see, we've been catching fish here for a while now...big ones. Our boats are the best there are, and we can't have a bunch of fish tourists standing around on the beach messing things up.&lt;NEXTPAGEBUTTON&gt;"So, the fee?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">Well actually, I don't actually eat fish myself, but I've a hankering ta' try.&lt;BR&gt;&lt;BR&gt;I got this recipe a few days ago...I think it's for a Steamed Fish. But none of my guys are skilled enough to make it, so I have no idea what it's supposed to taste like.&lt;BR&gt;&lt;BR&gt;You can cook, right? I'd be willing to bend on the fees if you make me a Steamed Fish.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1024">
+        <Page social="4" voiceTypeId="0">I had my doubts to be honest. I didn't think you could do it.&lt;BR&gt;&lt;BR&gt;Time for lunch!&lt;NEXTPAGEBUTTON&gt;"Help yourself."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="2" voiceTypeId="0">Darn! The olive scent with such a strong texture...this is pure beauty. Delicious!&lt;BR&gt;The fee?&lt;BR&gt;Ta' be honest with ya, I'm in a bit of a bind with some pirates. They...use a lot of fish, and have really stepped up their demands.&lt;NEXTPAGEBUTTON&gt;"Okay. How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">So I was thinkin', if there were fewer pirates, they'd eat less, right?&lt;BR&gt;&lt;BR&gt;How about we fight those pirates together?&lt;BR&gt;You in?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" villagerId="1024">
+        <Page social="0">You done cookin' that Steamed Fish yet?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="62" prevId="4" villagerId="1024">
+        <Page social="1" voiceTypeId="0">I got a plan, and it'll only work with a skilled fisher like you.&lt;BR&gt;&lt;BR&gt;There's a camp of pirates south o' the harbor, and in that camp is a ruined ship.&lt;BR&gt;&lt;BR&gt;That ship is the only place I know of where a special herb called Halluweed grows.&lt;BR&gt;Be careful, it's a wee bit halu...hallu...you see things when you touch it.&lt;BR&gt;It's best to pick the petals one by one.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="62" prevId="6" villagerId="1024">
+        <Page social="4" voiceTypeId="0">You got them already?&lt;BR&gt;Okay, here's the beauty part of the plan. Use the Halluweed as bait to catch some Funky Fresh Fish.&lt;BR&gt;&lt;BR&gt;The smell is...intense, and will drive the pirates off for a while.&lt;BR&gt;Three Funky Fresh Fish should be enough to do the job.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="62" villagerId="1024">
+        <Page social="0">You done gathering Halluweed Petals?&lt;BR&gt;I need at least three of 'em fer my cunning plan.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="62" prevId="7" villagerId="1024">
+        <Page social="4" voiceTypeId="0">Whoo, what a smell! Guess I don't have to ask if you were successful.&lt;BR&gt;&lt;BR&gt;Now we need chase away the pirates.&lt;BR&gt;&lt;BR&gt;Once we lure them out of their hideout, they won't stand a chance against you!&lt;BR&gt;&lt;BR&gt;Go talk to {@linkcreature:62#1043#Zaira}, who's working on the next part of our plan.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" villagerId="1024">
+        <Page social="0">Did you catch any Deep Sea Fish?&lt;BR&gt;If you run out of Halluweed, just go gather more.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="62" prevId="9" villagerId="1026">
+        <Page social="4" voiceTypeId="0">I've prepared an stone bowl at the south of the harbor. Are you ready?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="62" prevId="9" villagerId="1026">
+        <Page social="0" voiceTypeId="0">Follow me. We're going south.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="62" prevId="11" villagerId="1043">
+        <Page social="1" voiceTypeId="0">You made it.&lt;BR&gt;&lt;BR&gt;Place the Funky Fresh Fish in the bowl.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="62" prevId="13" villagerId="1043">
+        <Page social="1" voiceTypeId="0">It worked! Quick, go after their captain.&lt;BR&gt;I'll be right behind you.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="62" prevId="14" villagerId="1024">
+        <Page social="1" voiceTypeId="0">You've really taught those pirates a lesson!&lt;BR&gt;They won't be here anymore now.&lt;BR&gt;&lt;BR&gt;I'll contact the Fishing Association with the good news. We're family now, aren't we? Haha!</Page>
+    </Text>
+</QuestDialog>

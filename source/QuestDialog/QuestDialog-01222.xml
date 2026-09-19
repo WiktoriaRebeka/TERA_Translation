@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1006">
+        <Page social="4">I lost a lot of brave vanguards out here. The wendigos slaughtered them, probably thanks to that wicked argon glass thing—the pylon?&lt;BR&gt;&lt;BR&gt;At any rate, I can't recover their effects so long as the wendigos patrol the area.&lt;BR&gt;&lt;BR&gt;I need you to take them out. It's going to be a long fight, but you can do it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1006">
+        <Page social="4">I don't care if the wendigos are Thulsa's thralls or not. They killed my people and stood in our way of dealing with the god of death. They had to go.&lt;BR&gt;&lt;BR&gt;I appreciate your help. The condolence letters are easier to write if I have something to send with it.</Page>
+    </Text>
+</QuestDialog>

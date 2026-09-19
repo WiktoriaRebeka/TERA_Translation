@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1029">
+        <Page social="4">This weather alone is harsh enough, but now we're dealing with an increasing number of vengeful wraiths and bonded bone imps from Thulsa's army.&lt;BR&gt;&lt;BR&gt;Their shrieks are sending the villagers into a panic, and that's never good for any of us. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, bring me the crystals that keep them moving. And shrieking.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1029">
+        <Page social="4">Good job! &lt;BR&gt;&lt;BR&gt;Now our villagers can sleep at night. &lt;BR&gt;&lt;BR&gt;It's all because of you, &lt;PCNAME&gt;. Thanks!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1029">
+        <Page social="0">Those crystals keep the wraiths and their imps animated. Grab the crystals, destroy the undead. It's that simple.</Page>
+    </Text>
+</QuestDialog>

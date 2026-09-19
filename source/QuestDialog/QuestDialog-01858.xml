@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3008">
+        <Page social="4">Ah! &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;The director wanted a word with you when you've got a moment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3001">
+        <Page social="4">Thanks for stopping by, &lt;PCNAME&gt;. I prepared a small token of the Invalesco's gratitude for all your hard work.&lt;BR&gt;&lt;BR&gt;It wasn't always glamorous or exciting, but you worked hard. We appreciate it.</Page>
+    </Text>
+</QuestDialog>

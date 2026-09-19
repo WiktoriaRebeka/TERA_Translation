@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1003">
+        <Page social="5">Our holy grounds are being defiled by those cursed Lokians! The Lake of Tears is a monument to Elinu herself!&lt;BR&gt;&lt;BR&gt;We can't let it continue. Kill the {@LinkCreature:23#17#Lokian bloodweavers} and {@LinkCreature:23#16#blackguards} at once. Nature will strike back.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1003">
+        <Page social="5">I'm glad those wretches are dead, but I wonder why they were here in the first place. Something for me to ponder.&lt;BR&gt;&lt;BR&gt;Oh, well. Nice job killing things, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

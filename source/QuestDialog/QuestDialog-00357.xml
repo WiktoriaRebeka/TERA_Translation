@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="4">Even with the resources of the federation behind us, we depend on civilians like Banker &lt;b&gt;Kerson&lt;/b&gt; to help with services like mail delivery and transporting supplies.&lt;BR&gt;&lt;BR&gt;To keep this relationship strong, we often "lend" people out for special favors. He's got a small problem with one of our couriers...can you see what he needs, and possibly give him a hand?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1003">
+        <Page social="4">Attend! I have a problem. Chione's a pilot who flies one of those airships around the island.&lt;BR&gt;&lt;BR&gt;At least...she did before she crashed it heading to the Tainted Gorge.&lt;BR&gt;&lt;BR&gt;She's still out there dealing with her mistake, but I've got mail stacking up, and Ramun won't carry it in his pack.&lt;BR&gt;&lt;BR&gt;Chione's route goes east from here, then curves to the south. Find out what the holdup is—my reputation's at risk!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1007">
+        <Page social="4">Do not judge Chione by the results of one miscalculation—instead, join her in addressing a serious problem.&lt;BR&gt;&lt;BR&gt;The airship was perfectly balanced, the supplies were securely fastened. No one could have forseen stowaways—or that they'd cause a crash.&lt;BR&gt;&lt;BR&gt;Now all that can be done is to guard the cargo until a repair ship arrives.</Page>
+    </Text>
+</QuestDialog>

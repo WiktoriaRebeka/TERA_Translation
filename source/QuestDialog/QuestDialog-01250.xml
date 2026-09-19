@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Legendary Blacksmith Muhrak asked you for some materials to compensate for shortcomings in his new workshop. Once you supplied them, Muhrak created a super-weapon: the Torch of the Gods.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Come to my workshop. I need some materials.&lt;BR&gt;&lt;BR&gt;—Muhrak</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="1" voiceTypeId="0">If the Divine Furnace was working, I'd be at work now, but there are certain...inefficiencies involved. We need icemarrow, firemarrow, and glacier fragments.&lt;BR&gt;&lt;BR&gt;What do you mean, "Why?" Who's the legendary blacksmith here? Fine. Combining the relic fragments with the essence of the Core requires enormous heat, then cold. Satisfied?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Where can I get them?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Head to Raseri Festning in the Vale of Spires. The giants there have icemarrow and firemarrow, especially the chieftains. Glacier fragments? Collect them under the bridge from the Scorched Snowfield to Frostclaw Crag.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="411" prevId="3" villagerId="5001">
+        <Page social="1" voiceTypeId="0">Excellent! This will allow you to combine the Inscribed Fragment and Essence of the Core.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="411" villagerId="5001">
+        <Page social="0">I need materials!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="411" prevId="4" villagerId="5001">
+        <Page social="1" voiceTypeId="0">Finally! The Inscribed Fragment and Essence of Core are combined! Now you can defeat Kelsaik! Go get rid of him! Oh, stop by Habere and meet the Gacius, the Castanic Engineer before you go to the Ebon Tower.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="79" prevId="6" villagerId="1102">
+        <Page social="1" voiceTypeId="0">Muhurak sent you here? And you want to enter the Ebon Tower, don't you?&lt;BR&gt;&lt;BR&gt;No one has gone near it because of the powerful malice surrounding that place. But Muhurak has asked me to install devices that would remove the malice. It is mostly gone now.&lt;BR&gt;I wouldn't advise others to go in there, but you, I believe, can withstand it.</Page>
+    </Text>
+</QuestDialog>

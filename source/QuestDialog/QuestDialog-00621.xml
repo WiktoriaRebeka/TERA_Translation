@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1012">
+        <Page social="5">Those {@LinkCreature:24#62#yearning vulcans} would wipe us out if they organized themselves. As it is, they've killed a quarter of my troops. &lt;BR&gt;&lt;BR&gt;Time to show them what an organized attack can do. Gather your allies and take out those monsters.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1012">
+        <Page social="5">Thanks, &lt;PCNAME&gt;. Maybe I'll get some sleep tonight without all that roaring.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="2003">
+        <Page social="0">You help Yasring restore {@Rgn:47001$$Tirkai Forest}.&lt;BR&gt;&lt;BR&gt;During the task, you run into Contaminated Wendigos and defeat them.&lt;BR&gt;&lt;BR&gt;Yasring is surprised to see that the Wendigos were contaminated, heads to Thrallhold for further research.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="2003">
+        <Page social="1" voiceTypeId="0">With the trees restored, we're no longer under the shadow of death.&lt;BR&gt;&lt;BR&gt;Yasring went to {@Rgn:47007$$Blightroar Research Station} at the meanwhile. Go to her.&lt;BR&gt;&lt;BR&gt;Oh, and can you help us on your way There?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="2003">
+        <Page social="1" voiceTypeId="0">Have you noticed how disturbed the argons' creatures are by the faerie saplings? I think faerie magic is poisonous to them in some way. Do you suppose that's why the argons tried to destroy Seeliewood?&lt;NEXTPAGEBUTTON&gt;"Perhaps."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I'm really afraid the {@linkcreature:47#2003$$contaminated gulas} are going to uproot them. Maybe you'd like to uproot the gulas first.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" prevId="3" villagerId="2010">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! You're already done with the purification?&lt;BR&gt;I heard that you even defeated those gulas! You're such a big help.&lt;BR&gt;&lt;BR&gt;I'm glad that Cheniel found hope on the purification work thanks to my Purifying Orb.&lt;BR&gt;&lt;BR&gt;Elves that were restoring the area got contaminated and attacked the faerie saplings. That really broke his heart.&lt;BR&gt;&lt;BR&gt;Thank you &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"I'm glad I could help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We couldn't dare proceed with the purification before the Argons fell back.&lt;BR&gt;&lt;BR&gt;With many help, the purification is on track...but it's still dangerous.&lt;BR&gt;&lt;BR&gt;Blightroar is a place that was once an Argon post.&lt;BR&gt;Argon remnants are still there.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I need you to talk with Rozaline.&lt;BR&gt;&lt;BR&gt;Blightroar must be purified in order to fully restore Tirkai Forest.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="247" prevId="4" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Hello, &lt;PCNAME&gt;.&lt;BR&gt;Yasring said what?&lt;BR&gt;&lt;BR&gt;You wouldn't expect such boldness from such a delicate person.&lt;BR&gt;&lt;BR&gt;Hmm...as a matter of fact, I did need to go to Blightroar...but I need someone like you by my side if we're going to purify the place.&lt;BR&gt;&lt;BR&gt;We mustn't underestimate the remnants. They're still Argons.&lt;NEXTPAGEBUTTON&gt;"I'll help you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Near the Argon Shield Emitter, you'll see argonized Wendigos. I need you to take them out.&lt;BR&gt;&lt;BR&gt;As soon as you do, we'll be able to dispatch our men and take over Blightroar.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="247" prevId="5" villagerId="2011">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;I came just when you were done with the Wendigos. I thought I could gather some materials for the purification from those Wendigo Shamans.&lt;BR&gt;&lt;BR&gt;They say that the shamans carry a fragments that can heal the pollution!&lt;BR&gt;&lt;BR&gt;But...wait...&lt;NEXTPAGEBUTTON&gt;"It's too dangerous."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">No! I can handle it!&lt;BR&gt;&lt;BR&gt;But...everything is so strange here. The fragments...it contains a very strong power which can prevent pollution. Why couldn't it stop the contamination?&lt;BR&gt;&lt;BR&gt;And, if the Argons really retreated, they would have took the Wendigos with them. Could they have abandoned them? Or did they have an urgent mission?&lt;BR&gt;&lt;BR&gt;I don't think this is only about the purification anymore.&lt;NEXTPAGEBUTTON&gt;"Go back to camp, Yasring."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Alright...&lt;BR&gt;&lt;BR&gt;But I need to figure out just one thing.&lt;BR&gt;Why the fragment didn't stop the contamination.&lt;BR&gt;&lt;BR&gt;Please collect Shield Emitter Fragments from the Contaminated Wendigo Shamans and any other clues you can find.&lt;BR&gt;&lt;BR&gt;I'll be waiting at camp.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="6" villagerId="2010">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;You got the Shield Emitter Fragment! Thank you so much!&lt;BR&gt;And...Wendigo skin?&lt;BR&gt;&lt;BR&gt;I'll take a look.&lt;NEXTPAGEBUTTON&gt;"Take your time."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Skin! That's horrible! I guess what's really horrible is the state of it. It's badly decomposed.&lt;BR&gt;&lt;BR&gt;So he was already dead when you killed him....</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" prevId="7" villagerId="2010">
+        <Page social="4" voiceTypeId="0">As soon as I'm finished here, I need to go to Thrallhold and investigate more on the Argon Contamination. I hope my research can stop this...&lt;BR&gt;&lt;BR&gt;I heard news of southern Arun while I was at camp. &lt;PCNAME&gt;, I wish you could go with me, but I'm afraid it's time to say goodbye.&lt;BR&gt;&lt;BR&gt;Lots of places in the world need your help.&lt;NEXTPAGEBUTTON&gt;"Southern Arun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It was about the Scions.&lt;BR&gt;Ask Rozaline for details.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;. Thanks to you, this place will be purified in no time. Everyone is grateful for your help.&lt;BR&gt;&lt;BR&gt;I hope we can meet again.&lt;BR&gt;Take care!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="8" villagerId="1004">
+        <Page social="8" voiceTypeId="0">&lt;PCNAME&gt;! I was looking for you!&lt;BR&gt;&lt;BR&gt;I got news that the Scions are grouping up at southern Arun.&lt;BR&gt;&lt;BR&gt;Since you've dealt with them before, I assume that you'll receive orders to return to Velika soon.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+</QuestDialog>

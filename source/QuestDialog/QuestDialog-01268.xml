@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1047">
+        <Page social="4">Thulsa's necromancers are resurrecting snowfield corpses and spirits.&lt;BR&gt;&lt;BR&gt;Those undead you see everywhere on the Plain of the Damned? The work of the necromancers.&lt;BR&gt;&lt;BR&gt;Exterminate those death-obsessed necromancers and collect their necromancy devices. I'd like to see them do their evil work with no tools!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1047">
+        <Page social="4">Did you bring the necromancy devices?&lt;BR&gt;&lt;BR&gt;I'll send them to Mysterium for research.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1047">
+        <Page social="0">We can't stop the dead from rising just by defeating Thulsa's necromancers. &lt;BR&gt;&lt;BR&gt;It's easier for Thulsa to train another necromancer than it is for him to replace those necromancy devices!</Page>
+    </Text>
+</QuestDialog>

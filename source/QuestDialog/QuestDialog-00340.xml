@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="0">Adria and Teil thanked you for your valorous service, but said your skills are needed elsewhere.&lt;BR&gt;&lt;BR&gt;They directed you to the flight master, who put you on a pegasus and sent you on a dizzying flight to Velika, where Legate Troius personally welcomed you!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001">
+        <Page social="4">Word is spreading about everything you've done for us here, &lt;PCNAME&gt;. And it's reaching some very well-connected ears.&lt;BR&gt;&lt;BR&gt;Report to &lt;b&gt;Councilor Teil&lt;/b&gt;, he's eager to talk to you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1009">
+        <Page social="4">In the name of the Valkyon Federation, I'd like to extend our thanks for everything you've done. Adria, Sersine, and Leander speak quite highly of you.&lt;BR&gt;&lt;BR&gt;The federation needs good soldiers elsewhere, however. With Karascha's death, we can make do here. It's time for you to go to Velika!&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Yes, sir!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">{@linkcreature:213#1001#Taleb} will help you arrange your return to Arun.&lt;BR&gt;&lt;BR&gt;He's just on the other side of this pavilion.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1001">
+        <Page social="4">I've been expecting you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;We've adjusted your orders so that you remain on detached duty. This should let you search for Elleon without too much interference, but you're still expected to complete any orders you're given.&lt;BR&gt;&lt;BR&gt;And on a personal note, I hope you enjoy the pegasus flight to Velika. There's some really impressive scenery around the city.&lt;BR&gt;&lt;BR&gt;Flight Manager Leiyane will get you saddled up.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1016">
+        <Page social="4">Pegasus travel is for long journeys—like back to the mainland and the capital, Velika.&lt;BR&gt;&lt;BR&gt;Just click the Travel button and choose your destination. It's that easy!&lt;BR&gt;&lt;BR&gt;For your first trip, select Velika as your destination.Oh, and please turn off any magical devices until you've reached your cruising altitude.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1107">
+        <Page social="4">&lt;PCNAME&gt;! I have been waiting for you.&lt;BR&gt;My name is Troius, and let me be the first to welcome you to Velika the City of Glory!&lt;BR&gt;&lt;BR&gt;I must admit, I haven't seen orders like yours before, but they're all filed and registered. Even Commander Seir was impressed, and sent me here to wait for your arrival.</Page>
+    </Text>
+</QuestDialog>

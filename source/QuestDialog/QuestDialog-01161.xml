@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1021">
+        <Page social="4">This region is one of the best sources of eldritch shards. Our iteris shards are considerably more potent than the shards found in Westonia.&lt;BR&gt;&lt;BR&gt;Of course, the argons consume them like wafers, but with an interesting side effect—the remaining shards seem to be more potent.&lt;BR&gt;&lt;BR&gt;Think you could bring me some samples?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="1021">
+        <Page social="5">These iteris shards look incredible! And the energy within? Amazing.&lt;BR&gt;&lt;BR&gt;Small wonder the castanic artisans picked this region to settle.&lt;BR&gt;&lt;BR&gt;I'd best get back to my studies. Thanks.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" villagerId="1021">
+        <Page social="0">I suggest mining around the {@Rgn:49002}. If it's good enough for the argons, it's good enough for you.</Page>
+    </Text>
+</QuestDialog>

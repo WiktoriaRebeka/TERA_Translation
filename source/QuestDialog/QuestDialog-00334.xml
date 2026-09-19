@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="0">Leander instructed Jehan to write a report for the Tower Base about the demonic corruption. You delivered the report to Tribune Adria and Councilor Teil.&lt;BR&gt;&lt;BR&gt;Adria and Teil, troubled by the severity of the situation, started making plans to deal with the demons.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1008">
+        <Page social="4">Jehan is fond of writing reports, which serves my purposes now as well as Adria's. He has one ready. Take the report to Adria.&lt;BR&gt;&lt;BR&gt;Know that Leander of Allemantheia counts you as a friend, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1130">
+        <Page social="4">Leander is, of course, to be respected in all ways, but he sure doesn't like paperwork. Unless it's something for an academic journal. Publish or perish, you know.&lt;BR&gt;&lt;BR&gt;Now, which report was it?&lt;NEXTPAGEBUTTON&gt;"The one with the demonic corruption."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ah, yes. That one...right.&lt;BR&gt;&lt;BR&gt;Read it in good health. There's work to be done.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1001">
+        <Page social="4">I've no reason to doubt Leander's conclusions, particularly in light of what we endured.&lt;BR&gt;&lt;BR&gt;Take this report to &lt;font color='#660000'&gt;Councilor Teil&lt;/font&gt; at once. He's just up the stairs.&lt;BR&gt;&lt;BR&gt;He must understand what we're facing.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1009">
+        <Page social="4">The Tainted Gorge, eh? That's not surprising. Everything about that area fills me with dread. You've been a tremendous help with this, &lt;PCNAME&gt;. Well done.&lt;BR&gt;&lt;BR&gt;Return to Adria with my thanks. She'll have your next orders.</Page>
+    </Text>
+</QuestDialog>

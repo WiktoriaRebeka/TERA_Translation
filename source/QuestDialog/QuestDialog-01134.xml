@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="4">The argons already enjoy a great advantage in numbers, but when those damned akalaths take the field, they brutalize our forces.&lt;BR&gt;&lt;BR&gt;You've got a better record than most against them. Head out and kill some akalath devastators. I can't afford to lose whole formations to their power.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">Well fought, &lt;PCNAME&gt;. If I live to my next furlough, I'll buy you a barrel of Kaiator's best ale!</Page>
+    </Text>
+</QuestDialog>

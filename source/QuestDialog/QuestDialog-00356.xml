@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1021">
+        <Page social="4">Legends say that Arun and Shara never had a child together. But before they slept, they placed parts of themselves into a hidden creche, from which a child might someday arise.&lt;BR&gt;&lt;BR&gt;I believe that this island is that child. As a researcher, I need facts to back up my belief.&lt;BR&gt;&lt;BR&gt;If you can help me collect inscribed fragments from the area around this outpost, I might even convince traditionalists like Leander and Jehan!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1021">
+        <Page social="4">An excellent start!&lt;BR&gt;&lt;BR&gt;Each relic fragment you recover brings me that much closer to presenting my theories to a wider audience. And I'm not alone in this—there are many who believe in the prophecy, or something similar, and are observing events here on the island very closely. If you have time to gather more, let me know!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1021">
+        <Page social="0">Leander thinks this research is not worth pursuing—that there is a rational explanation for the island's appearance. Jehan's gauges tell him that there's a strange energy affecting everything around us, but he refuses to speculate as to its source.&lt;BR&gt;&lt;BR&gt;Analyzing the inscribed fragments around here will help me convince both of them that the prophecy is real!</Page>
+    </Text>
+</QuestDialog>

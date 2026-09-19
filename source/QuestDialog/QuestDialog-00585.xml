@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1035">
+        <Page social="5">Originally, Karas guarded the Lake of Tears, but he vanished long ago.&lt;BR&gt;&lt;BR&gt;Now, all manner of creatures hunt around the lake. Worst of the lot are the {@LinkCreature:23#5#moonlight stalkers}.&lt;BR&gt;&lt;BR&gt;They've killed dozens of poporis in the past few months. If you could hunt them down, we would breathe more easily.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1035">
+        <Page social="5">Those pesky cats won't bother us again! Your intervention has helped avert a cat-astrophe. Hee, hee!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1037">
+        <Page social="4">Thulsa sure doesn't like to fight his own battles, does he? Always getting someone, willing or otherwise, to do his dirty work for him.&lt;BR&gt;&lt;BR&gt;We've located the draelkar pylon northeast of here. It's guarded by Sihranars. Be careful, and you'll do just fine.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1037">
+        <Page social="4">Excellent!&lt;BR&gt;&lt;BR&gt;Glad I could count on you. With the pylon destroyed, the creatures should slowly get back to normal.&lt;BR&gt;&lt;BR&gt;It won't make the arachnens and barsicores any fuzzier toward us, but it's a start.</Page>
+    </Text>
+</QuestDialog>

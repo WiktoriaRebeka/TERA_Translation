@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1029">
+        <Page social="4">In this part of Raga Evala, the argons were doing some sort of strange botanical research. They gathered, and apparently argonized, some faeries—probably for their close connection to the natural world.&lt;BR&gt;&lt;BR&gt;You could never get me to harm a faerie creature in the real world, but in here everything's backward and upside-down.&lt;BR&gt;&lt;BR&gt;Can you obtain the horns of the argonomorph jalmaraks? Maybe I can come up with some sort of cure for argonification.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1029">
+        <Page social="4">This kind of research isn't easy, and it's not exactly the safest laboratory I've ever worked in.&lt;BR&gt;&lt;BR&gt;Still, the argons may be monstrous horrors from another dimension, but you have to admire their knack for botany.&lt;BR&gt;&lt;BR&gt;I wish you could stay, but while you were out, we got a message from Soulsurge Chamber. They need your help.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1029">
+        <Page social="0">Don't worry. The horns are safe to touch. Just don't eat them.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1102">
+        <Page social="4">I'm glad you're here, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The argons are corruptive to body, mind, and soul, and we're just on the edge of learning how they transform life so utterly.</Page>
+    </Text>
+</QuestDialog>

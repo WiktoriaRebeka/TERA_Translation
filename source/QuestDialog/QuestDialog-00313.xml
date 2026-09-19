@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="212" prevId="0" villagerId="1001">
+        <Page social="4">Mistmoor Island is for sure the place where the Red Pirates and Mitra Merchant Slavers do their business.&lt;BR&gt;&lt;BR&gt; Killing the cruel Slavers is essential to put an end to their acts of brutality.&lt;BR&gt;&lt;BR&gt;Please eliminate the {@LinkCreature:12#21#Mitra Merchant Slavers} roaming around the Mistmoor Island and then go visit {@LinkCreature:212#1005$$Taniel}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1005">
+        <Page social="4">Great. You've killed many merchant slavers. I know that they're not easy to deal with. Great job. Make sure that you don't let them surround you. Once they've got you surrounded, they'll overwhelm you, and you'll not come out alive, even if you have nine lives like a cat.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1005">
+        <Page social="0">Take them all out, &lt;PCNAME&gt;. Imagine how many potential slaves you're freeing with each slaver corpse.</Page>
+    </Text>
+</QuestDialog>

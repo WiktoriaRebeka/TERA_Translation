@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1034">
+        <Page social="4">I'm exclusively researching the center hall, as it appears to be the towers' core. Like every other chamber, there's something broken or left behind. In our case, it's those machines over there.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1034">
+        <Page social="5">This component looks similar to the innards of our teleportals.&lt;BR&gt;&lt;BR&gt;I wonder what the argons were teleporting?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1034">
+        <Page social="0">If you can recover something useful from a machine, I can probably figure out what it does.</Page>
+    </Text>
+</QuestDialog>

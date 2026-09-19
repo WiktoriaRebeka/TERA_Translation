@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="0">You found the hiding tuwangi and gave him courage.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="4">Baba tuwangi scared of big frog. He hid. Time for ceremony. Must find him!&lt;NEXTPAGEBUTTON&gt;Where do you think he is?&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">So many hiding places! But small tuwangi cannot have run far.&lt;BR&gt;&lt;BR&gt;Here drum. Find hiding spot and hit drum to bring tuwangi out.&lt;NEXTPAGEBUTTON&gt;I'll help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Scared Tuwangi &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Scared Tuwangi &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Scared Tuwangi &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Scared Tuwangi &lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="205" prevId="2" villagerId="2005">
+        <Page social="4">Why so much fire?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="205" prevId="8" villagerId="2006">
+        <Page social="4">Is it time to eat dragons?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="205" prevId="9" villagerId="2007">
+        <Page social="4">More drum?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="205" prevId="10" villagerId="2008">
+        <Page social="4">Growing up is hard.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="205" prevId="11" villagerId="2001">
+        <Page social="4">Baba tuwangi returned! Now celebration can begin. You make good tuwangi.</Page>
+    </Text>
+</QuestDialog>

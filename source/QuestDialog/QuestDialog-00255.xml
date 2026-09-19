@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1107">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1107">
+        <Page social="4">We can stab, burn, shock, slice, fold, spindle, and mutilate all the nagas we want, and they'll just hatch more.&lt;BR&gt;&lt;BR&gt;We need to get out of the up-close-and-personal killing business and take out the nagas remotely. With traps!&lt;BR&gt;&lt;BR&gt;But traps need bait. And the best bait is a fruit called aefra, which the nagas can't get enough of. Look for the ivy with the red flowers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1107">
+        <Page social="4">I can bait dozens of naga traps with this much fruit. Outstanding work!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1107">
+        <Page social="0">Unless you want to traipse all over this island and crawl into every naga hole, you'll bring me more aefras.&lt;BR&gt;&lt;BR&gt;Think it through, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+</QuestDialog>

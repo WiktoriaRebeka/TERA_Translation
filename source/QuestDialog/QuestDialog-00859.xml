@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1011">
+        <Page social="6">Have you seen the giant spiders to the north? They're terrifying! And nobody can agree on how they came to be.&lt;BR&gt;&lt;BR&gt;Did Killian grow them? Or did he simply corrupt them?&lt;BR&gt;&lt;BR&gt;I'm not sure, but I do worry about Allemantheia and Elenea—they're closest and if the spiders got loose, those would be the first places they'd go.&lt;BR&gt;&lt;BR&gt;If you're not afraid of spiders, you should go kill them before they can attack.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1011">
+        <Page social="5">Thanks, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Oh, and for the record...I'm not afraid of spiders, either. At all. I just, uh...I didn't want to. That's all.</Page>
+    </Text>
+</QuestDialog>

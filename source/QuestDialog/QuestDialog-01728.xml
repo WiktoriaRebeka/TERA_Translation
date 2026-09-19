@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;. I have located the first stone. Please come find me in Highwatch.&lt;BR&gt;&lt;BR&gt;- Meren</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">While searching for the Earth Stone, you met a troubled supplier named Nimotz, and decided to lend a hand.&lt;BR&gt;After helping Nimotz, you were able to retrieve the Earth Stone, and merge it with the crown.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Greetings, &lt;PCNAME&gt;. How have you been?&lt;BR&gt;&lt;BR&gt;Hmm...I can see that you're already stronger!&lt;BR&gt;I've been gathering more information about the stones, and I believe I've located the Earth Stone.&lt;BR&gt;&lt;BR&gt;But...we have a situation.&lt;NEXTPAGEBUTTON&gt;"What situation?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The stone was in a shipment of banquet materials headed here.&lt;BR&gt;&lt;BR&gt;However, we haven't heard from Nimotz, the Banquet Supplier, and there's no sign of the supplies—not to mention the stone.&lt;BR&gt;&lt;BR&gt;We have dispatched a search party to find Nimotz. &lt;PCNAME&gt;, will you help with the search?&lt;NEXTPAGEBUTTON&gt;"Where should I start looking?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We've checked several likely places along his planned route, but found nothing.&lt;BR&gt;&lt;BR&gt;There weren't any signs of an attack...so I guess he could be staying with a relative, or he's on the Island of Dawn...&lt;BR&gt;&lt;BR&gt;Why the Island of Dawn?&lt;BR&gt;&lt;BR&gt;According to the Flight Manager, the last pegasus that Nimotz used was headed to the Island of Dawn.&lt;NEXTPAGEBUTTON&gt;"Do you think he's still there?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Well...&lt;BR&gt;&lt;BR&gt;We'll need to check the Flight Manager on the island to be certain.&lt;BR&gt;&lt;BR&gt;Here, take this Teleportal Scroll and check in with {@linkcreature:13#5011#Tamarang}.&lt;BR&gt;&lt;BR&gt;If you find Nimotz, please urge him to hurry back to Velika.&lt;BR&gt;Meanwhile, I'll check in at his relative's residence.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="5011">
+        <Page social="0" voiceTypeId="0">Hello, &lt;PCNAME&gt;!&lt;BR&gt;Welcome to the Island of Dawn!&lt;BR&gt;&lt;BR&gt;Did you come to take a flight?&lt;NEXTPAGEBUTTON&gt;"Actually..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The pegasus log? Nimotz, you say...?&lt;BR&gt;&lt;BR&gt;...&lt;BR&gt;&lt;BR&gt;Niman...Nimono...Nimotz! Here it is!&lt;BR&gt;&lt;BR&gt;There's only an arrival entry under the name Nimotz.&lt;BR&gt;Wait a minute...I remember him!&lt;BR&gt;How could I forget that devastated face?&lt;NEXTPAGEBUTTON&gt;"Are you sure?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Yes, he was mumbling and shaking as though he were being haunted.&lt;BR&gt;How could I forget that?&lt;BR&gt;&lt;BR&gt;He had all these packed belongings with him, but left them behind here and there.&lt;BR&gt;&lt;BR&gt;Go to the Dock Entrance.&lt;BR&gt;That's where you'll find a bunch of his discarded {@LinkObject:133#belongings}.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" prevId="4" villagerId="9004">
+        <Page social="0" voiceTypeId="0">Who are you?&lt;BR&gt;&lt;BR&gt;What...? Meren sent you...?&lt;BR&gt;&lt;BR&gt;I'm sorry! I'll take these back right away, I swear!&lt;BR&gt;Just, please...I need a little more time!&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Well, you see...while sailing, my boat got swamped by a sudden swell...and the banquet supplies are all waterlogged.&lt;BR&gt;&lt;BR&gt;They're ruined...and they'd cost a fortune to replace!&lt;BR&gt;&lt;BR&gt;So...I the only option left...was to craft them myself. That's why I came all the way here.&lt;BR&gt;But I didn't realize...the materials had to be obtained from monsters...&lt;NEXTPAGEBUTTON&gt;"What happened to the Earth Stone?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah, yes, the stone!&lt;BR&gt;&lt;BR&gt;That was the most important item, so I kept it myself.&lt;bR&gt;&lt;BR&gt;Eh...Guardian? Could you please help me?&lt;BR&gt;&lt;BR&gt;You can have the stone now, and I know that's all you're really after, but...I'll lose all my clients if everyone knows I failed to deliver for the banquet!&lt;BR&gt;&lt;BR&gt;Please have mercy!&lt;NEXTPAGEBUTTON&gt;"Calm down, I'll help you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Thank you! Thank you!&lt;BR&gt;May the goddess bless you!&lt;BR&gt;Here's a list of what I need. Just come back to me once you've gathered all the materials.&lt;BR&gt;&lt;BR&gt;This is my Personal Teleportal Scroll. It should come in handy.&lt;BR&gt;&lt;BR&gt;Thank you...and good luck!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="13" prevId="5" villagerId="9004">
+        <Page social="0" voiceTypeId="0">You're back! Let's see...&lt;BR&gt;&lt;BR&gt;Indeed, you gathered the finest materials!&lt;BR&gt;I could use this Basilisk Skin for a carpet and that Ovoliths's Web to make some silk.&lt;BR&gt;The Orisk Oil can be used in all sorts of goods.&lt;BR&gt;&lt;BR&gt;....with so many materials, I could make a fortune...&lt;NEXTPAGEBUTTON&gt;"Fortune?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">What? No, no, it's nothing. Thank you so much!&lt;BR&gt;&lt;BR&gt;I can head back to Velika now.&lt;BR&gt;I think I've got everything I need to fulfill my job as Banquet Supplier now.&lt;BR&gt;&lt;BR&gt;Here's the stone.&lt;BR&gt;&lt;BR&gt;I'll head to Velika now.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="13" villagerId="9004">
+        <Page social="0">The materials...&lt;BR&gt;How much longer should we wait?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="6" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Nimotz came back with the banquet goods.&lt;BR&gt;&lt;BR&gt;Well, actually the materials, but that's better than nothing.&lt;BR&gt;&lt;BR&gt;Thank you so much.&lt;BR&gt;&lt;BR&gt;Now we can get this banquet prepared!&lt;BR&gt;&lt;BR&gt;By the way, did you find the Earth Stone?&lt;NEXTPAGEBUTTON&gt;"Take a look for yourself."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The crown has recovered more of its original form.&lt;BR&gt;Thank you.&lt;BR&gt;&lt;BR&gt;Take this, it should help you retrieve the other stones.&lt;BR&gt;&lt;BR&gt;Restoring the crown is the most important part of the banquet.&lt;BR&gt;&lt;BR&gt;I'll let you know when I have more information on the stones.&lt;BR&gt;&lt;BR&gt;May the goddess be with you.</Page>
+    </Text>
+</QuestDialog>

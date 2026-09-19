@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1012">
+        <Page social="0">Do not worry about me. Dead or alive, I cannot leave the Citadel of Torment again.&lt;BR&gt;&lt;BR&gt;I will do my utmost to help the soldiers that come into this place, but please make sure they know what happened to me. &lt;BR&gt;&lt;BR&gt;Warn them of the dangers and tell them I'm here to help,</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1001">
+        <Page social="4">You found him! Helehr is a true amani warrior.&lt;BR&gt;&lt;BR&gt;We will sing his praises and remember his bravery for as long as the high elves would, and we will continue his fight until our last breaths!</Page>
+    </Text>
+</QuestDialog>

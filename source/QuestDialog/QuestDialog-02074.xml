@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Tell Amarre that you must rescue the villagers.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Infused with Killian's power, Elleon faced Kalligar. &lt;PCNAME&gt; and Titus went after Elleon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="130">
+        <Page social="4" voiceTypeId="0">Yes, rescuing the people should be first. I'm sure that Elleon went for them as well.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, go with Titus and help Elleon.&lt;NEXTPAGEBUTTON&gt;"You're not coming?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I'll go with Basheek and study the manufacture of the cure and gather more ingredients.&lt;BR&gt;&lt;BR&gt;If I can work out the components of the cure, it'll be a great help for everyone at home.&lt;BR&gt;&lt;BR&gt;I'll join you later.&lt;BR&gt;&lt;BR&gt;Basheek said that our people are being held prisoner.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" prevId="3" villagerId="140">
+        <Page social="7" voiceTypeId="0">You came!&lt;BR&gt;&lt;BR&gt;Elleon told me to wait here, but I was having second thoughts!&lt;BR&gt;&lt;BR&gt;Elleon went to the cages above the valley. Please go and help Elleon!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2002" prevId="4" villagerId="141">
+        <Page social="4" voiceTypeId="0">Aaargh!&lt;BR&gt;&lt;BR&gt;Oh it's you...this place is a living hell...&lt;BR&gt;&lt;BR&gt;There was a lot of screaming and yelling above...be careful!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2002" prevId="5" villagerId="142">
+        <Page social="4" voiceTypeId="0">It's relief to see you here.&lt;BR&gt;&lt;BR&gt;Elleon went to the cages up the valley. I thought I just heard a loud noise...&lt;BR&gt;&lt;BR&gt;I think the draakons are here now.&lt;BR&gt;&lt;BR&gt;Please! Teach those reptiles a lesson and save our people!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2102" prevId="6" villagerId="100">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! I didn't think you'd come so quick.&lt;BR&gt;&lt;BR&gt;I think we've recovered all of the people. Now, we must get out of here.&lt;BR&gt;&lt;BR&gt;I'll lead the way. You make sure that the people go to a safe place.&lt;BR&gt;&lt;BR&gt;Urgh!&lt;NEXTPAGEBUTTON&gt;"Are you all right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes...it...it's nothing.&lt;BR&gt;&lt;BR&gt;Let's go now.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2102" prevId="7" villagerId="110">
+        <Page social="4" voiceTypeId="0">I think something's happening to Elleon.&lt;BR&gt;&lt;BR&gt;I think we should help him. Free Exodor will take care of the people.&lt;BR&gt;&lt;BR&gt;Hurry. We must not lose Elleon.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2002" prevId="8" villagerId="150">
+        <Page social="4" voiceTypeId="0">A garden is the last thing I thought I'd see here.&lt;BR&gt;&lt;BR&gt;Look at the size of those flowers. Maybe it's for those enormous butterflies?&lt;BR&gt;&lt;BR&gt;But I thought that they only ate animals?&lt;BR&gt;&lt;BR&gt;We should go....This place gives me the creeps.</Page>
+    </Text>
+</QuestDialog>

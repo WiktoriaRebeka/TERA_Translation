@@ -1,0 +1,34 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="823" prevId="0" villagerId="3007">
+        <Page social="0">The flight to Northern Arun is anything but smooth.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="823" prevId="0" villagerId="3007">
+        <Page social="4">I'm combining flavors you never dreamed of. Garlic strawberry! Horseradish caramel! I'm going to take you to Flavortown!&lt;BR&gt;&lt;BR&gt;Which means I don't have time to deliver special orders. If Paesyn wants to eat, Paesyn can eat with the other troops.&lt;NEXTPAGEBUTTON&gt;"I'll take it to him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Really? That seems kind.&lt;BR&gt;&lt;BR&gt;Weird.&lt;BR&gt;&lt;BR&gt;All right. Take this totally gourmet lunchbox to him.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="823" prevId="2" villagerId="1001">
+        <Page social="4">&lt;PCNAME&gt;! We're on our way to Northern Arun! Isn't this exciting?&lt;NEXTPAGEBUTTON&gt;"A tad stimulating."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I smell food. You brought my lunch? How wonderful! You must really like me!&lt;BR&gt;&lt;BR&gt;Yummy! &lt;BR&gt;&lt;BR&gt;Now...who should I get to like me next?&lt;BR&gt;&lt;BR&gt;I know! Zolyn! Do you think I should talk to her now?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="823" prevId="3" villagerId="1001">
+        <Page social="4">I couldn't do it. Her look flattened my ears!&lt;BR&gt;&lt;BR&gt;Would you do me a favor? I wrote her a poem to cheer her up, but I can't give it to her! Can you?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="823" prevId="4" villagerId="1002">
+        <Page social="4">Yes, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Paesyn wrote this for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">"There was an old person of Ischia, whose conduct grew friskier and friskier?" What does that even mean? I'm from Popolion.&lt;BR&gt;&lt;BR&gt;There's no time for this nonsense. We're on a mission. &lt;BR&gt;&lt;BR&gt;Don't encourage Sir Fursalot. Make yourself useful and get a status report from Haruho, downstairs.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="823" prevId="5" villagerId="1003">
+        <Page social="4">Things look good here, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Pico's also on watch. Check with him.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="823" prevId="6" villagerId="1004">
+        <Page social="4">What could be wrong? We're in the sky!&lt;BR&gt;&lt;BR&gt;Sky is clear, speed is stable. Nothing could go wrong.&lt;NEXTPAGEBUTTON&gt;"Careful. You'll jinx it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">What was that?&lt;BR&gt;&lt;BR&gt;We're under attack!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="823" prevId="7" villagerId="1004">
+        <Page social="4">Who were they?&lt;BR&gt;&lt;BR&gt;They must be up on deck. You have to stop them.&lt;BR&gt;&lt;BR&gt;Find Lekul!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="823" prevId="8" villagerId="1100">
+        <Page social="4">&lt;PCNAME&gt;, we have a fight on our hands!</Page>
+    </Text>
+</QuestDialog>

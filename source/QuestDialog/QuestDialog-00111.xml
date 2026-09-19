@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="4">Before you go...just one more thing. I have a tuwangi contact here. I'm sure he's fine, but...&lt;BR&gt;&lt;BR&gt;Maybe you could find {@LinkCreature:205#1016#Jirra} for me and make sure he's all right?&lt;BR&gt;&lt;BR&gt;Oh, and if he's in trouble, give him this scroll. He can use it to teleport somewhere safe.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1016">
+        <Page social="0">Help! Help help! Oh, but creature cannot understand.&lt;BR&gt;&lt;BR&gt;Or...oh, it can! It can understand! Help me!&lt;BR&gt;&lt;BR&gt;Oh, what's this? A teleport scroll? Oh, yes! Thank you, thank you!&lt;BR&gt;&lt;BR&gt;Go see my brother, {@LinkCreature:205#1003#Pangari}. He is southeast of here. Let him know I'm safe!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="1003">
+        <Page social="0">Thank you for helping Jirra escape! Things here have gotten much worse—three tribes, all fighting to expand the swamp, but fighting each other!&lt;BR&gt;&lt;BR&gt;Tuwangis fighting tuwangis is not right. Not right at all. No one can trust anyone else! I had to run but my brother was left behind.&lt;BR&gt;&lt;BR&gt;I'm so grateful you got him out. Thank you.</Page>
+    </Text>
+</QuestDialog>

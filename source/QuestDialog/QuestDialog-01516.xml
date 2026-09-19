@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1000">
+        <Page social="0">With the crash of Intrepid, the Vanguard Initiatve suffered a major loss. You helped take stock before continuing with the mission.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1000">
+        <Page social="4">Most of the Vanguards escaped, thanks to you. Still, things look bad for our mission.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">We should secure our supplies before something awful eats them. Without the sky cruiser, who knows when we'll get resupplied.&lt;BR&gt;&lt;BR&gt;Can you help get the supplies to Dougal?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1001">
+        <Page social="4">Well done, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Well, we made it to Northern Arun, so we can still complete our mission.&lt;BR&gt;&lt;BR&gt;Ask Zolyn how the troops are. We need to know our fighting capability before we move out.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" villagerId="1001">
+        <Page social="0">Is this all? Really?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="3" villagerId="1002">
+        <Page social="4">Damn it, &lt;PCNAME&gt;! I'm a reaper, not a doctor.&lt;BR&gt;&lt;BR&gt;Check on the wounded yourself. I'm looking for Syona's trail!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1003">
+        <Page social="4">My leg! I think my ankle's shattered. Is bone supposed to stick out?&lt;BR&gt;&lt;BR&gt;Help me!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1004">
+        <Page social="4">Augh, it hurts when I breathe. Blast! What's the point?&lt;BR&gt;&lt;BR&gt;We're never getting home, are we?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1002">
+        <Page social="4">Tysan's injury will slow us down. I'll order Paesyn to make a litter to carry him.&lt;BR&gt;&lt;BR&gt;Broderik's just going to work through his. No one goes home until we find Syona!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="172" prevId="8" villagerId="1001">
+        <Page social="4">The injuries could have been much worse. We'll count our blessings.&lt;BR&gt;&lt;BR&gt;Fine work. Just like old times, eh?</Page>
+    </Text>
+</QuestDialog>

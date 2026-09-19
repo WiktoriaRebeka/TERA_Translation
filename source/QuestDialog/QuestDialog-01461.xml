@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="68" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="5" voiceTypeId="0">You've earned access to more Guardian supplies.&lt;BR&gt;&lt;BR&gt;Talk to Mia to check out the best we have to offer.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="6115">
+        <Page social="5" voiceTypeId="0">Authority verified. You may freely view and purchase the Master supplies.&lt;BR&gt;&lt;BR&gt;Please use them for good.</Page>
+    </Text>
+</QuestDialog>

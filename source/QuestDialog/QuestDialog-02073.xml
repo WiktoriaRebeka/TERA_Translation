@@ -1,0 +1,41 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Find the Free Exodor agent waiting for you at the Iridian Wetlands Platform.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">While searching materials for Jelena's cure, &lt;PCNAME&gt; met with Basheek and found out where the villagers were caught.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="100">
+        <Page social="0" voiceTypeId="0">I've been waiting. I was surprised to hear, but even more surprised to see, that you're all strangers.&lt;BR&gt;&lt;BR&gt;You must find materials for Chinitz's cure? Go to the north and you'll find one of our men waiting for you.&lt;BR&gt;&lt;BR&gt;He'll help you find the materials.&lt;NEXTPAGEBUTTON&gt;"Did you see any other strangers come by?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No, I haven't.&lt;BR&gt;&lt;BR&gt;If any stranger did, it would have been while I was absent.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2002" prevId="3" villagerId="110">
+        <Page social="4" voiceTypeId="0">Please...don't kill me...!&lt;BR&gt;&lt;BR&gt;You....you're like him!&lt;NEXTPAGEBUTTON&gt;"I won't hurt you. Tell me where the man went."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">He...he went off...over the hill.&lt;BR&gt;&lt;BR&gt;Ve..ry quick...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2002" prevId="4" villagerId="120">
+        <Page social="0" voiceTypeId="0">No, I've seen no one.&lt;BR&gt;&lt;BR&gt;Maybe your friend went another direction.&lt;BR&gt;&lt;BR&gt;The key ingredient of the cure is Iridian Poison Plant and Flexis Talon.&lt;BR&gt;&lt;BR&gt;The Iridian Poison Plant is essential to slow down the disease. Bring me that plant and your friend will gain some time.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2002" prevId="5" villagerId="127">
+        <Page social="0" voiceTypeId="0">This should be enough to save your friends.&lt;BR&gt;&lt;BR&gt;I'll deliver the plant to our allies. Let's meet at our hideout.&lt;BR&gt;&lt;BR&gt;Go to the west and you'll find an abandoned camp.&lt;BR&gt;&lt;BR&gt;We don't want to expose ourselves, so please take care of Marauders nearby so you're not followed.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2002" villagerId="127">
+        <Page social="0">If you want to save your friend, get that Iridian Poison Plant quick.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2002" prevId="6" villagerId="121">
+        <Page social="0" voiceTypeId="0">The plant has been delivered. You can gather the rest of the ingredients in the Vortex Zone.&lt;BR&gt;&lt;BR&gt;Oh no. Looks like some naga guards spotted us. Please take care of them and come to the Vortex Zone.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2002" prevId="8" villagerId="122">
+        <Page social="0" voiceTypeId="0">You weren't followed were you? Now, all that's left is the Flexis Talon.&lt;BR&gt;&lt;BR&gt;Brewing the two ingredients will create a cure that slows down the crystallization.&lt;BR&gt;&lt;BR&gt;Be careful though.&lt;BR&gt;&lt;BR&gt;The Flexis Hunters are fierce and dangerous.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2002" prevId="9" villagerId="123">
+        <Page social="0">Excellent. These aren't easy to find, but you did it!&lt;BR&gt;&lt;BR&gt;I'll have these delivered to your friend.&lt;BR&gt;&lt;BR&gt;You're not related to these captured people are you?&lt;NEXTPAGEBUTTON&gt;"I am."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You should hurry then.&lt;BR&gt;&lt;BR&gt;It'll only be a matter of time before Rogash use your people for his experiment.&lt;BR&gt;&lt;BR&gt;I've heard that Rogash is in a bad mood these days.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2002" prevId="9" villagerId="123">
+        <Page social="0">This won't be enough for the cure.&lt;BR&gt;&lt;BR&gt;Please gather more.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2002" prevId="10" villagerId="130">
+        <Page social="4" voiceTypeId="0">We have to rescue the people of course, but we must make sure that there's a cure for the crystallization.&lt;BR&gt;&lt;BR&gt;This is a huge discovery! People at home are still waiting for that cure!&lt;BR&gt;&lt;BR&gt;I don't know which is more important.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1015">
+        <Page social="11">The desert harts around here are beautiful—particularly their horns.&lt;BR&gt;&lt;BR&gt;Unfortunately, those Tenebrara's evil tricks seem to have spread to those handsome creatures as well.&lt;BR&gt;&lt;BR&gt;I can't get rid of them because Felion might find me if I leave my bush.&lt;BR&gt;&lt;BR&gt;Since you're going to have to kill them anyway—you know, because they're evil—you may as well bring me their horns, too.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1015">
+        <Page social="16">Excellent! I have been waiting years to get my hands on these horns!&lt;BR&gt;&lt;BR&gt;Uh, I mean...tragic. Tragic that such handsome beasts had to be slain.&lt;BR&gt;&lt;BR&gt;Here, just take your cut and get out, yeah?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1015">
+        <Page social="0">Look, I know it's tragic to kill such beautiful animals, but it's really very important that I get those horns.&lt;BR&gt;&lt;BR&gt;Because of that horrible spell. The spell has affected all the animals, you know.</Page>
+    </Text>
+</QuestDialog>

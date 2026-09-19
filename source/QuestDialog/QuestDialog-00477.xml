@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">We're starting to get a handle on things for the first time in months. So now it's time to strike back against the cultists.&lt;BR&gt;&lt;BR&gt;Why are you still here? You're the closest person, so you win the draw. I have a written order here assinging you to {@LinkCreature:218#1009#Chenast}. Head toward Arena of the Exalted report for duty. Go, go!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1009">
+        <Page social="4">Anaka sent you, did she? Hmm.&lt;BR&gt;&lt;BR&gt;All right, then. Let's put you to work. It seems the {@LinkCreature:18#19#Lokian vanguards} and {@LinkCreature:18#23#Lokian magisters} are hatching some ritual or other.&lt;BR&gt;&lt;BR&gt;Stop them before they succeed.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1009">
+        <Page social="4">Those are...heads! Wow. That's what you brought me, all right.&lt;BR&gt;&lt;BR&gt;Well, good! Anaka will be thrilled. She loves to decorate with pieces of cultists. Thinks it intimidates them. Might be right.&lt;BR&gt;&lt;BR&gt;Anyway, pile them over there. Thanks for that.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="218" villagerId="1009">
+        <Page social="0">If you wait much longer, they'll complete their creepy ritual for sure. It's the {@LinkCreature:18#21#Lokian berserkers} and the {@LinkCreature:18#22#Lokian priests} that need your...assistance.</Page>
+    </Text>
+</QuestDialog>

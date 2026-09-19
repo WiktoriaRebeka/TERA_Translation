@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="711" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Krakatox turned one of his own bones into this weapon.&lt;BR&gt;&lt;BR&gt;It's still pulsing with powerful energy, even though its owner is dead.&lt;BR&gt;&lt;BR&gt;The legendary Blacksmith Muhrak might know how to make use of the weapon's energy.&lt;BR&gt;&lt;BR&gt;- Krakatox's Weapon vanishes when you accept this quest.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="4">Wow, this powerful energy! Where did you find this? &lt;PCNAME&gt;, give me a moment. Maybe I can make a new weapon with it.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1021">
+        <Page social="5">I was gathering herbs with my dad, and we got separated. Then the {@LinkCreature:16#2209#gloomtusks} attacked, so I ran and hid.&lt;BR&gt;&lt;BR&gt;My dad must be so worried. Do you think you could take care of those animals for me? Just enough to clear the path, so I can find my dad?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1021">
+        <Page social="4">That was so fast!&lt;BR&gt;&lt;BR&gt;I hate to think of my dad worrying about me—do you think we could go find him right now? Please?</Page>
+    </Text>
+</QuestDialog>

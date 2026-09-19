@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1021">
+        <Page social="0">The Vanguards marched for Arx Umbra, the edge of the archdevas territory, but ran into some trouble from the goblins.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1021">
+        <Page social="4">I've asked your forces to depart for Arx Umbra, so we can take the fight to the archdevas. We'll crush them together!&lt;BR&gt;&lt;BR&gt;I'll join you soon. I must pay my respects to the baraka.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="4001">
+        <Page social="4">Eh? &lt;PCNAME&gt;? What are you doing here?&lt;NEXTPAGEBUTTON&gt;"Where are the soldiers?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">They just left! I thought you went with them.&lt;BR&gt;&lt;BR&gt;My friend Deoric is their rear guard. Look for him to the north.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="4002">
+        <Page social="4">Those fiends!&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Some goblins asked for help, so the idiot driving the supply wagon stopped. That's when they attacked us. I took a nasty shot to my skull.&lt;BR&gt;&lt;BR&gt;When I woke up, the wagon was gone. We have to get the supplies back.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="4023">
+        <Page social="4">(The wagon sits empty.)&lt;BR&gt;&lt;BR&gt;(Footprints lead back up the slope.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="4002">
+        <Page social="4">No crates at all?&lt;BR&gt;&lt;BR&gt;They must have moved them while I was unconscious.&lt;NEXTPAGEBUTTON&gt;"Looks like they came back to the road."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Right. You should chase the supplies down. I'll catch up with you.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="4003">
+        <Page social="4">Excellent work getting these back.&lt;BR&gt;&lt;BR&gt;I'll carry them from here. You catch up to the rest of the force.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" villagerId="4003">
+        <Page social="0">I will hang these crooks!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="7" villagerId="4004">
+        <Page social="4">We feared the worst when you didn't show up. It is fortunate that you caught up.&lt;BR&gt;&lt;BR&gt;Rhodos asked us to hold this position and awaits at Domare Outpost.&lt;BR&gt;&lt;BR&gt;It's not far from here, but be cautious. You're entering a zone of danger.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="191" prevId="9" villagerId="2102">
+        <Page social="4">What have the archdevas done to this land? Look at the sky!&lt;BR&gt;&lt;BR&gt;It's time to put an end to their infernal plot. Are you with me?</Page>
+    </Text>
+</QuestDialog>

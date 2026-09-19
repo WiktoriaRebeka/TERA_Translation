@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">You're a sight for sore eyes. I'm drowning in work!&lt;BR&gt;&lt;BR&gt;You want to make a little extra money?&lt;NEXTPAGEBUTTON&gt;"You know it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Great! {@LinkCreature:63#3002#Taratia} has a long list of simple tasks that need doing—well, as simple as anything is with her.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">Ah, perfect timing! Can you go on a little gathering mission for me?&lt;BR&gt;&lt;BR&gt;Elthienne will have my horny head if I don't get some things checked off this list.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">This is immensely helpful. You're so amazing. I totally want to be you when I grow up. Seriously!&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} what I said. Not that she'll believe it. She thinks I'm a total screw up.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Do you have the {@RawItem:206801}?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">This is immensely helpful. You're so amazing. I totally want to be like you when I grow up. Seriously!&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} what I said. Not that she'll believe it. She thinks I'm a total screw-up.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Do you have the {@RawItem:206802}?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">This is immensely helpful. You're so amazing. I totally want to be like you when I grow up. Seriously!&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} what I said. Not that she'll believe it. She thinks I'm a total screw-up.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Do you have the {@RawItem:206803}?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">This is immensely helpful. You're so amazing. I totally want to be like you when I grow up. Seriously!&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} what I said. Not that she'll believe it. She thinks I'm a total screw-up.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Do you have the {@RawItem:206804}?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">This is immensely helpful. You're so amazing. I totally want to be like you when I grow up. Seriously!&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3003#Elthienne} what I said. Not that she'll believe it. She thinks I'm a total screw-up.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Do you have the {@RawItem:206805}?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Your reward, as promised. And a well-deserved one at that. I know working with Taratia can be...stressful.</Page>
+    </Text>
+</QuestDialog>

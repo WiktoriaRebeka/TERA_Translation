@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">Sorcha is a junior researcher full of crazy ideas! After listening to Eria talk about some ridiculous prophecy, she went off alone determined to tap into the power of the Tainted Gorge.&lt;BR&gt;&lt;BR&gt;It's been some time since she checked in, and I'm worried. Can I count on your assistance in bringing her back in safely? Well, you and a few more friends...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1007">
+        <Page social="4">Sorcha brought a mobile teleport stone with her, so Hermaiorni can do a clever bit of triangulation and teleport you there. But hurry—who knows what trouble she's in?&lt;BR&gt;&lt;BR&gt;Talk to Teleport Master Hermaiorni, and she'll send you onward. And do not forget to gear up for unexpected battles.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1050">
+        <Page social="4">Sorcha...always in such a rush. Eria and I told her the time was not right to act on the prophecy, but there was no stopping her.&lt;BR&gt;&lt;BR&gt;If you and your team are ready, I can definitely get you out to her last known position.</Page>
+    </Text>
+</QuestDialog>

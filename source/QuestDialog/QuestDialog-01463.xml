@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1286">
+        <Page social="0">Lenarive is worried that another alien ecosystem like Exodor might threaten all existence.&lt;BR&gt;&lt;BR&gt;So, she decided to create a series of educational cards detailing the world's ecology and environment.&lt;BR&gt;&lt;BR&gt;The cards document creatures, resources, places, and notable people.&lt;BR&gt;&lt;BR&gt;When a card is added to a collection, its owner gains special powers.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1286">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1286">
+        <Page social="4" voiceTypeId="0">My name is Lenarive, and I am an ecosystem researcher.&lt;BR&gt;&lt;BR&gt;You may not be aware of this, but our world is facing an ecological crisis at the moment, with creatures from outside the Dream popping up all over the place.&lt;BR&gt;&lt;BR&gt;My colleagues and I are worried for the continued safety of our world's many wonderful creatures and historic locations.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I've decided to document the rich diversity of the Dream before it's too late.&lt;BR&gt;&lt;BR&gt;Will you help me? There's nothing a simple researcher like myself can do to stop these incursions, but it would be my honor to help leave something for future ecologists.&lt;NEXTPAGEBUTTON&gt;"Tell me what to do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I've created a way to store memories of your experiences, in to form of special cards that increase your connection to the Dream.&lt;BR&gt;&lt;BR&gt; Hear, take this copy of my card binder. (You can access it through the 'My Character' menu.)&lt;BR&gt;&lt;BR&gt;From now on, you'll earn card fragments when you defeat certain enemies, visit new places, or overcome specific challenges. When you have enough, you can assemble a card and place it in your binder. Your collection will become more powerful, and valuable, as you collect more and more fragments.&lt;BR&gt;&lt;BR&gt;You can start by hunting Snuffling Warthogs. If you're lucky, you'll get a card fragment.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1286">
+        <Page social="4" voiceTypeId="0">How did it go? Did you get a card fragment?&lt;BR&gt;&lt;BR&gt;If you don't get one right away, don't be disappointed. They'll drop eventually. And you always have the option to purchase card fragments from other collectors through the brokerage.&lt;NEXTPAGEBUTTON&gt;"I'll keep that in mind."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You need 20 fragments of the same type to complete a card.&lt;BR&gt;&lt;BR&gt;Once a card is completed, you'll be more in tune with the Dream and gain a bonus to your abilities.&lt;NEXTPAGEBUTTON&gt;"Thanks for the information."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Here. I'll give you 20 fragments for a Grazing Noruk card. Go ahead and add them to your collection. After you add them, you'll complete the card.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1286">
+        <Page social="4" voiceTypeId="0">Once you complete a card, you can equip it and gain its listed bonuses to your abilities.&lt;NEXTPAGEBUTTON&gt;"Bonuses?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The Grazing Noruk card increases your Physical Resistance.&lt;BR&gt;&lt;BR&gt;Equip the Grazing Noruk card, then fight a Grazing Noruk. You may not notice it right away, but you'll definitely see the difference in your stats.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1286">
+        <Page social="4" voiceTypeId="0">Every card you complete can be helpful in various situations. Collect cards from around the world and use them wisely.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You can also trigger a Collection Effect when equipping specific cards.&lt;BR&gt;&lt;BR&gt;The Grazing Noruk card I gave you has an effect called 'Long for Peace' which activates when you also have a Seir card equipped. Go talk to Commander Seir and obtain his card, then come talk to me again.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Lenarive's card collection? I'm aware of it. To be honest, I'm a little embarrased to be included in her roster of notable people. But at the same time, her work will help preserve the wonders of the Dream for future generations.&lt;BR&gt;&lt;BR&gt;It would be extremely difficult for her to gather the cards herself. You should help her, if you can..&lt;NEXTPAGEBUTTON&gt;"She said you'd give me your card."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Haha! What an honor!&lt;BR&gt;&lt;BR&gt;Alright. Here you go. 20 fragments, right? Just don't tell anybody I did this for you.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1286">
+        <Page social="4" voiceTypeId="0">Did you get Seir's card fragments?&lt;BR&gt;&lt;BR&gt;Good. There are many people whose actions have made a lasting effect on the Dream. You'll find their fragments in all sorts of places from now on.&lt;BR&gt;&lt;BR&gt;Now add Seir's card fragments to your collection and the 'Long for Peace' effect will unlock.&lt;NEXTPAGEBUTTON&gt;"I'll try."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Just like the Grazing Noruk card's resistance bonus, the 'Long for Peace' effect is effective against beasts.&lt;BR&gt;&lt;BR&gt;Go to the second tab of your Card Collection window, activate the effect, and then fight a Grazing Noruk.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1286">
+        <Page social="4" voiceTypeId="0">A remarkable display. You should be proud. I'm not exactly sure how many different collection effects there are, so you'll have to explore and experiment for me.&lt;BR&gt;&lt;BR&gt;I'm counting on you to help preserve the Dream!</Page>
+    </Text>
+</QuestDialog>

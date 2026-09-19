@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1003">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870301'/&gt;&lt;BR&gt;Mirvan wasn't cooperative, but you started your mission. While you were helping Mirvan's mission, you found out about the refugees who were threatened by orcans in the temporary refugee camp.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1003">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870301'/&gt;&lt;BR&gt;This token is proof of Rida's recognition of your service, and her authorization to carry out missions.&lt;BR&gt;&lt;BR&gt;Show this to Dorinu, and he will give you a mission.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Papers?&lt;BR&gt;&lt;BR&gt;Huh. Princess Rida herself sent you. Interesting. I guess she thinks that you'd be a good complement for Mirvan, the best scout we have. Maybe between the two of you, you can resolve this problem with the orcan raiders.&lt;BR&gt;&lt;BR&gt;She's right here. Please assist her the best you can—and don't bother me again.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1034">
+        <Page social="4" voiceTypeId="0">So...you're one of those...well, I don't know exactly what you are. But if the princess trusts you, I suppose I can, too.&lt;BR&gt;&lt;BR&gt;Just remember this: If you ever get in my way, I will not forgive you.&lt;NEXTPAGEBUTTON&gt;"I won't let you down."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We'll see.&lt;BR&gt;&lt;BR&gt;So the Princess expects us to work together. Fine. Here's your first job.&lt;BR&gt;&lt;BR&gt;I need a distraction so I can slip out and scout the orcans' position in the Lost Woods. So you're going to kill the orcans in this area; while they're dealing with you, I can go wherever I want.&lt;BR&gt;&lt;BR&gt;If you're still alive after that, go talk to the manager of the refugee camp. They need all the help they can get.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1035">
+        <Page social="4" voiceTypeId="0">I heard the orcans creating a lot of commotion. Was that your doing?&lt;BR&gt;&lt;BR&gt;Good. Good! So, what can I help you with?&lt;NEXTPAGEBUTTON&gt;"I came to help you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Ah, of course! Excellent! Now...um...&lt;BR&gt;&lt;BR&gt;Oh, yes! You should go talk to Ansiny.&lt;BR&gt;&lt;BR&gt;She just arrived from the Lost Woods, and she's not doing too well.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" prevId="5" villagerId="1019">
+        <Page social="4" voiceTypeId="0">I...it's like...a piece of me...gone. Just...gone.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"There, there."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Are you...trying to reassure me? Well, it won't help. My twin sister is gone. Gone!&lt;BR&gt;&lt;BR&gt;You want to hear my story? Fine. We lived in the woods, working our little field. We got by. Then some orcans came by. They were looking for faeries and bears. And we decided our little field wasn't worth our lives, so we ran. But everywhere we went: more orcans. We nearly died a dozen times, moving from refugee camp to refugee camp, getting help where we could. But then we ran into a particularly agitated bear. It had been injured by the orcans, and it was angry. My sister and I, we got separated. We said we would meet up here, so I just kept running. Now here I am—but she's not here.&lt;NEXTPAGEBUTTON&gt;"Go on."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Her name is Raina... I asked everyone in the camp, but no one has seen her. Do you think there is any chance that she may still be alive? I hope so.&lt;BR&gt;&lt;BR&gt;Please, &lt;PCNAME&gt;, help my sister reach the camp! There are so many agitated bears and anxious faeries, she could be right outside the camp, unable to get past them to safety! Kill them. Kill them so my sister and the other refugees can get through! And if you see my sister, please tell her I'm here!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="6" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Might as well give up, friend. There's no way to reach the refugee camp...I've tried.&lt;BR&gt;&lt;BR&gt;What? My sister sent you? Oh, I'm so glad she's okay! She's all I have. I'm all she has.&lt;BR&gt;&lt;BR&gt;The orcans took our farm, chased us through the woods...the faeries and the bears tried to kill us, over and over. Running, hiding, eating nuts and berries...but we had each other! And then we met Kalido.&lt;BR&gt;&lt;BR&gt;He was a farmer traveling back from market. He told us what happened to Pora Elinu...said we had to get to a refugee camp.&lt;NEXTPAGEBUTTON&gt;"I'm listening."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Kalido helped us get out of the Lost Woods. But he said he has something to do, and he went back. So Ansiny and I kept running. And then we got separated.&lt;BR&gt;But now I not only know she's alive, I know where she is! And it's all thanks to you, &lt;PCNAME&gt;. You even cleared a path through the faeries and the bears for me! Thank you. I can get to the camp on my own, now...and find my sister again.&lt;BR&gt;&lt;BR&gt;But I'm worried about Kalido, &lt;PCNAME&gt;. He needs help, just as bad as my sister and I did. Please help him, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Those two girls are all right? Good. I was hoping they'd make it okay, after we split up...&lt;NEXTPAGEBUTTON&gt;"What's the situation here?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">After I sent the girls on to the refugee camp, I came back here to help these people build a wall, to keep the orcans out.&lt;BR&gt;&lt;BR&gt;But we had to leave a way for the refugees to get through, and the orcans keep getting around us, to attack the refugee camps. You probably saw some on the way here.&lt;BR&gt;&lt;BR&gt;The Honor Guard here have done an admirable job guarding the wall, but they can't hold out much longer. We've had no word of relief from the city.&lt;BR&gt;&lt;BR&gt;This camp isn't safe anymore. Kelleher has a plan, though. She's the ranking officer here. Uh... I guess she's the only officer here now. You should go talk to her.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="87" prevId="8" villagerId="1015">
+        <Page social="4" voiceTypeId="0">I'm guessing you're not our relief. It's okay. At least you're not more mouths to feed. Any help is welcome.&lt;BR&gt;&lt;BR&gt;We were tasked with recovering lost supplies, but it's not going well. We lost contact with our scavengers—and then we lost contact with the soldiers I sent looking for them.&lt;BR&gt;&lt;BR&gt;You can help us by going into the Lost Woods, finding Hasran, and bringing back my soldiers...and those supplies!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="87" prevId="9" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Did Kelleher send you?&lt;NEXTPAGEBUTTON&gt;"Yes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Good—I was starting to think they'd written me off as dead.&lt;BR&gt;&lt;BR&gt;Thanks for finding me, &lt;PCNAME&gt;. Here, take these. It's all I have. May you find them useful.</Page>
+    </Text>
+</QuestDialog>

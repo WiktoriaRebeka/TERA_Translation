@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1010">
+        <Page social="4">My brother was one of many miners who never came home. Those monsters...they've probaby killed them all by now.&lt;BR&gt;&lt;BR&gt;But at least I have his pick to remember him by. I wish I could give something back to the families of the other lost miners.&lt;BR&gt;&lt;BR&gt;Say, if you come across any miner...remains...in there, could you gather their belongings? I know it would be a great comfort to their families.&lt;BR&gt;&lt;BR&gt;Give any personal effects you find to Nemuro at Utterdark Outpost. He'll take care of the rest.&lt;BR&gt;&lt;BR&gt;It would mean so much to all of us.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="2002">
+        <Page social="4">That was kind of you, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;I'll deliver these items to the bereaved when I go back to Chebika.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="2002">
+        <Page social="0">I have appointments to keep, &lt;PCCLASS:lcase&gt;. If you have something to send back to Chebika with me, you'd better make it snappy.</Page>
+    </Text>
+</QuestDialog>

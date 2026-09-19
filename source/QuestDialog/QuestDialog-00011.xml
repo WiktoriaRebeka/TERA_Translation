@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="4">Maon's the key to finding a peaceful solution to our problems with the faeries.&lt;BR&gt;&lt;BR&gt;Go talk with with him and see if there's any chance to broker a deal.&lt;BR&gt;&lt;BR&gt;Talk with his son first, though. Little guy loves to play. If you get in good with him, the father may be more receptive.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1021">
+        <Page social="0">Hey! Wanna play with me?&lt;BR&gt;&lt;BR&gt;Oh, business with my dad, huh? Well, promise to come back later, and I'll put in a good word with pop.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="0">Another &lt;PCCLASS:lcase&gt; with a mind bent to slaughter is the last thing we need around here.&lt;BR&gt;&lt;BR&gt;My son says you may be different. That's all well and good, but if you're interested in restoring peace, you must also convince me you aren't just another interloper with mayhem on your mind.</Page>
+    </Text>
+</QuestDialog>

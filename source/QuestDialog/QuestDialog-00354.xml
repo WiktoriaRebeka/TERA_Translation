@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1009">
+        <Page social="4">Jehan salted the pasture to the &lt;b&gt;south&lt;/b&gt; of here with food containing tiny detection devices, and as planned, the {@LinkCreature:13#300920#shaggy noruks} either destroyed or ate them.&lt;BR&gt;&lt;BR&gt;Normally I'm opposed to harming such noble guardians, but Jehan asks that his &lt;font color='#660000'&gt;power gauges&lt;/font&gt; be collected and returned. Could you get them for us? I'd do it myself, but I've hurt my ankle, and my...escort refuses to assist me.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1130">
+        <Page social="4">Kamarnu has chosen his agents well. These gauges are vital to understanding what power affects this island's guardians.&lt;BR&gt;&lt;BR&gt;Having demonstrated skill in acquiring items for researchers, you will find no shortage of work here in this camp. Perhaps it is best that you stay nearby. There are other tasks needing attention.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1130">
+        <Page social="0">Kamarnu has his orders, but somehow quails from executing them. Power gauges are viable for only a short time, and each {@LinkCreature:13#300920#shaggy noruk} allowed to roam free without examination is another opportunity missed.</Page>
+    </Text>
+</QuestDialog>

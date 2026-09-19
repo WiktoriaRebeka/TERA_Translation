@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1031">
+        <Page social="4">The only good thing about these massive argon machines is that they're not sentient. Take out their controllers and they're useless—won't do a blasted thing.&lt;NEXTPAGEBUTTON&gt;"I sense a mission."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Three dread factors control the navashad—that giant tentacled monstrosity. Kill them and recover the control mechanism.&lt;BR&gt;&lt;BR&gt;I'll ready what troops I can. With luck, we can take the argons by surprise.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">The navashad lies dormant? Yes!&lt;BR&gt;&lt;BR&gt;This is what we've needed. The navashad knocks our transports out of the sky and crushes our siege engines. You've aided us immensely.&lt;BR&gt;&lt;BR&gt;I'll get the controller to our best scientists. We'll unlock its mysteries.</Page>
+    </Text>
+</QuestDialog>

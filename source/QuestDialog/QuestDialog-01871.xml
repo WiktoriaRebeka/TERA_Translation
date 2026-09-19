@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="4">The argons employ mechanical war machines against us, but their power supply lies safely in the Argon Catacombs.&lt;BR&gt;&lt;BR&gt;If we'd only moved a bit faster, we could've destroyed the {@LinkCreature:418#2009#cyasma catalyzer}.&lt;NEXTPAGEBUTTON&gt;"Send me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">That's no blue milk run, &lt;PCNAME&gt;, but if you're up to it, report to {@LinkCreature:418#2003#Arigma} in the {@Rgn:9018001$$Argon Catacombs}. He'll point you in the right direction.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2003">
+        <Page social="4">Sure, you could destroy the {@LinkCreature:418#2009#cyasma catalyzer}, but it won't be easy. Also, there's three of them.&lt;BR&gt;&lt;BR&gt;You're welcome to try, I just want you to understand what you're facing. The argons keep a force of bore troops ready to protect the catalyzers.&lt;BR&gt;&lt;BR&gt;If the ground starts a-rockin', you start a-runnin'.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="3" villagerId="2003">
+        <Page social="4">We heard, er, felt the explosion! Fine work taking out the catalyzer!&lt;BR&gt;&lt;BR&gt;I'll get couriers back to Khanovar Citadel and let them know the argons are vulnerable for a little while.</Page>
+    </Text>
+</QuestDialog>

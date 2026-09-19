@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="4">You're definitely a cure for our centaur problem, but there's no cure for the idiocy of certain loggers. Like &lt;b&gt;Siravon&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;I sent him to repair the bridge south of Faevine Vale, and that idiot left without his tools!&lt;BR&gt;&lt;BR&gt;I'd send one of my loggers, but the roads are dangerous...and you're here.&lt;BR&gt;&lt;BR&gt;Care to bring Siravon the tools he should have had all along?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1015">
+        <Page social="4">Thanks, &lt;PCNAME&gt;. I swear, Balter has it out for me. Forgetting the tools was my fault, sure, but who sends an unarmed logger out here alone to fix a bridge?&lt;BR&gt;&lt;BR&gt;A boss who has it out for me, that's who.</Page>
+    </Text>
+</QuestDialog>

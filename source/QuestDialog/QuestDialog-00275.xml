@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="4">I understand a healthy amount of caution where the Red Lash pirates are concerned. But if we don't get our fishing operations up and running again, it'll be a race to see whether we starve or go broke first.&lt;BR&gt;&lt;BR&gt;You don't exactly look like fishing material to me. But if you take out the {@LinkCreature:11#4003#Red Lash freebooters} on the Jagged Coast, that'll give the fishing fleets the confidence they need to leave their docks.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1007">
+        <Page social="4">With less piracy along the Jagged Coast, Nerth can cajole the fishing fleet to get back to sea.&lt;BR&gt;&lt;BR&gt;Nagas are tenacious, though, and I'm sure we haven't seen the last of the Red Lash pirates.&lt;BR&gt;&lt;BR&gt;If we really want the fishing fleet to feel safe, we've got to root the nagas out of their base at the Pirate Grotto once and for all.&lt;BR&gt;&lt;BR&gt;Did I say "we?" I meant "you."</Page>
+    </Text>
+</QuestDialog>

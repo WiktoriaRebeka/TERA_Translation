@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1006">
+        <Page social="4">The Atel Akaad are backing Killian's play, though who knows why.&lt;BR&gt;&lt;BR&gt;These are some of Atel Akaad's best Lokians and they control the path to the temple.&lt;BR&gt;&lt;BR&gt;Cut the Lokian bloodshapers and bloodspillers down and link up with Degare near the Barbican. He's got more orders for you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1022">
+        <Page social="4">See these signets? They're argon in origin. Few realize the link between Atel Akaad and the argons.&lt;BR&gt;&lt;BR&gt;If Killian's working with them, we would all do well to be afraid.&lt;BR&gt;&lt;BR&gt;Fine work with the Lokians, by the way, but we're not done yet.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" villagerId="1022">
+        <Page social="0">Did you kill the Lokians yet? We can't let the Atel Akaad dictate the pace of this battle!</Page>
+    </Text>
+</QuestDialog>

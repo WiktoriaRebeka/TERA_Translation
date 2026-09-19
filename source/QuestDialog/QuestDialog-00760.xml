@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1003">
+        <Page social="4">If Kaidun's army wasn't enough, now he has the Stalker Company mercenaries fighting for him.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:32#9#Stalker Company snipers} have arrows laced with a terrible curse that makes them far more deadly. If we could study the arrows, we might be able to better defend against them.&lt;BR&gt;&lt;BR&gt;If you kill any archers, would you bring back their arrows?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1003">
+        <Page social="4">Great work. Now we can find a way to neutralize the curse. There must be a way....</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1003">
+        <Page social="0">The arrows shot by the {@LinkCreature:32#9#Stalker Company snipers} in the mercenary camp are laced with a special curse.&lt;BR&gt;&lt;BR&gt;Please get me those arrows.</Page>
+    </Text>
+</QuestDialog>

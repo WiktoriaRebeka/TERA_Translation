@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I've located the fifth stone. Please join me in Highwatch.&lt;BR&gt;&lt;BR&gt;- Meren</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">The fifth stone, the Frost Stone, was located in Frost Reach.&lt;BR&gt;Launa helped you on the search for the stone, and in return, you helped Launa clear her workload so she could attend the banquet.&lt;BR&gt;&lt;BR&gt;She retrieved the Frost Stone and you placed it on the Eternal Crown.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, the next stone is called the Frost Stone.&lt;BR&gt;&lt;BR&gt;It happens to be near Frost Reach, so I contacted {@linkcreature:34#2005#Launa} for help.&lt;BR&gt;&lt;BR&gt;Take this Teleport Scroll. It will take you to Bleakrock. You can meet Launa there.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="34" prevId="3" villagerId="2005">
+        <Page social="0" voiceTypeId="0">Hey there! Hope this place isn't too cold for you.&lt;BR&gt;&lt;BR&gt;I think you already know, but Meren says that the stone that you're looking for is someplace here. We think...&lt;NEXTPAGEBUTTON&gt;"Is there something wrong?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That banquet in Velika, do you know when it starts?&lt;BR&gt;&lt;BR&gt;I'm so busy all the time that I really don't have a chance to attend parties or other events.&lt;BR&gt;&lt;BR&gt;Do you know what food they'll have? Will there be a play?&lt;NEXTPAGEBUTTON&gt;"I'm not sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oh...okay.&lt;BR&gt;&lt;BR&gt;I can help you out with finding that stone, but I'm really busy right now. Could you do me a favor in return, and help me out by completing some Guardian Legion Missions?&lt;NEXTPAGEBUTTON&gt;"Of course."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Really?&lt;BR&gt;Thanks!&lt;BR&gt;&lt;BR&gt;What I really need you to do is claim at least &lt;font color='#FF0000'&gt;four Guardian Legion Mission rewards&lt;/font&gt;. That should clear my schedule enough for me to help you find that Frost Stone.&lt;BR&gt;&lt;BR&gt;Let's meet back here in Bleakrock when we're done.&lt;BR&gt;&lt;BR&gt;See you soon!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="34" prevId="4" villagerId="2005">
+        <Page social="0" voiceTypeId="0">You're back!&lt;BR&gt;&lt;BR&gt;You really came through for me!&lt;NEXTPAGEBUTTON&gt;"Did you find the stone?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Of course!&lt;BR&gt;&lt;BR&gt;I never let anyone down.&lt;BR&gt;&lt;BR&gt;Here it is.&lt;BR&gt;&lt;BR&gt;Try it now!&lt;BR&gt;&lt;BR&gt;I want to see if the crown really changes!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="34" prevId="5" villagerId="2005">
+        <Page social="0" voiceTypeId="0">Wow!&lt;BR&gt;I can feel the aura...it's overwhelming!&lt;BR&gt;&lt;BR&gt;It's hard to believe that the crown isn't even complete yet. This should be the perfect gift for the goddess.&lt;BR&gt;&lt;BR&gt;Thanks for the help. The next time we meet, it'll be at the banquet!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Did you find the Frost Stone?&lt;NEXTPAGEBUTTON&gt;"Indeed I did."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Just one last stone to go.&lt;BR&gt;&lt;BR&gt;Take this. It should help you retrieve the final stone.&lt;BR&gt;I'll let you know when I have more information.&lt;BR&gt;May the goddess be with you.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="609" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2024">
+        <Page social="0">Try training the way the Highwatch Guards train.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2024">
+        <Page social="1" voiceTypeId="0">Would you like to try a tougher workout regimen?&lt;BR&gt;Come train with the Highwatch Guards!&lt;BR&gt;If you give it a try, I'll give you a little reward as an incentive.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="2024">
+        <Page social="1" voiceTypeId="0">How was it?&lt;BR&gt;&lt;BR&gt;Here is your reward.&lt;NEXTPAGEBUTTON&gt;"It was a good workout."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1134">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1134">
+        <Page social="4">I know Castanica is worried about durignite for their shields, but they're running short on ore needed for the war effort, too.&lt;BR&gt;&lt;BR&gt;&lt;B&gt;{@RawItem:206807}&lt;/B&gt; is in particularly short supply. The good news is that you don't need to excavate an entire mine to get to it. Bring me some {@RawItem:206807}, and all of Castanica will shout your praises.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1134">
+        <Page social="4">This is perfect. Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1134">
+        <Page social="0">With the mines shut down, Castanica is in crisis. Every little bit of {@RawItem:206807} helps, friend!</Page>
+    </Text>
+</QuestDialog>

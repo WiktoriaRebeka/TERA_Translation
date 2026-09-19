@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Ah, yes, I remember those: "the colorful tuwangi look without the stinky froggy smell." Those hats took lots of bloodhide, toira fibers...and one perfectly spherical fruit.&lt;BR&gt;&lt;BR&gt;Sadly, the fruit has been harvested to extinction. You can't find them anywhere! Don't waste your time looking.&lt;NEXTPAGEBUTTON&gt;"But I have one."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Wow! How long have you been holding onto this?&lt;BR&gt;&lt;BR&gt;No, not important. All I really need to know is which color hat you want!&lt;NEXTPAGEBUTTON&gt;"Well..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">That perfectly round fruit just doesn't exist. I don't even think you can get them at auction any more.&lt;BR&gt;&lt;BR&gt;If you don't already have the fruit, don't waste your time gathering the other components.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1010">
+        <Page social="0">The Witches of Vadoma at the Eldritch Academy appear to have gone insane. The popori asked you to find out why. You journeyed to the dark castle to help the witches.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1010">
+        <Page social="4" voiceTypeId="0">Pora Elinu is still occupied with their princesses' childish games, but the Eldritch Academy is in real peril. There's been some sort of incident there. Details are sketchy—this could all turn out to be an elaborate prank—so I need someone to investigate.&lt;BR&gt;&lt;BR&gt;I gather you're resourceful. Ask {@linkcreature:223#1054$$Dullulu} for directions to the academy.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1054">
+        <Page social="4" voiceTypeId="0">What? Eldritch Academy?&lt;BR&gt;&lt;BR&gt;I wouldn't go in there, if I were you. Not unless you want to be turned into a rat or some such.&lt;NEXTPAGEBUTTON&gt;"I'm under orders."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">If you insist.&lt;BR&gt;&lt;BR&gt;Follow the west road out of camp. Keep walking until you find {@linkcreature:222#1022$$Hamni}. If she's in a good mood, maybe she'll let you in.&lt;BR&gt;&lt;BR&gt;But don't complain to me if you get shoved through a demon portal!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" prevId="3" villagerId="1022">
+        <Page social="4" voiceTypeId="0">A prank? Is she insane? This is no hoax!&lt;BR&gt;&lt;BR&gt;The mistresses have gone mad! They're charming students left and right, and slaying any who resist. I've even heard rumors about demons!&lt;BR&gt;&lt;BR&gt;We must save the academy and as many lives as possible.&lt;BR&gt;Go up these stairs and meet with {@linkcreature:222#1005$$Wheelow}. Do what you can to help her!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="222" prevId="4" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Yay! An actual soldier-type person.&lt;BR&gt;&lt;BR&gt;Things are more dangerous than usual, and that's saying something for this place. Half the witches have gone mad and taken control of the castle. If we can't fix things, I'm afraid the federation will destroy us all pre-emptively.&lt;BR&gt;&lt;BR&gt;Don't bother pretending that never happens.</Page>
+    </Text>
+</QuestDialog>

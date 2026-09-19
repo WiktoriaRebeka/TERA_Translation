@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1026">
+        <Page social="4" voiceTypeId="0">It would be funny if it weren't so sad. This wasn't my first revenge scheme, you know.&lt;BR&gt;&lt;BR&gt;I sent my own son, Hector, after the ksharans. A vengeful shade got him, though a few other soldiers escaped.&lt;BR&gt;&lt;BR&gt;You're already avenging my husband. Can you avenge my son as well?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1026">
+        <Page social="6" voiceTypeId="0">Vengeance has concluded.&lt;BR&gt;&lt;BR&gt;Let the grieving begin...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1026">
+        <Page social="0">My son didn't deserve to die that way. I was a fool to send him into harm's way.</Page>
+    </Text>
+</QuestDialog>

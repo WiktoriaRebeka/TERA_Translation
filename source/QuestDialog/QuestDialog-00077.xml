@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1001">
+        <Page social="4">I'd love to have you stick around here, &lt;PCNAME&gt;, but I'll be honest: they need you more in the Blazing Vale.&lt;BR&gt;&lt;BR&gt;Check in at Firebase Intrepid. May your strength suffice!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1003">
+        <Page social="4">Every able-bodied soldier is a blessing around here, especially a proper &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Helone can put you to work. Talk to her, but talk to her slowly. She gets confused easily.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1004">
+        <Page social="4">Do not speak to me like I'm a child, &lt;PCCLASS:lcase&gt;. Such behavior diminishes us both.&lt;BR&gt;&lt;BR&gt;Also, think twice before paying any attention to Kimuk. He's a mouth-breather, pure and simple.</Page>
+    </Text>
+</QuestDialog>

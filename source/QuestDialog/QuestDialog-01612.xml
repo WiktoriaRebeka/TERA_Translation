@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="0">Paesyn tried to atone for Zolyn's capture, but ended up needing his own rescue. You calmed him down and helped get the supplies to Tempest Outpost.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2103">
+        <Page social="4">Paesyn went ahead. Crazy furball kept saying 'It's my fault. It's all my fault.'&lt;NEXTPAGEBUTTON&gt;"Where did he go?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">He grabbed those wrenches of his and charged across the valley, sabertooths be damned. Maybe he went to protect the supply wagons.&lt;BR&gt;&lt;BR&gt;Watch out for him. Great engineer, but not much of a fighter.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2131">
+        <Page social="4">&lt;PCNAME&gt;! I-I wanted to save her. I wanted to protect Zolyn, but I failed.&lt;BR&gt;&lt;BR&gt;My heart feels so heavy. I'm no hero. I just like to tinker with mechanical things. It's my fault she was captured.&lt;NEXTPAGEBUTTON&gt;"No, it's not."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Yes, it is. She needed a hero, not a friend.&lt;BR&gt;&lt;BR&gt;I bet we can find her together, though. You're strong and I'm brave, at least a little bit.&lt;BR&gt;&lt;BR&gt;Let's get these wagons moving, then find Zolyn.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" villagerId="3">
+        <Page social="0">(Various mechanical parts lie inside. They look like they would fit an airship.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="3" villagerId="2134">
+        <Page social="4">Thanks for getting the supplies to us. Our airships have been grounded and we're losing ground to the archdevas.&lt;BR&gt;&lt;BR&gt;Now, we are ready.</Page>
+    </Text>
+</QuestDialog>

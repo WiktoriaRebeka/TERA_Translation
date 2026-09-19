@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="4">We're here to support the team in the Dark Cathedral, but the {@LinkCreature:25#1081#remorseless hyenas} keep stealing the food. If we don't stop them, we'll have to choose between feeding and eating Elleon's team.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1006">
+        <Page social="4">Thank you! I wish I could say all of our problems are solved, but it seems there's just always something.</Page>
+    </Text>
+</QuestDialog>

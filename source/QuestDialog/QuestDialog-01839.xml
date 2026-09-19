@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; entered the inner chambers of the Temple of the Tree and found Emun, injured and weak. Emun told &lt;PCNAME&gt; that Anya and the rest of the children had been taken by the mysterious human into the Heart of Sorrow to finish the dream experiment. Dougal beleived that someone inside the Valkyon Federation was relaying information about the experiments to the argons.&lt;BR&gt;&lt;BR&gt;Entering the Heart of Sorrow, &lt;PCNAME&gt; once again faced the Argon Predator. But when it looked like the Argon Predator was going to kill &lt;PCNAME&gt;, Anya used the divine power of Tiaran the Sorrow Tree to protect her friend. But doing so bound her to Tiaran; Anya and the other children are now forever lost in their dreams.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="829" prevId="1" villagerId="109">
+        <Page social="0" voiceTypeId="0">(Anya would never abandon her Zo-Zo like this. Something is very wrong.)&lt;NEXTPAGEBUTTON&gt;"How long have you been here, Zo-Zo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Zo-Zo is still warm. The doll cannot have been here for very long.)&lt;NEXTPAGEBUTTON&gt;"Anya must be close!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="829" prevId="3" villagerId="103">
+        <Page social="0" voiceTypeId="0">We got separated from the rest of the guardians. Anya said the other children were in here, so I followed her in… but he was waiting. That soldier… I didn’t recognize him, but he’s working with the argons. He has the children, and he took Anya, too!&lt;BR&gt;&lt;BR&gt;They’re in the heart of the temple. He’s putting them in the dream chambers! I think he wants to complete the experiment… he wants to see what the children see!&lt;BR&gt;&lt;BR&gt;But if he does something wrong, the children might never wake up! You’ve got to stop him!&lt;NEXTPAGEBUTTON&gt;"You can count on me!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="829" prevId="4" villagerId="104">
+        <Page social="0">The argons and their mysterious ally are trying to complete the Mysterium’s research? That means they know all about the Sorrow Tree… and if they know about the tree… gods, no! There must be an argon spy in the Valkyon Federation!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, listen: You’re going to have to save the children on your own. The spy has to be my priority. There could be a whole network—they could bring down the entire federation! I’ll get your guardian friends to safety, but we might not make it back in time to help you. But I’ve seen what you can do… and I know you can rescue those kids!&lt;NEXTPAGEBUTTON&gt;"I… understand. Gods be with you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="829" prevId="5" villagerId="107">
+        <Page social="4" voiceTypeId="0">I'm sorry, &lt;PCNAME&gt;. It looks like Anya was trying to protect you...but the only way she could do that was to become one with Tiaran. Wake her up, and the Sorrow Tree dies...and takes the whole island with it.&lt;BR&gt;&lt;BR&gt;I share your pain...but there's still work to do. There's a traitor in the federation. And since you and I are the only ones who know that, you should come with me.&lt;NEXTPAGEBUTTON&gt;"There's nothing for me here now..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="599" prevId="6" villagerId="194">
+        <Page social="4" voiceTypeId="0">Thank you, &lt;PCNAME&gt;! Your bravery and swift action turned an impending disaster into a victory!&lt;BR&gt;&lt;BR&gt;And to think, this morning you were just a novice &lt;PCCLASS:lcase&gt;, volunteering to help collect bark samples! You know, I think I see now what Anya...what Anya saw in you. You truly are destined for greatness, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"But...I failed the children..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Now, you listen to me, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;You did all you could! The village is still here! The tree is still here! The entire island is still here, thanks to you! And that means, thanks to you, there's still hope for Anya!&lt;BR&gt;&lt;BR&gt;She may be sleeping...but she's alive. And she'll probably live as long as Tiaran does! All the children will. Maybe, one day, the Mysterium will discover a way to wake them up.&lt;NEXTPAGEBUTTON&gt;"I hope you're right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

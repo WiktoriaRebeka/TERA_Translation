@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1004">
+        <Page social="4">So you're &lt;PCNAME&gt;... Well, do you want to make some money? With all the Undead and monsters rampaging around here nowadays, people aren't able to collect ingredients. So we are in severe shortage of various materials.&lt;BR&gt;&lt;BR&gt;In other words, if some courageous person would bring back some ingredients, that person would be paid handsomely indeed. Ingredients like some &lt;FONT COLOR='#660000'&gt;verdra fibers&lt;/FONT&gt;. How about it?&lt;BR&gt;&lt;BR&gt;It doesn't matter whether you buy it and bring it over from another town or take it from the monsters. Just get some.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1004">
+        <Page social="4">I like the fact that you take care of the little things. It's good to work with another soldier. The volunteers and conscripts, they're good people but they're merchants and farmers. They don't have the discipline or the training.&lt;BR&gt;&lt;BR&gt;On the other hand, they've sure got the guts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1004">
+        <Page social="0">Verdra fibers? You get them from certain leafy plants. Just look around. You'll spot 'em easy enough.</Page>
+    </Text>
+</QuestDialog>

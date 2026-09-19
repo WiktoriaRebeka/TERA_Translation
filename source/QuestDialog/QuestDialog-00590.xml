@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1037">
+        <Page social="5">I was scouting the southern end of the lake and spotted some ludicrously dressed {@LinkCreature:23#11#malicious jesters} helping some {@LinkCreature:23#12#kobold mercenaries}.&lt;BR&gt;&lt;BR&gt;This is not an alliance we can allow. Put an end to it—and them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1037">
+        <Page social="5">Fighting kobolds is one thing—fighting those jesters is another. I hate those things.&lt;BR&gt;&lt;BR&gt;Thank you. We would have lost a lot of soldiers if you hadn't handled this.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Looking to make a little extra money on the side today, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} will tell you what's on the docket.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">I should probably ask one of the Hands to do this, but you're a thousand times more dependable.&lt;BR&gt;&lt;BR&gt;Would you mind going to Fyrmount today? If I send one of my own, I may never see them again. They'll either run scared or die painfully.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">I can't believe she sent you to {@Rgn:4001#Fyrmount}!&lt;BR&gt;&lt;BR&gt;What would've happened if we'd never met you? We'd probably all be dead.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;. I know I can be a real pain in the ass, but it's not an easy time to be alive. Just ask {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Elthienne promised a contact of ours that we'd take care of some of the threats in {@Rgn:4001#Fyrmount}, so hunt {@LinkCreature:4#1011#fangspawns} there. Oh, and they want proof of death. I have no idea what that means, so just bring back a toenail or something.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="7" villagerId="3002">
+        <Page social="5">You must be exhausted.&lt;BR&gt;&lt;BR&gt;Get payment from {@LinkCreature:63#3003#Elthienne} and then take a load off somewhere in town. You need your beauty rest, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Hunt {@LinkCreature:4#1021#sulphurous groknars} in {@Rgn:4001#Fyrmount} and bring back proof of their deaths for Elthienne's contact.&lt;BR&gt;&lt;BR&gt;I don't know what they want or why they want it, but I'm sure you'll find something—probably something disgusting.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="9" villagerId="3002">
+        <Page social="5">You know, {@LinkCreature:63#3003#Elthienne} isn't all that bad. I've probably said some things I shouldn't have.&lt;BR&gt;&lt;BR&gt;She's a tough cookie. I think it's hard for two tough cookies to work so closely together. Especialy when one of them is, like, old and crumbling—there I go again! I just can't help myself!&lt;BR&gt;&lt;BR&gt;I think she knows we're talking about her. You should go check.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Kill {@LinkCreature:4#2011#voracious fangspawns} in {@Rgn:4001#Fyrmount} and bring back proof of their deaths. Elthienne will need it for the person who hired us. Make sure it's something gruesome and oozing. That was sarcasm, by the way.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="11" villagerId="3003">
+        <Page social="4">You've done it again, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Here, you earned this.</Page>
+    </Text>
+</QuestDialog>

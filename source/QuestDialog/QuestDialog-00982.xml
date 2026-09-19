@@ -1,0 +1,41 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="4" voiceTypeId="0">The warring orcan camps in Feral Valley have joined forces and attacked the federation near Val Palrada. See Primus Lauma for details.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1007">
+        <Page social="5" voiceTypeId="0">This sudden orcan alliance has us backed into a corner. The only good news is that not all the orcans are part of it—some have even come here seeking asylum, if you can believe that.&lt;BR&gt;&lt;BR&gt;Grunath should have the latest intelligence on orcans. I'd like you to talk to him. We need more information to formulate a workable plan.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" prevId="3" villagerId="1025">
+        <Page social="5" voiceTypeId="0">If you want to know about the orcans, I think the young orcans who've taken refuge with us would be a better source of information than I am.&lt;BR&gt;&lt;BR&gt;What's amazing is that those young orcans are as intelligent as you and I.&lt;BR&gt;&lt;BR&gt;I'm as amazed as anyone. Anyway, go to Experior Outpost and speak with Kechaku. You might learn quite a bit.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="241" prevId="4" villagerId="1012">
+        <Page social="5" voiceTypeId="0">Our tribe has known for a long time that we must make peace with the federation, but those Black Claw fools...&lt;BR&gt;&lt;BR&gt;It's the {@LinkCreature:41#301#gula executors} who are behind a lot of the war-making. If you could drive them off, the Black Claws might not be so eager to interfere. When it's done, report to {@LinkCreature:241#1022$$Paduk}.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="241" prevId="5" villagerId="1012">
+        <Page social="5" voiceTypeId="0">Great job. Total confusion among those warmongers. Ha, ha, ha! &lt;BR&gt;&lt;BR&gt;But with their chief still alive, they'll reorganize soon enough. So their chief must die. It's that simple.&lt;BR&gt;&lt;BR&gt;Well, not exactly simple. Take this summoning flute and go to the tentacullar lair. It's on the right side when you follow the road south from the Experior Outpost.&lt;BR&gt;&lt;BR&gt;The lair is intentionally hard to spot, but once you're inside, use the summoning flute to contact our orcan collaborator, &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-38952.0625,63845.6445,1011.6011&amp;type=1&amp;name=Paxomnia"&gt;Paxomnia&lt;/A&gt;&lt;/font&gt;. He'll help you get rid of the chief.&lt;BR&gt;&lt;BR&gt;Bring the chief's head to our leader, Karba The Revered.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="241" prevId="6" villagerId="1026">
+        <Page social="5" voiceTypeId="0">You want to know about chief? Graatush tell you about chief. Go to southern Feral Valley and find {@LinkCreature:41#302#Badoask the Battlerager}. Kill him and bring his head to Karba the Revered.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="241" prevId="7" villagerId="1021">
+        <Page social="4" voiceTypeId="0">This can't be! What have you done? Badoask is not the chief of the war-makers! How can such terrible mistake have happened? What have you done?&lt;NEXTPAGEBUTTON&gt;"Gratuush said..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Gratuush?!&lt;BR&gt;&lt;BR&gt;Gratuush is the war-maker chief's right hand! He has tricked you into killing our great and good friend Badoask.&lt;BR&gt;&lt;BR&gt;Kill his master! Kill {@LinkCreature:41#303#Vadrask}, the war-maker chief!&lt;BR&gt;&lt;BR&gt;Bring me his head!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="241" villagerId="1021">
+        <Page social="0">I will say no more until I see {@LinkCreature:41#303#Vadrask}'s head.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="241" prevId="8" villagerId="1021">
+        <Page social="4" voiceTypeId="0">This is it—the head of the hated Vadrask. Now Gratuush and the rest of the orcans will lack the heart to attack the federation.&lt;BR&gt;&lt;BR&gt;Still, most will not listen to us, and still lust for war. They see us as cowards.&lt;BR&gt;&lt;BR&gt;The federation could strike now and win, but I hope for peace.&lt;BR&gt;&lt;BR&gt;Please take this letter to Prefect Lauma in Frontera. I have written my desire for peace. Perhaps the federation will see the truth of it there.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="241" villagerId="1021">
+        <Page social="0">Vadrask! I spit on his name. Have you his head?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="75" prevId="10" villagerId="1007">
+        <Page social="5" voiceTypeId="0">Honored Karba wants peace.&lt;BR&gt;&lt;BR&gt;Perhaps that's true, but his faction is a small minority of orcans. We can't spare the resources to help them unless we can guarantee that they could assume control.&lt;NEXTPAGEBUTTON&gt;"But they need our help!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Karba is eloquent, but his words alone won't convince Valkyon Command. I'll send the letter on to them in hopes they can see the advantages of having these orcans on our side.&lt;BR&gt;&lt;BR&gt;Don't hope too much, &lt;PCNAME&gt;. Sometimes I think our high commanders are afraid of peace.</Page>
+    </Text>
+</QuestDialog>

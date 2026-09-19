@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1034">
+        <Page social="4">The Raven Troops and argons are weaker than ever, and it's a perfect opportunity for us to reclaim the furnace.&lt;BR&gt;&lt;BR&gt;We must not waste it! Ask Primus Gahreed in Habere to release our strategic reserve.&lt;BR&gt;&lt;BR&gt;One more push, and we'll kick Thulsa out of the furnace!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="79" prevId="2" villagerId="1007">
+        <Page social="4">What welcome news, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;We'll do our best to seize this opportunity you've given us.</Page>
+    </Text>
+</QuestDialog>

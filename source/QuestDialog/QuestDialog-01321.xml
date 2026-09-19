@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">After General Kanmur's death, the goddess Kaia asked you to take over his mission. Thulsa appeared in Northern Shara, showing great interest in the egg that houses the sleeping god, Sikander. Kaia ordered you to find Isrenia, the spirit of the Staff of Isren, and ensure that Thulsa doesn't awaken Sikander.&lt;BR&gt;&lt;BR&gt;Your investigations in Darkquaver Woods showed Thulsa stirring up trouble for the federation, keeping them too busy to engage him directly. You thwarted the mekonaris' attempt to keep the Staff of Isren isolated and freed Isrenia. Isrenia warned you that Sikander was in great danger and asked you to carry her to him.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Kanmur was on his way to meet Isrenia in Darkquaver Woods.&lt;BR&gt;&lt;BR&gt;Now Kanmur is dead and Isrenia is missing. Kaia believes Kanmur's mission too vital to let lie.&lt;BR&gt;&lt;BR&gt;Go to Dragonfall and speak to Prefect Ghazi. Pick up Kanmur's trail and finish his mission.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="80" prevId="2" villagerId="1016">
+        <Page social="1" voiceTypeId="0">What? Kanmur's dead? Impossible! How? K-Killian! That fiend!&lt;BR&gt;&lt;BR&gt;How could he humiliate such an honorable soldier?&lt;NEXTPAGEBUTTON&gt;"We've no time for grief."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Of course. Forgive me. General Kanmur was like a father to me, but duty comes first.&lt;BR&gt;&lt;BR&gt;He was afraid—first time I've seen him scared in years. He took extra precautions. Said if anything happened to him, I should send someone to Thaqib at the Darkquaver Garrison to complete his mission. Start there.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" prevId="3" villagerId="1017">
+        <Page social="1" voiceTypeId="0">I was afraid of this. Kanmur seemed to know he was going to die. Blast! I should have gone with him! I'll gut whoever killed him!&lt;NEXTPAGEBUTTON&gt;"What was Kanmur doing here?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Sorry, just so furious about the general.&lt;BR&gt;&lt;BR&gt;He was looking for the Staff of Isren. Something about meeting some lass—had to meet her alone and wouldn't let me go with him. You know, our scouts spotted a strange group in the woods. I bet they were the ones who killed him.&lt;BR&gt;&lt;BR&gt;He went missing around the same time. His guards looked for him, but they're missing now too. The staff isn't far. It's in the Skyleaves.&lt;NEXTPAGEBUTTON&gt;"Did Kanmur leave anything?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Yes, a report, but his guards took it with them.&lt;BR&gt;&lt;BR&gt;This isn't good. We have to know what's in that report. The guards may be dead, but either way, the report might still be with them.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="255" prevId="4" villagerId="1152">
+        <Page social="1" voiceTypeId="0">(This soldier bears Kanmur's crest.)&lt;BR&gt;&lt;BR&gt;(He died after suffering numerous wounds.)&lt;NEXTPAGEBUTTON&gt;"Please let it be here..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">(You find the report!)&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;(Soaked in blood, the report is almost unreadable.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="255" prevId="5" villagerId="1153">
+        <Page social="1" voiceTypeId="0">What's this? Why is it covered in blood?&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Wait, this is my signature! General Kanmur needed this information about the Staff of Isren!&lt;BR&gt;&lt;BR&gt;How did it fall into your hands?&lt;BR&gt;&lt;BR&gt;Dead? All of them? A terrible loss for the federation.&lt;BR&gt;What about Neira?&lt;NEXTPAGEBUTTON&gt;"Neira?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Yes, Neira. She's my superior.&lt;BR&gt;&lt;BR&gt;Isrenia disappeared after an odd shield appeared around the staff. Kanmur went to investigate. When he didn't come back, Neira escorted the rest of his guards to the staff.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="255" villagerId="1153">
+        <Page social="0">I want to go back home. I would be there by now if it wasn't for Neira. How I miss Allemantheia.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="255" prevId="6" villagerId="1154">
+        <Page social="4" voiceTypeId="0">Be still. We are in no immediate danger, even though Kanmur's valiant soldiers are all dead.&lt;BR&gt;&lt;BR&gt;Did he arrange for this rescue?&lt;BR&gt;&lt;BR&gt;What? Assassinated? Kaiator must be reeling!&lt;BR&gt;&lt;BR&gt;Kanmur was a dear friend and a good soldier. Is his mission known?&lt;NEXTPAGEBUTTON&gt;"Kaia sent me to finish his work."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Most impressive.&lt;BR&gt;&lt;BR&gt;We must not let his death be in vain.&lt;BR&gt;&lt;BR&gt;Isrenia is sealed within the shield created by that device. The sikandaris called it the Ishlangu.&lt;BR&gt;&lt;BR&gt;At a glance, it looks like an argon design, but it's powered by sikandari and mekonari magic. We must pray they're not working together. The priests must die, but beware—Raugahark is no mere sikandari. Let Kaia guide our hands.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="255" prevId="8" villagerId="1154">
+        <Page social="1" voiceTypeId="0">Well fought, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The mana no longer flows to this contraption. Deactivate it and free Isrenia.&lt;BR&gt;&lt;BR&gt;She'll know what to do next.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="255" prevId="9" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Thank you for freeing me! I'm sorry I couldn't save Kanmur, but Killian's power outstrips mine.&lt;BR&gt;&lt;BR&gt;Now we must stop their wicked ritual before it's too late!&lt;NEXTPAGEBUTTON&gt;"What ritual? Why?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">My mistress, Isren, loved Sikander more than anything. She imbued her staff with part of her spirit, so I love him, too! After Isren died, Sikander fell into a deep sleep near Amena Quatla.&lt;BR&gt;&lt;BR&gt;Thulsa and Killian want to awaken him, but if their ritual succeeds, Sikander will come back as Kelsaik, a terrible monster—not as the god we knew and loved.&lt;BR&gt;&lt;BR&gt;I mustn't be spotted or Thulsa will kill me. Let me hide within you and we'll save Sikander.&lt;BR&gt;Let's go!</Page>
+    </Text>
+</QuestDialog>

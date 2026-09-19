@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="0">You gained the federation's trust by cleaning up the deva remnants and scions.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="4" voiceTypeId="0">We can't celebrate forever. Who knows when the scions will come back? We need reinforcements from the federation. But I also think that everyone should know what you've done for Crescentia.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1009">
+        <Page social="4" voiceTypeId="0">This is a report of what happened here.&lt;BR&gt;&lt;BR&gt;It also details your heroic contribution.&lt;BR&gt;Now, Velika will be able to track down the dark forces who threaten southern Arun.&lt;BR&gt;&lt;BR&gt;Thank you for your service.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1160">
+        <Page social="4" voiceTypeId="0">It's rare to see Jodoc write about anyone in such glowing terms. You certainly impressed him, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Deliver this little epistle to Samael. He's as hard to win over as Jodoc, but if anything can do it, it's this report.&lt;BR&gt;&lt;BR&gt;Well done, &lt;PCNAME&gt;. This is exactly the kind of action we need from all our soldiers right now.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Hmm. Well, this is quite a report. I guess you're not the keener I took you for. I underestimated you. I promise I won't do that in the future.&lt;BR&gt;&lt;BR&gt;We need more than just soldiers: We need leaders. Dougal thinks you're ready for a commission. I'm hardly going to argue against it, not after deeds such as these. Come, it's not every day you get to be a hero.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" villagerId="1137">
+        <Page social="0">Do you have something to report?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="5" villagerId="1138">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! What took you so long?&lt;BR&gt;Let's start the ceremony.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1138">
+        <Page social="4" voiceTypeId="0">Take this flying mount.&lt;BR&gt;&lt;BR&gt;This may be a little too much...but still.&lt;BR&gt;&lt;BR&gt;This will help you on your future missions.&lt;BR&gt;&lt;BR&gt;Keep up the good work.</Page>
+    </Text>
+</QuestDialog>

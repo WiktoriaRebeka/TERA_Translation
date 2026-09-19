@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1002">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870401'/&gt;&lt;BR&gt;You helped the soldiers who were recovering supplies in Lost Woods, and gathered more intelligence about the orcans' plans.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1002">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870401'/&gt;&lt;BR&gt;&lt;PCNAME&gt;, I need to return to the camp. You'll find the supply wagon down the road to the right. Please gather the supplies scattered around here and deliver them to Ketrath.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1026">
+        <Page social="4" voiceTypeId="0">Someone came, after all! But I think you're too late.&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Orcans. They captured the supplies we recovered...and my troops. Me, they left for dead.&lt;BR&gt;&lt;BR&gt;Could you track them down, and help my comrades escape?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" villagerId="1026">
+        <Page social="0">Time is short. Please hurry.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="3" villagerId="1040">
+        <Page social="4" voiceTypeId="0">Thank you. I was trying to make it back to Ketrath, but I got cut off.&lt;BR&gt;&lt;BR&gt;I escaped the orcans a little while ago...slipped away while they were distracted. But I saw where they took the rest of the unit...and I was going to get help. Looks like you're the help they need.&lt;BR&gt;&lt;BR&gt;Don't worry about me. I can make it now that the way is clear. Just get to the orcan camp and free my friends!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" prevId="5" villagerId="1041">
+        <Page social="4" voiceTypeId="0">You came for us!&lt;BR&gt;&lt;BR&gt;I'm all right...but please help my friend Milio. I heard him yelling earlier, so I know he's being held captive somewhere near this camp.&lt;BR&gt;&lt;BR&gt;I'll head back to the supply unit camp; I can make it on my own.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="6" villagerId="1042">
+        <Page social="4" voiceTypeId="0">Esere is alive? And Ketrath, too? Then it wasn't a total massacre...&lt;BR&gt;&lt;BR&gt;Where are they?&lt;NEXTPAGEBUTTON&gt;"Head back to camp."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I'll head over there and regroup with them.&lt;BR&gt;&lt;BR&gt;Before I go...I may have some useful information for you. The orcans in the Lost Woods have a chain of command. Look for groups of them, wearing red seals. &lt;BR&gt;&lt;BR&gt;Kill some of those orcans, collect their seals, and show them to Lapau...if he's still alive. Nobody knows more about orcans. If anyone can explain the significance of the red seals, it's Lapau.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Hello! How goes the resistance?&lt;BR&gt;&lt;BR&gt;What's that you have there? Ahh...an orcan branding seal! Orcans use them to mark their slaves.&lt;BR&gt;&lt;BR&gt;Hmm, that's interesting. These are magical! The master channels power through the seal to the slave!&lt;NEXTPAGEBUTTON&gt;"Find a place to hide."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Heh! You're funny! I am hiding from the orcans! I'm just better at it than anyone else!&lt;BR&gt;&lt;BR&gt;Why, hello! Friend of yours?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="87" villagerId="1009">
+        <Page social="0">There's nothing that would interest you!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="87" prevId="8" villagerId="1037">
+        <Page social="4" voiceTypeId="0">Good work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I've been doing some research. This wasn't just a supply raid. The orcans have a leader, and that leader organized them and sent them to attack Pora Elinu. But being orcans, their tactics were crude and clumsy.&lt;NEXTPAGEBUTTON&gt;"But sadly effective."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Right. Listen, I've got a new assignment for you. I've got another scout deep in orcan-controlled territory, looking for a linchpin—a weakness we can exploit to drive them out of the Lost Woods.&lt;BR&gt;&lt;BR&gt;You're going to provide me with another diversion. Pull that off, and you'll have earned my respect.&lt;BR&gt;&lt;BR&gt;In the meantime, here. Consider it a prize for getting here before me.</Page>
+    </Text>
+</QuestDialog>

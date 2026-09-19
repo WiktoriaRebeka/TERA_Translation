@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1004">
+        <Page social="0">You met forest keeper Maon, who maintained good relations with the fey in the Fey Forest. Maon arranged a meeting with Lillix, a leader among the faeries. She told you that Seravy, leader of the unicorns, had undergone a mysterious change and was now breaking the peace he had made between the fey and Lumbertown loggers.&lt;BR&gt;&lt;BR&gt;At Lillix's request, you gave Seravy a substance that cleared his mind. Seravy promised to do what he can to restore the peace, as did Volos, the leader of the centaurs.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1004">
+        <Page social="0">Klaon sent you to find Maon? Good—maybe Maon can talk some sense into the faeries.&lt;BR&gt;&lt;BR&gt;You'll probably find Maon at his cabin. It's over the west bridge—just follow the road.&lt;BR&gt;&lt;BR&gt;Oh! I almost forgot. Give him this bundle of flowers. For some reason, he really likes 'em.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="0">Artful graceblooms! How did you know! So many, many uses!&lt;BR&gt;&lt;BR&gt;You can't fool me—I know Klaon sent you. And let's see...that means he wants the bloodshed to end...and that he hasn't talked to Lillix lately.&lt;NEXTPAGEBUTTON&gt;"Who's Lillix?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1002">
+        <Page social="4">Gracebloom essence! What a lovely gift! Our troubles are not easily solved, but if Maon trusts you, then so do I.&lt;BR&gt;&lt;BR&gt;Until recently, it was {@LinkCreature:2#206#Seravy} who made the peace between the woodcutters and the fey, but he has changed. He's inciting the fey to all-out war against the federation races.&lt;NEXTPAGEBUTTON&gt;"Is there something I can do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Actually...oh, yes! Clever Maon! The gracebloom essence itself is the solution!&lt;BR&gt;&lt;BR&gt;Seravy is exceptionally aggressive now, but if you can get close enough to him with the gracebloom essence, it should clear his mind long enough for him to return to his old self.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, {@LinkCreature:2#206#Seravy} is the key to restoring the peace. We are depending on you.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" prevId="4" villagerId="1037">
+        <Page social="0">In Isren's name, I thank you for restoring my mind. I will do what I can to rebuild the peace I made so long ago. I hope your federation and the loggers are willing to do the same.&lt;BR&gt;&lt;BR&gt;Begin the healing process by speaking to Volos; he can convey your message of peace to the fey. Take with you one of my tears, as proof of my blessing.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="202" prevId="5" villagerId="1012">
+        <Page social="0">If Seravy trusted you with something so valuable as one of his tears, then your words may be worth heeding.&lt;BR&gt;&lt;BR&gt;Very well, &lt;PCRACE:lcase&gt;, I will instruct the fey to be more tolerant of the woodcutters. It is just a pity that more of them do not share your sense of honor.</Page>
+    </Text>
+</QuestDialog>

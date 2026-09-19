@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1004">
+        <Page social="4">How dare those twisted monstrosities call themselves "Blood Guards"—it sickens me.&lt;BR&gt;&lt;BR&gt;Every time I see them pretend to be real soldiers, I die a little inside. They're monsters!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, show them what a real soldier looks like. Hunt down the {@LinkCreature:33#12#Blood Guard lancers} and {@LinkCreature:33#62#champions}, and take their emblems. They don't deserve to wear them!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1004">
+        <Page social="4">I'm gonna burn every one of these emblems personally, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1004">
+        <Page social="0">{@LinkCreature:33#12#Blood Guard lancers} and {@LinkCreature:33#62#champions} are mocking us with those emblems. Are you gonna put up with that?</Page>
+    </Text>
+</QuestDialog>

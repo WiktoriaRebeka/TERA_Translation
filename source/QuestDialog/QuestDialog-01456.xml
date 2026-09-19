@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="59" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="0">Upon arriving at Velika, &lt;PCNAME&gt; got fully prepared to start out as a new member of the Valkyon Federation.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="0" voiceTypeId="0">oh, one last thing. Are you close to running out of space for items acquired on your travels?&lt;BR&gt;&lt;BR&gt;Visit Getty in Freedom Plaza to expand your inventory. Your first expansion is free, and the rest are reasonably priced. But please make sure to save some money for your next pegasus flight!&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;You can expand your inventory.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1228">
+        <Page social="4" voiceTypeId="0">Hey there! I offer an "Inventory Expansion" service for people just like you. First time's on the house!&lt;BR&gt;If you're satisfied, you're welcome to come back and purchase my larger expansions!&lt;BR&gt;&lt;b&gt;&lt;font color='#660000'&gt;&lt;BR&gt;==================================&lt;BR&gt;You can expand your inventory.&lt;BR&gt;==================================&lt;/font&gt;&lt;/b&gt;</Page>
+    </Text>
+</QuestDialog>

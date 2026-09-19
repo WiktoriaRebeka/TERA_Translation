@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1038">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1038">
+        <Page social="4">Imps are b-bound by magic to protect the faeries. The b-beasts of the forest turned against the fey; my b-brothers b-battered them b-back.&lt;BR&gt;&lt;BR&gt;Strange b-blue b-beasts invade and our numbers shrink from b-battle and illness. Too many b-brothers lost.&lt;BR&gt;&lt;BR&gt;I don't know if Jurik and Rabak have fallen to the sickness or they're just too stubborn; they'd stay out there until the sickness takes them.&lt;BR&gt;&lt;BR&gt;You, you can help. Federation &lt;PCCLASS:lcase&gt;, find Jurik!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1031">
+        <Page social="4">Inmaru b-bleats too much. We're b-brave fighters. No b-beasts can stop us.&lt;BR&gt;&lt;BR&gt;And many b-beasts still need stopping.</Page>
+    </Text>
+</QuestDialog>

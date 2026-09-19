@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1004">
+        <Page social="4">Gulas may be bad, but sometimes their pets are worse.&lt;BR&gt;&lt;BR&gt;Stupid things. Get rid of the {@LinkCreature:8#2061#auric imps} and {@LinkCreature:8#2011#armored hyenas}.&lt;BR&gt;&lt;BR&gt;One less thing for us to worry about.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1004">
+        <Page social="4">Glad they're dead. Now we can concentrate on the gulas themselves.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1004">
+        <Page social="0">No time for imps and hyenas? If a hyena starts sniffing at your corpse, your ghost is gonna hope someone else has time for imps and hyenas!</Page>
+    </Text>
+</QuestDialog>

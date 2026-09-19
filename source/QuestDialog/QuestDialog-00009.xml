@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="4">We actually overachieved a bit on our barbecue, &lt;PCNAME&gt;. We've got extra meat, and it'll go to waste unless we salt it.&lt;NEXTPAGEBUTTON&gt;"For taste?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No, to preserve the meat against spoiling. Nothing beats fresh, tasty barbecue, of course. It just falls off the bone, and you get the juice all over your fingers, and...&lt;BR&gt;&lt;BR&gt;...Where was I? Oh! Preserving the leftover meat. Verus has the salting gear. Can you take the rest of the meat to him?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1004">
+        <Page social="4">Extra food? Nice problem to have, I suppose. Sure, I can get you started.&lt;BR&gt;&lt;BR&gt;Here's an empty barrel and some salt. Get to work!&lt;BR&gt;&lt;BR&gt;Once you've salted the meat, give it to &lt;b&gt;Einna&lt;/b&gt;—she's one of the refugee leaders. She'll distribute it as needed.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="3" villagerId="1043">
+        <Page social="4">First you give us a feast, and now you protect us against famine. We were right to take refuge in Lumbertown after all.&lt;BR&gt;&lt;BR&gt;On behalf of all of us, thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" villagerId="1043">
+        <Page social="0">You preserved the extra meat! Thank you, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

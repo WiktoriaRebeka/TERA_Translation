@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">I have some equipment upgrades for you, if you're interested.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Marmundam opened the Highwatch armory to help outfit you for your next adventure.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2024">
+        <Page social="0" voiceTypeId="0">Only the best gear will do for a true friend like yourself.&lt;BR&gt;&lt;BR&gt;Here, take this weapon box.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2024">
+        <Page social="0" voiceTypeId="0">Before you equip your new weapon, you'll first have to tune its enchantments to your combat style. &lt;BR&gt;&lt;BR&gt;Selecting &lt;font color='#FF0000'&gt;superior enchantment effects&lt;/font&gt; is the best way to increase your item level, but you probably already knew that.</Page>
+        <Page social="0" voiceTypeId="0">You'll need some new armor to go with that fine weapon of yours!&lt;BR&gt;&lt;BR&gt;Remember, select &lt;font color='#FF0000'&gt;superior enchantment effects&lt;/font&gt; whenever possible, and you'll become much stronger.</Page>
+    </Text>
+</QuestDialog>

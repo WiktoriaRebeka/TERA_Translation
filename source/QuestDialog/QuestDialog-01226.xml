@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1001">
+        <Page social="4">Thulsa's at it again! The beasts in Frostclaw Crag turned on our forces and hit them hard. That means there's another damned pylon out there.&lt;BR&gt;&lt;BR&gt;Link up with Ghabar and take your lead from him, but I want that pylon destroyed!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1037">
+        <Page social="4">Thenuvia's right. These draelkar pylons aren't hard to spot, but they're not easy to get to.&lt;BR&gt;&lt;BR&gt;This one's guarded by Sihranar remnants. I don't know what possessed them to side with Thulsa, but with the right plan, it won't matter.&lt;BR&gt;&lt;BR&gt;Let me get my thinking horns on and let's plan our mission.</Page>
+    </Text>
+</QuestDialog>

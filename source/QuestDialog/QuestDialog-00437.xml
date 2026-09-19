@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1003">
+        <Page social="4">I'm hearing rumors from every direction. Something about a &lt;font color='#660000'&gt;Ceremony of Blessing&lt;/font&gt;? And this new camp: &lt;font color='#660000'&gt;Alethea's Last Hope&lt;/font&gt;. I think that should be your next stop.&lt;BR&gt;&lt;BR&gt;Lene headed that way. Maybe she'll know what to do.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1023">
+        <Page social="4">Hmm? Korwyn sent you, did he? Good to know he's all right—I haven't been able to check in with him lately. I ran into federation soldiers, and they brought me here.&lt;NEXTPAGEBUTTON&gt;"Korwyn mentioned a Ceremony of Blessing?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ah! He heard that much at least? Good. I'm glad some news is still getting out there. I'll get into the specifics in a bit.&lt;BR&gt;&lt;BR&gt;What you need to know now is that we have uninfected vampirs helping us—Uninfected, so don't go flashing that weapon around, okay?&lt;BR&gt;&lt;BR&gt;We're going to get to the bottom of this, soon.</Page>
+    </Text>
+</QuestDialog>

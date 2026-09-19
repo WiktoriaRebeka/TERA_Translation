@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1022">
+        <Page social="4">In an effort to secure supply routes and move military units without argon interference, we employed castanic engineers to tunnel into Granarkus.&lt;BR&gt;&lt;BR&gt;I'll teleport you to {@LinkCreature:249#1015} when you're ready. Give him these orders and help him however you can. Let's get back to the fight.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1015">
+        <Page social="4">We just blasted the last of the rock a few hours ago.&lt;BR&gt;&lt;BR&gt;The argons made regular supply and relief missions difficult to execute, particularly getting into and out of Kanstria.&lt;NEXTPAGEBUTTON&gt;"What's that? A town?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Kanstria? Yeah. Lots of castanics settled there. I heard an elin call it "Little Castanica."&lt;BR&gt;&lt;BR&gt;Unfortunately, the argons disrupted the flight platform, so they've been stranded there. I want you to take this flight stone to their flight manager. That'll get them going again.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="3" villagerId="1006">
+        <Page social="6">Oh, a new flight stone! Wonderful!&lt;BR&gt;&lt;BR&gt;Now we can resume our flights to Kaiator or Zulfikar fortress. Please accept my thanks.</Page>
+    </Text>
+</QuestDialog>

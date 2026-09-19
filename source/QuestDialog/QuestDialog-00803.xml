@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
+        <Page social="4">Bleakrock's in decent shape, &lt;PCNAME&gt;. We can handle things ourselves. Some of the field sites are in more dire need than we are.&lt;BR&gt;&lt;BR&gt;Head south of here to Icebase Stalker and report to Chaarisa. They're late checking in, so make haste.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1001">
+        <Page social="4">Nunahd worries too much! Yes, we're up to our necks in wendigos, but we're holding our own.&lt;BR&gt;&lt;BR&gt;You look like a veteran. At least Nunahd sent someone useful. Tell you what, you speak with Lalash and see what he needs.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1005">
+        <Page social="4">Our kind is not meant for this environment. I'm from a bloody desert!&lt;BR&gt;&lt;BR&gt;I like the heat. I'm half-tempted to set fire to myself just to warm up my bones.&lt;BR&gt;&lt;BR&gt;Yes, we're mining here, but the shards are running out, to say nothing of wendigo hostilities. If you're looking for action, you came to the right place.</Page>
+    </Text>
+</QuestDialog>

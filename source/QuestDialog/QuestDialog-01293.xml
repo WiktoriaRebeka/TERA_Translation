@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1019">
+        <Page social="4">You see these poor souls? Not napping! The sickness makes them writhe in pain! I'm doing all I can do.&lt;BR&gt;&lt;BR&gt;You? You can bring plants for medicine. I've tried plants from all over—now it's time to try something local. Spiritlace, it's called. Grows north of here.&lt;BR&gt;&lt;BR&gt;You pick the flowers; I heal the faeries. Got it?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1019">
+        <Page social="4">Spiritlace will ease the pain. With my alchemical skills, I bet I can make something to cure the sickness, too.&lt;BR&gt;&lt;BR&gt;Good thing you brought so much!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" villagerId="1019">
+        <Page social="0">Spiritlace. Little flower on the ground. Get picking!</Page>
+    </Text>
+</QuestDialog>

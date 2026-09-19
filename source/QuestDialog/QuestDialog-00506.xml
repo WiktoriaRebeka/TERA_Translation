@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1039">
+        <Page social="0">Justicars ordered you to kill the weapons supplier hiding in the Tenebrous Mines.&lt;BR&gt;&lt;BR&gt;You pursued the hooded figure, but when you caught him, hypnotic energy permeated the room and you fought! Before you could finish the Black Hood, Jelena intervened and you discovered the Black Hood to be none other than a hypnotized Elleon.&lt;BR&gt;&lt;BR&gt;The supply base in the Tenebrous Mines was an elaborate ruse to kill Elleon, and you were to do the dark deed.&lt;BR&gt;&lt;BR&gt;In Velika, you were chastised by Samael, who clearly wanted Elleon dead.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1039">
+        <Page social="4" voiceTypeId="0">Now that we have the weapons, we have to cut off the source. We've heard about someone they call the Black Hood—an infamous arms smuggler. I tracked him down while you were gone. If you go through a &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7003#-30657.6289,-34483.0313,-1932.3782&amp;type=1&amp;name=teleportal"&gt;teleportal&lt;/A&gt;&lt;/font&gt; in the Halls of Utterdark, you'll find him.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1039">
+        <Page social="4" voiceTypeId="0">Kill the Black Hood and report to {@linkcreature:65#1100#Bruke} in Chebika when the deed is done.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" prevId="3" villagerId="1039">
+        <Page social="4" voiceTypeId="0">Listen closely, &lt;PCNAME&gt;. Above all else, at any cost, you are to kill the Black Hood—no matter who it is. They're a threat to the federation. If Samael wasn't watching out for us, they'd probably have half our enemies encamped outside Velika's gates. Do your duty. Take the Black Hood out!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="421" prevId="4" villagerId="1002">
+        <Page social="4" voiceTypeId="0">This was a trap.&lt;BR&gt;&lt;BR&gt;Samael...&lt;BR&gt;&lt;BR&gt;Ah, excuse me. I'm Elleon.&lt;BR&gt;I was investigating this place to identify traitors of the federation.&lt;BR&gt;&lt;BR&gt;Jelena told me about you, &lt;PCNAME&gt;. If it's not too much of a trouble, can you help me?&lt;NEXTPAGEBUTTON&gt;"What kind of help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Here's what we'll do. Report back and tell them that the Black Hood got away. Don't let on that you know who I am. Let's see how they react, what their next move is. We'll meet up again in Velika.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="65" prevId="5" villagerId="1100">
+        <Page social="4" voiceTypeId="0">You what? Missed him?! You missed and he got away? How? Why aren't you badly wounded?&lt;BR&gt;&lt;BR&gt;You've done it now. &lt;NEXTPAGEBUTTON&gt;"..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">General Samael will have your guts for garters.&lt;BR&gt;&lt;BR&gt;Get out of here and report back to the general.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1137">
+        <Page social="12" voiceTypeId="0">He's not dead?! Did Lupus not make it clear that we needed you to kill him? This was our opportunity.&lt;NEXTPAGEBUTTON&gt;"Well, I did destroy the supply base."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12" voiceTypeId="0">Bah! Like that matters.&lt;BR&gt;&lt;BR&gt;Just...just get out! Damn!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1166">
+        <Page social="4" voiceTypeId="0">He was angry, was he? Even though you destroyed the entire supply base, such as it was?&lt;BR&gt;&lt;BR&gt;It's as I thought, then. He was targeting me. The "supply base" was a ruse! That means we're on the right path, though. Samael's protecting the Scions of Lok—but why?&lt;NEXTPAGEBUTTON&gt;"Perhaps he's been bribed?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Doubtful. Samael's a brute, but he considers himself honorable. He'd never accept a bribe, though that doesn't mean he isn't getting something out of an arrangement. We need proof, if we're to get to the bottom of this. The investigation will continue, but remain cautious. Samael's suspicions will not be easily allayed in the future.</Page>
+    </Text>
+</QuestDialog>

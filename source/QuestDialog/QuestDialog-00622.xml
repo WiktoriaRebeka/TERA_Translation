@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1019">
+        <Page social="4">Please eliminate the {@LinkCreature:24#13#sly runekeepers}. They're cooperating with the kulkari and guarding the Conspiracy Culprits. Bring back their horns after you kill them.&lt;BR&gt;&lt;BR&gt;Their horns are very valuable. I need to be compensated for almost losing my life.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1019">
+        <Page social="5">Great! I feel safer, really. Thanks.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1019">
+        <Page social="0">Not finished yet?</Page>
+    </Text>
+</QuestDialog>

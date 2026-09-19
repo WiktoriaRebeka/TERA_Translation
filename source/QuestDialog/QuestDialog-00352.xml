@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1028">
+        <Page social="4">I don't care what Dulari says. Walking trees are not natural in any way. And the ones here are even creepier than those by his campsite. Back home we've got nothing like these {@LinkCreature:13#300932#Horned Ghilliedhus}.&lt;BR&gt;&lt;BR&gt;Jirash got first pick of these assignments, and he doesn't care at all that I've got to push the ghilliedhus back from our perimeter as often as is necessary. You'd be doing me a solid if you could take out a couple while performing your own duties.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1028">
+        <Page social="4">I've got something to ask you: did you think those ghilliedhus were more or less aggressive than the ones north of here?&lt;BR&gt;&lt;BR&gt;No real difference? That's what I keep telling them! The researchers are convinced that the ones around here are weakening in some way.&lt;BR&gt;&lt;BR&gt;Doesn't change our mission—anything threatening our base must be dealt with, as fast as possible.</Page>
+    </Text>
+</QuestDialog>

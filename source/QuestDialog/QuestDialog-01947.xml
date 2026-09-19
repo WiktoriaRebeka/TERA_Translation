@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="4" voiceTypeId="0">I'm Skeal, chief of the Unified Theory Institute.&lt;BR&gt;&lt;BR&gt;I've heard you've been very helpful with our research, so I wanted to thank you in person.&lt;BR&gt;&lt;BR&gt;Your contribution to our lab is also a contribution to the Valkyon Federation. I look forward to many great things from you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1701">
+        <Page social="4" voiceTypeId="0">Your courage means so much for our research. Thank you.</Page>
+    </Text>
+</QuestDialog>

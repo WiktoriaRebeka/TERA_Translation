@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1005">
+        <Page social="4">We set up a forward deep inside Azarel's Labyrinth. In retrospect, it was hubris to think we could sustain a camp that close to the enemy. Their last report told of enemy forces massing to attack.&lt;BR&gt;&lt;BR&gt;Unfortunately, the camp's centurion has a copy of our battle plans. If those plans fall into enemy hands, we're doomed.&lt;BR&gt;&lt;BR&gt;Take a group of reliable fighters to the &lt;font color='#660000'&gt;Advance Camp&lt;/font&gt; in Azarel's Labyrinth Depths and destroy those plans.&lt;BR&gt;&lt;BR&gt;Speed is of the essence, so go see {@LinkCreature:209#2000$$Tulutulu}. He can send you down to the Depths immediately.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="2000">
+        <Page social="4">In a hurry, eh? I can teleport you to Azarel's Labyrinth Depths instantly for a small fee.&lt;BR&gt;&lt;BR&gt;No muss, no fuss. I highly recommend it. The long way can be treacherous.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" prevId="3" villagerId="1026">
+        <Page social="0">(The centurion's body shows grievous wounds from a pitched battle.)&lt;BR&gt;&lt;BR&gt;(Your search reveals a leather pouch secreted away beneath his armor, with the battle plans inside.)&lt;BR&gt;&lt;BR&gt;(Hearing a sound nearby, you stuff the plans in your mouth, chew furiously, and swallow.)</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="608" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1705">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1705">
+        <Page social="4">Jax hires only the best. Our people are our best asset.&lt;BR&gt;&lt;BR&gt;And we need some help hiring...hiring workers who'll do anything for the organization, if you know what I mean. See what you can find around Cutthroat Harbor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1707">
+        <Page social="4">A job with Jax?&lt;BR&gt;&lt;BR&gt;Beats starving. I'm in.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1708">
+        <Page social="4">Are you kidding? I'd kill for a job!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="62" prevId="4" villagerId="1705">
+        <Page social="4">For what we have in mind, those hobos are perfect.&lt;BR&gt;&lt;BR&gt;Take your reward, and remember: this is a labor-intensive industry. We always need more workers who'll do whatever it takes.</Page>
+    </Text>
+</QuestDialog>

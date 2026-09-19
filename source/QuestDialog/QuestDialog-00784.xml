@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1011">
+        <Page social="0">Talk about a "target-rich environment." We've been trying to push into the deeper levels, but those Blood Guards are tough nuts to crack.&lt;BR&gt;&lt;BR&gt;We need some serious &lt;PCNAME&gt;-style disruption, in other words.&lt;BR&gt;&lt;BR&gt;Take out the {@LinkCreature:33#11#Blood Guard berserkers} and {@LinkCreature:33#61#reapers}. Then we can follow up with a proper advance.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1011">
+        <Page social="0">Victory for Valkyon! I'll prepare the troops to seize the lower floors.</Page>
+    </Text>
+</QuestDialog>

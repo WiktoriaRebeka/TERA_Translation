@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1037">
+        <Page social="4">We must get someone inside the garden and stop the argons from getting a hold of the Everbloom!&lt;BR&gt;&lt;BR&gt;Quickly speak to Doran, though—the Mysterium has something they say will help you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1010">
+        <Page social="4">&lt;PCNAME&gt;, the Mysterium is very interested in how the argons penetrated Isren's garden.&lt;BR&gt;&lt;BR&gt;Take this monitoring device inside and keep it with you at all times. It will give the researchers out here information about the argons you encounter.&lt;BR&gt;&lt;BR&gt;That way, if we have to send someone else in...&lt;BR&gt;&lt;BR&gt;Oh! I'm sure you'll do fine.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" prevId="3" villagerId="1037">
+        <Page social="4">Are you ready? The entrance is ahead on the left.&lt;BR&gt;&lt;BR&gt;If you can keep up, I'll guide you there. Try not to get lost.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="254" prevId="4" villagerId="1039">
+        <Page social="4">You made it! This teleportal and your key will take you inside the garden.&lt;BR&gt;&lt;BR&gt;I can see the way is clear for you just beyond the entrance, but trouble is just beyond that.&lt;BR&gt;&lt;BR&gt;We're counting on you, &lt;PCCLASS:lcase&gt;. Find and destroy whatever the argons have sent in there.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="254" prevId="5" villagerId="1037">
+        <Page social="4">Doran and I were monitoring you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I'm so relieved knowing the garden and the Everbloom are safe.&lt;BR&gt;&lt;BR&gt;Do you know who else will be excited by this news? Tanseril in Scythera Fae. Go tell him!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="81" prevId="6" villagerId="1028">
+        <Page social="4">You saved not only a sacred memorial to our goddess, but the source of fey magic.&lt;BR&gt;&lt;BR&gt;I can't even fathom what would have happened to Seeliewood, or to Shara, if you hadn't stopped the argons. Can you imagine?&lt;BR&gt;&lt;BR&gt;Let's hope we never have to find out.</Page>
+    </Text>
+</QuestDialog>

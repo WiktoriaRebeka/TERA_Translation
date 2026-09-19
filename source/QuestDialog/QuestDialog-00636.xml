@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1008">
+        <Page social="4">Lok Fanatics and their {@LinkCreature:25#1031#dread knights} are wreaking havoc on the path to the cathedral, making it impossible for us to send reinforcements. I could have followed Elleon if the beasts weren't there. Take care of them for me, will you?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1015">
+        <Page social="4">So fast? Fantastic!</Page>
+    </Text>
+</QuestDialog>

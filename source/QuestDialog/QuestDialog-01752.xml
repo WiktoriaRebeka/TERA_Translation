@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="6000">
+        <Page social="4" voiceTypeId="0">If you came to get Titus, I'll tell you the same thing I told the others. He the best engineer we have, and we're not sending him back to war!&lt;NEXTPAGEBUTTON&gt;"Please! For the Goddess's sake!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">For the Goddess? Hmm...alright. But we'll need something in return&lt;BR&gt;&lt;BR&gt;The Iron Thorn orcans hijacked our shipment of Pure Steel Ingots. You go and get that some back, and we'll let Titus go with you.&lt;BR&gt;&lt;BR&gt;If they're not keeping them in loot piles, they'll probably have the ingots on them.&lt;BR&gt;&lt;BR&gt;Orcans have poor organizational skills.&lt;NEXTPAGEBUTTON&gt;"Alright."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="1" villagerId="6000">
+        <Page social="4" voiceTypeId="0">Wow! You actually went and did it!&lt;BR&gt;&lt;BR&gt;I mean, I knew you could do it. Well done.&lt;BR&gt;&lt;BR&gt;I hereby give my consent to a temporary leave of absence for Titus. But I'm trusting you to bring him back in one piece!&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" villagerId="6000">
+        <Page social="0">Look, even if it's for the Goddess, we can't just let him go without something in return.&lt;BR&gt;&lt;BR&gt;Get those ingots!</Page>
+    </Text>
+</QuestDialog>

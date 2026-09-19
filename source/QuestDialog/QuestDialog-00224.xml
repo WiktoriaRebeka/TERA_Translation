@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1011">
+        <Page social="4">Gulas are cannibals, and their whole society is ruled by their chefs. But that doesn't mean they're picky eaters.&lt;BR&gt;&lt;BR&gt;They're consuming the &lt;font color='#660000'&gt;remains&lt;/font&gt; of our fallen comrades, good soldiers who gave everything for the federation.&lt;BR&gt;&lt;BR&gt;That's no Dream; it's a nightmare. Recover the bodies so we can give them a proper burial.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1011">
+        <Page social="4">Thank you, &lt;PCNAME&gt;. The Swords of Kaia have a special ceremony to honor the fallen, but it's more meaningful if we have the actual remains.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1011">
+        <Page social="0">Any luck finding our fallen brethren?</Page>
+    </Text>
+</QuestDialog>

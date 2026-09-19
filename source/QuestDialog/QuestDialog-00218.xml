@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="4">Since the mugatos are pests, maybe a pest-removal solution is what's called for.&lt;BR&gt;&lt;BR&gt;A mugato marks its territory with a mixture of bones from their victims and their "leavings."&lt;BR&gt;&lt;BR&gt;Good thing you're not the glamorous type, &lt;PCNAME&gt;. 'Cause we need what's in those those &lt;font color='#660000'&gt;mugato piles&lt;/font&gt;. &lt;NEXTPAGEBUTTON&gt;"You're kidding, right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Mugatos hate the smell of mugato musk as much as we do. That's why they mark their territory with it.&lt;BR&gt;&lt;BR&gt;Ideally, we'd just rub the stuff all over ourselves. But that wouldn't exactly endear me to the troops, would it?&lt;BR&gt;&lt;BR&gt;We could spread it around the base perimeter, though. Mark our own territory, if you will.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1008">
+        <Page social="4">That's fine, &lt;PCNAME&gt;. I know you succeeded. Suffice it to say that it's obvious you're carrying plenty of mugato musk.&lt;BR&gt;&lt;BR&gt;The lid's on tight, right? No cracks in the bottle? No residue on the outside?&lt;BR&gt;&lt;BR&gt;Maybe just leave the bottle there. No need for you to get any closer. Really.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1008">
+        <Page social="0">Look, I don't like it any more than you do. But I'd rather dig through mugato feces than become mugato feces, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

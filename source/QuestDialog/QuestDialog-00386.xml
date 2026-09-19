@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="85" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1049">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1049">
+        <Page social="4">You don't have to stand idle when you're recharging at a campfire. You can make an offering to the gods with a charm and earn some good fortune—and power—for yourself.&lt;BR&gt;&lt;BR&gt;Open your &lt;font color='#660000'&gt;Inventory&lt;/font&gt; and you'll see an &lt;font color='#660000'&gt;Onslaught Charm&lt;/font&gt;. &lt;font color='#660000'&gt;Right-click on it when you're recharging&lt;/font&gt;, then come back.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1049">
+        <Page social="4">You did it! Now look high on the right of your UI. You'll see an icon for the charm you received. Mouse over it for a description.&lt;BR&gt;&lt;BR&gt;The benefit fades when your Stamina drops too low, so recharge at a campfire every so often. If you're fighting, a break every 30 minutes should suffice.</Page>
+    </Text>
+</QuestDialog>

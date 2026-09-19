@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1020">
+        <Page social="4">We need your help, please!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:21#22#Crag Stalker reapers}, {@LinkCreature:21#23#Crag Stalker Skullcrushers}, {@LinkCreature:21#27#Crag Stalker Watchers}, and {@LinkCreature:21#6#Crag Stalker Champions} stole the holy statues we've worked so hard to acquire and ran into the desert west of here.&lt;BR&gt;&lt;BR&gt;We've already paid dearly for those, we can't let them go. Please, chase the kulkari down and recover those statues!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1020">
+        <Page social="4">What a relief! And they're not even damaged? Brilliant!&lt;BR&gt;&lt;BR&gt;Please accept this reward and my effusive thanks.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1020">
+        <Page social="0">We must have those statues, &lt;PCNAME&gt;! They're key to unlocking the secrets of the ruins!</Page>
+    </Text>
+</QuestDialog>

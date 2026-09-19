@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="1">The sloths have been causing problems—yes, really—but this is too much! The repositories of wisdom in the {@Rgn:30008$$Lower Archive} were well preserved...until those rascals tore up the place.&lt;BR&gt;&lt;BR&gt;We have a blueprint of one repository of wisdom courtesy of the Consos baraka, so you can rebuild them.&lt;BR&gt;&lt;BR&gt;And while you're wandering around here, any help repairing the &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7015#9199.1221,79627.4531,-587.7500&amp;type=1&amp;name=Broken Repository of Wisdom"&gt;broken repositories of wisdom&lt;/A&gt;&lt;/FONT&gt; would be much appreciated. When you're done, go see {@LinkCreature:230#1030$$Tulan}. He took news of the attack rather poorly.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1030">
+        <Page social="1">I can't stop weeping. It's embarrassing.&lt;BR&gt;&lt;BR&gt;The repositories of wisdom are a mess—and that's worth crying about.&lt;BR&gt;&lt;BR&gt;Why does nature have to be so...so...wild!&lt;BR&gt;&lt;BR&gt;Someone like you should've been assigned here, not me.</Page>
+    </Text>
+</QuestDialog>

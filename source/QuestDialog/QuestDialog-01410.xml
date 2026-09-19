@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="60" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Excellent, you did a great job against the argons on the island. Do you need some support?&lt;BR&gt;&lt;BR&gt;I can provide you with a few handy items. But I'm missing something. If you're interested, collect the Missing Ingredient from the TERA Shop for me and I'll help you.&lt;BR&gt;&lt;BR&gt;Open the TERA Shop by clicking the TERA Shop symbol in the main menu. Open the category Featured Items under All Items, where you can collect the Missing Ingredient for free.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="0" villagerId="1011">
+        <Page social="4">Hand me the Missing Ingredient and I'll reward you with some precious items.&lt;BR&gt;&lt;BR&gt;If you help me, you can join the TERA Club. While you're a member, you get a free mount, teleportations and boosters. Plus I'll give you some Fashion Coupons so you can customize your character.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="60" prevId="2" villagerId="1011">
+        <Page social="4">Bring me what I asked for and I'll reward you with valuable items!&lt;BR&gt;&lt;BR&gt;Open the TERA Shop by clicking the TERA Shop symbol in the main menu. Open the category Featured Items under All Items, where you can collect the Missing Ingredient for free.&lt;BR&gt;&lt;BR&gt;Don't forget to collect the ingredient from your Item Claim before talking to me again! You'll find the Item Claim behind the same TERA Shop symbol in the menu.&lt;BR&gt;&lt;BR&gt;If you help me, you can join the TERA Club. While you're a member, you get a free mount, teleportations and boosters. Plus I'll give you some Fashion Coupons so you can customize your character.</Page>
+    </Text>
+</QuestDialog>

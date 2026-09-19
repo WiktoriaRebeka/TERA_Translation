@@ -1,0 +1,49 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="1101">
+        <Page social="0">To unlock Balder's Temple, you and {@Creature:71#1114$$Rida} undertook several trials set forth by {@Creature:230#1007$$Lashinuk}, a very old baraka. Then you and {@Creature:71#1114$$Rida} broke one of Seren's seals around the temple with some help from {@Creature:230#1015$$Elsine}.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="1101">
+        <Page social="1" voiceTypeId="0">It's time now for you to meet one of the Consos, the baraka clan who guard {@Rgn:30001#Balder's Refuge}.&lt;BR&gt;&lt;BR&gt;We believe they've been here since the fall of the giants' empire—or longer. A few, like their leader Nandu, were living here when Lok and Thulsa killed Balder.&lt;BR&gt;&lt;BR&gt;The Consos's help is indispensable, and you'll need their permission.&lt;NEXTPAGEBUTTON&gt;"How do I get it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">It seems the gods specified several ritual trials for those seeking to enter the temple.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1007$$Lashinuk} will meet you at Camp Sunlight. He'll administer your first trial.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1007">
+        <Page social="1" voiceTypeId="0">You are &lt;PCNAME&gt;? It is an honor to meet you! Elsine shared some scrolls with me, detailing your exploits.&lt;BR&gt;&lt;BR&gt;This is so exciting! My friends will be jealous that I was the first to speak to you.&lt;BR&gt;&lt;BR&gt;I do not get out much. You are the first war hero I have met.&lt;NEXTPAGEBUTTON&gt;"You have a test for me?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Ah! Yes, of course.&lt;BR&gt;&lt;BR&gt;Ahem... "You, who seek the Sun, must first prove your strength against a champion of brass."&lt;BR&gt;&lt;BR&gt;There is a {@linkcreature:30#2004$$brass warden} nearby. It is a deadly thing, but I am sure you can beat it easily! Bring one of its gears, and then I can reveal the next trial.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1007">
+        <Page social="1" voiceTypeId="0">Hurrah! It is one thing to practice the lines for a ritual, but another thing to see it unfold!&lt;BR&gt;&lt;BR&gt;Sometime I will show you the book where I learned the ritual, written by the god Balder himself on pages of brass before he died.&lt;BR&gt;&lt;BR&gt;Now for your next trial.&lt;BR&gt;&lt;BR&gt;"Once earth proves its strength, let air show its wisdom."&lt;NEXTPAGEBUTTON&gt;"Air? You mean Rida?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Yes, the princess! This trial is for her.&lt;BR&gt;&lt;BR&gt;Seren helped Balder hide and protect the temple from those who would abuse its power. Seren called Rida here, knowing an elin wouldn't be tricked into opening the temple for the wrong person.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1081$$Rida} must find and figure out the next part of the puzzle. You are allowed to help her...and she may need it.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1007">
+        <Page social="0">Destroy the {@linkcreature:30#2004$$brass warden} and collect one of its gears. I'll be waiting.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="4" villagerId="1081">
+        <Page social="1" voiceTypeId="0">So it's my turn, is it? Well, I know where to go—I've seen this place in my visions.&lt;BR&gt;&lt;BR&gt;I was holding Seren's sword and it pulled me here. I stepped into the sword somehow....&lt;BR&gt;&lt;BR&gt;But I don't have the sword. I don't know what I'm supposed to do.&lt;NEXTPAGEBUTTON&gt;"The answer must be here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Hmm. It's probably a two-sided seal. I'll have to work the inside while you open the outside. But where's the seal?&lt;BR&gt;&lt;BR&gt;Wait. Something's different.&lt;BR&gt;&lt;BR&gt;That reflecting pool wasn't in my vision.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="6" villagerId="1081">
+        <Page social="1" voiceTypeId="0">That was it! We did it...but I'm exhausted.&lt;BR&gt;&lt;BR&gt;And I don't think that was the only seal. I'm going to find the next one.&lt;BR&gt;&lt;BR&gt;Ask your Consos admirer what else we need.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1007">
+        <Page social="1" voiceTypeId="0">Another step in the ritual is complete. We have dreamed of this day for so long!&lt;BR&gt;&lt;BR&gt;Princess Rida is very gifted. Being more spirit than flesh, elins do not usually dream—even the princesses.&lt;BR&gt;&lt;BR&gt;Oh, but I am lecturing. Next, you and Rida must perform a ceremony. Not here, though—in the archives. &lt;NEXTPAGEBUTTON&gt;"Archives?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">The archives are repositories of wisdom that hold special tablets, each of which contains vast stores of knowledge.&lt;BR&gt;&lt;BR&gt;The tablet you need is in pieces, hidden in Balder's Pavilion.&lt;BR&gt;&lt;BR&gt;Find the parts and {@LinkCreature:230#1015$$Elsine} will assemble it for you. Good luck, hero of earth!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" prevId="8" villagerId="1015">
+        <Page social="1" voiceTypeId="0">I'm glad this fell to you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Let me see the tablet pieces. Remarkable! They fit  together perfectly!&lt;BR&gt;&lt;BR&gt;Now I'll read the repository control scrolls.&lt;BR&gt;&lt;BR&gt;Wait—they were just here!&lt;NEXTPAGEBUTTON&gt;"What?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">The control scrolls for the repository. It won't operate without them.&lt;BR&gt;&lt;BR&gt;I can't believe this! The satchel's been gnawed open by those wretched sloths! I came to help you, &lt;PCNAME&gt;, but instead I need your help.&lt;BR&gt;&lt;BR&gt;Recover my control scrolls. I won't weep for any {@LinkCreature:30#130#sloth foragers} you must horribly mangle to do it.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="230" villagerId="1015">
+        <Page social="0">While I'm glad to see you, we should postpone our reunion until you have the tablet fragments, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="1015">
+        <Page social="1" voiceTypeId="0">Ah, you've found the scrolls! And they're not torn or damaged?&lt;BR&gt;&lt;BR&gt;These tablets are too densely encoded to read aloud. But they're supposed to open the repository...&lt;BR&gt;&lt;BR&gt;Let's try this: feed the scrolls and the tablet into the repository directly—like they're keys. I want to see this ceremony!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" villagerId="1015">
+        <Page social="0">Be careful with those scrolls. They take forever to write.&lt;BR&gt;&lt;BR&gt;Do what you want with the sloths.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="230" prevId="11" villagerId="1015">
+        <Page social="1" voiceTypeId="0">Now to read the parchments the repository released to us.&lt;BR&gt;&lt;BR&gt;Hmm...much of the content is historical.&lt;BR&gt;&lt;BR&gt;The buildings here were from the empire of the giants. Balder preserved them from the Day of Fire, when the gods cast that empire into ruin. It seems the god Lok built the constructs and repositories for Balder.&lt;BR&gt;&lt;BR&gt;Ironic, given that another of Lok's devices later killed Balder.&lt;NEXTPAGEBUTTON&gt;"What about the ceremony?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Forgive a scholar's curiosity. I'll skip ahead.&lt;BR&gt;&lt;BR&gt;Balder and the Consos built the temple, Seren laid her seals on it...here. This must be it. "The Path of Purification." We can have the ceremony.&lt;BR&gt;&lt;BR&gt;Hold onto this tablet! The inquisitive surely shall need it again.</Page>
+    </Text>
+</QuestDialog>

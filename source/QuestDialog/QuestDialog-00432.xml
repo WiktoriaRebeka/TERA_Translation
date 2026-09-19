@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1020">
+        <Page social="5">The vampirs used to drink swine blood. So, what, they got tired of it? We just looked too tasty?&lt;BR&gt;&lt;BR&gt;I need to know how far-spread among them this is. Believe it or not, they were friendly with us once.&lt;BR&gt;&lt;BR&gt;I need you to collect hearts from {@LinkCreature:16#2201#vampir henchmen} and {@LinkCreature:16#2202#retiariuses}. Then I'll be able to see what they've been drinking.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1020">
+        <Page social="5">You got these from the vampirs? You're absolutely sure? But they're completely dry. These hearts haven't seen blood in quite some time. Unusual, to say the least.&lt;BR&gt;&lt;BR&gt;How are they surviving without blood? What did they do with Jadan's blood, if not drink it?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1020">
+        <Page social="0">I can't know what's going on without first seeing their hearts. They've gone much too far now.</Page>
+    </Text>
+</QuestDialog>

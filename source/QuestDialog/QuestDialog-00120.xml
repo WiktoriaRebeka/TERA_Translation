@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1015">
+        <Page social="5">You've really been plugging away at the tuwangis! We really appreciate it, and welcome you to continue to help us. The {@LinkCreature:5#5#Tuwangi Blockheads} and the {@LinkCreature:5#6#Tuwangi Choppers} are next on the list.&lt;BR&gt;&lt;BR&gt;Make sure to clear the way and let the others know that it's time to pull it back.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1015">
+        <Page social="0">Another step done. I feel really good about having you on our team, &lt;PCNAME&gt;. I just want you to know that.&lt;BR&gt;&lt;BR&gt;It's still disappointing to know that our relationship with the tuwangis has come down to this.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1015">
+        <Page social="0">Haven't gone yet? Are you tired of helping us? Or is it just that you think the tuwangis are too adorable to hurt?&lt;BR&gt;&lt;BR&gt;Or perhaps you have a particular hatred of frogs, then?</Page>
+    </Text>
+</QuestDialog>

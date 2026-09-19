@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1023">
+        <Page social="5">Oh, Adru's more fun than an Orcan on fire.&lt;BR&gt;&lt;BR&gt;But he's right—there's {@LinkCreature:15#14#something toothy} out there...slithered into camp and took a bite out of Tetrask.&lt;BR&gt;&lt;BR&gt;Takes a lot to shake me, but they moved...wrong.&lt;BR&gt;&lt;BR&gt;I'm all there is between those things and scholar stew! Care to dissuade them a bit?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1023">
+        <Page social="5">Nice job. You're almost good enough to be a member of the kingdom guard. Keep up the good work!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1023">
+        <Page social="0">Did you kill those {@LinkCreature:15#14#toothy, slithery things}?</Page>
+    </Text>
+</QuestDialog>

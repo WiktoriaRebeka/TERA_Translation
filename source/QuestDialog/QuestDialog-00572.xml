@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="8001">
+        <Page social="4">The Eldritch Academy is in a panic! We wanted to have a simple harvest festival, but we've been getting threatening letters. "You will be haunted by your past misdeeds." Stuff like that.&lt;BR&gt;&lt;BR&gt;Serena asked me to figure out who's trying to ruin our good time, probably because she caught me reading "Thrilling Detective Tales" when I should have been studying.&lt;BR&gt;&lt;BR&gt;I'm chasing after the mastermind. While I do that, can you keep our party safe?&lt;NEXTPAGEBUTTON&gt;"Sure...but safe from what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Tuwangis, mostly. They're massing at the academy as we speak. But don't worry. We can turn their superstitions against them.&lt;BR&gt;&lt;BR&gt;Use the cannon to chuck pumpkins at the uninvited guests and defend our party supplies—especially the candy.&lt;BR&gt;&lt;BR&gt;When the tuwangis get hit with pumpkins—symbols of the harvest itself—they'll flee like the cowards they are.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="8001">
+        <Page social="4">You didn't run out of pumpkins, did you? Good.&lt;BR&gt;Here, take this...and feel free to join the party. It'll be perfect!&lt;NEXTPAGEBUTTON&gt;"What about the huge pumpkin monster?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Pumpkin monster? Must be a clever costume. Certainly nothing to worry about. You &lt;PCCLASS:lcase&gt;s can be such worrywarts.</Page>
+    </Text>
+</QuestDialog>

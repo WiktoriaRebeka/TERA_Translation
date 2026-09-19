@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7005">
+        <Page social="0">You participated in Tippani's Pigling Rodeo mini-game.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7005">
+        <Page social="4">This Pigling Rodeo game never gets old! We have a special gift for today's winner! &lt;NEXTPAGEBUTTON&gt;Start the Pigling Rodeo mini-game.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7005">
+        <Page social="0">Good job! But you can only get one gift per day. Please come back tomorrow!</Page>
+    </Text>
+</QuestDialog>

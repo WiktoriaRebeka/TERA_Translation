@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1012">
+        <Page social="17">Killian's servants have been appearing nearby lately. They haven't done anything yet, but that just makes me even more anxious.&lt;BR&gt;&lt;BR&gt;We've got to stop them before they can carry out whatever horrible plans Killian has brainwashed them into.&lt;BR&gt;&lt;BR&gt;If you got rid of the beast tamers, that would probably significantly weaken their plans.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1012">
+        <Page social="7">Great work. I have to say, I feel a lot better knowing I'm more than spitting distance away from anything having to do with Killian.</Page>
+    </Text>
+</QuestDialog>

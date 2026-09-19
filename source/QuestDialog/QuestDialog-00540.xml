@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1036">
+        <Page social="4">I saw something disturbing in the &lt;font color='#660000'&gt;Howling Vale&lt;/font&gt;. Two creatures of the same species fought each other and the victor ate the flesh of the loser.&lt;BR&gt;&lt;BR&gt;This is not normal behavior and may be worth investigating.&lt;NEXTPAGEBUTTON&gt;"What could we do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Our magic may shed light on this phenomenon. Hunt the {@LinkCreature:21#4#brutal orisks} and collect samples from them.&lt;BR&gt;&lt;BR&gt;Bring them back and we'll see if we can find what drove them to such unusual behavior.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1036">
+        <Page social="10">I hope this wasn't too taxing. The desert is vast and dangerous.&lt;BR&gt;&lt;BR&gt;You have the samples? Let me see them. Stand back, now. This could get a bit messy.&lt;BR&gt;&lt;BR&gt;By the gods! The scent in these samples almost overwhelmed me! I must rest for now. Incredible. My nose may never forgive me.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1036">
+        <Page social="0">I know the creatures are disgusting and odorous, but without the samples, I can't run tests. It's as simple as that.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="203" prevId="0" villagerId="1007">
+        <Page social="4" voiceTypeId="0">So the leaders are dead? That's good news, &lt;PCNAME&gt;. Although from what you're telling me we'll have to step up our efforts against Dakanius.&lt;BR&gt;&lt;BR&gt;Our agents spying on his camp haven't reported unusual activity, so maybe Dakanius doesn't know they're dead yet.&lt;BR&gt;&lt;BR&gt;That said, I still haven't heard from two of my scouts, Kamia and Kantusa. It might be nothing, but if you could check in with them, &lt;PCNAME&gt;, it would be a big help.&lt;NEXTPAGEBUTTON&gt;"Consider it done."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Okay, listen up. If you go north from here, you'll find a crossroads. Take the path leading west and you'll come to the devan hideout. That's where you'll find Kamia and Kantusa...disguised as devas.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; helped Kamia disrupt a ritual, then joined her in the search for Kantusa.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="1" villagerId="1041">
+        <Page social="4" voiceTypeId="0">You killed the Assault Leaders? Well done!&lt;BR&gt;&lt;BR&gt;That would definitely explain why the devas are gathering around vortex shards for a ritual. They must be trying to increase Dakanius's power for the coming attack on Crescentia!&lt;NEXTPAGEBUTTON&gt;"What can we do to stop it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We need to destroy at least one of the vortex shards. They're the source of Dakanius's power.&lt;BR&gt;&lt;BR&gt;I was waiting for Kantusa to arrive, but she's overdue...and the ritual is happening right now! Think you can do it?&lt;NEXTPAGEBUTTON&gt;"I'll handle it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1042">
+        <Page social="4" voiceTypeId="0">Good work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Dakanius is going to be out for blood now. We need to get out of here before he finds us.&lt;BR&gt;&lt;BR&gt;But we need to get Kantusa before we go.&lt;NEXTPAGEBUTTON&gt;"Okay. Where do you think she is?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">If Kantusa wasn't able to get away earlier, she's probably inside Dakanius's compound. I'll go get her while you clear us a path through the devan brigands.&lt;BR&gt;&lt;BR&gt;Just move fast, and kill anyone who spots you. I'll locate Kantusa and meet you by the compound.&lt;BR&gt;&lt;BR&gt;Are you ready?&lt;NEXTPAGEBUTTON&gt;"Yes. Let's do this!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1043">
+        <Page social="4" voiceTypeId="0">I can't find Kantusa anywhere!&lt;BR&gt;&lt;BR&gt;She's not dead, or these devan scum would all be talking about it.&lt;NEXTPAGEBUTTON&gt;"We'll have to look for her."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

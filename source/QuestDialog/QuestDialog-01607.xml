@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">Dougal has a special training mission for the Idoneal Force.&lt;BR&gt;&lt;BR&gt;Prove your power by defeating Gaaruksalk in Thaumetal Refinery.&lt;BR&gt;&lt;BR&gt;- Warriors, lancers, berserkers, slayers, priests, mystics, and brawlers can receive &lt;font color='#2478FF'&gt;Apex&lt;/font&gt; quests upon reaching item level &lt;font color='#2478FF'&gt;439&lt;/font&gt;.&lt;BR&gt;- Enchanting weapons can greatly increase your item level.&lt;BR&gt;&lt;font color='#FF0000'&gt;- The document "Apex Mission 438" vanishes when you accept this quest.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1021">
+        <Page social="4">Thank you, &lt;PCNAME&gt;. It's always a joy to watch you work.&lt;BR&gt;&lt;BR&gt;Don't forget to claim your reward.&lt;BR&gt;&lt;BR&gt;Keep up the good work.</Page>
+    </Text>
+</QuestDialog>

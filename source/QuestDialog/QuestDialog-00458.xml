@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1014">
+        <Page social="5">I'm drowning in work here! Of course, by "I," I mean "you."&lt;NEXTPAGEBUTTON&gt;"Crazybearsayswhatnow?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">We're both part of the federation, yes? So my work is yours!&lt;BR&gt;&lt;BR&gt;That's how the military works, pup. Don't think too hard about it and you'll go far.&lt;BR&gt;&lt;BR&gt;My job is cutting the cult's chain of command—specifically the {@LinkCreature:17#300442#Heavens Fall guards}. If we kill some, and a few {@LinkCreature:17#300552#barrelhead threshers} to boot, they'll have to fall back to reorganize.&lt;BR&gt;&lt;BR&gt;So, slip onto the farm, slit some throats, and watch the chaos. Oh, and bring me their weapons!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1014">
+        <Page social="5">Nice work! As my C.O. would say, ruin the discipline and you ruin the unit! A wise man, Puran. You'd like him. Keeps us alive!&lt;BR&gt;&lt;BR&gt;Now, how else can we trip them up?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" villagerId="1014">
+        <Page social="0">Didn't you hear me? Move!</Page>
+    </Text>
+</QuestDialog>

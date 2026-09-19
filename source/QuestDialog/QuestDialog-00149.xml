@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1006">
+        <Page social="5">It's good to see the Gutrends put in their place like that. Sooner or later, maybe they'll finally just get out and give us our peace.&lt;BR&gt;&lt;BR&gt;Still, though, we're making excellent progress. Crevan at Vindicator Camp will want to know about this.&lt;BR&gt;&lt;BR&gt;Since you're responsible for so much of our success, why don't you bring him the message yourself?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1021">
+        <Page social="5">You've knocked the Gutrend back several notches, have you? Well, this is wonderful news.&lt;BR&gt;&lt;BR&gt;Whimnia will want to hear this as well. Please let her know.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1013">
+        <Page social="5">Oh, this is good news.&lt;BR&gt;&lt;BR&gt;I'll make a note. I guarantee we'll take advantage of this.</Page>
+    </Text>
+</QuestDialog>

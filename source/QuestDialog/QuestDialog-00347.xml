@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1121">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1121">
+        <Page social="4">That Dulari goes on and on, doesn't he? Let me tell you something important, instead of his talk about "pure knowledge."&lt;BR&gt;&lt;BR&gt;Every time you leave a secured area, you're just another empty pair of boots. They've had you focusing on individual targets, right? You need to practice against as many opponents as you can.&lt;BR&gt;&lt;BR&gt;See those {@LinkCreature:13#1#piglings}, &lt;font color='#660000'&gt;to the south&lt;/font&gt;? Excellent practice for what's over the next rise. I'll watch your moves and let you know when you're ready to move on.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1121">
+        <Page social="4">That was some fine butchery. Don't feel bad about it—those pigs appear out of nowhere in the blink of an eye. Dulari says even though they're not native to the island, something about this area lets them thrive.&lt;BR&gt;&lt;BR&gt;Look, take this. It's not much, but it's dangerous out there.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1121">
+        <Page social="0">It's a simple assignment. Go practice what you've learned by scoring &lt;font color='#660000'&gt;clean kills&lt;/font&gt;. On {@LinkCreature:13#1#piglings}. I'm trying to help you be a better soldier, 'cause we're all in this together.</Page>
+    </Text>
+</QuestDialog>

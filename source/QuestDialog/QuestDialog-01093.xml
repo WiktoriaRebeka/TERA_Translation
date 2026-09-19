@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1001">
+        <Page social="4">I oversee our supply route. Right now the area's overrun with {@LinkCreature:47#2001#argonomorph caprin imps} to the east, and that's going to cost us. Want to help?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1001">
+        <Page social="4">Thanks, &lt;PCNAME&gt;. We've got faerie saplings coming from Seeliewood to counter this argon corruption. I'd have hated to lose them.</Page>
+    </Text>
+</QuestDialog>

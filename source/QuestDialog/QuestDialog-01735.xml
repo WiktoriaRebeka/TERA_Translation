@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I've located the last stone. Meet me in Highwatch.&lt;BR&gt;&lt;BR&gt;- Meren</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">The last stone to be retrieved, the Passion Stone, was in Lilith's Trial.&lt;BR&gt;Coincidentally, Meren needed Platinum from Lilith's Trial for the banquet.&lt;BR&gt;&lt;BR&gt;After defeating Arachandlebra and Lilith, you retrieved both the Platinum and the Passion Stone. Finally, the Eternal Crown was complete.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I've traced the last stone, and it's in the possession of Lilith. Sort of.&lt;BR&gt;&lt;BR&gt;Specifically, we've found a version of it in Lilith's Trial, one of the Ace Dungeons Clahk is working on.&lt;BR&gt;&lt;BR&gt;Our thinking is that if you enter the simulation with the crown, the stone will become real, and we can complete the gift!&lt;BR&gt;&lt;BR&gt;Oh, and I'm sorry about the short notice, but if you could retrieve some Platinum while you're in there, we can really use some for the banquet.&lt;NEXTPAGEBUTTON&gt;"Platinum?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Our artisans are creating grand illusions of music and light for the banquet, and we need a supply of Platinum to ensure each one goes off at the right time.&lt;BR&gt;&lt;BR&gt;But we don't have any Platinum...&lt;BR&gt;&lt;BR&gt;and the Black Market is out of stock.&lt;NEXTPAGEBUTTON&gt;"I'll get that Platinum."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">It's very dangerous...&lt;BR&gt;but I believe in you.&lt;BR&gt;&lt;BR&gt;You have a chance to obtain Platinum in Lilith's Keep.&lt;BR&gt;&lt;BR&gt;May the goddess watch upon you!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1151">
+        <Page social="0" voiceTypeId="0">You've got it!&lt;BR&gt;Now our preparations for the banquet are all but complete!&lt;BR&gt;&lt;BR&gt;Did you find the Passion Stone?&lt;NEXTPAGEBUTTON&gt;"Of course."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That's the last stone...&lt;BR&gt;&lt;BR&gt;Place it on the crown.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" villagerId="1151">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="4" villagerId="1151">
+        <Page social="0" voiceTypeId="0">So this is how the crown looked when you first saw it?&lt;BR&gt;&lt;BR&gt;It seems to be much more powerful than before...just like you. I think that the goddess will love this gift.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"You're welcome."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oh, I almost forgot. You'll receive your invitation soon.&lt;BR&gt;I'll see you at the banquet.&lt;BR&gt;&lt;BR&gt;Take care!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" villagerId="1151">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

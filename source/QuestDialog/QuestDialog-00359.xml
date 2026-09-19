@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1007">
+        <Page social="4">The missing crate contains relic stones. Eria, child of Elinu, claims the stones are specially attuned to this island's guardians and will allow the soldiers of the Tainted Gorge more freedom of movement. They must be what the {@LinkCreature:13#901#orcan guardians} were seeking on the airship, but why?&lt;BR&gt;&lt;BR&gt;Recovering these objects is of great importance. Do not hesitate to use deadly force on the orcans—they have much to answer for.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1007">
+        <Page social="4">Such unassuming objects to have caused so much difficulty. I am in your debt.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1007">
+        <Page social="0">Every hour that passes increases the risk that {@LinkCreature:13#901#orcan guardians} will damage the &lt;font color='#660000'&gt;relic stones&lt;/font&gt; and endanger those who serve in the Tainted Gorge. Please do not tarry in their recovery.</Page>
+    </Text>
+</QuestDialog>

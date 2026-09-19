@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
+        <Page social="5">&lt;PCNAME&gt;! I've gotten a request for reinforcements from the Celestial Hills. Drustan, out at Casidhe's Stand needs help at once. I don't have the soldiers to spare, but I think you might be just what he needs.&lt;BR&gt;&lt;BR&gt;He's a little frayed, but he's a good man. Do what you can, my friend. For the federation!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1002">
+        <Page social="5">You're the relief? One soldier?&lt;BR&gt;&lt;BR&gt;Damn Daven's eyes. We need more help than that but let's put you to work. The orcans are massing for an attack. I want you to preemptively weed them out. Eliminate the {@LinkCreature:7#5#Red Fang Orcans} and {@LinkCreature:7#6#Red Fang Fighters}, and bring back their fangs.&lt;BR&gt;&lt;BR&gt;Perhaps that will give us the rest we need. Take the field!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="207" prevId="3" villagerId="1002">
+        <Page social="5">Well done! That's a lot of fangs.&lt;BR&gt;&lt;BR&gt;That'll scare them off for a bit, but they'll be back. Hopefully, we'll be reinforced by then.&lt;BR&gt;&lt;BR&gt;I'm glad you're here, &lt;PCNAME&gt;. Keep up the good work.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="207" villagerId="1002">
+        <Page social="0">You've got your orders, soldier. Get moving.</Page>
+    </Text>
+</QuestDialog>

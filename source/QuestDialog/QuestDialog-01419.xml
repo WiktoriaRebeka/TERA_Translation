@@ -1,0 +1,64 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1132">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1132">
+        <Page social="5">Word's come in for you, &lt;PCNAME&gt;. Consul Dougal wants you back in Velika as soon as possible.&lt;BR&gt;&lt;BR&gt;Something about supporting efforts on the home front. Best get moving.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
+        <Page social="5">Thank you for coming this far, &lt;PCNAME&gt;. Let me cut to the chase. Supporting the war effort's affected the quality of life throughout the federation.&lt;BR&gt;&lt;BR&gt;The federation's sending you and other agents to support the magistrates, gather material goods, and provide some relief.&lt;BR&gt;&lt;BR&gt;Report to Magistrate Arn in Lumbertown. Show the citizens that they're just as much of a priority as the argons.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="60" prevId="3" villagerId="1013">
+        <Page social="9">Nature provides, but enemies plunder. We're short on raw materials.&lt;BR&gt;&lt;BR&gt;What we need most are {@RawItem:206802}, {@RawItem:206805}, and {@RawItem:206809}. Without those, it's hard to make a living around here.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="60" prevId="4" villagerId="1013">
+        <Page social="8">This will help out a lot! We can repair our tools, tend to our lands, and heal our hurts. Thank you.&lt;NEXTPAGEBUTTON&gt;"Honored to be of service."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">You're far too modest. I'm sure Magistrate Bisi will agree when he sees you. He's in Popolion, and in more dire need than we were.&lt;BR&gt;&lt;BR&gt;May Velik bless you.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="60" villagerId="1013">
+        <Page social="0">Times are tough for everyone. We're just asking for some help with the bare necessities.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="67" prevId="5" villagerId="1015">
+        <Page social="9">Yes, Lumbertown's starved for raw materials. Can you help?&lt;BR&gt;&lt;BR&gt;Gather {@RawItem:206801}, {@RawItem:206803}, and some {@RawItem:206809}, please? There's no glory in this, but it would help us all.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="67" prevId="7" villagerId="1015">
+        <Page social="13">Thank you so much!&lt;BR&gt;&lt;BR&gt;Nature does provide—when nature has &lt;PCNAME&gt;'s help!&lt;NEXTPAGEBUTTON&gt;"All in a day's work."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">We will never forget what you did for us. Never!&lt;BR&gt;&lt;BR&gt;New orders have come in for you. Looks like you're going to Tulufan. They need you next.&lt;BR&gt;&lt;BR&gt;May Seren bless you!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="67" villagerId="1015">
+        <Page social="0">You can get all I asked for from Popolion's fields. I'd go but for the monsters...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="66" prevId="8" villagerId="1009">
+        <Page social="5">About damned time!&lt;BR&gt;&lt;BR&gt;I've written so many letters to Velika that I've probably got my own wing in the archives.&lt;BR&gt;&lt;BR&gt;Our stores were stolen recently. We'll get by—if we can replenish our stocks of {@RawItem:206810}, {@RawItem:206819}, and {@RawItem:206821}.&lt;BR&gt;&lt;BR&gt;Can you help?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="66" prevId="10" villagerId="1009">
+        <Page social="8">Not bad. Adequate even.&lt;BR&gt;&lt;BR&gt;If we'd known the federation would abandon us, we'd never have joined in the first place.&lt;NEXTPAGEBUTTON&gt;"We're in this together."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Hmph. Maybe.&lt;BR&gt;&lt;BR&gt;Consul Dougal says you're to head to Tria in Southern Shara next.&lt;BR&gt;&lt;BR&gt;Kaia's blessings protect you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="66" villagerId="1009">
+        <Page social="0">Well, I guess we could make do with sand. Bloody useful stuff, right? Can't make clothes, can't make weapons, but it can make anyone itch!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="70" prevId="11" villagerId="1011">
+        <Page social="5">We're grateful for any assistance.&lt;BR&gt;&lt;BR&gt;Supplies are low at the moment. In particular, we need {@RawItem:206802}, {@RawItem:206803}, and {@RawItem:206807}.&lt;BR&gt;&lt;BR&gt;The federation's support is vital to our survival and success. Please help us.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="70" prevId="13" villagerId="1011">
+        <Page social="5">This will do nicely.&lt;BR&gt;&lt;BR&gt;The people of Tria found new hope. Please accept our thanks.&lt;NEXTPAGEBUTTON&gt;"You're welcome."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Prefect Lauma, in Frontera, hopes to similarly benefit from federation assistance. Safe journey!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="70" villagerId="1011">
+        <Page social="0">We know this is difficult, but we're out of options. Please help us.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="75" prevId="14" villagerId="1007">
+        <Page social="5">Consul Dougal explained about the federation's initiative to help the outlying settlements. We need the aid.&lt;BR&gt;&lt;BR&gt;We're short on {@RawItem:206804}, {@RawItem:206805}, and {@RawItem:206808}. Any additions to our stocks would be appreciated.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="75" prevId="16" villagerId="1007">
+        <Page social="5">Dougal chose his assistant well. We're grateful for the help and will put these supplies to good use.&lt;BR&gt;&lt;BR&gt;Dougal has also asked you to return to Velika. Farewell, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="75" villagerId="1007">
+        <Page social="0">We must have raw materials to keep Frontera active and productive.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="17" villagerId="1160">
+        <Page social="5">I've heard nothing but good things about you. Even Turrek is more cheerful now.&lt;BR&gt;&lt;BR&gt;There were no plots foiled or great beasts vanquished, but service to others is in the highest traditions of federation service. You've done well, &lt;PCNAME&gt;. Thank you.</Page>
+    </Text>
+</QuestDialog>

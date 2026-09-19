@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1021">
+        <Page social="4">There's another argon here, directing the avengers and reporting up the chain.&lt;BR&gt;&lt;BR&gt;Unless you want an argon rescue squad jumping you, spill its big, blue, commanding guts before you hit the altar.&lt;BR&gt;&lt;BR&gt;And take its staff. I think that's how it controls the avengers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1021">
+        <Page social="4">You got him?&lt;BR&gt;&lt;BR&gt;Good. Those things can report in over great distances. Offing it buys you time to stop the ceremonies.&lt;BR&gt;&lt;BR&gt;And this staff's going to teach me how the argons communicate!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1021">
+        <Page social="0">The argon's named Gelgatum. Hunt around on the Raven Altar.</Page>
+    </Text>
+</QuestDialog>

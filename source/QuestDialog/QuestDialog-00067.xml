@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="61" prevId="0" villagerId="1105">
+        <Page social="5" voiceTypeId="0">Recovering the Core is critical. Without it, Allemantheia will collapse, swallowed by the desert sands.&lt;BR&gt;&lt;BR&gt;This must end in Fyrmount. We bring Thulsa down...and avenge Kaidun.&lt;NEXTPAGEBUTTON&gt;"I'm on my way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I knew you'd want to see this through, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;But I'm not going to send you alone. Talk to Elleon, and tell him he's got a mission, too.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Determined to rescue Serion—who contains the Core within him—Fraya sent you to Fyrmount. With help from Elleon and Jelena, you defeated Akasha. But in the process, Serion was severely wounded, putting the Core at risk.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="1" villagerId="1104">
+        <Page social="5" voiceTypeId="0">Once more into the breach, eh? I've always wanted to see Fyrmount for myself. I'm well traveled, but Fyrmount...that's something else.&lt;BR&gt;&lt;BR&gt;Speaking of well traveled, Jelena might be a worthy traveling companion, too. I'll find her, but don't let me keep you. I can catch up...or wait for you when I get there.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" prevId="3" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Excuse me...&lt;PCNAME&gt;? Message from Elleon. For your ears only. He's gone ahead to do some preliminary scouting, and will meet you at {@linkcreature:204#1101#Firebase Valor}.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="204" prevId="4" villagerId="1101">
+        <Page social="5" voiceTypeId="0">How did I get here so fast? Always travel light, my friend.&lt;BR&gt;&lt;BR&gt;I've got good news. Not only is Jelena along for the ride, but she's already got a line on Akasha.&lt;BR&gt;&lt;BR&gt;Akasha's been spotted near Bahaar's Maw in the east. But be careful—that's a dangerous stretch of territory.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="204" prevId="5" villagerId="1102">
+        <Page social="5" voiceTypeId="0">We meet again—as always, in the middle of nowhere. Why is it we never meet over drinks? Never mind. Akasha's henchmen are crawling around, but no sign of Akasha herself...&lt;NEXTPAGEBUTTON&gt;"Grab a henchman, then?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">For interrogation, right? Good call.&lt;BR&gt;&lt;BR&gt;You're going after {@linkcreature:4#7012#Jirakar} in Bahaar's Maw east of here. Akasha's inner circle are fanatics, so Jirakar might fight to the death. Even so, it might draw Akasha out of hiding.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="204" prevId="6" villagerId="1102">
+        <Page social="5" voiceTypeId="0">Let me see those orders.&lt;BR&gt;&lt;BR&gt;Oh...this isn't good.&lt;BR&gt;&lt;BR&gt;It says here that Akasha is taking Serion to Azarel's Labyrinth. We'll never find them in there. But if we can intercept them first...&lt;BR&gt;&lt;BR&gt;Tell Elleon what you've learned. He'll know what to do.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="204" villagerId="1102">
+        <Page social="0">Don't let fear hold you back, &lt;PCNAME&gt;. You've got this!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="204" prevId="7" villagerId="1200">
+        <Page social="5" voiceTypeId="0">&lt;PCNAME&gt;, I can see it on your face—you and Jelena found something, didn't you?&lt;BR&gt;&lt;BR&gt;Out with it! I've never seen you two look so smug.&lt;NEXTPAGEBUTTON&gt;"Want to see Akasha's plans?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">If we can get to them before they reach Azarel's Labyrinth...yes! I think we can pull this off!&lt;BR&gt;&lt;BR&gt;Jelena, you're even faster than I am. Report all this to Fraya.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you and I are going into the depths of Fyrmount...using that teleportal over there.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="403" prevId="9" villagerId="1101">
+        <Page social="5" voiceTypeId="0">The Core is injured, but alive...barely.&lt;BR&gt;&lt;BR&gt;We should get back to Castanica immediately and discuss what we'll do.&lt;BR&gt;&lt;BR&gt;Take this teleportal scroll.&lt;BR&gt;I'll meet you at Castanica.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="61" prevId="10" villagerId="1105">
+        <Page social="5" voiceTypeId="0">Serion's return is a ray of hope—provided he pulls through.&lt;NEXTPAGEBUTTON&gt;"How is he doing?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Not well. Not only is he weak, but his control over the energies of the Core seems to be deteriorating. Our greatest sages seek a remedy, but I fear it's too late for Serion.&lt;BR&gt;&lt;BR&gt;Here, I want you to have this.</Page>
+    </Text>
+</QuestDialog>

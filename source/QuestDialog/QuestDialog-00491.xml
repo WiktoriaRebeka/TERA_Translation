@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1036">
+        <Page social="4">All the machines have gone nutty! First the scarecrows, then the golems. They act like they've been reprogrammed.&lt;BR&gt;&lt;BR&gt;I'll be able to tell you if you bring me some &lt;font color='#660000'&gt;stone hearts&lt;/font&gt; from the {@LinkCreature:19#2003#wild harvester} and {@LinkCreature:19#2001#crazed harvester golems}. Their programs are engraved on their hearts. We'll soon know if something has changed.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1036">
+        <Page social="4">There are no instructions at all. Not the original programming, not new instructions...it's just blank.&lt;BR&gt;&lt;BR&gt;How can they even move without instructions?&lt;BR&gt;&lt;BR&gt;More questions than answers. Hate that. Well, thanks for bringing them to me, anyhow.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1036">
+        <Page social="0">I really need those hearts if we're going to get to the bottom of this.</Page>
+    </Text>
+</QuestDialog>

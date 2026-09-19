@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1018">
+        <Page social="5">Greetings, &lt;PCNAME&gt;. I've a special mission for someone of your talents.&lt;BR&gt;&lt;BR&gt;Mistmoor Island just east of here...reports of pirates ashore. Not much intel, and you know what the brass does when they can't think of a good idea? They send us!&lt;BR&gt;&lt;BR&gt;There's an expeditionary force from Kaia's Sword on the island right now. Link up with them and deal with those corsairs.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1001">
+        <Page social="4">If you're from Cutthroat Harbor, that must mean they have soldiers to spare. Lucky for them, I suppose.&lt;BR&gt;&lt;BR&gt;Well, we aren't about to send you away. Good to have another &lt;PCCLASS:lcase&gt; aboard.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="4">I'll say one thing about kulkaris: they're persistent. Even thought they've been argonified, they still have {@LinkCreature:46#202#argonomorph kulkari shamans}. I don't know whether they still have a religious role, but regardless, they need to die.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1024">
+        <Page social="4">It was probably a blessing to kill argonomorphed shamans. It's not like they can "talk to the spirits" or anything like that anymore.</Page>
+    </Text>
+</QuestDialog>

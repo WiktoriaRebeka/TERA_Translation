@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1016">
+        <Page social="9">Imps. They must be the most annoying little buggers on the planet. The Thulsans threaten the future of the federation, and the imps are a potentially fatal distraction. We can't afford to take our eye off the ball.&lt;BR&gt;&lt;BR&gt;Please eliminate the fiesty ebon imps and bring me their teeth. We'll make necklaces out of them or something. It'll be good for morale.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1016">
+        <Page social="18">Thank you, &lt;PCNAME&gt;. With the imps under control, we can give our undivided attention to defeating the Thulsan army.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1016">
+        <Page social="0">The imps are still around.&lt;BR&gt;&lt;BR&gt;Please hunt them down and rid us of the nuisance.</Page>
+    </Text>
+</QuestDialog>

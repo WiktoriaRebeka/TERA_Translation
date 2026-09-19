@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="1009">
+        <Page social="4">I brought a shipment of young piglings to give the troops a good home-cooked meal.&lt;BR&gt;&lt;BR&gt;Unfortunately, some escaped last night. I've got a lot of mouths to feed today. I need that meat. Think you can help me out?&lt;NEXTPAGEBUTTON&gt;"Where are they?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Try east of the fortress's entrance. They're probably scrounging for food.&lt;BR&gt;&lt;BR&gt;Happy hunting.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="1009">
+        <Page social="6">Fine work, my friend. Our soldiers deserve any morale boosters they can get.&lt;BR&gt;&lt;BR&gt;Now, do I smoke, roast, or grill them. Battle bacon?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" villagerId="1009">
+        <Page social="0">Did you find the {@LinkCreature:48#100}s yet? I've got hungry bellies to fill.</Page>
+    </Text>
+</QuestDialog>

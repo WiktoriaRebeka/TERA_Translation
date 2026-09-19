@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1019">
+        <Page social="4">The temperature level of this area has been plummeting for a few days, and rumor has it the sirens are doing it.&lt;BR&gt;&lt;BR&gt;They're weather witches or something, that came with Thulsa's army.&lt;BR&gt;&lt;BR&gt;If you drive them away, the weather may improve.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1019">
+        <Page social="4">Finally, the frost sirens are gone. Hopefully it'll warm up here. At least a little.</Page>
+    </Text>
+</QuestDialog>

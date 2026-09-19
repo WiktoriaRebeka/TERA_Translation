@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1012">
+        <Page social="0">The vampirs' involvement with the dementalith came as a shock to Prefect Paka. He sent you to the Vale of the Fang to help Jelena discover the truth.&lt;BR&gt;&lt;BR&gt;You unearthed a deal between the vampir nobles and the Cult of Lok to produce dementaliths in Sinestral Manor.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1012">
+        <Page social="4" voiceTypeId="0">That {@linkcreature:67#1007#Paka} fellow has been looking for you. Odd company you keep, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Thank you for coming. There's more madness afoot. The popori and the vampirs were friends once, but now they've threatened my town.&lt;BR&gt;&lt;BR&gt;If you went to the Vale of the Fang and...reduced their numbers a bit...people would feel safer.&lt;BR&gt;&lt;BR&gt;And this time I'd reward you personally. That Bruke's proved himself a total ass!&lt;NEXTPAGEBUTTON&gt;"I'll try to find another way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You know, we poporis are born with a super sense of smell. And I smell something familiar about you.&lt;BR&gt;&lt;BR&gt;I know that you got help from someone. I also happen to recognize that someone's scent...because that someone is a wanted criminal.&lt;NEXTPAGEBUTTON&gt;"A criminal?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Shh! Someone might hear us. Personally, there's no doubt in my mind that she was falsely accused.&lt;BR&gt;&lt;BR&gt;{@linkcreature:216#1026#Jelena}'s close with the princess, and has helped out the poporis a lot...and we never forget a favor!&lt;BR&gt;&lt;BR&gt;She's still hanging around Vale of Fang, researching the Mad Blood Disease. I told my men to pretend they don't see her.&lt;BR&gt;&lt;BR&gt;Go. Go and help her.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="67" prevId="3" villagerId="1022">
+        <Page social="4" voiceTypeId="0">It's undeniable now that the vampirs are behind the Mad Blood Disease.&lt;BR&gt;&lt;BR&gt;{@linkcreature:216#1026#Jelena} is researching the disease at the Runicar Research Camp.&lt;BR&gt;&lt;BR&gt;Go to the Runicar Research Camp in the Vale of the Fang.&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;[Select teleport and go to the Runicar Research Camp.]&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="216" prevId="4" villagerId="1026">
+        <Page social="4" voiceTypeId="0">Well met, &lt;PCNAME&gt;. Guess we both like making trouble!&lt;BR&gt;&lt;BR&gt;So, I was right about the vampirs. They're being used! The nobles sold their people out to the Cult of Lok. Bad news. &lt;NEXTPAGEBUTTON&gt;"I'm listening."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">There's one cultist in particular—{@linkcreature:16#2406#Surdek}—who's always taking notes. We've got to get a look at them! It might give us an idea of how much blood magic they've learned, and how they're going to use it.&lt;BR&gt;&lt;BR&gt;Think you can take him? Good. Do it. I'm going to scout a way into the Sinestral Manor.&lt;BR&gt;&lt;BR&gt;A lot of vampirs have been going in and out of there.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="216" prevId="5" villagerId="1026">
+        <Page social="4" voiceTypeId="0">Good! Well done! Let's see...&lt;BR&gt;&lt;BR&gt;Hmm...&lt;BR&gt;&lt;BR&gt;Yes, that's it. They've figured out how to use blood magic to create a Mad Blood Device.&lt;BR&gt;&lt;BR&gt;That means that they can produce as many dementaliths they want.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"They can make dementaliths...?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">That's right. I'm sure that the device is inside the manor.&lt;BR&gt;&lt;BR&gt;Alright! All we have to do is get rid of that device. But how we get inside...that's the problem.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="216" villagerId="1026">
+        <Page social="0">Knock off {@LinkCreature:16#2406#Surdek} and bring me his notes. We've got to discover what they're up to.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1028">
+        <Page social="9">Our shipment of eldritch shards is hung up somewhere in Bleakrock.&lt;BR&gt;&lt;BR&gt;Go there and ask Kilda what we have to do to get them yesterday.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1014">
+        <Page social="4">The shards?&lt;BR&gt;&lt;BR&gt;It's not my fault. The wendigos are on the rampage. The junaidar are raiding the camps. A passing popori ate them...okay, I just don't have any right now. Try Forsil.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" prevId="3" villagerId="1011">
+        <Page social="4">My shards are all earmarked for Allemantheia. Don't even bother trying to outbid the Mysterium.&lt;BR&gt;&lt;BR&gt;Just between us, I've heard a rumor that the magistrate has been hanging on to a private hoard.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="83" prevId="4" villagerId="1012">
+        <Page social="4">No, I haven't been hoarding shards! Is he crazy?&lt;NEXTPAGEBUTTON&gt;"There really aren't any?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">No. I'm sorry. They don't exactly grow on trees.</Page>
+    </Text>
+</QuestDialog>

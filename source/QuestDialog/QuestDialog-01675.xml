@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1019">
+        <Page social="4" voiceTypeId="0">Killian reserves a special place for his favorite victims.&lt;BR&gt;&lt;BR&gt;I won't tell you about it, but suffice to say I'll pay you a bonus if you'll kill his "musicians" and "bandmasters."</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1019">
+        <Page social="4" voiceTypeId="0">When I'm not at war, I'm a musician. On behalf of my craft, thank you for ending that travesty.</Page>
+    </Text>
+</QuestDialog>

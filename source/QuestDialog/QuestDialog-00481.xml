@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">Oh, I'm so close! I just need one more piece of the puzzle to crack the mystery here.&lt;BR&gt;&lt;BR&gt;You've been so helpful so far. I feel like you should  be the one to close this out, don't you? Besides, I have to start sorting these other things you've brought.&lt;BR&gt;&lt;BR&gt;If you could collect the final piece from {@LinkCreature:18#105#metatrons}, we can make this discovery together. Sort of.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">Yes. YES! This will take some time to decode, but it'll be worth it!&lt;BR&gt;&lt;BR&gt;You've contributed so much to my research that I might even credit you when I take it public!&lt;BR&gt;&lt;BR&gt;Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">I thought you'd left. You won't find important relics lying around me!&lt;BR&gt;&lt;BR&gt;Well, I mean, I suppose you will, but not the ones you're after.</Page>
+    </Text>
+</QuestDialog>

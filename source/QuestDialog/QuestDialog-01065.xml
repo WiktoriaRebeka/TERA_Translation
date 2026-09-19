@@ -1,0 +1,43 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Tamur does not look well. Ask what happened.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Mysterium researchers are exploring the Three Towers despite the argon presence there. Before you could ask Adeldur for help finding Yasring, she sent you on a research errand. Afterwards, she directed you to Kurance, who showed you the missing person register. Yasring's name was on the list, so you searched the {@Rgn:9012001$$Three Towers Spires}, eventually getting directed to Greyden, the scout squad commander, who promised to help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="1" villagerId="5005">
+        <Page social="10" voiceTypeId="0">&lt;PCNAME&gt;. Have you ever heard of the Three Towers? The Argons built the tower after they held control of northern Shara. The federation regards the tower as a strategic point.&lt;BR&gt;&lt;BR&gt;After Kelsaik resurrected, the Argons suddenly fell back so the Mysterium researchers and our troops were able to advance.&lt;BR&gt;&lt;BR&gt;We don't know what the Argons are up to, so reinforcements were dispatched.&lt;BR&gt;&lt;BR&gt;However, I worry the Mysterium needs a helping hand.&lt;NEXTPAGEBUTTON&gt;"What's the problem?&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">This is a letter for you from the Mysterium.&lt;BR&gt;I think they want your help.&lt;BR&gt;Here.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5005">
+        <Page social="10" voiceTypeId="0">The apprentice hasn't woken up yet, but you should make haste.&lt;BR&gt;&lt;BR&gt;To win this war, we must have knowledge of our enemies.&lt;BR&gt;&lt;BR&gt;Alright. &lt;PCNAME&gt;, go to Three Towers and meet Adeldur.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="4" villagerId="2001">
+        <Page social="10" voiceTypeId="0">You must be &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;We need help as much as we can at a time like this.&lt;BR&gt;&lt;BR&gt;I heard that you assisted Yasring before, so I requested your help.&lt;BR&gt;&lt;BR&gt;Though it's hard to keep in touch with her these days...&lt;BR&gt;&lt;BR&gt;The Argons aren't guarding this area like they used to, but it's still dangerous. The whole structure is an Argon itself, you know.&lt;NEXTPAGEBUTTON&gt;"The tower is a what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Curious, are you? Argons can combine themselves into even more terrible forms.&lt;BR&gt;&lt;BR&gt;We may be able to stop the outside world from being argonified. But the only way to find a countermeasure or an antidote is to study here, in the heart of argon territory.&lt;BR&gt;&lt;BR&gt;Several structures are especially suspicious. Please go and investigate them.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="5" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Our leading theory is that the argons are using life energy to construct and power these towers. Further research might reveal a way to block or redirect that life energy.&lt;BR&gt;&lt;BR&gt;I must let Yasring know about this...have you seen her?&lt;NEXTPAGEBUTTON&gt;"No."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Yasring always goes by herself...it's hard to keep track of her.&lt;BR&gt;&lt;BR&gt;I thought she'd be here since she was researching the tower lately.&lt;BR&gt;&lt;BR&gt;But it's been too long since I've heard from her. I'm worried.&lt;BR&gt;&lt;BR&gt;But...we have scouts patrolling the area, so if she's in danger, we should know.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="6" villagerId="2002">
+        <Page social="1" voiceTypeId="0">Adeldur's got a bunch of theories, but I care about just one thing: saving our people before the argons steal their "life energy," whatever that is. I'm not even really in the military. I came here to find someone specific...someone I cared about.&lt;BR&gt;&lt;BR&gt;I'm guessing you're after the same thing, more or less.&lt;NEXTPAGEBUTTON&gt;"You could say that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You can check our register. It's not entirely complete, but the register has an entry for everyone we've saved and everyone we're still looking for. That's the best place to start.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="7" villagerId="2002">
+        <Page social="1" voiceTypeId="0">If you're part of the rescue operation, you need to hurry.&lt;BR&gt;&lt;BR&gt;We've got a special device that lets us retrace our steps. Otherwise we'd get lost in here. All these hallways look alike. Just follow the footprints, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="8" villagerId="2003">
+        <Page social="0" voiceTypeId="0">I see...that's why the men failed to regroup.&lt;BR&gt;&lt;BR&gt;Thank you. I think it's clear that we lost our men to the Argons.&lt;BR&gt;&lt;BR&gt;Damn those Argons...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" villagerId="2003">
+        <Page social="0">Rescue everyone you can, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="246" prevId="9" villagerId="2003">
+        <Page social="10" voiceTypeId="0">The register is woefully incomplete. We don't have information on the lowest levels because it's so dangerous down there.&lt;NEXTPAGEBUTTON&gt;"I can help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">If you're brave enough, check in with {@linkcreature:246#2004#Greyden}, the scout squad commander. He can update the list.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="246" prevId="11" villagerId="2004">
+        <Page social="4" voiceTypeId="0">I'm impressed. Not many go to such lengths to find missing comrades. I will help in any way I can. How could I refuse?</Page>
+    </Text>
+</QuestDialog>

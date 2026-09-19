@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="77" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0">Dulari and his staff taught you how to train new skills.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">I trust you've seen by now that this island is no normal place. The ghilliedhus, the structures to the south, and further on there's the...well let's just say you'll be no use to us if you're dead.&lt;BR&gt;&lt;BR&gt;Making the island safe for future researchers is your top priority now. &lt;font color='#660000'&gt;Volis&lt;/font&gt; over there will teach you how to be a better &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1024">
+        <Page social="4">Those seeking knowledge are right to come to Volis, child of Karas. When you are ready to learn, the Skills icon on the Menu bar updates. Open your &lt;font color='#660000'&gt;Skill window (K)&lt;/font&gt; to select your new skill, or visit class masters and instructors throughout the federation and select &lt;font color='#660000'&gt;Learn Skills&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;For now, an eager &lt;PCCLASS:lcase&gt; should focus on &lt;font color='#660000'&gt;Metamorphic Blast I&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1024">
+        <Page social="4">A wave of pain falls hard on the enemy. When Metamorphic Blast washes over opponents, they scatter like seeds before the breeze. &lt;BR&gt;&lt;BR&gt;Also, even the most experienced spellcasters use &lt;font color='#660000'&gt;Mana Infusion&lt;/font&gt; to replenish their power. Without the resources to turn knowledge into actions, defeat is the only possible outcome.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1017">
+        <Page social="4">You learned Metamorphic Blast, but can you use it?&lt;BR&gt;&lt;BR&gt;You've probably noticed all the {@linkcreature:13#300921#noruks} around here. Take out a few on your way south, and check in with Nivek at the base of the hill.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" prevId="5" villagerId="1115">
+        <Page social="4">Hmm, these hides are...well, disgusting actually. But since it seems you have some skills, perhaps you can help us with a few other tasks. Good job, recruit!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="213" villagerId="1115">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

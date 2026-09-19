@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1023">
+        <Page social="6">Killian's been sighted everywhere lately. We need to capture that little maniac before he does much more damage.&lt;BR&gt;&lt;BR&gt;Checkpoint Ebony is the best place to get more information about Killian.&lt;BR&gt;&lt;BR&gt;Belei can tell you how to get there and catch you up on more information.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1027">
+        <Page social="5">Melrasa thought I had more information?&lt;BR&gt;&lt;BR&gt;Let's see...weird god sharing his body with his dead half-sister on the loose, trying to collect relics for Thulsa. That about cover it?&lt;BR&gt;&lt;BR&gt;That's the same info Melrasa has—the same info we all have.&lt;BR&gt;&lt;BR&gt;Anyway, Checkpoint Ebony is just through this cave. It's quite dark inside. Be careful.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1017">
+        <Page social="6">Melrasa sent you?&lt;BR&gt;&lt;BR&gt;Well, let's see what we can do with you, eh?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1013">
+        <Page social="4">They're up to something.&lt;BR&gt;&lt;BR&gt;Who? The {@LinkCreature:33#910#necromancers}. I don't know much about them—we catch only glimpses of them—but I think they're in charge.&lt;BR&gt;&lt;BR&gt;See if you can gather some intelligence...from a necromancer corpse.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1013">
+        <Page social="4">Let me look at that.&lt;BR&gt;&lt;BR&gt;Aha! It says there that Thulsa built some kind of device in the Prison of the Abyss—wherever that is—and is capturing dead souls that should be returning to the Dream.&lt;BR&gt;&lt;BR&gt;That explains a lot, doesn't it?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" villagerId="1013">
+        <Page social="0">I'd love to see what's in a {@LinkCreature:33#910#necromancer}'s pocket. Wouldn't you?</Page>
+    </Text>
+</QuestDialog>

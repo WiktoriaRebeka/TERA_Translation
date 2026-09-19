@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="9999">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="9999">
+        <Page social="4">When you embrace &lt;font color='#FF0000'&gt;Intimidation&lt;/font&gt;, you transform some of your existing skills and gain access to others. You can grab and hold the attention of your foes, but lose the ability to charge skills other than &lt;font color='#FF0000'&gt;Thunder Strike&lt;/font&gt; and &lt;font color='#FF0000'&gt;Vampiric Blow&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;The first skill we'll master is &lt;font color='#FF0000'&gt;Punishing Strike&lt;/font&gt;. Press the skill button for a quick upward strike, then again to attack a second time.&lt;BR&gt;&lt;BR&gt;The &lt;font color='#FF0000'&gt;Training Dummies&lt;/font&gt; to my left and right are vulnerable to properly executed double attacks. Destroy one, and we'll continue.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="9999">
+        <Page social="4">An acceptable beginning.&lt;BR&gt;&lt;BR&gt;Our next task is mastering &lt;font color='#FF0000'&gt;Overwhelm&lt;/font&gt;.</Page>
+    </Text>
+</QuestDialog>

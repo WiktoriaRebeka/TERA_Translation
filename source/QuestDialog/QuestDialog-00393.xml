@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="215" prevId="0" villagerId="1010">
+        <Page social="0" voiceTypeId="0">{@linkcreature:215#1027$$Bedoram} is out at Camp Vigilance for research.&lt;BR&gt;&lt;BR&gt;Poporia sent supplies to aid him. All he needs now is a helping hand.&lt;BR&gt;&lt;BR&gt;You can head straight this way to the camp. Before you leave, can you please help me with something?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Bedoram traced the problem to a relic known as Dementalith, but warned you that such a device is a massive undertaking, and that the danger was greater than it first appeared.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="1" villagerId="1010">
+        <Page social="4" voiceTypeId="0">You'll be able to see Ordnarath on your way to Bedoram. Well, these days, we call it the &amp;quot;Land of Fury.&amp;quot; It's been wrecked by those mad monsters.&lt;BR&gt;&lt;BR&gt;Inside, you'll find an old box with farm tools.&lt;BR&gt;&lt;BR&gt;Inside that box, there's a document. Please retrieve that document and deliver it to Bedoram. The guards have been infected, so you'll have to fight past them to get in.&lt;BR&gt;&lt;BR&gt;I'll give you a more detailed location.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" prevId="3" villagerId="1027">
+        <Page social="4" voiceTypeId="0">Thank Balder! Just when I needed help!&lt;BR&gt;&lt;BR&gt;You even got the document!&lt;BR&gt;&lt;BR&gt;This was essential to track down where this disease came from. Amallen...he is a good friend.&lt;NEXTPAGEBUTTON&gt;"He wanted to make sure you get full support."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It is just as I thought.&lt;BR&gt;&lt;BR&gt;Nearby, there is a dementalith...red, like the color of blood.&lt;BR&gt;It appeared after the Argon War.&lt;BR&gt;&lt;BR&gt;The poporis guarding the Ordnarath were the first to find it.&lt;BR&gt;&lt;BR&gt;I'm sure that it has something to do with the disease...oh.&lt;NEXTPAGEBUTTON&gt;"What's wrong?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Good heavens!&lt;BR&gt;&lt;BR&gt;The carriage with the research device was ambushed.&lt;BR&gt;&lt;BR&gt;I'll send you there right away!&lt;BR&gt;&lt;BR&gt;Please help.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" prevId="4" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Thanks be to Oriyn! You saved the caravan, and my equipment. Now, I must take field-strength readings, then cross-reference those with our earlier data. Oh, and I will need fresh organic residue!&lt;NEXTPAGEBUTTON&gt;"You need what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Could you gather the organic samples I need? The field causes physical changes over time. To measure it, I must analyze the blood of the...well, the {@linkcreature:15#14#blood fiends}.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="215" prevId="5" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Excellent!&lt;BR&gt;&lt;BR&gt;I am almost done entering the new data. Once I add this blood, the analyzer will determine the drift in your samples and compare them.&lt;BR&gt;&lt;BR&gt;If I am right, they will be the same.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="215" villagerId="1030">
+        <Page social="0">I still need that blood, &lt;PCNAME&gt;. Those {@LinkCreature:15#14#blood fiends} are the key.&lt;BR&gt;&lt;BR&gt;I need a broad sampling, but it need not be a lot from each subject.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="215" prevId="6" villagerId="1030">
+        <Page social="4" voiceTypeId="0">It is just as I suspected...&lt;BR&gt;&lt;BR&gt;This disease attacks the blood of the infected. Those victims without the fortitude to fight off such a powerful curse are infected practically on contact.&lt;BR&gt;&lt;BR&gt;The power from the dementalith and the blood are quite similar...I am fairly certain that the cause of the disease is the {@linkcreature:15#21#Dementalith}.&lt;NEXTPAGEBUTTON&gt;"Dementalith?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The disease is normally quite mild, unless you are fully exposed, and for an extended period. Someone is using the Dementalith to spread the disease farther than it would normally go.&lt;BR&gt;&lt;BR&gt;If we don't do anything about the Dementalith, the disease will soon spread to all of Popolion.&lt;BR&gt;&lt;BR&gt;If we can somehow disable the Dementalith, the disease should stop spreading.&lt;BR&gt;&lt;BR&gt;We know all this thanks to you, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

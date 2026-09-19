@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="5">There's no food left in the camp. We've eaten what hasn't been stolen, even with the rations we set up. Morale's dropping.&lt;BR&gt;&lt;BR&gt;Some Echo Ranch folks say there's food in Colchester east of here, and we sent Sozia out to get it, but if there's enough food to support us, she'll probably need help carrying it back.&lt;BR&gt;&lt;BR&gt;Can you go out there and give her a hand?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1003">
+        <Page social="5">Hmm? Oh, Dakona sent you, did she? Good. There's definitely food in there, but every time I try to gather it up, these things show up and chase me off.&lt;BR&gt;&lt;BR&gt;You might be quicker than me. If you can run in there and grab the sacks, we can bring them back to the base.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1003">
+        <Page social="5">Oh good. I was starting to worry that I'd never be able to get this food back there.&lt;BR&gt;&lt;BR&gt;It's good to know we might be able to eat for a while longer!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="206" villagerId="1003">
+        <Page social="0">Could you not find it? Shall I point it out again?</Page>
+    </Text>
+</QuestDialog>

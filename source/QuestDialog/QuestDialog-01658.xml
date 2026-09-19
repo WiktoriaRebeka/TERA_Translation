@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Grandpa gave me this map. "Avil," he'd say, "this map shows exactly where Baracos, Lord of the Labyrinth, keeps his treasures."&lt;BR&gt;&lt;BR&gt;My sister said that Grandpa would say almost anything to get us to bed, but she's a bitter hag. I believe!&lt;BR&gt;&lt;BR&gt;You're going deep into the Golden Labyrinth. Can you keep an eye out for these hidden treasures?&lt;NEXTPAGEBUTTON&gt;"You don't want to come?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Thank you, no. When I was a kid, my sister once threw me down a well, and there were baby caimans at the bottom.&lt;BR&gt;&lt;BR&gt;Ever since then, I can't stand anything scaly.&lt;BR&gt;&lt;BR&gt;I'd be a wreck before we got inside the door, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3005" prevId="2" villagerId="1017">
+        <Page social="0" voiceTypeId="0">(Old sundries, disintegrating bandages, and a rusty dagger. All worthless.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3005" prevId="2" villagerId="1018">
+        <Page social="0" voiceTypeId="0">(A faintly glowing bracelet lies amid some chunks of wood.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="208" prevId="3" villagerId="1021">
+        <Page social="4" voiceTypeId="0">A rusty dagger and a shiny bracelet? Maybe Grandpa was spinning tales after all.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1039">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;You distracted orcans in the orcan territory and defeated basilisks—Rahto's secret weapon. After getting through the orcans surrounding Pora Elinu, you delivered findings from orcan territory to Arin.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1039">
+        <Page social="0" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;The path behind us is the only way to Pora Elinu. I know: It's on fire. But what choice do we have? Use those fancy blades of yours to reach Pora Elinu. Cut your way through the orcan encampment, locate Princess Arin, and see what you can do to help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Welcome. You've come such a long and dangerous way.&lt;BR&gt;&lt;BR&gt;From what you're telling me, locating the orcan captain is of utmost importance. I'll consult with my advisors.&lt;BR&gt;&lt;BR&gt;While I do, it would be helpful if you could assist Meilyn. She's our only physician, and the sheer number of wounded have left her somewhat overwhelmed.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1013">
+        <Page social="4" voiceTypeId="0">You don't seem badly hurt. What do you need?&lt;BR&gt;&lt;BR&gt;Oh, Arin sent you? Good, I could use some help. Right now, Pora Elinu is a temporary hospital for the injured. So many people have been wounded or killed. It makes me so sad.&lt;BR&gt;&lt;BR&gt;I've got my hands full, looking after the wounded. Can you grab some corpse-lash flowers for me?&lt;BR&gt;&lt;BR&gt;I know: scary name. But it's a great remedy for patients who've lost a lot of blood.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Thank you. This should slow the bleeding, and ease their pain for a while.&lt;BR&gt;&lt;BR&gt;I'm good for now. Princess Arin is waiting for you outside.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" villagerId="1013">
+        <Page social="0">What, can't you find them? There are corpse-lash flowers all over the place. I can see three from here!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="5" villagerId="1023">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, welcome. We may have some information on this Rahto.&lt;BR&gt;&lt;BR&gt;Talk to Guard Captain Koro for the details. He's waiting for you at the other end of the balcony.&lt;BR&gt;&lt;BR&gt;And please take these supplies to him. He's been waiting for them.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1010">
+        <Page social="5" voiceTypeId="0">Oh, precious supplies! Thank you!&lt;BR&gt;&lt;BR&gt;Here, you should keep these boots for yourself. You could use them.</Page>
+    </Text>
+</QuestDialog>

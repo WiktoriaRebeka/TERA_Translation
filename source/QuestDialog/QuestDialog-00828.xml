@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1019">
+        <Page social="6">The Legion of Thulsa seized Wyrmgorge despite our efforts to stop them.&lt;BR&gt;&lt;BR&gt;To defeat them, we need the bravest, most capable soldiers we can find.&lt;BR&gt;&lt;BR&gt;Are you up to the challenge? Tribune Celesta in Croskurn Approach is desperate for reinforcements.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1003">
+        <Page social="5">What brings you to this dejected place? Looking for a warm place to vacation?&lt;BR&gt;&lt;BR&gt;Ha! Apologies. There's little to drink, and we sleep with one eye open around here. We're all going a little mad.&lt;BR&gt;&lt;BR&gt;Your arrival is well-timed. We're running out of soldiers...</Page>
+    </Text>
+</QuestDialog>

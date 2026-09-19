@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1008">
+        <Page social="5">My chief engineer left for Wyvern Watch this morning. I know he wanted to stop on his way and see some of those giants' constructs at the northeast end of the craters. That little guy sure loves machines.&lt;BR&gt;&lt;BR&gt;Now I'm wondering if I should have let him go. I couldn't spare a guard, and Poihon's not as fierce as some poporis I've known.&lt;BR&gt;&lt;BR&gt;If you go that way, will you look for him?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1015">
+        <Page social="6">It was good of Adamael to worry about me. I did stop to watch Dredkreak. He's right over there to the southwest. Magnificent engineering!&lt;BR&gt;&lt;BR&gt;I'd give a lot to be able to study him in one piece, but I'll settle for a handful of intact parts, if you can get them for me.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" prevId="3" villagerId="1015">
+        <Page social="5">These will keep me busy for weeks! Thank you, &lt;PCCLASS:lcase&gt;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="238" villagerId="1015">
+        <Page social="0">I really need to get out of here before Dredkreak notices me. Can you get me those parts you promised?</Page>
+    </Text>
+</QuestDialog>

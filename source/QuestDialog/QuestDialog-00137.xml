@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1001">
+        <Page social="5">Everyone's moaning about these Gutrends, but it's the hyenas giving me trouble. Killing my animals left and right.&lt;BR&gt;&lt;BR&gt;Tell you what—go slash up a few of those {@LinkCreature:6#1031#ravenous} and {@LinkCreature:6#1032#starving hyenas} on my property.&lt;BR&gt;&lt;BR&gt;Uh...please?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1001">
+        <Page social="5">Decent enough, I guess. Too bad you weren't here earlier, though.&lt;BR&gt;&lt;BR&gt;Anyhow,...well, it's something, ain't it?</Page>
+    </Text>
+</QuestDialog>

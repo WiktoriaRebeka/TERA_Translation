@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2135">
+        <Page social="0">&lt;PCNAME&gt; flew over Arx Umbra and assaulted Parthian Outpost Alpha. After the battle, the truth about how the archdevas enslaved the Parthians came out.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2135">
+        <Page social="4">Finally! Something I'm good at. I can fly the airship and you can jump from it.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Jump from what?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Don't worry. I'll stay low enough the fall doesn't hurt too much.&lt;BR&gt;&lt;BR&gt;Come! We'll get to Zolyn no matter how much it hurts you!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2136">
+        <Page social="4">When you're in the middle of the enemy formations, drop down.&lt;BR&gt;&lt;BR&gt;May Kaia grant you victory!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="2137">
+        <Page social="4">&lt;PCNAME&gt;, come here, quick!&lt;BR&gt;&lt;BR&gt;He's still alive! And he's trying to say something!&lt;BR&gt;Road? What road? Oh! Rhodos! He's looking for Rhodos!&lt;NEXTPAGEBUTTON&gt;"I'll talk to him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2202">
+        <Page social="4">Mind…clear. Tell Rhodos…&lt;BR&gt;&lt;BR&gt;We're not servants of the archdevas; we're slaves.&lt;NEXTPAGEBUTTON&gt;"What do you mean?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Their magic…it twisted our minds. Bound us to them.&lt;BR&gt;&lt;BR&gt;Tell Rhodos to free us…and avenge me.&lt;NEXTPAGEBUTTON&gt;"Be at peace."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" prevId="5" villagerId="2108">
+        <Page social="4">Well fought, &lt;PCNAME&gt;! You got through!&lt;NEXTPAGEBUTTON&gt;"I was asked to give this to you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">It's Jitt's dagger!&lt;BR&gt;Where did you get this? Where is he?</Page>
+    </Text>
+</QuestDialog>

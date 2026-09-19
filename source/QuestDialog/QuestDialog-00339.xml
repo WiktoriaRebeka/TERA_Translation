@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">The demon lord Karascha threatened the safety of the expedition, and the world.&lt;BR&gt;&lt;BR&gt;You entered Karascha's lair and killed him, but his final words suggested that his efforts were only a distraction from a greater evil. You also uncovered a document suggesting that Elleon survived an earlier encounter with Karascha, and is still alive and looking for answers.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Everything has led to this moment, &lt;PCNAME&gt;. Karascha cannot be allowed to complete this ritual, no matter the cost. According to the document you recovered, there is a shrine northwest of this camp. Fight your way through any demons you encounter while I marshal our forces.&lt;BR&gt;&lt;BR&gt;We must face Karasha in his lair—and end him.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">As soon as you struck the final blow, the demons retreated. We can already feel a shift in the energy of the gorge. &lt;NEXTPAGEBUTTON&gt;"Karascha said some things... "&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oh? Leander will be here soon, perhaps he should hear this as well. And there he is!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1037">
+        <Page social="4">When Sersine, child of Karas, sent for me, I was hoping to see Elleon. Though I am glad you are safe. What news do you have of my brother?&lt;NEXTPAGEBUTTON&gt;"Here's what happened..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Hmm. One would expect Elleon to be present at such a momentous occasion. But it seems my brother is nowhere to be found. Is there anything else you can tell me? &lt;NEXTPAGEBUTTON&gt;"I did find this scroll..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Leander reads the scroll)&lt;BR&gt;&lt;BR&gt;An ancient script, but one known to me. It says, "Elleon escaped our grasp. We've notified agents in Arun to find and silence him once and for all."&lt;BR&gt;&lt;BR&gt;It would seem my brother's absence is not a voluntary one, and he may still be in danger. Follow me back to Tower Base, &lt;PCNAME&gt;. Adria must know of this.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1001">
+        <Page social="4">Okay. So Elleon was captured. At least we know he got away...&lt;BR&gt;&lt;BR&gt;Keep this to yourself for now. If Elleon's captors know you're looking for them, you could be in great danger. We'll figure out a cover story that will work for everyone.</Page>
+    </Text>
+</QuestDialog>

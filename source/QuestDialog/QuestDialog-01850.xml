@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3005">
+        <Page social="4">{@LinkCreature:245#3509#Jehnsprin} at {@Rgn:45008$$Field Base Valiance} needs a little combat support. Our investigations put us in harms way, we accept that. But I'd like to mitigate the dangers all the same.&lt;BR&gt;&lt;BR&gt;Head out there and back him up.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="4">I'm a scientist, not a soldier. I'm not here to fight the argons, so I'd like your assistance. Most of it is simply killing things, but sometimes you'll also get to blow stuff up.&lt;BR&gt;&lt;BR&gt;Good times.&lt;BR&gt;&lt;BR&gt;What do you say?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="245" prevId="2" villagerId="3509">
+        <Page social="4">Still standing, eh?&lt;BR&gt;&lt;BR&gt;It's great to work with a soldier of your ability. Makes life so much easier!</Page>
+    </Text>
+</QuestDialog>

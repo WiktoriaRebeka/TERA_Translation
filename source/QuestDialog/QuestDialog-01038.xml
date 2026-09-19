@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1009">
+        <Page social="4">I know, I know. You're just passing through. Wish I was. Without my scouts there's just the two of us, so if you want to help out with the argon's leftovers before you go, we'd appreciate it. You won't have to go far.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1022">
+        <Page social="4">As argons go, these are a walk in the park. We're doing all right here for the moment.</Page>
+    </Text>
+</QuestDialog>

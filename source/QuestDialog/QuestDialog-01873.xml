@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">We got an unusual request for supplies from the catacombs.&lt;BR&gt;&lt;BR&gt;It's a dangerous journey, so we're sending you. Report to Artur.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="4">I do need help! {@LinkCreature:418#2006#Geik} requested cadmiel mushrooms to test on argons.&lt;BR&gt;&lt;BR&gt;You'll need to gather some, and then deliver them to him.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="418" prevId="2" villagerId="2006">
+        <Page social="4">Pretty fast work, &lt;PCNAME&gt;. I only sent the request yesterday.&lt;BR&gt;&lt;BR&gt;I'm eager to see what effect these cadmiel mushrooms have on argon physiology.&lt;BR&gt;&lt;BR&gt;I hope it doesn't make them stronger!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="418" villagerId="2006">
+        <Page social="0">Someone's standing in the way of scientific advancement. I need those mushrooms, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="418" prevId="7" villagerId="2006">
+        <Page social="4">Pretty fast work, &lt;PCNAME&gt;. I only sent the request yesterday.&lt;BR&gt;&lt;BR&gt;I'm eager to see what effect these cadmiel mushrooms have on argon physiology.&lt;BR&gt;&lt;BR&gt;I hope it doesn't make them stronger!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="418" villagerId="2006">
+        <Page social="0">Someone's standing in the way of scientific advancement. I need those mushrooms, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="418" prevId="9" villagerId="2006">
+        <Page social="4">Pretty fast work, &lt;PCNAME&gt;. I only sent the request yesterday.&lt;BR&gt;&lt;BR&gt;I'm eager to see what effect these cadmiel mushrooms have on argon physiology.&lt;BR&gt;&lt;BR&gt;I hope it doesn't make them stronger!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="418" villagerId="2006">
+        <Page social="0">Someone's standing in the way of scientific advancement. I need those mushrooms, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1050">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1050">
+        <Page social="4">Sorcha took a few animated dolls for protection on her journey into the Tainted Gorge, but she needs real soldiers. Could you and a few friends go after her and keep her safe?&lt;BR&gt;&lt;BR&gt;Form up with a lancer or warrior to tank, a mystic or priest to heal, and a damage dealer or two. That kind of balance ensures you can tackle any challenge that comes your way.&lt;BR&gt;&lt;BR&gt;The teleportal's all set to take you to Sorcha's location. Good luck.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="437" prevId="2" villagerId="1001">
+        <Page social="4">That was scary! And...um...I'm sorry.&lt;BR&gt;&lt;BR&gt;Thank you for protecting me. I shouldn't have come here without soldiers to guard me.&lt;BR&gt;&lt;BR&gt;I'll catch up after I get a few last readings. You can use the &lt;B&gt;teleportal&lt;/B&gt; to return to the &lt;B&gt;Tower Base&lt;/B&gt;. Tell &lt;B&gt;Adjutant Jorhon&lt;/B&gt; I'm okay...thanks to you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1006">
+        <Page social="4">Fine work in the gorge, &lt;PCNAME&gt;. Thanks for helping her out.&lt;BR&gt;&lt;BR&gt;As you saw, no matter how strong we are as soldiers, we always fight better in formation. Keep that in mind as you advance in the federation. Some challenges are meant to be tackled en masse.</Page>
+    </Text>
+</QuestDialog>

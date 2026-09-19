@@ -1,0 +1,87 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1001">
+        <Page social="0">Castanica uses durignite for its magical shields as well as its famous glowing lights, so you were sent to Fyrmount when supplies ran low. You discovered that undead horrors had seized the mine where durignite was extracted. You recovered some of the durignite, but the undead continued to threaten the mines of Fyrmount.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1001">
+        <Page social="5" voiceTypeId="0">All these red lights you see? Powered by durignite. The same substance that shields Castanica from attack.&lt;BR&gt;&lt;BR&gt;You've probably heard the rumors, &lt;PCNAME&gt;, so there's no point in hiding it. We're almost out of durignite.&lt;BR&gt;&lt;BR&gt;Before we set off a citywide panic, look over this list of...shall we say..."alternative suppliers."</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1029">
+        <Page social="5" voiceTypeId="0">Durignite? That's a new one. But I suspect you aren't really here about some kind of magical volcanic rock. You have...other needs, yes?&lt;NEXTPAGEBUTTON&gt;"Actually, just the durignite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hmph. You don't see...anything else that might be too hot to touch?&lt;NEXTPAGEBUTTON&gt;"Really. Just the durignite."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Pity.&lt;BR&gt;&lt;BR&gt;I do have a few pieces of it...courtesy of an old flame, if you will.&lt;BR&gt;&lt;BR&gt;And I've heard the rumors—we all have. When your bosses get their supply problem solved, I expect to be paid back. Double.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" prevId="2" villagerId="1042">
+        <Page social="0" voiceTypeId="0">Durignite? If you're asking me, then the rumors are true, eh? We're running out of durignite, which means no shields, which means...&lt;BR&gt;&lt;BR&gt;By all means, take what I have. I've got a caravan to prepare. If Castanica's going dark, I'm not sticking around to see it.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="2" villagerId="1038">
+        <Page social="0" voiceTypeId="0">I knew someone would be coming for the durignite. I just didn't think it would be you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I have a small amount. I don't know whether it'll be enough, but...always happy to help the cause!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="61" prevId="2" villagerId="1100">
+        <Page social="4" voiceTypeId="0">Look, &lt;PCCLASS:lcase&gt;, I need durignite to power my light sculptures. Without them, this might as well be...Velika!&lt;BR&gt;&lt;BR&gt;But the city's shields are another matter.&lt;BR&gt;&lt;BR&gt;Take what I have. I love my city too much to see it unprotected. But what will you do when this runs out?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="61" prevId="3" villagerId="1001">
+        <Page social="4" voiceTypeId="0">That's enough for a few days...maybe a week if we stretch it, but it's no permanent solution.&lt;BR&gt;&lt;BR&gt;People are starting to figure out that Castanica isn't as safe as it appears. We need a real solution. That means going to Fyrmount and checking on the mine. Ask Dada, the foreman, why we're not getting shipments of durignite.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="61" villagerId="1001">
+        <Page social="0">We need that durignite, &lt;PCNAME&gt;. Unless you want to see the lights of Castanica go dark, and the shields go down.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="204" prevId="7" villagerId="1119">
+        <Page social="5" voiceTypeId="0">You! this place is off limits!&lt;BR&gt;&lt;BR&gt;What part of "emergency restriction" do you not understand?&lt;BR&gt;&lt;BR&gt;You don't want them to get you, right?&lt;NEXTPAGEBUTTON&gt;"Who is 'them,' exactly?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The undead, of course! They've taken over the mine. They took and...twisted...some of my best crews, and others are just plain missing. Wait...you're from the federation! You can help!&lt;BR&gt;&lt;BR&gt;Two mines, right? Start with &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#95358.7734,52169.5352,2236.8047&amp;type=1&amp;name=Delthin Mine"&gt;Delthin Mine&lt;/A&gt;&lt;/font&gt; first and then move on to &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#98148.4609,51347.4570,2173.8384&amp;type=1&amp;name=Tansin Mine"&gt;Tansin Mine&lt;/A&gt;&lt;/font&gt;. Find my crews! Find out what's going on!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="204" prevId="9" villagerId="1125">
+        <Page social="5" voiceTypeId="0">(The trolley is empty.)</Page>
+    </Text>
+    <Text id="11" huntingZoneId="204" prevId="9" villagerId="1126">
+        <Page social="5" voiceTypeId="0">(Bone fragments cover the floor of the trolley.)</Page>
+    </Text>
+    <Text id="12" huntingZoneId="204" prevId="9" villagerId="1127">
+        <Page social="0" voiceTypeId="0">(Broken shovels and pickaxes lie within.)</Page>
+    </Text>
+    <Text id="13" huntingZoneId="204" prevId="9" villagerId="1128">
+        <Page social="0" voiceTypeId="0">(Durignite fragments cover the floor of the trolley.)</Page>
+    </Text>
+    <Text id="14" huntingZoneId="204" prevId="10" villagerId="1129">
+        <Page social="5" voiceTypeId="0">(The nameplate reads "Property of Fyrmount Mining Corp.")</Page>
+    </Text>
+    <Text id="15" huntingZoneId="204" prevId="10" villagerId="1130">
+        <Page social="5" voiceTypeId="0">(The pendant has a woman's portrait on it.)</Page>
+    </Text>
+    <Text id="16" huntingZoneId="204" prevId="10" villagerId="1131">
+        <Page social="5" voiceTypeId="0">(The journal is soaked with blood and impossible to read.)</Page>
+    </Text>
+    <Text id="17" huntingZoneId="204" prevId="10" villagerId="1132">
+        <Page social="5" voiceTypeId="0">(This is a family portrait.)</Page>
+    </Text>
+    <Text id="18" huntingZoneId="204" prevId="14" villagerId="1119">
+        <Page social="5" voiceTypeId="0">All dead? I...thought I was ready to hear that. Give me a second...&lt;BR&gt;&lt;BR&gt;Okay, back to business. I can deliver these items to family members—for those who had family. I can mourn the dead.&lt;BR&gt;&lt;BR&gt;But I suspect it was missing durignite, not missing miners, that brought you here. The durignite's down there somewhere.&lt;BR&gt;&lt;BR&gt;If I had to guess, I'd guess {@LinkCreature:4#1051#devan war golems} and the {@LinkCreature:4#1052#fallen devan protectors} took it.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="204" villagerId="1119">
+        <Page social="0">If they're all dead, at least try to bring back something their families can bury.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="204" prevId="18" villagerId="1119">
+        <Page social="4" voiceTypeId="0">Enough durignite to power Castanica for months.&lt;BR&gt;&lt;BR&gt;Isolda can distribute it.&lt;BR&gt;&lt;BR&gt;Castanica will have its shields, and all those red lights. I'll have to visit her myself someday. The tales I've heard...</Page>
+    </Text>
+    <Text id="21" huntingZoneId="204" villagerId="1119">
+        <Page social="0">Durignite doesn't look like much, but it's immensely powerful.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="61" prevId="20" villagerId="1001">
+        <Page social="5" voiceTypeId="0">We'll get right on this, &lt;PCNAME&gt;. We can get the Kaia's Sword regiment to seize the mine and drive out the undead. Then we'll have an uninterrupted supply of durignite. That's the most important thing.&lt;BR&gt;&lt;BR&gt;Yes, yes, of course the miners' lives are important, too.&lt;BR&gt;&lt;BR&gt;Remember all that durignite we borrowed? Can you tell everyone that we'll be able to repay them soon?</Page>
+    </Text>
+    <Text id="23" huntingZoneId="61" prevId="22" villagerId="1029">
+        <Page social="5" voiceTypeId="0">I can be patient. It's a virtue, right?&lt;BR&gt;&lt;BR&gt;A lot of virtues are overrated, but patience...patience I kinda like.&lt;BR&gt;&lt;BR&gt;When I get my durignite back, are you going to deliver it...personally?</Page>
+    </Text>
+    <Text id="24" huntingZoneId="61" prevId="22" villagerId="1042">
+        <Page social="4" voiceTypeId="0">If it weren't for caravan delays, I wouldn't even be here, &lt;PCNAME&gt;. And now you say there's nothing to be worried about.&lt;BR&gt;&lt;BR&gt;I'm keeping my bags packed. Just in case.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="61" prevId="22" villagerId="1038">
+        <Page social="4" voiceTypeId="0">Well, I'd like my durignite back, but those poor miners!&lt;BR&gt;&lt;BR&gt;Your bosses seem awfully happy about the durignite, but I guess they don't have to deal with the grieving families, do they?</Page>
+    </Text>
+    <Text id="26" huntingZoneId="61" prevId="22" villagerId="1100">
+        <Page social="4" voiceTypeId="0">Delays, excuses, delays, excuses...&lt;BR&gt;&lt;BR&gt;"Undead took over the mines"—likely story. Probably some supply officer getting rich on the black market.&lt;BR&gt;&lt;BR&gt;Look, I'm glad the city is safe. But I can't finish this light sculpture until your bosses pay me back the durignite I lent them in a fit of unwise patriotism.</Page>
+    </Text>
+    <Text id="27" huntingZoneId="61" prevId="23" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Even if they aren't seeing the big picture, &lt;PCNAME&gt;, I'm glad you are.&lt;BR&gt;&lt;BR&gt;You got back the durignite, and that's the most important thing.&lt;BR&gt;&lt;BR&gt;Here's a token of our appreciation—a little something to remember Castanica by.</Page>
+    </Text>
+</QuestDialog>

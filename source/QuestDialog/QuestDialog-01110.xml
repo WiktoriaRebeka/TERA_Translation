@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">{@Rgn:47002$$Whitefrost Forest} still isn't safe for our researchers. I'd appreciate it if you'd go after those {@LinkCreature:47#1001#Tirkai grizzlies}. Thin out the {@LinkCreature:47#4001#argonomorph Dagonite crusaders}, and {@LinkCreature:47#2001#argonomorph caprin imps} while you're at it.&lt;BR&gt;&lt;BR&gt;{@Creature:247#1002$$Salaine} at {@Rgn:47006$$Field Base Lunacy} will take care of your reward.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1002">
+        <Page social="5">Thank you.&lt;BR&gt;&lt;BR&gt;You've helped make us all a little safer.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1002">
+        <Page social="0">When you've thinned out the {@LinkCreature:47#1001#Tirkai grizzlies}, {@LinkCreature:47#4001#argonomorph Dagonite crusaders}, and {@LinkCreature:47#2001#argonomorph caprin imps} in {@Rgn:47002$$Whitefrost Forest}, come on back.</Page>
+    </Text>
+</QuestDialog>

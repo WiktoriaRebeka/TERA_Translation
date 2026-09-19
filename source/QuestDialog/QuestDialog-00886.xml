@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1012">
+        <Page social="6">This is where the other gods imprisoned Saleron at the end of the Divine War. Buried alive, basically, with only the remnant of his once-mighty prions for company.&lt;BR&gt;&lt;BR&gt;The lesson of that little fable is pretty obvious, eh? Don't lose a war with the gods.&lt;BR&gt;&lt;BR&gt;Saleron's pain, Saleron's problem. But there's a side benefit for us: mysterious mushrooms fed by Saleron's blood as it trickles through the rocks. Gather me some!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1012">
+        <Page social="7">A fungus, fed on a god's blood.&lt;BR&gt;&lt;BR&gt;I'm sure the Mysterium can put it to good use somehow. Best not to ask too many questions, eh?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1012">
+        <Page social="0">More mushrooms, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

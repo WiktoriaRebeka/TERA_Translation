@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="4">If we can wipe out those {@LinkCreature:39#170#loyal jalmaraks} to the east of camp, that's one fewer force the arachnens can use against us.&lt;BR&gt;&lt;BR&gt;If you kill any on your travels, bring me the heads.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1015">
+        <Page social="4">You've performed a valuable service for the federation, and for all of us here. I hope you'll stick around.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1015">
+        <Page social="0">The arachnens control the {@LinkCreature:39#170#loyal jalmaraks}. We want them gone.&lt;BR&gt;&lt;BR&gt;Are they gone yet?</Page>
+    </Text>
+</QuestDialog>

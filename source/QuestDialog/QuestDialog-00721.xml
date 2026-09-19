@@ -1,0 +1,52 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="0">With the rescue team, you used the Menhir of Vitality to break the magical shield hiding the entrance to Thulsa's secret research facility. You learned from Kaidun's soldiers that Kaidun was mutated by Thulsa's evil magic. To release Kaidun from the terrible curse, you killed him. Before dying, Kaidun told you Thulsa has abducted the Core, and he asked you to tell Fraya he loved her. Fraya thanked you for freeing Kaidun from the terrible curse.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1008">
+        <Page social="5" voiceTypeId="0">That weird stone was here when we arrived. It keeps the undead out, so we made a base near it.&lt;BR&gt;&lt;BR&gt;Maybe we can use it to break the shield.&lt;BR&gt;&lt;BR&gt;Check it out while I look around for other methods.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1023">
+        <Page social="5" voiceTypeId="0">(Strange writing glows on the stone's surface. It gives off a slight warmth.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="233" prevId="3" villagerId="1008">
+        <Page social="5" voiceTypeId="0">What did you do?! The shield was there and then it just vanished!&lt;NEXTPAGEBUTTON&gt;"Well, I was looking at the stone..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You'll have to tell me later. We don't know how much time we have. The &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=2#-28853,-66818,3196&amp;type=1&amp;Scout Target"&gt;research facility entrance&lt;/A&gt;&lt;/font&gt; is probably right behind where that shield was!&lt;BR&gt;&lt;BR&gt;I'll let the strike team know. We'll be right behind you.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3004" prevId="4" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Can you feel that? No, of course you can't. Trust me, the necromantic power in this room is strong. And guess what else we found? {@linkcreature:3004#1010#Behrohz}, one of Kaidun's trusted lieutenants. He's in bad shape, but he should be able to answer questions.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="3004" prevId="5" villagerId="1010">
+        <Page social="5" voiceTypeId="0">Kaidun found out the Core was being confined here. But it was a trap...&lt;BR&gt;&lt;BR&gt;Something overtook us, took our minds. They captured Kaidun. I tried to get out and alert Fraya...but I didn't make it.&lt;NEXTPAGEBUTTON&gt;"We'll find Kaidun and the others."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3" voiceTypeId="0">Thank you. My older brother {@LinkCreature:471#1002#Akkhan} is in there. Tell him I'm safe, and you've come to rescue them.&lt;BR&gt;&lt;BR&gt;Please save my comrades and General Kaidun.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="3004" prevId="6" villagerId="1002">
+        <Page social="5" voiceTypeId="0">Who...who are you? What do you want? Behrohz? He lives? It's too late for me, but the others... You'll have to defeat {@LinkCreature:471#12#Trayzadius} to save them.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="3004" prevId="7" villagerId="1007">
+        <Page social="5" voiceTypeId="0">Thank you! But...where's Kaidun? Isn't he with you?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="3004" prevId="7" villagerId="1008">
+        <Page social="5" voiceTypeId="0">We've failed Kaidun. We couldn't stop Thulsa....</Page>
+    </Text>
+    <Text id="10" huntingZoneId="3004" prevId="8" villagerId="1003">
+        <Page social="5" voiceTypeId="0">Kaidun is gone.&lt;BR&gt;&lt;BR&gt;Thulsa worked terrible magic on him, deforming and mutating him into a monster. We have to free him.&lt;NEXTPAGEBUTTON&gt;"Free him how?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Thulsa has him imprisoned. Before he was changed, Kaidun slipped me this. He called it a "liquid key." I think its purpose is to break the imprisoning spell. Take it.&lt;BR&gt;&lt;BR&gt;Use the passage behind me and go left where the corridor crosses another. Kill {@linkcreature:3004#13#Dalmanak the Glutton} and destroy the {@linkcreature:3004#93#necromancy device}.&lt;BR&gt;&lt;BR&gt;If it's the only way to free Kaidun's soul, you may have to kill him.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="3004" prevId="10" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Thank you. There's not much time. Tell Fraya Thulsa took the Core. He's on his way to Val Palrada.&lt;NEXTPAGEBUTTON&gt;"I will stop him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Tell her I'm sorry. This isn't how the heroes' stories are meant to end. Tell her I loved her...love her. Always.&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">She can trust almost no one. I'm glad you're on her side.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="73" prevId="11" villagerId="1110">
+        <Page social="5" voiceTypeId="0">I know you did everything you could, but it's just so sad. I can't bear to tell Fraya he's dead!&lt;BR&gt;&lt;BR&gt;And Thulsa has the Core! If this becomes known, there'll be widespread panic. Allemantheia will descend into chaos.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="518" prevId="12" villagerId="1001">
+        <Page social="5" voiceTypeId="0">I know that expression. I've worn it myself, every time I had to tell some mother I let her child die in uniform.&lt;BR&gt;&lt;BR&gt;You don't have to tell me. The pendant's gone dark.&lt;BR&gt;&lt;BR&gt;Did he die easily?&lt;NEXTPAGEBUTTON&gt;"He was very brave."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Thank you for saving him, and for bringing me his last words.&lt;NEXTPAGEBUTTON&gt;Hand her Kaidun's pendant.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I always knew he was a brave man. Braver still for struggling against that curse, for fighting it long enough to tell me...your pardon, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I'll rescue the Core...and then I'll make sure Thulsa pays for what he's done.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="518" villagerId="1001">
+        <Page social="0">Have you found Kaidun yet? Is he all right?</Page>
+    </Text>
+</QuestDialog>

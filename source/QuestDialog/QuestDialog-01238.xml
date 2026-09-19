@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1032">
+        <Page social="4">The expeditionary force sent me out to hunt for them. Apparently I need to turn in my hunting credentials—I haven't bagged anything all day. I know they're getting hungry. Actually, they were hungry when I left.&lt;BR&gt;&lt;BR&gt;You know those autumn mushrooms that grow on the Plain of the Damned? Really nutritious, and they don't taste all that bad.&lt;BR&gt;&lt;BR&gt;I can't take them back—they'd tear me to pieces. But you, on the other hand...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1033">
+        <Page social="4">You came from Craxan? You must have the meat he promised us!&lt;NEXTPAGEBUTTON&gt;"Actually..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Oh. Mushrooms. Again.&lt;BR&gt;&lt;BR&gt;You probably don't want to be here when they find out it's mushroom soup again tonight.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1033">
+        <Page social="0">Where's Craxan with that blasted meat? We're hungry!</Page>
+    </Text>
+</QuestDialog>

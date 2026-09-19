@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Mysterious creatures have shown up, changing the atmosphere of the village at once.&lt;BR&gt;When I came back to my senses, I saw the other guardians fighting them relentlessly.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; fought past clusters of invading monsters called argons to bring Anya safely out of the storehouse. There, they met Jalka, one of the village guardians, who had been injured in the argon attack. Leaving Anya with Jalka, &lt;PCNAME&gt; rushed outside to help organize the village’s defense.&lt;BR&gt;&lt;BR&gt;But after driving off the smaller argons, &lt;PCNAME&gt; came face to face with a huge Argon Predator, and fought it in single combat. Victory seemed close, until the beast stunned &lt;PCNAME&gt; with an argon spike device, then slammed them with a mighty claw.&lt;BR&gt;&lt;BR&gt;As &lt;PCNAME&gt; struggled to remain conscious, a mysterious man appeared… seemingly in league with the argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="828" prevId="1" villagerId="101">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;! Good… you’ve got Anya with you.&lt;BR&gt;&lt;BR&gt;It’s bad out there. Those argon creatures just came out of nowhere. Everyone scattered, but I saw some people get… well, I don’t think everyone made it.&lt;BR&gt;&lt;BR&gt;I’m going to head back out there in a minute… try to organize the defense. I just… I’m hurt pretty badly. It’s hard to catch my breath…&lt;NEXTPAGEBUTTON&gt;"I’ll go. You keep Anya safe!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I can’t let you—!&lt;BR&gt;&lt;BR&gt;No, you’re right. I won’t make it… but I can keep Anya safe, even if it costs me my life.&lt;NEXTPAGEBUTTON&gt;"Do your best. Anya, stay here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="828" prevId="3" villagerId="102">
+        <Page social="4" voiceTypeId="0">I think… I think that’s all of them.&lt;BR&gt;&lt;BR&gt;We need to check on everyone, make sure they’re safe. There are probably a lot of injured people, maybe some people still trapped in buildings.&lt;BR&gt;&lt;BR&gt;Wait… &lt;PCNAME&gt;, did you see Jalka? Did he find you and Anya?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"They’re in the storehouse. They’re safe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Good… good. But we don’t know where all the other children are. Search every building for survivors… but those children are your priority, &lt;PCNAME&gt;! Understood?&lt;NEXTPAGEBUTTON&gt;"You can count on me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="132">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! You survived your encounter with that thing, after all!&lt;BR&gt;&lt;BR&gt;I can't tell you how relieved I am. That was a very brave thing you did!&lt;NEXTPAGEBUTTON&gt;"What happened? Who was that man?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I couldn’t say. When that thing appeared, everyone took cover. You were the only one to stand your ground! If there was a strange man out there, you’re the only one who saw him.&lt;BR&gt;I do know that the argons all left, soon after you fell… and they did even more damage on the way out! They were looking for something… or someone.&lt;NEXTPAGEBUTTON&gt;"The children, maybe? Wait… where’s Anya?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Calm down. Anya’s safe… she stayed in the storehouse with her Uncle Jalka, like you told her to.&lt;BR&gt;&lt;BR&gt;But some of the other gifted children are unaccounted for.&lt;NEXTPAGEBUTTON&gt;"I see…"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

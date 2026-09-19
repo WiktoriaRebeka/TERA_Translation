@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1002">
+        <Page social="5">The orcan attacks kept us from making our regular supply runs to Godric's Farm. Thanks to you, we can probably start them back up.&lt;BR&gt;&lt;BR&gt;Take these supplies to {@LinkCreature:207#1005#Heroth}. He's shepherding the last farmers in the region and babysitting some Mysterium hotshots. These supplies should be a welcome shot to his morale.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1005">
+        <Page social="5">Rations? Actual rations? Not dried rat or weeds a goat trampled weeks ago? I'm impressed!&lt;BR&gt;&lt;BR&gt;I knew Drustan wouldn't forget us out here. He's a good officer—watches out for his troops. Appreciate you coming through with these, &lt;PCNAME&gt;. My soldiers could use them.</Page>
+    </Text>
+</QuestDialog>

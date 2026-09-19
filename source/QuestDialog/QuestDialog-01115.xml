@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Tamur came to you with a problem. {@linkcreature:248#2010#Kaia}, heartbroken by the tremendous number of casualties, decided to risk her life in a bold strike on the argons in the Khanovar Gauntlet. Tamur begged you to intercede, pointing out that Kaia could be killed, which would shatter troop morale. Kaia refused to change her mind, but agreed to take you and Hasmina into battle. You fought heroically, but the sheer number of argons overwhelmed even Kaia's strength. Kaia reluctantly retreated, much to Tamur's relief.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Report to {@LinkCreature:248#2001#Tamur} in Khanovar Citadel that you've retrieved the components.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="10" voiceTypeId="0">Job well done.&lt;BR&gt;I now have faith that we can win this war. Our smiths will find a way to disable the navashad.&lt;BR&gt;Once this war is over, we'll admire the lost of our men with full respect.&lt;BR&gt;&lt;BR&gt;At the moment, we need to focus on ending this war.&lt;BR&gt;&lt;BR&gt;That's why Kaia made such a decision.&lt;NEXTPAGEBUTTON&gt;"What decision?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">{@LinkCreature:248#2010#Kaia} insists on taking the field in an attempt to end this war. You of all people know the gods can die as easily as any mortal. We can't lose Kaia. It would shatter morale! Do me a favor-try to talk her out of it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="2010">
+        <Page social="4" voiceTypeId="0">Don't try to stop me, &lt;PCNAME&gt;. For too long, we guardian gods have watched the events of the world, yet done nothing.&lt;BR&gt;&lt;BR&gt;I know the risks, but that doesn't obviate my duty to our soldiers.&lt;NEXTPAGEBUTTON&gt;"At least let me fight by your side!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Very well. If it silences Tamur's objections, join me. With you and {@LinkCreature:248#2011#Hasmina} at my side, none can stand against us!&lt;BR&gt;&lt;BR&gt;We'll leave when you're prepared.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="4" villagerId="2010">
+        <Page social="4" voiceTypeId="0">I can hear the song of battle-a sound I've not heard in far too long.&lt;BR&gt;&lt;BR&gt;We'll show the argons the power of our courage!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="5" villagerId="2001">
+        <Page social="10" voiceTypeId="0">I've heard. {@LinkCreature:248#2010#Kaia} said that the Argons are only puppets.&lt;BR&gt;&lt;BR&gt;We had a discussion after you left. We've seen enough casualty. We must infiltrate behind their lines and gather information on their leader.&lt;NEXTPAGEBUTTON&gt;"Behind the lines?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Hasmina is from a small town in Argonea.&lt;BR&gt;&lt;BR&gt;She knows the territory, and will be your guide.</Page>
+    </Text>
+</QuestDialog>

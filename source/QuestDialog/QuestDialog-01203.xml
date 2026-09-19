@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1008">
+        <Page social="4">Before we can move on the {@Rgn:50006}, we need to clear out the arzakaars guarding it.&lt;BR&gt;&lt;BR&gt;Take what forces you need and pave a path with their bodies. I'll draw up plans for a follow-on assault.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1008">
+        <Page social="6">That hurt the argons, but they'll reinforce soon enough.&lt;BR&gt;&lt;BR&gt;I sent a request for troops from Kaiator. Still haven't heard back.&lt;BR&gt;&lt;BR&gt;That's the military for you. Hurry up and wait.</Page>
+    </Text>
+</QuestDialog>

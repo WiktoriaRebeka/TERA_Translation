@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1012">
+        <Page social="4">I have an idea for treating his madness, but bear with me. It's a little...unseemly.&lt;BR&gt;&lt;BR&gt;He keeps going on and on about how "they're" watching him. He's talking about {@LinkCreature:9#410#gula pillagers}, cunning {@LinkCreature:9#700#Alizarin imp hunters} and {@LinkCreature:9#710#warders}.&lt;BR&gt;&lt;BR&gt;Bring me their eyes. We're going to shock some sensibility into that poor man.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1012">
+        <Page social="4">You got some. Great!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="209" villagerId="1012">
+        <Page social="0">You'll find {@LinkCreature:9#410#Gula Pillagers}, cunning {@LinkCreature:9#700#Alizarin imp hunters} and {@LinkCreature:9#710#Alizarin Imp Warders} in the first underground floor of Azarel's Labyrinth.</Page>
+    </Text>
+</QuestDialog>

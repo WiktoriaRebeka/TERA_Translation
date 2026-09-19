@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870101'/&gt;&lt;BR&gt;You entered Camp Mournhome with Dorial's introduction.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870101'/&gt;&lt;BR&gt;You are a new breed of elin—an avenger. A reaper. You possess vast untapped potential, and you should never allow yourself to forget it.&lt;BR&gt;&lt;BR&gt;Now go demonstrate your potential to the whole world!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1004">
+        <Page social="4" voiceTypeId="0">I don't recognize you. Did you just arrive here?&lt;BR&gt;&lt;BR&gt;No matter. Any help you can offer will be greatly appreciated. We're having trouble with some orcan deserters stealing our supplies. Can you help out?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1004">
+        <Page social="4" voiceTypeId="0">That was...something else. I mean: Thanks for the help!&lt;BR&gt;&lt;BR&gt;Those guys are just rank-and-file orcan soldiers that ran away during the fighting. They've been lurking out there, waiting for an unguarded moment to steal from our food supply.&lt;BR&gt;&lt;BR&gt;But you taught 'em a lesson and they won't be back anytime soon!&lt;BR&gt;&lt;BR&gt;Where are you from, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"You don't want to know."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Heh! Top secret, eh? Makes sense: I'd heard we'd be getting some mercenaries to help us out! And here you are!&lt;BR&gt;&lt;BR&gt;Well, you should probably report to Miayn—she's the administrator for the Honor Guard. She'll have your assignments.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1000">
+        <Page social="4" voiceTypeId="0">You must be one of the new mercenaries I heard about. We've been waiting for you.&lt;BR&gt;&lt;BR&gt;Here: This is for helping Dorial. It's just a small sign of my appreciation.</Page>
+    </Text>
+</QuestDialog>

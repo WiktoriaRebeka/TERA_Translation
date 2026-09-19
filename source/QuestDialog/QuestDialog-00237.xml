@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1016">
+        <Page social="0">The nagas are slithering forth from their nest on Serpentis Isle, &lt;PCCLASS:lcase&gt;. That's bad news for everyone.&lt;BR&gt;&lt;BR&gt;We want to contain them. Check in with {@LinkCreature:61#1010#Zesine}, and we'll tackle the problem directly.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1010">
+        <Page social="0">The nagas can hiss and moan about Dagon all they want, but they're not leaving Serpentis Isle if I have anything to say about it.&lt;BR&gt;&lt;BR&gt;I'm worried about the refugees on the eastern coast of the island, so I'm sending elements of Kaia's Sword to wipe them out.&lt;BR&gt;&lt;BR&gt;Head to Viper Camp and lend them your strength.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="3" villagerId="1006">
+        <Page social="0">The naga sentries didn't get you, &lt;PCCLASS:lcase&gt;? You must be good. Or a lucky fool.&lt;BR&gt;&lt;BR&gt;Regardless, speak with Briale before she goes looking for you.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="210" prevId="4" villagerId="1007">
+        <Page social="0">Yeah, Latas isn't the most diplomatic soldier here. But tongues get sharp when the mind gets dull, and we're all exhausted.&lt;BR&gt;&lt;BR&gt;We've been trying to keep the Boan Strand, Kerozen Isle, and the Adderkin Jungle clear of hostiles, and it's just too much ground to cover. We'll be able to put you to good use.</Page>
+    </Text>
+</QuestDialog>

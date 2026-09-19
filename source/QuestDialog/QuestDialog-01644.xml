@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="469" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="469" prevId="0" villagerId="50">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="469" prevId="0" villagerId="50">
+        <Page social="0">(Echo Arcana's surface is a web of tangled memories.)&lt;BR&gt;&lt;BR&gt;[...sub devan...]&lt;BR&gt;&lt;BR&gt;[...Dark Continent...]&lt;BR&gt;&lt;BR&gt;[...Expedition...]&lt;BR&gt;&lt;BR&gt;[...]&lt;BR&gt;&lt;BR&gt;[...Imperial Army...]&lt;BR&gt;&lt;BR&gt;[...the Fountain...]&lt;BR&gt;&lt;BR&gt;[...construction of Castle Aranea...]&lt;NEXTPAGEBUTTON&gt;Restore the Echo Arcana.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="7003">
+        <Page social="4">I knew you'd return, &lt;PCNAME&gt;!&lt;BR&gt;Was there any progress on the restoration of the Echo Arcana?&lt;NEXTPAGEBUTTON&gt;"Somewhat. Take a look."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Ah, such a thing!&lt;BR&gt;Their expedition was damned or perhaps ill-fated.&lt;BR&gt;&lt;BR&gt;You think there may be more memories to restore?&lt;BR&gt;&lt;BR&gt;We eagerly await the restoration of the Echo Arcana.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! I know you're just the &lt;PCRACE:lcase&gt; to finish the job! &lt;NEXTPAGEBUTTON&gt;"Of course I am."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Thank you. &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Here's a token of my gratitude.&lt;NEXTPAGEBUTTON&gt;Nod.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

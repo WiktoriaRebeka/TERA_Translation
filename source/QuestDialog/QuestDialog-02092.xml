@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2105" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Explore the passage and find Jelena.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">After you defeated Kalligar, Rogash appeared and spirited him away.&lt;BR&gt;&lt;BR&gt;You must find out what the Draakons are up to.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="10000">
+        <Page social="4" voiceTypeId="0">Are you ready?&lt;BR&gt;&lt;BR&gt;Let's go.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2105" prevId="3" villagerId="10000">
+        <Page social="4" voiceTypeId="0">Did you feel that too?&lt;BR&gt;&lt;BR&gt;It's him!&lt;BR&gt;&lt;BR&gt;It's time to take our vengeance.&lt;BR&gt;&lt;BR&gt;Hurry!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2105" prevId="4" villagerId="10100">
+        <Page social="4" voiceTypeId="0">Damn it!&lt;BR&gt;We couldn't finish him.&lt;BR&gt;&lt;BR&gt;I'll go after Rogash.&lt;BR&gt;&lt;BR&gt;I’ll do whatever it takes to get revenge.&lt;BR&gt;You go and report back to Dougal.&lt;BR&gt;&lt;BR&gt;I don't know what they’re up to, but they’re definitely doing something with the core.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2000" prevId="5" villagerId="50000">
+        <Page social="4" voiceTypeId="0">This is disturbing news, &lt;pcname&gt;. &lt;BR&gt;&lt;BR&gt;We need to know more about  what's going on.&lt;BR&gt;&lt;BR&gt;We may even need help from Free Exodor!&lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;. Head back to Jelena and gather whatever information you can.&lt;BR&gt;&lt;BR&gt;I'll call you when I need you.</Page>
+    </Text>
+</QuestDialog>

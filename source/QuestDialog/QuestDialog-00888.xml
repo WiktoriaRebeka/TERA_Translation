@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1016">
+        <Page social="9">Runicar Research Post wants supplies, but it's been forever since we've been resupplied ourselves.&lt;BR&gt;&lt;BR&gt;The eldritch reapers, on the other hand, seem to have excellent equipment. Killian must have better supply lines...&lt;BR&gt;&lt;BR&gt;No reason we can't benefit from Killian's dedication to logistics, huh? Take the reapers' supplies, then bring them to Runicar.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1010">
+        <Page social="14">Now our camp can do its job. About time we saw some supplies around here!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1010">
+        <Page social="0">What is it?</Page>
+    </Text>
+</QuestDialog>

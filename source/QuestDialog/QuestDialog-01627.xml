@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="13" prevId="0" villagerId="8018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="13" prevId="0" villagerId="8018">
+        <Page social="4">This Zik character has to still be on the island.&lt;BR&gt;&lt;BR&gt;While you're looking for him, keep up the pretense of taking down monsters...the gods know we could use all the help we can get on that score.&lt;BR&gt;&lt;BR&gt;If I get any reports of a man in black, I'll let you know as soon as possible. Meanwhile, if you learn anything else, report it to Leander. He'll be here in the Southern Camp, waiting for your report.&lt;NEXTPAGEBUTTON&gt;"I'm on it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="2" villagerId="8025">
+        <Page social="4">So. You again. I was expecting...well, never mind all that. You're here now.&lt;BR&gt;&lt;BR&gt;Are you here to do business?&lt;NEXTPAGEBUTTON&gt;"I'm here to...to finalize the price."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">You're joking.&lt;BR&gt;&lt;BR&gt;I think I'm done dealing with you. You are clearly stalling me, which means you don't have the merchandise...and since I have heard from the treasure hunter, I'm guessing that means he's the one who has  it—not you. &lt;BR&gt;&lt;BR&gt;That means I have no reason to waste any more time with you. Don't bother me again.&lt;NEXTPAGEBUTTON&gt;"I'm sure we'll meet again."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="8019">
+        <Page social="4">The magister of the Free Traders Collective is involved with this? And she's after some kind of "sap?"&lt;BR&gt;&lt;BR&gt;That can only mean sap from the World Tree...which means the treasure hunter probably destroyed the tree trying to harvest its sap.&lt;BR&gt;&lt;BR&gt;That's a crime against the federation...not to mention the gods themselves!&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"What's our next move?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">We need to capture that treasure hunter, preferably while he's making the trade with Molva.&lt;BR&gt;&lt;BR&gt;I'll send word of our plan to Adria, and she can be our backup.&lt;BR&gt;Go on ahead,. I'll follow as soon as I'm sure Adria has received the message.&lt;NEXTPAGEBUTTON&gt;"Don't be late."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="436" prevId="4" villagerId="8001">
+        <Page social="4">You had better have a very good reason for this...&lt;NEXTPAGEBUTTON&gt;"You conspired to destroy the World Tree and profit from it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="436" prevId="5" villagerId="8002">
+        <Page social="4">Thanks for your help, &lt;PCNAME&gt;. We'll take it from here.&lt;NEXTPAGEBUTTON&gt;End Conversation.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

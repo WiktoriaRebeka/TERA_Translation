@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="4">{@LinkCreature:250#1013} is anxious to conduct field research, but it's too dangerous for her. Her safety, not her happiness, is my top priority.&lt;BR&gt;&lt;BR&gt;On the other hand, if you thinned out the manaathol executors and athakela east of here, perhaps she could risk a trip.&lt;BR&gt;&lt;BR&gt;What do you say?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1018">
+        <Page social="6">Shirka heard about your mission. She's pestering me to let her explore the region.&lt;BR&gt;&lt;BR&gt;Thanks to you, it might be safe enough now.</Page>
+    </Text>
+</QuestDialog>

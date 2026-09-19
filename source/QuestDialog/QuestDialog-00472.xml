@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">One of our archaeologists—if you can call her approach "archaeology"—has wandered off again. Nema's reckless. I can't be bothered to see what she's gotten herself into again.&lt;BR&gt;&lt;BR&gt;Talk to {@LinkCreature:218#1022$$Mirak} and see if he sent her somewhere.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1022">
+        <Page social="4">{@LinkCreature:218#1007#Nema}, you say? I know her. Better than I wish to.&lt;BR&gt;&lt;BR&gt;No, she's not here. Despite my warnings, she snuck out again. I'm ready to kill her myself if she's not already dead.&lt;NEXTPAGEBUTTON&gt;"Where would she have gone?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I'm sure she's gone to the Temple of Tithus. She slips away whenever nobody's looking. There are three things I hate the most in the world: cultists, scorpions, and Nema's curiosity!&lt;BR&gt;&lt;BR&gt;If you want to find her, you're on your own. I'm through with her.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" prevId="3" villagerId="1007">
+        <Page social="4">Mirak doesn't like someone? Shock. I might be a special pain in his side, though.&lt;BR&gt;&lt;BR&gt;Still, I don't know why he thinks I'd stay in camp when I could be out examining things like this!</Page>
+    </Text>
+</QuestDialog>

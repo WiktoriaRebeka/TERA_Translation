@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="0">You made dragon on a stick for Pond Faire.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="4">Tuwangi hungry. Must eat dragon!&lt;BR&gt;&lt;PCNAME&gt;, you kill, you grill, and we share! &lt;NEXTPAGEBUTTON&gt;Talk about the short end of the stick.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2001">
+        <Page social="4">Dragon make tuwangi fierce and strong. Best food for tuwangis. &lt;NEXTPAGEBUTTON&gt;Uh, dragons are... oh, never mind.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="2001">
+        <Page social="0">Kill dragon!</Page>
+    </Text>
+</QuestDialog>

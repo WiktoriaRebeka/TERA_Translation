@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">{@LinkCreature:77#3008#Varaz} is possibly one of the finest botanists in a century.&lt;BR&gt;&lt;BR&gt;Like many Invalesco members, however, he's a thinker, not a fighter.&lt;BR&gt;&lt;BR&gt;Also, he needs your help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="4">Oh, delightful! An assistant!&lt;BR&gt;&lt;BR&gt;My mission involves studying the local flora, most of which underwent extensive modification at the hands of the argons.&lt;BR&gt;&lt;BR&gt;The good news is that most of the plants don't bite. Sadly, I can't guarantee the same of the argons.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="77" prevId="2" villagerId="3008">
+        <Page social="4">Oh, splended! What fine specimens.&lt;BR&gt;&lt;BR&gt;Are you a botanist as well? If you're not, you should consider it.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="77" villagerId="3008">
+        <Page social="0">A few mutated plants from the {@Rgn:46010$$Raga Evala Spire} would be a boon to our research.&lt;BR&gt;&lt;BR&gt;If you're headed that way already, why not grab us some?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="77" prevId="7" villagerId="3008">
+        <Page social="4">Oh, splended! What fine specimens.&lt;BR&gt;&lt;BR&gt;Are you a botanist as well? If you're not, you should consider it.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="77" villagerId="3008">
+        <Page social="0">I've heard of mutated mushrooms growing in the {@Rgn:46007$$Raga Evala Depths}.&lt;BR&gt;&lt;BR&gt;If I had a few to study, I might deduce the argons' use for such things.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="77" prevId="9" villagerId="3008">
+        <Page social="4">Oh, splended! What fine specimens.&lt;BR&gt;&lt;BR&gt;Are you a botanist as well? If you're not, you should consider it.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="77" villagerId="3008">
+        <Page social="0">A colleague described some mutated flowers growing in the {@Rgn:46010$$Raga Evala Spire}.&lt;BR&gt;&lt;BR&gt;I'd be grateful for some specimens to examine firsthand.</Page>
+    </Text>
+</QuestDialog>

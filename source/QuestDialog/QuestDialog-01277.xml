@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="4">I'm sorry I mocked you, &lt;PCNAME&gt;. You're truly a mighty &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Apology accepted? Great! Could you help my friend Tarut? He's in dire need of brave &lt;PCCLASS:lcase&gt;s like you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1034">
+        <Page social="4">You're out of your mind walking into the jaws of death. Did you not see all the corpses and skeletons?&lt;BR&gt;&lt;BR&gt;Well, I welcome any helping hand, especially if it's from Krok.&lt;BR&gt;&lt;BR&gt;Welcome to a place sacred to every right-thinking aman!</Page>
+    </Text>
+</QuestDialog>

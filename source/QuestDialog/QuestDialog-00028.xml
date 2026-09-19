@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1022">
+        <Page social="4">You look ready to earn hazard pay, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Go west and hunt the {@LinkCreature:2#32#bloated} and {@LinkCreature:2#22#lumbering sporewalkers}, and the {@LinkCreature:2#23#fiesty terrons}.&lt;BR&gt;&lt;BR&gt;I'll pay well for any polluted seals you recover from their remains.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1022">
+        <Page social="4">Keep it up, and you'll have the honor of protecting Kaiator on the argon front, &lt;PCNAME&gt;. &lt;BR&gt;&lt;BR&gt;Stand tall!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1022">
+        <Page social="0">Just between you and me, &lt;PCNAME&gt;, if things return to normal here, it'll be a lot less interesting.</Page>
+    </Text>
+</QuestDialog>

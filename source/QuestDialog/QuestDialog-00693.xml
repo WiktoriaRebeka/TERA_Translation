@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1020">
+        <Page social="1">The ancient magic of the god Balder has long maintained the {@Rgn:30008$$Lower Archive}, but it seems like that magic is starting to fade. &lt;BR&gt;&lt;BR&gt;The {@LinkCreature:30#190#brass stewards} in the temple are a good example. Their original role was to maintain the temple garden and ward off monsters.&lt;BR&gt;&lt;BR&gt;Now, the stewards have become the monsters, hostile to all that lives.&lt;BR&gt;&lt;BR&gt;For everyone's sake, the {@LinkCreature:30#190#brass stewards} must be eliminated.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1020">
+        <Page social="1">I'm a little sad. The stewards were faithful guardians to Balder and his garden, yet we dismantle them without a second thought.&lt;BR&gt;&lt;BR&gt;I know, I know. I asked you to do it. Nevertheless, I feel bad for the stewards.</Page>
+    </Text>
+</QuestDialog>

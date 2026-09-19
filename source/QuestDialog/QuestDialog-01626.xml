@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="13" prevId="0" villagerId="8008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="13" prevId="0" villagerId="8008">
+        <Page social="4">I want you to be careful, &lt;PCNAME&gt;. Enough people have seen you, and you've asked enough questions, that people are asking about you—and word is liable to get back to this mysterious treasure hunter.&lt;BR&gt;&lt;BR&gt;You need to re-establish your cover story—that you're just another person helping out.&lt;NEXTPAGEBUTTON&gt;"That's probably a good idea."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Head out and make your way south to the Mysterious Ruins.&lt;BR&gt;&lt;BR&gt;In the process, make a show of killing several of these big monsters.&lt;BR&gt;&lt;BR&gt;When you get to the ruins, look for the Free Traders Collective group. They're gathering there, and I'd like to know why.&lt;NEXTPAGEBUTTON&gt;"I understand."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="2" villagerId="8015">
+        <Page social="4">I see you're getting around, killing big monsters. I was starting to think you were just here to loot the ruins of the federation camp.&lt;BR&gt;&lt;BR&gt;So is this just a social call...?&lt;NEXTPAGEBUTTON&gt;"Actually, I'm looking for a missing person...a man dressed in black?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3">The...man in black?&lt;BR&gt;&lt;BR&gt;I might have seen that fellow....but it's been a while. Is he a friend of yours?&lt;NEXTPAGEBUTTON&gt;"Let's just say that we share an interest..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">I see...&lt;BR&gt;&lt;BR&gt;Well, if this "interest" of yours yields anything fruitful, we might just have something to talk about. And then my time might be worth money, after all.&lt;NEXTPAGEBUTTON&gt;"How much are we talking?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Not more than I promised that treasure hunter, I assure you. Whoever delivers first takes the money.&lt;BR&gt;&lt;BR&gt;This is all speculative, of course. If there's anything of value on this island, well, that would be news to me.&lt;BR&gt;&lt;BR&gt;Do we understand one another?&lt;NEXTPAGEBUTTON&gt;"I...believe we do. I'll be in touch."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="8016">
+        <Page social="4">And so we meet again. I hear you've been touring the disaster area. You must be very...curious.&lt;BR&gt;&lt;BR&gt;Can I satisfy your curiosity?&lt;NEXTPAGEBUTTON&gt;"I'm looking for a man in black. Apparently, he's gone missing."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3">That fellow?&lt;BR&gt;&lt;BR&gt;He...I didn't realize he was missing...though I haven't seen him in some time now.&lt;NEXTPAGEBUTTON&gt;"Are you sure? He told me he was coming to talk to you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Hm. Did he, now?&lt;BR&gt;&lt;BR&gt;Well, it's interesting that he didn't mention you. We might be speaking of two different men in black.&lt;BR&gt;&lt;BR&gt;In any event, I don't have any information for you.&lt;NEXTPAGEBUTTON&gt;"Well, if you can't help me, maybe I should talk to the Iron Order."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Those thugs? What would they know?&lt;BR&gt;&lt;BR&gt;I wouldn't be surprised if they had something to do with all of this...the destruction of the World Tree, all those injuries and deaths...&lt;BR&gt;&lt;BR&gt;But, please, by all means, if you must waste someone's time, I'd rather it was theirs and not mine.&lt;NEXTPAGEBUTTON&gt;"Okay. You've told me everything I need to know, anyway."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" prevId="4" villagerId="8017">
+        <Page social="4">I thought I told you to get lost.&lt;NEXTPAGEBUTTON&gt;"The man in black sent me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3">What for? He has my answer. Does he think I'll give you a different answer?&lt;NEXTPAGEBUTTON&gt;"We thought you might have reconsidered."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">What kind of game are you playing?&lt;BR&gt;&lt;BR&gt;You listen to me: I held up my part of the bargain, and I still haven't seen any proof that he's held up his.&lt;BR&gt;&lt;BR&gt;So unless you both want a good beating, you won't come back until you're ready to complete the deal.&lt;NEXTPAGEBUTTON&gt;"I'll...pass that along."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">See that you do.&lt;BR&gt;&lt;BR&gt;Because if you don't...if you and that treasure hunter don't deliver...you'll live just long enough to regret it.&lt;BR&gt;&lt;BR&gt;Pass that along, too.&lt;NEXTPAGEBUTTON&gt;"You've made your point. I'm leaving."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="13" prevId="5" villagerId="8018">
+        <Page social="4">Are you telling me all of the alliance magisters have had dealings with the treasure hunter?&lt;BR&gt;&lt;BR&gt;The picture is still murky, but it's becoming clearer and clearer that this treasure hunter is the unifying thread...if not in fact the author of the destruction.&lt;BR&gt;&lt;BR&gt;Okay, then, your next step should be finding him. I've got a better description of him, from Lam: black leather armor, with a dagger in his belt and twinswords on his back.&lt;BR&gt;&lt;BR&gt;Lam says the treasure hunter's name is Zik.&lt;NEXTPAGEBUTTON&gt;"I've got it. I'll find him and get some answers."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

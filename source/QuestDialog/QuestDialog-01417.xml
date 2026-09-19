@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1007">
+        <Page social="5">I'd like you to check in at the Legion of Arms. Report to Midian at the western door, then get whatever training you need. The masters there are the very best.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1100">
+        <Page social="5">Hmm. Turn around. Yes. Yes, you'll do fine. We can do a lot with you.&lt;BR&gt;&lt;BR&gt;There are lot of new recruits here, fresh from their adventures, cocky and falsely self-sure. Avoid that trap and you'll live longer.</Page>
+    </Text>
+</QuestDialog>

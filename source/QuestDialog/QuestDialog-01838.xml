@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="599" prevId="0" villagerId="132">
+        <Page social="4" voiceTypeId="0">Wait!&lt;BR&gt;This fellow Dougal is waiting for you.&lt;BR&gt;&lt;BR&gt;I think he has something to say to you. Why don’t you see him before you leave?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Anya, Emun, and the guardians have entered the Temple of the Tree in search of the other children, and no one has seen them since.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; followed as quickly as possible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="1" villagerId="101">
+        <Page social="0">Why didn’t Emun tell me that they were going up to the tree? We were this close to launching our assault! We could’ve escorted the girl, and rescued the children… and finished off the argons!&lt;BR&gt;&lt;BR&gt;Let me call my troops back from the village, &lt;PCNAME&gt;, and we’ll assemble a proper attack force. We’ll be ready within the hour!&lt;NEXTPAGEBUTTON&gt;"I can’t wait that long."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I understand. Do what you have to do, and may the gods be with you.&lt;BR&gt;&lt;BR&gt;I’ll stay here long enough to assemble my troops, and we’ll follow you as soon as possible.&lt;BR&gt;&lt;BR&gt;Somehow, I think you can handle yourself until we catch up to you.&lt;NEXTPAGEBUTTON&gt;"I can, and I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Are you talking about the girl in a red dress?&lt;BR&gt;I saw her heading for the Temple of the Tree with a blank look on her face.&lt;BR&gt;&lt;BR&gt;Captain Emun and the other guardians followed her at once, but they left without knowing just how many argons are there, and that worries me.&lt;BR&gt;&lt;BR&gt;Oh, right. I picked up a folded note somewhere nearby, and it was addressed to you. Here, check it.&lt;NEXTPAGEBUTTON&gt;Receive note.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="101">
+        <Page social="4" voiceTypeId="0">Why didn’t Emun tell me that they were going up to the tree?&lt;BR&gt;&lt;BR&gt;We were this close to launching our assault! We could’ve escorted the girl, &lt;BR&gt;&lt;BR&gt;and rescued the children… and finished off the argons!&lt;BR&gt;&lt;BR&gt;Let me call my troops back from the village, and we’ll assemble a proper attack force. We’ll be ready within the hour!&lt;NEXTPAGEBUTTON&gt;"I can’t wait that long."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I understand. Do what you have to do, and may the gods be with you.&lt;BR&gt;&lt;BR&gt;I’ll stay here long enough to assemble my troops, and we’ll follow you as soon as possible.&lt;BR&gt;&lt;BR&gt;Somehow, I think you can handle yourself until we catch up to you.&lt;NEXTPAGEBUTTON&gt;"I can, and I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="161">
+        <Page social="0" voiceTypeId="0">You shouldn’t be here! It’s too dangerous for civilians!&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Did you see a little girl come this way?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">A little girl? There was a little girl with those guardian friends of yours that came through.&lt;BR&gt;&lt;BR&gt;I told them not to go any further. The temple is overrun—you can see our men getting slaughtered up there!&lt;BR&gt;&lt;BR&gt;And no offense, but we’re all seasoned soldiers, and you’re just a novice. What makes you think you’ll make it through?</Page>
+    </Text>
+</QuestDialog>

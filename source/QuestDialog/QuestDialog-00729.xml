@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1017">
+        <Page social="4">We got all this food prepared for the workers, but they're all too busy to come in and have a meal! They can't work on empty stomachs!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I know it's not as exciting as what you usually do, but could you deliver this food to the workers?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1019">
+        <Page social="4">Hey, I was just starting to get hungry! You must have read my mind. Or my stomach. Thanks! Bettenis could use some food, too.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1020">
+        <Page social="4">What's that heavenly smell? Mmm...a hot meal delivered on site? Excellent. Thanks!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1021">
+        <Page social="4">Oh this looks tasty! I just wish I didn't have this awful stomachache.</Page>
+    </Text>
+</QuestDialog>

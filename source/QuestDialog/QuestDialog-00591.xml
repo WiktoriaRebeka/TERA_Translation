@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1003">
+        <Page social="5">With soldiers like you, we've really cleaned house against the kingdom's enemies here, but Spirit Outpost is still bogged down.&lt;BR&gt;&lt;BR&gt;Get over there and meet with {@LinkCreature:223#1017$$Naikara}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1017">
+        <Page social="5">Most of our reserve troops are battling the vampir rebels near Popolion.&lt;BR&gt;&lt;BR&gt;If you can help half as much as Menani says, you'll be a great asset.</Page>
+    </Text>
+</QuestDialog>

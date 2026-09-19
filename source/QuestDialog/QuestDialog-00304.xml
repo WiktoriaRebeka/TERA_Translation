@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1025">
+        <Page social="5">You're on orders from Dirken, eh? A likely story.&lt;BR&gt;&lt;BR&gt;With all due respect, mighty &lt;PCCLASS:lcase&gt;, you don't look like Dirken's type. Your hands are too clean.&lt;BR&gt;&lt;BR&gt;You get your hands bloody killing some {@LinkCreature:12#2#bay kamaras} and {@LinkCreature:12#3#arachnen stalkers}, and then we'll talk. No matter who you work for, you gotta like a clean beach, right?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="5">You actually cleaned up the beach, just like I asked.&lt;BR&gt;&lt;BR&gt;That's some kind of crazy, ask-no-questions loyalty you've got there, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;With a "just following orders" attitude like that, you probably are working for Dirken. In his crew, thinking for yourself is often fatal.</Page>
+    </Text>
+</QuestDialog>

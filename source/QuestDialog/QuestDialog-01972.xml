@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="61" prevId="0" villagerId="9908">
+        <Page social="2" voiceTypeId="0">&lt;PCNAME&gt;, have you heard about the legendary Golden Shark?&lt;BR&gt;&lt;BR&gt;It's only the toughest fish I've ever fought. I've lost quite a few lures and rods to that monster since I arrived.&lt;NEXTPAGEBUTTON&gt;"Tell me more."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Say, you seem a sporting type. Care to make a wager? If you can catch a Golden Shark before I do, I'll give you all the Angler Tokens I've earned fishing this spot.&lt;BR&gt;If I win, you'll carry the burden of your shame for all eternity...&lt;BR&gt;&lt;BR&gt;Just kidding! I'll just laugh at you. A lot.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Graidrem challenged &lt;PCNAME&gt; to a fishing duel, and lost.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="1" villagerId="9908">
+        <Page social="4" voiceTypeId="0">I can't believe my eyes. You caught it! You actually caught that thing! Impressive.&lt;BR&gt;&lt;BR&gt;A promise is a promise. Here, take the tokens.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" villagerId="9908">
+        <Page social="0">You got any bites yet? Remember, a Big-Ass-Fish like the Golden Shark can only be caught when you're fishing manually.</Page>
+    </Text>
+</QuestDialog>

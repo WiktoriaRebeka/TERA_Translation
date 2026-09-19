@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
+        <Page social="4">{@LinkCreature:230#3026#Lilis}, up at the {@Rgn:9017001$$Lighthouse of the Sun}, can't get around one of the golems inside.&lt;BR&gt;&lt;BR&gt;Care to help out?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
+        <Page social="4">&lt;PCNAME&gt;, the {@LinkCreature:417#2001#old keeper} near the top of the tower won't let me near the igniter, and it needs cleaning or it'll break down again.&lt;BR&gt;&lt;BR&gt;Find it and shut it down.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3026">
+        <Page social="4">Thanks.&lt;BR&gt;&lt;BR&gt;The tower's unstable enough when I can keep it clean!</Page>
+    </Text>
+</QuestDialog>

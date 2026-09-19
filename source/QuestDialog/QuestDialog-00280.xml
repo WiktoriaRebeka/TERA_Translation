@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1016">
+        <Page social="4">Nagas, pirates, and slavers. The Red Lash pirates are bad news. This whole coastline is bad news, actually.&lt;BR&gt;&lt;BR&gt;But I'm not leaving until I'm rich! This coastline owes me some treasure—owes me for all the bloodshed, all the sacrifice, all the pain.&lt;NEXTPAGEBUTTON&gt;"Wait...treasure?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Look, I know I'm in over my head. I'd probably be a pirate slave—or worse—if it weren't for &lt;PCCLASS:lcase&gt;s like you.&lt;BR&gt;&lt;BR&gt;I got jumped last time I went after those treasure chests. I'd like to see someone try to jump you, though.&lt;BR&gt;&lt;BR&gt;Bring me what's inside, and I'll sort through the junk. I have a knack for antique appraisal, as it turns out.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1029">
+        <Page social="4">(The old chest is already open and filled with silt.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" prevId="3" villagerId="1030">
+        <Page social="4">(The old chest is already open and filled with silt.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="4" villagerId="1016">
+        <Page social="4">The chests were full of silt? Where's the treasure? Wait a minute...&lt;BR&gt;&lt;BR&gt;Oh, I see how it is. You take the goods for yourself and pretend like the chests were worthless.&lt;BR&gt;&lt;BR&gt;I think you're the one who's full of silt. &lt;NEXTPAGEBUTTON&gt;"It's not like that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Whatever, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Now clear out. I got scheming to do...</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">Illumination is the key to knowledge, and sometimes it's the key to survival as well.&lt;BR&gt;&lt;BR&gt;The &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7015#-9951.0674,80227.3594,-1331.6602&amp;type=1&amp;name=Stone Lantern"&gt;stone lanterns&lt;/A&gt;&lt;/font&gt; light the path that leads to the {@Rgn:30016$$Stronghold Camp}. They shine day and night, keeping the refuge's more dangerous denizens at bay.&lt;BR&gt;&lt;BR&gt;Or at least they did. The stone lanterns have gone dark.&lt;BR&gt;&lt;BR&gt;Repairs to the &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7015#-9951.0674,80227.3594,-1331.6602&amp;type=1&amp;name=Stone Lantern"&gt;stone lanterns&lt;/A&gt;&lt;/font&gt; won't make Balder's Refuge completely safe, but they will make it incrementally safer.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1048$$Linok} at the {@Rgn:30015$$Archive Stronghold} will be overjoyed to hear that the lanterns shine once again.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1048">
+        <Page social="1">You reignited the stone lanterns?&lt;BR&gt;&lt;BR&gt;They will guide the wise to visit the {@Rgn:30016$$Stronghold Camp} and unravel the archive's mysteries.</Page>
+    </Text>
+</QuestDialog>

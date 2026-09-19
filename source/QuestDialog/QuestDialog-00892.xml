@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1020">
+        <Page social="17">The argons are practically sharing a campfire with us! We've got to do something.&lt;BR&gt;&lt;BR&gt;In Kaiator, they always teach us, "Strike first! Strike last!" That's never a bad strategy.&lt;BR&gt;&lt;BR&gt;Start with a "strike first" against the kalashes, and gather some intel if you can.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1020">
+        <Page social="14">So the argons are trying to get something from Saleron, just as Killian was? That old, buried god must have something everyone wants, eh? &lt;BR&gt;&lt;BR&gt;Better Saleron than me, I guess. And I bet those argons weren't expecting you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1020">
+        <Page social="0">I've heard of you, &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;And I know you can take out many, many more argons.</Page>
+    </Text>
+</QuestDialog>

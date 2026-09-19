@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">The argons hit one of our supply convoys and destroyed an entire shipment of rations. Our fighters won't last if they can't keep their strength up.&lt;BR&gt;&lt;BR&gt;Get a supply of emergency rations from {@LinkCreature:78#3008#Artur} and resupply our troops in the field!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3008">
+        <Page social="4">I don't have to tell a veteran like you how vital it is to maintain the supply lines to the battlefield.&lt;BR&gt;&lt;BR&gt;Here, take these emergency rations and get them to our troops.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="4">There's no time to waste. Get those rations to the soldiers who need them.&lt;BR&gt;&lt;BR&gt;I'll be damned if a soldier dies because they went hungry!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="3" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="4" villagerId="3008">
+        <Page social="4">Oh, thank the gods!&lt;BR&gt;&lt;BR&gt;I worried I might have to learn what argon tasted like.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="4" villagerId="3006">
+        <Page social="4">Never thought I'd be so happy to see a package of hardtack.&lt;BR&gt;&lt;BR&gt;Thanks, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="3004">
+        <Page social="4">Thanks for not forgetting about us.&lt;BR&gt;&lt;BR&gt;There's no feeling worse than being forgotten.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="3005">
+        <Page social="4">Well, it's not a spiced roast, but I'm damned glad to get it. Thanks!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="3010">
+        <Page social="4">The Shariar never forgets their own. Thanks for this!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="11" villagerId="3011">
+        <Page social="4">We'll be all right for now, thanks to you.&lt;BR&gt;&lt;BR&gt;This should hold us until the next supply shipment.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="248" prevId="12" villagerId="3003">
+        <Page social="4">I'm glad you took care of our fighters, &lt;PCNAME&gt;. Such a small thing, but it means so much to people risking their lives day in and day out.</Page>
+    </Text>
+</QuestDialog>

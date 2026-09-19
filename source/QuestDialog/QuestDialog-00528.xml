@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1047">
+        <Page social="4">I'll report back to the captain directly, but if you could take my report on to the team investigating the ruins, it'd be a big help.&lt;BR&gt;&lt;BR&gt;I guess my gut was wrong.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1020">
+        <Page social="4">Hebbin sent you? When we didn't hear from her, we were certain her skull was split by a kulkari axe.&lt;BR&gt;&lt;BR&gt;Our investigations are proceeding, but they'll go more smoothly now that we aren't constantly looking over our shoulders. Thank you.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="0">You fought through the guwangi, rescued Magistrate Madat, and gained the trust of the Khirians, joining forces in their sanctuary.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="4">The guwangis are one of our many enemies. They prey on my people, dragging them back to their village.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I'll find them and rescue Madat."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You bested the arachnens. Perhaps you can massacre the guwangis, too.&lt;BR&gt;&lt;BR&gt;Their village is west of here. I will rally the Khirians while you locate Madat.&lt;BR&gt;&lt;BR&gt;We'll rescue him together.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1012">
+        <Page social="4">"The rise of one star means another must set… I am more than happy to go as this new star will change everything. Mjusu Kraal."</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1013">
+        <Page social="0">(Something is carved under the lid: Madat.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1014">
+        <Page social="0">No, please! Please don't kill me!&lt;NEXTPAGEBUTTON&gt;"Did you see an old man in a funny hat?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes. Yes! The hat with long ears. I saw him not long ago.&lt;BR&gt;&lt;BR&gt;If he's strong enough, the guwangis will enslave him. If not, well, they'll eat anything.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1107">
+        <Page social="0">What took so long? Destiny isn't what it used to be.&lt;BR&gt;&lt;BR&gt;Let's get out of here!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="172" prevId="6" villagerId="1106">
+        <Page social="0">Well done, southerner. Perhaps I was rash to judge you.&lt;BR&gt;&lt;BR&gt;The Khirians have a hideout in the cave up the hill behind me.&lt;BR&gt;&lt;BR&gt;Meet me there. The guwangis will want revenge for today.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="172" prevId="7" villagerId="1206">
+        <Page social="4">Welcome to our refuge.&lt;BR&gt;&lt;BR&gt;This place is not like home, but it's safe enough. Your forces may join us through the teleportal and your wounded may recover here.</Page>
+    </Text>
+</QuestDialog>

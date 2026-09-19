@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Go to Aheaf and hear the details of the unknown force.&lt;BR&gt;&lt;BR&gt;[Your equipment level has to be at least 463 to enter this instance.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">He seems to have discovered a passage that leads inside the Verrak Fortress. &lt;BR&gt;&lt;BR&gt;Ask Aheaf for details.&lt;BR&gt;&lt;BR&gt;Afterwards, the quest &lt;font color='#7F00FF'&gt;[Important] Kaia’s Anvil&lt;/font&gt; will be activated automatically.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="131">
+        <Page social="0" voiceTypeId="0">Ah, you're here, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;After the Draakon Commanders left this place, I saw an area that I never saw before.&lt;BR&gt;&lt;BR&gt;It's right over there. They weren't draakons...and they were definitely not nagas.&lt;BR&gt;&lt;BR&gt;Will you go and help me understand what they are?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="3" villagerId="131">
+        <Page social="4" voiceTypeId="0">Thank you &lt;PCNAME&gt;. It's all clear now.&lt;BR&gt;&lt;BR&gt;I must go and spread the news to everyone.</Page>
+    </Text>
+</QuestDialog>

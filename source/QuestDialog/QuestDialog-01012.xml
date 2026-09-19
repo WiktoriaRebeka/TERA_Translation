@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1009">
+        <Page social="5">You're going to the Temple of Dagon, right? Keep your eyes open for any adderfungus. Odrun, on the first level, uses them to make antidotes against the nagas' poison. The mushrooms grow throughout the temple.&lt;BR&gt;&lt;BR&gt;Thanks, &lt;PCNAME&gt;. Odrun will be happy to get more mushrooms. And you'll be saving lives.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1037">
+        <Page social="5">This will make quite a lot of the antidote.&lt;BR&gt;&lt;BR&gt;I'm happy you came here, &lt;PCNAME&gt;. So few truly understand the importance of my work.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1037">
+        <Page social="0">I hope you'll find some adderfungus soon—we're running dangerously low on naga venom antidote.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1017">
+        <Page social="4">Killian's given the argons the location of our eggs. If we cooperate, he says they won't be harmed, but how can we trust him?&lt;BR&gt;&lt;BR&gt;An argon iknephar called Kezelran watches the eggs magically. If you kill him, you could recover some of the eggs and bring them back.&lt;BR&gt;&lt;BR&gt;Don't let the argons take our hatchlings!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1017">
+        <Page social="4">Sikander bless you! You've saved the future of the sikandaris.&lt;BR&gt;&lt;BR&gt;I know well that your people suffered at the hands of the heretics. That makes this gift all the more meaningful. Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" villagerId="1017">
+        <Page social="0">We mustn't let the argons steal our eggs! There's no telling what horrors they'd inflict on our children.</Page>
+    </Text>
+</QuestDialog>

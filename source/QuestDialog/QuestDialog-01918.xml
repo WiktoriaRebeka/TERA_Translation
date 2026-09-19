@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">Back for more blood? {@LinkCreature:63#3003#Elthienne} will tell you where to go and what to kill.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">How do you like Val Aureum? Ready to hit the road and do my dirty work?&lt;BR&gt;&lt;BR&gt;Awesome!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">{@Rgn:18001#Colossal Ruins}, eh? So, they're like, big?&lt;BR&gt;&lt;BR&gt;Guess who has your money? Yep, {@LinkCreature:63#3003#Elthienne}.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">We need you to take down some {@LinkCreature:18#17$$ancient teraliths} in the {@Rgn:18001#Colossal Ruins} and bring back fragments of their big, funky, rock bodies.&lt;BR&gt;&lt;BR&gt;That stuff is great for getting rid of calluses. 'Course, that's not all we use 'em for.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">How was the trip to the {@Rgn:18001#Colossal Ruins}? Not a walk in the park, right?&lt;BR&gt;&lt;BR&gt;Thanks. {@LinkCreature:63#3003#Elthienne} will pay you for this job.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">We need you to take down some {@LinkCreature:18#18#giant gladiators} in the {@Rgn:18001#Colossal Ruins} and bring me those fancy cuffs they wear on their enormous thumbs. They're made of a rare metal that's hard to find.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Great work!&lt;BR&gt;&lt;BR&gt;Where will we send you next?</Page>
+    </Text>
+</QuestDialog>

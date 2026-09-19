@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="0">As much as I'd like to keep you here, &lt;PCNAME&gt;, the Coastal Overwatch needs you more.&lt;BR&gt;&lt;BR&gt;Just keep following the road south, then cross the narrow channel. You should be within sight of the overwatch at that point.&lt;BR&gt;&lt;BR&gt;We'll miss having &lt;PCCLASS:lcase&gt;s like you around, that's for sure.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1003">
+        <Page social="0">It looks like the nagas are trying to open Dagon's Tomb and awaken their creator-god. I don't know how versed you are in theology, but Dagon isn't one of the fuzzy gods.&lt;BR&gt;&lt;BR&gt;We've got our work cut out for us.</Page>
+    </Text>
+</QuestDialog>

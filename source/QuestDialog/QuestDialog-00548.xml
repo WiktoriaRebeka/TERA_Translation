@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1031">
+        <Page social="4">This is insane. I've a request, directly from Velika, no less.&lt;BR&gt;&lt;BR&gt;Despite the ridiculous dangers involved, I need you to recover basilisk eggs. Even though it's nesting season and the basilisks are extra touchy, they want the eggs. I hate politics.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1031">
+        <Page social="4">Hrm. I guess I expected something more grand; less ordinary.&lt;BR&gt;&lt;BR&gt;These hardly seem worth risking your life over, but at least the powers that be will be placated.&lt;BR&gt;&lt;BR&gt;Thanks, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1031">
+        <Page social="0">I realize it seems like a fool's errand, but the consul in Velika feels otherwise.</Page>
+    </Text>
+</QuestDialog>

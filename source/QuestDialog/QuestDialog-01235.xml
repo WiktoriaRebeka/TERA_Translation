@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1012">
+        <Page social="4">It's time to punish the giants for allying with Thulsa. Whatever the prize, we're about to make it much more costly.&lt;BR&gt;&lt;BR&gt;It's hard to imagine the giants' rationale. They fought the gods long ago, now they decide to work with the worst of the worst?&lt;BR&gt;&lt;BR&gt;Inconceivable.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1012">
+        <Page social="4">The giants aren't so numerous that they can shrug off those deaths, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;No doubt they rue the day they agreed to Thulsa's little pact.</Page>
+    </Text>
+</QuestDialog>

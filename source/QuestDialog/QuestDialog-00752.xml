@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="4">Kaidun! The name holds many meanings for we amani. Once he was a symbol of our glory and strength. Those days are long gone.&lt;BR&gt;&lt;BR&gt;Kaidun emerged from the Citadel of Torment a mad, ruthless tyrant. He conquered Mount Tyrannas—and without the sacrifice of our people, he'd be right here slaughtering us all.&lt;BR&gt;&lt;BR&gt;The battle has dragged on so long, we are in dire need of supplies. We have soldiers, but no way to arm them.&lt;BR&gt;&lt;BR&gt;Bring us weapons. I don't care how. In fact, if you should pry them from the cold, dead hands of {@LinkCreature:32#1#Sihran fighters} and {@LinkCreature:32#2#tuwangi hornheads}, I'd be downright pleased.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1019">
+        <Page social="4">Great job! Thanks to you, our new recruits will be armed with high-quality weapons.&lt;BR&gt;&lt;BR&gt;Knowing our enemies will be punished with their own weapons brings a smile to my face.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1019">
+        <Page social="0">Find the {@LinkCreature:32#1#Sihran fighters} and {@LinkCreature:32#2#tuwangi hornheads} around Daunting Pass east of here. We need their weapons.</Page>
+    </Text>
+</QuestDialog>

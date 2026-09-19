@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="4">It's not just trained animals with the nagas. They've hired mercenaries, too.&lt;BR&gt;&lt;BR&gt;But you know what they say about mercenaries. There's a chink in the armor where the coins go in.&lt;BR&gt;&lt;BR&gt;So take out their paymasters. Kill enough {@LinkCreature:10#11#naga slayers}, and I bet the mercenaries will evaporate.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1004">
+        <Page social="4">Mercenaries in disarray? Excellent! On to phase two!&lt;BR&gt;&lt;BR&gt;...once I write up phase two, that is.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1004">
+        <Page social="0">It's simple: Take out the {@LinkCreature:10#11#naga slayers} and their mercenary underlings will start worrying about their coin-purses.</Page>
+    </Text>
+</QuestDialog>

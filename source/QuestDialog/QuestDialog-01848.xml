@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:247#3510#Toray} at the {@Rgn:47007$$Blightroar Research Station} sent a request for assistance. He's having trouble collecting research samples.&lt;BR&gt;&lt;BR&gt;Your skill set makes you perfect for such a task!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">I noticed a clutch of naga eggs nearby that I'm convinced came from argonomorph nagas. Think about the implications of that!&lt;BR&gt;&lt;BR&gt;Unfortunately, without proof it's all speculation. I need samples from the eggs but—argonomorphs or not—the nagas aren't having it.&lt;BR&gt;&lt;BR&gt;Think you could help?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="247" prevId="2" villagerId="3510">
+        <Page social="4">Oh, yes. I can see differences in these shards.&lt;BR&gt;&lt;BR&gt;Curious. How did the argons manage this?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="247" villagerId="3510">
+        <Page social="0">First I must understand how the argons can affect a crystalline race like wendigos.&lt;BR&gt;&lt;BR&gt;Kill any contaminated wendigos you find and collect their shards. They're the key.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="247" prevId="7" villagerId="3510">
+        <Page social="4">Fascinating. I've wondered what physical changes occur to argonomorphs when they transition.&lt;BR&gt;&lt;BR&gt;This should prove illuminating.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="247" villagerId="3510">
+        <Page social="0">The changes to the nagas go beyond the skin, though.&lt;BR&gt;&lt;BR&gt;I'd like to study some naga hides affected by the argonomorph process.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="247" prevId="9" villagerId="3510">
+        <Page social="4">Yolk from a contaminated egg? Fascinating. I wonder if the argon changes pass on to later generations....</Page>
+    </Text>
+    <Text id="12" huntingZoneId="247" villagerId="3510">
+        <Page social="0">I'd like to study the contaminated naga eggs. This is the first example of an argonomorph procreating.&lt;BR&gt;&lt;BR&gt;We must learn the threat this poses.</Page>
+    </Text>
+</QuestDialog>

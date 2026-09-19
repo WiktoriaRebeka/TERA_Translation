@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="4">I trust you, &lt;PCNAME&gt;, and I think the loyal faeries will trust you, too.&lt;BR&gt;&lt;BR&gt;Go to the Faerie Pond and tell them they're safe—for the time being.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1033">
+        <Page social="0">We hoped Lillix would be able to talk some sense into the people of Lumbertown—not to mention our blood-mad brethren.&lt;BR&gt;&lt;BR&gt;If you're trying to keep the peace here, &lt;PCNAME&gt;, you're a friend of ours.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" prevId="2" villagerId="1034">
+        <Page social="0">You may say we're safe, but I'll never feel safe until I know what caused all my brethren to turn so...so violent.&lt;BR&gt;&lt;BR&gt;Faeries rarely turn against faeries...unless they're forced to. If you claim it wasn't the federation's fault, then the answers must lie elsewhere.</Page>
+    </Text>
+</QuestDialog>

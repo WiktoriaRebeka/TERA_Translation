@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1040">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1040">
+        <Page social="4">Hey! You're &lt;PCNAME&gt;! You're practically a legend out here. You took down Thulsa, Killian, Akasha—and Kelsaik!&lt;BR&gt;&lt;BR&gt;Wow. Can I ask you a favor?&lt;NEXTPAGEBUTTON&gt;"Sorry, I don't have a quill."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No, I don't want an autograph. I'm trying to whip these recruits into shape, and I bet a lesson from you would mean a lot to them.&lt;BR&gt;&lt;BR&gt;Use that {@WorkObject:60} to bring a shadow reaver out to fight. Shouldn't be a problem. What do you say?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1040">
+        <Page social="6">Damn. Even I learned a few things from that fight.&lt;BR&gt;&lt;BR&gt;Thanks so much. And if you do find a quill, there are two l's in Ellak.</Page>
+    </Text>
+</QuestDialog>

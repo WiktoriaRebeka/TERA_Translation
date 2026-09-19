@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1005">
+        <Page social="5">Between the kumases and the patrols, I haven't got soldiers to spare. And now I've got orders to send aid to Sandwalker Refuge! Good thing you're here.&lt;BR&gt;&lt;BR&gt;Head west up the road and report to {@LinkCreature:224#1009#Stadrian}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1009">
+        <Page social="5">About time! The last reinforcements I got were three librarians and a tailor—about as helpful alive as they were dead.&lt;BR&gt;&lt;BR&gt; We'll make good use of your skills.</Page>
+    </Text>
+</QuestDialog>

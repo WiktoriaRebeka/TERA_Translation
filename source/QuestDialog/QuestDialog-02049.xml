@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="1023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1023" prevId="0" villagerId="40009614">
+        <Page social="0">Hello, collector! You came to the right place.&lt;BR&gt;I know you want a valuable card from my collection. But you'll have to work hard!&lt;BR&gt;&lt;BR&gt;I will give you one card—"Rideable Lutino"—from my collection, if you bring me 100 pieces of card dust.&lt;BR&gt;&lt;BR&gt;My partner will leave a message in the calendar, where you can find out how to go about collecting card dust.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1023" prevId="0" villagerId="40009614">
+        <Page social="4">You did a great job!&lt;BR&gt;Nice to work with you! Here's your reward.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1023" prevId="2" villagerId="40009614">
+        <Page social="4">That's not enough card dust!&lt;BR&gt;&lt;BR&gt;You need to gather 100 Card Dust to get the reward!</Page>
+    </Text>
+</QuestDialog>

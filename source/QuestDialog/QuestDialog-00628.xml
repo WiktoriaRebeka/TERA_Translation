@@ -1,0 +1,81 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Despite Samael's death, and against all expectations, the Scions of Lok managed to regroup. As their first order of business, they planned to resurrect Samael and claim the magic of the ancient giants to exact their revenge against the federation.&lt;BR&gt;&lt;BR&gt;Scions of Lok woke the giants and interrogated them to discover the location of the magic they sought. You rescued the giants and prevented their magic from falling into the hands of the Scions.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Return to Velika at once. There are new disturbing reports of Scion activity. This must be dealt with immediately.&lt;BR&gt;&lt;BR&gt;—Seir</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="4" voiceTypeId="0">We're not sure what's going on, but the Scions of Lok were spotted gathering in the Dark Cathedral. Elleon's taking a small task force there and asked for you personally.&lt;BR&gt;&lt;BR&gt;If the full extent of the Scion conspiracy was known, it would shake the Valkyon Federation to the core. Speak with Elleon and help him contain this mess. Dismissed.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1168">
+        <Page social="4" voiceTypeId="0">One trustworthy ally is more valuable than an entire company of soldiers. It's good to see you again. Did Seir explain the situation?&lt;NEXTPAGEBUTTON&gt;"Scions of Lok are causing trouble?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">More than ever! The Scions of Lok have pledged to bring down Velika to avenge Samael's death—and Lok's continued unliving status.&lt;BR&gt;&lt;BR&gt;Jelena's rangers spotted a number of Scions in Val Aureum, specifically around the Colossal Ruins. Elsine, a dear cousin, desperately needs a masterful soldier.&lt;BR&gt;&lt;BR&gt;We're sending you, though. Hah!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" prevId="4" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Elleon speaks rather highly of you. We're grateful to have your assistance on this mission.&lt;BR&gt;&lt;BR&gt;I've seen Scions of Lok rummaging through the relics in Colossal Ruins. We can't let them get their hands on anything that might bring them more power. Please explain the situation to Primus Baruch. &lt;BR&gt;&lt;BR&gt;Together, perhaps we can stop them.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="66" prevId="5" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Scions of Lok? Oh, that's just what we need! I've only just convinced Turrek that the federation is an asset against the kulkari. Now he'll think we drew the Scions of Lok to Tulufan.&lt;BR&gt;&lt;BR&gt;Luckily you're here. It's not safe for Elsine to continue at the ruins, but I need more information about what's going on out there.&lt;BR&gt;&lt;BR&gt;Tribune {@LinkCreature:218#1003#Kardelen}'s monitoring the situation right now at Camp Marrakeen. See what you can do for him!&lt;NEXTPAGEBUTTON&gt;"Got that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Take the &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7003#-57237,-37690,2449&amp;type=1&amp;name=teleportal"&gt;Teleportal&lt;/A&gt;&lt;/font&gt; here. It'll save your time.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="218" prevId="6" villagerId="1003">
+        <Page social="4" voiceTypeId="0">Welcome, &lt;PCNAME&gt;. I'd love to help you with your crisis but neither you nor I will get any information if we can't get closer.&lt;NEXTPAGEBUTTON&gt;"There must be a way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The Desert Fire tribe has turned violent—really violent—so a direct approach is unwise! We might kill a lot of them, but they'll also kill many of us in the process.&lt;BR&gt;&lt;BR&gt;Something's definitely stirred them up and I'd love to know what it is. See if you can get the &lt;BR&gt;&lt;BR&gt;{@linkcreature:18#8#Desert Fire destroyers}, {@linkcreature:18#3#ragers}, and {@linkcreature:18#9#prophets} to talk. If they're not in a talking mood, we'll think of something else.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="218" prevId="7" villagerId="1003">
+        <Page social="4" voiceTypeId="0">Secrets? Power? Sounds like they're involved in something big.&lt;NEXTPAGEBUTTON&gt;"What could that be?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Those names...Ynorr? Surtr? Worlkir? Those sound giantish.&lt;BR&gt;&lt;BR&gt;We need an expert for this. Dinian built a career on giant history. Ask him.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="218" prevId="8" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Those are the names of legendary giants.&lt;BR&gt;&lt;BR&gt;When the gods warred against the giants' empire, these three constructed a powerful weapon and sealed it away, just in case. Then they sealed themselves away to keep the weapon's location a secret.&lt;NEXTPAGEBUTTON&gt;"Legendary giants...I see."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">If they're talking about them... Oh no! The Scions must have found the giants and are trying to recover the weapon. We have to inform Mirak at once.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="218" prevId="9" villagerId="1022">
+        <Page social="4" voiceTypeId="0">It's time to get more information, and I think the Scion leaders might have just what we need.&lt;BR&gt;&lt;BR&gt;{@linkcreature:18#107#Adarak} and {@linkcreature:18#108#Jerexis} must have plans or orders or something, but they're clever and hard to spot.&lt;NEXTPAGEBUTTON&gt;"How do we find them?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">{@linkcreature:218#1009#Chenast} was keeping an eye on the Scions.&lt;BR&gt;&lt;BR&gt;He should know where to find them.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="218" prevId="10" villagerId="1009">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Shh! Keep quiet! High Priestess Akia just passed by.&lt;BR&gt;&lt;BR&gt;She was looking for {@linkcreature:18#107#Adarak} and {@linkcreature:18#108#Jerexis} near that ruin. Come to think of it, it looked like she was giving out orders.&lt;BR&gt;&lt;BR&gt;We need to get rid of those two and get that order.&lt;BR&gt;&lt;BR&gt;After that, {@linkcreature:18#1035#Majuel} will help you.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="18" prevId="11" villagerId="1035">
+        <Page social="29" voiceTypeId="0">Just a while ago, I was gathering information piece by piece...and all of a sudden you killed those two? Things are happening fast, aren't they.&lt;BR&gt;&lt;BR&gt;Hmm...there's a spell on this document. We'll have to ask help from Mirak.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="18" villagerId="1035">
+        <Page social="0">Collect the order after defeating {@linkcreature:18#107#Adarak} and {@linkcreature:18#108#Jerexis}.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="18" prevId="12" villagerId="1035">
+        <Page social="29" voiceTypeId="0">This desert is too dangerous...just the right place to be ambushed. We can't afford to lose the document.&lt;BR&gt;&lt;BR&gt;I'll get you to the camp safe.&lt;BR&gt;Let me know when you're ready.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="18" prevId="12" villagerId="1035">
+        <Page social="29" voiceTypeId="0">Thank you for the help. I'll get back to the guards and report this to my superior.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="218" prevId="12" villagerId="1022">
+        <Page social="4" voiceTypeId="0">You've got the document with you? Let me have a look. This should take only a second.&lt;BR&gt;&lt;BR&gt;According to this document, the Scions have awakened the giants.&lt;BR&gt;&lt;BR&gt;Their plan is to torment the giants with the Agonal Stone and get information of the ancient magic.&lt;NEXTPAGEBUTTON&gt;"What should we do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We must locate the giants.&lt;BR&gt;&lt;BR&gt;The Temple of Tithus holds the most valuable relics of the giants. They should be there.&lt;BR&gt;&lt;BR&gt;You'll be able to get help from Nema at the temple.&lt;BR&gt;&lt;BR&gt;Go! Find the giants first!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="218" prevId="16" villagerId="1007">
+        <Page social="4" voiceTypeId="0">The Scions are torturing the giants?&lt;BR&gt;&lt;BR&gt;I was searching for the Arena of the Exalted for a long time...&lt;BR&gt;&lt;BR&gt;There were traces of someone down at the temple. Back then, I thought it were bandits or miners. It must have been the Scions!&lt;NEXTPAGEBUTTON&gt;"Where's the entrance?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You can enter the temple using this {@linkcreature:218#1501#teleportal}.&lt;BR&gt;&lt;BR&gt;Powerful magic was detected recently...I thought it was some kind of protection spell, to keep out the miners.&lt;BR&gt;&lt;BR&gt;It may have been magic from the Agonal Stone.&lt;BR&gt;&lt;BR&gt;Hurry! You must destroy the Agonal Stone and save the giants! Only you can do this!</Page>
+    </Text>
+    <Text id="18" huntingZoneId="218" prevId="17" villagerId="1501">
+        <Page social="4" voiceTypeId="0">(Enter the Vault of Glory and save the giants.)</Page>
+    </Text>
+    <Text id="19" huntingZoneId="422" prevId="18" villagerId="1003">
+        <Page social="4" voiceTypeId="0">The Scions of Lok stole a book of ancient magic.&lt;BR&gt;&lt;BR&gt;The spells inside were made to stand against the Gods...how foolish. Although it was sealed away when our empire fell, it still contains great destructive power.&lt;BR&gt;&lt;BR&gt;They must be stopped, or your world will suffer disaster. I'm afraid we do not have the strength to stop them. It is up to you.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="422" prevId="18" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Our magic was second to none. We challenged the gods—and nearly won. Our pride made us rush, however, and the gods united against us. They burned our empire from the world in a day of fire. Should the Scions fulfill their dark plans, this may well happen to yours.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="422" prevId="18" villagerId="1005">
+        <Page social="4" voiceTypeId="0">Our magic must not be used again.&lt;BR&gt;&lt;BR&gt;It might infuriate the Gods, and unite them against the world of mortals once more. It would be the end for your world.&lt;BR&gt;&lt;BR&gt;The Scions claimed they would revive the dead at their temple, then use our stolen spells.&lt;BR&gt;&lt;BR&gt;Please...stop them.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="218" prevId="19" villagerId="1022">
+        <Page social="4" voiceTypeId="0">The Scions of Lok have already woken the sleeping giants? We're too late, then.&lt;NEXTPAGEBUTTON&gt;"..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Go and tell Alais about this.&lt;BR&gt;&lt;BR&gt;The Scions must not proceed with their ritual!&lt;BR&gt;&lt;BR&gt;We have no time to lose. Use this teleportal. It will take you back to Tulufan.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="66" prevId="22" villagerId="1023">
+        <Page social="4" voiceTypeId="0">No...we were too late.&lt;BR&gt;&lt;BR&gt;Temple of the Scions...Elleon should be there.&lt;BR&gt;&lt;BR&gt;We should inform Elleon about the Scions.&lt;BR&gt;&lt;BR&gt;His mission...must succeed...</Page>
+    </Text>
+</QuestDialog>

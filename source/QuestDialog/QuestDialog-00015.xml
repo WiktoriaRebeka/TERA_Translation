@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1041">
+        <Page social="4">I think we've turned the corner here, &lt;PCNAME&gt;. The Fey Forest is a big place, though.&lt;BR&gt;&lt;BR&gt;Check with Balter down at the deserted homestead to the south.&lt;BR&gt;&lt;BR&gt;He's a good man, and I'm sure he needs more help than I do.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1047">
+        <Page social="4">Thank the gods you're here, &lt;PCCLASS:lcase&gt;! I thought Lumbertown forgot all about us.</Page>
+    </Text>
+</QuestDialog>

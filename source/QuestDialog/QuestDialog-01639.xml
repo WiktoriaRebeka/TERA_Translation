@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="425" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="425" prevId="0" villagerId="3024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="425" prevId="0" villagerId="3024">
+        <Page social="1">Hail, friend to the sun. The trials of Balder's Temple grow ever more intense, like the sun as it rises into the midday sky.&lt;BR&gt;&lt;BR&gt;Your next trial is to defeat {@LinkCreature:425#3000$$Lagreah}, the Protector of the Garden. Then destroy the {@LinkCreature:425#5000#golem generator} to prove your strength!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="425" prevId="2" villagerId="3025">
+        <Page social="1">You are indeed a friend to the sun.&lt;BR&gt;&lt;BR&gt;Your next trial awaits.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,52 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;We have reports that the Red Raiders are active again.&lt;BR&gt;Launa found a clue about the identity of their mysterious leader.&lt;BR&gt;&lt;BR&gt;Commander Gislan is eager to launch full-scale assault against them as soon as we confirm her information.&lt;BR&gt;&lt;BR&gt;Still have hard feelings toward him? Aid Launa and help us wipe out the raiders, and Gislan will come around.&lt;BR&gt;The realm needs you.&lt;BR&gt;I will be waiting.&lt;BR&gt;&lt;BR&gt; - Seir&lt;BR&gt;&lt;BR&gt;[Entering Dark Reach Citadel requires item level 446 or higher.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; answered the federation's call and pursued the Red Raiders, with Launa in tow. During the investigation, &lt;PCNAME&gt; found a lead suggesting a connection between the Red Raiders and Leander at Dark Reach Citadel.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4" voiceTypeId="0">You came, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Launa finally tracked down a lead about the mastermind behind the Red Raiders.&lt;BR&gt;&lt;BR&gt;She wants backup. I could not think of anyone but you.&lt;BR&gt;&lt;BR&gt;She can tell you all the details.&lt;BR&gt;Go to Tulufan. You will find her there.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="66" prevId="3" villagerId="7831">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Well, this will be easier than I thought! Thank you, Seir!&lt;BR&gt;&lt;BR&gt;He sent you, right?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"This lead you found, what is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Keep this just between us.&lt;BR&gt;&lt;BR&gt;Somehow, Leander is involved with the Red Raiders.&lt;BR&gt;&lt;BR&gt;Leander was the former expedition leader to the Island of Dawn, until he went missing. &lt;BR&gt;Something is not right about his disappearance.&lt;BR&gt;&lt;BR&gt;We now know that the mastermind behind the Red Raiders came to the fore right after Leander disappeared!&lt;BR&gt;&lt;BR&gt;That can't be a coincidence.&lt;NEXTPAGEBUTTON&gt;"Are you saying Leander leads the Red Raiders?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Let's not jump to any conclusions.&lt;BR&gt;That's why we're here, though—to either confirm or disprove that information.&lt;BR&gt;&lt;BR&gt;Let's start in the Colossal Ruins. We have a number of reports that the Red Raiders are active there.&lt;NEXTPAGEBUTTON&gt;"Let's do this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Elsine is nearby.&lt;BR&gt;&lt;BR&gt;She was the last person to see Leander before he went missing.&lt;BR&gt;She might have useful information.&lt;BR&gt;&lt;BR&gt;Can you talk to her?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="66" prevId="4" villagerId="1023">
+        <Page social="4" voiceTypeId="0">Are you here about Leander?&lt;NEXTPAGEBUTTON&gt;"What?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I'm helping out with an investigation.&lt;BR&gt;It's about an unidentified man who brought an ancient weapon to Velika.&lt;BR&gt;&lt;BR&gt;If you are not here for it, just go.&lt;BR&gt;I am very busy now.&lt;NEXTPAGEBUTTON&gt;"Spare me few minutes. This is about your cousin, Leander."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Leander?&lt;BR&gt;&lt;BR&gt;I'm not sure I can offer you any useful information, beyond what I said at the time.&lt;BR&gt;&lt;BR&gt;After Elleon went missing, Leander became obsessed with searching for him. He lost all interest in everything else: the expedition, his academic career... none of it mattered anymore.&lt;NEXTPAGEBUTTON&gt;"Was Leander searching for Elleon by himself?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Not at first.&lt;BR&gt;&lt;BR&gt;I remember that he was incredibly furious at the federation. He invested a large amount of gold, hiring investigators, following leads, whatever might have helped him find Elleon. The federation's search did not yield anything.&lt;BR&gt;&lt;BR&gt;I do not know whether Leander still contributes to the federation, but last time we met, he said he lost faith in their leadership.&lt;BR&gt;I have not seen him since, but it is possible Leander went on his own way to find Elleon.&lt;BR&gt;&lt;BR&gt;Leander is a good man. He just wants to know if Elleon is alive.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="66" prevId="5" villagerId="7831">
+        <Page social="4" voiceTypeId="0">So, Leander might harbor a grievance against the federation?&lt;BR&gt;&lt;BR&gt;That's promising, but it's not proof that he leads the Red Raiders.&lt;BR&gt;Let's dig in some more. My gut tells me he has something to do with the Red Raiders.&lt;BR&gt;&lt;BR&gt;Camp Marrakeen just contacted me. They might have a lead.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, we're on our way to Camp Marrakeen!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="18" prevId="6" villagerId="7832">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! I am honored to meet you.&lt;BR&gt;But we might have been premature about that lead; our source is being difficult.&lt;BR&gt;&lt;BR&gt;As you probably know, gutrends are in league with the Red Raiders.&lt;BR&gt;&lt;BR&gt;They are superstitious beasts, devoted only to their so-called prophecy. So we captured Kunchara, who has a reputation for being a hoaxter. The savage is as stubborn as he is deceitful.&lt;BR&gt;&lt;BR&gt;We cannot just let him go. We'll find a way to get the truth out of him, whatever it takes.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="218" prevId="7" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Kunchara never forgets.&lt;BR&gt;The federation helped Kunchara.&lt;BR&gt;Gutrends do not harm the federation.&lt;BR&gt;&lt;BR&gt;Some gutrends are raiders. My gutrends are not raiders.&lt;BR&gt;Kunchara speaks true. Trust Kunchara!&lt;NEXTPAGEBUTTON&gt;"Why should I believe you?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Kunchara saw. This is true.&lt;BR&gt;&lt;BR&gt;At Sietch Bidaum, Kunchara saw weird people.&lt;BR&gt;Man in black, commanding gutrends.&lt;BR&gt;Bad gutrends. They harm The federation.&lt;BR&gt;&lt;BR&gt;My gutrends, you can trust.&lt;BR&gt;&lt;BR&gt;Only Kunchara knows this information. Kunchara can be friend.&lt;BR&gt;Kunchara cannot lie. If Kunchara lies, god will never speak to Kunchara again.&lt;BR&gt;Kunchara promises, on Kunchara's prophecy staff. Break it, should Kunchara lie.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="18" prevId="8" villagerId="7835">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, I am starting to think the federation overvalued you.&lt;BR&gt;What took you so long?&lt;NEXTPAGEBUTTON&gt;"What are these wagons?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Red Raiders.&lt;BR&gt;The cargo wasn't touched.&lt;BR&gt;&lt;BR&gt;Monsters' work, most certainly. They attacked while the Red Raiders were transporting their cargos.&lt;NEXTPAGEBUTTON&gt;"You sure these belong to the Red Raiders?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Obvious, is it not?&lt;BR&gt;&lt;BR&gt;The cargo includes ancient relics, recently stolen by the Red Raiders.&lt;BR&gt;&lt;BR&gt;Search the bodies.&lt;BR&gt;They're bound to provide some solid clues.&lt;BR&gt;&lt;PCNAME&gt;Go on, have a look.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="18" prevId="9" villagerId="7835">
+        <Page social="1" voiceTypeId="0">(Launa reads the document.)&lt;BR&gt;Huh... Kunchara spoke the truth.&lt;BR&gt;&lt;BR&gt;I found something, too.&lt;BR&gt;Let's see... a list of sites to search, and the destination of the relics they pillage.&lt;BR&gt;&lt;BR&gt;Goodness! Dark Reach Citadel? The ancient giant ruins?&lt;BR&gt;&lt;BR&gt;I'll go back to the outpost and set Kunchara free.&lt;BR&gt;I promised to release him if he told us the truth.&lt;BR&gt;&lt;BR&gt;I will mark the location on your map.&lt;BR&gt;You go there and find the raiders.&lt;BR&gt;Godspeed, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="783" prevId="10" villagerId="1504">
+        <Page social="0" voiceTypeId="0">(Powerful magic surrounds the orb.)</Page>
+    </Text>
+    <Text id="12" huntingZoneId="783" prevId="11" villagerId="5002">
+        <Page social="0" voiceTypeId="0">(Pages are bloodstained, with only a few words legible.)&lt;BR&gt;&lt;BR&gt;...Definition...&lt;BR&gt;...demons...(...create...! ...portal...&lt;BR&gt;Theory suggests...! ...ritual...&lt;BR&gt;...must...!)...complete...</Page>
+    </Text>
+    <Text id="13" huntingZoneId="18" prevId="12" villagerId="7836">
+        <Page social="0" voiceTypeId="0">Are we not supposed to find the Red Raiders?&lt;BR&gt;&lt;PCNAME&gt;, where have you been?&lt;NEXTPAGEBUTTON&gt;"I found them. They're inside the fort."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You finished the reconnaissance already?&lt;BR&gt;&lt;BR&gt;Any sign of Leander?&lt;NEXTPAGEBUTTON&gt;Hand over the forbidden tome, and explain what happened.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">It cannot be!&lt;BR&gt;This book is sanctioned!&lt;BR&gt;Yes, Leander is a demonology expert.&lt;BR&gt;But his expertise is only academic.&lt;BR&gt;It is hard to believe Leander sacrificed his followers to summon a demon.&lt;BR&gt;&lt;BR&gt;Leander's mysterious backer... he sounds very fishy.&lt;BR&gt;We must stop them before more lives are lost.&lt;BR&gt;&lt;BR&gt;Good work, &lt;PCNAME&gt;.&lt;BR&gt;I will study this book further.</Page>
+    </Text>
+</QuestDialog>

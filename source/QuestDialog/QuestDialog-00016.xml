@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1047">
+        <Page social="4">We have a timber quota to fill, and we've made almost no progress in the last few days.&lt;BR&gt;&lt;BR&gt;Lennert back in Lumbertown doesn't listen to excuses. He's a hard man, but I see his point. Our soldiers on the front don't want to hear excuses, either.&lt;BR&gt;&lt;BR&gt;If we can just get our crews back into the forest...&lt;NEXTPAGEBUTTON&gt;"What can I do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">You don't look like much of a woodcutter, but like I said, woodcutters are useless if they can't get to the trees.&lt;BR&gt;&lt;BR&gt;Instead of cutting down trees, how about you cut down some {@LinkCreature:2#3#centaurs}?&lt;BR&gt;&lt;BR&gt;I'll pay for each mane you bring back. Kill enough, and maybe they'll get the hint.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1047">
+        <Page social="4">I've never seen the centaurs gallop away so fast. They'll be back, but I'll send crews out right away&lt;BR&gt;&lt;BR&gt;At least we'll make progress today...thanks to you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1047">
+        <Page social="0">Kill the {@LinkCreature:2#3#centaurs}, okay? It ain't teleport science!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,35 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;, we’d like to have some words with you, in Velika. Dougal will be your guide.&lt;BR&gt;— Gislan&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;[You must have equipment level 463 or higher to enter Antaroth’s Abyss.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Karakhir never reappeared after you rescued him, and you were accused of his murder by Aktam. You reluctantly headed for the Abyss to address the accusations.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="39" prevId="1" villagerId="6000">
+        <Page social="0" voiceTypeId="0">Greetings, &lt;PCNAME&gt;.&lt;BR&gt;Gislan has asked for you. Go to Velika immediately.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Who is Gislan?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Gislan oversees the security and operations of Velika itself. After the war, he was instrumental in transforming Velika into the capital of the Valkyon Federation.&lt;BR&gt;&lt;BR&gt;It's not surprising that you don't recognize his name, as he rarely makes public appearances.&lt;BR&gt;&lt;BR&gt;In fact, I don't recall him ever calling someone for a personal audience.&lt;BR&gt;Odd.&lt;NEXTPAGEBUTTON&gt;"Why is he looking for me?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I don't have any more details for you, sorry.&lt;BR&gt;But Gislan handles matters far above my rank. It's best not to keep him waiting.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1401">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I won't waste time. You stand accused of high treason.&lt;BR&gt;&lt;BR&gt;Aktam here has testified that you are a high-ranking officer in the Red Raiders.&lt;BR&gt;&lt;BR&gt;He claims not only that you kidnapped his master Karakhir to forge weapons for the Red Raiders, but that your previous service to the federation was all a ruse to destroy us from within.&lt;BR&gt;&lt;BR&gt;How do you answer these very serious charges?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1402">
+        <Page social="0" voiceTypeId="0">You monster! First you abducted Master Karakhir, then you tortured him and made up a story about helping him escape. But where is he then? He would have contacted me or his father if he was alive!&lt;BR&gt;&lt;BR&gt;Look, you've even got his horn! Lord Gislan, what more proof do you need of the master's murder!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1401">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, these charges are serious, and if this horn was indeed Karakhir's, you have much to answer for. But only you and Aktam were present at the Red Raiders' camp, and one of you must be lying.&lt;BR&gt;&lt;BR&gt;Tell me now, are you plotting against the goddess Velik? Did you abduct Karakhir, and try to attack the federation?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="1401">
+        <Page social="0">Tread lightly. The punishment for treason is severe.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="1401">
+        <Page social="0" voiceTypeId="0">No one can confirm your story. Both Aktam and Dougal saw you emerge from the Red Raiders' encampment showing signs of a fight, and you are in posession of a broken amani horn.&lt;BR&gt;We are a society of laws, but people as powerful as yourself are rarely held accountable for their actions. If you are truly innocent, there is but one way to prove it.&lt;BR&gt;&lt;BR&gt;Enter the Abyss, make your way to the Chamber of Trials, and face Antaroth, the Cursed Knight.&lt;BR&gt;Only the pure of heart can survive such an encounter. If you come through alive, I will believe you are truly innocent.&lt;BR&gt;&lt;BR&gt;If you fail...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1405">
+        <Page social="0" voiceTypeId="0">Now is not the best time...&lt;BR&gt;You must go to the Velika Consul Office.&lt;NEXTPAGEBUTTON&gt;"Do you suspect me, too?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You were the last one who saw Karakhir.&lt;BR&gt;And you have his horn.&lt;BR&gt;Those are the facts.&lt;BR&gt;&lt;BR&gt;I don't know what happened, but if you have something to confess, you should do it now.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="9" villagerId="1400">
+        <Page social="0" voiceTypeId="0">You have validated my trust, &lt;PCNAME&gt;.&lt;BR&gt;Still, there are others who will suspect your true motives.&lt;BR&gt;&lt;BR&gt;Continue your efforts against the Red Raiders, and I will look further into this matter.</Page>
+    </Text>
+</QuestDialog>

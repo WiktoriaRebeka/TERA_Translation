@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1011">
+        <Page social="4">Eldritch shards with relatively little power still make fabulous weapons.&lt;BR&gt;&lt;BR&gt;Of course, they'll cut your hand open if you're not protected. I need some leather to wrap these with. It's got to be tough, as well.&lt;BR&gt;&lt;BR&gt;Kill {@LinkCreature:34#100#maligos icestalkers} and collect the hide around their heads. It's tough!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1011">
+        <Page social="4">These will do rather well. Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="83" villagerId="1011">
+        <Page social="0">I can't just wrap the hafts with cloth or lambskin. They'll be sheared away, as will my fingers! Bring me the hide.</Page>
+    </Text>
+</QuestDialog>

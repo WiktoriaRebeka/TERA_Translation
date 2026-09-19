@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[Achieve Hyderad's Wisdom]&lt;BR&gt;&lt;BR&gt;Learn to slow down and enjoy the beauty that nature provides to all. Come to pastoral {@Rgn:71001$$Bastion} and join the Hyderad Legacy. Speak to {@LinkCreature:71#3001#Arisel} of the Hyderad Legacy.&lt;BR&gt;&lt;BR&gt;We can show you a different way to save the world.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3001">
+        <Page social="4">We've been watching you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The world is broken. Most places, nature weeps.&lt;BR&gt;&lt;BR&gt;But not here. Hyderad's followers plan to keep it that way. Want to make something beautiful?</Page>
+    </Text>
+</QuestDialog>

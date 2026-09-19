@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1033">
+        <Page social="5">Nagas and undead seem a strange alliance, don't you agree? It's a mystery I'd love to unravel. Would you be willing to hunt some {@LinkCreature:42#600#skeletal watchers} and see if you can find any evidence on them?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1033">
+        <Page social="4">A stone that controls the undead. Hmmm, I've heard about that somewhere before...&lt;BR&gt;&lt;BR&gt;Something to do with Thulsa, I think.&lt;BR&gt;&lt;BR&gt;Great job. This is important information.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1033">
+        <Page social="0">Have you gone after the {@LinkCreature:42#600#skeletal defenders} yet? We need proof they're working for the nagas.</Page>
+    </Text>
+</QuestDialog>

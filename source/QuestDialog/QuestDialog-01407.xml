@@ -1,0 +1,110 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="0" huntingZoneId="60" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, please come to the Mysterium in Allemantheia.&lt;BR&gt;&lt;BR&gt;There are things we must discuss.&lt;BR&gt;&lt;BR&gt;- Ryshan</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; helped out in the Mysterium's refugee Isolation Camp, then helped them create an Aura Sentinel in Bastion.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="1" villagerId="1111">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, you've came.&lt;BR&gt;&lt;BR&gt;The Mysterium is currently researching the crystal powder that comes from Murderwings and Mournwings.&lt;BR&gt;&lt;BR&gt;I think you already know most of it, but please let me tell you our theory.&lt;NEXTPAGEBUTTON&gt;"Please go on."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The creatures secrete an unknown substance from its wing. It's similar to a finely grinded crystal.&lt;BR&gt;&lt;BR&gt;When monsters inhale this powder, the nervous system disturbed, causing the monsters to become furous.&lt;BR&gt;&lt;BR&gt;What's worse is...&lt;NEXTPAGEBUTTON&gt;"Please continue."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">If a creature touches the powder, it's body slowly turns into crystal.&lt;BR&gt;It's also possible to be infected by the crystal by physical contact.&lt;BR&gt;&lt;BR&gt;You should take a look for yourself.&lt;BR&gt;&lt;BR&gt;Take these. A normal insect and powder from a crystallized insect.&lt;BR&gt;Please put them in the device next to me.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="6000">
+        <Page social="0" voiceTypeId="0">(The device hums to life as you place the insect on the left and the powder on the right.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" villagerId="6000">
+        <Page social="0">Crystal Powder Sensor</Page>
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="4" villagerId="6000">
+        <Page social="0" voiceTypeId="0">(The insect has been crystallized.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="6" villagerId="1111">
+        <Page social="0" voiceTypeId="0">This experiment proves what we already know: exposure to the powder, no matter where it comes from, has catastrophic effects on living creatures.&lt;BR&gt;&lt;BR&gt;The greater the exposure, the faster the infection spreads.&lt;BR&gt;&lt;BR&gt;The Mysterium still needs more time to figure out what is causing the crystallization, but we'll get there soon.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We've dispatched researchers to set up an Isolation Camp in Sienna Canyon.&lt;BR&gt;&lt;BR&gt;Whatever you can do to help them would be appreciated.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="72" villagerId="1111">
+        <Page social="0">Have you checked the sensor?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="238" prevId="7" villagerId="3003">
+        <Page social="0" voiceTypeId="0">You've came all the way here to help us? Thank you so much!&lt;BR&gt;&lt;BR&gt;Say, you didn't happen to see any other researchers on the way here, did you? My associate Teyer was supposed to bring some samples from the Isolation Camp, but I haven't heard anything from them for a couple hours.&lt;BR&gt;&lt;BR&gt;Would you please go to the camp and see what's going on?&lt;NEXTPAGEBUTTON&gt;"I will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Thank you again.&lt;BR&gt;&lt;BR&gt;It's not like Teyer to go silent like this. Please head south and look for his Supply Wagon.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="38" prevId="9" villagerId="126">
+        <Page social="0" voiceTypeId="0">Oh, hello there.&lt;BR&gt;&lt;BR&gt;Did you see those hyenas! They're usually quite docile, but for some reason they just attacked my wagon.&lt;BR&gt;&lt;BR&gt;I'm no adventurer, so I ran away. I watched them rummage around in the supplies, but they didn't take or damage anything.&lt;NEXTPAGEBUTTON&gt;"Are you hurt?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I got a few scratches when I jumped from the wagon, but I'm okay.&lt;BR&gt;&lt;BR&gt;I checked on the samples as soon as I came back, but our research data is scattered all over the place. Can you help me gather the data?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="38" prevId="10" villagerId="126">
+        <Page social="0" voiceTypeId="0">Thank you so much!&lt;BR&gt;&lt;BR&gt;The wagon is a little damaged, but it will still roll.&lt;BR&gt;&lt;BR&gt;I'll head on to Roostcliff Quarter; you should head over to the Isolation Camp and see if they need any help.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="38" prevId="11" villagerId="103">
+        <Page social="0" voiceTypeId="0">You're new here, aren't you? Most people avoid this camp like the...well, you know.&lt;BR&gt;&lt;BR&gt;This camp is as safe as anyplace on Shara right now, though I am worried about rumors of a purple object seen in the skies above Balder's Refuge.&lt;BR&gt;&lt;BR&gt;Of course I'm worried about the civilians, too, but at the same time we have to think about preserving the relics in this area.&lt;NEXTPAGEBUTTON&gt;"The relics will be fine."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">A discussion for another time, perhaps.&lt;BR&gt;&lt;BR&gt;Our current focus is contructing effective shelters for these refugees. We're doing our best, but we're short on supplies and healthy bodies to assemble them. Are you willing to help?&lt;NEXTPAGEBUTTON&gt;"Of course, whatever you need."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The trees around here are too brittle for tent supports, but the bodies of Arbosk Enchanters are quite strong.&lt;BR&gt;&lt;BR&gt;And as nature spirits, you're not really killing them during the harvesting process. Just sending them back to the Dream to be reborn elsewhere.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="38" prevId="12" villagerId="103">
+        <Page social="0" voiceTypeId="0">Thank you for this.&lt;BR&gt;&lt;BR&gt;Your next step will be to fashion this wood into tent supports.&lt;BR&gt;&lt;BR&gt;Here, use this tool box while I set up your next task.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="38" villagerId="103">
+        <Page social="0">Please use the tool box to craft tent supports.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="38" prevId="13" villagerId="103">
+        <Page social="0" voiceTypeId="0">Now that we have a support frame, we need some leather to cover it up. The recent population explosion of Ruins Hyenas solves that problem for us. You can hunt them down and use their leather.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="38" prevId="15" villagerId="103">
+        <Page social="0" voiceTypeId="0">Nicely done. Now we can finish this tent.&lt;BR&gt;&lt;BR&gt;You hold up the frame while I cover it.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="38" villagerId="103">
+        <Page social="0">We need that leather. Please collect hides from Ruins Hyenas.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="38" prevId="16" villagerId="103">
+        <Page social="0" voiceTypeId="0">Your hard work has provided shelter for a new refugee family. You should be proud of your efforts today.&lt;BR&gt;&lt;BR&gt;My next duty is to dispense medicine to these people. Will you assist me?&lt;NEXTPAGEBUTTON&gt;"My pleasure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The medicine is in those boxes. Each person should receive one topical patch each day.&lt;BR&gt;&lt;BR&gt;Why don't you start at the tent over there.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="38" prevId="18" villagerId="117">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;What's that in your hand...?&lt;BR&gt;&lt;BR&gt;No! I don't want any more medicine!&lt;BR&gt;&lt;BR&gt;Get away! No!&lt;NEXTPAGEBUTTON&gt;"Ameldas, please take it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I said no!&lt;BR&gt;&lt;BR&gt;Every day that weird thing! It makes me feel funny. I won't take it anymore!&lt;NEXTPAGEBUTTON&gt;"Please, it's for your own good."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Well...&lt;BR&gt;&lt;BR&gt;I'll do it if you give me a new toy!</Page>
+    </Text>
+    <Text id="20" huntingZoneId="38" prevId="19" villagerId="117">
+        <Page social="0" voiceTypeId="0">What is that? Is it a toy?&lt;BR&gt;&lt;BR&gt;It is. Oh, what a marvelous top!&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Ready for your medicine?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Well...alright...&lt;BR&gt;&lt;BR&gt;(Ameldas lets you apply the patch)&lt;BR&gt;&lt;BR&gt;Can I have my toy now?</Page>
+    </Text>
+    <Text id="21" huntingZoneId="38" prevId="20" villagerId="108">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I'm glad to see you helping out here. Mos of the federation "advisors" we get just swoop in, earn some gold, then move on.&lt;BR&gt;&lt;BR&gt;We're working hard to find a remedy that will do more than just ease pain, but we're always short on test samples and skilled gatherers.&lt;BR&gt;&lt;BR&gt;Speaking of which, are you doing anything right now?&lt;NEXTPAGEBUTTON&gt;"What do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You've probably noticed a recent influx of basilisks to the area. they've been driven out of their normal habitats, and some are showing signs of amber powder infection.&lt;BR&gt;&lt;BR&gt;Now, not many people know this, but basilisk blood is a natural anti-toxin, and they can usually heal themselves from any kind of poison.&lt;BR&gt;&lt;BR&gt;If you can, please collect blood samples from Desert Basilisks.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="38" prevId="21" villagerId="120">
+        <Page social="0" voiceTypeId="0">Thank you!&lt;BR&gt;&lt;BR&gt;We'll use these samples in our efforts to find a cure.&lt;NEXTPAGEBUTTON&gt;"We're all counting on you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Looks like you've done a lot of work here today, &lt;PCNAME&gt;. We're happy to host you as long as you want to help, but there's a developing situation to the north.&lt;BR&gt;&lt;BR&gt;Our expedition in the Veritas District is trying to create a Murderwing early warning system. They can use someone like you in Bastion.&lt;NEXTPAGEBUTTON&gt;"Bastion?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Of course. You're so busy, you probably forgot about Bastion. Balder's Refuge is one of the most important archaelogical sites in the world, the ancient home of the gods Balder and Seren.&lt;BR&gt;&lt;BR&gt;The many relics there draw all sorts of unwanted attention, and our researchers in the towm of Bastion are always organizing survey teams. We can't afford to have the amber powder spread to such a sacred place.&lt;BR&gt;&lt;BR&gt;If you have the time, please go there and speak to my colleague Larive.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="38" villagerId="120">
+        <Page social="0">Please collect blood samples from Desert Basilisks.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="71" prevId="22" villagerId="1010">
+        <Page social="0" voiceTypeId="0">Hello, traveler. What brings you here?&lt;BR&gt;&lt;BR&gt;&lt;Oh, Ryshan sent you to help us assemble an Aura Sentinel? We're barely to the prototype stage, but even that will give us some warning should those creatures invade the refuge.&lt;BR&gt;&lt;BR&gt;Are you familiar with Defense Stones? It's a similar design.&lt;NEXTPAGEBUTTON&gt;"A little bit."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Defense Stones react to a specific conditions, creating an impenetrable barrier when danger is near.&lt;BR&gt;&lt;BR&gt;For instance, let's say a you want to keep a banana safe from a sloth. All you have to do is design a a Defense Stone that would react to anything that would steal a banana. And voila!&lt;NEXTPAGEBUTTON&gt;"Bananas. Right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">(Larive glances suspiciously at you)&lt;BR&gt;&lt;BR&gt;Are you sure you understand?&lt;BR&gt;&lt;BR&gt;You should take a look at it yourself. The prototype should react to this sample of amber powder.&lt;BR&gt;&lt;BR&gt;Take this powder and approach the Aura Sentinel.</Page>
+    </Text>
+    <Text id="25" huntingZoneId="71" prevId="24" villagerId="1010">
+        <Page social="0" voiceTypeId="0">Like you just saw, the prototype sensed the powder and activated a barrier.&lt;BR&gt;&lt;BR&gt;When fully poowered, the Aura Sentinel will be able to detect the tiniest grains of amber powder, and protect the entire refuge.&lt;NEXTPAGEBUTTON&gt;"Impressive."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We still need more information on the amber powder, and how it operates. There was supposed to be a messenger heading our way with research data, but none have approached me so far.&lt;BR&gt;&lt;BR&gt;Do you know anything about it besides that it comes from Murderwings?&lt;NEXTPAGEBUTTON&gt;"Well, actually..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Wow...that's a lot to take in. But we should definitely be able to calibrate the Aura Sentinel for that.&lt;BR&gt;&lt;BR&gt;When it's done, we'll do a larger scale test. But at present, we don't have enough materials for more than one installation.&lt;NEXTPAGEBUTTON&gt;"Gathering materials? My specialty!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">A specialist? that's great news!&lt;BR&gt;&lt;BR&gt;Go to Camp Curiosity on the east side of Balder's Refuge and find Arelle.&lt;BR&gt;&lt;BR&gt;She's an expert on the Defense Stones, and can tell you exactly what to gather, and where.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="71" villagerId="1010">
+        <Page social="0">Have you Tested the sentinel yet?</Page>
+    </Text>
+    <Text id="27" huntingZoneId="230" prevId="25" villagerId="1029">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, It's you!&lt;BR&gt;&lt;BR&gt;No need to be surprised; almost mveryone in the Mysterium knows who you are.&lt;BR&gt;&lt;BR&gt;You can call me Arelle, but you probably already know that.&lt;NEXTPAGEBUTTON&gt;"I'm here to help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Excellent. Your generosity is appreciated.&lt;BR&gt;&lt;BR&gt;The key materials for Defense Stone construction are stones from the ruins of the Lower Archive. We've got an easy way to extract and shape them, but the Auto-Gardeners are making it difficult for our workers to gather it.&lt;BR&gt;&lt;BR&gt;I could send in the troops to push the constructs back, but a large-scale battle would harm the archive.&lt;BR&gt;&lt;BR&gt;Now that you're here, we have a more elegant solution. Wouldn't you agree?</Page>
+    </Text>
+    <Text id="28" huntingZoneId="230" prevId="27" villagerId="1029">
+        <Page social="0" voiceTypeId="0">Thank you, &lt;PCNAME&gt;. You've made this a lot easier.&lt;BR&gt;&lt;BR&gt;Here. This Aura Sentinel Key should tune any Defense Stone into an Aura Sentinel. But be careful; we still need regular Defense Stones to protect the refuge from non-powdery dangers.</Page>
+    </Text>
+    <Text id="29" huntingZoneId="230" prevId="28" villagerId="1029">
+        <Page social="0" voiceTypeId="0">We'll go into full production of the keystones Larive needs as soon as possible.&lt;NEXTPAGEBUTTON&gt;"I hope I was helpful."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I heard the Isolation Camp in Sienna Canyon is short on people. As soon as my work here is done, I may join them in searching for a cure.</Page>
+    </Text>
+</QuestDialog>

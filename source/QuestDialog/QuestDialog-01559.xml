@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; used a skill manual to summon a flying horse and look for Garta's frog, but it was too large to move.&lt;BR&gt;&lt;BR&gt;Garta doesn't seem to mind, and shares a laugh when revealing the skill manual was Morick's collateral.&lt;BR&gt;&lt;BR&gt;Morick was disappointed at first, but when reminded that he can keep his money didn't seem to mind as much.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="1501">
+        <Page social="0">(This massive beast has to be Garta's frog.)&lt;NEXTPAGEBUTTON&gt;"Come on, froggy. Time to go home."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">(The frog is too massive to move.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2002">
+        <Page social="3">What? He won't move! Ha! Frog must be happy there. I'll get him later.&lt;NEXTPAGEBUTTON&gt;"What about Morick's notes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3">Did winged horse not come? Baraka papers seem to work fine for you, and now you want them again?&lt;BR&gt;&lt;BR&gt;Go away, goblin-robber! Tell Morick all about your day. Ha!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="1500">
+        <Page social="4">Here you are! Did you get my research?&lt;BR&gt;&lt;BR&gt;Oh no! You used it?&lt;BR&gt;&lt;BR&gt;Garta, that sly fiend! He knew how much those notes meant to me...that's why he wanted you to use them!&lt;NEXTPAGEBUTTON&gt;"I'm so sorry. What will you do now?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">I suppose I will have to try to reconstruct my research from my subsequent notes.&lt;BR&gt;&lt;BR&gt;Still, Garta made a huge error in judgment: He gave you my collateral...but I never repaid him.&lt;BR&gt;&lt;BR&gt;Take the money. If he asks me about it, I will tell him I did the same thing with it that he did with my research!</Page>
+    </Text>
+</QuestDialog>

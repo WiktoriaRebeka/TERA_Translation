@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2000" prevId="0" villagerId="20403">
+        <Page social="5">&lt;PCNAME&gt;! I've got some interesting news!&lt;BR&gt;&lt;BR&gt;Those red crabbers and red crabbombs over there have been eating the crystallized Mournwings. After that, the Thorny eyestalkers ate the Red Crabbers!&lt;BR&gt;&lt;BR&gt;This could mean that the Thorny eyestalkers developed an immune system against the Mournwings by eating the crabbers.&lt;BR&gt;&lt;BR&gt;Please collect their shells for me.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20403">
+        <Page social="5">I can't wait to see what kind of interrelation the crabbers and eyestalkers have.&lt;BR&gt;&lt;BR&gt;Thank you for your help, &lt;PCNAME&gt;. Now all that's left is rescuing Titus and the villagers. I wish you luck!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" villagerId="20403">
+        <Page social="0">Without enough samples, I can't continue my research.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1029">
+        <Page social="4">Those {@LinkCreature:20#30087000#Relentless Bloodclaw Arachnens} are no end of trouble! Besides trying to cave the walls in, they bite. And their venom is nothing to scoff at.&lt;BR&gt;&lt;BR&gt;I want to collect the venom sacs and send them off to the federation scholars. I think that with some examiniation, they'll be able to make up an antidote.&lt;BR&gt;&lt;BR&gt;So. Venom sacs. You think you can handle that?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1029">
+        <Page social="4">This looks like what I need to get the federation scholars going on what could be an antidote.&lt;BR&gt;&lt;BR&gt;Thank you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1029">
+        <Page social="0">If we don't get those sacs to the federation, we won't have any chance to defend against the poison.</Page>
+    </Text>
+</QuestDialog>

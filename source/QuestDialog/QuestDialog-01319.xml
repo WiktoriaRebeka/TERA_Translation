@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="96" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1028">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1028">
+        <Page social="4" voiceTypeId="0">We've beaten back the Mugatos, but there's still plenty of monsters out there!&lt;BR&gt;&lt;BR&gt;Please kill the Seeliewood Tentacullars, Seeliewood Cullars, and Emberheart Dracoloths in The Bower!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" prevId="3" villagerId="1028">
+        <Page social="4" voiceTypeId="0">Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Because of your efforts, I can finally rest!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1001">
+        <Page social="4">The sheer number of gilgash guardians wandering the front is demoralizing the troops. Who can blame them? Those things are massive and deadly.&lt;BR&gt;&lt;BR&gt;Time for a little attrition. Take a squad out and kill the gilgashes.&lt;BR&gt;&lt;BR&gt;Dismissed.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1001">
+        <Page social="6">I wandered through the mess line a little while ago. They're talking about your exploits. That's a good sign.&lt;BR&gt;&lt;BR&gt;They're laughing more now. That's a better sign. Thanks.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1014">
+        <Page social="4">While you were busy with the kulkari, I did some solo scouting along the canyon walls.&lt;BR&gt;&lt;BR&gt;I found {@LinkCreature:24#19#eldritch warpers} and {@LinkCreature:24#20#blackguards}. It's too much of a coincidence with the kulkari advancing. I'll watch the kulkari while you take them out. Bring back anything you find. We'll figure this out.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1014">
+        <Page social="4">Not a single clue for you either? Hmph. I know something's going on. We'll have to keep looking.&lt;BR&gt;&lt;BR&gt;Get some rest and don't forget to stay hydrated! If you die on me, I'll have you resurrected just so I can kick your ass.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" villagerId="1014">
+        <Page social="0">Were you waiting for an engraved invitation? Get moving, soldier!</Page>
+    </Text>
+</QuestDialog>

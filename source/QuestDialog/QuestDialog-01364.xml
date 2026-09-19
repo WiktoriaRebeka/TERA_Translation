@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1020">
+        <Page social="4">Whatever those mekonaris are doing is monstrous.&lt;BR&gt;&lt;BR&gt;Those spectral legates? Souls tortured into feeding on pain and suffering. They hunt down the freshly dead so they can't return to the Dream.&lt;BR&gt;&lt;BR&gt;Maybe Killian summoned them. Maybe they just followed the food. Whichever it is, you must stop their feasting.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1020">
+        <Page social="4">Deft work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Thanks! Those unnatural things were turning my whiskers white!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1020">
+        <Page social="0">&lt;PCCLASS&gt;, ever see a spirit torn away from the Dream? You'd never sleep right again.&lt;BR&gt;&lt;BR&gt;Nature's weeping over this. Wipe out those spectres!</Page>
+    </Text>
+</QuestDialog>

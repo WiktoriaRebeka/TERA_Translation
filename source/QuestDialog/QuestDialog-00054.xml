@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">The devas nicked our supplies time and time again. It's time for a little payback.&lt;BR&gt;&lt;BR&gt;Snatch back some of the supplies and if you have to kill a few devas to get to them, so much the better.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1011">
+        <Page social="4">Great! This is so wonderful.&lt;BR&gt;&lt;BR&gt;(Droyan nods with approval.)&lt;BR&gt;&lt;BR&gt;Those scoundrels also need to know what it's like. You have no idea how difficult it was for the people of Crescentia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1011">
+        <Page social="0">Look, it's not stealing. It's liberating. They stole food from our families. I'm just asking you to take it back.</Page>
+    </Text>
+</QuestDialog>

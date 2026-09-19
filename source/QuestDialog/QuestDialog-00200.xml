@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1037">
+        <Page social="4">The {@LinkCreature:8#4031#skeletal caimans} and {@LinkCreature:8#4032#bonethralls} are always moving bodies around down here.&lt;BR&gt;&lt;BR&gt;I don't know why and I don't care. Put an end to the caimans. That's an order.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1037">
+        <Page social="4">I bet they were going to turn those bodies into undead slaves. In that case, both the living and the dead thank you.&lt;BR&gt;&lt;BR&gt;Nice work.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1003">
+        <Page social="4">It would be unwise to send you into the fray without knowing what you're capable of.&lt;BR&gt;&lt;BR&gt;So demonstrate—show me what you've got.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:4#2011#voracious fangspawns} should prove a worthy test. Let's see you bring me their hearts.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1003">
+        <Page social="4">If you intended to demonstrate the concept of "ease," then you succeeded, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Most soldiers who arrive here find the fangspawns more of a challenge.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1003">
+        <Page social="0">If you think you're too good for a simple assessment, then contemplate this: your arrogance is part of the assessment!</Page>
+    </Text>
+</QuestDialog>

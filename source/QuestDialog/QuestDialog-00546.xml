@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="4">Did you know {@LinkCreature:21#1#vicious dusky basilisks} are covered with the thickest, lightest scales? If you could bring me some, I could outfit our soldiers with better armor. It'd save a lot of lives!&lt;BR&gt;&lt;BR&gt;Up to it?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1029">
+        <Page social="6">The stories I've heard weren't keener hogwash. You really are quite a fighter!&lt;BR&gt;&lt;BR&gt;Thanks for the scales. I'll put them to good use!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1029">
+        <Page social="0">This isn't easy, but I wouldn't ask if it weren't also necessary.</Page>
+    </Text>
+</QuestDialog>

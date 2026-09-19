@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1006">
+        <Page social="4">Warn Blackspring Camp that these undead are our own missing. Nobody else can stop this slaughter.&lt;BR&gt;&lt;BR&gt;Of the two ways to the camp, the west passage is safest. Casias is our scout there. He'll show you the way.&lt;BR&gt;&lt;BR&gt;Move, soldier!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1014">
+        <Page social="4">Such news. Then time is indeed of the essence! Blackspring is straight south from here. This side of the road is safe up to the cave. The camp is visible from the cave's mouth. Stay safe, friend.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" prevId="3" villagerId="1008">
+        <Page social="4">Damn right the undead are from here. Mekonari occultists run them up the eastern road in streams, but we can barely hold this camp.&lt;BR&gt;&lt;BR&gt;Your mission's not over yet, soldier. Get over there and break up those caravans!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" prevId="4" villagerId="1008">
+        <Page social="4">By the Long Road, I'll hear them in my dreams—those kidnapped villagers, begging us to rescue them as the mekonaris dragged them by.&lt;BR&gt;&lt;BR&gt;Each one they took weakened us and strengthened them.</Page>
+    </Text>
+</QuestDialog>

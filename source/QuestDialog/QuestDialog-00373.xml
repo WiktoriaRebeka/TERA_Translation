@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">You should spend a few minutes meeting the support staff here at the Tower Base.&lt;BR&gt;&lt;BR&gt;Start with &lt;b&gt;Rutgar, the merchant&lt;/b&gt;. He's south from here, near the center of the base.&lt;BR&gt;&lt;BR&gt;And just between you and me, you've got "tacit approval" to ignore anything that arrogant Helier asks you for. He's the pigling around here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1005">
+        <Page social="4">Welcome, recruit! I'm Rutgar, and I can be your best friend around here.&lt;BR&gt;&lt;BR&gt;On this island, there are two kinds of soldier: those who replenish their supplies with me before combat...and "casualties."</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1008">
+        <Page social="4">On an island like this, mastery of magic is paramount. Helping recruits attain such mastery—or attain adequacy, at any rate—brings a smile to my face.&lt;BR&gt;&lt;BR&gt;Anyone who desires magic instruction need look no further, but I have no talent for the brutish "art" of waving sharp objects around. That's Gurney's responsiblility.&lt;NEXTPAGEBUTTON&gt;"Got it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Is Elleon really missing again? For a "federation hero," one would assume he knew how to leave a note.&lt;BR&gt;&lt;BR&gt;Of course, what does "federation hero" even mean anymore?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1048">
+        <Page social="4">Such mystery and such beauty on this island. Yet so many secrets.&lt;BR&gt;&lt;BR&gt;Perhaps the biggest secret: why would the titans hide this beautiful island?&lt;BR&gt;&lt;BR&gt;And the second biggest secret: Why would the titans reveal it?&lt;NEXTPAGEBUTTON&gt;"Hmmm..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">The island is a gift to us in many ways, and I teach recruits how to gather the island's gifts for later use.&lt;BR&gt;&lt;BR&gt;Do not let a humble instructor keep you from your appointed rounds, however. Duty calls!</Page>
+    </Text>
+</QuestDialog>

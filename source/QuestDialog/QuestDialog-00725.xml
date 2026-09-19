@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1018">
+        <Page social="4">Mansur is rebuilding many of the houses the storm destroyed, but as you can see, trees don't grow so well out here.&lt;BR&gt;&lt;BR&gt;He needs some help collecting usable lumber from the damaged buildings.&lt;NEXTPAGEBUTTON&gt;"I can do that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You can find a lot of unused timber and scrap around the abandoned house near the Frost Wastes. It should still be solid if you just knock off the ice.&lt;BR&gt;&lt;BR&gt;I hope there's enough for Mansur to finish his work—we'd all like our lives back to normal.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1016">
+        <Page social="4">You have my lumber?&lt;BR&gt;&lt;BR&gt;Bah! The ice goes all the way through. We'll be lucky if half of it holds together. Just like every other bit of wood in this place.&lt;BR&gt;&lt;BR&gt;Well, waste not, want not. Lucky I'm the best carpenter in Westonia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1016">
+        <Page social="0">You got my timber?</Page>
+    </Text>
+</QuestDialog>

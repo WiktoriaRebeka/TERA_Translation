@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1228">
+        <Page social="0">You've become an official Valkyon Federation soldier. Upon arriving in Velika, you were ordered to meet Commander Seir, the commander of the Valkyon Federation's forces.&lt;BR&gt;&lt;BR&gt;Seir was impressed with you and welcomed you formally into federation service, but the real power pusher of the military, Commander Samael, doesn't seem impressed with you. He dismissed your accomplishments as mere luck.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1228">
+        <Page social="4" voiceTypeId="0">If you're looking for more inventory slots, I'm sorry, but they are not free anymore!&lt;BR&gt;&lt;BR&gt;Oh, you're looking for Valkyon Federation Headquarters? You can see it right there, at the back.&lt;BR&gt;&lt;BR&gt;Ask Uriela that you would like to see the Commander.&lt;BR&gt;&lt;BR&gt;Also, you can come to me anytime if you need more inventory. Just remember to bring your gold!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">You must be &lt;PCNAME&gt;!&lt;br&gt;I've heard about you from Dougal. The federation has been waiting for a warrior like you to join! We've heard all about what you did at the Island of Dawn.&lt;BR&gt;&lt;BR&gt;Is this your first time in Velika?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">What? How can you not know what the federation is?&lt;BR&gt;&lt;BR&gt;You know that the Argons have invaded northern Shara, right? The federation was founded to stop the Argons.&lt;BR&gt;&lt;BR&gt;Do they not get any news at all, out on the Island of Dawn?&lt;BR&gt;&lt;BR&gt; Or...wait, are you just nervous about being here?&lt;NEXTPAGEBUTTON&gt;"Yes...nervous. That must be it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Well, don't worry.&lt;BR&gt;&lt;BR&gt;Commander Seir is looking forward to meeting you. He's waiting for you inside.&lt;BR&gt;&lt;BR&gt;Oh, wait! Before you go in, Dougal wanted you to have this.&lt;BR&gt;&lt;BR&gt;Where did it go...? It was right here! Hang on for just a second...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">You're very humble, aren't you?&lt;BR&gt;&lt;BR&gt;Don't be! Dougal said that you defeated Karascha!&lt;BR&gt;Thanks to you, &lt;PCNAME&gt;, the federation once more has the strength to go on fighting the dangers that threaten us.&lt;BR&gt;&lt;BR&gt;Dougal also told us that you might have found the Valkyon Hero, &lt;font color='#0000FF'&gt;Elleon&lt;/font&gt;!&lt;BR&gt;&lt;BR&gt;The federation has been looking for Elleon ever since he vanished. We didn't have a single clue, until now.&lt;NEXTPAGEBUTTON&gt;"Oh, it was just pure luck."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Commander Seir is waiting for you inside.&lt;BR&gt;&lt;BR&gt;Oh, wait! Before you go in, Dougal wanted you to have this.&lt;BR&gt;&lt;BR&gt;Where did it go...? It was right here! Hang on for just a second...</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="1101">
+        <Page social="4" voiceTypeId="0">I'm very excited that someone like you is joining the federation.&lt;BR&gt;&lt;BR&gt;Commander Seir is waiting for you inside.&lt;BR&gt;&lt;BR&gt;Oh, wait! Before you go in, Dougal wanted you to have this.&lt;BR&gt;&lt;BR&gt;Where did it go...? It was right here! Hang on for just a second...</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="3" villagerId="1101">
+        <Page social="4" voiceTypeId="0">That was a close one.&lt;BR&gt;&lt;BR&gt;So many people are coming in and out, I thought I made a big mistake...&lt;BR&gt;&lt;BR&gt;Here it is! Dougal wanted you to read this before you went inside.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="1310">
+        <Page social="4" voiceTypeId="0">Don't pretend you don't recognize me! The brightest of all justicars, Bruke? Ha, guess that you're the new recruit.&lt;BR&gt;&lt;BR&gt;Yes, I heard what you did on the Island of Dawn. Dougal's been blathering about it all day. I've just met you, and I'm already tired of you.&lt;NEXTPAGEBUTTON&gt;"Well, it's an honor to meet you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Honor doesn't pay the bills!&lt;BR&gt;&lt;BR&gt;Haha! That was a joke.&lt;BR&gt;I don't expect some backwater conscript to know how to show proper respect...let alone have the gold to provide a proper gift!&lt;BR&gt;&lt;BR&gt;Let me give you some advice, kid. Killing some monsters on some island most people have never heard of won't make you a star here.&lt;BR&gt;&lt;BR&gt;Everyone here can do what you did. Only the best and brightest are chosen by Commander Samael.&lt;BR&gt;Now get going!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1102">
+        <Page social="4" voiceTypeId="0">...from the island...Right, right. The  from the island...So! Welcome to the Valkyon Federation! Your full records haven't arrived yet, but you impressed Captain Dougal, so I'm sending you to the Arcadia province. Our most experienced soldiers are serving on the Argon Front, leaving us nothing but raw recruits to protect our settlers in the Fey Forest. So when I find someone who can take initiative, I take notice. Now, let me bring you up to speed on the situation...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="9" villagerId="1102">
+        <Page social="4" voiceTypeId="0">So you see, &lt;PCNAME&gt;, that it's not all front lines and glorious battle. The federation needs troops on a variety of fronts, as best suits their capabilities. Once you've proven yourself in Arcadia, we can talk about giving you somewhat more...glamorous assignments. Are you ready to carry out your first official assignment?&lt;NEXTPAGEBUTTON&gt;"Yes, sir!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Splendid. Commander Samael has your deployment orders. It was good to meet you, &lt;PCNAME&gt;. I expect good things from you!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="10" villagerId="1137">
+        <Page social="4" voiceTypeId="0">You know, I just came from the Island of Dawn...and I don't remember seeing you there.&lt;BR&gt;&lt;BR&gt;Oh, well...all you new recruits look alike to me, anyway. Now listen up: Our settlers in Arcadia are in constant danger. The fey are acting up, refugees are flooding into Lumbertown, and we can't get supplies or medicine out there fast enough. I'll be honest: It's a backwater posting. But prove to me you've got the initiative Dougal says you do, and I'll see to it you get into the thick of things, fast. What do you say?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">EX-TRX, our prototype magic bot, requires a continuous supply of energy to operate. And don't you want to see it work?&lt;BR&gt;&lt;BR&gt;Bring me crystals from {@LinkCreature:34#1010#icereaver giants} in Frost Reach.&lt;BR&gt;&lt;BR&gt;And don't look at me like that! During the design phase, crystals from icereavers seemed like a perfectly plausible energy source.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1704">
+        <Page social="4">Enough crystals to keep the bot running for the day! That's great, but I'll need your help again tomorrow.&lt;BR&gt;&lt;BR&gt;EX-TRX is nothing if not greedy for power! Hmmm. Let's pretend that didn't sound ominous.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1704">
+        <Page social="0">To keep this machine running, I need a supply of energy. Crystals from icereaver giants, specifically.&lt;BR&gt;&lt;BR&gt;It's fusion science. You wouldn't understand.</Page>
+    </Text>
+</QuestDialog>

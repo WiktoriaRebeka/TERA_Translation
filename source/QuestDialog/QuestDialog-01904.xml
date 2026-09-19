@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3018">
+        <Page social="4">Hey, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:71#3001#Arisel} needs you for something.&lt;BR&gt;&lt;BR&gt;Paperwork, I'd bet.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3001">
+        <Page social="4">I doubted you when you first showed up, &lt;PCNAME&gt;. But now? Don't know how we'd manage without you.&lt;BR&gt;&lt;BR&gt;Most soldiers only care about shining their weapons. You're different.&lt;BR&gt;&lt;BR&gt;Here. Hyderad would be proud of you.</Page>
+    </Text>
+</QuestDialog>

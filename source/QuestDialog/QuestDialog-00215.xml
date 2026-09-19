@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1008">
+        <Page social="4">Everyone's complaining about the supply problems, but you know what? Things are tough all over.&lt;BR&gt;&lt;BR&gt;My gripe is that they're sending us nothing but rookies. Other than you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;And I swear to the titans that the {@LinkCreature:9#100#tawny sabertooths} are getting fat on a diet of raw rookie. If you killed a few, the rookies might last long enough to become veterans like you and me.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1008">
+        <Page social="4">Great work, &lt;PCNAME&gt;. We do that enough, the sabertooths will turn tail and flee when they see a soldier.</Page>
+    </Text>
+</QuestDialog>

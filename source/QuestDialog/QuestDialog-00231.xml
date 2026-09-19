@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="209" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="209" prevId="0" villagerId="1013">
+        <Page social="0">(The dead soldier has dog-tags that read "Nilos," and a shiny &lt;font color='#660000'&gt;gold ring&lt;/font&gt; engraved with the phrase "from your loving Glorine.")&lt;BR&gt;&lt;BR&gt;(There's a Glorine stationed in the Relic Hunter Outpost.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="209" prevId="2" villagerId="1012">
+        <Page social="10">That's the ring I gave Nilos...a year ago, to the day.&lt;BR&gt;&lt;BR&gt;It's almost funny. Ours was a wartime romance. At first, you feel like it could be snatched away at any moment, but then you feel like it'll never end because "we've already survived so much."&lt;BR&gt;&lt;BR&gt;There's nothing too big that it can't be dreamed...or undreamed, is there?</Page>
+    </Text>
+</QuestDialog>

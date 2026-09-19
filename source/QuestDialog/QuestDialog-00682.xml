@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1010">
+        <Page social="1">That cursed Mysterium! Allemantheia won't send more troops to help with our sloth problem because apparently sloths "aren't carnivores." Insanity!&lt;BR&gt;&lt;BR&gt;Have you seen the teeth on the {@LinkCreature:30#110#sloth slashers}? Sharp enough to...oh, now there's an idea.&lt;BR&gt;&lt;BR&gt;Will you help a fellow soldier? Kill some {@LinkCreature:30#110#sloth slashers} and bring me some teeth I can send to my commander?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1010">
+        <Page social="1">Excellent. When I'm at my next briefing, I'll throw these in their faces!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1010">
+        <Page social="0">Kill those {@LinkCreature:30#110#sloth slashers} and pull their fangs.</Page>
+    </Text>
+</QuestDialog>

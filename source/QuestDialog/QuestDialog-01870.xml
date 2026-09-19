@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3004">
+        <Page social="4">Our scouts reported {@LinkCreature:418#2008#vendron capacitors} in the Argon Catacombs. These devices feed energy to argon units on the surface.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:418#2002#Tibonel} knows where the capacitors are.&lt;BR&gt;&lt;BR&gt;Your mission is to destroy them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="418" prevId="2" villagerId="2002">
+        <Page social="4">The {@LinkCreature:418#2008#vendron capacitors}?&lt;BR&gt;&lt;BR&gt;They're just north of here, but they're not just pieces of metal you can slag with one strike. The argons will try to protect them.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="418" prevId="3" villagerId="2002">
+        <Page social="4">Hah! With the capacitors out of action, the argons might find our next engagement goes in our favor, not theirs!&lt;BR&gt;&lt;BR&gt;Long live the Shariar!</Page>
+    </Text>
+</QuestDialog>

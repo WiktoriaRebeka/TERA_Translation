@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">You should spend a few minutes meeting the support staff here at the Tower Base.&lt;BR&gt;&lt;BR&gt;Start with &lt;b&gt;Rutgar, the merchant&lt;/b&gt;. He's south of here, near the center of the base.&lt;BR&gt;&lt;BR&gt;And just between you and me, you've got "tacit approval" to ignore anything that arrogant Helier asks you for. He's the pigling around here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1005">
+        <Page social="4">Welcome, recruit! I'm Rutgar, and I can be your best friend at the Tower Base.&lt;BR&gt;&lt;BR&gt;On this island, there are two kinds of soldier: those who replenish their supplies with me before combat...and "casualties."</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1007">
+        <Page social="4">I teach combat skills around here. That makes me the next best thing to actual combat, and I'm always ready to show you a few new tricks.&lt;BR&gt;&lt;BR&gt;And speaking of tricks...I don't do magic. That's Charise.&lt;NEXTPAGEBUTTON&gt;"Got it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Hey, I heard Elleon went missing again. have we heard anything on that?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1048">
+        <Page social="4">Such mystery and such beauty on this island. Yet so many secrets.&lt;BR&gt;&lt;BR&gt;Perhaps the biggest secret: why would the titans hide this beautiful island?&lt;BR&gt;&lt;BR&gt;And the second biggest secret: why would the titans reveal it?&lt;NEXTPAGEBUTTON&gt;"Hmmm..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">The island is a gift to us in many ways, and I teach recruits how to gather the island's gifts for later use.&lt;BR&gt;&lt;BR&gt;Do not let a humble instructor keep you from your appointed rounds, however. Duty calls!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="45" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="245" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="245" prevId="0" villagerId="1028">
+        <Page social="4">Can you think of any reason why the argons would choose tuwangis to transform?&lt;BR&gt;&lt;BR&gt;Neither can I. So I'd like you to knock a few unconscious and bring them back here.&lt;BR&gt;&lt;BR&gt;Don't laugh—I could learn something really important!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="245" prevId="2" villagerId="1028">
+        <Page social="5">This is plenty, thank you. Here, I'll pay you for them.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="245" villagerId="1028">
+        <Page social="0">Don't kill them. They're no good to me dead. Can't eat 'em.</Page>
+    </Text>
+</QuestDialog>

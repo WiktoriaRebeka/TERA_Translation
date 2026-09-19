@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="2002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="2002">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="2002">
+        <Page social="4" voiceTypeId="0">These Argons are giving me a headache...there's too many of them, and that buzzing noise!&lt;BR&gt;&lt;BR&gt;Will you help us eliminate them?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="2002">
+        <Page social="4" voiceTypeId="0">Thanks! You taught those Argons a lesson, that's for sure.</Page>
+    </Text>
+</QuestDialog>

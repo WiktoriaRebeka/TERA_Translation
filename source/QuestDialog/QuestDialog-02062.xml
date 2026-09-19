@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2000" prevId="0" villagerId="20403">
+        <Page social="5">All right, I'll stay here and keep searching for anything that can create a cure.&lt;BR&gt;&lt;BR&gt;Researching the ecosystem is as important as rescuing the villagers. If we can make a cure, we can save everyone who's suffering from the crystallization.&lt;BR&gt;&lt;BR&gt;And, can you do me a favor?&lt;NEXTPAGEBUTTON&gt;"What can I do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">First, I need fresh jewel glands.&lt;BR&gt;&lt;BR&gt;All of the glands we found before were dry.&lt;BR&gt;&lt;BR&gt;Now that we're up here, if we can get a fresh one, it just might give me some ideas on the cure.&lt;BR&gt;Please get those glands for me!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20403">
+        <Page social="5">Thank you so much &lt;PCNAME&gt;! I wonder how much different it is from the one I examined at home.&lt;BR&gt;&lt;BR&gt;Now, let me take a look and tell you what to get next.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" villagerId="20403">
+        <Page social="0">Please gather more glands. I need lots of samples.</Page>
+    </Text>
+</QuestDialog>

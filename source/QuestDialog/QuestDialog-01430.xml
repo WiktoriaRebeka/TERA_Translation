@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">Vampirs and witches do love their hats. So much so that they don't want anyone else making them.&lt;BR&gt;&lt;BR&gt;The big problem is, they've locked away every last fire-kissed ruby in existence, so there's no chance whatsoever of getting one of these hats. Not now.&lt;NEXTPAGEBUTTON&gt;"But I already have this fire-kissed ruby..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">What? You already have one? My, my...&lt;BR&gt;&lt;BR&gt;Okay, one more, for old time's sake. What style were you thinking?&lt;NEXTPAGEBUTTON&gt;"What styles do you have?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">If all you need is the fire-kissed ruby, I'm afraid you're out of luck. They're not available anymore. You should just sell the norsteel and shadsteel, and have done with it.</Page>
+    </Text>
+</QuestDialog>

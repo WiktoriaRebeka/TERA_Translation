@@ -1,0 +1,51 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3001">
+        <Page social="4">The federation supports us here because we track wildlife and plants for the Mysterium.&lt;BR&gt;&lt;BR&gt;No reports, no support. {@LinkCreature:71#3018#Meiga} is missing one. Help him get it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="4">Hmph. If {@LinkCreature:71#3001#Arisel} wants her reports on time, we should recruit baraka.&lt;BR&gt;&lt;BR&gt;Aah, here's the slowpoke. Probably just lost track of time.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="71" prevId="2" villagerId="3018">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="2" villagerId="3027">
+        <Page social="4">Report?&lt;BR&gt;&lt;BR&gt;Aaah, right!&lt;BR&gt;&lt;BR&gt;Took some cub time and let it get away from me. Don't worry, though. It's done.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="10" villagerId="3028">
+        <Page social="4">Here's the report.&lt;BR&gt;&lt;BR&gt;Between the golems and the sloth-infested ruins, I had no idea how to send it in!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="230" prevId="11" villagerId="3029">
+        <Page social="4">Didn't send it because nothing's changed!&lt;BR&gt;&lt;BR&gt;Golem cuts grass. Golem goes nuts. Golem breaks down. Golem's replaced by a new golem.&lt;BR&gt;&lt;BR&gt;The days fly by!</Page>
+    </Text>
+    <Text id="13" huntingZoneId="230" prevId="12" villagerId="3030">
+        <Page social="4">The sloths ate the last one.&lt;BR&gt;&lt;BR&gt;Not the report—the observer! No, really!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="230" prevId="13" villagerId="3031">
+        <Page social="4">Tell Meiga I'd think a lot better if I had better rations.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="230" prevId="14" villagerId="3032">
+        <Page social="4">Report? Oh, right!&lt;BR&gt;&lt;BR&gt;Lemme just fill this out....</Page>
+    </Text>
+    <Text id="16" huntingZoneId="71" prevId="15" villagerId="3018">
+        <Page social="4">And that's the last one for today.&lt;BR&gt;&lt;BR&gt;I imagine it's not like this in the army, eh?</Page>
+    </Text>
+</QuestDialog>

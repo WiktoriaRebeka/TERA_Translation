@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="4">This isn't well-known, but a number of our officers seem too intrigued with the cultists. Samael isn't the only one who disappeared into thin air when the campaign against them.&lt;BR&gt;&lt;BR&gt;I'm looking for a volunteer to collect their possessions.&lt;NEXTPAGEBUTTON&gt;"To return to the families?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">After we go through them. Most of them will be destroyed, and we'll announce their deaths from a more honorable source. The federation can't afford to be linked to cultists. You can get the names of the other traitors from Madragath. He'll tell you whose things need to be gathered.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1002">
+        <Page social="4">If you're trying to scare me, you'll have to do better. I've seen terrible things.&lt;BR&gt;&lt;BR&gt;The officers always gathered in the Vault of Tomes. Poor fools thought they wouldn't be abandoned, but everyone's expendable to Akia and Terkasia.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" prevId="3" villagerId="1025">
+        <Page social="4">(This ring is imprinted with the emblem of the Valkyon Federation. "Secretary" is the only readable word on the inscription.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="3" villagerId="1030">
+        <Page social="4">(These pieces of paper appear to be from confidential documents.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="225" prevId="3" villagerId="1026">
+        <Page social="4">(This is the insignia of the Counterintelligence Corps. Perhaps its members were hiding here to avoid arrest.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="225" prevId="4" villagerId="1028">
+        <Page social="4">I don't have to ask you to keep this a secret, do I? Samael's treason has the entire army on edge, and headquarters doesn't want this public. Once I destroy this evidence, everything will be smoothed over.&lt;BR&gt;&lt;BR&gt;I just need to wait for further orders. You ought to head back to Rendalf and see if he has anything else for you to do.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="225" prevId="7" villagerId="1027">
+        <Page social="4">You're back. I'm sorry I had to ask you to help with that mission. I'm sure it wasn't easy.</Page>
+    </Text>
+</QuestDialog>

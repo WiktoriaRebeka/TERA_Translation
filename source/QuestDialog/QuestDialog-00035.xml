@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1043">
+        <Page social="0">&lt;PCNAME&gt; discovered that the devas had learned that Kantusa was a spy, and she barely escaped with her life. Kamia and &lt;PCNAME&gt; rescued Kantusa, but she died shortly after—but not before revealing that the devan raiders were in league with a group of cultists worshipping Lok. &lt;PCNAME&gt; killed Dakanius so that Kantusa wouldn't have died in vain.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1043">
+        <Page social="0" voiceTypeId="0">Talk to Kamia again.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Wait...do you hear that? It sounds like someone moaning...&lt;NEXTPAGEBUTTON&gt;"It's coming from over there!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">It's Kantusa! She's been captured!&lt;BR&gt;&lt;BR&gt;The devas must've found out she's not one of them! We have to rescue her!&lt;BR&gt;&lt;BR&gt;Let's go!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1044">
+        <Page social="4" voiceTypeId="0">Thank you for coming, but it's too late. You can't save me. Get out of here...save yourself!&lt;BR&gt;&lt;BR&gt;But listen: This is important: Dakanius...he's...&lt;NEXTPAGEBUTTON&gt;"We're not leaving you behind!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1030">
+        <Page social="4" voiceTypeId="0">I won't make it out...out of Deva Silva. You have to...deliver my report.&lt;BR&gt;&lt;BR&gt;Dakanius...he's in league...with cultists...&lt;BR&gt;&lt;BR&gt;...cultists of Lok!&lt;NEXTPAGEBUTTON&gt;"Are you sure? Tell me what happened."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1030">
+        <Page social="4" voiceTypeId="0">{@linkcreature:3#7#Dakanius} must be...stopped. He was headed...north...of Deva Silva...&lt;NEXTPAGEBUTTON&gt;"Don't try to talk. We'll patch you up."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Don't waste...your time...&lt;BR&gt;&lt;BR&gt;I'll just...slow you down.&lt;BR&gt;&lt;BR&gt;You can't...let Dakanius...get away...&lt;BR&gt;&lt;BR&gt;Promise me you'll stop him!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="6" villagerId="1045">
+        <Page social="4" voiceTypeId="0">No...no...&lt;BR&gt;&lt;BR&gt;She was my best friend. We've known each other since we were children.&lt;NEXTPAGEBUTTON&gt;"I'm so sorry, Kamia. She was very brave."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We have to kill Dakanius.&lt;BR&gt;&lt;BR&gt;If you don't help me, I'll do it alone.&lt;BR&gt;&lt;BR&gt;If even half of what Kantusa told us is accurate—if Dakanius is in league with the cult of Lok—he has to be stopped!&lt;BR&gt;&lt;BR&gt;If we hurry, if we activate the Arcessolith and call Dakanius out of his stronghold, we'll take him by surprise.&lt;BR&gt;&lt;BR&gt;Say you'll help me, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"You can count on me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="203" prevId="7" villagerId="1046">
+        <Page social="4" voiceTypeId="0">You did it, &lt;PCNAME&gt;. Thank you.&lt;BR&gt;&lt;BR&gt;Now Kantusa will be able to rest in peace...&lt;BR&gt;&lt;BR&gt;What's that you found? Some kind of token?&lt;NEXTPAGEBUTTON&gt;"Dakanius dropped it when he died."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">This...this has the symbol of Lok on it!&lt;BR&gt;&lt;BR&gt;Kantusa was right! The devas are in league with the cult of Lok...and this proves it!</Page>
+    </Text>
+</QuestDialog>

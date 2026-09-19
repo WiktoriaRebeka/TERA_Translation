@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="4">I could give Shalim more personal instruction if I wasn't always worried about being attacked by giants.&lt;BR&gt;&lt;BR&gt;They're vicious and come out of nowhere!&lt;BR&gt;&lt;BR&gt;If you kill some {@LinkCreature:34#1000#icecleaver giants}, I'll make time to tutor Shalim, but I won't risk his life just to ease his boredom.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1012">
+        <Page social="4">Your skill shames mine, &lt;PCNAME&gt;. I am glad the federation has soldiers like you out here.&lt;BR&gt;&lt;BR&gt;Thanks for thinning out the giants. Shalim will be elated!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1012">
+        <Page social="0">If the giants are eliminated, the miners will benefit greatly. Everyone prospers—except the giants.</Page>
+    </Text>
+</QuestDialog>

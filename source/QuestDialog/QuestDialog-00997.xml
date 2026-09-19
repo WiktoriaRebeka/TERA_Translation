@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1021">
+        <Page social="0">Once peace is restored, one of those brave youngsters—Kurio, perhaps—will become the great chief of the orcans, and wear a crown made from the skull of a {@LinkCreature:41#4002#giant warmaster}. Ours was destroyed when we went into exile.&lt;BR&gt;&lt;BR&gt;Our new chief would be proud to wear a crown you had hunted. Will you honor us by killing one of these beasts and taking its head?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1021">
+        <Page social="0">Well done. Now I will fashion the crown and wait for peace to come.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1021">
+        <Page social="0">Have you brought the skull? When I have it I will create a crown fit for a great chief.</Page>
+    </Text>
+</QuestDialog>

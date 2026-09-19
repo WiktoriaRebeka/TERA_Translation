@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1017">
+        <Page social="10">Inside, you'll find a pool of blood. Killian summoned golems around it, and if they start wandering off...&lt;BR&gt;&lt;BR&gt;...well, honestly, I have no idea what will happen, but I can't imagine it will be good, can you?&lt;BR&gt;&lt;BR&gt;Get inside and deactivate those golems before they can run off and start doing...whatever horrible thing Killian summoned them for.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1017">
+        <Page social="8">Oh, I'm so grateful. I was really worried for a while.&lt;BR&gt;&lt;BR&gt;Thank you.</Page>
+    </Text>
+</QuestDialog>

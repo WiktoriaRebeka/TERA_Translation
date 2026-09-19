@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="77" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">[Dougal's Letter]&lt;BR&gt;&lt;BR&gt;Greetings, &lt;PCNAME&gt;!&lt;BR&gt;After hearing many stories of your heroism, I could not wait to write this letter.&lt;BR&gt;I know just the place for heroes like you.&lt;BR&gt;Find me at Highwatch, if you're interested.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Dougal informs &lt;PCNAME&gt; about the Gridiron.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1021">
+        <Page social="4" voiceTypeId="0">There are no doubts about your skill and courage.&lt;BR&gt;I believe you are qualified.&lt;BR&gt;&lt;BR&gt;Arborea's bravest have gathered to renovate an abandoned arena... a little haven for showing off their skills.&lt;BR&gt;Don't bother thinking about fighting against your own federation allies.&lt;BR&gt;&lt;BR&gt;It's a privilege not many people get to experience... a chance to demonstrate your prowess. &lt;b&gt;The Gridiron&lt;/b&gt; is the place to exercise that privilege... a place for competing against other brave soldiers!&lt;BR&gt;&lt;BR&gt;Doesn't your heart start to pound at the thought?&lt;BR&gt;Are you willing to give it a try?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="1021">
+        <Page social="4" voiceTypeId="0">Great job, &lt;PCNAME&gt;! I knew you'd enjoy it!&lt;BR&gt;Any champion craving power would not pass up an opportunity like this.&lt;BR&gt;&lt;BR&gt;The Gridiron is filled with the sweat and tears of warriors who all have one goal: victory. You should prepare well before you enter.&lt;BR&gt;&lt;BR&gt;Take this book with you. Consider it a welcome gift. Study it well. I'm sure it will be a great help for you in this and many other arenas.</Page>
+    </Text>
+</QuestDialog>

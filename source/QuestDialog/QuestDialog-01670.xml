@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1035">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, a word. There's a rumor going around that Thulsa has captured General Kanmur's soul.&lt;BR&gt;&lt;BR&gt;General...Kanmur. The hero of Kaiator. I believe you were there when Killian...returned his body.&lt;BR&gt;&lt;BR&gt;I don't care if it's really him or not. Find this abomination and tear it apart!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Well, if it was Kanmur, his soul is free now, as it should be. If it wasn't him, it's good it never saw daylight.</Page>
+    </Text>
+</QuestDialog>

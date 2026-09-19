@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; killed the Devan Assault Leader with Chama's help, and returned stolen supplies back to Crescentia. Jodoc thanked &lt;PCNAME&gt; for protecting the supply lines, but said there was still a bigger problem left to handle.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="1" villagerId="1013">
+        <Page social="4" voiceTypeId="0">They're taking orders from the {@linkcreature:3#12#Devan Assault Leaders}.You see them patroling with the worms?&lt;BR&gt;&lt;BR&gt;Once we take care of one, the rest should scatter. We've tried to locate the command post, but there are just too many devas patrolling the area.&lt;NEXTPAGEBUTTON&gt;"Is there any way I can help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Yes...I think so!&lt;BR&gt;&lt;BR&gt;We'll attack on two fronts. You take out the {@linkcreature:3#300151#devas} in the front, and while they're distracted, I'll slip past their lines and get a precise fix on a leader.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1040">
+        <Page social="4" voiceTypeId="0">Good work, &lt;PCNAME&gt;. While you kept them busy, I slipped through their defenses and found their command post.&lt;BR&gt;&lt;BR&gt;It's well-guarded, and loaded with stolen supplies.&lt;BR&gt;&lt;BR&gt;Let's work our way there, and take out some of these devas on the way. Be sure to grab the money they're carrying; I'm sure the townspeople would love to have it back.&lt;NEXTPAGEBUTTON&gt;"Got it. I'll see you soon."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1036">
+        <Page social="4" voiceTypeId="0">Okay, here's the plan.&lt;BR&gt;&lt;BR&gt;You check the command post, and I'll do what I can to keep the devans off your back.&lt;BR&gt;&lt;BR&gt;When you've finished grab some stolen supplies from the chests scattered around here, then meet me on the far side of the valley.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" villagerId="1036">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="203" prevId="5" villagerId="1037">
+        <Page social="4" voiceTypeId="0">Great work, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;We've got it from here. You should take those supplies on to Crescentia. The townspeople will be grateful for their return.&lt;BR&gt;&lt;BR&gt;Oh, and do what you can to clear out some of those Sporewalkers between here and town.&lt;NEXTPAGEBUTTON&gt;"I'm on it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="203" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="59" prevId="7" villagerId="1009">
+        <Page social="4" voiceTypeId="0">Wow! So the leader is finally dead? And you were able to recover our stolen goods?&lt;BR&gt;&lt;BR&gt;I...I don't know how to thank you, &lt;PCNAME&gt;! But on behalf of the people of Crescentia, allow me to present you with this token of our appreciation!</Page>
+    </Text>
+</QuestDialog>

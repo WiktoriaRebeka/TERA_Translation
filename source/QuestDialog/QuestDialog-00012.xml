@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1021">
+        <Page social="4">I know you promised to play with me, but my dad really needs help with our piglings.&lt;BR&gt;&lt;BR&gt;They keep running away...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1020">
+        <Page social="4">He's a good boy, eh?&lt;BR&gt;&lt;BR&gt;We had a bunch of tame piglings, but they ran away when the faeries went crazy.&lt;BR&gt;&lt;BR&gt;If you want to make yourself useful, take these pheremone darts and lure a few piglings back here.&lt;BR&gt;&lt;BR&gt;Get their attention first, and then use the darts.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2" villagerId="27">
+        <Page social="0">(Lead the pigling to Maon.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="202" prevId="3" villagerId="1020">
+        <Page social="4">Thank you so much. We still don't have many, but this definitely helped. I hope you can help a little more.</Page>
+    </Text>
+</QuestDialog>

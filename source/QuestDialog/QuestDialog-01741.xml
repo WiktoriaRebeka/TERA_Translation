@@ -1,0 +1,48 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="506" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">You received a message from the federation.&lt;BR&gt;Speak with Laaran.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Magistrate Laaren of Tria blamed the Red Raiders for a series of kidnappings.&lt;BR&gt;&lt;BR&gt;After investigating, you witnessed a number of crystallized monsters, and learned that the raiders were actually trying to stop the crystallization.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="1" villagerId="1011">
+        <Page social="0" voiceTypeId="0">We have reports of Red Raiders near the village, and I don't have enough people to investigate.&lt;BR&gt;&lt;BR&gt;This may not seem like the kind of emergency you're used to handling, but we're also had some villagers go missing, and I'm afraid the two may be releated.&lt;NEXTPAGEBUTTON&gt;"I can help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Excellent. I'm particularly concerned about a little girl named Ameldas. She's so trusting, and with the Red Raiders active in the region...well, I shudder to think what might have happened to her.&lt;BR&gt;&lt;BR&gt;If you find her, please bring her back safe.&lt;BR&gt;&lt;BR&gt;You should start your search in the Timeless Woods.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="229" prevId="3" villagerId="1030">
+        <Page social="0" voiceTypeId="0">She just went out to take a closer look at some strange warthogs near camp.&lt;BR&gt;&lt;BR&gt;I can show you the way.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="29" prevId="4" villagerId="1000">
+        <Page social="0" voiceTypeId="0">I was hoping it would be you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I have reports that the Red Raiders were seen loading mosnters into wagons.&lt;BR&gt;That's all we've got right now, but combined with the recent rash of disappearances, it's good cause for suspicion.&lt;NEXTPAGEBUTTON&gt;"Where can I find the raiders?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">They've been spotted deep inside the woods, but I haven't heard from any scouts after that initial report.&lt;BR&gt;&lt;BR&gt;If you can help us clear out some of these Sickly Warthogs and take some samples, that will free up some more troops to patrol the woods.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="29" prevId="5" villagerId="1001">
+        <Page social="0" voiceTypeId="0">These warthog hides are very stiff...with marks where someone cut into it, then sewed it back up again.&lt;BR&gt;&lt;BR&gt;I think someone captured this warthog, experimented on it, then released it.&lt;BR&gt;&lt;BR&gt;Maybe this has to do with the raider's wagon.&lt;BR&gt;&lt;BR&gt;What in the world are they up to?&lt;NEXTPAGEBUTTON&gt;"We need more information."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Right. We need proof that the Red Raiders have been torturing these animals.&lt;BR&gt;&lt;PCNAME&gt;, you're the best at this sort of thing.&lt;BR&gt;&lt;BR&gt;Head to our scout outpost in Seeliewood.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="29" villagerId="1001">
+        <Page social="0">Are you done with those Sickly Warthogs? Keep up the pace!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="29" prevId="6" villagerId="1004">
+        <Page social="0" voiceTypeId="0">The raiders pass this way all the time.&lt;BR&gt;&lt;BR&gt;Soldiers and wagons always used to move together, but recently it's just soldiers...no wagons.&lt;BR&gt;&lt;BR&gt;If we can sneak in and find what they're doing with those wagons, that should tell us what the raiders are up to.</Page>
+        <Page social="0" voiceTypeId="0">Take this concealing elixir. It'll help you hide from the raiders.&lt;BR&gt;&lt;BR&gt;When you can get a Raider Officer away from the others, use this Truth Needle on him, and then find out what he knows.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="29" prevId="8" villagerId="1020">
+        <Page social="0" voiceTypeId="0">The warthogs are carrying a disease—a very contagious one.&lt;BR&gt;&lt;BR&gt;Animal, human, high elf, even plants... it doesn't matter. It turns living things into clear crystal.&lt;NEXTPAGEBUTTON&gt;"Where is Ameldas? The girl?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">If she's still alive, she should be at the camp.&lt;BR&gt;&lt;BR&gt;But you shouldn't go there. There's nothing you can do for them... and they might actually be contagious.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="29" prevId="9" villagerId="1005">
+        <Page social="0" voiceTypeId="0">I'm not sure what's going on here, but I don't like it one bit.&lt;BR&gt;&lt;BR&gt;Take that machine over there. Its purpose seems to be to crystallize living beings.&lt;NEXTPAGEBUTTON&gt;"What?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I don't think we'll be able to get everybody out safely.&lt;BR&gt;&lt;BR&gt;But if you can create a distraction, we may be able to get this girl to a federation scout.&lt;BR&gt;&lt;BR&gt;Once she's safe, let's rendezvous and take care of these raiders for good.&lt;BR&gt;&lt;BR&gt;Take this tracking device—you'll need it.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="29" prevId="10" villagerId="1007">
+        <Page social="0" voiceTypeId="0">How many times do we have to say this? We're not terrorists! We only seek to live in harmony with the land.&lt;BR&gt;&lt;BR&gt;This crystallization isn't our doing! It's the amber powder falling all around Essenia. If it weren't for us, that girl you claim to care so much about would be dead already.&lt;BR&gt;&lt;BR&gt;It's some kind of infection, and we're handling it. You should go now, before you get someone else's brother killed.&lt;NEXTPAGEBUTTON&gt;"Hennika, please. Let me help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Fine. Monsters like these go insane during the crystallization process, infecting everything—and everyone—they come in contact with.&lt;BR&gt;&lt;BR&gt;We've got our hands full caring for our own people, but if someone doesn't deal with them soon, that whole village is going to crystallize.&lt;BR&gt;&lt;BR&gt;And that would probably put a crimp in your style, wouldn't it?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="29" prevId="11" villagerId="1017">
+        <Page social="0" voiceTypeId="0">You should go back to Tria and give your report to Magistrate Laaran.&lt;BR&gt;&lt;BR&gt;We're short on time, so here—use this teleport scroll.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="70" prevId="12" villagerId="1011">
+        <Page social="0" voiceTypeId="0">It wasn't the Red Raiders? Then who...?&lt;BR&gt;&lt;BR&gt;No, I don't have time for this. I have to evacuate Tria, as quickly as possible!</Page>
+    </Text>
+</QuestDialog>

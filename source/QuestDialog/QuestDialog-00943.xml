@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1005">
+        <Page social="4">The Vrentsuul Lokians run us ragged, and it's time for it to stop. Kill them, and bring me their tokens.&lt;BR&gt;&lt;BR&gt;I want to cover the walls with them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1005">
+        <Page social="4">Yes, just what I wanted! Well done!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1005">
+        <Page social="0">Do the Vrentsuul soldiers still live?&lt;BR&gt;&lt;BR&gt;Why?</Page>
+    </Text>
+</QuestDialog>

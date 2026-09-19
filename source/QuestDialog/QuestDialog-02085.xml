@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="100">
+        <Page social="0">I have some requests for you before you enter the fortress. Will you help me?&lt;NEXTPAGEBUTTON&gt;"What kind of help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Go and get the poison sacs you'll need to kill the vassals.&lt;BR&gt;&lt;BR&gt;The vassals are nagas that betrayed us. They now serve the draakons. Many of our men were attacked by them.&lt;BR&gt;&lt;BR&gt;Now it's time for them to pay for what they have done. I believe this would reduce the number of betrayers as well.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="0">Thank you.&lt;BR&gt;The betrayers should be trembling in fear now.&lt;BR&gt;&lt;BR&gt;If you don't mind, there's one last request.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="0">We need more poison sacs. Kill Flexis Hunters to get them.</Page>
+    </Text>
+</QuestDialog>

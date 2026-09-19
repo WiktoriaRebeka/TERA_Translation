@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="1010">
+        <Page social="4">I don't know if it's a good idea, but due to the shortage of rations around here, folks are talking about eating {@Creature:47#1001$$Tirkai grizzly} meat.&lt;BR&gt;&lt;BR&gt;I guess if we salted it enough it would likely eliminate any argon contamination.&lt;BR&gt;&lt;BR&gt;Take some to Jadora at Field Base Lunacy. She has access to lots of salt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1001">
+        <Page social="4">She thinks salt will make it safe, huh? We could sure use an alternate source of food around here. I'll give it a go.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="247" villagerId="1001">
+        <Page social="0">I have salt. What did you say you need it for? I don't see any meat.</Page>
+    </Text>
+</QuestDialog>

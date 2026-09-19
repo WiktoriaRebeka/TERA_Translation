@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">The devas around here are sporting some new weapons, different than the others. I figure, if it's good enough for them, it's twice as good for us.&lt;BR&gt;&lt;BR&gt;Take out {@LinkCreature:3#300141#devan blademasters}, {@LinkCreature:3#19#brigands}, or {@LinkCreature:3#18#scrappers} and collect their armaments. If their weapons are enchanted, better we have them. Don't mess this up. The folks back home are counting on us.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1011">
+        <Page social="4">Great job! This hurts the devas and helps us. I'll work on a way to get the weapons back to Crescentia or Vanguard Outpost.&lt;BR&gt;&lt;BR&gt;Thanks for helping me out, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" villagerId="1011">
+        <Page social="0">Oh, they're not hard to find. Deva Silva is crawling with them. The devan women and brigands are the ones I saw with the new weapons. Try them first.</Page>
+    </Text>
+</QuestDialog>

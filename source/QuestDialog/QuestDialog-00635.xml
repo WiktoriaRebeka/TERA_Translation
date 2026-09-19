@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1016">
+        <Page social="4">If we find a stronger psycho-suppressive shackle, we can extract the mind-controlling spell from it. {@LinkCreature:25#1032#skeletal defenders} will have the shackles we're looking for.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1016">
+        <Page social="4">You're back. Apologies, a letter came while you were away.&lt;BR&gt;&lt;BR&gt;I've found the extraction spell.&lt;NEXTPAGEBUTTON&gt;"I've got the shackle."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Perfect—if we can extract the spell, we can find a way to counter it. Bring the shackles to Deigan. He is best-suited to perform the spell. And please give him this letter when you see him.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1016">
+        <Page social="0">Extracting the spell from the shackle will help us create a counterspell.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="225" prevId="3" villagerId="1020">
+        <Page social="4">So if we can figure out a way to counter this spell, we can repel the cultists—not a bad plan! I'll get to work.&lt;BR&gt;&lt;BR&gt;What's this letter? It's all in gibberish...wait. This is signed by Davina.&lt;NEXTPAGEBUTTON&gt;"Is that important?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Davina is my cousin. She's serving under Elleon. I wonder why she sent an unreadable letter. Maybe Elsine can translate it—she knows lots of strange languages, even made up a few from what I hear.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="225" prevId="5" villagerId="1022">
+        <Page social="4">This is unexpected. I invented this code to communicate with Elleon and Leander. If the signature is real, then Elleon must have shared the code with others. If Davina is Deigan's cousin, then she must also be Jelena's sister. Translating it should be simple.&lt;BR&gt;&lt;BR&gt;"We've discovered the Dark Cathedral basement. I'm going in."&lt;BR&gt;&lt;BR&gt;Oh dear. This was written before the advance team departed. She went in well ahead of her sister and Elleon.</Page>
+    </Text>
+</QuestDialog>

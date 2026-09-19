@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1024">
+        <Page social="4">These squads of Bleakbone undead keep coming up that road due south of us. I have a sinking feeling they're...fresh.&lt;BR&gt;&lt;BR&gt;Take these vials. The undead give off a black fluid when you kill them. Fill the vials and bring them back.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1024">
+        <Page social="4">Full? Every vial? Fantastic work, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Now let me see...Oh, Velik's bloody rage, I was right. These poor wretches were alive less than a day ago.&lt;BR&gt;&lt;BR&gt;These are the kidnapped townsfolk. They're sending them back to us, the monsters!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1024">
+        <Page social="0">Those Bleakbone dragoons, slashers, and defenders are cutting us off from town. Clear them out and help me trace their origins, soldier!</Page>
+    </Text>
+</QuestDialog>

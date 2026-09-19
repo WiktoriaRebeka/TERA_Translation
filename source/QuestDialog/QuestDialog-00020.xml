@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1019">
+        <Page social="4">Hey, &lt;PCCLASS:lcase&gt;...got a knack for business?&lt;BR&gt;&lt;BR&gt;Well, don't worry—I've got enough "knack" for both of us. I can already tell this is going to be a lucrative partnership, am I right?&lt;BR&gt;&lt;BR&gt;Hemming, over in Faevine Vale, wants some &lt;font color='#660000'&gt;cloud mushrooms&lt;/font&gt;. I'm a mycologist, so that's usually my thing. But the redcaps have taken over the valley, and I can't get near the place!&lt;NEXTPAGEBUTTON&gt;"Redcaps, shmedcaps."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">That's the spirit! Just grab the mushrooms and take them to Hemming with my regards&lt;BR&gt;&lt;BR&gt;Keep his payment. I've cultivated Hemming as a long-term customer, so you're entitled to a little "hazard pay."</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1007">
+        <Page social="4">Redcaps in the valley? The faerie problem is worse than I thought!&lt;BR&gt;&lt;BR&gt;That Hailas sure knows her mushrooms, though. These are great!&lt;BR&gt;&lt;BR&gt;Here's the usual amount. Thanks to you...and Hailas!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1007">
+        <Page social="0">The &lt;font color='#660000'&gt;cloud mushrooms&lt;/font&gt; from Faevine Vale are a delicacy. I can't live without them!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1019">
+        <Page social="1">We're studying slight changes in Balder's Pattern—the glyphs and lines that appear in the daytime sky. But we can't do a proper job unless we can study the pattern at the same time in different places.&lt;BR&gt;&lt;BR&gt;I'm supposed to have researchers in both the {@Rgn:30009$$Upper Archive} and the {@Rgn:30008$$Lower Archive}, but their reports are late.&lt;BR&gt;&lt;BR&gt;Can you drop by and tell them to hurry with the report? Check with {@LinkCreature:230#1026$$Meterok} first. He's somewhere in the upper archive.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1026">
+        <Page social="1">Report?&lt;BR&gt;&lt;BR&gt;I can't send my report until I've heard from {@LinkCreature:230#1020$$Ronush}, but his observation isn't finished. So typical!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1020$$Ronush} has my data as well, so you can go there and kill two birds with one stone.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1020">
+        <Page social="1">Collecting for the Veteran Aid Society? I gave last month...&lt;BR&gt;&lt;BR&gt;Sorry, my mistake. Sestena sent you? Of course she did. Impatient, isn't she?&lt;BR&gt;&lt;BR&gt;We have to time the changes in Balder's Pattern perfectly, but {@LinkCreature:230#1026$$Meterok}'s notes are poorly organized, which is slowing me down.&lt;BR&gt;&lt;BR&gt;You'll have to wait for my observation to finish. While you're waiting, would you like an odd job in exchange for gold?</Page>
+    </Text>
+</QuestDialog>

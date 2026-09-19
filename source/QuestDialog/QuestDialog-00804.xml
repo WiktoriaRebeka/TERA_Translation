@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1005">
+        <Page social="4">There's an amani scholar, Madyar, who's trying to put an end to the mining. Something about disturbing the balance in the region.&lt;BR&gt;&lt;BR&gt;Anyway, the fool set off alone for the Azurice Shrine. Naturally, we've not heard from him since.&lt;BR&gt;&lt;BR&gt;I wouldn't care, but he's got guts and that counts for a lot. Think you could find him?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1009">
+        <Page social="4">Mmm...definitely a palpable shift in polaric energies around here. Definitely palpable. Oh, ho! Who are you?&lt;NEXTPAGEBUTTON&gt;"I've been looking for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bah, I'm not in danger. I was ambushed earlier but Uchamba and Krrevaas saved my life!&lt;BR&gt;&lt;BR&gt;Come to think of it, you made it out here without an army to back you up. You might be just who we need. There's a chance to make peace with the wendigos, but we need your help.&lt;BR&gt;&lt;BR&gt;Talk to Uchamba and hear his tale.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1010">
+        <Page social="4">Me Uchamba, this Krrevaas.&lt;BR&gt;&lt;BR&gt;We save Madyar, but Kaijas stronger. Hurt me badly. Need magic stone, you call azure shard.&lt;BR&gt;&lt;BR&gt;Search northeast area, find magic stone. Bring back.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="234" prevId="4" villagerId="1010">
+        <Page social="4">Kuohoh! Thank you!&lt;BR&gt;&lt;BR&gt;Feel much better now. Madyar tell truth. Federation not all evil.&lt;BR&gt;&lt;BR&gt;Change coming to Frost Reach. Magic stones almost gone—humans take too many. Wendigos need them to survive.&lt;BR&gt;&lt;BR&gt;The magical loop, the shrine, can make enough for both if we share. No greedy. Share.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="234" villagerId="1010">
+        <Page social="0">Must have blue magic stone. Madyar says you call them azure shards. Look at northeast end.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1031">
+        <Page social="5" voiceTypeId="0">{@LinkCreature:488#17#Chaos Witches} gather wherever souls are in turmoil—or there's a lot of death.&lt;BR&gt;&lt;BR&gt;They extract some kind of powder from those who died violently, then use it for their magic.&lt;BR&gt;&lt;BR&gt;Dying is bad enough. You shouldn't also become an ingredient for a witch's spell!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1031">
+        <Page social="4" voiceTypeId="0">I'll take this powder and bury it with full military honors. It's the right thing to do.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1031">
+        <Page social="0">Please, get that powder back. It's a question of honor.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Seir is waiting for &lt;PCNAME&gt; to confirm the funeral arrangements.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">After the funeral, &lt;PCNAME&gt; shared goodbyes with Jelena and was ready once again to go to Exodor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Thank you for coming, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;There's so much that Elleon has done for the federation...&lt;BR&gt;&lt;BR&gt;I've decided to hold Elleon's funeral in the name of the Valkyon Federation.&lt;BR&gt;&lt;BR&gt;His family said that they'll conduct the ceremony. Ask Sinoeta if everything is ready and come back to the plaza.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1234">
+        <Page social="13" voiceTypeId="0">&lt;PCNAME&gt;. The funeral is now ready.&lt;BR&gt;&lt;BR&gt;I...I never thought we'd lose him like this....</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="20004">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, everyone's ready?&lt;BR&gt;&lt;BR&gt;I'd knew a day like this would come, but not so soon...The federation would never be the same without him, but he'll always be with us.&lt;BR&gt;&lt;BR&gt;Let's start the funeral.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="20004">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, have you seen Jelena?&lt;BR&gt;&lt;BR&gt;The federation made a statue of Elleon and wants to place it at Velika. I wanted her to do the honor but I can't find her.&lt;BR&gt;&lt;BR&gt;Will you do it?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="20001">
+        <Page social="4" voiceTypeId="0">Yes, I heard the news. A statue...&lt;BR&gt;&lt;BR&gt;I was only trouble to Elleon...I couldn't save him.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, please dedicate the statue for me. It'll mean a lot.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="20002">
+        <Page social="4" voiceTypeId="0">Thank you &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Elleon will always be remembered as a federation hero.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;. It's now your turn to fight the Azart in the name of the Valkyon Federation and for Elleon!&lt;BR&gt;&lt;BR&gt;Oh, and if you see Jelena, please tell her that the federation still needs her and that we're waiting for her.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="20003">
+        <Page social="4" voiceTypeId="0">Seir said that?&lt;BR&gt;&lt;BR&gt;But...I'm not sure if there's anything I can do...&lt;BR&gt;&lt;BR&gt;I can't think of anything right now...thanks for coming, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;But I want to leave for now.</Page>
+    </Text>
+</QuestDialog>

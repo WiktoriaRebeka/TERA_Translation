@@ -1,0 +1,37 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I need your help with some banquet-related business.&lt;BR&gt;Please find me in Highwatch.&lt;BR&gt;&lt;BR&gt;- Meren</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Meren is planning a magnificent banquet to be held in Velik's honor.&lt;BR&gt;Meren asked for your help with locating the long-lost Eternal Crown, and returning it to the goddess.&lt;BR&gt;&lt;BR&gt;Although you successfully retrieved the Crown from the past, it seems to have somehow lost its celestial aura.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="1151">
+        <Page social="0" voiceTypeId="0">Thank the Goddess you're here, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;My name is Meren, and as I mentioned in my letter, I need your help.&lt;BR&gt;&lt;BR&gt;I don't know if you're aware, but the citizens of Velika are planning a banquet to honor the goddess.&lt;BR&gt;It's going to be magnificent, so there's lots to prepare.&lt;BR&gt;&lt;BR&gt;There's so many things to plan, and we just got news that Velik herself will grace us with her presence.&lt;BR&gt;&lt;BR&gt;And that's where you come in. I need your help to procure a very special gift.&lt;NEXTPAGEBUTTON&gt;"What's the gift?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">It's called the &lt;b&gt;&lt;font color='#FF0000'&gt;Eternal Crown&lt;/font&gt;&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;According to ancient accounts, the crown is imbued with a celestial aura, the type of shich hasn't been seen in many generations.&lt;BR&gt;&lt;BR&gt;The last known location of the crown was Castle Aranea, but that was long ago, before the castle fell into ruin.&lt;NEXTPAGEBUTTON&gt;"I doubt it's still there."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">True, but thanks to Halran and his hard work interpreting the &lt;b&gt;&lt;font color='#FF0000'&gt;Echo Arcana&lt;/font&gt;&lt;/b&gt;, it is possible to travel through time to Castle Aranea.&lt;BR&gt;&lt;BR&gt;You realize what that means, right?&lt;BR&gt;&lt;BR&gt;We can retrieve the crown before something bad happens to it.&lt;NEXTPAGEBUTTON&gt;"Consider it done."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Thank you.&lt;BR&gt;&lt;BR&gt;If the crown is truly as sacred as it's described in the documents, it would be the perfect gift for Velik.&lt;BR&gt;&lt;BR&gt;[Speak to {@linkcreature:183#7004#Murakan} to enter Castle Aranea.]</Page>
+    </Text>
+    <Text id="4" huntingZoneId="469" prevId="3" villagerId="500">
+        <Page social="0" voiceTypeId="0">(There's a glowing crown in the crate.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="469" villagerId="500">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="4" villagerId="1151">
+        <Page social="0" voiceTypeId="0">This is the Eternal Crown?&lt;BR&gt;&lt;BR&gt;It's so rusty and old though...&lt;NEXTPAGEBUTTON&gt;"It wasn't when I found it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You mean that it wasn't like this in the past?&lt;BR&gt;&lt;BR&gt;We should ask Halran if he has any insights.&lt;BR&gt;With all the work he has done with the Echo Arcana, he must at least have a theory.&lt;BR&gt;&lt;BR&gt;Please get the crown to {@linkcreature:183#1025#Halran}.&lt;BR&gt;&lt;BR&gt;I'll be right there.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" prevId="6" villagerId="1025">
+        <Page social="0" voiceTypeId="0">That crown...&lt;BR&gt;I see.&lt;BR&gt;&lt;BR&gt;It is simple.&lt;BR&gt;&lt;BR&gt;The &lt;font color='#FF0000'&gt;&lt;b&gt;seven stones&lt;/b&gt;&lt;/font&gt; that empower the crown are missing.&lt;BR&gt;&lt;BR&gt;They must have come loose from the crown during your return from the past.&lt;NEXTPAGEBUTTON&gt;"How do you know this?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Because the stone I am holding in my hand belongs to the Eternal Crown.&lt;BR&gt;&lt;BR&gt;This is the Regeneration Stone. Take it and place it near the crown.&lt;BR&gt;&lt;BR&gt;If the crown deems you worthy, the stone will return to its original position.&lt;BR&gt;&lt;BR&gt;Go ahead.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="1025">
+        <Page social="0" voiceTypeId="0">Look. The crown has regained some of its glow.&lt;BR&gt;&lt;BR&gt;You must carry it with you on your journeys, so that it may regain its original form.&lt;BR&gt;&lt;BR&gt;To restore the crown, you must recover all the stones.&lt;NEXTPAGEBUTTON&gt;"How do I do that?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The stones won't reveal themselves if they don't think you're capable of handling them.&lt;BR&gt;&lt;BR&gt;In other words, if you want to find the stones, you must demonstrate that your are worthy of them.&lt;BR&gt;&lt;BR&gt;This is all I know...&lt;BR&gt;&lt;BR&gt;May Oriyn's wisdom guide your path.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" prevId="8" villagerId="1031">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, you're back!&lt;BR&gt;What did Halran say?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Well..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">So...&lt;BR&gt;&lt;BR&gt;To restore the crown's true appearance, we must gather the rest of the stones, and you must be powerful enough to find them.&lt;BR&gt;&lt;BR&gt;If there's anything I can do to help, just let me know.&lt;NEXTPAGEBUTTON&gt;"You can count on me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I'm a bit relieved now.&lt;BR&gt;&lt;PCNAME&gt;, you're my only hope.&lt;BR&gt;&lt;BR&gt;Please, take this.&lt;BR&gt;It will help you on your journey.&lt;BR&gt;&lt;BR&gt;I'll see if I can find any more information about the current whereabouts of the stones.&lt;BR&gt;I hope to see you soon.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="65" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;BR&gt;That creature you met at Velik’s Hold… It can be no other than Lakan.&lt;BR&gt;I’m assuming that he’s planning to dig underground with his army and infiltrate Velika. We must evacuate the citizens and prepare for a war.&lt;BR&gt;&lt;BR&gt;If there is any information the Valkyon Federation should know, tell us now.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;[You must have equipment level 453 or higher to enter Velik’s Sanctuary.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Seir believes that the force behind the earthquakes in Velika is Lakan, the God of Evil...and Seir asks &lt;PCNAME&gt; to protect the goddess Velik. With the assistance of a pegasus, &lt;PCNAME&gt; bypasses Lakan's defenses. But once inside, the path to Lakan is blocked by the revived Darkan and Dakuryon, but &lt;PCNAME&gt; soon overcomes them. While Lakan is busy showing Oriyn's Arcana to Velik, &lt;PCNAME&gt; defeats the God of Evil, once and for all.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Lakan's target was the sanctuary of the goddess Velik!&lt;BR&gt;&lt;BR&gt;But how could this be...? Velik's Sanctuary is protected by the goddess's  wards!&lt;NEXTPAGEBUTTON&gt;Lakan has been attacking the wards with dark magic.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The Sanctuary is already corrupted by Lakan's dark power?&lt;BR&gt;&lt;BR&gt;This is a crisis, &lt;PCNAME&gt;.&lt;BR&gt;We must make haste. The goddess is in great danger.&lt;BR&gt;It is too dangerous for the goddess to face Lakan on her own.&lt;BR&gt;&lt;BR&gt;We must act now! &lt;PCNAME&gt;, you go ahead with the priests.&lt;BR&gt;I will gather Velika's elite forces and follow you as soon as possible.&lt;BR&gt;&lt;BR&gt;[Your equipment has to be at least 446 to enter the Velik's Sanctuary.]</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Welcome, &lt;PCNAME&gt;!&lt;BR&gt;I have been waiting for you.&lt;BR&gt;&lt;BR&gt;Your courage has saved us all from the horror!&lt;BR&gt;No word can fully express my gratitude.&lt;BR&gt;&lt;BR&gt;Now the only task left is to restore everything to how it should be, as it was before Lakan came.&lt;BR&gt;The goddess and her destroyed Sanctuary, as well as Velik's Hold... Oh, we should not forget about the poor citizens who are fled the city when this all started.&lt;BR&gt;&lt;BR&gt;Oh, not to worry, &lt;PCNAME&gt;! We will handle the cleanup. You should take a well-deserved rest.</Page>
+    </Text>
+</QuestDialog>

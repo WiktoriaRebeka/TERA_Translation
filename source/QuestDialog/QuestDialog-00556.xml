@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1006">
+        <Page social="5">It seems the {@LinkCreature:22#9#shadow instructors} are going to destroy the world. And they didn't invite me.&lt;BR&gt;&lt;BR&gt;I want you to stop them. It's all well and good to plot, but exclude me and it stops being fun!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1006">
+        <Page social="5">A witch rarely gives her word because we're loathe to break them. You've done a great service and I won't forget it.&lt;BR&gt;&lt;BR&gt;I hope this madness ends soon. Do you know what I miss? Leeches...and peaches.</Page>
+    </Text>
+</QuestDialog>

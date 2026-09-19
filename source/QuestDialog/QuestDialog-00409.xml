@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1017">
+        <Page social="5">Panpi's making saberskin gloves, and he had to come wave them in my face.&lt;BR&gt;&lt;BR&gt;He sniffed at my boots. Sniffed! Then he scrunched up his nose and said they make my feet smell!&lt;BR&gt;&lt;BR&gt;Ooh, I just want to...I don't know what, but I have to strike back!&lt;NEXTPAGEBUTTON&gt;"Well, yeah."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">&lt;PCNAME&gt;, you have to help me.&lt;BR&gt;&lt;BR&gt;But what's better than saberskin? What?&lt;BR&gt;&lt;BR&gt;Oh, I've got it! Have you seen the pauldrons those {@LinkCreature:15#6#disturbed constructs} wear? That's basilisk leather. Nothing could be better than that.&lt;BR&gt;&lt;BR&gt;If you kill them, they won't be needing the leather, right?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1017">
+        <Page social="5">Ah!&lt;BR&gt;&lt;BR&gt;How soft. How supple! There's no way Panpi can top this!&lt;BR&gt;&lt;BR&gt;Thank you!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1017">
+        <Page social="0">You must bring me that leather! My pride depends on it!</Page>
+    </Text>
+</QuestDialog>

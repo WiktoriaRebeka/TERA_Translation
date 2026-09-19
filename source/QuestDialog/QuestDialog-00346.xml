@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">The "arsenal" you're wielding tells me all I need to know about you. You're here to fight, not to learn. However, I believe you can do both.&lt;BR&gt;&lt;BR&gt;These {@LinkCreature:13#300933#ghilliedhus} have abnormal &lt;b&gt;essences&lt;/b&gt;. You need more experience in recognizing what's wrong before you can do what's right.&lt;BR&gt;&lt;BR&gt;Are you ready to dispel your ignorance with some improvisational forestry?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1017">
+        <Page social="4">You might just make it as a researcher after all...if you can get through life without your weapons.&lt;BR&gt;&lt;BR&gt;My "watchdogs," Helier and Clovis, ask that you keep using them a while longer. When you're ready, see what they want.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1017">
+        <Page social="0">I'm going to be blunt with you, &lt;PCCLASS:lcase&gt;. If you can't see what makes these {@LinkCreature:13#300930#ghilliedhus} "special," you're of no use to the federation, or to me. Just keep doing what you soldiers do best until you've learned to recognize true &lt;b&gt;Heartwood Essence&lt;/b&gt;.</Page>
+    </Text>
+</QuestDialog>

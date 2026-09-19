@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1018">
+        <Page social="4">The eldritch vanquishers and their minions are slaughtering us. We can't get runners past them, most of the conscripts are dead—we need someone with your skills.&lt;BR&gt;&lt;BR&gt;Be wary. The vanquishers are damnably tough.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1018">
+        <Page social="4">I know these crests! They're Killian's tokens.&lt;BR&gt;&lt;BR&gt;That explains much. The sikandaris and mekonaris couldn't hope to hold us off on their own. Killian's augmenting their strength. They must be vulnerable right now.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" villagerId="1018">
+        <Page social="0">Get out there and cut those vanquishers down like reeds.</Page>
+    </Text>
+</QuestDialog>

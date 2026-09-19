@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">That {@LinkCreature:250#1001} I saw in {@Rgn:76001} went down into Viridian Caverns. What's going on?&lt;NEXTPAGEBUTTON&gt;"I'll get it. You stay put."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Yes. I'll be right here.&lt;BR&gt;&lt;BR&gt;And be careful.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1001">
+        <Page social="4">I remember you. Can you help me again? I need to fuse the iteris shards with the metal for the weapon. If I had a certain sap, an alchemist could make a fusion draught for me.&lt;NEXTPAGEBUTTON&gt;"I'll get it for you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Thank you! I need the sap from the rati tree. It's in a nearby cavern. I thought I could find it, but I might be a bit lost.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1023">
+        <Page social="6">(This is the rati tree.)&lt;BR&gt;&lt;BR&gt;(You should collect the sap.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="250" prevId="4" villagerId="1001">
+        <Page social="6">I'm forever in your debt. Thanks to you, I can finish constructing my weapon and complete my hushang ceremony.&lt;BR&gt;&lt;BR&gt;I'd better get back to Kanstria. Thanks again!</Page>
+    </Text>
+</QuestDialog>

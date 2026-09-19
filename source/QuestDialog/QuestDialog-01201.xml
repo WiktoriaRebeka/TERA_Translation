@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="4">We need to understand the implications of these zomgul gatherers. The Mysterium regards our findings with a fair amount of alarm.&lt;BR&gt;&lt;BR&gt;Find {@LinkCreature:250#1021} and give him some fresh samples to study.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1021">
+        <Page social="6">Intriguing. The heart's function remains unclear, for the zomgul clearly doesn't use it to pump blood.&lt;BR&gt;&lt;BR&gt;Their interest in fusing organic part into constructs may speak to their ultimate goals.&lt;BR&gt;&lt;BR&gt;Fascinating.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" villagerId="1021">
+        <Page social="0">Without fresh zomgul hearts, there can be no inquiry.</Page>
+    </Text>
+</QuestDialog>

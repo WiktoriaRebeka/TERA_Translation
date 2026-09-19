@@ -1,0 +1,38 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1701">
+        <Page social="4">We want to send the magic bots we've developed to our researchers working in different locations. But it's a long trip, and the roads are sometimes dangerous, so...we thought of you.&lt;BR&gt;&lt;BR&gt;I've prepared a magic bot summoning controller for you. Just use it to summon a magic bot for each researcher in the field. And you can use it yourself, too. Nothing wrong with a little "field testing," eh?&lt;BR&gt;&lt;BR&gt;Klissa has the controller for you. Have fun with the bots!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="4">Wait, you need the controller?&lt;BR&gt;&lt;BR&gt;I'm sorry, but I let Fitae and Zerit borrow it. Who knows what they wanted it for—probably something irrelevant.&lt;BR&gt;&lt;BR&gt;I'm sure one of them has it. Go pester them!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="2" villagerId="1703">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="4">The Magic Bot Summoning Controller? Sure—here you go.&lt;BR&gt;&lt;BR&gt;Use it like any other item: open your inventory, place the cursor over the controller, and right-click.&lt;BR&gt;&lt;BR&gt;Your destination: Veltor in Balder's Refuge.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">The Magic Bot Summoning Controller? Sure—here you go.&lt;BR&gt;&lt;BR&gt;Use it like any other item: open your inventory, place the cursor over the controller, and right-click.&lt;BR&gt;&lt;BR&gt;Your destination: Sindel in Balder's Refuge.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1701">
+        <Page social="4">What brings you this far?&lt;BR&gt;&lt;BR&gt;A magic bot device, eh? Let me see.&lt;NEXTPAGEBUTTON&gt;"Here you go."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Looks like it's going to be helpful.&lt;BR&gt;&lt;BR&gt;And just between us, it might be fun, too.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" villagerId="1701">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="230" prevId="8" villagerId="1702">
+        <Page social="4">A magic bot device...what will they think of next.&lt;NEXTPAGEBUTTON&gt;"Control it with this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">I'm sure I'll figure out how a magic bot can help around here. Still, it makes you wonder about my colleagues back in Allemantheia...</Page>
+    </Text>
+    <Text id="11" huntingZoneId="230" villagerId="1702">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1013">
+        <Page social="4">Every. Single. Night. The shrieking never stops! I don't know how everyone here doesn't go mad listening to those {@LinkCreature:31#23#frostclaw sirens}! Please, please make them be quiet?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1013">
+        <Page social="4">At long last I can sleep! Thank you so much!</Page>
+    </Text>
+</QuestDialog>

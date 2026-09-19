@@ -1,0 +1,46 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You enjoy the banquet with the people for the second time. As for the mysterious man...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Greetings, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Are you here for the banquet?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1134">
+        <Page social="0" voiceTypeId="0">Hello, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I've heard stories about your exploits. In many ways, this banquet is in your honor!&lt;BR&gt;&lt;BR&gt;Even the weather today is great!&lt;BR&gt;&lt;BR&gt;You've arrived at a good time. The banquet should start soon.&lt;BR&gt;Please help yourself.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="509" prevId="3" villagerId="3002">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;! I'm so glad you made it!&lt;BR&gt;&lt;BR&gt;The federation was so grateful to me for my small part in helping you stop the dragons, they invited me to the banquet!&lt;BR&gt;&lt;BR&gt;Shall we go in? This is a great night for a banquet!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="509" prevId="4" villagerId="7500">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, as you have guessed, you are the only mortal who recalls the death of Velik.&lt;BR&gt;&lt;BR&gt;Thanks to your efforts, peace once again reigns over the world.&lt;BR&gt;&lt;BR&gt;Though I am the Goddess of Fate, I have bent it to my will once too often. I must say my farewells for now.&lt;BR&gt;&lt;BR&gt;The dark future that you saw, the one only you remember... you must never forget.&lt;BR&gt;&lt;BR&gt;Go, now. The people are waiting for you. Be with those whose lives you made possible.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="509" prevId="5" villagerId="1003">
+        <Page social="0" voiceTypeId="0">Greetings, &lt;PCCLASS:lcase&gt;. May I see your invitation?&lt;BR&gt;&lt;BR&gt;Ah! You're &lt;PCNAME&gt;! Welcome.&lt;BR&gt;&lt;BR&gt;Seir is waiting for you.&lt;BR&gt;Please visit the headquarters before you enjoy the banquet.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="509" prevId="6" villagerId="3001">
+        <Page social="0" voiceTypeId="0">Hello.&lt;BR&gt;Are you enjoying the banquet?&lt;BR&gt;Oh, I should introduce myself. I'm a scholar, researching monsters. I came for a conference with Seir, about my research.&lt;NEXTPAGEBUTTON&gt;"Are you from Elenea?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Originally, yes... but how did you know that? I have a twin brother who still lives in Elenea.&lt;BR&gt;&lt;BR&gt;He's doing some strange research... I'm not sure what it's about. He was keeping a journal about it... but then lost all the pages. There's probably some pretty valuable information in there, for whoever finds the right pages...</Page>
+    </Text>
+    <Text id="8" huntingZoneId="509" prevId="7" villagerId="2027">
+        <Page social="0" voiceTypeId="0">This is all thanks to you. I don't know how so many dragons appeared in one place like that, but I guess we were lucky you just happened to be there.&lt;BR&gt;&lt;BR&gt;I'm still reading through reports about the incident.&lt;BR&gt;&lt;BR&gt;But enough business! You're here to have fun, &lt;PCNAME&gt;. That's an order!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="509" prevId="8" villagerId="2100">
+        <Page social="0" voiceTypeId="0">Hello, &lt;PCNAME&gt;! I'm glad you were able to make it!&lt;BR&gt;&lt;BR&gt;We have lots prepared today!&lt;BR&gt;&lt;BR&gt;In fact, it's almost time for the play.&lt;BR&gt;&lt;BR&gt;Why don't you start off the festivities by watching the play?&lt;NEXTPAGEBUTTON&gt;"That would be a nice change."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You'll find the stage over there, to my right. Take any spot you wish, and enjoy.&lt;BR&gt;&lt;BR&gt;Seir will be making a speech immediately after the play.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="509" prevId="9" villagerId="5026">
+        <Page social="0" voiceTypeId="0">Plays are such an interesting form of art.&lt;BR&gt;&lt;BR&gt;The actors, the directing, and all the objects in the play... everything is made up. But for the duration of the play, it is all absolutely real.&lt;BR&gt;&lt;BR&gt;Interesting, how a play can substitute one reality for another.&lt;BR&gt;&lt;BR&gt;It's as if we experience an... alternate reality, to the one we know.&lt;BR&gt;&lt;BR&gt;This is really quite inspiring! Perhaps someday I will create a play of my own.&lt;NEXTPAGEBUTTON&gt;"What kind of play?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You like my idea?&lt;BR&gt;&lt;BR&gt;Please, keep this to yourself!&lt;BR&gt;&lt;BR&gt;My play would tell the story of a hero who saves the world, but the twist is that the world doesn't know what the hero did.&lt;BR&gt;&lt;BR&gt;Only the hero knows there even was a threat.&lt;BR&gt;&lt;BR&gt;What do you think?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="509" prevId="10" villagerId="2019">
+        <Page social="0" voiceTypeId="0">Greetings. Are you enjoying the banquet?&lt;BR&gt;&lt;BR&gt;Personally, I loved it. The food was quite delectable.&lt;NEXTPAGEBUTTON&gt;"What did you have?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I had the Bleak Wings.&lt;BR&gt;&lt;BR&gt;The struthio breast with the sauce was just fascinating! How in the world can you make a struthio breast taste like that?&lt;BR&gt;&lt;BR&gt;Although... the name is a little off-putting.&lt;BR&gt;&lt;BR&gt;Every time I see the cooking process, it makes me feel that something could happen to the Goddess's wing. Hmm...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="509" prevId="11" villagerId="2026">
+        <Page social="0" voiceTypeId="0">Thank you, but you are the one the city should be congratulating.&lt;BR&gt;&lt;BR&gt;I know I say this sort of thing a lot, but we really don't know what we'd do without you.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="12" villagerId="1102">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;I almost forgot! We got you a souvenir.&lt;BR&gt;It must have slipped my mind, but I wanted to make sure you got it before you left us again.&lt;BR&gt;&lt;BR&gt;Here. May it serve you well.</Page>
+    </Text>
+</QuestDialog>

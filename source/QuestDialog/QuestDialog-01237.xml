@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1014">
+        <Page social="4">The wretched ice giants won't let us recover the bodies of our honored dead.&lt;BR&gt;&lt;BR&gt;We've got a duty to our comrades to do what we can for them—even in death.&lt;BR&gt;&lt;BR&gt;Head to Raseri Festning and recover whatever you can from our fallen soldiers.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1014">
+        <Page social="4">I appreciate this, &lt;PCNAME&gt;. We all die alone, but that doesn't mean we should be forgotten. The families of our friends will grieve easier thanks to you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1014">
+        <Page social="0">Bring back any tokens or amulets you find. I'll send them along with the letters of condolence.</Page>
+    </Text>
+</QuestDialog>

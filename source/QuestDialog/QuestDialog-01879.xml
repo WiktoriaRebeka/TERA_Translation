@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3002">
+        <Page social="4">The {@Rgn:49005$$Casian Tree} northeast of us attracts unique argons. They're good sport, and hunting them protects the tree.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#3010#Beiran} will get you started.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="4">Oh, the {@Rgn:49005$$Casian Tree} is crawling with uglies today.&lt;BR&gt;&lt;BR&gt;There are {@LinkCreature:49#20#zariik workers}, {@LinkCreature:49#19#spodas}, and {@LinkCreature:49#15#yusul slashers}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="4">Interesting, aren't they? Unlike any other argons I've seen.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1027">
+        <Page social="4">These cultists aren't giving up! We'll need to eliminate all of them!&lt;BR&gt;&lt;BR&gt;Start with the {@LinkCreature:25#2061#devan vanguards} and {@LinkCreature:25#2081#caiman scavengers}. They may not look tough, but they're definitely troublesome.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1027">
+        <Page social="4">That's a good-sized dent in their numbers. Sometimes I wonder if we'll ever have an assignment that ISN'T killing cultists.</Page>
+    </Text>
+</QuestDialog>

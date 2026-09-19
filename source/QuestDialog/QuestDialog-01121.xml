@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1015">
+        <Page social="4">The argons hit our foundry at {@Rgn:48008}. I need you to find {@LinkCreature:248#1030}.&lt;BR&gt;&lt;BR&gt;We can't afford to lose any of the minds behind the cyanocannon effort.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1030">
+        <Page social="6">Yeah, the argons hit us hard. Lost most of my contingent.&lt;BR&gt;&lt;BR&gt;I sent our survivors to the Cyanocannon Foundry. That's where they'll do the most good.&lt;BR&gt;&lt;BR&gt;I'll let {@LinkCreature:248#1015} know my status.</Page>
+    </Text>
+</QuestDialog>

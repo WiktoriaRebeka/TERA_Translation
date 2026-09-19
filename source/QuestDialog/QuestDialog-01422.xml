@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3005">
+        <Page social="5">A hood? I don't make those anymore.&lt;BR&gt;&lt;BR&gt; Luria fibers and sun essence are easy to come by, but innerlid leather? You can't even find that in a museum, these days.&lt;NEXTPAGEBUTTON&gt;"I already have some."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3005">
+        <Page social="5">Oh, my! You actually have some?&lt;BR&gt;&lt;BR&gt;Quick! Let's make you a hood! What tailor-made color would you like?&lt;NEXTPAGEBUTTON&gt;"Well..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="3005">
+        <Page social="0">Look: Innerlid leather only comes from the eyelids of certain breeds of dracoloth—and that particular breed doesn't exist anymore.&lt;BR&gt;&lt;BR&gt;Hunted to extinction for their eyelids, of all things...</Page>
+    </Text>
+</QuestDialog>

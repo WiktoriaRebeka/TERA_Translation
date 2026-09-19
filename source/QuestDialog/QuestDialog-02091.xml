@@ -1,0 +1,35 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2105" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Dougal wants to meet with you to discuss a recent Azart incursion near the site of the Core’s destruction.&lt;BR&gt;&lt;BR&gt;Meet Dougal at the Reliquary Station.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">While she was monitoring Azart activity, Jelena found out something suspicious going on at the Core area.&lt;BR&gt;&lt;BR&gt;Dougal wants &lt;pcname&gt; to go and help Jelena.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="50000">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! According to Jelena, the Draakons are gathering at a nearby outpost.&lt;BR&gt;&lt;BR&gt;Although it was destroyed, the Core still might possess unknown power. They might be up to something.&lt;NEXTPAGEBUTTON&gt;"Where is Jelena?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">She was monitoring a few scattered bands of Draakons.&lt;BR&gt;&lt;BR&gt;She asked for you when she found something strange going on.&lt;BR&gt;&lt;BR&gt;I want you to head out there and  support Jelena’s investigation.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2020" prevId="3" villagerId="10000">
+        <Page social="0" voiceTypeId="0">I was waiting for you &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I've been keeping an eye on the Draakons, hoping to find their Commander’s location, when i noticed several troupes of Draakons gathering here.&lt;BR&gt;&lt;BR&gt;We need to find out what they are up to.&lt;BR&gt;&lt;BR&gt;Can you give me a hand?&lt;NEXTPAGEBUTTON&gt;"That's why I'm here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Thanks.&lt;BR&gt;&lt;BR&gt;I'll put an end to them...no matter what it takes.&lt;BR&gt;&lt;BR&gt;First, we need to figure out their marching orders.&lt;BR&gt;&lt;BR&gt;Take out some of these Draakons hand search them for clues.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2020" prevId="4" villagerId="10000">
+        <Page social="0">That's plenty. This should be enough.&lt;BR&gt;&lt;BR&gt;Please deliver these to Dougal and ask him to decrypt them. I'm sure Dougal will send reinforcements when he...wait, what’s going on over there?&lt;NEXTPAGEBUTTON&gt;“What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You may heve been a bit too successful. The Draakons are moving out!&lt;BR&gt;&lt;BR&gt;I'll go after them, you take what you found to Dougal.&lt;BR&gt;&lt;BR&gt;I'll contact the Reliquary Station later for help. See you then.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2020" prevId="4" villagerId="10000">
+        <Page social="0">We need that information to figure out their battle plan.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2000" prevId="5" villagerId="50000">
+        <Page social="0">Some sort of Draakon secret messages?&lt;BR&gt;&lt;BR&gt;I'll get these decrypted right away.&lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;. Head back to Jelena--I'll send reinforcements as soon as the decryption is finished.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2000" prevId="7" villagerId="20305">
+        <Page social="0">&lt;PCNAME&gt;! We've located their gathering point!&lt;NEXTPAGEBUTTON&gt;"Where is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">It's Verrak Fortress.&lt;BR&gt;&lt;BR&gt;From what it says here, the Draakon Commander intends to restore the fortress.&lt;BR&gt;&lt;BR&gt;Get to Jelena as fast as you can. She might be in danger!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2003" prevId="8" villagerId="10000">
+        <Page social="0" voiceTypeId="0">I found this entrance while you were gone.&lt;BR&gt;&lt;BR&gt;The Draakons went through here.&lt;NEXTPAGEBUTTON&gt;"A secret passage?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">They must be restoring the fortress to regain control of this area.&lt;NEXTPAGEBUTTON&gt;"What should we do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">We need to see what's in there.&lt;BR&gt;&lt;BR&gt;If it’s their Commander is there...we'll get our revenge for Elleon's.</Page>
+    </Text>
+</QuestDialog>

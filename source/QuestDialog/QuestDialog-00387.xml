@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="86" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1006">
+        <Page social="4">If you're going to be playing around the island, you'll still need to learn how to handle bombs.&lt;BR&gt;&lt;BR&gt;Go speak to {@LinkCreature:64#1029#Kiriya}. She can get you up to speed.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1029">
+        <Page social="4">WHAT? I CAN'T HEAR YOU!&lt;BR&gt;&lt;BR&gt;I'VE WORKED WITH EXPLOSIVES ALL MY LIFE, AND IT'S TIME I PASSED ON THAT WISDOM!&lt;BR&gt;&lt;BR&gt;READY TO MAKE THINGS GO BOOM?&lt;NEXTPAGEBUTTON&gt;"Let's do it!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">THIS ISN'T EXACTLY TELEPORT RESEARCH! JUST HURL THE MAGMA BOMB AT THAT {@LinkCreature:13#888#TRAINING DUMMY} OVER THERE!&lt;BR&gt;&lt;BR&gt;THAT'S THE THING ABOUT A BOMB—WHEN IT WORKS, YOU'LL KNOW ABOUT IT!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1029">
+        <Page social="4">KNOWING HOW TO MAKE THINGS GO BOOM IS IMPORTANT, ESPECIALLY WHEN YOU'RE FACING HORDES OF ENEMIES!&lt;BR&gt;&lt;BR&gt;NOW GET OUT OF HERE AND KILL SOME STUFF FOR FREEDOM. TELL JORHON I THINK YOU'RE READY!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1006">
+        <Page social="4">Kiriya is...special, isn't she? Working around all those loud noises all the time, it's a wonder she can hear at all.&lt;BR&gt;&lt;BR&gt;But with her recommendation, I have no problem approving you for duty.&lt;BR&gt;&lt;BR&gt;And I don't think it will be that long before you'll need to use what you've just learned.</Page>
+    </Text>
+</QuestDialog>

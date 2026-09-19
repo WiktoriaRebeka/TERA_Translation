@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="0">Taera, a star pupil of the Witches of Vadoma, fell under a spell and wrought havoc everywhere. You defeated Taera at the behest of the surviving witches and took her journal to learn what befell her. Headmistress Serena's ephemeral guardian, the academy's main defense, was discovered missing. You helped the witches recover and restart it.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1005">
+        <Page social="4" voiceTypeId="0">I hate to admit it, but this started with a student.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:22#33#Taera} is a witch of astonishing power, but that power has risen to new levels recently—far beyond what a student's abilities should be.&lt;BR&gt;&lt;BR&gt;Now she's using chaos magic to animate dolls and charm people!&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">First, we need to find out why this is happening. Taera always kept meticulous records, so I'm sure she's written everything down in her diary.&lt;BR&gt;&lt;BR&gt; You might look for {@LinkCreature:22#33#Taera} in Serena's Park—it was always her favorite place.&lt;BR&gt;&lt;BR&gt;Retrieve that diary by any means necessary. It may shed some light on this madness.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1005">
+        <Page social="4" voiceTypeId="0">So you faced Taera and recovered her diary? How horrible!&lt;BR&gt;&lt;BR&gt;Her diary, I mean. Not the fighting and blood-letting. That sounds thrilling!&lt;BR&gt;&lt;BR&gt;It says here voices are whispering in her mind telling her to break the barrier—the ephemeral guardian—in the Altar of Vadoma in the catacombs. Head down to the Professors Redoubt and find Tarin!&lt;BR&gt;&lt;BR&gt;Quicker would be better.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1005">
+        <Page social="0">I'll keep studying this diary. You find Tarin!&lt;BR&gt;&lt;BR&gt;Just keep heading downward!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="222" prevId="3" villagerId="1026">
+        <Page social="4" voiceTypeId="0">The Altar of Vadoma is protected by Serena's ephemeral guardian.&lt;BR&gt;&lt;BR&gt;Oh, you should make sure it's still working. Hurry! Go to the &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=1#-18749.8203,21616.3945,540.0363&amp;type=1&amp;name=Chapel"&gt;Altar&lt;/A&gt;&lt;/font&gt;!&lt;BR&gt;&lt;BR&gt;Oh, but first you have to get to the middle of the Witch Queen Catacombs. Oh, but first there's a maze...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:222#1009#Cordella}! Cordella can help. If you can find her.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="222" prevId="5" villagerId="1009">
+        <Page social="4" voiceTypeId="0">You're too late. Demons have already stolen the ephemeral guardian and hidden it away. Hallie's inside. If you don't want to see her gutted, you'd better get in there to help her...and fast.&lt;BR&gt;&lt;BR&gt;Go to the Altar of Vadoma and use the {@linkcreature:222#1031#teleportal} to join her. Keep her safe and try to restore the guardian's seal. There's not much time.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="491" prevId="6" villagerId="99">
+        <Page social="4" voiceTypeId="0">Quick! I have to reactivate the ephemeral guardian! The demons will do anything to stay in our world, so you'll have to stop them before they stop me.&lt;BR&gt;&lt;BR&gt;Understand your role? Let's go!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="491" prevId="7" villagerId="99">
+        <Page social="5" voiceTypeId="0">I've done all I can. It's repaired, but it's yet to be reactivated.&lt;BR&gt;&lt;BR&gt;I don't have the strength left, so you'll have to do it. Don't worry. Something's going to happen—something wonderful.&lt;BR&gt;&lt;BR&gt;When you've restarted the mechanism, find {@LinkCreature:68#1014#Beryn}. Let her know what's going on.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="68" prevId="8" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Good thing you were able to reactivate the ephemeral guardian, &lt;PCNAME&gt;. The witches are terribly dependent upon magic for their safety and survival.&lt;BR&gt;&lt;BR&gt;You have earned the gratitude of the kingdom and the academy. Thank you.</Page>
+    </Text>
+</QuestDialog>

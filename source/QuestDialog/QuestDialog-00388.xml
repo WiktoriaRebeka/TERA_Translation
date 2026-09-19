@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="89" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1020">
+        <Page social="4">Have you ever heard of Engine of Mischief?&lt;BR&gt;&lt;BR&gt;No? Really? Ha, ha! &lt;BR&gt;&lt;BR&gt;Here, I'll give you one. Try it yourself. Hey, wait until I say open, You don't want to lose a chance like this, don't you?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1020">
+        <Page social="4">Engine of Mischief is a very interesting object. It's a chance to test your luck. You must be dying to try it, don't you? Okay, now, you have the box I gave you. There are different types of Engine of Mischief but we can talk about them later.&lt;BR&gt;&lt;BR&gt;Start a campfire, open your &lt;b&gt;inventory&lt;/b&gt; and &lt;b&gt;right-click&lt;/b&gt; the box I gave you. You'll see a new window. And place any &lt;font color='#660000'&gt;material&lt;/font&gt; there. Are you done? Now, let's test your luck...&lt;br&gt;&lt;br&gt;wait, wait. I forgot to give you a material for the experiment. Here, take this &lt;font color='#660000'&gt;krymental ore&lt;/font&gt;. Now try it. Of course you can use any other material if you have one.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1020">
+        <Page social="4">How was it? Some boxes &lt;b&gt;disappears after use&lt;/b&gt; like that one, but sometimes it stays for another trial. Remember, for some boxes you can put consumables like potions and charms, other boxes materials, enchant items or alkahests. If you &lt;BR&gt;&lt;BR&gt;&lt;b&gt;succeed&lt;/b&gt;, you get more consumables or higher-grade materials and enchant items. Well, if you &lt;b&gt;fail&lt;/b&gt;, the material just disappears, so that's disappointing. But it still worth a try, especially when you have a chance to hit a jackpot. Isn't it so?</Page>
+    </Text>
+</QuestDialog>

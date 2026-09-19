@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">You helped the Consos Clan keep the temple clean.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="4">The Consos Clan would be grateful if you could help us keep the temple clean.&lt;BR&gt;&lt;BR&gt;Please use the teleportal to enter the temple underground, and speak with Davor.&lt;NEXTPAGEBUTTON&gt;"I'm happy to help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">It is good to see you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The sloths are being particularly bothersome. I would be very grateful if you could clean up some of the messes they have made in the temple underground.&lt;BR&gt;&lt;BR&gt;If they offer too much resistance, please feel free to make use of the PEST-B-GON 8000 automaton.&lt;NEXTPAGEBUTTON&gt;"I suppose someone has to do it..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Thank you for your assistance.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Thank you for your assistance.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7000">
+        <Page social="4">Thank you for your assistance.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">A receptacle for waste.&lt;NEXTPAGEBUTTON&gt;Deposit waste.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="451" prevId="3" villagerId="903">
+        <Page social="4">A receptacle for waste.&lt;NEXTPAGEBUTTON&gt;Deposit waste.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="451" villagerId="903">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="7000">
+        <Page social="4">Thank you so much, &lt;PCNAME&gt;. Please accept this token of our appreciation.</Page>
+    </Text>
+</QuestDialog>

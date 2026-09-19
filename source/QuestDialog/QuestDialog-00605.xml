@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1001">
+        <Page social="5">I received a report of smoke rising from Aurum Road. Check with Fayza at the northwest gate and see if she can confirm.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1014">
+        <Page social="4">Smoke? Who said smoke?&lt;BR&gt;&lt;BR&gt;Baruch is a good captain, but between you and me, learning a few things about Val Aureum would do him some good. We don't exactly get forest fires.&lt;BR&gt;&lt;BR&gt;Something was stirring up a dust cloud in that direction, though, now that you mention it. Would you go check with {@LinkCreature:224#1005#Veltana} at the West Watchpost?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="224" prevId="3" villagerId="1005">
+        <Page social="5">Reinforcements! I'm so glad you're here. I've been asking for support forever.&lt;BR&gt;&lt;BR&gt;Sand? We got. Dust? We got.&lt;BR&gt;&lt;BR&gt;Look around. It's soldiers we don't got.</Page>
+    </Text>
+</QuestDialog>

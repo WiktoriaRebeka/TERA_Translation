@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1038">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1038">
+        <Page social="4">Marvelous. The draelkar pylons affect the barsicores, too. We don't need giant rampaging creatures—we have enough trouble with the normal kind.&lt;BR&gt;&lt;BR&gt;Kill a few barsicores, if only to deprive Thulsa of whatever fun he gets out of our misery.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1038">
+        <Page social="4">Those barsicores are nasty brutes. You handled them like a master hunter. Fine work."</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="615" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">Some of the Essenian Crest refugees have resettled in Highwatch, and one of them wishes to meet you.&lt;BR&gt;&lt;BR&gt;His name is Loomey, and he needs your help with something.&lt;font color='#804000'&gt;[Finish this quest to obtain a &lt;font color='#0000FF'&gt;Partner&lt;/font&gt;.]&lt;/font&gt;</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2064">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! I heard what happened at Tria.&lt;BR&gt;&lt;BR&gt;I went to the Timeless Woods to see if my friends were safe, but failed to save all of them.&lt;BR&gt;&lt;BR&gt;But thanks to the goddess, I was able to secure this egg.&lt;BR&gt;&lt;BR&gt;There's a problem, though. It's... well, take a look for yourself.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2064">
+        <Page social="4" voiceTypeId="0">This companion egg was just about to hatch, but it suddenly stopped and turned cold. Perhaps it's failed to adapt to this new environment.&lt;BR&gt;&lt;BR&gt;I want to try a spell on it. Will you help me?&lt;NEXTPAGEBUTTON&gt;"What can I do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We'll need some specialized energy for the spell.&lt;BR&gt;&lt;BR&gt;My partner will tell you the details.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="4" villagerId="2065">
+        <Page social="4" voiceTypeId="0">We need both &lt;font color='#0000FF'&gt;Legacy Essence&lt;/font&gt; and &lt;font color='#0000FF'&gt;Forest Essence&lt;/font&gt; for the spell.&lt;BR&gt;&lt;BR&gt;Hmm...I know that the Sickly Warthogs in Timeless Woods are full of Forest Essence—at least, they were before being corrupted by the amber powder.&lt;BR&gt;&lt;BR&gt;Please end their suffering and gather as much Forest Essence as you can.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="183" prevId="5" villagerId="2065">
+        <Page social="5" voiceTypeId="0">You've gathered all the Forest Essence we need! Thank you so much!&lt;BR&gt;&lt;BR&gt;I'll refine the essence we have no, while you look for some &lt;font color='#0000FF'&gt;Legacy Essence&lt;/font&gt;.&lt;NEXTPAGEBUTTON&gt;"Sure, I have time."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You can collect &lt;font color='#0000FF'&gt;Legacy Essence&lt;/font&gt; from various monsters, but it's rare.&lt;BR&gt;&lt;BR&gt;We'll need a total of 8 &lt;font color='#0000FF'&gt;Legacy Essence&lt;/font&gt; for the spell.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;(&lt;font color='#FF0000'&gt;&lt;font color='#0000FF'&gt;Legacy Essence&lt;/font&gt; can be obtained at random from level 65 or higher monsters.&lt;/font&gt;)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="183" villagerId="2065">
+        <Page social="0">You can get Forest Essence from Sickly Warthogs in Timeless Woods.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="6" villagerId="2065">
+        <Page social="7" voiceTypeId="0">Good! Now we can complete the spell.&lt;BR&gt;&lt;BR&gt;Let's see...I need a second to prepare.&lt;NEXTPAGEBUTTON&gt;"Take your time."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">...and it's done! We're all set!&lt;BR&gt;&lt;BR&gt;Please tell Loomey that we're ready.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="183" villagerId="2065">
+        <Page social="0">We need more &lt;font color='#0000FF'&gt;Legacy Essence&lt;/font&gt; for the spell.&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;&lt;font color='#0000FF'&gt;Legacy Essence&lt;/font&gt; drops at random from level 65 or higher monsters.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="183" prevId="8" villagerId="2064">
+        <Page social="4" voiceTypeId="0">You've got all the materials!&lt;BR&gt;&lt;BR&gt;I hope we can save this egg!&lt;BR&gt;&lt;BR&gt;It's been years since anybody's tried to use this spell.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="183" prevId="10" villagerId="2064">
+        <Page social="4" voiceTypeId="0">Haha, thanks! It's always an honor to see a new companion hatch.&lt;BR&gt;&lt;BR&gt;Do you feel that? I think it likes you! You two should travel together.&lt;NEXTPAGEBUTTON&gt;"I would be delighted!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Having a Partner won't be a burden at all. It'll be at your side, aid you with a skill now and then, and all they ever ask for are toys and items you don't need from your inventory.&lt;BR&gt;&lt;BR&gt;I wish the two of you the best of luck in your adventures.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="4">Oh, this? It's my Shariar badge. It's so people know that I'm doing my part to end the argon tyranny.&lt;NEXTPAGEBUTTON&gt;"How'd you get it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Well, you earn it, and make it, in battle.&lt;BR&gt;&lt;BR&gt;Talk to Naveld at {@Rgn:48002}. He can set you on the path if you want one of your own.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="4">A Shariar badge? Sure. You've killed gods! You're definitely worthy.&lt;BR&gt;&lt;BR&gt;You'll need some mana crystals from {@LinkCreature:48#7#zariik dazzlers}, or cores from {@LinkCreature:48#5#hulrap bashers}, or even some cyasma from {@LinkCreature:48#13#syndrene dragoons}.&lt;BR&gt;&lt;BR&gt;You bring me some of those and I'll get your pin.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3001">
+        <Page social="4">Killing those argons proved you're one of us. This badge will show everyone else.&lt;BR&gt;&lt;BR&gt;Great work, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" villagerId="3001">
+        <Page social="0">The mana crystals from {@LinkCreature:48#7#zariik dazzlers} aren't easy to acquire, but make fine testaments to your fighting prowess.&lt;BR&gt;&lt;BR&gt;Why not bring me some?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="7" villagerId="3001">
+        <Page social="4">Killing those argons proved you're one of us. This badge will show everyone else.&lt;BR&gt;&lt;BR&gt;Great work, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" villagerId="3001">
+        <Page social="0">{@LinkCreature:48#5#Hulrap basher} cores would meet our requirements. You could lop off their heads and bring us the cores.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="9" villagerId="3001">
+        <Page social="4">Killing those argons proved you're one of us. This badge will show everyone else.&lt;BR&gt;&lt;BR&gt;Great work, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" villagerId="3001">
+        <Page social="0">Cyasma from {@LinkCreature:48#13#syndrene dragoons} is perfect for this sort of thing. There's just something about the way cyasma looks.</Page>
+    </Text>
+</QuestDialog>

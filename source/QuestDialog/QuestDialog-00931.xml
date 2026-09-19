@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1009">
+        <Page social="4">The attacks by the {@LinkCreature:39#140#slave wardens} and {@LinkCreature:39#150#delirious slaves} around the camp are more than we can handle on our own.&lt;BR&gt;&lt;BR&gt;We'd appreciate you slowing them down a bit.&lt;BR&gt;&lt;BR&gt;Unless you just came for the scenery...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1009">
+        <Page social="0">You did good work, &lt;PCNAME&gt;. If you'd stay, we could send some poor wretch home. Who knows...it might even be me! Or Chaman. Gods know she's earned it.</Page>
+    </Text>
+</QuestDialog>

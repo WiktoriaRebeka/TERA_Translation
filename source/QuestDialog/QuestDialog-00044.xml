@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="4">I'm ashamed to ask, particularly while things are so dire, but I need your help. My dog, Ohdi, ran off. The kids told me he headed towards Berzerad Cemetery. I wouldn't ask just for myself. The other residents draw great comfort from Ohdi.&lt;BR&gt;&lt;BR&gt;Take this bag. It's got a treat Esedran cooked up for me. Give it to Ohdi and he'll hop right in the bag. Please?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1012">
+        <Page social="6">Corann's pet? Blasted dog gets into more trouble than a drunken thief.&lt;BR&gt;&lt;BR&gt;Yes, now that you mention it, I think I did see him scampering up the hill. {@LinkCreature:203#1025#Ohdi} really likes that cemetery.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1025">
+        <Page social="4">(Ohdi's paws are covered in dirt and quite a few new holes dot the ground. He looks up at you with undisguised joy and wags his tail.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="4" villagerId="1001">
+        <Page social="4">&lt;PCNAME&gt;, I owe you a great deal. Thank you for rescuing Ohdi. I don't know what I, er, the town would do.</Page>
+    </Text>
+</QuestDialog>

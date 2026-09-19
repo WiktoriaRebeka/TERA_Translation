@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1133">
+        <Page social="4">The Mysterium insists they know nothing of the pylons hidden throughout Fyrmount. Perhaps you've dealt with the Cruental Pylon already?&lt;BR&gt;&lt;BR&gt;When my people cannot remember the answer, we must learn it anew. Thus, an investigation...&lt;NEXTPAGEBUTTON&gt;"I'm no sage."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Learning is not just for sages, &lt;PCNAME&gt;. Previous interactions with the Cruental Pylon proved that shurian magic is involved.&lt;BR&gt;&lt;BR&gt;If the shurians' magic reverses itself, all pylons in the defense network will be useless.&lt;BR&gt;&lt;BR&gt;And what is a powerful symbol of reversal? A mirror...like the ones that {@LinkCreature:4#3041#shurian mindbenders} and their {@LinkCreature:4#3042#hellion thralls} carry.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1133">
+        <Page social="4">This is it—the first step toward...&lt;BR&gt;&lt;BR&gt;Total! Magic! Reversal!&lt;BR&gt;&lt;BR&gt;Our schemes are gathering momentum.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="204" villagerId="1133">
+        <Page social="0">{@LinkCreature:4#3041#Shurian mindbenders} have the mirrors we need for total...magic...reversal!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1007">
+        <Page social="4">With the fishing fleet tied up in port and everyone afraid to leave the village, we've got no income around here! And the situation's not gonna change anytime soon. The old days are gone forever—we've got to adapt to a new livelihood.&lt;BR&gt;&lt;BR&gt;And the way of the future, &lt;PCCLASS:lcase&gt;, is "hide."&lt;BR&gt;&lt;BR&gt;No, not "hide" like "try to keep the pirates from finding you." I mean "hide" like "retrieve the hides of the {@LinkCreature:11#4004#spiketail kamaras} and sell them at a tidy profit!"</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1007">
+        <Page social="4">Well done, &lt;PCNAME&gt;! You're leading by example—showing all those fishermen what the future looks like!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1007">
+        <Page social="0">Look, would you rather just wait on the docks like everyone else, thinking "maybe today will be the day that the pirates magically evaporate and we can get back to fishing," eh?&lt;BR&gt;&lt;BR&gt;I thought not. Get those {@LinkCreature:11#4004#spiketail kamaras}!</Page>
+    </Text>
+</QuestDialog>

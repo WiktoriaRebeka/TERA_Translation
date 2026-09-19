@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="4">Some nexus creatures carry around damaged versions of those small teinocron boxes.&lt;BR&gt;&lt;BR&gt;We don't think it's an emotional attachment, so the broken boxes must still have some use. Studying damaged teinocrons might give us some clue as to what the unbroken ones are used for, and that could prove valuable to the Agnitor.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1002">
+        <Page social="4">Excellent work recovering these damaged teinocrons.&lt;BR&gt;&lt;BR&gt;If my hypothesis is correct, they need these devices to protect them from the energy of the nexus, or they carry them to help sustain the nexus. How the damaged ones might function is not completely clear, to be honest.&lt;BR&gt;&lt;BR&gt;Thanks for your help.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="1022" villagerId="1002">
+        <Page social="0">Kill lesser creatures in the nexus and collect their damaged teinocrons. If we're right, they'll definitely carry them.</Page>
+    </Text>
+</QuestDialog>

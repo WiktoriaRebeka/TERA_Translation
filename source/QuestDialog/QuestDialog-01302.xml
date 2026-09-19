@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1032">
+        <Page social="4">I'm the b-bravest imp—sneaky and b-brave! Mysterium wants me to climb the strange argon devices and leave b-bombs. I can sneak past argons, no problem. B-but the sabertooths, they can smell me.&lt;BR&gt;&lt;BR&gt;Would you stop the sabertooths from smelling for a while, and can you hurry? Mysterium said something about time b-being important.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1032">
+        <Page social="4">You're b-better than I expected!</Page>
+    </Text>
+</QuestDialog>

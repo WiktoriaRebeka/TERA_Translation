@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1111">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1111">
+        <Page social="4">No one's sure why the arachnens are working alongside the nagas, but it's a deadly combination. My advice is to kill them all, but I'd start with the {@LinkCreature:10#1#arachnen warriors}.&lt;BR&gt;&lt;BR&gt;Let's keep it simple. You kill them and I'll pay you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1111">
+        <Page social="4">Clearly the arachnens aren't the only predators around. You're one to watch!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1111">
+        <Page social="0">Certainly the {@LinkCreature:10#1#arachnen warrior} is dangerous, but think of the gold!</Page>
+    </Text>
+</QuestDialog>

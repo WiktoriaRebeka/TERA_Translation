@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1010">
+        <Page social="0">&lt;PCNAME&gt; met a scout from the Baaldaz Post and learned the location of Archdeva Temporary Post. Using the truth needle, &lt;PCNAME&gt; seized a dark magic map.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1010">
+        <Page social="4" voiceTypeId="0">One of my scouts reported archdevan activity nearby in Verdantfire Rift. They are excavating something, but we do not know what.&lt;BR&gt;&lt;BR&gt;Seek the scout; his name is Marat. He knows every archdevan camp and patrol in the area. He will know where to find what you seek.&lt;NEXTPAGEBUTTON&gt;"I'll talk to him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1110">
+        <Page social="4" voiceTypeId="0">Greetings, outlander. Welcome to our land.&lt;BR&gt;&lt;BR&gt;I am sorry to say that I have not seen any sort of apparatus which might somehow affect the Storm Barrier, but I suspect that only their most trusted officers would know where it might be found.&lt;BR&gt;&lt;BR&gt;Hm. As luck would have it, there is a high-ranking officer in their cave camp, just inside the Verdantfire Rift. Follow the path just over the hill, then look to your left. You should see the cave entrance.&lt;NEXTPAGEBUTTON&gt;"Leave it to me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="208">
+        <Page social="4" voiceTypeId="0">What was that you...?&lt;BR&gt;&lt;BR&gt;I feel odd...like I've drunk too much wine...are we at the beach yet? I want to work on my tan.&lt;BR&gt;&lt;BR&gt;We can't stay long...I need to get back to the Energia Celo...it's my shift!&lt;NEXTPAGEBUTTON&gt;"I'll get you back. Where is it, again?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">The entrance...it always changes...need the shifting map... &lt;NEXTPAGEBUTTON&gt;"Right! The map! Where did you put it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It's inside this chest...but you should know that. Why don't you...?&lt;BR&gt;&lt;BR&gt;Wait...who are you? How did you get in here?&lt;NEXTPAGEBUTTON&gt;Back off&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Oh, thank you, outlander!&lt;BR&gt;&lt;BR&gt;But, please: There are more prisoners above. Do you see that ladder? They're all up there.&lt;BR&gt;&lt;BR&gt;Please, you have to help them, too!&lt;NEXTPAGEBUTTON&gt;"Don't worry."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Free!&lt;BR&gt;&lt;BR&gt;Thank you, stranger! You saved me!&lt;NEXTPAGEBUTTON&gt;"I'll draw them off. When I do—run!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1013">
+        <Page social="4" voiceTypeId="0">I'll help you fight them! Just...need to...get my strength back...&lt;NEXTPAGEBUTTON&gt;"Plenty of time for that later. I've got this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="7" villagerId="1001">
+        <Page social="4" voiceTypeId="0">I was waiting for you, &lt;PCNAME&gt;!&lt;BR&gt;Hagand told me about his research on the devastones you gathered for him.&lt;BR&gt;&lt;BR&gt;He thinks the archdevas use it for their blood magic, which explains why they were so keen to protect it.&lt;BR&gt;&lt;BR&gt;If we can find their lab, we can probably rescue some of their victims.&lt;NEXTPAGEBUTTON&gt;"I have a map to their laboratory."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You know where it is? Excellent!&lt;BR&gt;&lt;BR&gt;Maybe now we can get to the bottom of this...and re-enable the teleportal to Velika!&lt;NEXTPAGEBUTTON&gt;"You might be right. One way to find out."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

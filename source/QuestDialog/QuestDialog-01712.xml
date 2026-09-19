@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="493" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Fraya, the new incarnation of the Core, returned to Allemantheia and used her power to track down Akasha. You and Elleon went to Fyrmount to break into Akasha's Hideout and confront her.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5" voiceTypeId="0">We saved the Core, but Akasha and Thulsa won't stop until Allemantheia is in ruins.&lt;BR&gt;&lt;BR&gt;Fraya says that Thulsa is hiding, but Akasha is still in Fyrmount. I'd love to cut her throat, but that last fight took a lot out of me.&lt;BR&gt;&lt;PCNAME&gt;I need your help. Once more unto the breach! Let's end Akasha's threat. Meet me at the Shurian Reserve Camp, Fyrmount.&lt;BR&gt;&lt;BR&gt;—Elleon.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1101">
+        <Page social="5" voiceTypeId="0">Fraya says Akasha's Hideout is deep underground. And I may have found a teleportal to take us there!&lt;BR&gt;&lt;BR&gt;One other thing: there have been lots of kidnappings in the last few days. Whatever Akasha is up to, it may require sacrificial victims.&lt;NEXTPAGEBUTTON&gt;"Let's go!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Indeed. No point in giving her time to plan another escape, eh?&lt;BR&gt;&lt;BR&gt;Take the path on the right to the {@linkcreature:204#1501#teleportal}.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3006" prevId="3" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Feel the dark energy—the way it pulses? Eerie, isn't it?&lt;BR&gt;&lt;BR&gt;That's an argon signature.&lt;NEXTPAGEBUTTON&gt;"Akasha has argons?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Perhaps. Or perhaps the argons have Akasha. Doesn't matter.&lt;BR&gt;&lt;BR&gt;The argons are only one of our problems. She's got gates locking everything down, and the key is the life-force of her most horrid creations. Turion, her champion of pestilence, binds the first gate. Adanok, her most blood-thirsty servant, guards the second. Get moving. I'll scry ahead to find our next obstacles.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="3006" prevId="4" villagerId="1006">
+        <Page social="5" voiceTypeId="0">There are few soldiers of your caliber, but don't get cocky. We've got to get past Nadaim, the Champion of Plague, to open the third gate. Then we must visit an enemy from my past—Karascha!&lt;NEXTPAGEBUTTON&gt;"Karascha? From the Island of Dawn?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Indeed. That fiend nearly did me in.&lt;BR&gt;&lt;BR&gt;If Akasha chose to resurrect Karascha...maybe she knew we'd come here. It's almost like she's taunting us.&lt;BR&gt;&lt;BR&gt;It doesn't matter. We've quite a gauntlet ahead of us.&lt;BR&gt;&lt;BR&gt;Find the strange seal in Karascha's Menagerie and operate it to open a path to either Shargrim or Lugribar.&lt;NEXTPAGEBUTTON&gt;"What next?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">When they are defeated, the Plagueheart to Akasha's Chamber will appear.&lt;BR&gt;&lt;BR&gt;Use the Plagueheart to open the door. After that, kill Akasha.&lt;BR&gt;&lt;BR&gt;I'll go to Fyrmount to see where Thulsa is hiding.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="3006" prevId="5" villagerId="1005">
+        <Page social="5" voiceTypeId="0">Feel that energy? So much stronger here than at the entrance. This must be the teleportal that takes us to Akasha!&lt;BR&gt;&lt;BR&gt;Let's hope it's not a one-way trip, eh?</Page>
+    </Text>
+</QuestDialog>

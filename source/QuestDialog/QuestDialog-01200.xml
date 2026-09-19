@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1017">
+        <Page social="4">Our venators spotted a new type of argon near the Dryuul Cyasma Infuser. They don't appear to be soldiers, but we don't know their true function. Gatherers of some sort, maybe?&lt;BR&gt;&lt;BR&gt;Go kill a few and bring me something to study.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1017">
+        <Page social="6">What did you learn? Are these gatherers a threat?&lt;NEXTPAGEBUTTON&gt;"Indeed. I found these."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">But these are hearts...and they're not argon at all.&lt;BR&gt;&lt;BR&gt;Blast and damnation! The argons augment their forms with our components? They gain strength as we lose it!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" villagerId="1017">
+        <Page social="0">I need clues to figure out what these new argons are all about, &lt;PCNAME&gt;. Get moving.</Page>
+    </Text>
+</QuestDialog>

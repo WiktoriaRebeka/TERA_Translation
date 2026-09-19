@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="240" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="240" prevId="0" villagerId="1013">
+        <Page social="4">The {@LinkCreature:40#18#violent mycanars} are victims of the mutation plague, too. A study of their cores might reveal much about the sickness. Will &lt;PCNAME&gt; obtain a few mycanodules for me?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1013">
+        <Page social="4">So that's what they look like. Well, I'll get right to work.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="240" villagerId="1013">
+        <Page social="0">Kill the {@LinkCreature:40#18#violent mycanars}, and bring me their nodules. I cannot do this without them.</Page>
+    </Text>
+</QuestDialog>

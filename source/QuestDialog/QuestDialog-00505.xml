@@ -1,0 +1,41 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1137">
+        <Page social="4" voiceTypeId="0">Commander Seir's got a burr in his britches about these Scions of Lok. He wants someone more experienced, but I think you can handle it.&lt;BR&gt;&lt;BR&gt;Reports came in about a Scion base in the Tenebrous Mines. Meet Primus Jakarian in Chebika and tell him I've given you operational command over the mission. Sack the base and kill its leaders.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Samael is under orders to investigate reports of a new Scion hideout in the Tenebrous Mines. He dispatched you to Chebika to coordinate with the Justicars, but the search produced nothing of value. Indeed, you became convinced the rumor was a setup of some sort.&lt;BR&gt;&lt;BR&gt;The Justicars, however, ignored your remarks and insisted the threat was genuine.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="65" prevId="1" villagerId="1009">
+        <Page social="12" voiceTypeId="0">Sorry to make you come all this way for nothing, but I've already scouted it and it's just an old mine with a giant weapon sticking out of it. The usual.&lt;BR&gt;&lt;BR&gt;You can return to Velika, if you wish. Job well done!&lt;NEXTPAGEBUTTON&gt;"I'll see for myself, thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Suit yourself. Lupus is still at the mines dealing with some problem with the walking dead.&lt;BR&gt;&lt;BR&gt;You can lend a hand. Head out the western gate and report to Kusbert.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="65" prevId="3" villagerId="1029">
+        <Page social="4" voiceTypeId="0">Glad to see you, &lt;PCCLASS:lcase&gt;. The justicars could really use an extra body in the Tenebrous Mines. Head up the hill and report to Lupus.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="220" prevId="4" villagerId="1035">
+        <Page social="4" voiceTypeId="0">I'm so glad to have some help.&lt;BR&gt;&lt;BR&gt;No time for recriminations, just find {@linkCreature:20#30012000#zombie slaves} and kill them. Take anything you find to Ruanal. He's hiding in the Halls of Gloom.&lt;BR&gt;&lt;BR&gt;We've much to do and no time to talk. We have to get to the bottom of this Scion mystery. Get moving!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="220" prevId="5" villagerId="1028">
+        <Page social="12" voiceTypeId="0">Thank the gods. I've been hiding for ages! Wait, you're not a justicar...how did you find me?&lt;BR&gt;&lt;BR&gt;No matter. No matter. What do you have there?&lt;NEXTPAGEBUTTON&gt;"Journals I found on the zombie slaves."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="12" voiceTypeId="0">This...what an incredible find. It tells the location of a Scion hidden weapon they plan to use to take over the mine!&lt;BR&gt;&lt;BR&gt;Listen , it's of the utmost importance you get this intelligence to &lt;font color='#0080FF'&gt;Talfryn&lt;/font&gt; right away. He's at the Reliquary Station in the Halls of Shadow.&lt;BR&gt;&lt;BR&gt;Tell him the weapon is in the Halls of Shadow.&lt;BR&gt;&lt;BR&gt;There's a teleportal ready, it'll help you to the second floor.&lt;/font&gt; Go now!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="220" villagerId="1028">
+        <Page social="0">Talfryn, Reliquary Station, Halls of Shadow—go!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="220" prevId="6" villagerId="1013">
+        <Page social="4" voiceTypeId="0">A hidden weapon you say? On the second floor...&lt;BR&gt;&lt;BR&gt;I need you to get down there—and I mean now! Find that weapon, or weapons, or whatever they have down there.&lt;BR&gt;&lt;BR&gt;Take what you find to Jesper in the Utterdark Outpost on the third floor.&lt;BR&gt;&lt;BR&gt;To make sure that you don't get caught, use this Teleport Scroll. Got it? Move, soldier!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="220" prevId="8" villagerId="1037">
+        <Page social="0" voiceTypeId="0">(There is an old hammer inside this crate.)</Page>
+    </Text>
+    <Text id="10" huntingZoneId="220" prevId="8" villagerId="1038">
+        <Page social="0" voiceTypeId="0">(You find a rusty pair of scissors inside this crate.)</Page>
+    </Text>
+    <Text id="11" huntingZoneId="220" prevId="9" villagerId="1039">
+        <Page social="4" voiceTypeId="0">These don't look like the shockingly dangerous weapons I'd have expected. Maybe they do something...else?&lt;BR&gt;&lt;BR&gt;I expect there is some power within that we can't detect.&lt;NEXTPAGEBUTTON&gt;"I expect we were set up."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="8" voiceTypeId="0">What? That's not possible. Just look at these weapons! They're heinous!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="220" villagerId="1039">
+        <Page social="0">Have you found the weapons yet?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1019">
+        <Page social="4">&lt;PCNAME&gt;, I'm tired of excuses from everyone around here. "The faeries make logging impossible!" "We can't meet our quota!" "My arm's cut off!" Boo hoo!&lt;BR&gt;&lt;BR&gt;Now, my foreman, &lt;font color='#660000'&gt;Weldon&lt;/font&gt;, says he can't fix a simple broken bridge! What a whiner.&lt;BR&gt;&lt;BR&gt;Take these tools to him at the &lt;font color='#660000'&gt;Woodcutter Palisade&lt;/font&gt;, would you?&lt;BR&gt;&lt;BR&gt;Maybe then, he can figure out a way to get some timber out of the woods.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1001">
+        <Page social="4">Lennert is out of his mind! He's a problem-solver...for problems I don't have. I send messages like "the centaurs trampled my entire crew and ruined the bridge," and what do I get? A shipment of new axes and saws!&lt;BR&gt;&lt;BR&gt;Nothing's gonna get done around here until the forest creatures settle down.&lt;BR&gt;&lt;BR&gt;Can you lend a hand, &lt;PCNAME&gt;? I'll never get anything useful out of Lennert.</Page>
+    </Text>
+</QuestDialog>

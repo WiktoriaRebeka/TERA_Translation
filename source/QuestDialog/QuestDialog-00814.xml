@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1004">
+        <Page social="4">Those awful {@LinkCreature:34#1010#icereaver giants} attacked a mining team and stalked off with their eldritch shards.&lt;BR&gt;&lt;BR&gt;I don't know what the giants would do with shards, but we want them back.&lt;BR&gt;&lt;BR&gt;The shards, of course. The giants, not so much.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1004">
+        <Page social="4">With this shipment of shards safely returned, we can get this shipment out and pay for resupply.&lt;BR&gt;&lt;BR&gt;Aren't the giants just awful? Hard to imagine the civilized baraka are even remotely related.&lt;BR&gt;&lt;BR&gt;Well, thanks!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1004">
+        <Page social="0">Oh, they're around. Scour the Howling Glacier and the Screaming Snowfield.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1012">
+        <Page social="5">The poporis need gear, but Velika has been slow to useless about sending any here. I guess we'll have to take matters into our own hands.&lt;BR&gt;&lt;BR&gt;Chop down some {@LinkCreature:23#2#ironwood ghilliedhus} and collect their bark. That stuff makes decent shields.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1012">
+        <Page social="5">I'll crank out some shields.&lt;BR&gt;&lt;BR&gt;You've saved some lives today, &lt;PCNAME&gt;. Hopefully, it'll earn you a transfer to a region with bigger problems than this.&lt;BR&gt;&lt;BR&gt;Still, it's the little steps we take now that pay off big in the end.&lt;BR&gt;&lt;BR&gt;I hope.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1012">
+        <Page social="0">I know this isn't glamorous, but the poporis are our allies. We need to help them as best we can.&lt;BR&gt;&lt;BR&gt;So, get back out there and bring back some bark.</Page>
+    </Text>
+</QuestDialog>

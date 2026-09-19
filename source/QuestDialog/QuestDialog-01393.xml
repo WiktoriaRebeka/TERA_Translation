@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="257" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="257" prevId="0" villagerId="1010">
+        <Page social="4">The argons are in control of the Hatchery. The threat against the sikandaris' eggs kept them in line, but by saving the eggs, we might stop Killian and Thulsa's master plan.&lt;BR&gt;&lt;BR&gt;Get in there and clear out the akalath warlords. We'll use their shields as cradles! They've no decency at all, to threaten younglings like this.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1010">
+        <Page social="4">Look at these shields! Those were no argon minions. Those were some of their strongest destroyers—well done!&lt;BR&gt;&lt;BR&gt;We'll keep at it, finish off the rest of the argons and the fimbrilisks. You've done your part—and then some!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="257" villagerId="1010">
+        <Page social="0">Is it done? Did you deal with the warlords yet?</Page>
+    </Text>
+</QuestDialog>

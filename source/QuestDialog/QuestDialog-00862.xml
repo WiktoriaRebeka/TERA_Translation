@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1015">
+        <Page social="9">Sandlurker lizards! They're under the same curse as all the other animals.&lt;BR&gt;&lt;BR&gt;Poor, unfortunate creatures. The only thing to do is to eliminate them and sell their valuable, valuable hides.&lt;BR&gt;&lt;BR&gt;Tragic.&lt;BR&gt;&lt;BR&gt;I'm afraid they're much too big for me, so I'll need you to handle them. Bring back the hides and I'll give you a cut.&lt;BR&gt;&lt;BR&gt;Also, be sure not to mention that you've seen me.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1015">
+        <Page social="8">Fantastic! These will sell for...well, the most important thing is that those cursed creatures aren't hurting people anymore.&lt;BR&gt;&lt;BR&gt;That's my main concern, of course.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" villagerId="1015">
+        <Page social="0">I can't sell air, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Not yet, anyway...but that's not a terrible idea....&lt;BR&gt;&lt;BR&gt;I'll get to work on that plan. You bring me some hides.</Page>
+    </Text>
+</QuestDialog>

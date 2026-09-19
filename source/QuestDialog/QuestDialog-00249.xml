@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1001">
+        <Page social="4">We need to hurt the nagas. I want you to hunt down {@LinkCreature:10#22#Malagash}. He's one of their best warlords and a cursed beast on the battlefield.&lt;BR&gt;&lt;BR&gt;You take him out and we just might have a chance against the nagas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1001">
+        <Page social="4">Malagash is slain? Incredible!&lt;BR&gt;&lt;BR&gt;I didn't dare to dream of this moment. Excellent work!</Page>
+    </Text>
+</QuestDialog>

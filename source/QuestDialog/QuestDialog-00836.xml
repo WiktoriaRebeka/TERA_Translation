@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1010">
+        <Page social="9">Ramsleigh thinks the vulcans are to blame for the deaths of countless soldiers. The truth? Thulsa's minions are a gold piece a dozen in Wyrmgorge. He just wants someone to blame.&lt;BR&gt;&lt;BR&gt;The maligoses, as well as vulcans, crush our soldiers like scorpions under their heels.&lt;BR&gt;&lt;BR&gt;But you...you're very strong. You can take them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1010">
+        <Page social="6">I wasn't sure it could be done. My hat is off to you, &lt;PCNAME&gt;!</Page>
+    </Text>
+</QuestDialog>

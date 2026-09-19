@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1013">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1013">
+        <Page social="4">The mercenaries are nothing after you've gone toe to toe with the {@LinkCreature:32#10#Sihran witches} and {@LinkCreature:32#11#polykinds}.&lt;BR&gt;&lt;BR&gt;Just the sound of their spells sizzling through the air...well, if you think the mercenaries give you nightmares, there aren't words for what the witches will give you.&lt;BR&gt;&lt;BR&gt;If someone could get them off the field, we'd have a much easier time of things.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1013">
+        <Page social="4">No matter how brave you are, not having to face the witches again is a relief! Thanks!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" villagerId="1013">
+        <Page social="0">If you eliminate the Sihran {@LinkCreature:32#10#witches} and {@LinkCreature:32#11#polykinds}, we can all get out of here a little sooner.</Page>
+    </Text>
+</QuestDialog>

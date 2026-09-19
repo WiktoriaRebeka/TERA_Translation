@@ -1,0 +1,50 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Elleon is looking for &lt;PCNAME&gt; to discuss what to do next.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; met Vogzu, the leader of Free Exodor. an organization founded to stand against the Draakons. Vogzu suggests that &lt;PCNAME&gt; and the Nagas help each other.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="20109">
+        <Page social="0">The villagers are safe now. Thank you &lt;PCNAME&gt;. But there's still more people trapped someplace.&lt;BR&gt;&lt;BR&gt;We need to find them all and stop Exodor.&lt;BR&gt;&lt;BR&gt;The villagers and Titus already headed up. We should follow them.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" prevId="3" villagerId="20101">
+        <Page social="0" voiceTypeId="0">It won't work.&lt;BR&gt;&lt;BR&gt;It's impossible to move so many people. You should know that.&lt;BR&gt;&lt;BR&gt;I need to talk to Elleon. I have to know what he's thinking. With so many people, it's just a matter of time before we get caught.&lt;BR&gt;&lt;BR&gt;If Elleon thinks that rescuing people is more important than putting an end to Exodor, I need to say that I'm good without him.&lt;NEXTPAGEBUTTON&gt;"Calm down."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You're right...I am so frustrated. I can't stand to look at Elleon's face right now.&lt;BR&gt;&lt;BR&gt;Can you go to Elleon and ask what he's thinking?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2001" prevId="4" villagerId="20301">
+        <Page social="4" voiceTypeId="0">I can understand Titus's frustration.&lt;BR&gt;&lt;BR&gt;But my priority is to secure the civilians. I should make this clear.&lt;BR&gt;&lt;BR&gt;We should gather up, and I'll have a word with everyone.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2001" prevId="5" villagerId="20301">
+        <Page social="4" voiceTypeId="0">All right, splitting up sounds like a good plan.&lt;BR&gt;&lt;BR&gt;Titus, Amarre, and Aurl should look for a safe place the villagers can stay.&lt;BR&gt;&lt;BR&gt;In the meantime, you and I will follow Jelena and see if there are any villagers left behind.&lt;BR&gt;&lt;BR&gt;We should take flares so we can keep in touch.&lt;BR&gt;&lt;BR&gt;Let's move. Quick.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2001" prevId="6" villagerId="20303">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, look. It's a mark from Jelena.&lt;BR&gt;&lt;BR&gt;We'll catch up with her in no time if we search the area ahead for more marks.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2001" villagerId="20400">
+        <Page social="0">Wow, you caught up faster than I expected.&lt;BR&gt;&lt;BR&gt;Take a look over there. Looks like someone's captured, right?&lt;BR&gt;&lt;BR&gt;That's definitely not a naga. It's one of our people. But wait...there's a captured naga too? That's strange...&lt;BR&gt;&lt;BR&gt;Anyway, Elleon and I will find out if there are more people to save. I'll leave this bunch to you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2001" prevId="8" villagerId="22020">
+        <Page social="4" voiceTypeId="0">Could it be...? &lt;PCNAME&gt;!!&lt;BR&gt;&lt;BR&gt;Thank you so much! I never thought I'd be saved by you.&lt;BR&gt;&lt;BR&gt;The first nagas we met here were different from the nagas that captured us.&lt;BR&gt;&lt;BR&gt;They helped us a lot before you came.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2001" prevId="9" villagerId="20810">
+        <Page social="1">Thank...you...It's quite surprising to see a stranger who wasn't captured.&lt;BR&gt;&lt;BR&gt;Our best way out of here is for you to defeat these nagas in the Scout Camp.&lt;BR&gt;&lt;BR&gt;Then, head south from the Scout Camp and down and you'll reach my village. The villagers are cautious. Signal as you enter, and I shall meet you there.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2001" prevId="10" villagerId="20605">
+        <Page social="0">Let me introduce myself. My name is Regarn. I'm a member of Free Exodor, a resistance force against the draakons.&lt;BR&gt;&lt;BR&gt;Vogzu, our leader, is waiting for you with your companions.&lt;BR&gt;&lt;BR&gt;Come, follow me.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2001" prevId="10" villagerId="20501">
+        <Page social="1" voiceTypeId="0">You saved our people and taught those Azart scumbags a lesson! Thank you.&lt;NEXTPAGEBUTTON&gt;"What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">This place is home for the Rosema tribe and also one of Free Exodor's hideouts.&lt;BR&gt;&lt;BR&gt;Just like the other nagas, we were forced to this place with orders to take care of the Murderwings and Mournwings.&lt;BR&gt;&lt;BR&gt;Just before you arrived, Rogash came to take our people to use as his experimental objects...he even slaughtered our people who refused to.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2001" prevId="12" villagerId="20501">
+        <Page social="1" voiceTypeId="0">Those damn draakons...they always think of us as their slaves. That's why I founded Free Exodor.&lt;BR&gt;&lt;BR&gt;We pretend to follow their orders...but we're doing everything we can to stand against them.&lt;BR&gt;&lt;BR&gt;My only wish is to free all the nagas and leave this place.&lt;NEXTPAGEBUTTON&gt;"What do you want?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I realized that we could help each other when I saw you fighting with Rogash's men.&lt;BR&gt;&lt;BR&gt;I know why you're here.&lt;BR&gt;&lt;BR&gt;You wish to stop Exodor, right?&lt;BR&gt;&lt;BR&gt;I haven't seen it for myself, but there's an engine in the Dark Fortress that runs Exodor.&lt;NEXTPAGEBUTTON&gt;"Where's the Dark Fortress?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The Dark Fortress is in the deepest place of this skycastle.&lt;BR&gt;&lt;BR&gt;I can help you get there.&lt;NEXTPAGEBUTTON&gt;"Where are the villagers?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You won't find them here. They're at the other side.&lt;BR&gt;&lt;BR&gt;If you don't hurry, they'll be used as Lumikan's and Rogash's experiments .&lt;NEXTPAGEBUTTON&gt;"What should I do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Do what you must do.&lt;BR&gt;&lt;BR&gt;Go east and you'll find a Free Exodor Camp.&lt;BR&gt;&lt;BR&gt;Help our people there. I give you my word that you'll get help as well in return.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2001" prevId="13" villagerId="20304">
+        <Page social="4" voiceTypeId="0">I never thought I'd get help from a stranger. Thanks, Vogzu!&lt;BR&gt;&lt;BR&gt;But Rogash got your people...? That's horrible...</Page>
+    </Text>
+</QuestDialog>

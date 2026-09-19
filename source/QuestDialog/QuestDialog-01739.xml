@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Braga in Highwatch wishes to meet you.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Braga in Highwatch wishes to meet you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2106">
+        <Page social="0" voiceTypeId="0">I heard you've been re-outfitting yourself with more powerful gear. Good, Good, we need you back on the front lines as soon as possible.&lt;BR&gt;&lt;BR&gt;Do you mind if I take a look at your equipment?&lt;NEXTPAGEBUTTON&gt;"Help yourself."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Not bad.&lt;BR&gt;&lt;BR&gt;You've done an almost complete equipment refresh. And it can all be &lt;font color='#FF0000'&gt;upgraded&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;You're just missing a couple pieces, and I can help you with that.&lt;BR&gt;&lt;BR&gt;You'll need...a brooch,a circlet,and some inner armor. &lt;BR&gt;&lt;BR&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2106">
+        <Page social="0" voiceTypeId="0">Let me give you an innerwear coupon and a brooch.&lt;BR&gt;&lt;BR&gt;For the next phase of your development, you'll want an item level of at least &lt;font color='#FF0000'&gt;428&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;You should also be looking ahead to enchanting and upgrading your gear to face more serious challenges. You'll find what you need by completing dungeons.&lt;NEXTPAGEBUTTON&gt;"Dungeons?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Indeed. Dungeons drop all sorts of enchanting materials. And when you fully enchant a piece of gear, you can upgrade it to a more powerful version. Your accessories can be upgraded at any time, assuming you have the right materials at hand.&lt;BR&gt;&lt;BR&gt;Eventually, you'll want an &lt;font color='#FF0000'&gt;item level of at least 439&lt;/font&gt; to tackle even tougher challenges.&lt;BR&gt;&lt;BR&gt;I have faith that you'll make us all proud!</Page>
+    </Text>
+</QuestDialog>

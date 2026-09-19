@@ -1,0 +1,44 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="618" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Urgent Letter]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;. Please return to Kaiator as soon as possible. The Goddess is angry, and calls for your counsel.&lt;BR&gt;&lt;BR&gt;- Tamur</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You brought word about Argon activity in the Exodor Archipelago to Kaia.&lt;BR&gt;&lt;BR&gt;Furious at the corruption and further defilement of Kelsaik's remains, Kaia decided to equip you with better gear, forged with an ancient process unknown to mortal smiths.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="84" prevId="1" villagerId="1088">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, you're here! and not a moment too soon.&lt;BR&gt;&lt;BR&gt;The Commander is waiting for you inside.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5005">
+        <Page social="4" voiceTypeId="0">It's a pleasure to see you again &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;I just wish it was under better circumstances. Elleon's passing will have repercussions far beyond the loss of a true friend.&lt;BR&gt;&lt;BR&gt;Is it true that the Argons are active in the Exodor Archipelago? The strategic implications of this do not bode well, and Kaia is furious.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you must speak to her as soon as possible.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="528" prevId="4" villagerId="5032">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, you and I have seen firsthand that the Argons can never be defeated, but I at least hoped we had them contained.&lt;BR&gt;&lt;BR&gt;But this latest atrocity must not...they dare...they DARE to mutilate the body of a god! This is an outrage I cannot forgive—or forget.&lt;BR&gt;&lt;BR&gt;You must bring me some of their new weapons. Bring them to me, and I will help you forge weapons and armor more powerful than any mortal smith can imagine.&lt;BR&gt;&lt;BR&gt;Return to Exodor, &lt;PCNAME&gt;, and be my sword again.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="528" prevId="5" villagerId="5032">
+        <Page social="0">Job well done &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;This won't take long. Please wait while I examine these.&lt;NEXTPAGEBUTTON&gt;"Yes, Shieldmaiden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hmmm...&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I can sense the strength of Balder within these items. Specifically the energy of his eyes, which light our world. &lt;BR&gt;&lt;BR&gt;Azarts, Argons, I no longer care. All who steal from the gods and corrupt their power must be held accountable.&lt;BR&gt;&lt;BR&gt;We must forge a powerful weapon for you as soon as possible.&lt;NEXTPAGEBUTTON&gt;"When do we start?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">For the designs I have in mind we'll need a special kind of anvil, one equal to that used to forge the Spear of Gidd.&lt;BR&gt;&lt;BR&gt;The only living smith who can...use one is Fovarth, in Habere.&lt;BR&gt;&lt;BR&gt;Go to Fovarth, &lt;PCNAME&gt;, and I will join you directly.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="528" prevId="5" villagerId="5032">
+        <Page social="0">You must find a clue to their power source.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="411" prevId="6" villagerId="5017">
+        <Page social="4" voiceTypeId="0">Kaia wants me to prepare an anvil to forge a new kind of gear?&lt;BR&gt;&lt;BR&gt;I knew a day like this would come. The Shieldmaiden's wish is my command.&lt;BR&gt;&lt;BR&gt;Just give me the specifications and I'll begin.&lt;NEXTPAGEBUTTON&gt;"Only she knows them."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Then we shall await her arrival.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="411" prevId="8" villagerId="7000">
+        <Page social="4" voiceTypeId="0">Fovarth. You are among the finest mortal smiths I have ever seen.&lt;BR&gt;&lt;BR&gt;When Balder locked the power of the gods away, I lost the ability to create great weapons. But you, you have transcended your nature, and have the skills we need to succeed against the Argons.&lt;BR&gt;&lt;BR&gt;To make what &lt;PCNAME&gt; needs, you and I must prepare an anvil with two specific materials.&lt;BR&gt;&lt;BR&gt;I have the first with me, but &lt;PCNAME&gt; must supply the other.&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Sikander was once surrounded with a blazing aura called the Sikandari Fire.&lt;BR&gt;&lt;BR&gt;Although Sikander is gone, even the slightest ember of that fire will be enough to complete the anvil.&lt;NEXTPAGEBUTTON&gt;"Where can I find it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Within Kelsaik.&lt;BR&gt;&lt;BR&gt;Even though the Azart have resurrected him with Argon power, some portion of his former life as the god Sikander must remain.&lt;BR&gt;&lt;BR&gt;Engage him in battle, and bring back a Primal Ember formed from his essense.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="411" prevId="9" villagerId="7000">
+        <Page social="0">I never thought I'd see this again, let alone hold it in my hands.&lt;BR&gt;&lt;BR&gt;To stop the Argons, this small ember must be fanned into a living flame.&lt;BR&gt;&lt;BR&gt;Prepare yourself, Fovarth.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="411" prevId="9" villagerId="7000">
+        <Page social="0">We need that ember. Without the ember we can't forge you a weapon equal to your task.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="411" prevId="10" villagerId="5017">
+        <Page social="4" voiceTypeId="0">I...such power... It's impossible to describe this feeling.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, the anvil stands ready. Come back to me when you are ready to upgrade your gear.</Page>
+    </Text>
+</QuestDialog>

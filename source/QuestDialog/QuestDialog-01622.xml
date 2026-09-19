@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="213" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="0">When &lt;PCNAME&gt; arrived at the Island of Dawn, it had changed drastically.  According to Adria, the magic that once protected the island was gone; the World Tree was dead and burned. Now the island was the domain of great and terrible monsters. Adria asked for &lt;PCNAME&gt;'s help getting rid of them.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="4">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;We have lost our base on the Island of Dawn. Come to me in Highwatch as soon as possible.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="4">Glad you could make it, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;As I said in my letter, Tower Base—our outpost on the Island of Dawn—has fallen. Details are sketchy right now, but the reports I'm getting sound pretty bad.&lt;BR&gt;&lt;BR&gt;If you have the time, I'd really appreciate it if you could head over there and see if you can help.&lt;NEXTPAGEBUTTON&gt;"Just how bad is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">I have a report from Adria that says that the World Tree has been completely destroyed, and our forces at Tower Base had to relocate to the dock at the north end of the island, in the Timeless Woods.&lt;BR&gt;&lt;BR&gt;She mentioned some pretty powerful monsters...not the kind we had ever seen on the island before.&lt;BR&gt;&lt;BR&gt;If you decide to go, talk to Adria. She can no doubt give you the whole story.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="8001">
+        <Page social="4">It's been ages since we last spoke, &lt;PCNAME&gt;. I heard you've had some pretty fantastic adventures...and I can see you've changed a lot. Seems like you're more poised, more confident.&lt;BR&gt;&lt;BR&gt;Thanks for coming.&lt;NEXTPAGEBUTTON&gt;"What happened? How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">The World Tree is dying. There was an explosion, and the entire tree was suddenly engulfed in flames.&lt;BR&gt;&lt;BR&gt;Shortly after, the monsters began to appear. There's a connection, I'm sure of it—but our first concern is driving off the monsters, so we can rescue anyone who might be trapped...and gather the bodies of the dead.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, if I can count on you to take out those monsters, I'll be able to spare troops to do search and rescue.&lt;NEXTPAGEBUTTON&gt;"You can count on me, Adria."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

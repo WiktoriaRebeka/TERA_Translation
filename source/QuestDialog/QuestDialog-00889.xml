@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1010">
+        <Page social="17">Killian's servants, naroder arachnens, have us surrounded, snd the way they wield those whips, it's like they have an endless supply of minions.&lt;BR&gt;&lt;BR&gt;If we don't strike, they'll overrun us.&lt;BR&gt;&lt;BR&gt;Can you help us?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1010">
+        <Page social="7">You really don't like arachnens, do you? It shows!&lt;BR&gt;&lt;BR&gt;The whips are a nice touch.&lt;BR&gt;&lt;BR&gt;Kaia's blessings be with you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1010">
+        <Page social="0">The naroder arachnens are still out there, &lt;PCNAME&gt;, bringing more and more pressure to bear against us!</Page>
+    </Text>
+</QuestDialog>

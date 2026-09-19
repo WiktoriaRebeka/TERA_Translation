@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="1">All those ancient prophecies and long-dead gods won't do us any good if the {@LinkCreature:30#510#direpaw mandrills} keep tearing everything apart.&lt;BR&gt;&lt;BR&gt;They've rampaged through the {@Rgn:30009$$Upper Archive}, but we must stop further damage so the researchers can continue with their work.&lt;BR&gt;&lt;BR&gt;Reduce their numbers the way only you can, and then report to Decurion {@LinkCreature:230#1001$$Litherus} who's in charge of the {@Rgn:30008$$Lower Archive}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1001">
+        <Page social="1">I was starting to worry about those {@LinkCreature:30#510#direpaw mandrills}, and you solve the problem before I can lift a finger. That's what I call "anticipation."</Page>
+    </Text>
+</QuestDialog>

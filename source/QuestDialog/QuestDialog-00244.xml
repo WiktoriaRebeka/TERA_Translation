@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1006">
+        <Page social="0">There's more to be done, but you're being transferred. You've done good work. I hate to lose you.&lt;BR&gt;&lt;BR&gt;Head to Kerozen Isle and check in with Ecryl at the Beachhead. Get moving!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1001">
+        <Page social="0">This is the major naga stronghold in Southern Arun. If we can keep them bottled up, everyone benefits.&lt;BR&gt;&lt;BR&gt;I'm told the slithering fools are trying to wake Dagon up. Let them waste their time and resources. Makes 'em easier to fight. See what Edine needs you to do and get on it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" prevId="3" villagerId="1002">
+        <Page social="0">Kerozen Isle is dangerous, but strategically valuable. Almost everything there wants to kill us, but that should sound familiar, eh &lt;PCNAME&gt;?</Page>
+    </Text>
+</QuestDialog>

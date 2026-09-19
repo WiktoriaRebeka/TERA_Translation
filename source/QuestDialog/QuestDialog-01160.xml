@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="1018">
+        <Page social="4">When we lost our flight platform, we constructed a series of improvised transport devices. Without those, we'd never risk leaving Kanstria.&lt;NEXTPAGEBUTTON&gt;"How do they work?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">They're not all that different from teleportals. Without the raw magical power to build a full-on teleportal network, we use {@RawItem:206811} to power them, and those aren't too hard to mine.&lt;BR&gt;&lt;BR&gt;Head out to {@Rgn:49002} and acquire {@RawItem:206811}. I hope you're proficient at mining.&lt;NEXTPAGEBUTTON&gt;"I've cracked a few rocks in my time."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Excellent. I'll meet you at the {@LinkCreature:249#1101}.&lt;BR&gt;&lt;BR&gt;Good luck!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1017">
+        <Page social="6">Good. You found it.&lt;BR&gt;&lt;BR&gt;South of here is the {@Rgn:49002}. The argons use them to siphon energy from the fields. You'll need to mine {@RawItem:206811} from {@Collection:106} before you can use the platform.&lt;BR&gt;&lt;BR&gt;Come find me again once you have it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="249" prevId="3" villagerId="1017">
+        <Page social="4">Now, use {@RawItem:206811} to activate the teleport platform.&lt;BR&gt;&lt;BR&gt;I'll see you in Kanstria.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="249" villagerId="1017">
+        <Page social="0">It's not easy to mine for {@RawItem:206811}, but it is easier when using the right equipment.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="4" villagerId="1018">
+        <Page social="6">Well done!&lt;BR&gt;&lt;BR&gt;The teleport platforms help us outmaneuver the argons. Pretty clever, don't you think?</Page>
+    </Text>
+</QuestDialog>

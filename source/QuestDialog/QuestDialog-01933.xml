@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="4">A nexus unleashes a vast amount of energy. We're curious about what effect that energy has on the land.&lt;BR&gt;&lt;BR&gt;Here is a specimen jar for storing contaminated samples. Enter a nexus and collect soil samples.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1002">
+        <Page social="4">With but a glance I can see the nexus leached out all the nutrients from the soil in this jar—the life-sustaining properties that make soil a home for plants and animals.&lt;BR&gt;&lt;BR&gt;This doesn't bode well for us. Not well at all.</Page>
+    </Text>
+</QuestDialog>

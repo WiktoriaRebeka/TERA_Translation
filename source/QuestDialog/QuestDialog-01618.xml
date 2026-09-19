@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2118">
+        <Page social="0">Rhodos, Paesyn, and &lt;PCNAME&gt; continued to pursue Dakuryon, but found Zolyn's flower coronet instead.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2118">
+        <Page social="4">Let's spread out to find Dakuryon.&lt;BR&gt;&lt;BR&gt;Perhaps your dog-friend can assist you. He seems most eager.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2139">
+        <Page social="4">&lt;PCNAME&gt;! I can help! I made a truth serum!&lt;BR&gt;&lt;BR&gt;Beat up one of their officers and use the serum to make them talk. It will help us save Zolyn!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" prevId="3" villagerId="1221">
+        <Page social="4">Your feeble magic can't overcome my loyalty to Dakuryon!&lt;BR&gt;&lt;BR&gt;Your mission is doomed!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="191" prevId="4" villagerId="2122">
+        <Page social="4">It seemed like a vine unlikely to bloom, but we had to try.&lt;BR&gt;&lt;BR&gt;No time to waste. Upstairs!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="191" prevId="5" villagerId="2140">
+        <Page social="4">&lt;PCNAME&gt;, look what I found…&lt;BR&gt;&lt;BR&gt;It's her coronet.&lt;BR&gt;&lt;BR&gt;Zolyn's here!</Page>
+    </Text>
+</QuestDialog>

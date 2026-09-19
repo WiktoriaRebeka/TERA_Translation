@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="0">You have learned how to make sarberry ice.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7101">
+        <Page social="1">Welcome, &lt;PCRACE:lcase&gt;! I'm afraid I'm out of ices right now. I wasn't expecting so many people at the festival, and it's so hot, they all want a sarberry ice!&lt;NEXTPAGEBUTTON&gt;"It certainly is hot. I'll come back."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Wait, wait! Don't go! If you fetch me some ice and sarberries from Luman's cart, just over there, I will show you how to make sarberry ice—and then you can help me pass them out!&lt;NEXTPAGEBUTTON&gt;"The cart's just over there? Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Thank you!&lt;BR&gt;&lt;BR&gt;Go get ice and sarberries from Luman.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7106">
+        <Page social="4">Huh? What? Lilan's out of ice already?&lt;BR&gt;&lt;BR&gt;Doesn't she realize how hot it is? This ice has to last all festival long!&lt;BR&gt;&lt;BR&gt;Fine! Here! Tell her not to use so much!&lt;NEXTPAGEBUTTON&gt;"I'll...tell her that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="7106">
+        <Page social="4">What? Are you still here?&lt;BR&gt;&lt;BR&gt;She needs sarberries, too?&lt;BR&gt;&lt;BR&gt;Why didn't you say so in the first place?&lt;BR&gt;&lt;BR&gt;Here! Sarberries! Okay? Anything else? No? Good!&lt;NEXTPAGEBUTTON&gt;"You're very...kind."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="7101">
+        <Page social="4">You got the ice from Luman? Isn't he just the sweetest thing?&lt;BR&gt;&lt;BR&gt;Now just put that chunk of ice in the ice shaver, and grind it up, and I'll give these sarberries to my assistant, Trilyn! &lt;NEXTPAGEBUTTON&gt;Say okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="5" villagerId="7102">
+        <Page social="4">Lilan gave you our secret recipe for sarberry ice? And she said I was her assistant? And that Luman was "sweet?" That girl is completely insane, and she's going to drive me insane one day too, I just know it...&lt;BR&gt;&lt;BR&gt;Well, you actually did help us. We did need more ice and sarberries...&lt;BR&gt;&lt;BR&gt;Okay, I'll show you how to make a sarberry ice.&lt;NEXTPAGEBUTTON&gt;"Looking forward to it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Just put the finely ground ice and the sarberries in a glass bowl...add sweet milk...and mix well! &lt;NEXTPAGEBUTTON&gt;"That seems easy enough."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" villagerId="7102">
+        <Page social="0">Put the ingredients in a glass bowl and mix them well.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="6" villagerId="7101">
+        <Page social="4">Thank you, &lt;PCNAME&gt;! You're back already? Wonderful! I knew my assistant could help you!&lt;BR&gt;&lt;BR&gt;I should give you a reward! I know! How about frozen sarberry dessert? It's like a sarberry ice, but it's a dessert!&lt;NEXTPAGEBUTTON&gt;"That...is pure genius. Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="230" villagerId="7101">
+        <Page social="0">Umm...yes...are you being served?&lt;BR&gt;&lt;BR&gt;Oh! &lt;PCNAME&gt;, it's you! Do you have some sarberries and ice for me?</Page>
+    </Text>
+</QuestDialog>

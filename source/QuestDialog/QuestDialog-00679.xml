@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1447">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1447">
+        <Page social="1">I was taking my first pegasus trip from Allemantheia to Bastion, and, well, the view from up there was so splendid...accidents happen!&lt;BR&gt;&lt;BR&gt;I just leaned over to get a better look. I leaned a little too far, I suppose.&lt;BR&gt;&lt;BR&gt;I had a knapsack full of valuable books, you see. Now they're scattered everywhere.&lt;BR&gt;&lt;BR&gt;Could you help me look for them?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1447">
+        <Page social="1">Thank you!&lt;BR&gt;&lt;BR&gt;Oh, my backside. We baraka are rather ungainly skydivers.&lt;BR&gt;&lt;BR&gt;I'll be a while getting back. Would you warn {@LinkCreature:71#1009$$Kiril} I'll be late?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1447">
+        <Page social="0">Imagine! Books falling from the sky! They must be somewhere nearby.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="3" villagerId="1009">
+        <Page social="1">Yes, we worried when the pegasus arrived empty.&lt;BR&gt;&lt;BR&gt;Thakun had never left Balder's Refuge before.&lt;BR&gt;&lt;BR&gt;Allemantheia must have sent him back without a guide—those idiots!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,14 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="827" prevId="0" villagerId="105">
+        <Page social="4" voiceTypeId="0">It got dark...I don't think Tiaran feels good.&lt;BR&gt;&lt;BR&gt;I'm scared, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">After playing with Anya, &lt;PCNAME&gt; and the young girl encountered a small horde of agitated ghilliedhus.&lt;BR&gt;&lt;BR&gt;The ghilliedhus were attempting to feed off of Tiaran's roots, until &lt;PCNAME&gt; stopped them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="827" prevId="1" villagerId="105">
+        <Page social="4" voiceTypeId="0">Oh, no! Ghilliedhus!&lt;BR&gt;&lt;BR&gt;They're mean! They steal the sap from Tiaran's roots and it makes her sick!&lt;BR&gt;&lt;BR&gt;You have to stop them, &lt;PCNAME&gt;! I'll go get Uncle Emun!&lt;NEXTPAGEBUTTON&gt;"I'll stop them, Anya. You be careful!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="827" prevId="3" villagerId="222">
+        <Page social="4" voiceTypeId="0">You just defeated three ghilliedhus pretty much by yourself, &lt;PCNAME&gt;! If I hadn't seen it, I wouldn't have believed it!&lt;BR&gt;&lt;BR&gt;I wonder what they're doing here? We've never had ghilliedhus out on the island before...&lt;NEXTPAGEBUTTON&gt;"How did they get here?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

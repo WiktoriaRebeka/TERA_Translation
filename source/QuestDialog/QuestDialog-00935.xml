@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1026">
+        <Page social="4">A...{@LinkCreature:39#270#merciless ovolith} bit me. Can't move yet—still poisoned.&lt;BR&gt;&lt;BR&gt;Please—kill the nearest ones to buy me some time!&lt;BR&gt;&lt;BR&gt;Chaman will never forgive me if I get eaten down here!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1026">
+        <Page social="4">I can feel my arms and legs again! I'll be fine.&lt;BR&gt;&lt;BR&gt;Just have to do a few more things...</Page>
+    </Text>
+</QuestDialog>

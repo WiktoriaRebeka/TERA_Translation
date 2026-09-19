@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1022">
+        <Page social="4">The mekonaris have erected tombstone-like magic devices.&lt;BR&gt;&lt;BR&gt;Every so often, one of the argons or mekonaris coats the things in blood, so I'm sure they're important to their ritual. Do you need more reason to break the things?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1022">
+        <Page social="4">May I see the scraps of those things?&lt;BR&gt;&lt;BR&gt;Oh, gods, this is horrible! They really are designed to disrupt the attachment of souls to the Dream itself! I wouldn't have thought it possible. Don't the mekonaris realize what they're doing?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1022">
+        <Page social="0">Wreck those bloodtombs, &lt;PCNAME&gt;. I'm sure it'll hurt that ritual.</Page>
+    </Text>
+</QuestDialog>

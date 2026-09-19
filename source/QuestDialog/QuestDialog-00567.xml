@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="5">Deep within the Witch-Queen Catacombs, {@LinkCreature:22#21#chaos guides} and their {@LinkCreature:22#22#iskaragards} are working against us.&lt;BR&gt;&lt;BR&gt;My sisters must be stopped. They'll know our tactics best, so I must ask you to face them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1023">
+        <Page social="5">All I ask is that when we've settled this wretched affair, we understand how this happened and who ordered it.&lt;BR&gt;&lt;BR&gt;Understanding will help me heal and knowing who's responsible will give the surviving witches someone to kill. Slowly.</Page>
+    </Text>
+</QuestDialog>

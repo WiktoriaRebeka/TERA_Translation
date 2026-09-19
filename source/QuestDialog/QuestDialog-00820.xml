@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="4">The safest way to hunt mugato is with traps, but I ran out of &lt;font color='#660000'&gt;frostvine&lt;/font&gt;. I'm not about to venture into barsicore territory to get more.&lt;BR&gt;&lt;BR&gt;If you were to gather some frostvine, though, I'd pay you well.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1012">
+        <Page social="4">That's terrific! I should be able to do brisk business and pelts thanks to these.&lt;BR&gt;&lt;BR&gt;Would you mind running this &lt;font color='#660000'&gt;frostvine coil&lt;/font&gt; to &lt;font color='#660000'&gt;Soniata&lt;/font&gt;? I borrowed some from her a while back.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1012">
+        <Page social="0">Oh, you can find frostvine all around the Screaming Snowfield. Grows out of the ground. Can't miss it.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="234" prevId="3" villagerId="1013">
+        <Page social="4">What's this? Ah, I was worried I'd have to take a toe or two as payment.&lt;BR&gt;&lt;BR&gt;Never let your debts fester. Thanks!</Page>
+    </Text>
+</QuestDialog>

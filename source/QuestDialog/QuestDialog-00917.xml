@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1024">
+        <Page social="5">Bloody prions drove us out of the field. We dropped everything and ran. And I do mean everything. Now all our tools are out there, and we're here.&lt;BR&gt;&lt;BR&gt;Can you find them before something big and ugly steps on them?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1024">
+        <Page social="6">You found them! And they're not broken! This is a good day, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1024">
+        <Page social="0">I'm afraid something's going to happen to our excavation tools if they're out there much longer.</Page>
+    </Text>
+</QuestDialog>

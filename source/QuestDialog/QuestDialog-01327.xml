@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1021">
+        <Page social="4">The orcans used to keep to themselves in their settlement along the river to the southwest.&lt;BR&gt;&lt;BR&gt;That's changed. Someone's convinced them to fight us, raids and such. We need to know why.&lt;BR&gt;&lt;BR&gt;Hunt down the orcans and gather any clues. Orcans are fond of trophies and symbols. That might help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1021">
+        <Page social="4">These bone trinkets belong to the unseelie. They're working with Thulsa and the mekonaris.&lt;BR&gt;&lt;BR&gt;That explains a great deal. If the unseelie allied themselves with Thulsa, they'd eagerly recruit others to fight for them.&lt;BR&gt;&lt;BR&gt;Clever little fiends.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="255" villagerId="1021">
+        <Page social="0">Deal with the Bloodgulpers quickly, &lt;PCNAME&gt;. Fight well!</Page>
+    </Text>
+</QuestDialog>

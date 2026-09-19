@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="90" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1015">
+        <Page social="0">&lt;PCNAME&gt;, I can sense something special about you—confidence hard-won through experience. If you want to increase your fame throughout our guild, why not test yourself in the arena?&lt;BR&gt;&lt;BR&gt;You should first start at the Champions' Skyring. If you want to battle, gather your colleagues and build your team through the Champions' Skyring manager. If you win, there will be fame and rewards commensurate with your victory. You've got nothing to lose!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1015">
+        <Page social="0">Excellent! What magnificent valor! This is but the first step. If you choose, great glories—and challenges—await you.</Page>
+    </Text>
+</QuestDialog>

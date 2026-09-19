@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="411" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Improving your Nightforge gear was just the first step. There is more you can do...much more.  Come to me when you're ready.&lt;BR&gt;&lt;BR&gt;- Blacksmith Muhrak&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Muhrak's message disappears when you accept this quest.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="411" prevId="2" villagerId="5001">
+        <Page social="4">&lt;PCNAME&gt;, I knew you'd come back. Let's get started, shall we?</Page>
+    </Text>
+</QuestDialog>

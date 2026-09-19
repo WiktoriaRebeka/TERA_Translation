@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">&lt;PCNAME&gt;:&lt;BR&gt;&lt;BR&gt;This one is a special request. We need your help defeating Nightmare of Christmas, so that children can find hope.&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- The document "Conquer Nightmare of Christmas" vanishes when you accept this quest.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1015">
+        <Page social="4">&lt;PCNAME&gt;, you have restored the hope of children everywhere.&lt;BR&gt;&lt;BR&gt;Please accept this as a reward.</Page>
+    </Text>
+</QuestDialog>

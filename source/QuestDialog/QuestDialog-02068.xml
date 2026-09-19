@@ -1,0 +1,57 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Amarre is waiting for &lt;PCNAME&gt; to return to the camp.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Jelena was injured while attacking the Larvae Hatchery. &lt;PCNAME&gt; headed for the Iridian Wetlands to gather materials for Jelena's cure.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2001" prevId="1" villagerId="20203">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;. We should join the others at the Temporary Camp. Titus and Aurl took the villagers there.&lt;BR&gt;&lt;BR&gt;How about we talk to Aurl about taking the villagers to Free Exodor?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2001" prevId="3" villagerId="22001">
+        <Page social="4" voiceTypeId="0">Welcome, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Although this place seems to be abandoned by the nagas, it's not a bad place for us to stay.&lt;BR&gt;&lt;BR&gt;I can still smell them though.&lt;BR&gt;&lt;BR&gt;I bet they'd never think we'd use this place, so it's the best place to be.&lt;BR&gt;&lt;BR&gt;You don't have to worry about us. You go and find a way to stop Exodor.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2001" prevId="4" villagerId="20204">
+        <Page social="4" voiceTypeId="0">You didn't even have a chance to say we should go?&lt;BR&gt;&lt;BR&gt;Well, that's actually how I thought it would go.&lt;BR&gt;&lt;BR&gt;I can understand that he's not ready to tolerate the nagas. What can we do? &lt;BR&gt;&lt;BR&gt;Let's leave this to Aurl and go talk to Vogzu.&lt;BR&gt;&lt;BR&gt;We need to get to Jelena and find out what the nagas are doing with the crystals!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2001" prevId="5" villagerId="20102">
+        <Page social="0" voiceTypeId="0">Wasted enough time wondering around, yet? What if Exodor lands right in front of Velika!&lt;NEXTPAGEBUTTON&gt;"We need to connect with Free Exodor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You have a point. They know this place very well. We'll be able to find out what to do with their help.&lt;BR&gt;&lt;BR&gt;So, where do we go? I'm ready.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2001" prevId="6" villagerId="20502">
+        <Page social="1" voiceTypeId="0">You came to the right place. But a little late.&lt;BR&gt;&lt;BR&gt;You wonder what the crystals are?&lt;BR&gt;&lt;BR&gt;It's food for the larvae.&lt;BR&gt;&lt;BR&gt;The larvae eat almost anything, but the crystals make them grow fast.&lt;NEXTPAGEBUTTON&gt;"You're nurturing the larvae?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">That's right. the draakons need a lot of butterflies to send them to your land.&lt;BR&gt;&lt;BR&gt;This was decreed by the draakon royalty.&lt;BR&gt;&lt;BR&gt;And these islands... Making us carrying the crystals to the fortress must be for a similar reason.&lt;BR&gt;&lt;BR&gt;Whatever they're doing with the crystals, it means no good for you.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="2001" prevId="7" villagerId="20502">
+        <Page social="1" voiceTypeId="0">She seemed very insolent. She demanded the way to the fortress.&lt;BR&gt;&lt;BR&gt;I got angry and told her that I'd help if she attacked the Larvae Farm.&lt;BR&gt;&lt;BR&gt;To think of it, I'm a bit worried. Shall we go together?</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2001" prevId="8" villagerId="20404">
+        <Page social="0" voiceTypeId="0">I...I can't....&lt;BR&gt;&lt;BR&gt;Help...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="2001" prevId="9" villagerId="20503">
+        <Page social="0">This is bad...a larva in its growth period has a very toxic jewel gland.&lt;BR&gt;&lt;BR&gt;Which means that the crystallization happens fast.&lt;BR&gt;&lt;BR&gt;The Azura Tribe guard the Crystal Storage Depot and manage the larvae farm. They might have a cure.&lt;BR&gt;&lt;BR&gt;You go see if they're carrying any and I'll bring your ally back to the camp.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="2001" prevId="10" villagerId="20502">
+        <Page social="0">This is a cure for nagas but it will only slow down the crystallization for your people.&lt;BR&gt;&lt;BR&gt;If Jelena takes the cure, she should make it to XXX, while we go get a healer.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="2001" prevId="10" villagerId="20502">
+        <Page social="0">Is the cure ready?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="2001" prevId="11" villagerId="20504">
+        <Page social="1" voiceTypeId="0">You've bought some time with the cure, but she'll turn in to crystal if she doesn't get proper treatment.&lt;BR&gt;&lt;BR&gt;The healer who supports Free Exodor was taken by Rogash. The healer is being held at a camp to the east. You must save him.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="2001" prevId="13" villagerId="20505">
+        <Page social="1" voiceTypeId="0">This place is where giant beasts are raised.&lt;BR&gt;&lt;BR&gt;The beasts are most dangerous because of the butterflies. You see, the beasts are always anxious from the fear generated by the butterflies.&lt;BR&gt;&lt;BR&gt;You won't be able to pass unless you defeat the beasts.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="2001" prevId="14" villagerId="20601">
+        <Page social="0" voiceTypeId="0">That was interesting...receiving help from a stranger...&lt;BR&gt;&lt;BR&gt;But a stranger under crystallization is far more interesting! I've seen a stranger before...our medicine won't cure you.&lt;BR&gt;&lt;BR&gt;There's something I have in mind though. If you can gather the materials from the neighboring island for me, I can make you a special cure.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="2001" prevId="15" villagerId="20508">
+        <Page social="1" voiceTypeId="0">I'll take Chenitz to Jelena.&lt;BR&gt;&lt;BR&gt;You go to Iridian Wetlands. I'll make arrangements so that you'll get help gathering the materials.&lt;BR&gt;&lt;BR&gt;If you succeed in gathering the materials, Jelena will be safe.&lt;NEXTPAGEBUTTON&gt;"What about Elleon?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">According to the healer, he didn't come through this camp. So, he must have used the platform to Iridian Wetlands. The agent near the platform should have some information for you.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="2001" prevId="16" villagerId="20104">
+        <Page social="4" voiceTypeId="0">Jelena was injured, but we've now found a cure for us. I guess bad luck sometimes turn into good luck.&lt;BR&gt;&lt;BR&gt;If we can get the materials for the cure, Jelena will be all right.&lt;NEXTPAGEBUTTON&gt;"Yes, she will."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Good. I've got all the bombs I need with me, so let's get moving.</Page>
+    </Text>
+</QuestDialog>

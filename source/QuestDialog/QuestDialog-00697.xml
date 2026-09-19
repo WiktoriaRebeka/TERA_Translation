@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1027">
+        <Page social="1">I hear that "acquisitions" are your specialty, &lt;PCNAME&gt;. Well, that and mayhem.&lt;BR&gt;&lt;BR&gt;No need for mayhem around here, but there is something you can acquire for me: fur for the tanneries in Allemantheia.&lt;BR&gt;&lt;BR&gt;Everyone hunts down rodents and other small animals, but I say we make one big move. Let's kill some plainstalker bears!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1027">
+        <Page social="1">Great fur, friend. Sew these furs into high-quality apparel, take them to Allemantheia, and wait for customers to bring wheelbarrows full of money.&lt;BR&gt;&lt;BR&gt;And if you're willing to stick around a while, we can make even more money, you and I.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1027">
+        <Page social="0">My coin purse is open for anyone who brings some {@LinkCreature:30#200#plainstalker bear}'s fur. You know what a bear looks like, right?</Page>
+    </Text>
+</QuestDialog>

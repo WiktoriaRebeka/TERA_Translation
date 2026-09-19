@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1012">
+        <Page social="4">We can't let the argons keep reinforcing this fortress. They bring more fighters through the zolnaj transporters all the time.&lt;NEXTPAGEBUTTON&gt;"That's bad."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Precisely. I want you to destroy several of those transporters, and then get back here. We'll decide what to do after that.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1012">
+        <Page social="6">Fine work, and thanks for the souvenirs of a successful mission. We need more of those.&lt;BR&gt;&lt;BR&gt;The Shariar appreciate your courage. It almost makes up for our depleted forces.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" villagerId="1012">
+        <Page social="0">As long as those transporters function, the argons remain powerful.</Page>
+    </Text>
+</QuestDialog>

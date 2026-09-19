@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="60" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1042">
+        <Page social="0">&lt;PCNAME&gt;, I've been watching you. Your skills are impressive, but your weapon is sub-optimal.&lt;BR&gt;&lt;BR&gt;Look at the weapon I just gave you. You'll just need a few items to enchant it.&lt;BR&gt;&lt;BR&gt;Visit Valdrin in Lumbertown, and he'll give you what you need.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1001">
+        <Page social="0">Enchanting, eh? I'll fill you in.&lt;BR&gt;&lt;BR&gt;Enchanting adds to an item's defense on armor, and to a weapon's offense. Repeating the process unlocks bonuses at different levels.&lt;BR&gt;&lt;BR&gt;To enchant equipment, you need feedstock and alkahest of the same tier. Merchants like myself sell alkahest, and you get feedstock by dismantling gear.&lt;BR&gt;&lt;BR&gt;To dismantle gear, click the button at the bottom of your inventory, then select the gear you want to convert to feedstock.&lt;BR&gt;&lt;BR&gt;Easy, right?</Page>
+    </Text>
+</QuestDialog>

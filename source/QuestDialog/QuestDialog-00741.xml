@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1042">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1042">
+        <Page social="4">This isn't in my job description! I'm here to measure the mana levels, not tangle with {@LinkCreature:31#25#onyx hydraths}!&lt;BR&gt;&lt;BR&gt;That's why I'm doing my research up here, instead of down by the Maelstrom, but I'll have to go down there sooner or later.&lt;BR&gt;&lt;BR&gt;I don't suppose you can take care of some of them for me? And after you kill them, if you'd gather the hydraths' musk? Other monsters run away at the very scent of a hydrath, so it should protect me from anything worse.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1042">
+        <Page social="4">Thank you! This musk will come in handy! Ready or not, Maelstrom, here I come!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1042">
+        <Page social="0">Please be careful. But take care of those {@LinkCreature:31#25#onyx hydraths}, too!</Page>
+    </Text>
+</QuestDialog>

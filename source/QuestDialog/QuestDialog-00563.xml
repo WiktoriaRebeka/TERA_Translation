@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1011">
+        <Page social="5">The dormitories on the third floor are overrun with lunatic students.&lt;BR&gt;&lt;BR&gt;The worst are the {@LinkCreature:22#14#vadoma acolytes}! If you don't stop them, you'll never get a foothold established on the floor.&lt;BR&gt;&lt;BR&gt;Everything's turning out so dark.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1011">
+        <Page social="5">Judging from your appearance, they fought hard.&lt;BR&gt;&lt;BR&gt;You know, there's a part of me that's actually proud of their accomplishments.&lt;BR&gt;&lt;BR&gt;I hope I remember that when I finally put their bodies to rest.</Page>
+    </Text>
+</QuestDialog>

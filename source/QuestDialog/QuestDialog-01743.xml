@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1011">
+        <Page social="0">Laaran and Himmul are investigating the crystallization, trying to find a solution.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1011">
+        <Page social="4" voiceTypeId="0">If your Raider friend is telling the truth, we must stop the spread of this powder.&lt;BR&gt;&lt;BR&gt;Himmul is also investigating the powder.&lt;BR&gt;I want you to help him.&lt;BR&gt;&lt;BR&gt;Go and speak with him.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="70" prevId="2" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Hello, &lt;PCNAME&gt;. I wish we had better circumstances for this reunion.&lt;BR&gt;&lt;BR&gt;With your help, I'm certain we'll solve the mystery of this amber powder.&lt;NEXTPAGEBUTTON&gt;"I'll do anything I can."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Your help is very much appreciated.&lt;BR&gt;&lt;BR&gt;Hmm... We'll need samples from as many affected creatures as possible.&lt;BR&gt;&lt;BR&gt;Blackhoof Unicorns and Smokepaw Timberwolfs were the first reported cases of transformation. Start there, and bring the samples back as soon as you can.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="70" prevId="3" villagerId="1014">
+        <Page social="4" voiceTypeId="0">This crystallization terrifies me. At any moment, this whole town could be obliterated, and there's nothing I can do about it.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, did you have any luck collecting more samples?&lt;NEXTPAGEBUTTON&gt;"I did."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That was quick!&lt;BR&gt;&lt;BR&gt;Next, we'll need samples from Loamy Sporewalkers. They have a unique biology, unlike anything else in this province. Running tests on multiple sources at once will speed our process.&lt;BR&gt;&lt;BR&gt;You can find some near the Silent Hills region.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="70" prevId="4" villagerId="1014">
+        <Page social="4" voiceTypeId="0">Good work, &lt;PCNAME&gt;. I just wish I had better news for you.&lt;BR&gt;&lt;BR&gt;What I can tell you is that the Red Raiders are telling the truth.&lt;BR&gt;&lt;BR&gt;If any living organism is exposed to this powder, it will first experience severe pain, then pass out or become dormant.&lt;BR&gt;&lt;BR&gt;The effects are similar to a poison, only that this one doesn't have an antidote.&lt;NEXTPAGEBUTTON&gt;"Is there nothing we can do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Not at the moment. I need more time...&lt;BR&gt;&lt;BR&gt;Please let the Magistrate know I'm still searching for a cure.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="70" prevId="5" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Is there no way to stop it? The powder drifts are getting worse as we speak.&lt;BR&gt;&lt;BR&gt;How much time do we have left?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"No one knows."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I can't just sit here and let everyone die...&lt;BR&gt;&lt;BR&gt;Thank you for your help, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

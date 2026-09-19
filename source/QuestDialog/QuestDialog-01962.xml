@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="619" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Hey, there, &lt;PCNAME&gt;. Interested in fishing? If you are, come to Highwatch and find me.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Waining, the head of the Fishing Association taught you how to fish.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2060">
+        <Page social="4" voiceTypeId="0">Welcome, welcome.&lt;BR&gt;The Fishing Association is always looking for new members. Would you like to learn how to fish?&lt;NEXTPAGEBUTTON&gt;"Sure!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You can only fish in particular spots, but Arun and Shara provide many opportunities for patient anglers. Let me know when you're ready to start.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2060">
+        <Page social="4" voiceTypeId="0">With its calm, clear waters, the Muricai Fishery is a favorite spot for beginners.&lt;BR&gt;&lt;BR&gt;Are you ready to go?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="183" prevId="3" villagerId="2060">
+        <Page social="0" voiceTypeId="0">Give my regards to Muten at the Muricai Fishery.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="207" prevId="4" villagerId="9904">
+        <Page social="4" voiceTypeId="0">Waining sent you?&lt;BR&gt;Welcome! Let's fish.&lt;BR&gt;&lt;BR&gt;You'll need a fishing rod and some bait.&lt;BR&gt;&lt;BR&gt;Here's some basic versions of both to get you started&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You're all set! Go to a fishery and fish away.&lt;BR&gt;Remember to always use a bait.&lt;BR&gt;&lt;BR&gt;Try to catch a Crayfish.&lt;BR&gt;If you run out of bait, you can always buy them from the Fishing Supplies.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="207" prevId="6" villagerId="9904">
+        <Page social="1" voiceTypeId="0">Splendid! You've got pure talent!&lt;NEXTPAGEBUTTON&gt;"Do I?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Fish are graded from 0 to 10.&lt;BR&gt;&lt;BR&gt;To catch higher grade fish, you'll need upgraded fishing rods. Here's one of my spares to get you started.&lt;NEXTPAGEBUTTON&gt;"Thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You can get better fishing rods by exchanging Angler Tokens with Angler Token Vendors like myself.&lt;BR&gt;&lt;BR&gt;You can also upgrade your favorite rods as well.&lt;BR&gt;&lt;BR&gt;Remember, the better the rod, the better the fish. Not to mention better money, of course!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="207" villagerId="9904">
+        <Page social="0">Catch a Crayfish at the Muricai Fishery.</Page>
+    </Text>
+</QuestDialog>

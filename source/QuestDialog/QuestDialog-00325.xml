@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1105">
+        <Page social="0">The Valkyon Federation has mostly pulled out of the Island of Dawn, but a few unlucky folks are left behind, trying to clean up what little mess remains. They asked if you'd help them so they could speed up their exit, and you accepted.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1105">
+        <Page social="4">Another new recruit looking for fortune and glory? You are late to arrive, but there is still plenty of work to be done here before the Valkyon Federation turns the island over to the research teams.&lt;BR&gt;&lt;BR&gt;Check in with Legate &lt;font color='#660000'&gt;Lam&lt;/font&gt;. He will assess your capabilities and assign you accordingly.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1014">
+        <Page social="4">Well, since you're here, we may as well put you to work getting this place cleared out.&lt;BR&gt;&lt;BR&gt;We'll get you trained up in no time for whatever duties the federation has in mind for you.</Page>
+    </Text>
+</QuestDialog>

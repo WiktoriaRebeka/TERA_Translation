@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1016">
+        <Page social="4">Karba's orcans are brave to stand up to so many warmakers among their people. They'd make good federation soldiers if the high command would have them.&lt;BR&gt;&lt;BR&gt;They drink cullar blood for strength, but the Black Claw tribe has cut off their access to the cullars living in the caves south of here. If you're ever near those &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-23163,68890,2044&amp;type=1&amp;name=Caves"&gt;caves&lt;/A&gt;&lt;/font&gt;, get some cullar blood for {@LinkCreature:241#1020$$Hoorik}. I'd like to show these orcans we value them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1019">
+        <Page social="4">Cullar blood? How did you get it?&lt;BR&gt;&lt;BR&gt;You must have risked your hide! I'm very grateful.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1019">
+        <Page social="0">I miss the taste of cullar blood.&lt;BR&gt;&lt;BR&gt;Not to your tastes, no doubt, but among my people it's sacred.</Page>
+    </Text>
+</QuestDialog>

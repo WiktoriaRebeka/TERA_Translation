@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1024">
+        <Page social="4">The argons were doing some sort of botanical research here. We don't know what they were working on, but we do know one thing: they were big.&lt;BR&gt;&lt;BR&gt;We've also found some flask-like containers. Bring me whatever's inside them, but watch out for big argons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1024">
+        <Page social="4">These contents confirm that the argons were doing botanical research here.&lt;BR&gt;&lt;BR&gt;If I can duplicate their methodology, perhaps we can figure out what the argons were trying to do.&lt;BR&gt;Next stop for you: the Hexheart chamber. Talk to Beranie.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1024">
+        <Page social="0">The argonomorph kulkaris are going to try to stop you. They're obviously far deadlier than ordinary kulkaris, but don't give up! Get those plant samples!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1026">
+        <Page social="4">You came here at {@Creature:246#1024$$Platanok}'s request? I'm surprised he has soldiers to spare. Nevertheless, I can use your help.</Page>
+    </Text>
+</QuestDialog>

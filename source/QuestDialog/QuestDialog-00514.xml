@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1007">
+        <Page social="4">I want the weapons of the {@LinkCreature:20#30114001#ossugon centurions} and the {@LinkCreature:20#30031000#skeleton spearmen}. I want to study them and see how they've held up over all these years.&lt;BR&gt;&lt;BR&gt;I mean yes, they're rusty, but they've yet to fall apart.&lt;BR&gt;&lt;BR&gt;I have to know why. Collect them for me. I don't care what you do with the skeletons.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1014">
+        <Page social="4">You clearly have more arms than you let on to be able to bring so many back by yourself.&lt;BR&gt;&lt;BR&gt;Anyway, thank you. I'll get to them right away.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1014">
+        <Page social="0">I want to know why those weapons aren't broken! I want to know, so I need you to bring them to me!</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1028">
+        <Page social="0">These {@LinkCreature:25#2091#Lokian zealots} and {@LinkCreature:25#2092#fanatics} keep me from completing my investigation of the cathedral.&lt;BR&gt;&lt;BR&gt;I'm an intelligence officer, not a soldier, &lt;PCNAME&gt;. Can you clear me a path?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1028">
+        <Page social="4">Thank you! Now I can proceed with my mission.</Page>
+    </Text>
+</QuestDialog>

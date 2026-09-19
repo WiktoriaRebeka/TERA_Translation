@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="4">The {@LinkCreature:11#2003#Red Lash sentinels} have the area under constant surveillance, so we can't move through the grotto as we'd like to.&lt;BR&gt;&lt;BR&gt;But if those sentinels disappear, we can get from the dock into most of the main passageways in the grotto.&lt;BR&gt;&lt;BR&gt;That's your cue, &lt;PCNAME&gt;. Take out those sentinels!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1011">
+        <Page social="4">Now we can start probing the grotto interior in earnest. For the federation!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1011">
+        <Page social="0">Take out those {@LinkCreature:11#2003#Red Lash sentinels}. They're the first rung on the ladder.</Page>
+    </Text>
+</QuestDialog>

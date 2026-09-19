@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Sersine asked you to take Kugai's codex to Leander for translation. Leander found no mention of his brother, but discovered the demon behind the dark forces on the island, Karascha, and mention of Lok—a god long-thought dead.&lt;BR&gt;&lt;BR&gt;Regardless of Karascha's loyalties, Leander and Sersine agreed that he must be killed.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Take this codex to Leander. His mind sees order in chaos. We must learn its secrets.&lt;BR&gt;&lt;BR&gt;Take this to him now, before whoever holds Kugai's leash learns of its capture. Gregor keeps the southern pass free of...complications—it's the fastest route back to his outpost.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1028">
+        <Page social="4">Nice to see a face that isn't attached to a blade or twisted by magic.&lt;BR&gt;&lt;BR&gt;The demons seem content to control the gorge, but be careful of orcan patrols at the summit.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1008">
+        <Page social="4">Welcome back, &lt;PCNAME&gt;. How can we be of service?&lt;BR&gt;&lt;BR&gt;A codex? This could be the breakthrough we've hoped for! Hand it over!&lt;BR&gt;&lt;BR&gt;No mention of him. Alas.&lt;NEXTPAGEBUTTON&gt;"Elleon?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Indeed. However, the codex speaks of Karascha gathering power for some nefarious purpose. Wait—this can't be right. Impossible. Lok's dead.&lt;BR&gt;&lt;BR&gt;Take this to Sersine. Whatever his delusions, Karascha must be stopped—slain would be better.&lt;NEXTPAGEBUTTON&gt;"What's wrong?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Most demons are very mercenary, they'll work for nearly anyone. Whoever bound Karascha to their will is very dangerous. This codex must be wrong, but Karascha must be stopped whether it is or not.&lt;BR&gt;&lt;BR&gt;Besides, Karascha's responsible for Elleon's...fate.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1025">
+        <Page social="4">What did Leander discover?&lt;BR&gt;&lt;BR&gt;He's quite right. Lok died during the Divine War. He couldn't be behind this! The codex really said that? Remarkable.&lt;NEXTPAGEBUTTON&gt;"Leander said Karascha must be stopped."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Well, on that we can agree.&lt;BR&gt;&lt;BR&gt;Verus thinks Karascha can be reached through the shrine to the northwest, so that's our next move.&lt;BR&gt;&lt;BR&gt;For Elleon—and the federation, Karascha must die.</Page>
+    </Text>
+</QuestDialog>

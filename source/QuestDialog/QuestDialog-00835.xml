@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="6">We left a lot of weapons out there on the battlefield, and a lot of comrades, too. We can't get our friends back, but having those weapons back would make a big difference.&lt;BR&gt;&lt;BR&gt;Will you help?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1007">
+        <Page social="7">Bless you, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;If we're as brave as you, we'll be all right.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1007">
+        <Page social="0">We really need those weapons.</Page>
+    </Text>
+</QuestDialog>

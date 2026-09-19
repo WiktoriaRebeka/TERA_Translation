@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1009">
+        <Page social="4">Quartermaster Kenton at the Embattled Outpost in Paraanon Ravine is concerned about overdue supplies. We do local business through the town banker, Puni. Always been dependable. Can you follow this up? I'd bet it's a paperwork problem.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="67" prevId="2" villagerId="1005">
+        <Page social="4">Kenton? Why's he grousing? I sent his supplies two days back, even the honey ale he likes! The convoy already returned safely. I've got all the paperwork and signatures.&lt;BR&gt;&lt;BR&gt;I like Kenton, but he should be careful who he delegates to.&lt;NEXTPAGEBUTTON&gt;"Paperwork, you said?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Yeah, lemme dig it out for you.&lt;BR&gt;&lt;BR&gt;Here. That's the signed receipt.&lt;BR&gt;&lt;BR&gt;Kenton's a fine guy. I don't like him thinking this is my fault. Will you show him these records?&lt;BR&gt;&lt;BR&gt;And tell him I'll scrounge up an advance on his next order.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="217" prevId="3" villagerId="1007">
+        <Page social="4">Not his fault? Let me see those papers.&lt;BR&gt;&lt;BR&gt;Wait, whose signature is this? The stamp's a quartermaster's, so that's right, but—&lt;BR&gt;&lt;BR&gt;Ishara's grimy fingernails! If men I'm responsible for are starving because some idiot misplaced two weeks' food, I'll eat roast idiot before the week's over. You're my witness.&lt;BR&gt;&lt;BR&gt;Fine, now...where could we have misplaced a clearly labeled crate with two weeks worth of food?</Page>
+    </Text>
+</QuestDialog>

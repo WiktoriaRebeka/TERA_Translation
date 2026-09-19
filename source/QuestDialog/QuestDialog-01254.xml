@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1001">
+        <Page social="5">Darekuur, the so-called "Slaughterer of Mad Laughter," was the leader of the bandits. He was as cruel as his nickname was ridiculous—until I cut his head off a few years ago.&lt;BR&gt;&lt;BR&gt;Unfortunately, Thulsa re-attached the head and brought Darekuur back with his necromancy.&lt;BR&gt;&lt;BR&gt;How'd you like to prove your bravery to me? Cutting Darekuur's head off won't be too difficult, and "Darekuur the Twice-Beheaded" isn't nearly as scary.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1001">
+        <Page social="4">Huh. Ugly, ain't he?&lt;BR&gt;&lt;BR&gt;I'm glad he's dead. I can still hear his creepy, chilling laughter in my ears.&lt;BR&gt;&lt;BR&gt;Now you and I have something in common—we've both cut Darekuur's head off!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1001">
+        <Page social="0">You can find Darekuur south of this Isolated Hunter's Camp. &lt;BR&gt;&lt;BR&gt;Bring me his head, will you? I want to see how much his brains have rotted since last time.</Page>
+    </Text>
+</QuestDialog>

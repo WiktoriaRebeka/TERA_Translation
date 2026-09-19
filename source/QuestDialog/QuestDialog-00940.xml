@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1015">
+        <Page social="4">We've received word of several villagers missing from Frontera and the magistrate thinks the arachnens snatched them.&lt;BR&gt;&lt;BR&gt;Search the caverns for them—save them if you can.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1017">
+        <Page social="4">(The corpse looks terribly mangled.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" prevId="3" villagerId="1018">
+        <Page social="4">(A poisonous odor emanates from the body.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="239" prevId="4" villagerId="1025">
+        <Page social="4">The villagers were dead flesh the moment the arachnens grabbed them.&lt;BR&gt;&lt;BR&gt;A pity, but your efforts to find them are to be commended. Thanks.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="0">During your talk with the Khirians, Madat went missing and Rhodos accused you.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1006">
+        <Page social="4">Hatishna?&lt;BR&gt;&lt;BR&gt;That's nothing but a fable. We are the Khirians! We don't need a chosen one to lead us to victory!&lt;BR&gt;&lt;BR&gt;All right, 'chosen one.' The arachnens stalk our camp. Rid us of them and we'll talk.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="1006">
+        <Page social="4">Treacherous fiend! Instead of earning our trust, you kidnapped Madat! Where is he?&lt;BR&gt;&lt;BR&gt;My soldiers will peel your eyes like grapes for this betrayal!&lt;NEXTPAGEBUTTON&gt;"Wait! Madat's missing? I'll find him!!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Fine. Return Madat to us, alive, and I may believe you.&lt;BR&gt;&lt;BR&gt;Be warned, though; if he's dead or points the finger at you, you'll be food for the arachnens this day.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1010">
+        <Page social="4">(A few glittering bits of shell line the inside of the box.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1011">
+        <Page social="4">(A pungent mucus stains the potsherds.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="172" prevId="5" villagerId="1006">
+        <Page social="4">Gah! That stench! I'd know it anywhere.&lt;BR&gt;&lt;BR&gt;We must turn our eyes to the guwangi.</Page>
+    </Text>
+</QuestDialog>

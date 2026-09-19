@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="254" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="254" prevId="0" villagerId="1018">
+        <Page social="4">Isren created the fey races. But did you know centaur wardens and pranksome redcaps were duty bound to guard and tend her garden?&lt;BR&gt;&lt;BR&gt;The goddess's power must be waning, because now they're wandering Seeliewood instead of doing their duty in the garden.&lt;BR&gt;&lt;BR&gt;Bring me the bands that Isren used to bind them to their duty. Perhaps I can strengthen the magic in them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="254" prevId="2" villagerId="1018">
+        <Page social="4">This magic is still strong.&lt;BR&gt;&lt;BR&gt;They wouldn't have left voluntarily while bonded to their duty.&lt;BR&gt;&lt;BR&gt;Something must have driven them out.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="254" villagerId="1018">
+        <Page social="0">Bribe them; fight them! Just get them to relinquish the bands.</Page>
+    </Text>
+</QuestDialog>

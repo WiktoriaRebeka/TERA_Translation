@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1011">
+        <Page social="4">We amani have our own traditions and tests. It's expected of every warrior to earn the title of frostclaw by hunting a murderous beast.&lt;BR&gt;&lt;BR&gt;I was unlucky enough to draw the {@LinkCreature:34#920#frostguard patriarch} as my target. I fear nothing, but I won't throw my life away.&lt;BR&gt;&lt;BR&gt;If I had its claw, the test would be over and we could fight wendigos. Will you help me?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1011">
+        <Page social="4">A mugato claw. So simple and yet it carries so much weight.&lt;BR&gt;&lt;BR&gt;I owe you a debt of blood, &lt;PCNAME&gt;. Or, a roast pigling if we ever meet in Kaiator! Hah!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1011">
+        <Page social="0">I cannot beg. It's against my nature. Kaia does not love it.</Page>
+    </Text>
+</QuestDialog>

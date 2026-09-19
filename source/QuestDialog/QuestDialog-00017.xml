@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1046">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1046">
+        <Page social="0">Argh, my head... I'm so frustrated by the stupid faeries whenever I go out to log. Their buzzing sound gives me a headache that never goes away! I've got to do something about this! &lt;BR&gt;&lt;BR&gt;But my headache returns every time I'm even near this area. Hey, you! Get rid of the {@LinkCreature:2#52#faerie vigilantes} for me and bring back their wings! &lt;BR&gt;&lt;BR&gt;I can't live like this anymore. Please help.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1046">
+        <Page social="4">Phew... now I can hear myself. Thanks! Well, since you helped out, take this. I insist!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1046">
+        <Page social="0">I've had enough with this noise! I beg you to get rid of the faeries, please!</Page>
+    </Text>
+</QuestDialog>

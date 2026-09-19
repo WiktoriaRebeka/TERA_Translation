@@ -1,0 +1,47 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="9" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Elleon claimed the Scions of Lok were working with Samael because he vowed to resurrect Lok if they helped him attain divinity.&lt;BR&gt;&lt;BR&gt;Samael planned to use the cursed lance of the ancient god Gidd to steal Velik's powers.&lt;BR&gt;&lt;BR&gt;To protect Velik, you worked with Elleon to prevent the cursed lance from falling into Samael's hands, and claimed the lance as proof of Samael's betrayal.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Finally arrived in Cutthroat Harbor (weather troubles), and have news from Velika about what "S" is after. See me as soon as you can.&lt;BR&gt;&lt;BR&gt;—E.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1036">
+        <Page social="4" voiceTypeId="0">Samael has convinced the Scions of Lok that he can resurrect Lok—with their help and loyalty. Samael must have deliberately rerouted troops away from Southern Arun to protect the Scions.&lt;NEXTPAGEBUTTON&gt;"That means..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Without our troops, Arcadia was nearly overrun and Poporia almost fell into civil war!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1036">
+        <Page social="4" voiceTypeId="0">They're after the cursed Lance of Gidd—purportedly capable of slaying gods and stealing their power. {@linkcreature:12#23#Slawgesh}, a Kazuur Syndicate gula, has the lance. Take it from him! Samael must not obtain that artifact!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="212" prevId="4" villagerId="1035">
+        <Page social="4" voiceTypeId="0">Slawgesh was just a gula. Why does a gula write a business ledger in code?&lt;BR&gt;&lt;BR&gt;Regardless, for every lock there's a key, eh?&lt;BR&gt;&lt;BR&gt;Perhaps some of Slawgesh's {@LinkCreature:12#7#gula brawlers} have a way to decipher this. Hurry!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="212" villagerId="1035">
+        <Page social="0">We can't intimidate a tome into giving up its secrets. We need to read this, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="212" prevId="5" villagerId="1035">
+        <Page social="4" voiceTypeId="0">The primer! Decoding the ledger now should be a piece of cake! And who doesn't like cake?&lt;BR&gt;&lt;BR&gt;Here's the ledger. Work quickly, so we can proceed.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="212" prevId="7" villagerId="1035">
+        <Page social="4" voiceTypeId="0">This is our proof that the Samael's justicars are working with the Kazuur Syndicate? And the Lance of Gidd is indeed in gula hands? Excellent.&lt;BR&gt;&lt;BR&gt;Where?&lt;BR&gt;&lt;BR&gt;Blast! Azarel's Labyrinth is probably the most gula-infested place in the world. No mean feat to infiltrate. Inform {@linkcreature:62#1036#Elleon} of what we've learned. Samael's either making his move or covering his tracks. Either way, we must hurry.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="212" villagerId="1035">
+        <Page social="0">You know how substitution ciphers work, right? Just match up the letters in the ledger with the letters in the decryption book.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="62" prevId="8" villagerId="1036">
+        <Page social="4" voiceTypeId="0">What have we learned?&lt;BR&gt;&lt;BR&gt;Intriguing... Samael and Akia must've been communicating in secret and Kutmaschuk must be guarding Gidd's cursed lance.&lt;BR&gt;&lt;BR&gt;Make your way to Azarel's Labyrinth. We'll split up in case any Justicars escaped our sweep. Let's meet up at the &lt;BR&gt;&lt;BR&gt;{@linkcreature:209#1031#camp near the labyrinth}.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="209" prevId="10" villagerId="1031">
+        <Page social="4" voiceTypeId="0">Samael's plan becomes clear. Armed with the lance, he could slay Velik and take over the City of Wheels with little effort. Frankly, whoever controls Velika rules all of Southern Arun. We can't let that happen.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We must find the route to &lt;font color='#0080FF'&gt;Kutmaschuk's hideout&lt;/font&gt;. Let's get moving.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="209" prevId="11" villagerId="1030">
+        <Page social="4" voiceTypeId="0">(This teleportal smells strange. It may be Kutmaschuk's scent—use this portal and enter his hideout.)</Page>
+    </Text>
+    <Text id="13" huntingZoneId="209" prevId="12" villagerId="1031">
+        <Page social="4" voiceTypeId="0">The Lance of Gidd...such power does not belong in mortal hands. Good thing this one is fake, and a pretty amateurish fake at that. Looks like the gulas were going to double-cross Samael.&lt;BR&gt;&lt;BR&gt;Fake or not, this lance and the ledger are the proof we need of Samael's guilt.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="209" villagerId="1031">
+        <Page social="0">If Samael and the Scions of Lok get the Lance of Gidd...no, it mustn't happen! Velik might be their first target, but she won't be their last.</Page>
+    </Text>
+</QuestDialog>

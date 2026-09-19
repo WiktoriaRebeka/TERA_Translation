@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1027">
+        <Page social="5">The witches have taken over the Malefic Laboratories and are brewing some draught. They'll use the potions to contaminate the entire castle.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, please hunt down my sister {@LinkCreature:22#19#vadoma witches} and {@LinkCreature:22#20#shadow guides} before it's too late.&lt;BR&gt;&lt;BR&gt;If this isn't stopped, it could threaten the whole kingdom.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1027">
+        <Page social="5">Good work, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;So these cauldrons are at the heart of this tragedy? But who's behind them?&lt;BR&gt;&lt;BR&gt;I hate mysteries.</Page>
+    </Text>
+</QuestDialog>

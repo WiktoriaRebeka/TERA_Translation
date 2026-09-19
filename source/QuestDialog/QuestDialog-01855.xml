@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="601" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="77" prevId="0" villagerId="3001">
+        <Page social="4">The argons keep our soldiers and civilian prisoners in the Three Towers.&lt;BR&gt;&lt;BR&gt;I've seen what the argons do to prisoners. It's abominable. We must rescue those poor people.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="4">I know {@LinkCreature:77#3001#Nithan} briefed you already. Find the prisoners and get them back to {@Rgn:46015$$Hexheart Chamber}.&lt;BR&gt;&lt;BR&gt;We'll have operatives ready to get them to safety.&lt;BR&gt;&lt;BR&gt;This isn't some routine errand. Stay sharp and stay alive. We certainly don't want to have to rescue you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="246" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="246" prevId="2" villagerId="3012">
+        <Page social="4">Thank you so much! I just knew I was...I don't want to think about it.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="246" prevId="7" villagerId="3013">
+        <Page social="4">Get me out of here!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="246" prevId="8" villagerId="3014">
+        <Page social="4">Thanks for getting me out of there.&lt;BR&gt;&lt;BR&gt;I thought I was a goner for sure.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="246" prevId="9" villagerId="3002">
+        <Page social="4">You saved them from a fate far worse than death, &lt;PCNAME&gt;. That's the kind of difference we try to make every day out here.&lt;BR&gt;&lt;BR&gt;Fine work, soldier.</Page>
+    </Text>
+</QuestDialog>

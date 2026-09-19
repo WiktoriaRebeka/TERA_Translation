@@ -1,0 +1,137 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">You are heading to Elenea at Seir's request, hoping that you will be able to find Verdas, and prevent the future destruction of Velika...and the death of two gods.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">There were wounded soldiers everywhere. Knowing that Velika would destroyed by the Black Dragon without troops to defend the city, your tried to argue with Cerenon that the reinforcements should be sent back, but failed.&lt;BR&gt;&lt;BR&gt;While battling the dragons, you encountered Verdas. With him by your side, you tracked down a suspicious group, and found out that they were followers of Vergos, planning to take over Velika.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="833" prevId="1" villagerId="1081">
+        <Page social="0" voiceTypeId="0">There's no one but wounded soldiers here. &lt;BR&gt;&lt;BR&gt;You should ask Cerenon. He's just outside the gates, organizing what's left of the Elenea troops. Once the reinforcements here move out, though, he won't have even a moment to spare you.&lt;BR&gt;&lt;BR&gt;So it's now or never.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="833" prevId="3" villagerId="1080">
+        <Page social="0" voiceTypeId="0">Greetings, &lt;PCNAME&gt;. Thank you for coming. We could really use your help.&lt;BR&gt;&lt;BR&gt;Verdas...? I've never heard of him.&lt;BR&gt;&lt;BR&gt;Send the reinforcements back to Velika? Are you joking? I'm afraid that won't be possible. Even with your help, we're going to need every soldier we can get.&lt;BR&gt;&lt;BR&gt;Sending the reinforcements back just doesn't make any strategic sense.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="833" prevId="3" villagerId="1080">
+        <Page social="0" voiceTypeId="0">I'm fully aware that this situation is weakening Velika's defense. Nonetheless, we need those troops here, not standing around doing nothing in Velika.&lt;BR&gt;&lt;BR&gt;We must stabilize the front line. Once Elenea is secure, we can start sending troops back to Velika.&lt;BR&gt;&lt;BR&gt;In the meantime, it will help if you can dispatch some of those dracoloths, so we can secure our supplies.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="833" prevId="3" villagerId="1080">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;... I know what you're capable of, but not even you can face all those dragons alone!&lt;BR&gt;&lt;BR&gt;I give you my word that as soon as we take care of the situation down here, I'll start sending the reinforcements back to Velika. Please understand my situation, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;For now, I need you to handle some of those dracoloths, so we can secure our supplies. After that, you are free to do as you see fit.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="833" prevId="3" villagerId="1080">
+        <Page social="0" voiceTypeId="0">I know who you are, &lt;PCNAME&gt;, and I know what you have done for the Valkyon Federation. But with all due respect, I'm in command here.&lt;BR&gt;&lt;BR&gt;Without these reinforcements, everyone in Elenea is going to die. The reinforcements stay where they're at.&lt;BR&gt;&lt;BR&gt;If you help us, I might be able to start sending the reinforcements back to Velika earlier.&lt;BR&gt;&lt;BR&gt;Help us secure the supplies, and then you're free to do whatever you feel needs doing.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="833" prevId="4" villagerId="1080">
+        <Page social="0" voiceTypeId="0">The situation is getting desperate.&lt;BR&gt;&lt;BR&gt;We must secure our supplies!&lt;BR&gt;&lt;BR&gt;If you can take care of either the red or green dracoloths, it would help us a lot.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="833" prevId="4" villagerId="1080">
+        <Page social="0" voiceTypeId="0">Very good.&lt;BR&gt;&lt;BR&gt;If you can clear a path through them, Geiran will be able to deliver our supplies without hindrance.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="833" prevId="4" villagerId="1080">
+        <Page social="0" voiceTypeId="0">Very good.&lt;BR&gt;&lt;BR&gt;If you can clear a path through them, Geiran will be able to deliver our supplies without hindrance.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="833" prevId="8" villagerId="1048">
+        <Page social="0" voiceTypeId="0">Strangers in black... attacked the supply wagon.&lt;BR&gt;&lt;BR&gt;They wanted vengeance for Vergos...&lt;BR&gt;&lt;BR&gt;...didn't...</Page>
+    </Text>
+    <Text id="12" huntingZoneId="833" prevId="11" villagerId="1292">
+        <Page social="0" voiceTypeId="0">He's gone... and it doesn't look like any of the supplies survived the attack, either.&lt;BR&gt;&lt;BR&gt;Are you from Velika? My name is Verdas. I've been researching Sylvanoth's dracoloth population.&lt;BR&gt;&lt;BR&gt;At least, until that Black Dragon appeared...&lt;BR&gt;&lt;BR&gt;Did you, by any chance see an enormous Black Dragon here?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="833" prevId="11" villagerId="1292">
+        <Page social="0" voiceTypeId="0">You have? Then I didn't imagine it.&lt;BR&gt;&lt;BR&gt;So huge, and so dark—pure evil! And right after it appeared, all the dracoloths in Sylvanoth just disappeared. I call it the &amp;quot;Dark Master of Dragons.&amp;quot;&lt;BR&gt;&lt;BR&gt;I've been following dragon tracks all the way from Sylvanoth, but I didn't expect to find dracoloths attacking Elenea.&lt;BR&gt;&lt;BR&gt;I'm sure that the Dark Master of Dragons is behind the attack!</Page>
+    </Text>
+    <Text id="14" huntingZoneId="833" prevId="11" villagerId="1292">
+        <Page social="0" voiceTypeId="0">With my own eyes... though admittedly, not from close up. That Black Dragon is the most terrifying thing I've ever seen. You can feel the menace coming from it...&lt;BR&gt;&lt;BR&gt;And right after it appeared, all the dracoloths in Sylvanoth just disappeared. I call it the &amp;quot;Dark Master of Dragons.&amp;quot;&lt;BR&gt;&lt;BR&gt;I've been following dragon tracks from Sylvanoth, and they led me here. I didn't expect to find those dracoloths attacking Elenea.&lt;BR&gt;&lt;BR&gt;I'm sure that the Dark Master of Dragons is behind the attack!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="833" prevId="11" villagerId="1292">
+        <Page social="0" voiceTypeId="0">I'm not talking about an ordinary black dragon. This one is ten times the size of an ordinary dracoloth.&lt;BR&gt;&lt;BR&gt;That's the one? And you're hunting it? You're either insanely brave, or just insane.&lt;BR&gt;&lt;BR&gt;Right after I first saw it, all the dracoloths in Sylvanoth just disappeared. I call it the &amp;quot;Dark Master of Dragons.&amp;quot;&lt;BR&gt;&lt;BR&gt;I've been following dragon tracks from Sylvanoth, and they led me here. I didn't expect to find those dracoloths attacking Elenea.&lt;BR&gt;&lt;BR&gt;I'm sure that the Dark Master of Dragons is behind the attack!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="833" prevId="12" villagerId="1235">
+        <Page social="0" voiceTypeId="0">Was that dragon... giving orders? I mean, it didn't seem to be controlling them with magic... more like force of will.&lt;BR&gt;&lt;BR&gt;And did you hear? I swear one of them said the word &amp;quot;Vergos.&amp;quot;&lt;BR&gt;&lt;BR&gt;Does that mean anything to you?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="833" prevId="12" villagerId="1235">
+        <Page social="0" voiceTypeId="0">You need to slow down, friend. Only a fool rushes into the unknown.&lt;BR&gt;&lt;BR&gt;That was the Black Dragon I saw at Sylvanoth—the powerful one. We need to understand how it's able to control the others. I had made a lot of notes about it... but then I lost my journal somewhere.&lt;NEXTPAGEBUTTON&gt;"We won't find answers standing here."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">That's right!&lt;BR&gt;Every dragon in the land, from generation to generation, is his descendant.&lt;BR&gt;&lt;BR&gt;Some say that his bones lie here somewhere... I had a map in my journal, but that's gone now.&lt;BR&gt;&lt;BR&gt;The dragons might be gathering here because they're looking for Vergos's bones.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="833" prevId="12" villagerId="1235">
+        <Page social="0" voiceTypeId="0">I've been researching dragons for years; I have a pretty detailed journal about it... or, at least, I did.&lt;BR&gt;&lt;BR&gt;Every dragon in the land, from generation to generation, is descended from Vergos.&lt;BR&gt;&lt;BR&gt;Some say that his bones lie here somewhere...&lt;BR&gt;&lt;BR&gt;That might be why the dragons are gathering here; they're looking for Vergos's bones.&lt;NEXTPAGEBUTTON&gt;"What if we find them first?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I had a map in my journal that showed that the bones are in Deathgorge, but there are also rumors that Lakan collected bones from the Zaeltarazad Shrine.&lt;BR&gt;&lt;BR&gt;We'll need to go deeper into the Canyon.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="833" prevId="12" villagerId="1235">
+        <Page social="0" voiceTypeId="0">I've been researching dragons for years. There's a lot of lore about Vergos, and I've recorded it all in my journal... which of course doesn't help us now.&lt;BR&gt;&lt;BR&gt;Obviously, we should try to locate the Black Dragon and its followers first, and quickly.&lt;BR&gt;&lt;BR&gt;But we should start in the Canyon.&lt;NEXTPAGEBUTTON&gt;"Why start there?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The lore strongly implies that Vergos's remains are hidden somewhere near here.&lt;BR&gt;&lt;BR&gt;That suggests that the Black Dragon and its followers gathered here because they've been searching for those remains.&lt;BR&gt;&lt;BR&gt;We should try to find them first!</Page>
+    </Text>
+    <Text id="20" huntingZoneId="833" prevId="16" villagerId="1263">
+        <Page social="0" voiceTypeId="0">I gathered that you were tough, but you made that look so easy!&lt;BR&gt;&lt;BR&gt;Did you notice that the dragon appeared as soon as we got close to the plant?&lt;BR&gt;&lt;BR&gt;I wonder what the connection is...?</Page>
+    </Text>
+    <Text id="21" huntingZoneId="833" prevId="16" villagerId="1263">
+        <Page social="0" voiceTypeId="0">I agree that the plant is some kind of warning system.&lt;BR&gt;&lt;BR&gt;The dragon came for us the second the plant reacted, didn't it?&lt;BR&gt;&lt;BR&gt;We can test this theory at the next plant we find. Let's go.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="833" prevId="16" villagerId="1263">
+        <Page social="0" voiceTypeId="0">Perhaps... but for us, or for the dragon?&lt;BR&gt;&lt;BR&gt;The dragon appeared around the same time the plant reacted... so who was it reacting to?&lt;BR&gt;&lt;BR&gt;We can test this further at the next plant we find. Let's go.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="833" prevId="16" villagerId="1263">
+        <Page social="0" voiceTypeId="0">Why? Did you come here to hunt the Black Dragon, or do some gardening?&lt;BR&gt;&lt;BR&gt;Still, though... a dragon attacking us the moment the plant reacted...? That suggests the plant is some kind of a warning system.&lt;BR&gt;&lt;BR&gt;We can test this further at the next plant we find. Let's go.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="833" prevId="20" villagerId="1236">
+        <Page social="0" voiceTypeId="0">So... the strange plants are alarms... and when they activate, a dragon comes to investigate.&lt;BR&gt;&lt;BR&gt;So why such an elaborate alarm system? It's got to be about more than just Vergos's remains...&lt;BR&gt;&lt;BR&gt;You know, I just realized who you are. You're &lt;PCNAME&gt;, right?&lt;NEXTPAGEBUTTON&gt;"That's right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;... huh. I've heard about you. You're actually mentioned in the Vergos lore... as the one who slew Vergos. I made a note of it, in my journal.&lt;BR&gt;&lt;BR&gt;So if you're after this Black Dragon, it must be up to something that threatens the entire world. I guess we'd better make haste, then!</Page>
+    </Text>
+    <Text id="25" huntingZoneId="833" prevId="24" villagerId="1260">
+        <Page social="0" voiceTypeId="0">They're after Velik?&lt;BR&gt;&lt;BR&gt;But why, in the name of the gods?</Page>
+    </Text>
+    <Text id="26" huntingZoneId="833" prevId="24" villagerId="1260">
+        <Page social="0" voiceTypeId="0">So then, why gather in Wyrmgorge? It just doesn't make any sense! Why not Allemantheia, or Velika itself?&lt;BR&gt;&lt;BR&gt;We can worry about that later. We need to hurry. I hate to even suggest it, but the Goddess might be in danger.&lt;BR&gt;&lt;BR&gt;Let's stop in at the camp and see if the garrison there has any answers.</Page>
+    </Text>
+    <Text id="27" huntingZoneId="833" prevId="24" villagerId="1260">
+        <Page social="0" voiceTypeId="0">This... this is horrifying!&lt;BR&gt;&lt;BR&gt;The Black Dragon is ordering the dracoliths to... training them to attack the Goddess? It just doesn't track...&lt;BR&gt;&lt;BR&gt;Let's stop in at the camp and see if the garrison there has any answers.</Page>
+    </Text>
+    <Text id="28" huntingZoneId="833" prevId="24" villagerId="1260">
+        <Page social="0" voiceTypeId="0">A giant Black Dragon, giving orders to other dragons... and they're planning to attack Velik! We have to find a way to stop them!&lt;BR&gt;&lt;BR&gt;Let's stop in at the camp and see if the garrison there has any answers.</Page>
+    </Text>
+    <Text id="29" huntingZoneId="833" prevId="25" villagerId="1114">
+        <Page social="0" voiceTypeId="0">Strangers... wearing black... and all those dragons... Overwhelmed us... took prisoners... Zaeltarazad Shrine!&lt;BR&gt;&lt;BR&gt;Rescue... them...</Page>
+    </Text>
+    <Text id="30" huntingZoneId="833" prevId="29" villagerId="1261">
+        <Page social="0" voiceTypeId="0">The strangers he spoke of... they must be Vergos's followers. We need to rescue those soldiers, and fast!&lt;BR&gt;&lt;BR&gt;The Zaeltarazad Shrine is this way! Follow me!</Page>
+    </Text>
+    <Text id="31" huntingZoneId="833" prevId="30" villagerId="1086">
+        <Page social="0" voiceTypeId="0">More of those plants! I guess we're on the right track.&lt;BR&gt;&lt;BR&gt;But that also means we're going to run into a lot of dragons...&lt;BR&gt;&lt;BR&gt;We'll just have to run through them.&lt;BR&gt;&lt;BR&gt;Whatever happens, don't stop to fight! Just run!</Page>
+    </Text>
+    <Text id="32" huntingZoneId="833" prevId="31" villagerId="1267">
+        <Page social="0" voiceTypeId="0">The stranger in black... she spoke of Vergos like it was some kind of god.&lt;BR&gt;&lt;BR&gt;And she could speak with the dragons! She was actually giving them orders!&lt;BR&gt;&lt;BR&gt;Listen, there are more of us in the other cages. Please... free them.</Page>
+    </Text>
+    <Text id="33" huntingZoneId="833" prevId="32" villagerId="1264">
+        <Page social="0" voiceTypeId="0">If the rumors about Velik and Vergos are true... it explains everything.&lt;BR&gt;&lt;BR&gt;Why the followers are slaughtering people... why they're after Velik... everything!</Page>
+    </Text>
+    <Text id="34" huntingZoneId="833" prevId="32" villagerId="1264">
+        <Page social="0" voiceTypeId="0">It's a rumor I heard a while back.&lt;BR&gt;&lt;BR&gt;Vergos suddenly reappeared in the world, alive, so the federation ordered its finest heroes to defeat Vergos.&lt;NEXTPAGEBUTTON&gt;"Right. I was there."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">But Vergos had many followers who survived, and now they're seeking vengeance.&lt;BR&gt;&lt;BR&gt;It all just makes sense.&lt;BR&gt;&lt;BR&gt;Argh! I wish I still had my journal! I need to write all of this down!&lt;BR&gt;&lt;BR&gt;Free the rest of the soldiers, and we'll talk some more.</Page>
+    </Text>
+    <Text id="35" huntingZoneId="833" prevId="32" villagerId="1264">
+        <Page social="0" voiceTypeId="0">I originally thought that Vergos was just a myth. But I heard a rumor that Vergos suddenly appeared in the world, so federation ordered its finest heroes to defeat Vergos.&lt;NEXTPAGEBUTTON&gt;"So now they want to avenge Vergos."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">They blame Velik, naturally. It all fits.&lt;BR&gt;&lt;BR&gt;Argh! I wish I still had my journal! I need to write all of this down!&lt;BR&gt;&lt;BR&gt;Free the rest of the soldiers, and we'll talk some more.</Page>
+    </Text>
+    <Text id="36" huntingZoneId="833" prevId="33" villagerId="1271">
+        <Page social="0" voiceTypeId="0">The stranger in black... she spoke of Vergos like it was some kind of god. And she could command the dragons!&lt;BR&gt;&lt;BR&gt;Listen, there are more of us in the other cages.&lt;BR&gt;Please... free them.</Page>
+    </Text>
+    <Text id="37" huntingZoneId="833" prevId="36" villagerId="1274">
+        <Page social="0" voiceTypeId="0">Thank you, thank you!&lt;BR&gt;&lt;BR&gt;That woman... she said she was going to kill Velik!&lt;BR&gt;&lt;BR&gt;I don't understand what's going on... but I think we need to evacuate the village...</Page>
+    </Text>
+    <Text id="38" huntingZoneId="833" prevId="37" villagerId="1087">
+        <Page social="0" voiceTypeId="0">So... Elenea was a diversion? They were actually after Velika?&lt;BR&gt;&lt;BR&gt;The Goddess... she's in terrible danger!&lt;BR&gt;&lt;BR&gt;We must go to Velika and warn everyone!</Page>
+    </Text>
+    <Text id="39" huntingZoneId="833" prevId="37" villagerId="1087">
+        <Page social="0" voiceTypeId="0">The dragons went into that device, so I'm guessing it's some form of teleportal. Regardless, this is the only option we have.&lt;BR&gt;&lt;BR&gt;We should follow them through, and hope that it leads us to the mastermind behind all of this.&lt;NEXTPAGEBUTTON&gt;"What are we waiting for?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Okay... let's activate the device. After all, wherever it goes, there are bound to be dragons menacing the innocent... and they'll need to be stopped.&lt;BR&gt;&lt;BR&gt;After this, I'll head for Velika and warn everyone!</Page>
+    </Text>
+    <Text id="40" huntingZoneId="833" prevId="37" villagerId="1087">
+        <Page social="0" voiceTypeId="0">I don't think we have time. We'd have to come back all the way here, at the troops' pace.&lt;BR&gt;&lt;BR&gt;Let's track down the final location and bring the troops back later.&lt;BR&gt;&lt;BR&gt;I don't particularly trust this device... but we have no choice.&lt;BR&gt;We need to go now. Wherever it goes, there will be dragons to defeat!&lt;NEXTPAGEBUTTON&gt;"Ready when you are."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Okay... let's activate the device.&lt;BR&gt;After all, wherever it goes, there are bound to be dragons menacing the innocent... and they'll need defeating.&lt;BR&gt;&lt;BR&gt;After this, I'll head for Velika and warn everyone!</Page>
+    </Text>
+    <Text id="41" huntingZoneId="833" prevId="37" villagerId="1087">
+        <Page social="0" voiceTypeId="0">I was watching when the follower activated this device.&lt;BR&gt;&lt;BR&gt;And I agree: It does look suspicious... but we really have no choice.&lt;BR&gt;&lt;BR&gt;And if it leads us to the mastermind behind all this, the risk is worth it.&lt;NEXTPAGEBUTTON&gt;"Okay. I'm ready, then."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Okay... let's activate the device. After all, wherever it goes, there are bound to be dragons menacing the innocent, and someone will need to defeat them.&lt;BR&gt;&lt;BR&gt;After this, I'll head for Velika and warn everyone!</Page>
+    </Text>
+    <Text id="42" huntingZoneId="4" prevId="38" villagerId="3000">
+        <Page social="0" voiceTypeId="0">We're in Fyrmount!&lt;BR&gt;&lt;BR&gt;It looks like they chose a desolate place to prepare their assault. I'm sure the followers are somewhere nearby.&lt;BR&gt;&lt;BR&gt;Look! It's the same plant that we saw in Wyrmgorge!&lt;BR&gt;&lt;BR&gt;Nice of them to make a trail for us to follow...</Page>
+    </Text>
+</QuestDialog>

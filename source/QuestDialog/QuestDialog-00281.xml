@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1009">
+        <Page social="4">The {@LinkCreature:11#1008#Red Lash pirates} and {@LinkCreature:11#1004#diggers} are carrying cargo around. That ain't new.&lt;BR&gt;&lt;BR&gt;But they're being really careful with the cargo. Never seen that before.&lt;BR&gt;&lt;BR&gt;They aren't pilfering from it, so it's not delicate treasure. My guess? Explosives. Whatever it is, seize it—but be careful!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1009">
+        <Page social="4">Just as I thought...bombs. Enough of this stuff, and you could sink a fleet...or wreck a city.&lt;BR&gt;&lt;BR&gt;But pirates don't use explosives much, because they don't like blowing up their own treasure. Hmmm...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1009">
+        <Page social="0">Hurry up and seize those explosives before the Red Lash does something terrible with them!</Page>
+    </Text>
+</QuestDialog>

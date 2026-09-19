@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1106">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1106">
+        <Page social="4">I'll bet everyone this side of Castanica has been asking you to hunt out-of-control predators, huh? With the army gone and most of the civilians fled, they're running rampant.&lt;BR&gt;&lt;BR&gt;Far be it from me to break the streak. Right now, {@LinkCreature:10#21#ebon sabertooths} are public enemy number one.&lt;BR&gt;&lt;BR&gt;You know the drill, &lt;PCCLASS:lcase&gt;. Get to it!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1106">
+        <Page social="4">Back already? You have been practicing, that's for sure. I almost feel sorry for the sabertooths.&lt;BR&gt;&lt;BR&gt;Or is the plural "saberteeth?" I can never remember.</Page>
+    </Text>
+</QuestDialog>

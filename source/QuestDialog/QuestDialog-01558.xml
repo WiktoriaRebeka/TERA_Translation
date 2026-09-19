@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">&lt;PCNAME&gt; met Morick, a baraka studying flying mounts who needed help to complete his research. Morick asked &lt;PCNAME&gt; to act as a go-between with Garta, a goblin moneylender to whom he owed a debt.&lt;BR&gt;&lt;BR&gt;Garta claimed that Morick failed to pay his debts in time—but agreed to return the collateral if &lt;PCNAME&gt; could find his missing pet frog.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="1500">
+        <Page social="4">Are you &lt;PCNAME&gt;? You have gotten quite the reputation around the camp here.&lt;BR&gt;&lt;BR&gt;I wonder if you can help me. You see, I borrowed money some time ago from the Goblin Smugglers' League in order to continue my research.&lt;BR&gt;&lt;BR&gt;I finally have the funds to repay my debt, but the moneylender refuses to take it! I gave him some of my notes as collateral, and he believes they are more valuable to him than my money.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">I need to get my notes back, but Garta, the moneylender, refuses to even talk to me.&lt;BR&gt;&lt;BR&gt;Could you please persuade him to return my research?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2002">
+        <Page social="3">Eh? That baraka tells you his story—not whole story!&lt;BR&gt;&lt;BR&gt;His debt is long overdue. Papers are mine now!&lt;NEXTPAGEBUTTON&gt;"Can't we compromise...?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="3">No compromise!&lt;BR&gt;&lt;BR&gt;Hm...actually...&lt;BR&gt;&lt;BR&gt;There is something more valuable than baraka papers! My frog! Frog disappeared this morning.&lt;BR&gt;&lt;BR&gt;You return my frog, I give you papers!&lt;BR&gt;&lt;BR&gt;Go look around crystal merchant. Frog likes shiny things.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" prevId="4" villagerId="2904">
+        <Page social="0">What? Garta's frog? Yes, I saw it.&lt;BR&gt;&lt;BR&gt;It was trying to eat my stock! I'm sure Garta trained it to steal crystals for him.&lt;BR&gt;&lt;BR&gt;Anyway, I chased it off, and it went under that big wagon behind my tent. It's probably still there.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2002">
+        <Page social="3">Under wagon? Not likely! Frog loves heights.&lt;BR&gt;&lt;BR&gt;Here. Use this, you get up there, too!</Page>
+    </Text>
+</QuestDialog>

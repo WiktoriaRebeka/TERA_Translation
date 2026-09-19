@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="0">Jodoc informed &lt;PCNAME&gt; that once Dakanius discovers the assault leaders are dead, he would take revenge on Crescentia. &lt;PCNAME&gt; went to Vanguard Outpost in Oblivion Woods to warn Hendry.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1009">
+        <Page social="4" voiceTypeId="0">We believe the leaders reported to someone named &lt;font color='#660000'&gt;Dakanius&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Once Dakanius hears that you defeated them, he'll want revenge—if not on you, then on us.&lt;BR&gt;&lt;BR&gt;We need to fortify the town, and to warn our outpost commanders.&lt;BR&gt;&lt;BR&gt;I can't spare any troops, so I'll need you to head out to Vanguard Outpost and let Hendry know to expect trouble.&lt;NEXTPAGEBUTTON&gt;"As ordered."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Talk to Justarius about getting a guide. You'll find him and his squad near the entrance of the town.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1011">
+        <Page social="4" voiceTypeId="0">So, I hear that even as a recruit, you've done some pretty amazing things for the Valkyon Federation. And now you need a guide to the Vanguard Outpost?&lt;BR&gt;&lt;BR&gt;Maybe we can help each other. Hendry keeps asking for reinforcements, but these keeners just aren't ready. They've got the nerve, but not the experience, and I can't train them fast enough.&lt;BR&gt;&lt;BR&gt;So let's do this: I'll tell one of my recruits to guide you to the outpost...but you'll really be protecting him from all the undead between here and there.&lt;BR&gt;&lt;BR&gt;Does that work for you?&lt;NEXTPAGEBUTTON&gt;"Sounds good to me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Good. Keep him alive, but don't be afraid to let him get his hands dirty. Okay?&lt;BR&gt;&lt;BR&gt;Hey! I need a volunteer to escort this &lt;PCCLASS:lcase&gt; to Vanguard Outpost!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3" villagerId="5">
+        <Page social="0">I...I'll show you to the outpost. And I'll keep you safe! There are a lot of undead monsters between here and there...&lt;BR&gt;&lt;BR&gt;...a lot...</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="3" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Welcome to the front line in the never-ending battle against the undead.&lt;BR&gt;&lt;BR&gt;Thanks for getting my soldier here in one piece. These recruits mean well, but they have no training, and less sense.</Page>
+    </Text>
+</QuestDialog>

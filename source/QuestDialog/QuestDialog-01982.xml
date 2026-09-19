@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">You cleaned the center area of the temple.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">Kodar needs assistance in the temple center.&lt;BR&gt;&lt;BR&gt;Please enter the temple via the teleportal and ask Kodar what you can do to help. &lt;NEXTPAGEBUTTON&gt;"It would be my honor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">Welcome, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;My duties require my presence elsewhere, but I know that I can count on you to tend to things here in the temple center. The temple incense needs refreshing, the mirrors need cleaning, vermin are getting into the temple, and the snakes are back. For now, though, let's just focus on one thing.&lt;NEXTPAGEBUTTON&gt;"I'll take care of it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">May Balder's light shine upon you!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">May Balder's light shine upon you!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="2" villagerId="7003">
+        <Page social="4">May Balder's light shine upon you!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="7000">
+        <Page social="4">Truly, you have been sent by Balder!&lt;BR&gt;&lt;BR&gt;Please accept this humble token of our appreciation.</Page>
+    </Text>
+</QuestDialog>

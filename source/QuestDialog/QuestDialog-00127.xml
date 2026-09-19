@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1046">
+        <Page social="0">&lt;PCNAME&gt; destroyed the weapons the cult of Lok were supplying to the devas, and found more in their inner sanctum.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1046">
+        <Page social="4" voiceTypeId="0">This is bad. Lok is...was...the epitome of evil. He murdered Balder and nearly destroyed the world!&lt;BR&gt;&lt;BR&gt;If his cultists somehow restore him to life, the entire world will fall into chaos and ruin!&lt;NEXTPAGEBUTTON&gt;"What can I do to stop this?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1046">
+        <Page social="4" voiceTypeId="0">It's hard to say. Certainly, we can attack Lok's cultists...cut them off from the devan raiders.&lt;BR&gt;&lt;BR&gt;Clearly, the cultists are supplying the devas with weapons and using them as shock troops, so we need to destroy their armory.&lt;BR&gt;&lt;BR&gt;I'll work on finding hard proof of cultists' involvement, so Hendry can show it to the garrison commander in Velika.&lt;BR&gt;&lt;BR&gt;Meanwhile, you should go destroy those weapons! Come find me at the crossroads when you're done.&lt;NEXTPAGEBUTTON&gt;"I'm on it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1048">
+        <Page social="4" voiceTypeId="0">Look...over there in the sanctuary!&lt;BR&gt;&lt;BR&gt;Cultists!&lt;BR&gt;&lt;BR&gt;Kantusa was right. The cultists are working with the devas to destabilize Oblivion Woods.&lt;BR&gt;&lt;BR&gt;We might never have learned about this without her sacrifice.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="2022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="2022">
+        <Page social="4">There are those who seek power for the sake of power, and those who seek it for the sake of the world.&lt;BR&gt;&lt;BR&gt;If you are the latter, visit &lt;font color='#0000FF'&gt;Henan&lt;/font&gt; in Highwatch.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="2022">
+        <Page social="4">Ah, a berserker, seeking to expand your knowledge. I can show you new ways to use your existing skills, but for true mastery you must visit Tarkloon. He will teach you how to harness your rage to protect others.&lt;BR&gt;&lt;BR&gt;Until you do, you won't be able to use &lt;font color='#FF0000'&gt;Fiery Rage VI&lt;/font&gt;, &lt;font color='#FF0000'&gt;Unchained Anger VIII&lt;/font&gt;, and &lt;font color='#FF0000'&gt;Axe Block II&lt;/font&gt; to their full potential.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="9999">
+        <Page social="4">If you've come to me for training, it means you're ready to become more than just a killer. Are you ready to take the next step? Working with me will change everything you know about yourself.&lt;BR&gt;&lt;BR&gt;Few berserkers make it this far without surrendering to their rage at least once. I'm going to teach you to transform that anger into something wonderful.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1097">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1097">
+        <Page social="5">Velika's really big. Learning to navigate and find what you need in the federation capital will make other cities seem easy to get around in.&lt;BR&gt;&lt;BR&gt;Eikvan can give you a few tips—he's standing right behind me.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1007">
+        <Page social="5">New here? Lots to do in Velika. You can buy, sell, bank, get training, even learn to craft weapons and armor.&lt;BR&gt;&lt;BR&gt;The Mysterium gave us some teleportals to help get around a little faster, but walking's free.&lt;BR&gt;&lt;BR&gt;Enjoy your stay!&lt;NEXTPAGEBUTTON&gt;"How do I teleport?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">There's a teleportal up those steps just east of here. When you get close, press the &lt;b&gt;F&lt;/b&gt; key and choose a location.&lt;BR&gt;&lt;BR&gt;Check your Mini-Map if you're not sure where you're going.&lt;BR&gt;&lt;BR&gt;You'll have to teleport from one of those locations to get directly back here. Like I said, walking's free and maybe a little simpler, but who says no to the Mysterium?</Page>
+    </Text>
+</QuestDialog>

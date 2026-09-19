@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1017">
+        <Page social="5">You seem to be very popular, &lt;PCNAME&gt;. The camp west of Pora Elinu needs a capable soldier and they've asked for you by name.&lt;BR&gt;&lt;BR&gt;Would you go and help them? Speak with {@LinkCreature:223#1010$$Lohona} at the Valkyon Federation camp.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1010">
+        <Page social="5">You're &lt;PCNAME&gt;? Not what I expected. From the tales surrounding you. I thought you'd be as tall as a dracoloth.&lt;BR&gt;&lt;BR&gt;Well, let's put you to work and see if the stories hold up.</Page>
+    </Text>
+</QuestDialog>

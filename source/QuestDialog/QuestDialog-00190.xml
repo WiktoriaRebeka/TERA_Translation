@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1002">
+        <Page social="4">We need to hit the gulas' slave operation where it hurts—right in the coinpurse.&lt;BR&gt;&lt;BR&gt;No, that's not a euphemism. I'm talking about actual coinpurses.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:8#2051#devan acolytes} run a lot of the business at the slave markets. See if you can make them take their coinpurses elsewhere. Greed is the worst!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1002">
+        <Page social="4">Those devas were no better than the gulas. You did well.</Page>
+    </Text>
+</QuestDialog>

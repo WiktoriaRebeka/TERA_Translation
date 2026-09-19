@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1000">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870201'/&gt;&lt;BR&gt;You met Miayn and Larni to prove your skills, then met Rida, the Princess of Elin.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1000">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870201'/&gt;&lt;BR&gt;As you've already noticed, this is a dangerous region. Only the strong last more than a day.&lt;BR&gt;&lt;BR&gt;But I hear that you're some kind of special mercenary, personally recruited by Rida herself. And I'm told you wield a special weapon. A pair of scythes, I believe? I'll tell you what: Show me that you can actually use those things, and I'll believe you can be of some use to us. &lt;NEXTPAGEBUTTON&gt;"I can do that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I'm told that a true blade expert can cut down multiple enemies in one motion.&lt;BR&gt;&lt;BR&gt;Go over to those training dummies, and show me Double Shear.&lt;BR&gt;&lt;BR&gt;After you demonstrate Double Shear, I'll feel more confident recommending you to Larni for final approval.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1001">
+        <Page social="4" voiceTypeId="0">Administrator Miayn has notified me of your arrival, and recommended you highly. So you're in. Welcome to the Honor Guard!&lt;BR&gt;&lt;BR&gt;Now you need to learn about what we do here. Before...well...all this, we protected Princess Rida, and spent our time during the Argon War procuring and escorting supplies.&lt;BR&gt;&lt;BR&gt;En route back to Pora Elinu with supplies, we were hit by orcan raiders. We had no choice but to run, and we lost a lot of soldiers in the process.&lt;NEXTPAGEBUTTON&gt;"You did your best."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Thank you for saying so. But our duties have changed. Now we guard the refugees from the Lake of Tears, and wait for the order to return to Pora Elinu.&lt;BR&gt;&lt;BR&gt;Miayn says you were recruited personally by Rida, for your skill with those scythes. So show me.&lt;BR&gt;&lt;BR&gt;Attack one of these dummies with your Grim Strike.&lt;BR&gt;&lt;BR&gt;After you demonstrate Grim Strike I, you can report to Princess Rida at the Princess' Quarters to receive your mission.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1022">
+        <Page social="4" voiceTypeId="0">You must be the mercenary that Larni was talking about...&lt;BR&gt;&lt;BR&gt;I know that there are a lot of rumors about who you are, and how I personally recruited you...but let them believe what they want to. We both know where you came from...and why you're here.&lt;BR&gt;&lt;BR&gt;So let's put your skills to use. The area between here and Pora Elinu is swarming with orcans, and we have lost all contact with Pora Elinu. Please find a way to drive out the orcans and get us back to Pora Elinu.&lt;NEXTPAGEBUTTON&gt;"I will do my best."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Thank you!&lt;BR&gt;&lt;BR&gt;Speak to Tuaha about any supplies you might need. Just show him what you're capable of, and he'll give you what you need.&lt;BR&gt;&lt;BR&gt;And remember: We're counting on you!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1003">
+        <Page social="4" voiceTypeId="0">Supplies are limited! Everything here was recovered from the woods by supply soldiers who risked their lives. We don't know when or if we will get more supplies.&lt;BR&gt;&lt;BR&gt;I don't care who sent you. If I let you take whatever supplies you want, then you go out there and get yourself killed, someone who really needs them has to do without!&lt;BR&gt;&lt;BR&gt;But prove to me that you can handle yourself, and I'll give you what you need—no more, no less. &lt;NEXTPAGEBUTTON&gt;"I understand."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Okay...&lt;BR&gt;&lt;BR&gt;Fine. Go over to one of those dummies, and show me your Spiral Barrage.&lt;BR&gt;&lt;BR&gt;If you can pull that off, I'll know that I'm not just throwing away valuable supplies.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" prevId="5" villagerId="1003">
+        <Page social="4" voiceTypeId="0">I, uh. Well. Yes, I think you're perfectly capable of defending yourself.&lt;BR&gt;&lt;BR&gt;Here, take these. They're the best I've got. Don't let them go to waste.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1026">
+        <Page social="4">The argons tested indoctrination methods here—or so we've figured out from the machinery around Raga Kabash.&lt;BR&gt;&lt;BR&gt;If we're going to counter argon indoctrination, we need to know how they do it.&lt;BR&gt;&lt;BR&gt;The Lokian slayers are the key. They're intact, so they might have some samples—fluids, devices, or whatever—of the latest argon techniques.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1026">
+        <Page social="5">Now that we know what they use to indoctrinate their victims, we're one step closer to countering it.&lt;BR&gt;&lt;BR&gt;If it's possible, go downstairs and tell Nevian what we've found. He could use some good news.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1026">
+        <Page social="0">Slay the slayers and score me some samples. Huh. Try saying that five times fast.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1102">
+        <Page social="0">I'm glad things are going so great for Beranie, but we're not exactly productive here.</Page>
+    </Text>
+</QuestDialog>

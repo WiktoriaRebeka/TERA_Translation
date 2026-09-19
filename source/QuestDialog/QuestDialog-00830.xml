@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1007">
+        <Page social="5">The Thulsans occupy the Croskurn Mines. The Desert Scourge kulkaris guarding the surrounding area are taking us out one by one. The first step toward taking back the mines is, well...not being dead. Let's see what you've got. Take down as many of them as you can.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1007">
+        <Page social="7">Well I'll be a kulkari's uncle—you did it, &lt;PCNAME&gt;! Just annihilated them.&lt;BR&gt;&lt;BR&gt;Now our miners can get back to some semblence of normalcy.</Page>
+    </Text>
+</QuestDialog>

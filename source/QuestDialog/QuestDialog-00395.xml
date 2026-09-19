@@ -1,0 +1,25 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Enough speculation. Get that sample to Bedoram. It gives me the creeps.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1030">
+        <Page social="4" voiceTypeId="0">Let me examine this more closely.&lt;BR&gt;&lt;BR&gt;There are symbols inscribed on it. That makes no sense. Why would Lok's sigil be on this fragment? Lok is dead, and all but forgotten...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1030">
+        <Page social="0">We need to get rid of that dementalith!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="215" prevId="3" villagerId="1030">
+        <Page social="4" voiceTypeId="0">A cult dedicated to him? That is quite bizarre, but it might explain a few details. Cults thrive in splintered societies, drawing strength from the disaffected. This chaos could be the start of something much larger.&lt;BR&gt;&lt;BR&gt;Take this news to Prefect Paka, my friend. Hurry!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="67" prevId="5" villagerId="1007">
+        <Page social="4" voiceTypeId="0">A dementalith? Blood magic? A cult? Nature hates me.&lt;BR&gt;&lt;BR&gt;Why would the vampirs be working with a cult? They're happy here. We all are. It doesn't make sense.&lt;BR&gt;&lt;BR&gt;But where are my manners? I've forgotten the important thing!&lt;NEXTPAGEBUTTON&gt;"What's that?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">To thank you and Bedoram, obviously! You've saved my town from death...or worse! We can't thank you enough!&lt;BR&gt;&lt;BR&gt;I fear that's literally true. With all these troubles, we've borrowed heavily to keep the district running.&lt;BR&gt;&lt;BR&gt;But tell {@LinkCreature:215#1012#Bruke} how grateful I am and I'm sure he'll reward you!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="215" prevId="6" villagerId="1012">
+        <Page social="4" voiceTypeId="0">You did your job, nothing more. Don't expect a parade in Velika anytime soon.&lt;BR&gt;&lt;BR&gt;Still, I'm authorized to give you a small reward.&lt;BR&gt;&lt;BR&gt;Take this, and await further orders...if General Samael finds a use for you again, that is.</Page>
+    </Text>
+</QuestDialog>

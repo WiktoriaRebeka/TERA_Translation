@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1021">
+        <Page social="4">I can't! It's just...too much! Better I never enlisted. Better I'd died in the Cult's first attack!&lt;BR&gt;&lt;BR&gt;Lost my uncle and his family when the Cult took over. Joined the army to help my people. Other uncle's in the cult himself. Those fields? Full of people I know. Cult kidnaps anyone they can and kills those who won't join!&lt;BR&gt;&lt;BR&gt;I can't. Can't kill them. They're my blood! I'm no coward, but Nature weeps at this!&lt;BR&gt;&lt;BR&gt;These {@LinkCreature:17#300580#enthralled workers} aren't your folk. They have to die. If you'll do it mercifully, I'll be in your debt.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1021">
+        <Page social="5">Elinu, wash their souls in rivers of moonlight. Take their blood and make it pure again.&lt;BR&gt;&lt;BR&gt;Thank you, friend.</Page>
+    </Text>
+</QuestDialog>

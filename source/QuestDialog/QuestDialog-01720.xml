@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You faced the Dark Master of Dragons once more, but you didn't have a chance against his power. Just when all hope seemed lost, you fell into your own personal purgatory.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="4" prevId="2" villagerId="3063">
+        <Page social="0" voiceTypeId="0">Not far from here, we saw another teleportal device, like the one we saw at Wyrmgorge!&lt;BR&gt;&lt;BR&gt;The Vergos cultist must have used it. I'll stay here to advise the federation troops.&lt;BR&gt;&lt;BR&gt;You should hurry. You can probably still catch him!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="508" prevId="3" villagerId="7001">
+        <Page social="0" voiceTypeId="0">We meet again, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;We are in a representation of the depths of your soul, where all of your Inner Demons dwell.&lt;BR&gt;Frustration, anxiety, regret... everything you cannot let go of.&lt;BR&gt;They are a part of who you are, but because they partially control you, you perceive them as enemies to defeat.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you must overcome your Temper.</Page>
+    </Text>
+</QuestDialog>

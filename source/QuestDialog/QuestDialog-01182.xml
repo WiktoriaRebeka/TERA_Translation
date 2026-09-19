@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="53" huntingZoneId="49" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="249" prevId="0" villagerId="1021">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="249" prevId="0" villagerId="1021">
+        <Page social="4">Hey! You look like you can handle yourself. Can you give me a hand?&lt;BR&gt;&lt;BR&gt;I'm supposed to be mining shards, but those {@LinkCreature:49#2}s and {@LinkCreature:49#101}s will tear me to bits.&lt;BR&gt;&lt;BR&gt;Tell you what—if you clear those blasted kelba refiners away, I'll pay you in {@RawItem:206811}s.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="249" prevId="2" villagerId="1021">
+        <Page social="6">See, this is why you're a soldier and I'm a miner. You lived. I wouldn't have.&lt;BR&gt;&lt;BR&gt;As promised, here's your payment. I picked out the best ones for you.</Page>
+    </Text>
+</QuestDialog>

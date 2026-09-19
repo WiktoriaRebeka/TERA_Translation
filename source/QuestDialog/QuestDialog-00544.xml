@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1029">
+        <Page social="4">I can't ignore the danger the basilisks pose any longer. Velika says no one goes in, but Chebika won't be safe until someone does.&lt;BR&gt;&lt;BR&gt;You're authorized to enter the Vale of Graves and kill {@LinkCreature:21#2#dusky basilisks}. Report back once you're finished.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1029">
+        <Page social="6">Basilisks are nothing to trifle with. I salute your courage, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1029">
+        <Page social="0">Chebika is under federation protection. I have my orders, as do you. Take out the basilisks.</Page>
+    </Text>
+</QuestDialog>

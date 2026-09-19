@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1003">
+        <Page social="4">Everyone's just hacking down the vampirs, but I'm not sure that's going to be the best plan. I think we can...fix them, as it were...if we can figure out what's going on.&lt;BR&gt;&lt;BR&gt;They're stronger now than they ever were before. I might be able to figure out why, if I examine their blood.&lt;BR&gt;&lt;BR&gt;Go out and get me a few blood samples from the {@LinkCreature:16#2301#blood maids}, if you would.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1003">
+        <Page social="4">This...is not what I expected. I can't even properly read these results. It's clear, however, this is not the result of a diet change.&lt;BR&gt;&lt;BR&gt;I think there's some dark magic behind this...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1003">
+        <Page social="0">Have you brought the blood I need? Hand it over if you have it.</Page>
+    </Text>
+</QuestDialog>

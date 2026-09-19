@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1004">
+        <Page social="4">Oh dear, &lt;PCNAME&gt;, it looks like it's going to be even worse than we thought. Turns out, the tuwangi are planning to attack any non-tuwangi that comes onto the reservation! One of the {@LinkCreature:205#1006#Merchants} just went in there to trade a little while ago—can you please go after him? Bring him back, or at least help him get out of there. His name is Boermas.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="4">Jaedon sent you out in case I got attacked, did he? Well, it was a nice thought, if a bit late.&lt;BR&gt;&lt;BR&gt;They seemed so nice when I got here, offering me food...it was too late before I realized that it was poisoned.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1005">
+        <Page social="1">I have another project if you're interested. This map of the {@Rgn:30001#refuge} was made long ago by {@Creature:230#1007$$Lashinuk}'s clan, the Consos.&lt;BR&gt;&lt;BR&gt;This {@Rgn:30007#pavilion} used to service an army of golems.&lt;NEXTPAGEBUTTON&gt;"So?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">So, the {@LinkCreature:30#180#brass conservators} contain instructions in their cores on how to maintain the refuge. Unfortunately, their self-repair systems are collapsing.&lt;BR&gt;&lt;BR&gt;If we want to take over for the golems, we must know what they know.&lt;BR&gt;&lt;BR&gt;Collect a few {@LinkCreature:30#180$$brass conservator} cores for me to decode.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1005">
+        <Page social="1">Beautiful! Active conservator cores!&lt;BR&gt;&lt;BR&gt;If you happen by Camp Sagacity, invite Sestena to join me in examining these.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1005">
+        <Page social="0">These cores, if we get them intact, will greatly advance our efforts to preserve and repair the refuge.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="1019">
+        <Page social="1">Naisas has a working core? Several?&lt;BR&gt;&lt;BR&gt;Oh, my. What amazing breakthrough for us, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

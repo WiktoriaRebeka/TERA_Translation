@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1007">
+        <Page social="0">&lt;PCNAME&gt; passed Oriyn's trial in order to find the secret behind Timespace crack and demokron invasion, but Dakuryon, who had been disguised as Madat, captured High Elder Verikam along with Oriyn's Arcana. In the process, Dakuryon became interested in Zolyn, who has resistance against dark magic.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1007">
+        <Page social="1" voiceTypeId="0">Perhaps you would be so kind as to satisfy my curiosity about you and your people, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;You clearly are not of this land. So why have you come here? Are your people explorers? Conquerors?&lt;NEXTPAGEBUTTON&gt;"The archdevas attacked us, and we came to stop them."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">It troubles me that the archdevas have found a way through the Storm Barrier—but I admit I find it fascinating that there is a world beyond our borders. There were legends, of course, but never any proof—until today.&lt;BR&gt;&lt;BR&gt;We have had a great deal of experience battling the Archdevan Imperial Army; do you have any questions about how to combat them?&lt;NEXTPAGEBUTTON&gt;"Tell me everything you know."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Heh heh. Highwatch is a city devoted to knowledge, &lt;PCNAME&gt;. I could not tell you everything we know, not in a hundred lifetimes.&lt;BR&gt;&lt;BR&gt;But on the subject of combatting archdevas, allow me to tell you everything you NEED to know.&lt;BR&gt;&lt;BR&gt;Do you see this book?&lt;NEXTPAGEBUTTON&gt;"Yes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Forgive me, but you do not. It is not a book, but a manifestation of Oriyn's will. You could read it forever, but never understand a single word—unless Oriyn wills it.&lt;BR&gt;&lt;BR&gt;Even then, for the instruction to take, it must be...memorable.&lt;BR&gt;&lt;BR&gt;If you are prepared for the risk, simply touch the book, and focus on the knowledge you seek.&lt;NEXTPAGEBUTTON&gt;"I'm ready."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1100">
+        <Page social="1" voiceTypeId="0">"The Archedevan Invasion:&lt;BR&gt;&lt;BR&gt;"Long ago, archdevan sorcerers learned the foul secrets of blood magic, and used it to alter their forms.&lt;BR&gt;&lt;BR&gt;"The blood magicians passed their knowledge on to others, who used it for many vile purposes, altering other living creatures to suit their whims.&lt;BR&gt;&lt;BR&gt;"But then came Dakuryon, who saw in blood magic a means to conquest—and in conquest, a means to expand his knowledge of blood magic: a never-ending cycle of madness and death.&lt;BR&gt;"Not content with Northern Arun, Dakuryon used his blood magic to pierce the Storm Barrier and invade the rest of the world, while he disguised himself as..."&lt;NEXTPAGEBUTTON&gt;Turn the page to learn more.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="814" prevId="3" villagerId="2008">
+        <Page social="1" voiceTypeId="0">(The glyphs covering the surface of the cubes mean nothing to you—except perhaps one...)&lt;NEXTPAGEBUTTON&gt;"Something about this one..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Know, mortal, that Oriyn's knowledge lives on in the Arcana.&lt;BR&gt;&lt;BR&gt;All truths are found herein—for good or for ill.&lt;BR&gt;&lt;BR&gt;But truth is meaningless if you cannot accept it.&lt;BR&gt;&lt;BR&gt;And knowledge is useless if you do not act upon it.&lt;BR&gt;&lt;BR&gt;WHAT TRUTH WOULD YOU KNOW AND ACT UPON?&lt;NEXTPAGEBUTTON&gt;"Who is Dakuryon? How do I find him?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">There is a price for this truth:&lt;BR&gt;&lt;BR&gt;The life of a stranger.&lt;BR&gt;&lt;BR&gt;The life of a mentor.&lt;BR&gt;&lt;BR&gt;And the life of a friend.&lt;BR&gt;&lt;BR&gt;WILL YOU PAY THIS PRICE?&lt;NEXTPAGEBUTTON&gt;"If I don't, who else?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="814" prevId="4" villagerId="2001">
+        <Page social="1" voiceTypeId="0">You have survived, which signifies that it is Oriyn's will that you find the answer you seek. Tell me, what did Oriyn show you?&lt;NEXTPAGEBUTTON&gt;"Just this glyph..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="814" villagerId="2001">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="814" prevId="5" villagerId="2001">
+        <Page social="1" voiceTypeId="0">This glyph? How did you happen to select this one?&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"It...seemed important, somehow...?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I ask because Oriyn's knowledge does not manifest as riddles. A single glyph, with a meaning open to interpretation, with no context whatsoever? That seems out of character for the god of knowledge.&lt;BR&gt;&lt;BR&gt;Was this all that transpired here?&lt;NEXTPAGEBUTTON&gt;"There was...talk of a price to pay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Ah, well then. Then, perhaps in that context, this glyph may make some sense.&lt;BR&gt;&lt;BR&gt;This glyph can mean many things: visitor, foreigner, outlander...&lt;BR&gt;&lt;BR&gt;...stranger.&lt;NEXTPAGEBUTTON&gt;"I...I think it means you, Verikam."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="814" prevId="7" villagerId="2104">
+        <Page social="1" voiceTypeId="0">Nooo! Dakuryon was disguised as Madat? And Madat is dead?&lt;BR&gt;&lt;BR&gt;If I get my hands on you, Dakuryon, I will cut your heart out with a rusty saw!&lt;NEXTPAGEBUTTON&gt;"Rhodos, calm down. We need to make a plan."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">I have a plan!&lt;BR&gt;&lt;BR&gt;I am going to carve my way through every last archdevan in Dakuryon's army!&lt;BR&gt;&lt;BR&gt;I will lay waste to Arx Umbra and turn it into a tomb!&lt;BR&gt;&lt;BR&gt;And then I will rip Dakuryon apart and bury the pieces under a thousand tons of rock and fire!&lt;NEXTPAGEBUTTON&gt;"I can't deal with you when you're...like this..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="814" prevId="8" villagerId="2106">
+        <Page social="1" voiceTypeId="0">Who was that? Rhodos seemed to know him—but I've battled the Argon Queen, and never felt anything so powerful...or so evil!&lt;NEXTPAGEBUTTON&gt;"I don't...Wait. Where's Dougal?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">He stayed behind to guard the entrance to the vault.&lt;BR&gt;&lt;BR&gt;We should let him know what happened. He saw Madat as a kind of mentor, after all.&lt;NEXTPAGEBUTTON&gt;"I will do that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="5">So now you're taking on the naga and mekonari conspiracy. I'm impressed.&lt;BR&gt;&lt;BR&gt;I've been giving it a lot of thought, &lt;PCNAME&gt;, and I think the {@LinkCreature:42#1100#nickar enchantresses} could be part of this. If you find anything while you're busy killing things, let Vries know.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1042">
+        <Page social="4">A translation? Certainly....&lt;BR&gt;&lt;BR&gt;"Resurrect our lord Dagon...." Not surprising, that. "...offerings of blood...sacrifice...source of arcane power...."&lt;BR&gt;&lt;BR&gt;By Karas, could they actually do this?&lt;BR&gt;&lt;BR&gt;Go to Darim—he's a good thinker, and our best strategist. Tell him what it says here. He'll devise a plan.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1042">
+        <Page social="0">Have you faced the {@LinkCreature:42#1100#nickar enchantresses} yet? Do you have anything?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="3" villagerId="1035">
+        <Page social="5">Dagon. Dear Kaia...!&lt;BR&gt;&lt;BR&gt;The nagas are bad enough, but if they brought back Dagon, there'd be no place to hide. Every town in the region would be ash.&lt;BR&gt;&lt;BR&gt;And us, too.</Page>
+    </Text>
+</QuestDialog>

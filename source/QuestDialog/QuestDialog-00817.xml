@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1012">
+        <Page social="4">Please, help me! My son wandered off. I fear he's trying his hand at hunting.&lt;BR&gt;&lt;BR&gt;Shalim's heart is huge, but he's no match for a bear or barsicore, to say nothing of the other dangers out here.&lt;BR&gt;&lt;BR&gt;Could you help me find him? He's got a thing about hero worship. If you prove your strength, he'll gladly follow you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1014">
+        <Page social="4">Go back to my father? Hah! He'd never send someone like you after me. He's a great hunter. You're...well, not.&lt;BR&gt;&lt;BR&gt;Why is that vein bulging on your forehead? Look, if you can kill a {@LinkCreature:34#910#frostguard mugato cub}, I'll consider it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" prevId="3" villagerId="1014">
+        <Page social="4">Wow! That is one dead mugato!&lt;BR&gt;&lt;BR&gt;Perhaps I misjudged you, &lt;PCCLASS:lcase&gt;! Can I stay with you? I could learn to fight like you do.&lt;BR&gt;&lt;BR&gt;I only eat five times a day and my snores are actually soothing.&lt;NEXTPAGEBUTTON&gt;"Return to your father."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Bah! I don't want to go back. He never lets me do anything. "Clean this." "Cook this." "Stop hiding my weapons."&lt;BR&gt;&lt;BR&gt;I just want to show him I'm a great hunter, too.&lt;BR&gt;&lt;BR&gt;All right. Since you said so, I'll go back.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="234" villagerId="1014">
+        <Page social="0">Come on. It's just a mugato cub. I thought you were this powerful hunter?&lt;BR&gt;&lt;BR&gt;You shouldn't boast! Kaia will make your important parts fall off if you boast!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="234" prevId="4" villagerId="1012">
+        <Page social="4">Shalim is incredibly stubborn. If he can learn discipline, he'll be a fine hunter.&lt;BR&gt;&lt;BR&gt;In truth, I was no better when I was his age. I don't know how my father did it.&lt;BR&gt;&lt;BR&gt;In any case, thank you for finding Shalim.</Page>
+    </Text>
+</QuestDialog>

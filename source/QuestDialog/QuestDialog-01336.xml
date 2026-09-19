@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="55" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="255" prevId="0" villagerId="1028">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="255" prevId="0" villagerId="1028">
+        <Page social="4">The mekonari depredators and their urisks are massing, probably for an attack.&lt;BR&gt;&lt;BR&gt;We're the outpost closest to the Staff of Isren. We cannot surrender our position.&lt;BR&gt;&lt;BR&gt;Get out there and hit them first. We must regain control of the staff!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="255" prevId="2" villagerId="1028">
+        <Page social="4">You have our gratitude, &lt;PCNAME&gt;. Now we can take the staff back from Thulsa's playthings.</Page>
+    </Text>
+</QuestDialog>

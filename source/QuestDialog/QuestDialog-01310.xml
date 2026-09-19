@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="70" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5">Mission Orders&lt;BR&gt;&lt;BR&gt;Ill creatures threaten travelers and villagers in Scythera Fae. We must thin their numbers to keep the people safe.&lt;BR&gt;&lt;BR&gt;Kill {@LinkCreature:54#270#rampant ghilliedhus}, {@LinkCreature:54#120#bloodhorn mugatos}, {@LinkCreature:54#150#gutripper sabertooths}, and {@LinkCreature:54#440#feral poporis}.&lt;BR&gt;&lt;BR&gt;Report to Gillian at Scythera Fae when mission is complete.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="0" prevId="2" villagerId="0">
+        <Page social="5">You've earned the thanks of the federation. Your guild is an inspiration to all!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="0" villagerId="0">
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    </Text>
+</QuestDialog>

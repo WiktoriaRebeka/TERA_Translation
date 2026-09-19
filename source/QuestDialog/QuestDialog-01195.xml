@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="50" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="250" prevId="0" villagerId="1018">
+        <Page social="4">It's good to see you again, &lt;PCNAME&gt;. {@LinkCreature:250#1013}'s here, too.&lt;BR&gt;&lt;BR&gt;She's still working on her research. In fact, I heard her say that she needs some help. Why don't you talk to her?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="250" prevId="2" villagerId="1013">
+        <Page social="6">Your help proved invaluable last time, &lt;PCNAME&gt;. Are you interested in a repeat performance?&lt;BR&gt;&lt;BR&gt;See those massive...I'm going to say roots? They're of argon manufacture, obviously, but I must learn their purpose.&lt;NEXTPAGEBUTTON&gt;"What do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Think you can grab me a sample?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="250" prevId="3" villagerId="1013">
+        <Page social="6">As I feared, this alloy is infused with copious amounts of iteris shards.&lt;BR&gt;&lt;BR&gt;No wonder we can't collect enough shards—the argons are using them up!</Page>
+    </Text>
+</QuestDialog>

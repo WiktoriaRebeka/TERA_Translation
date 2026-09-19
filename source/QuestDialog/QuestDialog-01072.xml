@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="246" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="246" prevId="0" villagerId="1102">
+        <Page social="4">Two primary difficulties here, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;First of all, the argon remnants throughout Raga Kabash. They seem to be heading south to what we believe is some sort of transmission room.&lt;BR&gt;&lt;BR&gt;Second, I need parts from a {@Creature:46#7005#grellok spire}. Research, you know.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="246" prevId="2" villagerId="1102">
+        <Page social="5">Thank you. The grellok spire is interesting, but...you know who would be fascinated by this? Rhentar, who's working in the Strifecore Chamber. This matches his line of inquiry perfectly.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="246" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="246" prevId="3" villagerId="1028">
+        <Page social="0">This is from a grellok spire, you say? I haven't been able to get close to one. Remind me to thank Nevian, if I ever leave this chamber.</Page>
+    </Text>
+</QuestDialog>

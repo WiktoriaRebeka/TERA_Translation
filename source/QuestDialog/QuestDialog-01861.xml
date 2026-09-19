@@ -1,0 +1,68 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3008">
+        <Page social="4">The argons just don't let up. We need a better way to hold them off than throwing bodies at them.&lt;NEXTPAGEBUTTON&gt;"Can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Absolutely. My friend, {@LinkCreature:248#3014#Damian}, at the {@Rgn:48004$$Cyanocannon Foundry} is at the end of his rope.&lt;BR&gt;&lt;BR&gt;If you can help the foundry folks out, that'd make life easier for everyone.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="4">Yes, we need help! We're low on supplies, and with the gate sealed it's tough to find raw materials.&lt;NEXTPAGEBUTTON&gt;"What can I do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">There's a lot of scrap, both ours and theirs, we can salvage. Gather components scattered around the {@Rgn:48001$$Khanovar Front}.&lt;BR&gt;&lt;BR&gt;The more we can repurpose, the less time it takes to get our weapons into the field.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="2" villagerId="3014">
+        <Page social="4">Finally! Some capable help!&lt;BR&gt;&lt;BR&gt;With these, we'll kick the argons right in the daddy-bags!&lt;BR&gt;&lt;BR&gt;Do argons even have daddy-bags?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Argon components are a key component to cyanocannons. I'd love to get my hands on some.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="10" villagerId="3014">
+        <Page social="4">Finally! Some capable help!&lt;BR&gt;&lt;BR&gt;With these, we'll kick the argons right in the daddy-bags!&lt;BR&gt;&lt;BR&gt;Do argons even have daddy-bags?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="248" villagerId="3014">
+        <Page social="0">We really need some siege weapon components. Those things can do some damage. We need that kind of power.&lt;BR&gt;&lt;BR&gt;Good luck out there.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="248" prevId="12" villagerId="3014">
+        <Page social="4">Finally! Some capable help!&lt;BR&gt;&lt;BR&gt;With these, we'll kick the argons right in the daddy-bags!&lt;BR&gt;&lt;BR&gt;Do argons even have daddy-bags?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Argon components are a key component to cyanocannons. I'd love to get my hands on some.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="248" prevId="14" villagerId="3014">
+        <Page social="4">Finally! Some capable help!&lt;BR&gt;&lt;BR&gt;With these, we'll kick the argons right in the daddy-bags!&lt;BR&gt;&lt;BR&gt;Do argons even have daddy-bags?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="248" villagerId="3014">
+        <Page social="0">We really need some siege weapon components. Those things can do some damage. We need that kind of power.&lt;BR&gt;&lt;BR&gt;Good luck out there.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="248" prevId="16" villagerId="3014">
+        <Page social="4">Finally! Some capable help!&lt;BR&gt;&lt;BR&gt;With these, we'll kick the argons right in the daddy-bags!&lt;BR&gt;&lt;BR&gt;Do argons even have daddy-bags?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="248" villagerId="3014">
+        <Page social="0">Argon components are a key component to cyanocannons. I'd love to get my hands on some.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="248" prevId="18" villagerId="3014">
+        <Page social="4">Finally! Some capable help!&lt;BR&gt;&lt;BR&gt;With these, we'll kick the argons right in the daddy-bags!&lt;BR&gt;&lt;BR&gt;Do argons even have daddy-bags?</Page>
+    </Text>
+    <Text id="21" huntingZoneId="248" villagerId="3014">
+        <Page social="0">We really need some siege weapon components. Those things can do some damage. We need that kind of power.&lt;BR&gt;&lt;BR&gt;Good luck out there.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="1088">
+        <Page social="0">Thulsa seized the Divine Furnace because the relic fragments—supplemented with the power of the Core—are worthless without the Divine Furnace and the legendary blacksmith Muhrak. Into the Divine Furnace you went, hoping to rescue Muhrak.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="1088">
+        <Page social="4" voiceTypeId="0">A messenger from Habere dropped by.&lt;BR&gt;&lt;BR&gt;The commander seeks you.&lt;BR&gt;&lt;BR&gt;Come inside. Quick!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
+        <Page social="4" voiceTypeId="0">I was looking for you &lt;PCNAME&gt;.&lt;BR&gt;The messenger came with both good and bad news.&lt;BR&gt;&lt;BR&gt;The good news is, that the apprentice from Divine Furnace woke up.&lt;BR&gt;&lt;BR&gt;The bad news...Thulsa's army completely took over Plain of the Damned.&lt;BR&gt;I need your help.&lt;NEXTPAGEBUTTON&gt;"What happened to Muhrak?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Even if it means we can't liberate the Divine Furnace, we must save the legendary blacksmith, Muhrak...if he's still alive.&lt;BR&gt;&lt;BR&gt;An apprentice escaped from the Divine Furnace when Thulsa attacked, and he's in Habere now. Speak with the primus there.&lt;BR&gt;&lt;BR&gt;Take this teleportal scroll. Go!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="79" prevId="3" villagerId="1007">
+        <Page social="4" voiceTypeId="0">How dare Thulsa desecrate this land! Kaia claims Habere as her own, and I'll fight to the death to keep any so-called "death gods" away from here!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="79" prevId="4" villagerId="1100">
+        <Page social="4" voiceTypeId="0">Thulsa took over the Molten Chamber, which supplies heat to the main furnace. He demanded our cooperation, but Blacksmith Muhrak and his amani engineers refused.&lt;BR&gt;&lt;BR&gt;So Thulsa killed all the engineers with a wave of his hand! Like snuffing out candles...&lt;BR&gt;&lt;BR&gt;My eyes were closed after that, but I think Muhrak escaped. There was quite a commotion, anyway.&lt;BR&gt;&lt;BR&gt;They made us erect a shield around the Molten Chamber. I got the sense they'd kill us when we finished, so I made a break for it.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="79" prevId="5" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Dead amani? Enslaved apprentices? An outrage!&lt;BR&gt;&lt;BR&gt;But I've got good news. We've saved another straggler—a human apprentice at Habere's western gate.&lt;BR&gt;&lt;BR&gt;Find out what he knows. If the apprentice can point you toward the caravan they're using to move their prisoners around...then liberate those prisoners!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="52" villagerId="1">
+        <Page social="0">I don't want to be a burden. I just want to warn everyone about the Divine Furnace.&lt;BR&gt;&lt;BR&gt;Thulsa is there! Thulsa, god of death!&lt;BR&gt;&lt;BR&gt;You knew that already? Oh. So much for my warning....</Page>
+    </Text>
+    <Text id="8" huntingZoneId="79" prevId="6" villagerId="1101">
+        <Page social="4" voiceTypeId="0">I'm glad someone got the word out. The amani engineers are all dead, but Muhrak, the legendary blacksmith, lives! He's hiding somewhere in the Divine Furnace, which he knows like the back of his hand.&lt;NEXTPAGEBUTTON&gt;"Time for a rescue..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">To get into the Molten Chamber, you first must break the shield around it.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Yes, the shield we made. But Thulsa's slavemasters forced us to do it! And they were alert for signs of sabotage, so there's no easy way to breach it.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;I was able to "liberate" their plans, though. Bring this schematic to Engineer Gaicus. Maybe he can spot a flaw.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="79" prevId="8" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Let's see here...nicely done. A solid shield indeed.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;...or is it? Look at this! The arcane pathways all lead into this stone right here!&lt;BR&gt;&lt;BR&gt;Break it, and you're through! Talk about your fatal flaws—that's a horrible design.&lt;BR&gt;&lt;BR&gt;...or is it? The flaw is invisible to visual inspection, unless you're rather short...those clever poporis! They built the shield with a flaw on purpose!&lt;NEXTPAGEBUTTON&gt;"So we can destroy it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You can absolutely destroy it. Take a look; just hit it right here. It's tough, but you look like someone with some experience in demolition jobs.&lt;BR&gt;&lt;BR&gt;And if you see Muhrak in there, tell him I've got his 20 gold coins!</Page>
+    </Text>
+    <Text id="10" huntingZoneId="464" prevId="9" villagerId="5013">
+        <Page social="4" voiceTypeId="0">Escape? Bah! Defeating Thulsa should be your purpose, !&lt;BR&gt;&lt;BR&gt;It'll take forever to kill every last death-loving minion, but we can certainly keep Thulsa from using my workshop. Watch my back while I destroy the control device! Good luck dealing with a runaway volcanic furnace, Thulsa! Ha ha ha!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="411" prevId="10" villagerId="5001">
+        <Page social="1" voiceTypeId="0">That's the last of them...for now!&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;All that death...consider it a downpayment on my dead apprentices, Thulsa!&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;So you've got the relic fragments...and I just destroyed the controls for the furnace.&lt;BR&gt;&lt;BR&gt;Better that it's out of Thulsa's hands in any case. There's always a workaround. Let me mull it over in my workshop.</Page>
+    </Text>
+</QuestDialog>

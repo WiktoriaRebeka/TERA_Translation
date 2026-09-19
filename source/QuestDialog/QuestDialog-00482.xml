@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1009">
+        <Page social="4">The Lokians are controlling {@LinkCreature:18#18#giant gladiators} at the Arena of the Exalted. If they should decide to turn them against us, I wouldn't give a lot for our chances. Take a few out and report back. I need to know just how deadly they are.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1009">
+        <Page social="4">Thank you, &lt;PCNAME&gt;. Can you tell Anaka about this? She's been after me about the giants for a while.</Page>
+    </Text>
+</QuestDialog>

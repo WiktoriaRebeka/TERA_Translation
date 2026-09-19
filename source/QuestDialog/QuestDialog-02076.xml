@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2002" prevId="0" villagerId="130">
+        <Page social="5">I know that Elleon went to save the villagers and I understand that you're eager to help him.&lt;BR&gt;&lt;BR&gt;But you have to know that finding out a cure is just as important.&lt;BR&gt;&lt;BR&gt;Do you have the time to help me?&lt;NEXTPAGEBUTTON&gt;"What kind of help do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I need to sneak back to Free Exodor's hideout.&lt;BR&gt;&lt;BR&gt;Please defeat the dominators that are blocking the way.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2002" prevId="1" villagerId="130">
+        <Page social="0">Thank you so much. Now I can concentrate on my research.&lt;BR&gt;&lt;BR&gt;I'll keep researching the cure, you go and rescue the villagers.</Page>
+    </Text>
+</QuestDialog>

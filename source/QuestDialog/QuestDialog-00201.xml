@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1014">
+        <Page social="4">There's too much pain in this place. It's practically oozing from the walls.&lt;BR&gt;&lt;BR&gt;Make this place a little less painful, &lt;PCNAME&gt;. Attack the {@LinkCreature:8#4051#vulgar inquisitors}, {@LinkCreature:8#4041#cruel inquisitors}, and {@LinkCreature:8#4052#vicious auric imps} before they can invent new agonies.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1014">
+        <Page social="4">I'll keep these implements where the gulas can't get to them.&lt;BR&gt;&lt;BR&gt;On second thought, I better destroy them. Just to be sure.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1014">
+        <Page social="0">Don't let them continue their horrible work, &lt;PCNAME&gt;. Stop those fiends!</Page>
+    </Text>
+</QuestDialog>

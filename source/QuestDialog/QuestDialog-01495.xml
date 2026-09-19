@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1009">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870501'/&gt;&lt;BR&gt;You infiltrated orcan territory from the hints you acquired in Lost Woods. You acquired intel about the orcan invasion of Pora Elinu from the house of Rahto in orcan territory.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1009">
+        <Page social="0" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870501'/&gt;&lt;BR&gt;So you're going into orcan territory? You might be able to get some help with that from a spy I know.&lt;BR&gt;&lt;BR&gt;He's disguised as an orcan, but I'm sure you can spot him right away, with your keen senses.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Psst! Hey! Over here!&lt;BR&gt;&lt;BR&gt;I'm not really an orcan. I'm a spy, working for Mirvan, gathering intel in disguise.&lt;BR&gt;&lt;BR&gt;Mirvan went up the path here, to the Orcan Hold. If she starts causing trouble up there, she's going to need your help.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1027">
+        <Page social="4" voiceTypeId="0">You're still alive! Good. I could use a hand.&lt;BR&gt;&lt;BR&gt;I think this place is important somehow to the orcans. It's heavily guarded, but they're keeping their distance from that altar. I need to know why.&lt;BR&gt;&lt;BR&gt;Rahto, the orcan captain, must have some information on this altar. I need you to get it.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1028">
+        <Page social="4" voiceTypeId="0">[The journal is mostly meaningless gibberish, but there's a few interesting entries about Rahto receiving red seals from someone, here at the altar. Then, suddenly, the entries display newfound intellect. Rahto's journal talks about using the seals to gain leadership of his tribe and lend them power—but doing so makes Rahto ravenously hungry.]</Page>
+    </Text>
+    <Text id="6" huntingZoneId="87" prevId="5" villagerId="1027">
+        <Page social="4" voiceTypeId="0">I've been looking over this altar, and I think it's some sort of a teleportal. That's probably how the orcans managed to get so many troops into the area without being spotted. What did you find out?&lt;BR&gt;&lt;BR&gt;Hm. If Rahto controls and empowers the orcans with these red seals, eliminating Rahto should not only weaken them, but make them lose interest. Once they're gone, we should be able to liberate Pora Elinu.&lt;NEXTPAGEBUTTON&gt;"It's worth a shot."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">All right, we've learned everything we can here.&lt;BR&gt;&lt;BR&gt;I'm going to start looking for Rahto. You create a diversion by taking out as many of these Bleakrock shamans as you can, then tell our spy to return to base, and report to Princess Rida. The mission here's done.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="87" prevId="6" villagerId="1043">
+        <Page social="4" voiceTypeId="0">Well, if Rahto isn't in orcan territory, he might be overseeing the invasion of Pora Elinu directly.&lt;BR&gt;&lt;BR&gt;I'll deliver Mirvan's report to the princess. You should head north and find Mirvan.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="87" prevId="7" villagerId="1011">
+        <Page social="4" voiceTypeId="0">Is our spy on his way? Good. Sounds like you're having better luck than I am. Rahto's not in orcan territory.&lt;BR&gt;&lt;BR&gt;I did find out that the orcans are fitting basilisks with those red seals, to use them as a secret weapon for their next attack on Pora Elinu. If we can't stop Rahto, we have to stop those basilisks.&lt;BR&gt;&lt;BR&gt;I'll scout us a clear path to Pora Elinu. You go kill some of those basilisks; that'll slow Rahto down a bit.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="87" prevId="8" villagerId="1039">
+        <Page social="4" voiceTypeId="0">You are seriously starting to impress me, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;All right, no time for that. The path behind us is the only way to Pora Elinu. It's risky, but we're running out of options. While I'm looking for Rahto, I need you to get to Pora Elinu, and locate Princess Arin.&lt;BR&gt;&lt;BR&gt;By the way: I found a few things in the orcan stores that I think you could use. They're all yours. Good luck!</Page>
+    </Text>
+</QuestDialog>

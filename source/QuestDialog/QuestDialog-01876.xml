@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3003">
+        <Page social="4">{@LinkCreature:78#3002#Kalkzak} wanted to see you, &lt;PCNAME&gt;. Judging from the smirk, it's because you hurt the argons good!&lt;BR&gt;&lt;BR&gt;Best get moving. Don't want to keep Kalkzak waiting.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="78" prevId="2" villagerId="3002">
+        <Page social="4">My favorite soldier!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, the Shariar note the deeds of our allies and enemies, and we forget neither.&lt;BR&gt;&lt;BR&gt;This token is a humble gift, but it's given with all the respect the Shariar can muster! Well done!</Page>
+    </Text>
+</QuestDialog>

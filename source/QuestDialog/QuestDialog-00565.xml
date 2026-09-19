@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1023">
+        <Page social="5">I saw several {@LinkCreature:22#18#vampir aristocrats} wandering the halls. They weren't invited to the festival and I can't help wondering if they played a role in this disaster!&lt;BR&gt;&lt;BR&gt;The vampirs have proven dangerous recently. Take no chances and eliminate them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1023">
+        <Page social="5">The Witches of Vadoma will owe you a great debt when this is over.&lt;BR&gt;&lt;BR&gt;Our tradition stresses our collective strength, not reliance on outsiders.&lt;BR&gt;&lt;BR&gt;When they're in their right minds again, perhaps we'll rethink that stance.</Page>
+    </Text>
+</QuestDialog>

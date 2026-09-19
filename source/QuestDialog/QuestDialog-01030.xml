@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1034">
+        <Page social="4">We're struggling to keep the nagas from gaining enough strength to be a real threat.&lt;BR&gt;&lt;BR&gt;To that end, we're collecting naga eggs from the temple and disposing of them. Better now than after they've hatched and killed soldiers.&lt;BR&gt;&lt;BR&gt;Get in there and poach some eggs!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1034">
+        <Page social="0">Excellent. We have enough trouble without an army of nagas pouring out of the temple.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1034">
+        <Page social="0">We can't afford to have the nagas breeding an army in the temple. We need those eggs.</Page>
+    </Text>
+</QuestDialog>

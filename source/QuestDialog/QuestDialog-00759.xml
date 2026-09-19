@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1018">
+        <Page social="4">If you can defeat {@LinkCreature:32#7#Stalker Company reapers}, you can consider yourself a hero. They're tough as the permafrost.&lt;BR&gt;&lt;BR&gt;If you want to prove yourself, you can find them in the mercenary camp in the basin to the north.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1018">
+        <Page social="4">Ah! Just as I thought! You're a true hero. It will be an honor to fight at your side.</Page>
+    </Text>
+</QuestDialog>

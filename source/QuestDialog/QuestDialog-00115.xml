@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1003">
+        <Page social="0">If you're interested in helping out more, I have another favor. Before I leave, I want revenge on the tuwangis who chased me off.&lt;BR&gt;&lt;BR&gt;There are so many of them, I'm sure they'd do nothing but chase me off again, but if you were to take care of the {@LinkCreature:5#9#Stonehammer Tuwangis}, I'm sure it would be just as satisfying.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1003">
+        <Page social="0">Ha! I was right—it's just as satisfying, no matter who's doing the hammering!&lt;BR&gt;&lt;BR&gt;Get it? Ha! Thank you, thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1003">
+        <Page social="0">How are those tuwangis coming? Have they run away yet? Are they terrified?</Page>
+    </Text>
+</QuestDialog>

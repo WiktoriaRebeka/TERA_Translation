@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1018">
+        <Page social="1">You must help me, &lt;PCNAME&gt;! I need you...I need you to poison me!&lt;BR&gt;&lt;BR&gt;Wait, don't go! I can explain. I need to be poisoned by a {@LinkCreature:30#140#venomous tentacullar} right away.&lt;NEXTPAGEBUTTON&gt;"By the titans, why?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">I have a dark secret—something truly important that I cannot reveal to anyone. Alais and the goons from the Mysterium are going to force it out of me. The right dose of {@LinkCreature:30#140#venomous tentacullar} poison acts on the brain and causes memory loss. I'd rather be forgetful than dead.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1018">
+        <Page social="1">Thank you so much, &lt;PCNAME&gt;. Please, give it to me now!&lt;NEXTPAGEBUTTON&gt;"Here's the poison."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">(He chugs the poison in the bottle and then opens and closes his mouth several times, increasingly panic-stricken.)&lt;BR&gt;&lt;BR&gt;(He points to his mouth, gesticulates wildly, and then points to another miner.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" villagerId="1018">
+        <Page social="0">I will not tell the secret even if those goons torture me. I'd rather be dead.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="1017">
+        <Page social="1">He drank what? No wonder he can't speak.&lt;BR&gt;&lt;BR&gt;His throat will swell to the point where he'll have trouble breathing for days. What happened?&lt;NEXTPAGEBUTTON&gt;"He was trying to forget a big secret..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">That old wives' tale about tentacullar venom? He won't forget the past, but he won't be able to give up his precious secret, either.&lt;BR&gt;&lt;BR&gt;Somebody has to tell {@LinkCreature:230#1065$$Libinienn} about this.&lt;BR&gt;&lt;BR&gt;We miners have an old custom, called "one-two-three-not-it," so you get to go tell Libinienn how you poisoned one of the miners.&lt;BR&gt;&lt;BR&gt;Good luck with that, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="5" villagerId="1065">
+        <Page social="1">So you gave him tentacullar venom. And he drank it.&lt;BR&gt;&lt;BR&gt;I...I...words fail me.&lt;NEXTPAGEBUTTON&gt;"I was just trying to help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">You'll do anything someone asks you to do, eh?&lt;BR&gt;&lt;BR&gt;You want to know what his big secret is? He's been taking some of our finds from the dig site and hiding them for black-market confederates to pick up.&lt;BR&gt;&lt;BR&gt;And you delayed the interrogation he so richly deserves!&lt;NEXTPAGEBUTTON&gt;"I'm sorry."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1">Well, you're naive, but you're no criminal.&lt;BR&gt;&lt;BR&gt;And come to think of it, you probably punished him worse by poisoning him than I would have.&lt;BR&gt;&lt;BR&gt;When you're an itinerant miner, getting sentenced to hard labor isn't much of a punishment.</Page>
+    </Text>
+</QuestDialog>

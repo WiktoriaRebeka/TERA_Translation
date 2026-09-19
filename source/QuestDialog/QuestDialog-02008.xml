@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="0">You learned that drums and pond lilies attract tuwangis, and that the tuwangi use drums to drive frogs away.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="2001">
+        <Page social="4">Vedobo looking for help. You big help. Go help Vedobo. &lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="2002">
+        <Page social="4">Some tuwangis like drum. We drum; tuwangis come.&lt;BR&gt;&lt;BR&gt;Some tuwangis like flowers. Need flowers to bring tuwangis!&lt;NEXTPAGEBUTTON&gt;I can help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" prevId="3" villagerId="2002">
+        <Page social="4">You bring good flowers. Flowers bring tuwangis.&lt;BR&gt;&lt;BR&gt;Drums bring tuwangis, too.&lt;BR&gt;&lt;BR&gt;Go learn to drum from Kukuta!&lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="205" villagerId="2002">
+        <Page social="0">Need flowers.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="205" prevId="4" villagerId="2003">
+        <Page social="4">Drumming easy!&lt;BR&gt;&lt;BR&gt;Beat drum. Red frog, red drum! Purple frog, purple drum! Blue frog, blue drum!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; try? &lt;NEXTPAGEBUTTON&gt;Sure, I'll try.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="205" prevId="6" villagerId="2003">
+        <Page social="0">Play drum for tuwangis!</Page>
+    </Text>
+</QuestDialog>

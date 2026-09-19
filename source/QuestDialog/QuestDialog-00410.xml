@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1009">
+        <Page social="5">It's a conspiracy, I tell you! A conspiracy!&lt;BR&gt;&lt;BR&gt;I don't know if they caused it. Maybe they're just feeding it.&lt;BR&gt;&lt;BR&gt;Haha! Feeding!&lt;NEXTPAGEBUTTON&gt;"Uh..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">The {@LinkCreature:15#1#lunatic yeomans} and {@LinkCreature:15#2#insane farmers} from that Paraanon cult are feeding the crazies. Crazy or not, you can't live without food.&lt;BR&gt;&lt;BR&gt;Kill the farmers. Done talking, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Do it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1009">
+        <Page social="5">Excellent.&lt;BR&gt;&lt;BR&gt;I'll go check our food. We have to protect our purity of essence...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1009">
+        <Page social="0">This is vital, &lt;PCNAME&gt;. Those farmers are spreading the disease!</Page>
+    </Text>
+</QuestDialog>

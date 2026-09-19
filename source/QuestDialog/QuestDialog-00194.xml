@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1034">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1034">
+        <Page social="4">The gulas are trying to spread their evil reach. Those disgusting wretches are using {@LinkCreature:8#3051#kobold hirelings} to do their dirty work.&lt;BR&gt;&lt;BR&gt;Even worse, the gulas are trying to teach the kobolds how to cook and eat their enemies!&lt;BR&gt;&lt;BR&gt;We need to teach the kobolds how foolish it is to do the gulas' bidding.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1034">
+        <Page social="4">Kobolds...they're like gulas, but less fun at parties.</Page>
+    </Text>
+</QuestDialog>

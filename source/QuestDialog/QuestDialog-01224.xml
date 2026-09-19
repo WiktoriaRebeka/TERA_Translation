@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1006">
+        <Page social="4">I've noticed the dominated shamans all carry these blue crystals. I bet the argonomorphs have them, too. That might explain why you or I don't feel the effects of the draelkar pylons.&lt;BR&gt;&lt;BR&gt;I need you to collect some. If there's a link between the crystals and the pylons, there might also be a weakness we can exploit.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1006">
+        <Page social="4">Let me see these...&lt;BR&gt;&lt;BR&gt;Well, I'm no arcanist, but these are definitely what I spotted. I'll send them back to Habere—see if they can learn something useful from these.&lt;BR&gt;&lt;BR&gt;Anything to save our people is worth the effort.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" villagerId="1006">
+        <Page social="0">The dominated wendigo shamans have them, as do the argonomorphs in Wendigo's Howl. Move quickly!</Page>
+    </Text>
+</QuestDialog>

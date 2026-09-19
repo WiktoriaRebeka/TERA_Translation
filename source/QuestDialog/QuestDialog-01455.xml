@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="58" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="0">&lt;PCNAME&gt;, I'm impressed by how much you improve every time I see you. Our enemy grow stronger too, though. We must do all we can to stay ahead of them.&lt;BR&gt;&lt;BR&gt;To that end, I have a gift for you. It's a skill glyph, the kind top soldiers use to improve their skills.&lt;BR&gt;&lt;BR&gt;Phidias, one of our warrior glyphmasters, will give it to you and explain how you use it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1217">
+        <Page social="10">Seir promised you a glyph, did he? I love how he hands them out. He knows they're valuable, but so help me, he's worthless at explaing why! Ha!&lt;BR&gt;&lt;BR&gt;Glyphs reinforce or modify your skills. You learn them simply by clicking on them in your inventory, but you activate them from your skills list.&lt;BR&gt;&lt;BR&gt;You gain glyph points as you progress in level and experience, and these glyph points help activate your glyphs.&lt;NEXTPAGEBUTTON&gt;"I see."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">If you activate the wrong glyph by mistake, just reset your glyph points. It will cost money, yes, but we pay for our mistakes, eh?&lt;BR&gt;&lt;BR&gt;Here's your glyph. Put it to good use. Thanks for stopping by! I like meeting our veterans!</Page>
+    </Text>
+</QuestDialog>

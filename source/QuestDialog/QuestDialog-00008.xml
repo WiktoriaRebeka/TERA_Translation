@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1031">
+        <Page social="4">Most of the refugees you see are from small settlements in the Fey Forest and from over the hill in the Valley of Titans. The federation hasn't exactly gone out of its way to ease the refugees' plight. Things are tough all over, I guess.&lt;BR&gt;&lt;BR&gt;We've got to get these poor folks some food, though. Some of them are trying to make soup out of tree bark!&lt;NEXTPAGEBUTTON&gt;"Any way I can help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">The refugees need meat in their diets, that's for sure. Best bet is {@LinkCreature:2#57#Long Tusk Warthogs} and {@LinkCreature:2#7#Warthog Brutes}. Barbecue that boar meat, and hey—good eatin'!&lt;BR&gt;&lt;BR&gt;There's a catch, though. The boars are somewhat...aggressive. So be careful!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1031">
+        <Page social="4">They'll eat for days on this, &lt;PCNAME&gt;. Full bellies, happy hearts, right?&lt;BR&gt;&lt;BR&gt;We'll save some boar ribs for you!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1031">
+        <Page social="0">Think of the hungry children! Think of delicious barbecued boar! Just bring back that {@LinkCreature:2#57#Long Tusk Warthog} and {@LinkCreature:2#7#Warthog Brute} meat.</Page>
+    </Text>
+</QuestDialog>

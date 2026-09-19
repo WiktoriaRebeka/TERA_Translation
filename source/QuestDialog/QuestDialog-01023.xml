@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1035">
+        <Page social="5">From what I know of gulas, their alliance with the nagas is a business arrangement. What I'd like to know is, what kind of business?&lt;BR&gt;&lt;BR&gt; And what do the {@LinkCreature:42#1200#naga masakari} know about it?&lt;BR&gt;&lt;BR&gt;Let me know what you find out.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1035">
+        <Page social="4">I don't know what you've got there, but {@LinkCreature:242#1036#Bartosia} might be able to make sense of it. Ask her to look it over.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1035">
+        <Page social="0">Are the {@LinkCreature:42#1200#naga masakaris} a bit tougher than you expected? I hope you're up to the job, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="3" villagerId="1036">
+        <Page social="5">It's basically a contract. It says the gulas provide the muscle, the nagas kidnap people from around Frontera and deliver them back to the gulas. Oh, no...&lt;BR&gt;&lt;BR&gt;It also says the gulas are selling those people into slavery.&lt;BR&gt;&lt;BR&gt;Ibar needs to know of this right away. Go to Frontera as soon as you can.</Page>
+    </Text>
+</QuestDialog>

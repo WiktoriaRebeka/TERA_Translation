@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3005">
+        <Page social="4">{@LinkCreature:230#3002#Ersilla} is out of seeds, and we all need...tea. Yes, tea.&lt;BR&gt;&lt;BR&gt;If you're out that way, can you help out?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3002">
+        <Page social="4">Good to see you!&lt;BR&gt;&lt;BR&gt;Aaah...why are you here?&lt;NEXTPAGEBUTTON&gt;"Buram's tea?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Tea? Oh, right. Tea!&lt;BR&gt;&lt;BR&gt;I need more bellflower and primrose seeds.&lt;BR&gt;&lt;BR&gt;We grow them to make a...tea...that helps with...ahem, stuff. Go on. Get them for me.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="3013">
+        <Page social="4">(The flower's scent is hypnotic.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="3014">
+        <Page social="4">(This flower's smell clears your head.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" prevId="5" villagerId="3015">
+        <Page social="4">(The flower smells like grass right after rainfall.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="6" villagerId="3002">
+        <Page social="4">Thank you very much. I was running out of these.&lt;BR&gt;&lt;BR&gt;Now I can start brewing.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" villagerId="3002">
+        <Page social="0">Do you have my seeds?&lt;BR&gt;&lt;BR&gt;I gotta have my tea!</Page>
+    </Text>
+</QuestDialog>

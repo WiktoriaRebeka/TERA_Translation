@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="172" prevId="0" villagerId="1406">
+        <Page social="0">While discussing plans with Rhodos, a spy overheard you. You gave chase and ended up somewhere quite unexpected.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="172" prevId="0" villagerId="1406">
+        <Page social="4">The archedevas must have sent the Parthians. They can't make use of your ship either, but they clearly know of it.&lt;NEXTPAGEBUTTON&gt;"What's our next move?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">There are goblins in Spring Valley who will do anything for money.&lt;BR&gt;&lt;BR&gt;If the archdevas are massing fighters there, the goblins will know.&lt;BR&gt;&lt;BR&gt;Find out if it's safe.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="172" prevId="2" villagerId="2010">
+        <Page social="4">Oh! Um, my mount is, uh, hurt.&lt;BR&gt;&lt;BR&gt;Can you help me?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="172" prevId="3" villagerId="1506">
+        <Page social="4">You let him get away!&lt;BR&gt;&lt;BR&gt;Mihog was spying on us. Quick! He's hurt, so you might be able to catch him!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="172" prevId="4" villagerId="1016">
+        <Page social="4">(Mihog's mount lies dead. Blood cools on the ground and ripped garments lie nearby.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="5" villagerId="2016">
+        <Page social="4">Saw an injured runner.&lt;BR&gt;&lt;BR&gt;He's no friend of ours. Go west.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2001">
+        <Page social="4">A suspicious person?&lt;BR&gt;&lt;BR&gt;Well, just the one who limped into the cave. Is that suspicious?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="7" villagerId="2029">
+        <Page social="4">(Drops of blood stain the wood of this barrel.)</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="510" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="6101">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="6101">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;After the Challenger Cannon's shot was reflected, our troops were scattered.&lt;BR&gt;&lt;BR&gt;I located most of them, but there are still many I couldn't find.&lt;BR&gt;&lt;BR&gt;Can you do another search?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="6101">
+        <Page social="4" voiceTypeId="0">Thank you for your help.&lt;BR&gt;&lt;BR&gt;Those soldiers might have died if you weren't here.&lt;BR&gt;&lt;BR&gt;We thought this would be easy...and paid a terrible price for our pride.&lt;BR&gt;&lt;BR&gt;We need another plan to defeat Exodor.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1007">
+        <Page social="4">Damnable weather! Simple, implacable, bad-luck stormy weather sank my ship and scattered my cargo.&lt;BR&gt;&lt;BR&gt;I think we can recover some of the weapon crates that washed up along Dragonturtle Beach. You can collect some flotsam for us, right?&lt;BR&gt;&lt;BR&gt;Or is it jetsam? I can never keep them straight.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1002">
+        <Page social="4">I miss the ship, but I can sell the cargo, &lt;PCNAME&gt;. Thanks.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1002">
+        <Page social="0">You can't miss 'em. Wooden trunks full of weapons. On the beach, no less.</Page>
+    </Text>
+</QuestDialog>

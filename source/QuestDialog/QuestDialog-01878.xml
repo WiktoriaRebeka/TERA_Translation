@@ -1,0 +1,24 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="603" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="76" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="76" prevId="0" villagerId="3002">
+        <Page social="4">How about a warm-up exercise today, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Clear a pack of smaller argons instead of one big one. {@LinkCreature:76#3010#Beiran} will find some for you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="4">Some smaller game?&lt;BR&gt;&lt;BR&gt;Plenty of {@LinkCreature:49#13#kalash brutes}, {@LinkCreature:49#12#protectors}, and {@LinkCreature:49#10#kallan reavers} near the {@Rgn:49004$$Melgatol Portal}.&lt;BR&gt;&lt;BR&gt;Those should give you some good sport today!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="76" prevId="2" villagerId="3010">
+        <Page social="4">Invigorating, eh?&lt;BR&gt;&lt;BR&gt;Sharpens the mind and loosens the joints.</Page>
+    </Text>
+</QuestDialog>

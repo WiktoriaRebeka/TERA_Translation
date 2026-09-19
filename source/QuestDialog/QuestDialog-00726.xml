@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1009">
+        <Page social="4">Blast it! The villagers trying to rebuild the settlement keep getting attacked by {@LinkCreature:31#2#ossugon icelords} and {@LinkCreature:31#5#frosted skeletal thralls}.&lt;BR&gt;&lt;BR&gt;Meanwhile, they're telling me they're out of ash for cement! So let's kill two birds with one stone, so to speak.&lt;BR&gt;&lt;BR&gt;Kill those undead and collect their bones. We'll see if that will do the trick.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1009">
+        <Page social="4">Well done, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I know this isn't technically the right sort of ash for the job, but those undead are so tenacious, the mix should be sturdy, at least. Ha!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" villagerId="1009">
+        <Page social="0">We can talk when those monsters are dead.</Page>
+    </Text>
+</QuestDialog>

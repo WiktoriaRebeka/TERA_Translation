@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="256" prevId="0" villagerId="1010">
+        <Page social="4">First things first. Clear the mekonari templars from the altar stairs. They're the mekonaris' strongest fighters, and Killian gave them warding amulets to earn their trust. Think how humiliated they'll be if you easily take the amulets away.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="256" prevId="2" villagerId="1010">
+        <Page social="4">Potent amulets. We've stolen some of their strength for a change!&lt;BR&gt;&lt;BR&gt;Your path to the altar is nearly clear. Soon we'll end this horror once and for all.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" villagerId="1010">
+        <Page social="0">&lt;PCCLASS&gt;, come on! Those templars are in the way!</Page>
+    </Text>
+</QuestDialog>

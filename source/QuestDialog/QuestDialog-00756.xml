@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="232" prevId="0" villagerId="1019">
+        <Page social="4">This war has caused too many atrocities, too many deaths. Most nights I dream of the {@LinkCreature:32#6#Sihran defenders}, of the things they did in the siege of Acarum.&lt;BR&gt;&lt;BR&gt;They could come back any day, unless someone takes care of them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1019">
+        <Page social="4">I wonder if this will stop the nightmares...but I'll take the nightmares over real Sihran defenders coming in the night to mutilate us.&lt;BR&gt;&lt;BR&gt;Please report to {@LinkCreature:232#1002#Hallaj} at the Holdouts Redoubt on the southern slope of Mount Tyrannas.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="232" prevId="3" villagerId="1002">
+        <Page social="4">Any casualties inflicted on the Sihrans benefit us. Your success is a success for all the federation.</Page>
+    </Text>
+</QuestDialog>

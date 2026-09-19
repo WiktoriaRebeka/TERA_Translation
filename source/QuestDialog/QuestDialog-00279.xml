@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1005">
+        <Page social="4">At first, I thought it was a trap because the code was so easy to break, but...in any case, the order talks about an imminent, full-fledged assault by the Red Lash pirates!&lt;BR&gt;&lt;BR&gt;The risk is greatest at Vanguard Bastion. I want you to go there and help them, &lt;PCNAME&gt;. If you can do for them what you've done for us here, I'm certain everything will turn out fine.&lt;BR&gt;&lt;BR&gt;One other thing: you're going to have to swim to get there.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1009">
+        <Page social="4">So, Red Lash pirates are gearing up to mount an attack... It's time for us to do what we came to do.&lt;BR&gt;&lt;BR&gt;And by "we," I'm including you. It's time to put your game face on.</Page>
+    </Text>
+</QuestDialog>

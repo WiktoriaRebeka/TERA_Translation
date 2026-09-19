@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="0">You aided the Consos Clan by helping to clean the temple of Balder.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7000">
+        <Page social="4">Allow me to provide you with opportunity to help.&lt;BR&gt;&lt;BR&gt;"If the temple is not clean and bright, neither then is Balder's light." Have you heard that saying before?&lt;NEXTPAGEBUTTON&gt;"No. What does it mean?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">It is a very old saying, and it means that the temple and the sun are divinely connected. While the temple is fouled with dust and litter, the light of the sun is...weakened. It is complicated, and takes years of clerical training to fully grasp.&lt;BR&gt;&lt;BR&gt;Sadly, there are too few priests to keep the temple properly clean.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, can I ask you to help us clean the temple?&lt;NEXTPAGEBUTTON&gt;"It sounds important, so I'll help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7000">
+        <Page social="4">Thank you. This means a lot to us. So very few say yes when they learn that honoring Balder's sacrifice involves actual work.&lt;BR&gt;&lt;BR&gt;Please, use the teleportal to enter the temple, and report to Davor.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="451" prevId="3" villagerId="7000">
+        <Page social="4">A pleasure to meet you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I am Davor, and I am in charge of the temple cellars.&lt;BR&gt;&lt;BR&gt;Today's task is to rid the cellar of pests—in this case, sloths. They climb in over the walls to get at the water in the fountain, and they leave behind a terrible mess.&lt;BR&gt;&lt;BR&gt;I warn you, these sloths are most aggressive. But if you utilize our cleaning automaton, PEST-B-GON 8000, it should not prove too difficult.&lt;NEXTPAGEBUTTON&gt;"How does the automaton work?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">It's very simple. Just activate the controller, here, and PEST-B-GON 8000 will begin following you, clearing sloths along the way. It is not particularly intelligent, however, so it is best to guide PEST-B-GON 8000 by attacking whatever you want it to eliminate.&lt;BR&gt;&lt;BR&gt;Just activate the controller when you're ready.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="451" prevId="4" villagerId="7001">
+        <Page social="4">Hello, &lt;PCNAME&gt;. Thank you for assisting the Consos Clan in the temple today.&lt;BR&gt;&lt;BR&gt;I am Nahad; I tend the gardens, with the help of my garden golem automatons. Mostly, they keep the ghilliedhus in check while I deal with the garden.&lt;BR&gt;&lt;BR&gt;Sadly, as with so many other things in the temple, the automatons are very old, and break down easily. I have no time to look after them, myself; someone has been painting graffiti on the temple walls, and I must find out who.&lt;BR&gt;&lt;BR&gt;It would be very helpful to me if you were able to repair the garden golems, &lt;PCNAME&gt;. Then, just help them subdue the massive ghilliedhus.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="451" prevId="5" villagerId="7002">
+        <Page social="4">Vampirs...this really should come as no surprise. They are weakened by the power of the sun, and so it makes sense that they would strike back by befouling the temple.&lt;BR&gt;&lt;BR&gt;The graffiti is just part of it. They harass us when we venture outside the temple, and there are reports of abducted villagers from miles around. And now they are so bold as to enter the temple itself!&lt;BR&gt;&lt;BR&gt;I must report this to Renmi. Please continue up the stairs and speak with Kodar.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="451" prevId="6" villagerId="7003">
+        <Page social="4">Welcome, &lt;PCNAME&gt;. Renmi has told me of you. Thank you for coming.&lt;BR&gt;&lt;BR&gt;Please assist me by ridding the temple center of snakes.&lt;NEXTPAGEBUTTON&gt;"What do you need me to do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">It is very simple.&lt;BR&gt;&lt;BR&gt;Karu can explain. Karu usually deals with such vermin, but the fey are not always...reliable. Still, speak to him before you begin; he might have useful advice.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="7000">
+        <Page social="4">Welcome back, &lt;PCNAME&gt;. I trust your duties were not too taxing?&lt;BR&gt;&lt;BR&gt;The clerics told me that you were very helpful. They say that they hope you come to help again next year.&lt;BR&gt;&lt;BR&gt;In the meantime, we wanted to give you something special, as a token of our appreciation.</Page>
+    </Text>
+</QuestDialog>

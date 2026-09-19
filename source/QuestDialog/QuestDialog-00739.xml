@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1043">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1043">
+        <Page social="4">The {@LinkCreature:31#24#dark arcanists} should be at Mount Tyrannas with the rest of the traitor's army, but we've spotted several down on the ice. No idea what they're doing, but you know as well as I do that it's better to stop them before they get things underway. We don't need a second Mount Tyrannas out here.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1043">
+        <Page social="4">Great job, &lt;PCNAME&gt;! Now we don't need to worry what they're up to.</Page>
+    </Text>
+</QuestDialog>

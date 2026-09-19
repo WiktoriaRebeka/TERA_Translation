@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2108">
+        <Page social="0">&lt;PCNAME&gt; limited the archdevans' ability to reinforce by destroying their vortex gates.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2108">
+        <Page social="4">&lt;PCNAME&gt;, to attack the fortress, we must limit their numbers. Attack their portals and take out those wretched demokrons!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="2110">
+        <Page social="4">Well fought, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Let's press on!</Page>
+    </Text>
+</QuestDialog>

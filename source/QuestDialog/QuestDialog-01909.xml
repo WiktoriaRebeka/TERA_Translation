@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">I never get sick of seeing your smiling face, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Nor I yours."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I just love small talk, don't you? Let's stand here all day and say nice things to each other.&lt;BR&gt;&lt;BR&gt;Or, you could go see if {@LinkCreature:63#3002#Taratia} has any work for you. I know how much you enjoy that.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">I know this gathering business must be utterly beneath you, but you're just here for the money anyway, right?&lt;BR&gt;&lt;BR&gt;I know, I know, we're all in this together. "For the federation" and so forth.&lt;BR&gt;&lt;BR&gt;Well, enjoy the outside world while you get today's shipments. I sure as shetla never get to see it.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">{@RawItem:206801}. This stuff is infinitely useful if you know what to do with it.&lt;BR&gt;&lt;BR&gt;Thank you! Tell {@linkcreature:63#3003#Elthienne} I'll have her item crafted in no time.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Get me the {@RawItem:206801}, or I swear I'll cry like a baby. You don't want to see that, do you?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Thank you for {@RawItem:206802}. {@LinkCreature:63#3003#Elthienne} has a little something for your trouble.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Get me the {@RawItem:206802}, or I swear I'll cry like a baby. You don't want to see that, do you?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Thank you for {@RawItem:206803}. {@LinkCreature:63#3003#Elthienne} has a little something for your trouble.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Get me the {@RawItem:206803}, or I swear I'll cry like a baby. You don't want to see that, do you?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Thank you for {@RawItem:206804}. {@LinkCreature:63#3003#Elthienne} has a little something for your trouble.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Get me the {@RawItem:206804}, or I swear I'll cry like a baby. You don't want to see that, do you?</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Thank you for {@RawItem:206805}. {@LinkCreature:63#3003#Elthienne} has a little something for your trouble.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Get me the {@RawItem:206805}, or I swear I'll cry like a baby. You don't want to see that, do you?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Did {@LinkCreature:63#3002#Taratia} tell you I'm no good at crafting? That witch!&lt;BR&gt;&lt;BR&gt;I made this stylish belt, I'll have you know.</Page>
+    </Text>
+</QuestDialog>

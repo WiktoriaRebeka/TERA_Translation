@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1015">
+        <Page social="5">I had hoped to sneak past the reapers to get to Wyvern Watch, but my invisibility spell has worn off. If you'd be so kind as to thin them out for me a bit, I can probably sneak through the gaps you leave—I'm not very big!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1010">
+        <Page social="6">It's good news that Poihon is safe. Welcome to our camp, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

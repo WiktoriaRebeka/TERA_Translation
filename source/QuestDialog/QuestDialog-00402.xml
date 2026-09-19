@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="215" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="215" prevId="0" villagerId="1018">
+        <Page social="5">These weakling researchers don't stand a chance here without protection. That's where we come in.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:15#8#mutant castanic cutters} and {@LinkCreature:15#9#amani thumpers} are walking weapons, but I wager you could disarm them, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Show me what you're made of and bring me a few trophies.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1018">
+        <Page social="5">What are these?&lt;BR&gt;&lt;BR&gt;They carry little piggie dolls into combat?&lt;BR&gt;&lt;BR&gt;Let's just put them down on the forms as "wild boar totems," shall we?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="215" villagerId="1018">
+        <Page social="0">What are you waiting for? They're only a bunch of mutants!</Page>
+    </Text>
+</QuestDialog>

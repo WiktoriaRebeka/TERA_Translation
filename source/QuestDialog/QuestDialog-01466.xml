@@ -1,0 +1,20 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="78" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Dear &lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;I've come to your land to seek help for my kind in the Wintera Snowfield.&lt;BR&gt;&lt;BR&gt;Please come to {@linkcreature:63#9004#me} so I can plead my case in person. But hurry! Winter doesn't last forever.&lt;BR&gt;&lt;BR&gt;—Wintera Messenger</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="9004">
+        <Page social="0">&lt;PCNAME&gt;, you came! I was worried...but that doesn't matter. Have a moment for a story?&lt;NEXTPAGEBUTTON&gt;"I'm listening."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Our homeland, the Wintera Snowfield, is divided into red, blue, and yellow areas. It's all governed by the wisest of us, Old Man Winter.&lt;BR&gt;&lt;BR&gt;Or it was until a trickster disguised as Old Man Winter appeared, and now we can't tell which one's real!&lt;BR&gt;&lt;BR&gt;The red and blue camps each believe that their Old Man Winter is the real one. (Among our people, yellow is the color of neutrality. We yellows don't fight.)&lt;NEXTPAGEBUTTON&gt;"Where do I come in?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="9004">
+        <Page social="0">We yellow ones are tired of being in the middle of this madness.&lt;BR&gt;&lt;BR&gt;We couldn't convince the reds and blues to stop fighting, but at least we convinced them to make it a snowball fight. A nice, mostly nonlethal snowball fight. Our plan—and I admit it's kind of sketchy—is that the real Old Man Winter would certainly prevail in a snowball fight. They don't call him "Winter" for nothing!&lt;NEXTPAGEBUTTON&gt;"Still not seeing the 'me' angle."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Open the Battleground Matching UI and select the "Winter Event" battleground. That sends you to the Wintera Snowfield.&lt;BR&gt;&lt;BR&gt;Throw some snowballs, win a battle, then come back and tell me whether red or blue was victorious.&lt;BR&gt;&lt;BR&gt;Remember, it's a snowball fight, not a real fight. Only certain skills work on the snowfield. &lt;font color='FF0000'&gt;Snowballs&lt;/font&gt; inflict low damage but can be thrown quickly because the cooldown time is short. &lt;font color='FF0000'&gt;Dirty snowballs&lt;/font&gt; hurt more, obviously. And &lt;font color='FF0000'&gt;giant snowballs&lt;/font&gt; can attack multiple targets.&lt;BR&gt;&lt;BR&gt;One more thing: &lt;font color='FF00FF00'&gt;fireballs&lt;/font&gt; cancel harmful effects on your team members and restore their HP. Look for them in boxes.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="9004">
+        <Page social="1">Thank you, &lt;PCNAME&gt;! I'm adding your results to my tally, and soon we'll know whose Old Man Winter is the real Old Man Winter.&lt;BR&gt;&lt;BR&gt;And please take this small token of my gratitude.</Page>
+    </Text>
+</QuestDialog>

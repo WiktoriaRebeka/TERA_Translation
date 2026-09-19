@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1009">
+        <Page social="4">Your federation begged us to join and where's it gotten us? Up to our knees in kobolds and kulkari!&lt;BR&gt;&lt;BR&gt; If they want to convince me all this is worth it, someone ought to thin out all the {@LinkCreature:24#1#Sand Wind kobold looters}, {@LinkCreature:24#2#Sand Wind kobold lobbers}, and {@LinkCreature:24#3#Sand Wind kobold headhunters} they've attracted.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1009">
+        <Page social="4">Hmph. Those damned kobolds will be back, but it's a start. Glad to see you held up your end.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="181" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="181" prevId="0" villagerId="1031">
+        <Page social="0">Rhodos reported seeing baraka corpses in the Havenstone area.&lt;BR&gt;While heading to Diranas Quarry, &lt;PCNAME&gt; investigated the corpses on his behalf, and performed a ritual to console their souls.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="181" prevId="0" villagerId="1031">
+        <Page social="4" voiceTypeId="0">You are the visitor, &lt;PCNAME&gt;, are you not?&lt;BR&gt;&lt;BR&gt;A messenger came by a short time ago. Apparently, the Khirian commander, Rhodos, wished to speak with you.&lt;BR&gt;&lt;BR&gt;He said he would wait for you on the western road.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="181" prevId="2" villagerId="1102">
+        <Page social="4" voiceTypeId="0">I found the corpses of a couple of baraka soldiers, and there's something odd about the way they died.&lt;BR&gt;&lt;BR&gt;Can you take a look at them, and let me know what you think? The baraka trust you, and I'd like you to confirm my suspicions.&lt;NEXTPAGEBUTTON&gt;"Sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="181" prevId="3" villagerId="1015">
+        <Page social="4" voiceTypeId="0">(The wound on this dead baraka is scorched.)&lt;NEXTPAGEBUTTON&gt;"Curious."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="181" prevId="4" villagerId="1016">
+        <Page social="4" voiceTypeId="0">(This baraka died when struck from behind.)&lt;NEXTPAGEBUTTON&gt;Finish investigation.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" huntingZoneId="181" prevId="5" villagerId="1102">
+        <Page social="4" voiceTypeId="0">I knew it! Archdevas!&lt;BR&gt;&lt;BR&gt;The burn marks confirm it, and the fact that they didn't see it coming means they must have been attacked under cover of darkness. All of these dead baraka must've been ambushed!&lt;BR&gt;&lt;BR&gt;This is bad, &lt;PCNAME&gt;. If they died without seeing the faces of their killers, they'll come back as vengeful spectres, and haunt this road forever! We have to perform a ritual of solace to put their spirits to rest.&lt;NEXTPAGEBUTTON&gt;"Umm...will it take long?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I know it sounds ridiculous, but it is a burial custom that we Khirians share with the baraka. Humor me.&lt;BR&gt;&lt;BR&gt;I'll have Joakim and Donakim gather stones to build a grave marker.&lt;BR&gt;&lt;BR&gt;Meanwhile, you use stones from around the baraka corpses to collect their souls—and then cleanse yourself in sheep's blood, so that the soldiers' soul-scent doesn't linger on you. Otherwise they'll haunt you for the rest of your days.&lt;NEXTPAGEBUTTON&gt;"Uh, yeah. We can't have that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="181" prevId="6" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Thank you, &lt;PCNAME&gt;. I appreciate you showing respect for our culture.&lt;BR&gt;&lt;BR&gt;Joakim and Donakim have built a gravesite for each of the murdered baraka. Now you just need to finish the graves by putting their soulstones on the tombstones, and they'll be able to rest in the afterlife.&lt;NEXTPAGEBUTTON&gt;"Good. I'm anxious to get started."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="181" prevId="7" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Thank you, &lt;PCNAME&gt;. I knew I could count on you.&lt;BR&gt;&lt;BR&gt;And when the time comes, I know I can count on you to help me make those responsible pay for what they've done...with blood of their own!&lt;NEXTPAGEBUTTON&gt;Nod&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

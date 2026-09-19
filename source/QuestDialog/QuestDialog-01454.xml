@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="57" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1160">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1160">
+        <Page social="0">You there! You! Oh, thank you for coming over. Please—my dear friend Haines is just outside Velika Village and he's been having a terrible time with the horses lately. I want you to help him. After you help him, who knows? He may give something for your time and trouble.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1149">
+        <Page social="0">Greetings. Have you come to help me with the horses? Dougal said he'd ask around, but I didn't think he'd find anyone!&lt;BR&gt;&lt;BR&gt;The trouble is, the horses have grown very weak. They're in no shape to ride into battle. I'm sure that &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=1#-11565.4844,-9482.6436,6291.0557&amp;type=1&amp;name=veridia extract"&gt;veridia extract&lt;/A&gt;&lt;/font&gt; would help them, but I can't leave the horses to look for any.&lt;BR&gt;&lt;BR&gt;And I can't send Pokan. Loyal chap, but I'm surprised he doesn't get lost getting out of bed.&lt;BR&gt;&lt;BR&gt;Could you find some for me? For the horses?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1149">
+        <Page social="0">Oh, excellent. This is just right! Thank you for the help!&lt;BR&gt;&lt;BR&gt;Here, take this for your kindness. I hope you'll find it useful.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" villagerId="1149">
+        <Page social="0">Please do get the extract. These horses are for soldiers like you!</Page>
+    </Text>
+</QuestDialog>

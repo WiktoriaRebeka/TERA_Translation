@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3027" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">[Message]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I find myself needing your help once again&lt;BR&gt;&lt;BR&gt;A mysterious, ethereal wolf has been hunting drakoloths and prions alike outside our camp. I haven't seen it myself, but anything that scares those creatures is too much for my researchers to handle.&lt;BR&gt;&lt;BR&gt;Please come and investigate it as soon as you can.&lt;BR&gt;&lt;BR&gt;- Verdas</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">A chance reunion with Halrath uncovered the Forbidden Arena in Thunder Hold.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="1" villagerId="3000">
+        <Page social="4" voiceTypeId="0">Thank you for coming &lt;PCNAME&gt;. I know your time is important, so I'll get right down to business.&lt;BR&gt;&lt;BR&gt;While we were observing the dracoloths, a mysterious wolf appeared. Normally dracoloths eat pretty much anything, but they flew off shrieking as the wolf approached.&lt;NEXTPAGEBUTTON&gt;"That is odd."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Agreed. That wolf moved like nothing we've ever seen before, and continued on into Thunder Hold. Now the prions are acting strangly as well, and we need to know what we're dealing with.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, can you please investigate?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="38" prevId="3" villagerId="2000">
+        <Page social="4" voiceTypeId="0">It has been a while &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;It is good to see you again.&lt;NEXTPAGEBUTTON&gt;"Halrath? What brings you here?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I sensed a powerful new source of divine energy in this region, and I had to see it for myself.&lt;BR&gt;&lt;BR&gt;It started right after that big explosion from...I think you call it Exodor? But whatever the source, it is my duty to investigate.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I found the source, but there's a problem. There's a barrier surrounding a teleportal on top of an abandoned temple, constructed from some kind of divine energy I cannot pierce.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I believe our reunion today is no coincidence. I know your soul, and the things you've done. I can send you to the barrier, but the rest is up to you.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="38" prevId="4" villagerId="2001">
+        <Page social="4" voiceTypeId="0">Thank you &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;This place...can you sense it? There are two energy signatures here, one of which is very familiar.&lt;BR&gt;&lt;BR&gt;I think...yes. It was Lok. Lok created this barrier, and I think I know its purpose. &lt;NEXTPAGEBUTTON&gt;"Lok?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Lok was not always considered as an agent of corruption. In my time, he was the patron of crafters, and that's what he's done here. This barrier may keep gods out, but it also serves to keep whatever lies beyond that teleportal away from the rest of the world.&lt;BR&gt;&lt;BR&gt;It's up to you to figure out exactly what that might be.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="38" prevId="5" villagerId="2001">
+        <Page social="4" voiceTypeId="0">An Undying Fighter...I thought they were all destroyed in the Divine War.&lt;BR&gt;&lt;BR&gt;A doomed soul twisted by Killian's cruel sorceries, still alive after all this time...Lok must have sealed this place to contain it.&lt;BR&gt;&lt;BR&gt;If Exodor's arrival has cracked this barrier...&lt;NEXTPAGEBUTTON&gt;"What should we do next?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">If Lok were still alive, he would reseal this place completely.&lt;BR&gt;&lt;BR&gt;But we can't have Verdas and his researchers blundering about and releasing Killian's creations. It's probably best to keep this discovery to ourselves. Tell them...tell them you've removed the threat, and leave it at that.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="238" prevId="6" villagerId="3000">
+        <Page social="4" voiceTypeId="0">You killed the wolf? I don't suppose you collected any samples, did you? A being that powerful...ah, well, never mind.&lt;BR&gt;&lt;BR&gt;We're already overworked, the last thing I need is another research project. Thank you for everything you do.</Page>
+    </Text>
+</QuestDialog>

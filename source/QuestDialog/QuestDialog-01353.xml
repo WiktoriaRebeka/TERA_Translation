@@ -1,0 +1,36 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="56" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Following Isrenia's warnings about Thulsa and Killian's plans for Sikander, you fought your way through Susurrus Woods to stop the mekonaris from kidnapping everyone, and destroyed the altar where they had sacrificed hundreds of their captives. Clues there pointed you to Amena Quatla, home of the sikandaris and the great egg where Sikander sleeps.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4" voiceTypeId="0">(Isrenia's voice)&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;...&lt;BR&gt;&lt;BR&gt;The Sinister Ritual take place in to locations. Raven Altar in Susurrus Woods and Sanctum of Resurrection in Amena Quatla...You must stop both of them.&lt;BR&gt;&lt;BR&gt;The ritual in Raven Altar requires many sacrifices...&lt;BR&gt;&lt;BR&gt;There's a village...Dragonfall nearby. Please go and investigate the kidnapping...</Page>
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="80" prevId="2" villagerId="1020">
+        <Page social="4" voiceTypeId="0">The mekonaris cleaned out Susurrus Woods. Human, amani, baraka...it didn't matter.&lt;BR&gt;&lt;BR&gt;They herded droves of people down the east road, even the children. We sent all we could to Camp Umbra—they're in charge of rescuing the abductees—but they're still severely outnumbered. Head through Nightwood and take out any mekonari hunters and ebonweavers you encounter. Maybe then we'll have fewer abductees on our hands. Speak with Arshak when you arrive, he'll tell you all he knows.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="256" prevId="3" villagerId="1010">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;? Kaia's grace, I'm glad you're here. You know a lot already, but let me fill in the rest.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="256" villagerId="1010">
+        <Page social="0">Hunters and ebonweavers are crossing Nightwood on their way to snatch more victims! Don't let 'em past you!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="256" prevId="4" villagerId="1010">
+        <Page social="4" voiceTypeId="0">The mekonaris think that all the blood they have spilt honoring Sikander will wake him up to cheerfully reward them. Idiots. But there's worse. The ritual Killian gave them rips the sacrificed souls from the Dream. Unspeakable!&lt;BR&gt;&lt;BR&gt;The mekonari believe this will draw Sikander home, but surely it will poison his mind!&lt;NEXTPAGEBUTTON&gt;"You're right. That's Thulsa's goal."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">He wants to wake Sikander and drive him insane? You must stop them!&lt;BR&gt;&lt;BR&gt;The mekonari templars and dedicants run the rituals, but there are other threats. Killian's dumped his whole blasted toybox on Susurrus Woods. And we've had no luck so far using the altar teleportal. There must be some sort of key. Find it, and destroy the altar. Got all that?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="256" prevId="6" villagerId="1025">
+        <Page social="1" voiceTypeId="0">(The bones come in all sizes and races—human skulls mingle with popori tail bones, amani and castanic horns are piled together. It seems no one was spared.)&lt;BR&gt;&lt;BR&gt;(Horrifyingly, the remains are all inscribed with runes. You sincerely hope the sigils were carved after their owners' deaths.)(Suddenly you feel an eerie prickling on the back of your neck.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="256" prevId="7" villagerId="1027">
+        <Page social="1" voiceTypeId="0">(A voice fades in and out, as if carried on the wind over an enormous distance.)&lt;BR&gt;&lt;BR&gt;Drowning in pain...nothing else...can you hear us?...all the gods you must...So much effort, but...show you where...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="256" prevId="8" villagerId="1026">
+        <Page social="1" voiceTypeId="0">...touched you, so...teleportal will open...&lt;BR&gt;&lt;BR&gt;...pain, so much pain!&lt;BR&gt;&lt;BR&gt;Tell our families...can't hold...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="256" prevId="9" villagerId="1010">
+        <Page social="1" voiceTypeId="0">You did it! But I'm worried about the sikandari you saw at the altar.&lt;NEXTPAGEBUTTON&gt;"Why?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">The mekonaris are apostates. They'd pay any cost to wake Sikander early, but sikandaris are patient, honorable. I assumed they were our allies. This kind of atrocity isn't like them.&lt;BR&gt;&lt;BR&gt;If Thulsa's duped the sikandaris, you better get moving!</Page>
+    </Text>
+</QuestDialog>

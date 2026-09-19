@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="54" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Glad to meet you, stranger! I hope you will help me. You know, I am a collector of Dragon eggs and recently I start to notice that there is not enough place in my house for my collection. So I decided to change something...&lt;BR&gt;No-no-no! I will not throw away my precious collection! But I have an idea... I will collect tiny Dragon eggs!&lt;BR&gt;I know, I know you want to ask me how it will happen because dragons and their eggs are so huge. Listen.&lt;BR&gt;I will craft it by myself. A tiny dragon egg!&lt;BR&gt;Go on and search dragon eggs, crush them and bring me shells from it.&lt;BR&gt;Of course I will give you special fee for your work!&lt;BR&gt;&lt;BR&gt;Shell X 100&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Gather the needed materials and get the reward!&lt;BR&gt;&lt;BR&gt; If you accept text 'Easter commotion' will disappear.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="0" villagerId="1107">
+        <Page social="4">You know... I found that there are no suitable storage shelves to keep such a tiny egg in my house. So, then, why don't you hang onto that? I heard that if you paint it with special dye you will get something special too.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="1107">
+        <Page social="4">The material is insufficient.&lt;BR&gt;&lt;BR&gt;Shell X 100&lt;BR&gt;&lt;BR&gt;Gather the needed materials and get reward!</Page>
+    </Text>
+</QuestDialog>

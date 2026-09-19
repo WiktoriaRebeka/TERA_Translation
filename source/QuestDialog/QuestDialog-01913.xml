@@ -1,0 +1,61 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3003">
+        <Page social="4">You'll never believe this, but {@LinkCreature:63#3002#Taratia}'s gone and got herself drunk on firewhiskey—in the middle of the day! I gave her a piece of my mind, but she's useless to me in that state.&lt;NEXTPAGEBUTTON&gt;"Anything I can do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Well, give her this leather of water and see if you can get her to make enough sense to give you some of her daily tasks. She's slurring her words, but I'm sure you can manage.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="4">You! I love you...did I ever tell you that? No, I really love you, &lt;PCNAME&gt;. Lots and lots and...what? Oh, her? She's dumb! You hear that Elthienne?&lt;BR&gt;&lt;BR&gt;Huh? You want to help me with stuff? Okay.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="2" villagerId="1098">
+        <Page social="5">Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206818} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" villagerId="1098">
+        <Page social="0">{@RawItem:206818} isn't easy to get, right? &lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206819} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="63" villagerId="1098">
+        <Page social="0">{@RawItem:206819} isn't easy to get, right? &lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206820} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" villagerId="1098">
+        <Page social="0">{@RawItem:206820} isn't easy to get, right? &lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206821} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="63" villagerId="1098">
+        <Page social="0">{@RawItem:206821} isn't easy to get, right? &lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="17" huntingZoneId="63" prevId="6" villagerId="1098">
+        <Page social="5">Thank you kindly.&lt;BR&gt;&lt;BR&gt;This is the {@RawItem:206822} alright. Tell {@linkcreature:63#3002#Taratia} I said thank you.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="63" villagerId="1098">
+        <Page social="0">{@RawItem:206822} isn't easy to get, right? &lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="63" prevId="8" villagerId="3002">
+        <Page social="4">I—I just love you!</Page>
+    </Text>
+</QuestDialog>

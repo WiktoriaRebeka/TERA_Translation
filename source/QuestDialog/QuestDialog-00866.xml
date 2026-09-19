@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="236" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="236" prevId="0" villagerId="1020">
+        <Page social="6">Killian has brainwashed a number of Tenebrara mercenaries. At first it was just the leaders, but now it seems he's gone after the reapers as well.&lt;BR&gt;&lt;BR&gt;I have to protect the arcanists here or I'd go take care of them myself—but orders are orders.&lt;BR&gt;&lt;BR&gt;I need you to head out there and clear them out for me. Quickly, before they can do any more of Killian's ill will.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="236" prevId="2" villagerId="1020">
+        <Page social="14">Hey, not bad! Not sure even I could have done better.&lt;BR&gt;&lt;BR&gt;Thanks for your help! This should help us keep the situation under control.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1020">
+        <Page social="5">Are you another of these fools running off toward the Valley of Titans? The last group was gone before I could remind them that there are nothing but Gutrends out there once you pass these gates.&lt;BR&gt;&lt;BR&gt;If you're gonna run out there anyway, you may as well arm up and try to find them. Or at least {@LinkCreature:206#1019#Othias}.&lt;BR&gt;&lt;BR&gt;I sent him after the last group of fools.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1019">
+        <Page social="13">Oh, they're traumatized little fools. They'll be fine in a day or two.&lt;BR&gt;&lt;BR&gt;Good of you to come check after them, though.</Page>
+    </Text>
+</QuestDialog>

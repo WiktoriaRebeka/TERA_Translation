@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="54" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="81" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="81" prevId="0" villagerId="1017">
+        <Page social="4">The story is as old as time. A land ravaged, through occupation and plague, drained of resources by the intrepid denizens fighting to restore it, can no longer support the resistance and inevitably succumbs to fate. This wood is doomed.&lt;BR&gt;&lt;BR&gt;Faerie magic is failing, and steps must be taken to find alternatives. Deep within the mad rampant ghilliedhus lies the power of potential life, potential growth. Power awaiting the day to restart these lands, grow a clean new forest, when life shall eventually emerge victorious.&lt;BR&gt;&lt;BR&gt;Bring me the untainted seeds of the rampant ghilliedhus, for glory!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="81" prevId="2" villagerId="1017">
+        <Page social="4">Time may ravage this land and people, but thanks to the efforts of brave &lt;PCCLASS:lcase&gt;s, the future, however distant it may be, holds hope.&lt;BR&gt;&lt;BR&gt;When these seeds grow and the forest begins anew, perhaps they will name it Seinwood or &lt;PCNAME&gt;wood....</Page>
+    </Text>
+    <Text id="4" huntingZoneId="81" villagerId="1017">
+        <Page social="0">Ghilliedhu seeds lay deep in the heartwood of the ghilliedhus. That's why they're safe from contagion. Looking on the ground will do you no good; killing the rampant ghilliedhus is the only way.</Page>
+    </Text>
+</QuestDialog>

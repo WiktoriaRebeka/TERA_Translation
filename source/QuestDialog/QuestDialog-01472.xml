@@ -1,0 +1,57 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You receive a request from Ryshan and go to the Mysterium.&lt;BR&gt;&lt;BR&gt;The Mysterium was secretly researching a Argon Structure retrieved from Tiaran the Sorrow Tree.&lt;BR&gt;&lt;BR&gt;At the Mysterium, you meet Malachai, a sorcerer who wished to use the research to seek great power.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="5" voiceTypeId="0">Mission Orders&lt;BR&gt;&lt;BR&gt;This is top classified and cannot be written.&lt;BR&gt;Come to Allemantheia Headquarters for details.&lt;BR&gt;&lt;BR&gt;—Fraya</Page>
+    </Text>
+    <Text id="3" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">I have a job for you &lt;PCNAME&gt;...and everything about this is classified information.&lt;BR&gt;&lt;BR&gt;{@linkcreature:72#1111#Ryshan} wants to ask you some questions about an Argon Structure the Mysterium received from Stepstone Isle.&lt;BR&gt;&lt;BR&gt;I don't know anything about the place. I can't even find it on my maps. But I've heard that you came from there...?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">I've also heard that something bad happened there, and that you lost someone close to you. I'm sorry. I know how that feels.&lt;BR&gt;&lt;BR&gt;At any rate: I wish I could send you to track down Thulsa...but the Mysterium takes precedence.&lt;BR&gt;After all, we're fighting with their research subject.&lt;BR&gt;&lt;BR&gt;Visit the Mysterium. Talk to Ryshan.&lt;NEXTPAGEBUTTON&gt;"I'm on my way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Let me know if anything sounds fishy to you.&lt;BR&gt;&lt;BR&gt;I would go with you if it weren't for my responsibilities to the Core.&lt;BR&gt;&lt;BR&gt;If you'd like, you could use the teleportal.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Haha! &lt;PCNAME&gt;! Who'd thought that you would be so naive.&lt;BR&gt;I already know that Dougal brought you in with a fake ID.&lt;BR&gt;&lt;BR&gt;After Samael's death, Dougal informed of what he was doing to the leaders of the federation.&lt;BR&gt;That included you too.&lt;BR&gt;&lt;BR&gt;I wish I could send you to track down Thulsa...&lt;BR&gt;&lt;BR&gt;but we can't turn down on the Mysterium.&lt;BR&gt;After all, we're fighting with their research subject.&lt;NEXTPAGEBUTTON&gt;"What should I do there?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Let me know if you find anything fishy.&lt;BR&gt;I would go with you if it weren't for the Core.&lt;BR&gt;&lt;BR&gt;You should use the teleportal.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="518" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">After Samael's death, Dougal informed of what he was doing to the leaders of the federation.&lt;BR&gt;That included you too.&lt;BR&gt;&lt;BR&gt;I wish I could send you to track down Thulsa...&lt;BR&gt;&lt;BR&gt;but we can't turn down on the Mysterium.&lt;BR&gt;After all, we're fighting with their research subject.&lt;NEXTPAGEBUTTON&gt;"I'll be right back."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Let me know if you find anything fishy.&lt;BR&gt;I would go with you if it weren't for the Core.&lt;BR&gt;&lt;BR&gt;You should use the teleportal.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="2" villagerId="1111">
+        <Page social="1" voiceTypeId="0">It's an honor to meet you, &lt;PCNAME&gt;. Thank you for coming.&lt;BR&gt;&lt;BR&gt;We were researching an Argon Structure from Tiaran the Sorrow Tree.&lt;BR&gt;&lt;BR&gt;But we found something quite strange...&lt;NEXTPAGEBUTTON&gt;"Is it about Anya...?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Anya? No. I don't know what that is.&lt;BR&gt;&lt;BR&gt;What we found is that even the smallest fragment of the Argon Structure can trigger a combination reaction once it goes near an object with life energy...even if the object barely has any life energy left. But it's different from the tree's regeneration.&lt;BR&gt;&lt;BR&gt;You should see for yourself. Here, take this withered leaf, and watch what happens when you bring it close to the Argon Structure.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="72" prevId="7" villagerId="1111">
+        <Page social="0" voiceTypeId="0">Did you see that, &lt;PCNAME&gt;? We can only conclude that argons can modify other organisms through physical contact.&lt;BR&gt;&lt;BR&gt;Other regions are still at war, so the tree is the only safe way for us to continue our research.&lt;BR&gt;&lt;BR&gt;So, I would like to ask you some questions...about your experiences with argons on Stepstone Isle.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="72" villagerId="1111">
+        <Page social="0">How was it?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="72" prevId="8" villagerId="1111">
+        <Page social="1" voiceTypeId="0">The structure had a sort of tube, where something was clearly supposed to be inserted.&lt;BR&gt;But all the tubes that were retrieved contained nothing.&lt;BR&gt;I'm sure that something must have been there, at some point...&lt;BR&gt;&lt;BR&gt;The reports I've read suggest that you were close to the tree when the argons attacked.&lt;BR&gt;&lt;BR&gt;I'm sorry to have to ask, but could you tell me what happened?</Page>
+    </Text>
+    <Text id="11" huntingZoneId="72" prevId="8" villagerId="1111">
+        <Page social="0" voiceTypeId="0">So the children were inside...&lt;BR&gt;&lt;BR&gt;If the tree reverted to its original form, that explains why the tubes were empty...the children had already returned back to the tree...yes.&lt;BR&gt;&lt;BR&gt;But those children were no ordinary children...I don't think their experiences would help this particular research.&lt;NEXTPAGEBUTTON&gt;"I agree."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Countless weeks of research...and it still led me nowhere. I just couldn't understand their purpose, or even their existence.&lt;BR&gt;&lt;BR&gt;A fellow sorcerer claims that this is a chance for something new...but I just can't stand him!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="72" prevId="8" villagerId="1111">
+        <Page social="0" voiceTypeId="0">If that's what you mean, I understand.&lt;BR&gt;There might be a chance to figure out something if we try a different approach. But...after countless weeks of research...I've gotten nowhere. I just couldn't understand their purpose, or even their existence.&lt;BR&gt;&lt;BR&gt;A fellow sorcerer claims that this is a chance for something new...but I just can't stand him!&lt;NEXTPAGEBUTTON&gt;"Who do you mean?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">His name is Malachai.&lt;BR&gt;&lt;BR&gt;He was very helpful when we founded the Mysterium.&lt;BR&gt;&lt;BR&gt;The High Elves made a mistake when they omitted ethics from their theories on magic. We cannot do the same.&lt;BR&gt;&lt;BR&gt;The Mysterium's argon research must only ever be used to drive the argons out of our land.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="72" prevId="10" villagerId="2020">
+        <Page social="4" voiceTypeId="0">So, you were the guardian, from the Sorrow Tree?&lt;BR&gt;&lt;BR&gt;Typical High Elves...I do all their analysis...and they still miss the point.&lt;BR&gt;&lt;BR&gt;Their petty little minds can't handle the fact that dying creatures can evolve into something else. That's why it's impossible for them to fully make use of the Core!&lt;BR&gt;&lt;BR&gt;Hmm, so, would you like to know what I've found out about the Argons?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Well, I am curious..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It's hilariously simple.&lt;BR&gt;&lt;BR&gt;The Argons are from an unknown world.&lt;BR&gt;&lt;BR&gt;So, they utilize a transformation process in order to use their energy in our world.&lt;BR&gt;&lt;BR&gt;And surprise! It turns out that the Argons discovered a way to produce energy in the most efficient way! Isn't that fascinating? They might be our enemy, but their knowledge has become our best weapon against them! Just become stronger!&lt;NEXTPAGEBUTTON&gt;"Um..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Hahaha! You should see your face.&lt;BR&gt;&lt;BR&gt;I never expected the federation to understand me.&lt;BR&gt;Anyway...you're going to report all this back to Fraya, aren't you?&lt;BR&gt;&lt;BR&gt;Well, since I amused you, you can amuse me by doing me a favor.&lt;BR&gt;&lt;BR&gt;Give this document to Fraya.&lt;BR&gt;&lt;BR&gt;I think my assistance here was enough to earn her permission to examine the Core.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="518" prevId="13" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Good work, &lt;PCNAME&gt;.&lt;BR&gt;Argons...I fought them even before I was the commander.&lt;BR&gt;&lt;BR&gt;We didn't know anything about them. Every day fighting them was a nightmare.&lt;BR&gt;&lt;BR&gt;But we still know so little about them...&lt;BR&gt;&lt;BR&gt;Samael's betrayal could have been the result of that kind of fear...fear of the unknown.&lt;BR&gt;&lt;BR&gt;There's still hope, though.&lt;BR&gt;The federation still has you. Don't we?&lt;NEXTPAGEBUTTON&gt;"They have you, too."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Oh, and about this document.&lt;BR&gt;&lt;BR&gt;Malachai asked for permission to examine the Core.&lt;BR&gt;&lt;BR&gt;He has no intention of helping Allemantheia. I'm sure that his research is only for his personal gain.&lt;BR&gt;&lt;BR&gt;Also—and this is classified information—the Core was stolen.&lt;BR&gt;&lt;BR&gt;I'll just give him an evasive answer.&lt;BR&gt;&lt;BR&gt;Carry on.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="518" villagerId="1001">
+        <Page social="0">So, what happened at the Mysterium?</Page>
+    </Text>
+</QuestDialog>

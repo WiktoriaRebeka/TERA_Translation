@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="827" prevId="0" villagerId="223">
+        <Page social="4" voiceTypeId="0">Anya was asking about you, by the way. She’s up at the temple with Glennock and the other children, getting ready for the big sleep experiment today. I think Anya is feeling anxious about it. I know it’s a tremendous burden for the kids, and I think having you there might reassure her.&lt;BR&gt;&lt;BR&gt;You should go up and see her, even if it’s only for a few moments.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Invited to join in a pre-experiment offering to Tiaran the Sorrow Tree, &lt;PCNAME&gt; was as surprised as anyone to see the tiny Tiaran sapling undergo a radical growth spurt… and for shimmering lights to surround the children. Informed by Glennock that this had never happened before, &lt;PCNAME&gt; set off with Anya to fetch some sap from the Mysterium’s storehouse, so that Glennock could perform some tests.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="827" prevId="1" villagerId="224">
+        <Page social="4" voiceTypeId="0">Oh, there you are, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I was just explaining today’s experiment to the children. It’s important that they understand what an amazing gift the Sight is, and that their participation in these experiments is purely voluntary.&lt;BR&gt;&lt;BR&gt;We were just about to make an offering to the spirit of Tiaran. Would you care to join us?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I’d be honored."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">When you're ready, pour some water on the Tiaran sapling here. The children will then perform the invocation to Tiaran.&lt;BR&gt;&lt;BR&gt;That's really all there is to it. We are ready when you are.&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

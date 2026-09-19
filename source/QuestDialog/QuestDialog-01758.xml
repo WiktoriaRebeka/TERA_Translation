@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1096">
+        <Page social="0" voiceTypeId="0">Your presence is requested at the Legion of Arms hall in Velika.&lt;BR&gt;&lt;BR&gt; Please report to Hamile at your earliest convenience.&lt;NEXTPAGEBUTTON&gt;"I'm on my way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Thank you for responding to my request, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I hope you've been doing well. &lt;NEXTPAGEBUTTON&gt;"Well enough. Why did you summon me?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I've heard good things about you...that you are learning your archery skills quite quickly.&lt;BR&gt;&lt;BR&gt;So I thought it might interest you to know that I have developed a new archery technique.&lt;NEXTPAGEBUTTON&gt;"A new technique?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It will be a new skill for you to learn.&lt;BR&gt;&lt;BR&gt;It's something I've been working on for quite a while, actually. I thought that, as such an eager archer, you would want to learn it as soon as possible.&lt;NEXTPAGEBUTTON&gt;"Okay, I'm definitely interested."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It will take some effort. I need to be clear about that.&lt;BR&gt;&lt;BR&gt;Six steps in total, but the rewards are well worth.&lt;BR&gt;&lt;BR&gt;Still want to try?&lt;NEXTPAGEBUTTON&gt;"Yes. Count me in."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1096">
+        <Page social="4" voiceTypeId="0">The first two steps are fairly simple.&lt;BR&gt;&lt;BR&gt;Just clear two dungeons suitable for your level. You can also just clear the same dungeon twice.&lt;NEXTPAGEBUTTON&gt;"Okay, that's easy enough."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">It might sound easy, but don't let your confidence get the better of you. Dungeons are dangerous...particularly if you go alone.&lt;NEXTPAGEBUTTON&gt;"I understand. I'll be back soon."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1096">
+        <Page social="4" voiceTypeId="0">Well done, &lt;PCNAME&gt;. You still have a long way to go, though.&lt;BR&gt;&lt;BR&gt;It will take you some time, but when you're ready for the next step in your training, I'll fill you in on the details, and the rewards.&lt;BR&gt;&lt;BR&gt;Take some time to decide if you're truly ready.&lt;NEXTPAGEBUTTON&gt;"Okay. Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

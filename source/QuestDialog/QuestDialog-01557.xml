@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="814" prevId="0" villagerId="2106">
+        <Page social="0">Stolen every evidence right in front of success, &lt;PCNAME&gt; and allies couldn't help feeling deserted.&lt;BR&gt;Dougal advised to let Highwatch citizens know what happened in the Vault of Oriyn.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="814" prevId="0" villagerId="2106">
+        <Page social="1" voiceTypeId="0">Rhodos is in the grip of "furious grief" right now. We aren't likely to get anything coherent out of him for a while.&lt;BR&gt;&lt;BR&gt;Let's tell Dougal what happened, and he'll have advice about what to do next.&lt;NEXTPAGEBUTTON&gt;"That is an idea."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="2" villagerId="1001">
+        <Page social="1" voiceTypeId="0">That doesn't make any sense! Madat was helping us get into...into the city...&lt;BR&gt;&lt;BR&gt;Damn it! All of that was never about breaking the siege! Dakuryon just used us to get close to Verikam!&lt;BR&gt;&lt;BR&gt;We need to rethink all our plans...&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

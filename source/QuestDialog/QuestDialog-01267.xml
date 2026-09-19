@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="252" prevId="0" villagerId="1044">
+        <Page social="4">Okay, "hero of Valkyon," let's see what you've got.&lt;BR&gt;&lt;BR&gt;How about bringing me the head of Tersa, the leader of the enemy necromancers? Can you do that?&lt;NEXTPAGEBUTTON&gt;"Show me where to go."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">I was kidding, but I like your attitude, &lt;PCCLASS:lcase&gt;. Seriously, though, how about you...&lt;BR&gt;&lt;BR&gt;What? Don't look at me like that!&lt;BR&gt;&lt;BR&gt;Fine, have it your way. Go after Tersa. They only sent one soldier, so I guess I can suffer only one casualty.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1044">
+        <Page social="4">Is this really Tersa's head?&lt;BR&gt;&lt;BR&gt;I can't believe you really beheaded the leader of the necromancers!&lt;BR&gt;&lt;BR&gt;...Okay, I admit it. You're a better &lt;PCCLASS:lcase&gt; than I've ever seen. Maybe one &lt;PCNAME&gt; is better than a column of Kaiator's best.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" villagerId="1044">
+        <Page social="0">If you don't have the guts to fight Tersa, go back to Kaiator.&lt;BR&gt;&lt;BR&gt;Take up a crafting profession! I don't care.</Page>
+    </Text>
+</QuestDialog>

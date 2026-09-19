@@ -1,0 +1,99 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3001">
+        <Page social="4">Shariar recruits at {@Rgn:48002$$Khanovar Citadel} need instruction.&lt;BR&gt;&lt;BR&gt;Training them to fight is by no means an easy task. Would you go there and train them yourself?&lt;BR&gt;&lt;BR&gt;Talk to {@LinkCreature:248#3003#Vikhonul} in {@Rgn:48002$$Khanovar Citadel}. He'll direct you to the training grounds. So go teach those newbies what fighting really is!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3003">
+        <Page social="4">Well, {@LinkCreature:248#3029#Kahel} did ask for someone who knew their ass from a hole in the ground.&lt;BR&gt;&lt;BR&gt;You killed Akasha and Killian...that has to count.&lt;BR&gt;&lt;BR&gt;Speak with the battlemaster. He's out with the recruits.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="4">Bah! These fools won't pay attention to me, but I wager they'll listen to you.&lt;BR&gt;&lt;BR&gt;Why don't you put them through their paces—you know, mentor them a bit?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="11" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="12" huntingZoneId="248" prevId="3" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="13" huntingZoneId="248" prevId="3" villagerId="3021">
+        <Page social="4">Which end goes where?</Page>
+    </Text>
+    <Text id="14" huntingZoneId="248" prevId="13" villagerId="3022">
+        <Page social="4">Can I get more armor? I don't want to die!</Page>
+    </Text>
+    <Text id="15" huntingZoneId="248" prevId="14" villagerId="3023">
+        <Page social="4">Nobody's tougher than me!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="248" prevId="15" villagerId="3024">
+        <Page social="4">Help me! Please take me out of here!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="248" prevId="16" villagerId="3025">
+        <Page social="4">I'm sick of this sadist.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="248" prevId="17" villagerId="3026">
+        <Page social="4">My stomach's churning. Is that normal?</Page>
+    </Text>
+    <Text id="19" huntingZoneId="248" prevId="18" villagerId="3027">
+        <Page social="4">I'm not gonna give up, not after what the argons did to my home.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="248" prevId="19" villagerId="3028">
+        <Page social="4">I don't know if I can make it...</Page>
+    </Text>
+    <Text id="21" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="4">Keep working them.&lt;BR&gt;&lt;BR&gt;I can see a few of them paying attention.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="23" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="24" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="25" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="26" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="27" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="28" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="29" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="30" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="0" />
+    </Text>
+    <Text id="31" huntingZoneId="248" prevId="20" villagerId="3029">
+        <Page social="4">That's it for today, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I don't know if they'll all make it, but I like what I'm seeing.&lt;BR&gt;&lt;BR&gt;Dismissed.</Page>
+    </Text>
+    <Text id="32" huntingZoneId="248" prevId="31" villagerId="3003">
+        <Page social="4">The greatest mission is teaching the next generation of soldiers.&lt;BR&gt;&lt;BR&gt;Only those who've faced the fire know what it really takes.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1015">
+        <Page social="0">You and {@Creature:71#1114$$Rida} unlocked the second temple seal at Seren's Lake. Before you left to meet the leader of the Consos, Rida warned you against trusting the Mysterium too far with the secrets of the temple.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1015">
+        <Page social="1" voiceTypeId="0">{@LinkCreature:230#1024$$Alais} tracked Princess Rida to the observatory near the Upper Archive.&lt;BR&gt;&lt;BR&gt;Here, take the repository scrolls. Alais will be enthralled by their historical contents, I'm sure.&lt;BR&gt;&lt;BR&gt;Good luck on your quest, &lt;PCNAME&gt;. It's been a pleasure working together again.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1024">
+        <Page social="1" voiceTypeId="0">&lt;PCNAME&gt;! I take it you have the ceremony?&lt;BR&gt;&lt;BR&gt;Let me see these. Plenty of historical observations, but those can wait. Yes, here's the ceremony!&lt;BR&gt;&lt;BR&gt;A purification rite. How quaint.&lt;NEXTPAGEBUTTON&gt;"Where's Rida?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Resting by {@Rgn:30014$$Seren's Lake}.&lt;BR&gt;&lt;BR&gt;I suspect this is the temple's final safeguard. I'll go to the {@Rgn:30015$$Archive Stronghold} and inform Nandu, the Consos chief.&lt;BR&gt;&lt;BR&gt;No doubt there will be more formalities.&lt;NEXTPAGEBUTTON&gt;"What's this stronghold?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Well, it's more of a camp than a stronghold, really. But we think it's the location of the vaults beneath Balder's Archives.&lt;BR&gt;&lt;BR&gt;Or where those vaults used to be, I suppose. Balder's death tore this place apart, but a few baraka sheltered there and survived. Nandu, just a child, was among them.&lt;BR&gt;&lt;BR&gt;But enough remedial history. Go to {@Rgn:30014$$Seren's Lake} and unlock the temple.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1082">
+        <Page social="1" voiceTypeId="0">A ceremony? Of course!&lt;BR&gt;&lt;BR&gt;I found the seal—in that pavilion there—but something was missing. We have to purify ourselves.&lt;BR&gt;&lt;BR&gt;I need some Moonlight Lotus. Would you pick some?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" prevId="4" villagerId="1082">
+        <Page social="1" voiceTypeId="0">These'll do. Now hold still a moment.&lt;BR&gt;&lt;BR&gt;Seren! By our common blood, by clear water, and by your sacred flower, I invoke your cleansing touch. Make us pure. Prepare us for the trials to come!&lt;BR&gt;&lt;BR&gt;Almost done. I'll enter the seal. You work it from outside.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="230" villagerId="1082">
+        <Page social="0">Moonlight Lotus plants grow near the water.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="230" prevId="5" villagerId="1082">
+        <Page social="1" voiceTypeId="0">I just unlocked...er, "we" just unlocked {@Rgn:9025001$$Balder's Temple}!&lt;BR&gt;&lt;BR&gt;I've fulfilled my vision, and you got to play the hero again.&lt;BR&gt;&lt;BR&gt;I just hope we did the right thing opening the temple up to Alais and his Mysterium cronies.&lt;NEXTPAGEBUTTON&gt;"They're the federation's top scholars."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Your friend Elsine's a great scholar, but who does she report to? Alais.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, the Mysterium cares about one thing: the Mysterium.&lt;BR&gt;&lt;BR&gt;They don't trust other people with power. Don't assume they want the same things the federation does.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="230" prevId="7" villagerId="1053">
+        <Page social="1" voiceTypeId="0">The final seal is open? Superb!&lt;BR&gt;&lt;BR&gt;There's one more formality. {@LinkCreature:230#1047$$Nandu}, the Consos chief, will give you the key to the temple door. The Consos clan has awaited this moment for centuries, so we must indulge them.&lt;BR&gt;&lt;BR&gt;Well? Nandu's waiting! The secrets of {@Rgn:9025001$$Balder's Temple} await!</Page>
+    </Text>
+</QuestDialog>

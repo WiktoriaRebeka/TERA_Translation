@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3004" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3004" prevId="0" villagerId="1012">
+        <Page social="4" voiceTypeId="0">(You search the decomposing body of a federation officer and find a letter in a breast pocket.)&lt;BR&gt;&lt;BR&gt;(The letter is addressed to Vandrea.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1026">
+        <Page social="4" voiceTypeId="0">This...this is Hemington's handwriting.&lt;BR&gt;&lt;BR&gt;I'll read it, but first...I need to grieve.</Page>
+    </Text>
+</QuestDialog>

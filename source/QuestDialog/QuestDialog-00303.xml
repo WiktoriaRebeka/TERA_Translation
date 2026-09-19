@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="12" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1026">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1026">
+        <Page social="5">Pirates, those Red Lash Pirates, take Dirken lightly. If they entrusted Dirken with Cutthroat Harbor, they should've left it at that. Why are they trying to meddle with his affairs? If not by words, by blood. That's how problems get resolved around here.&lt;BR&gt;&lt;BR&gt;If you go to Jagged Coast, you'll see the {@LinkCreature:12#22#Red Lash enforcers} wandering around. Kill them and get their eyes. That will be their warning. Oh! And bring them to {@LinkCreature:212#1002$$Sidara}.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="212" prevId="2" villagerId="1002">
+        <Page social="4">These are...Dirken's tokens? Well, it's certainly one method of establishing dominance.&lt;BR&gt;&lt;BR&gt;Well, a job well done nevertheless.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="212" villagerId="1002">
+        <Page social="0">What are you doing? Go get those pirates already!</Page>
+    </Text>
+</QuestDialog>

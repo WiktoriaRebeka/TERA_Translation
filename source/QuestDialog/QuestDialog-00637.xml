@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1006">
+        <Page social="4">All Cultists are annoying, but the worst is the {@LinkCreature:25#1051#skeletal pikemen}. They keep coming after us, even after losing all their limbs. I guess the dead don't feel pain, but looking at their limbless bodies squirming is just...creepy. The Atel Akaad stuck frenzied cores in them. It's what's keeping them moving.&lt;BR&gt;&lt;BR&gt;Go collect the cores, then bring them to Orlaith at Scholar's Refuge.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1015">
+        <Page social="4">Thank you! I hope we can take this opportunity and wipe them all out. I'm not really sure how we'll manage, mind, few as we are.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="225" villagerId="1015">
+        <Page social="0">If we're going to eliminate these skeletal pikemen, I need you to collect more frenzied cores.</Page>
+    </Text>
+</QuestDialog>

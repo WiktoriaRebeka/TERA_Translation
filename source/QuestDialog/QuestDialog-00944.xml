@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1023">
+        <Page social="4">I keep overhearing things. They're saying the arachnens have something to do with the awful plague in Frontera.&lt;BR&gt;&lt;BR&gt;If you search their lab and find the answer, maybe we'll be able to go home.&lt;BR&gt;&lt;BR&gt;I don't want to raise my daughter in this horrible place!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1023">
+        <Page social="0">Maybe someone can get some answers from this, and we can go home again.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1023">
+        <Page social="0">We need to know what the arachnens were doing. Bring back everything you can from the lab.</Page>
+    </Text>
+</QuestDialog>

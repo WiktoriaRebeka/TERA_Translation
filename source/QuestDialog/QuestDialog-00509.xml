@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="220" prevId="0" villagerId="1002">
+        <Page social="4">The mine continues to grow and grow, and it's all because of those {@LinkCreature:20#30011000#slave foremen} and {@LinkCreature:20#30012000#zombie slaves}. Who knows how deep it is now?&lt;BR&gt;&lt;BR&gt;You have to get rid of them. The deeper the mine gets, the less likely anything good's going to come back out.&lt;BR&gt;&lt;BR&gt;Might as well grab their tools while you're at it. No reason to leave free gear around. Give them all to Ruanal in the Halls of Gloom.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1028">
+        <Page social="4">That's the way to do it, &lt;PCNAME&gt;. I'll hang on to these.&lt;BR&gt;&lt;BR&gt;Here's a little something for all your hard work.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="220" villagerId="1028">
+        <Page social="0">We need to take out more of those zombies...</Page>
+    </Text>
+</QuestDialog>

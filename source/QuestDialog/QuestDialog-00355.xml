@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1130">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1130">
+        <Page social="4">The {@LinkCreature:13#300911#Cromos} is a fascinating creature. A guardian spirit patterned after a real animal that adapts scavenged equipment into workable armor.&lt;BR&gt;&lt;BR&gt;They also eat just about anything, including gauges meant for other creatures. Data recovered from those would be a fascinating project. Your next task is to get some.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1130">
+        <Page social="4">As expected. These gauges record a fascinating energy...one similar to something...it is not right to speculate. Leander, child of Karas, or Eria, child of Elinu, are the senior researchers. They should know.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" villagerId="1130">
+        <Page social="0">Does the double howl of the {@LinkCreature:13#300911#cromos} frighten? Pay it no heed—stay focused on the task at hand.&lt;BR&gt;&lt;BR&gt;Elleon never shied from danger, though there are those who claim this was his undoing. Were the retrieval of &lt;b&gt;power gauges&lt;/b&gt; his task, no doubt it would be finished already.&lt;BR&gt;&lt;BR&gt; Perhaps another round of gathering might be in order.</Page>
+    </Text>
+</QuestDialog>

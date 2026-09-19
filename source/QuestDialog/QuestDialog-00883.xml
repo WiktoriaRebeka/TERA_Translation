@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="37" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="237" prevId="0" villagerId="1032">
+        <Page social="6">Galla's right about one thing: those hellhounds are a pain.&lt;BR&gt;&lt;BR&gt;They jumped me—accursed pack tactics!—and I lost all the rations.&lt;BR&gt;&lt;BR&gt;Talk about a nightmare assignment: "Hey, Eudon, how about you transport all this meat through hellhound country? Great! Good luck, buddy!" Sheesh.&lt;BR&gt;&lt;BR&gt;If the goldmaw hellhounds haven't eaten it all, can you retrieve the rations for me, &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="237" prevId="2" villagerId="1033">
+        <Page social="6">We're starving, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Let us at it!&lt;BR&gt;&lt;BR&gt;And hey...how come it took you so long?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="237" villagerId="1033">
+        <Page social="0">What is it?</Page>
+    </Text>
+</QuestDialog>

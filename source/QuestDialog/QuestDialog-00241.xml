@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1112">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1112">
+        <Page social="4">They say if you see a {@LinkCreature:10#7#vicious mycanar}, it's bad luck.&lt;BR&gt;&lt;BR&gt;True or not, the mycanars blockade the path back to Castanica. It's time to show these fun guys who's in charge.&lt;BR&gt;&lt;BR&gt;Clear the road, &lt;PCNAME&gt;. Dismissed.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1112">
+        <Page social="4">Well done, &lt;PCNAME&gt;. Maybe we can get some firewhiskey shipped out and celebrate!</Page>
+    </Text>
+</QuestDialog>

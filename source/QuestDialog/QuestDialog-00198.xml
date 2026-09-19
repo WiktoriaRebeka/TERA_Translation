@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1014">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1014">
+        <Page social="4">Those blasted {@LinkCreature:8#4011#aberrant gulons} might be a challenge, even for you. They're down in the depths.&lt;BR&gt;&lt;BR&gt;These freaks are immensely powerful and all evil. Whatever it takes to put them down for good, you do it!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1014">
+        <Page social="4">I've heard of undead gulas before, but there's something about the gulons I can't place. Their strength, their power are amazing. How did they get like that?</Page>
+    </Text>
+</QuestDialog>

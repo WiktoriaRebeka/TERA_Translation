@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="599" prevId="0" villagerId="121">
+        <Page social="0">The Valkyon Federation discovered Tiaran, the Sorrow Tree, on Stepstone Isle a decade ago, and sent an expedition to study its magical properties.&lt;BR&gt;&lt;BR&gt;On the day that federation researchers were preparing their most ambitious experiment yet, &lt;PCNAME&gt; arrived on the island and was sent to gather bark from the Sorrow Tree's roots for Glennock.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="599" prevId="0" villagerId="121">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Tiaran the Sorrow Tree has many secrets as yet unknown.&lt;BR&gt;&lt;BR&gt;Please find me {@linkcreature:599#121#at Tangle Point}.&lt;BR&gt;&lt;BR&gt;As part of your new duties, I want you to help collect bark samples for an important project. &lt;BR&gt;&lt;BR&gt;—Glennock</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="2" villagerId="121">
+        <Page social="4" voiceTypeId="0">Greetings, &lt;PCCLASS:lcase&gt;! You must be &lt;PCNAME&gt;. Anya speaks highly of the person you will someday become. If you've got your bearings, I have your first assignment.&lt;BR&gt;&lt;BR&gt;We've got an important experiment later today, and we're going to need samples of the Sorrow Tree's bark.&lt;BR&gt;&lt;BR&gt;Can you gather some for me from that root over there?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="121">
+        <Page social="4" voiceTypeId="0">See? Nothing to it. That's this island for you! Easy work, no stress...it's as peaceful as a cemetery!&lt;BR&gt;&lt;BR&gt;Well, maybe that's a bad analogy...you know what I mean.&lt;NEXTPAGEBUTTON&gt;"What can I do next?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

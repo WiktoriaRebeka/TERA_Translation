@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1023">
+        <Page social="4">There is ancient rumor that speaks of a potion used to control a vampir's blood lust. There's no way to know for sure if it's any more than myths and legends—except to try it.&lt;BR&gt;&lt;BR&gt;Even if we're successful, however, we run the risk of killing them rather than quelling them.&lt;BR&gt;&lt;BR&gt;I'll need the &lt;font color='#660000'&gt;khamala flower&lt;/font&gt;, which grows in Forsaken Fields, where the vampirs live.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1023">
+        <Page social="4">Good. This looks like exactly what I need.&lt;BR&gt;&lt;BR&gt;Hmm? Oh, yes, I did find the recipe. If you'll give me just a sec...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" villagerId="1023">
+        <Page social="0">The flower is very easy to find.&lt;BR&gt;&lt;BR&gt;Did you want to help out or not?</Page>
+    </Text>
+</QuestDialog>

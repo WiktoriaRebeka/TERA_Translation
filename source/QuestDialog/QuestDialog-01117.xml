@@ -1,0 +1,40 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Hazto requested that you collect Sarjalod Components.&lt;BR&gt;&lt;BR&gt;He also asked if you could recollect the bodies or any belongings of the dead soldiers.&lt;BR&gt;&lt;BR&gt;You met a survivor, and with his help, you found the Argon Magister controlling the cannons.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Report to {@LinkCreature:248#2001#Tamur} at Khanovar Citadel for priority redeployment.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2001">
+        <Page social="10" voiceTypeId="0">Job well done, soldier.&lt;BR&gt;&lt;BR&gt;It's a relief that the Siege Weapon works.&lt;BR&gt;&lt;BR&gt;But I'm afraid that won't be enough to stand against their cannons.&lt;BR&gt;&lt;BR&gt;To prevent further losses, we tried to incapacitate their cannons, but failed every time.&lt;BR&gt;&lt;BR&gt;We need your help. Talk to {@LinkCreature:248#1032#Hazto} for details. He's out in the courtyard.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="1032">
+        <Page social="10" voiceTypeId="0">Although we're developing new weapons, the argons aren't just sitting idle.&lt;NEXTPAGEBUTTON&gt;"So I've noticed."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="10" voiceTypeId="0">I want you to kill the shapers controlling their new sarjalod cannons, and bring me back a component from one of those cannons. We have to learn their weaknesses.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="48" prevId="4" villagerId="1012">
+        <Page social="4" voiceTypeId="0">It's you! I've heard so much about you.&lt;BR&gt;&lt;BR&gt;That cannon killed all my friends...I'll do whatever it takes to bring that thing down.&lt;NEXTPAGEBUTTON&gt;"It's too dangerous by yourself."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Three soldiers under my command died yesterday, and I want to recover their unit insignias for their families.&lt;BR&gt;&lt;BR&gt;Jared, Genevieve, and Misha deserved better, but I won't let their names be lost to the winds.&lt;BR&gt;&lt;BR&gt;But it's all I can do to hold this position. I can't fight my way through to their bodies. Think you can recover them for me?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="5" villagerId="1018">
+        <Page social="6" voiceTypeId="0">(You find Genevieve's insignia.)</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" prevId="5" villagerId="1020">
+        <Page social="6" voiceTypeId="0">(Misha's insignia is cut in half, but still legible.)</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="5" villagerId="1019">
+        <Page social="6" voiceTypeId="0">(You find Jared's insignia, but something else catches your eye.)&lt;NEXTPAGEBUTTON&gt;"What's this?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="4">(It's one of Dalmuri's missing chapters.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="48" prevId="6" villagerId="1012">
+        <Page social="4" voiceTypeId="0">Thanks. I tried to keep the argons busy. Hope you didn't get too banged up.&lt;BR&gt;&lt;BR&gt;I found out that an argon called the Magister controls the cannon.&lt;BR&gt;&lt;BR&gt;It was like...the cannon was linked to their body or something.&lt;NEXTPAGEBUTTON&gt;"The Magister?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">A special type of Argon—vicious and cunning.&lt;BR&gt;&lt;BR&gt;But they've got the components we need. I firmly believe that you can take them. Please get them for the sake of my men.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="1032">
+        <Page social="6" voiceTypeId="0">That was no mean feat, &lt;PCNAME&gt;. Well done.&lt;BR&gt;&lt;BR&gt;With those shapers dead, the cannons will sit silent for a while. Hopefully, that'll give me time to analyze its design.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="248" villagerId="1032">
+        <Page social="0">The shapers never venture out without minions to protect them.&lt;BR&gt;&lt;BR&gt;And watch out for those cannons. There's no telling what will set them off.</Page>
+    </Text>
+</QuestDialog>

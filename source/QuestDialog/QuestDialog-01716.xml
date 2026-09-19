@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="505" prevId="0" villagerId="2027">
+        <Page social="0">With the dragons' assault on the city, the banquet came to a horrific end, marked by ruins and ashes. Just before the great Black Dragon struck its final blow, Mystel sent you back to the past.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="505" prevId="0" villagerId="2027">
+        <Page social="0" voiceTypeId="0">You've attended all the events.&lt;BR&gt;&lt;BR&gt;It's time for Seir's speech.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="505" prevId="2" villagerId="2027">
+        <Page social="0" voiceTypeId="0">The Goddess...! Velika...!&lt;BR&gt;&lt;BR&gt;What are all these dragons...?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="505" prevId="3" villagerId="2012">
+        <Page social="0" voiceTypeId="0">What's happening?&lt;BR&gt;&lt;BR&gt;Where did all these dragons come from?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="505" prevId="4" villagerId="2028">
+        <Page social="0" voiceTypeId="0">Something's wrong...&lt;BR&gt;&lt;BR&gt;The Veil! The wall between worlds! It's gone!&lt;BR&gt;&lt;BR&gt;Something is very, very wrong...!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="505" prevId="5" villagerId="2027">
+        <Page social="0" voiceTypeId="0">I'll get these people to safety, then I'll bring back some troops.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, please search the area to see if there are any more survivors. Be careful.&lt;BR&gt;&lt;BR&gt;The Goddess is... never mind that for now. Just be quick, and be safe.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="505" prevId="6" villagerId="3005">
+        <Page social="0" voiceTypeId="0">Did everyone... make it out?&lt;BR&gt;&lt;BR&gt;I hope... the other Palace Knights are... safe...</Page>
+    </Text>
+    <Text id="8" huntingZoneId="505" prevId="7" villagerId="3001">
+        <Page social="0" voiceTypeId="0">I think it's better this way... so I won't be around to see things get even worse... &lt;BR&gt;&lt;BR&gt;That enormous Black Dragon...that dragon is controlling all the other dragons.&lt;BR&gt;You must... find it! The Master of the Darkened...</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="1132">
+        <Page social="0" voiceTypeId="0">What? The banquet? That's still three days away...&lt;BR&gt;&lt;BR&gt;Everything's going smoothly. We just got a shipment of fresh ingredients from all over the land, and the chef is hard at work on the menu. I think that's all for now...&lt;BR&gt;&lt;BR&gt;I don't know. You should wipe off the dust though.&lt;BR&gt;&lt;BR&gt;You came to meet Seir, right? He's inside.</Page>
+    </Text>
+</QuestDialog>

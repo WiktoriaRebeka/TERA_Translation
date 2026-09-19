@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="36" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1008">
+        <Page social="10">The supply carriage from Allemantheia should have been here by now—I don't really know what could be keeping it.&lt;BR&gt;&lt;BR&gt;Could you report it to Captain Cerenon? We're understaffed and I can't leave my post.&lt;BR&gt;&lt;BR&gt;The captain should be at the gates to the Magistrate Residence.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="74" prevId="2" villagerId="1007">
+        <Page social="6">Yeah, we expected the carriage a while ago.&lt;BR&gt;&lt;BR&gt;Can you go to Runner's Watch and find out what's keeping it?&lt;BR&gt;&lt;BR&gt;Oh...you should know we've had some trouble with rasptusk sabertooths lately. You may need to clear some of them out to get through.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="236" prevId="3" villagerId="1010">
+        <Page social="6">You're from Elenea?&lt;BR&gt;&lt;BR&gt;Oh, the carriage? Hmm.&lt;BR&gt;&lt;BR&gt;You should probably speak to Tarnan about that.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="236" prevId="4" villagerId="1004">
+        <Page social="6">The supply carriage?&lt;BR&gt;&lt;BR&gt;Oh dear.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="87" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="87" prevId="0" villagerId="1030">
+        <Page social="0">&lt;img src='img://__Quest_Mission.870801'/&gt;&lt;BR&gt;After consoling the spirits of those who died in the war against orcans, you headed to Kaiator in search of greater battles.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="87" prevId="0" villagerId="1030">
+        <Page social="4" voiceTypeId="0">&lt;img src='img://__Quest_Mission.870801'/&gt;&lt;BR&gt;Now that the orcans have lost their leader, they're just a bunch of dumb muscles without a brain. They'll have no chance against our counterattack. &lt;PCNAME&gt;, you truly are a hero.&lt;BR&gt;&lt;BR&gt;But there is something else I need to ask of you. Those who died here...their spirits cannot rest until they understand that they have been avenged. Only one person can put their spirits at ease: the person who avenged them. The savior of Pora Elinu.&lt;BR&gt;&lt;BR&gt;You, &lt;PCNAME&gt;. Please, return to Pora Elinu, meet with Sujai, and perform the Ceremony of Mourning.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="87" prevId="2" villagerId="1024">
+        <Page social="4" voiceTypeId="0">It's time to heal. Place this flower in the incense burner.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="87" prevId="3" villagerId="1025">
+        <Page social="5" voiceTypeId="0">(When you place the flower in the incense burner, a pure and subtle scent arises.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="87" prevId="4" villagerId="1024">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;, you are such a wonderful person. Thank you.&lt;BR&gt;&lt;BR&gt;It'll take time for everything to go back to the way it was.&lt;BR&gt;&lt;BR&gt;Princess Rida journeyed to Kaiator to petition for aid and left reconstruction of Pora Elinu to my mistress Arin. Word of your deeds has reached Princess Rida. She has asked me to send you to her immediately. I hope you have everything you need. Please give my regards to Princess Rida. Farewell.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="84" prevId="5" villagerId="10031">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! I heard all about what you did for Pora Elinu! You are so brave!&lt;BR&gt;I'm so glad that I trusted you. Thank you so much. This was only the beginning of your adventures, &lt;PCNAME&gt;. You have so many more great things to do, to make even more people as happy as you have made us. You will always be remembered as the Savior of Pora Elinu. Thank you for everything!</Page>
+    </Text>
+</QuestDialog>

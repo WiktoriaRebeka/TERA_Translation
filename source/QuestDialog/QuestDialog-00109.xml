@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="205" prevId="0" villagerId="1006">
+        <Page social="5">They stole everything. All of it. As they left, they were sifting through my merchandise and taking out several of the headpieces. I'll bet you'd be able to collect them from the {@LinkCreature:5#3#Tuwangi Workers} themselves.&lt;BR&gt;&lt;BR&gt;Do you think you could collect those while you're out looking for the bag itself?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1006">
+        <Page social="9">Oh, magnificent! These are worth quite a lot—I'd have had a hard time eating for a while if you hadn't gotten these back.&lt;BR&gt;&lt;BR&gt;Thank you so much for your help.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="205" villagerId="1006">
+        <Page social="0">Please collect the headpieces. They're really my livelihood. I'm not sure where my next meal will come from if I don't have those.</Page>
+    </Text>
+</QuestDialog>

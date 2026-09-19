@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1025">
+        <Page social="5">Have you been out to the craters yet? The gods did that when the giants got too big for their giant britches.&lt;BR&gt;&lt;BR&gt;But what's even more amazing are the diggers and boregolems that survived the Day of Fire. My theory is they dug themselves in, really deep. They can dig like anything.&lt;BR&gt;&lt;BR&gt;If I had me some of those arms of theirs, our work would be cut in half, and in half again! I don't suppose you'd like to help?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1025">
+        <Page social="5">Look at these! We can throw away our shovels now, and really start to dig!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="238" villagerId="1025">
+        <Page social="0">I'm going to need a lot of those digger and boregolem arms. I'm telling you, I'm going to revolutionize excavation.</Page>
+    </Text>
+</QuestDialog>

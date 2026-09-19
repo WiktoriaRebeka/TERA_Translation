@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1066">
+        <Page social="1">The popori crave communion with the spirit of the goddess Seren, but they don't realize that a pilgrimage to {@Rgn:30014$$Seren's Lake} might be the last journey they ever undertake.&lt;BR&gt;&lt;BR&gt;Someone capable of safely escorting the pilgrims to the lake must be found.&lt;BR&gt;&lt;BR&gt;Is that someone &lt;PCNAME&gt;?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="30" villagerId="41">
+        <Page social="0">Typical patronizing high elves. We can take care of ourselves!&lt;BR&gt;&lt;BR&gt;Tell Centurion Pointy-Ears that I'm a veteran of the Argon War and I can take care of myself!&lt;BR&gt;&lt;BR&gt;However, um...I seem to have misplaced my map. Can you show me the way to {@Rgn:30014$$Seren's Lake}?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="1066">
+        <Page social="1">Thank you, &lt;PCNAME&gt;. It's like I can hear Seren herself whispering to me.</Page>
+    </Text>
+</QuestDialog>

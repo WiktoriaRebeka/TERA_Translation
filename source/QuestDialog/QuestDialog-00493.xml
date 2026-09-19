@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="1019">
+        <Page social="4">For a well-travelled path, this stretch of road is a little dangerous.&lt;BR&gt;&lt;BR&gt;If I could build fences along the path, it would slow down most of the predators.&lt;BR&gt;&lt;BR&gt;Local woodcutters chopped down some trees for me, but I need someone to fetch the timber. Can you help?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="1019">
+        <Page social="4">Thanks, this is exactly what I need. I'll get started building those fences first thing.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="1019">
+        <Page social="0">It breaks my heart to see the master so down. Shevranberries will make him feel much better. I am sure of it!</Page>
+    </Text>
+</QuestDialog>

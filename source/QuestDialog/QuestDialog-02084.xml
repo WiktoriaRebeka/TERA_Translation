@@ -1,0 +1,29 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, after you left Exodor the federation established a site from which to explore Exodor and keep an eye on the Azart.&lt;BR&gt;&lt;BR&gt;We need to send supplies to the point so come to me as soon as you see this order.&lt;BR&gt;&lt;BR&gt;- Seir</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You met the Loadmaster to get supplies for Exodor, and returned to Exodor using the Door of Dimension.&lt;BR&gt;&lt;BR&gt;If you complete the quest, you can start &lt;font color='#FF3333'&gt;[Dungeon - 463] Vogzu’s Summon&lt;/font&gt; and &lt;font color='#FF3333'&gt;[Dungeon - 463] Hidden Enemy&lt;/font&gt;. Afterwards, the quest &lt;font color='#7F00FF'&gt;[Important] Kaia’s Anvil&lt;/font&gt; will be activated automatically.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1102">
+        <Page social="4">According to Dougal's message, a teleportal has been appearing irregularly after the Black Core was destroyed.&lt;BR&gt;&lt;BR&gt;We don't know what could come out from that teleportal...we must organize our defense.&lt;BR&gt;&lt;BR&gt;Go to the Loadmasters and ask for support.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1108">
+        <Page social="4" voiceTypeId="0">That's the exact kind of job we're looking for. Leave it to me!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="3" villagerId="1117">
+        <Page social="4" voiceTypeId="0">I've heard rumors about it...but does it actually exist? I've never seen it in Velika.&lt;BR&gt;&lt;BR&gt;But...orders are orders.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="4" villagerId="1102">
+        <Page social="4" voiceTypeId="0">I'm glad to hear that everyone is willing to help.&lt;BR&gt;&lt;BR&gt;Now, I want you to go and take care of the site. Assist Dougal.&lt;BR&gt;&lt;BR&gt;Go and have a word with Gulan. He'll show you the way.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1567">
+        <Page social="4" voiceTypeId="0">You've been to Exodor? That's quite surprising. I heard that a teleportal appeared. You should hear the details from Varlon.&lt;BR&gt;&lt;BR&gt;I'll send you to Highwatch.&lt;BR&gt;&lt;BR&gt;Say hi to Valron for me.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="183" prevId="7" villagerId="4999">
+        <Page social="4" voiceTypeId="0">I'm glad you came. One of our brothers went to Exodor after receiving a message from Dougal.&lt;BR&gt;&lt;BR&gt;You can now travel to Exodor using our teleportal. Use the teleportal to go to Exodor and meet Dougal.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="2000" prevId="8" villagerId="50000">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! Welcome!&lt;BR&gt;&lt;BR&gt;I believe you already heard that a teleportal appeared after the Black Core was destroyed.&lt;BR&gt;&lt;BR&gt;There's also Azart remnants nearby. I want you to stop them.</Page>
+    </Text>
+</QuestDialog>

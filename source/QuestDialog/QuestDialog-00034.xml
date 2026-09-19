@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">According to Neacal, the devas causing trouble in Oblivion Woods are the scouts from the Devan Empire. They were quiet for a while, but recently, they have armed themselves with new weapons and are once again threatening Crescentia. Neacal suggested that &lt;PCNAME&gt; talk to Chama, who knows more about the devas' mysterious leader than anyone else.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">The people of Crescentia have requested help in fending off attacks by scouts from the Devan Empire.&lt;BR&gt;&lt;BR&gt;Report to Centurion Neacal at Bulwark Camp in Oblivion Woods.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Let's talk about the Devas.&lt;BR&gt;&lt;BR&gt;After the Devan Empire invaded and we pushed them back,&lt;BR&gt;the devan forces scattered and many of them holed up in the Oblivion Woods.&lt;BR&gt;&lt;BR&gt;They weren't particularly troublesome, but now they've got new weapons—quality stuff.&lt;BR&gt;&lt;BR&gt;Clearly, they're organizing again, and we need to take out their leaders before they become more than just a nuisance.&lt;NEXTPAGEBUTTON&gt;"Who are their leaders?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I sent my best scout to spy on them and find that out. His name is Chama, and he knows the devas better than anybody.&lt;BR&gt;&lt;BR&gt;I'd like you to go help him. Head up the hillside path to the east there and look for Chama and his patrol.&lt;BR&gt;&lt;BR&gt;Oh, I almost forgot, there's something you need to know about the weapon I just gave you.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1004">
+        <Page social="4" voiceTypeId="0">To unlock its true potential, you'll want to enchant it.&lt;BR&gt;&lt;BR&gt;Use &lt;font color='#0000FF'&gt;Relic Fragments&lt;/font&gt; and gold to enchant it. You should enchant this one to +3 as soon as you can. As you grow in power, you'll find weapons that can be enchanted as high as +9!&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_t' width='21' height='21' vspace='-6'/&gt; key to open the Forge and use Relic Fragments and gold to enchant your weapon.&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1004">
+        <Page social="4" voiceTypeId="0">Oh, and take out some of those blasted Stonebeaks on the way to talk to Chama! The more of them you kill, the easier it'll be for us to hold this position.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1013">
+        <Page social="4" voiceTypeId="0">Did Neacal send you? Good, because I can use the help.&lt;BR&gt;&lt;BR&gt;Here. Take these supplies and suit up; it looks like your gear has seen better days.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="550" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1093">
+        <Page social="4" voiceTypeId="0">Your second challenge is much like the first, but you'll need all your skills to complete it.&lt;BR&gt;&lt;BR&gt;Always remember, it is not the enemy that you must overcome, but yourself.&lt;NEXTPAGEBUTTON&gt;I'm ready.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1093">
+        <Page social="4" voiceTypeId="0">Another job well done.&lt;BR&gt;&lt;BR&gt;.&lt;NEXTPAGEBUTTON&gt;Bring on the next one!&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

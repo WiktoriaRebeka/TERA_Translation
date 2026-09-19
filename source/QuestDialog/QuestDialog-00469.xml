@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1002">
+        <Page social="0">Other gutrend go crazy. Cah-razy! Don't know what happened. Go over mountain for a week, come back, everyone crazy.&lt;BR&gt;&lt;BR&gt;Gutrend listen no more. Must get rid of them. Only way. Desert Fire tribe {@LinkCreature:18#8#destroyers} and {@LinkCreature:18#9#prophets} need to be gone.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1002">
+        <Page social="4">May not have told full truth before. May have cast spell. Bad spell.&lt;BR&gt;&lt;BR&gt;You clean up Kunchara's mess. Take this.</Page>
+    </Text>
+</QuestDialog>

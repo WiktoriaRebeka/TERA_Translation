@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="253" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="253" prevId="0" villagerId="1015">
+        <Page social="4" voiceTypeId="0">Heading into the Labyrinth? Step carefully. Some of the statues are traps.&lt;BR&gt;&lt;BR&gt;I'm here on behalf of Kanmur, my...former...commander.&lt;BR&gt;&lt;BR&gt;I've been in there on and off for days looking for the honorless, cowardly wretch who ripped out Kanmur's horns. A mad clown named Aleister. &lt;NEXTPAGEBUTTON&gt;"I remember him."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">You—you're &lt;PCNAME&gt;! Yes, I heard you were there when Aleister came to Kaiator.&lt;BR&gt;&lt;BR&gt;I won't rest until we find and kill Aleister and the general's horns are where they belong.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="253" prevId="2" villagerId="1015">
+        <Page social="4" voiceTypeId="0">Th-thank you.&lt;BR&gt;&lt;BR&gt;An aman's body isn't whole without its horns.&lt;BR&gt;&lt;BR&gt;The general can finally rest.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="253" villagerId="1015">
+        <Page social="0">Have you found Aleister?&lt;BR&gt;&lt;BR&gt;If you find him, he's yours, but once I've healed, I'm going inside to find that clown and rip him in two!</Page>
+    </Text>
+</QuestDialog>

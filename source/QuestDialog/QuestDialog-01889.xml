@@ -1,0 +1,27 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3006">
+        <Page social="4">We're making cloth for the war effort. Perfect for you!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:71#3003#Ruma} will tell you the rest.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="4">Hey, hero! You're going to help make clean, dry socks for your fellow soldiers.&lt;BR&gt;&lt;BR&gt;My {@LinkCreature:71#3016#Sheep} are grazing up on the path to the refuge. Go fetch a couple for shearing, but take time to enjoy the view!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="604" villagerId="3">
+        <Page social="0">Maaaa! Baeee! Maaeee-eee!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="604" villagerId="3">
+        <Page social="0">Baa-aa! Baaa! Maa!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="71" prevId="2" villagerId="3003">
+        <Page social="4">Nice view, eh?&lt;BR&gt;&lt;BR&gt;And you look a little calmer, too. All you've done, you deserve a rest once in a while!</Page>
+    </Text>
+</QuestDialog>

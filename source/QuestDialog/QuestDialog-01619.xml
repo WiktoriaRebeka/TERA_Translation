@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="2140">
+        <Page social="0">As Rhodos and &lt;PCNAME&gt; confronted Dakuryon, he summoned Zolyn, now a demokron, to protect him. Paesyn tried to talk her down, but the archdevan magic proved too strong and she slew Paesyn. &lt;PCNAME&gt; battled Zolyn while Rhodos attacked Dakuryon. &lt;PCNAME&gt; ended Zolyn's dark existence while Dakuryon escaped.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="2140">
+        <Page social="4">Did you hear that? Someone is fighting!&lt;BR&gt;&lt;BR&gt;Hold on, Zolyn! We'll save you!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="821" prevId="2" villagerId="1001">
+        <Page social="4">Such senseless tragedy.&lt;BR&gt;&lt;BR&gt;I grieve for your little friends, &lt;PCNAME&gt;. Dakuryon will pay for their deaths.&lt;BR&gt;&lt;BR&gt;Run, you coward! We will never stop seeking you!</Page>
+    </Text>
+</QuestDialog>

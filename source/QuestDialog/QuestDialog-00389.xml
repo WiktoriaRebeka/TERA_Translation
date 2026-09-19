@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="90" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1141">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1141">
+        <Page social="4">Could you do me a favor?&lt;BR&gt;&lt;BR&gt;We need to install a magic shield around our outpost but we're running short on relic stones.&lt;BR&gt;&lt;BR&gt;Go to &lt;b&gt;Teleport Master Hermaiorni&lt;/b&gt; at the Tower Base and tell her that I sent you. She'll give you relic stones.&lt;BR&gt;&lt;BR&gt;This is urgent, so please use the &lt;b&gt;Safe Haven Teleport Scroll&lt;/b&gt; for faster travel. You can use Hermaiorni's teleport service to return. Hurry.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1050">
+        <Page social="4">Fili sent you? She fully comprehends the process for requisitions, yet persists in cutting corners.&lt;BR&gt;&lt;BR&gt;Our exchange, which should have transpired simply, now requires the intervention of another. Nevertheless, I can fulfill her needs and also demonstrate for you how &lt;b&gt;teleportation&lt;/b&gt; works.&lt;BR&gt;&lt;BR&gt;For the traveler, it's simple. Once you've visited a place, &lt;b&gt;teleport masters&lt;/b&gt; like me can send you directly there.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1141">
+        <Page social="4">You came! Thank you! &lt;BR&gt;&lt;BR&gt;Remember that using a teleport scroll or teleport master is really convenient way of moving.</Page>
+    </Text>
+</QuestDialog>

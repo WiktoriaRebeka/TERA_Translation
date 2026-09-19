@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="599" prevId="0" villagerId="161">
+        <Page social="4" voiceTypeId="0">Friend, listen to me.&lt;BR&gt;&lt;BR&gt;I know you feel responsible for your friends...and those children. Especially that little girl. You're brave—probably the bravest &lt;PCCLASS:lcase&gt; I've ever met.&lt;BR&gt;&lt;BR&gt;But just being brave won't save them. Believe me. I'm a medic—I've stitched up a lot of brave soldiers...and I've buried plenty, too.&lt;BR&gt;&lt;BR&gt;Don't throw your life away. Wait for reinforcements.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"What are you—? I thought you were soldiers!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">You're right. We are, and I'm sorry I forgot that for a moment.&lt;BR&gt;&lt;BR&gt;Okay, look: If we don't hold the courtyard, you'll never be able to get back out with those kids. But I swear we'll keep it clear until you return...or we'll all die trying.&lt;BR&gt;&lt;BR&gt;Take this flare gun. If you need help getting out, send up a flare, and if there's any of us left, we'll come running.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Approaching the Temple of the Tree, &lt;PCNAME&gt; saw Tiaran the Sorrow Tree being drained of its mystical energies by horrific argon devices.&lt;BR&gt;&lt;BR&gt;Upon entering the temple, &lt;PCNAME&gt; discovered that the guardians who had accompanied Emun and Anya had gotten separated, and some of them had died. One of the survivors revealed that Emun and Anya had entered the inner temple, accompanied by the remaining guardians.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="599" prevId="1" villagerId="148">
+        <Page social="0" voiceTypeId="0">Karlati, stay with me!&lt;BR&gt;&lt;BR&gt;Damn it!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! You made it!&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Lacedir! What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">We were doing alright, holding formation...then Anya ran ahead of us, shouting something about the other children.&lt;BR&gt;&lt;BR&gt;Emun chased after her...some of us tried to form a rear guard...then we got separated and the next thing I know, it's just me and Karlati, backed into this corner! We didn't stand a chance!&lt;BR&gt;&lt;BR&gt;Go after the others, &lt;PCNAME&gt;! Deplen's right across the courtyard! He'll know where they went!&lt;NEXTPAGEBUTTON&gt;"I'll find him. You help these soldiers."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="599" prevId="3" villagerId="151">
+        <Page social="0" voiceTypeId="0">If you hurry… Emun’s not far… far ahead. You can catch… catch up.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;… listen! The argons… don’t… don’t let them… change me. Take… take care of it, okay? I don’t want to die like that!&lt;NEXTPAGEBUTTON&gt;"I’ve got a better idea."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="599" prevId="4" villagerId="151">
+        <Page social="0" voiceTypeId="0">I always...liked you, &lt;PCNAME&gt;. You've got the...makings...of a real hero.&lt;BR&gt;&lt;BR&gt;You'd better...get going. Emun chased Anya...into the temple. You can still...catch...them...&lt;NEXTPAGEBUTTON&gt;"Rest easy. Help is on the way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

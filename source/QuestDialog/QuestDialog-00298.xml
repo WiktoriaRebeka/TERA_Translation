@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="211" prevId="0" villagerId="1018">
+        <Page social="4">A ring of bodyguards surrounds Orless at all times. They're tough stuff: {@LinkCreature:11#1011#Red Lash petty officers}, {@LinkCreature:11#2008#buccaneers}, and {@LinkCreature:11#4005#overseers}.&lt;BR&gt;&lt;BR&gt;Deplete the bodyguard supply, and you make Orless vulnerable. And you simultaneously make sure there's no one to take over when Orless dies.&lt;BR&gt;&lt;BR&gt;Bring back their tags. I have an idea...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1018">
+        <Page social="4">That's a lot of tags! I'll pass these out to the lads—they'll get a kick out of it.&lt;BR&gt;&lt;BR&gt;Well done, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="211" villagerId="1018">
+        <Page social="0">{@LinkCreature:11#1011#Red Lash petty officers}, {@LinkCreature:11#2008#buccaneers}, and {@LinkCreature:11#4005#overseers} guard the captain. Keep them from doing that...by killing them.</Page>
+    </Text>
+</QuestDialog>

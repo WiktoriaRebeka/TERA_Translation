@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="82" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1049">
+        <Page social="0">You met with Gurney, the Tactics Instructor, and then learned about gathering from Lilni.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1049">
+        <Page social="4">You have all the information necessary to stay strong and effective. But it is always wise to train your skills as soon as possible.&lt;BR&gt;&lt;BR&gt;Your next conversation should be with Gurney.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1007">
+        <Page social="4">I teach combat skills around here. That makes me the next best thing to actual combat, and I'm always ready to show you a few new tricks.&lt;BR&gt;&lt;BR&gt;And speaking of tricks...I don't do magic. That's Charise.&lt;NEXTPAGEBUTTON&gt;"Who should I talk to next?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Let's see...I heard explosions earlier, you smell like a campfire...of course!&lt;BR&gt;&lt;BR&gt;Lilni! Show this keener how to break some rocks, would you?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1048">
+        <Page social="4">Nature's bounty is all around you. Ores, plants, and energy are all &lt;font color='#660000'&gt;materials&lt;/font&gt; that can be harvested for crafting! &lt;BR&gt;&lt;BR&gt;This skill will serve you well, as crafted items are generally of superior quality.&lt;BR&gt;&lt;BR&gt;Materials are everywhere! See what I mean?&lt;NEXTPAGEBUTTON&gt;"What should I be seeing?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Gatherable items activate when you walk near them—a circle appears much like the one I'm standing in. Stand next to a gatherable item and press &lt;b&gt;F&lt;/b&gt;. If it fails, try again.&lt;BR&gt;&lt;BR&gt;Give it a try for yourself. Look around near me for reddish rocks. When you find and activate one, press the &lt;font color='#660000'&gt;[F] key&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1048">
+        <Page social="4">Good work. You wouldn't believe how many people come back to me with some random pebbles.&lt;BR&gt;&lt;BR&gt;When you're in a &lt;font color='#660000'&gt;group&lt;/font&gt;, you'll gather materials faster and share in the rewards.&lt;BR&gt;&lt;BR&gt;Another way to speed up gathering: increase your &lt;font color='#660000'&gt;gathering skill&lt;/font&gt; level through practice. Practice makes perfect!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="64" villagerId="1048">
+        <Page social="0">Have you tried gathering in the greater world? Should you need to practice what you've learned, approach that pile of rocks, then press the [F] key. And remember, you cannot gather while in combat.</Page>
+    </Text>
+</QuestDialog>

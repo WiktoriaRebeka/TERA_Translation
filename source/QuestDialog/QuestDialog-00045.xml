@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1001">
+        <Page social="4">(Corann, looking really troubled.)&lt;BR&gt;&lt;BR&gt;Uhm... About Ohdi.... I guess Ohdi grew really fond of Undead bones while he was staying there. He wouldn't look at the food I gave him.&lt;BR&gt;&lt;BR&gt;So...I was wondering if you could get me as many {@LinkCreature:3#16#Fallen Defenders} bones as you can. I'm afraid Ohdi will leave home again if I don't get those bones. And if he ever disappears again, I don't think I'll be able to take it.... Please help me.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1001">
+        <Page social="4">In life they served us well. I hope they find new peace in death.&lt;BR&gt;&lt;BR&gt;Thanks.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" villagerId="1001">
+        <Page social="0">I'm not asking you to make a special trip. You're certain to battle undead more than enough in your time in Oblivion Woods.</Page>
+    </Text>
+</QuestDialog>

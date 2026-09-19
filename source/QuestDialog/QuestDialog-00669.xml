@@ -1,0 +1,60 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, I need your help. Please come see me as soon as you can.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Getty needed materials for a special invention, and asked &lt;PCNAME&gt; to get them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="1" villagerId="1228">
+        <Page social="0" voiceTypeId="0">I'll never finish now. This is hopeless...&lt;NEXTPAGEBUTTON&gt;"What's wrong, Getty?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I've been working on a new invention to help people better manage their inventory. But my suppliers have run out of a crucial object, and now all my hard work is wasted!&lt;NEXTPAGEBUTTON&gt;"Is there something I can do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I'm not sure. Do you have an &lt;font color='#0080FF'&gt;Elemental Awl&lt;/font&gt;?&lt;BR&gt;&lt;BR&gt;Of course you don't. No one does, and now I don't know what to do.&lt;NEXTPAGEBUTTON&gt;"Why did you send for me, then?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1228">
+        <Page social="0" voiceTypeId="0">Huh?&lt;BR&gt;&lt;BR&gt;Oh, &lt;PCNAME&gt;! Yes, of course! Sorry, I've been distracted, and I totally forgot! I was hoping you'd help me test out my new invention, you see, but it's just not ready.&lt;BR&gt;&lt;BR&gt;I don't have the tool I need to complete it.&lt;NEXTPAGEBUTTON&gt;"An Elemental Awl, right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Yes, exactly! I've been constructing an interdimensional storage that will classify items and automatically store them as they're acquired!&lt;BR&gt;&lt;BR&gt;I wish I could show you a prototype, but without the awl...&lt;BR&gt;&lt;BR&gt;Say, &lt;PCNAME&gt;, can you get an &lt;font color='#0080FF'&gt;Elemental Awl&lt;/font&gt; for me?&lt;NEXTPAGEBUTTON&gt;"Where can I find one?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">So, umm, my normal supplier is...indisposed, and their inventory...unavailable. I heard from a...friend that there are &lt;font color='#0080FF'&gt;mystery merchants&lt;/font&gt; in the city, selling unique objects.&lt;BR&gt;&lt;BR&gt;It could be expensive, though. You might need the contents of this box.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="2953">
+        <Page social="0" voiceTypeId="0">Nothing illegal, I promise! just a purple jewel I've been saving for a rainy day.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1228">
+        <Page social="0" voiceTypeId="0">Spend it wisely, &lt;PCNAME&gt;. It's literally one of a kind.&lt;BR&gt;&lt;BR&gt;It should be more than enough to by an &lt;font color='#0080FF'&gt;Elemental Awl&lt;/font&gt;.&lt;NEXTPAGEBUTTON&gt;"Where are these merchants?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Well...that's the thing. I've heard of them, but I haven't actually seem them for myself.&lt;BR&gt;&lt;BR&gt;&lt;font color='#0080FF'&gt;Elthienne&lt;/font&gt; should know where to find them, though. The &lt;font color='#0080FF'&gt;Hands of Velika&lt;/font&gt; know everything that goes on in this city.&lt;BR&gt;&lt;BR&gt;You should go ask her.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="3003">
+        <Page social="0" voiceTypeId="0">What brings you here, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"I need something from a...mystery merchant."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">A &lt;font color='#0080FF'&gt;mystery merchant&lt;/font&gt;?&lt;BR&gt;&lt;BR&gt;You must mean those fools wearing masks.&lt;BR&gt;&lt;BR&gt;There's already plenty of merchants in Velika, but these so-called "mystery merchants" pride themselves both on anonymity, and exclusivity.&lt;BR&gt;&lt;BR&gt;I heard that they get their supplies from the goblins, but my Fingers tell me what they have is nearly worthless.&lt;NEXTPAGEBUTTON&gt;"Where can I find them?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">The last I heard, there was one hanging out near the North Gate.&lt;BR&gt;&lt;BR&gt;Down the stairs, take a turn to the right, and you should see them. If they've decided to sell things today, that is. They're not always open for business.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="7" villagerId="2950">
+        <Page social="0" voiceTypeId="0">Ah, the look on your face...you must be a customer in need!&lt;BR&gt;&lt;BR&gt;I'm not selling at the moment, but I'm willing to listen to your story.&lt;NEXTPAGEBUTTON&gt;"I want to buy an Elemental Awl."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;font color='#0080FF'&gt;Elemental Awl&lt;/font&gt;? &lt;BR&gt;&lt;BR&gt;Yes, very rare. very powerful.&lt;BR&gt;&lt;BR&gt;I don't have any in stock right now...though I do know someone who might.&lt;NEXTPAGEBUTTON&gt;"Who is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">You know, there's not much difference between exchanging information and making a sale.&lt;BR&gt;&lt;BR&gt;You give me something I need, and I'll give you a map that shows where you can buy an Elemental Awl.&lt;BR&gt;&lt;BR&gt;Something...shiny, I think. And purple!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" prevId="8" villagerId="2951">
+        <Page social="0" voiceTypeId="0">This &lt;font color='#0080FF'&gt;Mystery Market Coin&lt;/font&gt; should make us even.&lt;BR&gt;&lt;BR&gt;Take the coin and follow the map.&lt;BR&gt;&lt;BR&gt;You'll be able to exchange the coin for an &lt;font color='#0080FF'&gt;Elemental Awl&lt;/font&gt; when you arrive.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="2951">
+        <Page social="0">If you want to know more, you need to pay a price.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="29" prevId="9" villagerId="6100">
+        <Page social="0" voiceTypeId="0">Need something?&lt;NEXTPAGEBUTTON&gt;"I'm looking for an Elemental Awl."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;font color='#0080FF'&gt;Elemental Awl&lt;/font&gt;...&lt;BR&gt;&lt;BR&gt;Yes, I have one.&lt;BR&gt;&lt;BR&gt;But I'll need to see your coin first.&lt;NEXTPAGEBUTTON&gt;"You mean this?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Indeed. Since you have an &lt;font color='#0080FF'&gt;Mystery Market Coin&lt;/font&gt;, I'll honor my debt to the one who gave it to you. Please, take the awl.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="29" prevId="11" villagerId="6101">
+        <Page social="0" voiceTypeId="0">An &lt;font color='#0080FF'&gt;Elemental Awl&lt;/font&gt; looks ordinary. but is useful for many special things.</Page>
+        <Page social="0">A pleasure doing business with you.&lt;BR&gt;&lt;BR&gt;I travel around Essenia, so perhaps we'll meet again. And keep an eye our for more coins, they'll be useful in the future.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="29" villagerId="6101">
+        <Page social="0">&lt;font color='#0080FF'&gt;Elemental Awl&lt;/font&gt;? Yes, I have one.&lt;BR&gt;&lt;BR&gt;Up for sale, if you want it.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="63" prevId="12" villagerId="1228">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Did you really get me an &lt;font color='#0080FF'&gt;Elemental Awl&lt;/font&gt;? I hope it wasn't too much trouble.&lt;BR&gt;&lt;BR&gt;Now I can finish the Pocket Tab for you!&lt;NEXTPAGEBUTTON&gt;"Calm down, now."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Thank you so much!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you'll be the first one to use my customizable, sortable, and expandable Pocket Tab system!&lt;BR&gt;&lt;BR&gt;&lt;b&gt;&lt;font color='#660000'&gt;==================================&lt;BR&gt;You can now use the Pocket.&lt;BR&gt;==================================&lt;/font&gt;&lt;/b&gt;</Page>
+    </Text>
+    <Text id="15" huntingZoneId="63" villagerId="1228">
+        <Page social="0">I need an &lt;font color='#0080FF'&gt;Elemental Awl&lt;/font&gt; to complete my Pocket Tab system.</Page>
+    </Text>
+</QuestDialog>

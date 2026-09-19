@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1010">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1010">
+        <Page social="4">Shells! I need more shells!&lt;BR&gt;&lt;BR&gt;You managed once, so go kill some more arachnen {@LinkCreature:39#130#matriarchs} and {@LinkCreature:39#131#matrons}, and bring me more shells. Done talking.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1010">
+        <Page social="4">Shells! Excellent! Nature provides!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="239" villagerId="1010">
+        <Page social="0">It works like this—you bring me hard shells, then I quit bothering you about them.</Page>
+    </Text>
+</QuestDialog>

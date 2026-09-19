@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1035">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1035">
+        <Page social="4">When they excavated this place, the gulas used slaves—of course!—that they magically animated. There's so much anguish here that the spirits of the slaves cannot return to the Dream—they're trapped here.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:8#4021#reanimated popori} and bring me their pickaxes. I might be able to do something for them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1035">
+        <Page social="4">I only hope those poor spirits can return to the Dream now.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" villagerId="1035">
+        <Page social="0">If you were reanimated as a horrid slave, I'd destroy you. You'd want me to!</Page>
+    </Text>
+</QuestDialog>

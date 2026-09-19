@@ -1,0 +1,57 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="0">The gulas of the Hungry Caverns are abducting people for their stewpots.&lt;BR&gt;&lt;BR&gt;One of the abductees, Hennika, was the younger sister of Detrian—an acquaintance of yours. Detrian went into the Hungry Caverns after her.&lt;BR&gt;&lt;BR&gt;You never found Detrian, but you did recover his sword from a gula. You rescued Hennika from a slave market, and she swore on her brother's sword that she would avenge him.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Okay, this has to stop—the gulas are out of control!&lt;BR&gt;&lt;BR&gt;I have a list here of the most recent people they've carried off for their stewpots. Go into the Hungry Caverns and rescue as many as you can.&lt;BR&gt;&lt;BR&gt;What is it? See a name you recognize?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="208" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">I'm not surprised. Detrian is the one who gave me that list. He must have seen his sister's name on it, and went in after her. I guess you can add him to the list, then.&lt;BR&gt;&lt;BR&gt;Search Vanguard Post Alpha in the Cavern of Shackles. If you hurry, you might save a few of them from being eaten.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="208" prevId="3" villagerId="1022">
+        <Page social="5" voiceTypeId="0">Who goes there? Wait...you're not Detrian!&lt;BR&gt;&lt;BR&gt;What? Detrian went into the caverns? He hasn't got a chance in there alone!&lt;BR&gt;&lt;BR&gt;Okay, I can see you're planning to follow him in, so here's what you have to know. The kitchens are on this level. That's where they'll put prisoners before...you know.&lt;BR&gt;&lt;BR&gt;Try not to wind up in the pot yourself, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="208" prevId="4" villagerId="1031">
+        <Page social="5" voiceTypeId="0">(The bite marks on this corpse look gula-sized. It's been dead a long time, so it's not a recent prisoner.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1022">
+        <Page social="5" voiceTypeId="0">You didn't see them there? Then they must still be in the lower levels.&lt;BR&gt;&lt;BR&gt;They're still alive then, but we're racing against time. Check in at Vanguard Post Beta. Ask for Rendia. If anyone's heard something new, she'll know about it.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1014">
+        <Page social="5" voiceTypeId="0">Yes, Loxetrius is right as always. The abductees, and maybe Detrian, are almost certainly in the prison cells—an area the gulas call the Cavern of Tears.&lt;BR&gt;&lt;BR&gt;There are two cell blocks. The {@LinkCreature:208#1024#first cell block} is straight down this passage.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="208" prevId="7" villagerId="1024">
+        <Page social="5" voiceTypeId="0">&lt;PCNAME&gt;...(cough)...(gasp). I tried...&lt;BR&gt;&lt;BR&gt;I could see Hennika, but there were too many of them. I couldn't get to her.&lt;BR&gt;&lt;BR&gt;The {@linkcreature:8#4011#aberrant gulons} took her to the second cell block&lt;/A&gt;. We have to save her, &lt;PCNAME&gt;...&lt;NEXTPAGEBUTTON&gt;"We will. I'll help you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I just can't...move right now, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I should rest...&lt;BR&gt;&lt;BR&gt;Just for a minute...&lt;BR&gt;&lt;BR&gt;(Detrian stops breathing, and you can't find a pulse. His eyes remain open, as if still looking for his sister.)</Page>
+    </Text>
+    <Text id="9" huntingZoneId="208" prevId="8" villagerId="1027">
+        <Page social="5" voiceTypeId="0">Fates be damned, I'm glad to see you! I thought it was the stewpot for me, for sure!&lt;BR&gt;&lt;BR&gt;Are you with that young soldier who found us? He fought so bravely...</Page>
+    </Text>
+    <Text id="10" huntingZoneId="208" prevId="8" villagerId="1028">
+        <Page social="5" voiceTypeId="0">Thank you for saving me! What's your name? I'm naming my firstborn child after you!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="208" prevId="8" villagerId="1029">
+        <Page social="5" voiceTypeId="0">We're scared and weak, but otherwise fine.&lt;BR&gt;&lt;BR&gt;Can't say the same for that soldier who tried to rescue us...&lt;BR&gt;&lt;BR&gt;Did he make it out okay?</Page>
+    </Text>
+    <Text id="12" huntingZoneId="208" prevId="8" villagerId="1005">
+        <Page social="5" voiceTypeId="0">Hennika...I feel so sorry for her.&lt;BR&gt;&lt;BR&gt;That soldier who tried to rescue us was her brother.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="208" prevId="8" villagerId="1026">
+        <Page social="5" voiceTypeId="0">I thought I was going to end my life in a gula frying pan, that's for sure.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="208" prevId="9" villagerId="1025">
+        <Page social="5" voiceTypeId="0">&lt;PCNAME&gt;! I remember you! Where's Detrian? Is he...?&lt;BR&gt;&lt;BR&gt;No...don't say it! Don't!&lt;NEXTPAGEBUTTON&gt;"His last thought was of you..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5" voiceTypeId="0">Oh, Detrian...Detrian...(sob)...&lt;BR&gt;&lt;BR&gt;I know he'd want me to be brave, but it's not easy.&lt;BR&gt;&lt;BR&gt;And he'd want you to avenge him, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The last sight I had was of him fighting one of those {@LinkCreature:8#4051#vulgar inquisitors}.&lt;NEXTPAGEBUTTON&gt;"That's my target, then."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I can't keep crying like this. I have to be strong for the other survivors.&lt;BR&gt;&lt;BR&gt;I'll make sure everyone gets up to Avenger Outpost.&lt;BR&gt;&lt;BR&gt;Look for my brother's sword. That's how you'll know which inquisitor to kill.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="208" prevId="14" villagerId="1030">
+        <Page social="5" voiceTypeId="0">Detrian's sword...&lt;BR&gt;&lt;BR&gt;Detrian, if you're listening, I swear upon this sword that I'll become a Kaia's Sword like you, and rescue people in your name.&lt;BR&gt;&lt;BR&gt;This I swear!</Page>
+    </Text>
+    <Text id="16" huntingZoneId="208" villagerId="1030">
+        <Page social="0">Avenge Detrian! Kill the inquisitor and bring back my brother's sword!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="208" prevId="15" villagerId="1001">
+        <Page social="5" voiceTypeId="0">The survivors made it back here, &lt;PCNAME&gt;. Well done!&lt;BR&gt;&lt;BR&gt;I'm so sorry to hear about Detrian. He was a good soldier. Perhaps we'll see him in our dreams.&lt;BR&gt;&lt;BR&gt;I'd like that. And I think Detrian's sister would, too. Such a serious little girl...</Page>
+    </Text>
+</QuestDialog>

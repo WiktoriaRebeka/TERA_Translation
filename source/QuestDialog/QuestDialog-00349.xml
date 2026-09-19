@@ -1,0 +1,21 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017">
+        <Page social="4">I think you're just about done here. While you were out soldiering, one of the couriers came by looking for you.&lt;BR&gt;&lt;BR&gt;Think about what you've learned, consider your actions as part of the greater whole, and try not to get yourself killed. There's been...too much of that around here already.&lt;BR&gt;&lt;BR&gt;Ramun should be here with your orders in just two shakes of his tail, I think.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1038">
+        <Page social="4">Attend! You there! Have you seen anyone named "&lt;PCNAME&gt;?"&lt;BR&gt;&lt;BR&gt;It's you? Good, good. I do too much running around as it is to go chasing you down. Centurion Neziir wants all unassigned people to report in for a big..."pacification exercise," he calls it. That's big-folk talk for "the guardian spirits are swarming and we don't know what to do about it."&lt;BR&gt;&lt;BR&gt;He's down the road and up the hill...I'll probably see you there!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1004">
+        <Page social="4">Stand tall, &lt;PCNAME&gt;. I need you to see to these {@LinkCreature:13#304#sickly noruks}. We have received a request from the researchers to examine the blood of apparently weakened spirits and beasts.&lt;BR&gt;&lt;BR&gt;You are my subordinate, so now you have orders. Kill as many as it takes. Just get the serum they want. When you're done, report to &lt;font color='#660000'&gt;Prefect Ashak&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="213" prevId="4" villagerId="1119">
+        <Page social="4">&lt;PCNAME&gt;! Yours is the triumph. It is regrettable that more and more beasts sicken daily. We are trying to minimize killing the life forms here on the Island of Dawn, but unavoidable sacrifices must be made to further our understanding.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="213" villagerId="1119">
+        <Page social="0">It seems you don't have enough serum for my research. You will have to gather more from {@LinkCreature:13#304#sickly noruks}. &lt;BR&gt;&lt;BR&gt;I never would have thought that Neziir would assign this task to a raw recruit. I asked for the best, not the least.</Page>
+    </Text>
+</QuestDialog>

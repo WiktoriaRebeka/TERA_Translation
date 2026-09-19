@@ -1,0 +1,23 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3026" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Urgent Order&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, Virienne has sent us a warning. Please come to the Federation Reliquary Station as soon as you can.&lt;BR&gt;&lt;BR&gt;— Dougal&lt;BR&gt;&lt;BR&gt;[You must have equipment level 473 or higher to enter the Corrupted Skynest.]</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">After Virienne discovered Kelsaik's body was gone, the federation found a hidden Argon base.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="2000" prevId="1" villagerId="50000">
+        <Page social="4" voiceTypeId="0">Thank you for coming &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Please take a look at Virienne's warning. I really don't know what to make of it myself.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="2000" prevId="3" villagerId="50000">
+        <Page social="4" voiceTypeId="0">Since you know the details now, I won't waste any more time.&lt;BR&gt;&lt;BR&gt;We need to investigate that Energy Transfer Post as soon as possible.&lt;BR&gt;&lt;BR&gt;Jelena is in that area now, so I want you to go there and give her a hand. Also, check in with Nailon at the Verrak Fountain Fishery. That popori always has his eyes and ears open.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="2015" prevId="4" villagerId="6003">
+        <Page social="0">Hello! You've definitley got that "Dougal asked me to do something I don't understand" look, am I right?&lt;BR&gt;&lt;BR&gt;I knew it! Everything around here is weird. but a couple days ago I saw some particularly weird light coming from that island up there. I told that Jelena lady about it, and she couldn't get out of here fast enough!&lt;BR&gt;&lt;BR&gt;So if you're looking for answers, you should probably get up there yourself.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="2020" prevId="5" villagerId="1502">
+        <Page social="0">&lt;PCNAME&gt;, of course. Who else would they send after me, with Elleon gone.&lt;BR&gt;&lt;BR&gt;I'll get straight to the point. This structure is generating a lot of energy, and channeling it through this teleportal. I took a quick peek inside and saw some argons, but I'm not sure they're the real story here.&lt;BR&gt;&lt;BR&gt;Can you keep an eye on things for me while I scout the other platforms?&lt;BR&gt;&lt;BR&gt;If you decide to engage them, don't forget to call for back up.&lt;BR&gt;&lt;BR&gt;Report back to Dougal when you're done.&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="2000" prevId="6" villagerId="50000">
+        <Page social="0">Looks like Virienne was right. The argons and the Azart Army attempted to resurrect Kelsaik.&lt;BR&gt;&lt;BR&gt;We need a more permanant solution to this alliance of evil. But for now, I'll have Jelena keep investigating.&lt;BR&gt;&lt;BR&gt;Good work, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

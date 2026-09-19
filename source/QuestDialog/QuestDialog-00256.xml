@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1003">
+        <Page social="4">The {@LinkCreature:10#18#naga leviathans} seem to get the other nagas riled up whenever there's a big battle.&lt;BR&gt;&lt;BR&gt;I wonder whether targeting the leviathans will impact the nagas' will to fight. We need to know how.&lt;BR&gt;&lt;BR&gt;Only one way to find out, I suppose. See if you can kill the leviathans and make the nagas miserable, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1003">
+        <Page social="4">Must be something in these jars. I'll pass them up to some stuffy scholar. They can figure it out.&lt;BR&gt;&lt;BR&gt;Great work, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1003">
+        <Page social="0">Look, just because they're called {@LinkCreature:10#18#naga leviathans} doesn't mean they're dangerous.&lt;BR&gt;&lt;BR&gt;You can take 'em.</Page>
+    </Text>
+</QuestDialog>

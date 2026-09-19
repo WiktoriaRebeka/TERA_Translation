@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="233" prevId="0" villagerId="1025">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="233" prevId="0" villagerId="1025">
+        <Page social="4" voiceTypeId="0">We tried, &lt;PCNAME&gt;. We really did. We thought we could somehow free the eldritch blood knights from their torment. They used to be people, after all.&lt;BR&gt;&lt;BR&gt;But there's only one way: destroy them. We can't turn the blood knights back into people...but we can return their souls to the Dream.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1025">
+        <Page social="4" voiceTypeId="0">Those souls have found peace in the Dream, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1004">
+        <Page social="4">Taking care of refugees is all well and good, but it'd be better if we turned them back into "people with homes and jobs," eh?&lt;BR&gt;&lt;BR&gt;And that means extending our reach beyond Fey Forest into the rest of the region. Go talk to Reindal near Maon's Cabin. He's leading the push to reclaim the forest.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1041">
+        <Page social="4">Maon used to keep the peace between us and the fey—you know, the faeries, the centaurs, and all the other forest creatures.&lt;BR&gt;&lt;BR&gt;Not his fault, but it's a bloody business now. Something's rendering the faeries completely irrational...and homicidal.&lt;BR&gt;&lt;BR&gt;One way or another, we've got to turn it around. Whether that means forging a new peace with the faeries or wiping them all out, I don't know.</Page>
+    </Text>
+</QuestDialog>

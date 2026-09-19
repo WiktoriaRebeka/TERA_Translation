@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="100">
+        <Page social="0">Thank you. Now that the security of the entrance is loose, it should be easier for us to do our job.&lt;BR&gt;&lt;BR&gt;My last request is to defeat the Sentries guarding the entrance of the Dark Path. Without the Sentries, it would be easier for Free Exodor to attack the fortress.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="100">
+        <Page social="0">Thank you for your help.&lt;BR&gt;&lt;BR&gt;Now go to the fortress with your friends and do what you must do.</Page>
+    </Text>
+</QuestDialog>

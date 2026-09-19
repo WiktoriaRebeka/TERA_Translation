@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="234" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="234" prevId="0" villagerId="1008">
+        <Page social="4">Wendigos aren't brutes, not by a long shot. They command magic as we do, that's what makes them so dangerous.&lt;BR&gt;&lt;BR&gt;I want you to hunt down their {@LinkCreature:34#510#wendigo frostweavers} and {@LinkCreature:34#500#frostmages}, and collect their foci.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1008">
+        <Page social="4">Splendid. Without their foci, the wendigos magical might is greatly diminished, as is their threat.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="234" villagerId="1008">
+        <Page social="0">It isn't enough to kill wendigos if you leave the foci around to be used by a different wendigo.&lt;BR&gt;&lt;BR&gt;Kill the frostmages and frostweavers and collect their magical foci.</Page>
+    </Text>
+</QuestDialog>

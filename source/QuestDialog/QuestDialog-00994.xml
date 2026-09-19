@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="241" prevId="0" villagerId="1020">
+        <Page social="0">We are forming a peace delegation to go among the tribes. We want to wear orisk leather capes, which are traditional for visiting chiefs. The other orcans will see us as leaders if we dress as leaders.&lt;BR&gt;&lt;BR&gt;Will you help us get enough orisk leather to make the capes?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1020">
+        <Page social="0">Now we will appear as leaders to the orcan tribes. Soon we'll have peace, you'll see.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="241" villagerId="1020">
+        <Page social="0">First you must kill the orisk, then take the leather. The order of actions is important.</Page>
+    </Text>
+</QuestDialog>

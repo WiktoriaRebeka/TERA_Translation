@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="216" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1005">
+        <Page social="4">I'm so distraught. My {@LinkCreature:216#1010#husband} was a wonderful man...then came the Ceremony of Blessing...he was so curious, he had to see.&lt;BR&gt;&lt;BR&gt;He seemed nervous when he returned. He woke up screaming in the middle of the night. The same night many vampirs started to change.&lt;BR&gt;&lt;BR&gt;Please...find him. He may not have fully made the change. We may seem monstrous to you, but I assure you, we love the same as you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="216" prevId="2" villagerId="1010">
+        <Page social="4">Who...who are you? I'm not like the others...yet. Please just leave me in peace.&lt;BR&gt;&lt;BR&gt;Alethea? Oh dear, no. I can't go back. The change will take me, and then...I can't even think of it.&lt;BR&gt;&lt;BR&gt;Here. Take this letter to her. Please...don't ask me to come back again.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="216" prevId="3" villagerId="1005">
+        <Page social="4">No. No, that's...&lt;BR&gt;&lt;BR&gt;Lene. Lene will know what to do. Will you ask her to help?</Page>
+    </Text>
+    <Text id="5" huntingZoneId="216" prevId="4" villagerId="1023">
+        <Page social="4">Alethea...that's quite a tale.&lt;BR&gt;&lt;BR&gt;Yes, I do know of a way to save Sadnica. It will be dangerous, though.&lt;BR&gt;&lt;BR&gt;I'll need your help.</Page>
+    </Text>
+</QuestDialog>

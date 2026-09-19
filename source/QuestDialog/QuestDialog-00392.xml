@@ -1,0 +1,41 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">General Samael dispatched you to Popolion to investigate some wild rumors. Unchecked aggression was raging across the landscape and bizarre aberrations had attacked the locals.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;Popori Kingdom Official Document&gt;&lt;BR&gt;&lt;BR&gt;To: Valkyon Federation Headquarters&lt;BR&gt;From: Popori Kingdom&lt;BR&gt;&lt;BR&gt;An unknown disease is spreading throughout Popolion.&lt;BR&gt;The queen asks for the federation's aid.&lt;BR&gt;&lt;BR&gt;We do not yet know the cause of this disease. Your quick response would be most appreciated.&lt;BR&gt;&lt;BR&gt;- Feremi</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1138">
+        <Page social="4" voiceTypeId="0">We're keeping it quiet, but Poporia is in trouble and Consul Dougal ordered me to have someone investigate.&lt;BR&gt;&lt;BR&gt;Head to Popolion and investigate the source of this disturbance, but take no chances. Whatever the problem, it mustn't spread to Val Aureum or other provinces.&lt;NEXTPAGEBUTTON&gt;"I'm on my way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I need you to understand me. If stopping this threat means burning Popolion to the ground, then that's what you do.&lt;BR&gt;&lt;BR&gt;Take the {@LinkCreature:63#1009#Pegasus} and head to Popolion now.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1313">
+        <Page social="4" voiceTypeId="0">I came to see the general, but I guess he's not here now.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! I heard that you've had your commissioning ceremony.&lt;BR&gt;&lt;BR&gt;Congratulations, but keep in mind that only the best can become a justicar.&lt;NEXTPAGEBUTTON&gt;"O-kay..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I have orders to go to Popolion. Something about a &amp;quot;Mad Blood Disease.&amp;quot;&lt;BR&gt;&lt;BR&gt;I don't know why a justicar should be handling this, but maintaining trust with the poporis is important enough.&lt;BR&gt;&lt;BR&gt;I'll be the next hero of Velika after this is done. You should get my autograph now, kid.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="67" prevId="4" villagerId="1007">
+        <Page social="4" voiceTypeId="0">You're the federation agent? Not a moment too soon! The bad news? Trouble everywhere outside Popolion. Is it a disease? A curse? There's talk about vampir blood magic, but no one knows anything for certain.&lt;BR&gt;&lt;BR&gt;The good news? Not much. Two baraka scholars have been braving the woods seeking answers, but it's too dangerous out there for normal folk.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="67" prevId="5" villagerId="1007">
+        <Page social="4" voiceTypeId="0">We call it Mad Blood Disease. Affected people suffer from a kind of Bloodthirst!&lt;BR&gt;&lt;BR&gt;The obvious cause would be vampir blood magic...but we can't jump to any conclusions yet.&lt;BR&gt;&lt;BR&gt;The vampirs have always been friendly neighbors. We don't want to risk that.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="67" prevId="5" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Well, there's been a religious movement lately, calling for the revival of Lok.&lt;BR&gt;&lt;BR&gt;A lot of our people fell for the dogma. Maybe...the duke fell for it too?&lt;BR&gt;&lt;BR&gt;First things first, though: We need to stop this disease!&lt;NEXTPAGEBUTTON&gt;"How?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Head southwest and you'll run into Camp Vigilance.&lt;BR&gt;&lt;BR&gt;Find {@linkcreature:215#1019#Brohua} at the camp and see what you can do to help.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="67" prevId="5" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Strangers always think that.&lt;BR&gt;But poporis from Popolion never doubt our friends.&lt;BR&gt;&lt;BR&gt;A friendly neighbor that cheers you up with a Grilled Pigling suddenly becomes a monster that calls down a plague?&lt;BR&gt;I can't even imagine that.&lt;BR&gt;&lt;BR&gt;What happens if you get rid of all the vampirs, but it turns out that a traveling merchant was to blame?&lt;NEXTPAGEBUTTON&gt;"I'll try to gather some clues."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">That's right! Clues!&lt;BR&gt;I don't want the queen to blame us for not taking this seriously.&lt;BR&gt;&lt;BR&gt;I'm pretty sure that {@linkcreature:215#1019#Brohua} will be able to help you.&lt;BR&gt;He's out at the camp to the southwest. Start with him!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="67" prevId="6" villagerId="1022">
+        <Page social="4" voiceTypeId="0">This is a Teleportal.&lt;BR&gt;&lt;BR&gt;It's linked with various places in Poporia.&lt;BR&gt;&lt;font color='#660000'&gt;&lt;b&gt;&lt;BR&gt;==================================&lt;BR&gt;[Select teleport and go to Camp Vigilance.]&lt;BR&gt;==================================&lt;/b&gt;&lt;/font&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="215" prevId="9" villagerId="1019">
+        <Page social="4" voiceTypeId="0">At last—some outside aid! If nothing else, it is comforting to talk to someone sane! I am Brohua, Bedoram's assistant, at your service. Nothing much to report yet, although we have concluded that this is less a plague or curse than an...emanation? Hard to say. What we do know is that the longer you stay, the deeper it affects you.&lt;BR&gt;&lt;BR&gt;It has affected my colleagues, though I do not think they realize it yet.&lt;NEXTPAGEBUTTON&gt;"Where is Bedoram?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">North, examining the vampirs. You should ask {@linkcreature:215#1010$$Amallen} for specifics.&lt;BR&gt;&lt;BR&gt;Can I ask you a favor?&lt;BR&gt;&lt;BR&gt;The {@linkcreature:15#6#Disturbed Constructs} were once our men...but the unending battles against the mad monsters turned our men into those things.&lt;BR&gt;&lt;BR&gt;Go straight through them—try to drive them off—and you should be able to find {@linkcreature:215#1010$$Amallen}.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="215" prevId="10" villagerId="1010">
+        <Page social="4" voiceTypeId="0">What's that? &lt;PCNAME&gt;? And you're looking for Bedoram?&lt;BR&gt;&lt;BR&gt;He stopped in briefly, on his way to Forsaken Fields to get his equipment from the caravan.&lt;BR&gt;&lt;BR&gt;Go find him. Our lives may depend on the outcome of his research.</Page>
+    </Text>
+</QuestDialog>

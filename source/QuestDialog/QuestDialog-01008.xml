@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1001">
+        <Page social="5">The Temple of Dagon is a test of courage, but one I think you're up to.&lt;BR&gt;&lt;BR&gt;Get some supplies from {@LinkCreature:75#1002#Dyanne} and deliver them to {@LinkCreature:242#1008#Langbau} at Camp Venom.&lt;BR&gt;&lt;BR&gt;On your way, clear out as many of those accursed {@LinkCreature:42#510#hounds of Dagon} as you can manage. It will make things a little safer for everyone.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1002">
+        <Page social="5">You've come for the supplies then. Don't worry about paying me—just come back alive.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1008">
+        <Page social="5">Supplies! We really needed these. Not all messengers get through the hounds. They eat well.&lt;BR&gt;&lt;BR&gt;Now I'll distribute these and let you do your job. Strange things going on with the nagas lately. I'm sure you'll hear all about it.</Page>
+    </Text>
+</QuestDialog>

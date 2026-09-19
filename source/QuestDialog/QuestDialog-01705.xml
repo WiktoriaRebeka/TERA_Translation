@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="489" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="3003" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="3003" prevId="0" villagerId="1020">
+        <Page social="4" voiceTypeId="0">I know the cultists are evil, bent on our destruction, determined to bring the demon-god back into the world, and so forth.&lt;BR&gt;&lt;BR&gt;But wow, do they ever have top-notch weapon suppliers!&lt;BR&gt;&lt;BR&gt;Collect them as you explore the refuge, and bring them back to me. Maybe we can figure out where they got them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3003" prevId="2" villagerId="1020">
+        <Page social="4" voiceTypeId="0">Check these out! Grade-A weapons!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="3003" villagerId="1020">
+        <Page social="0">If we can figure out where the cultists get their weapons, maybe we can shut down their supply.</Page>
+    </Text>
+</QuestDialog>

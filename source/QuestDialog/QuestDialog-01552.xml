@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="182" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Keezar promised to restore the broken pendant with her special glue. You acquired lots of ingredients, and finally, restored the pendant.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Find Keezar who escaped from the cave.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="2036">
+        <Page social="1" voiceTypeId="0">As you've no doubt guessed, glue doesn't just grow on trees, unless you're talking sap, and if you were talking sap, I'd be crazy to be talking to you.&lt;NEXTPAGEBUTTON&gt;"I'm not talking sap!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">So you're talking glue. Got it.&lt;BR&gt;&lt;BR&gt;Well, we're going to need lime for this glue to work—the mineral kind, not the stuff you had in the hold of the sky cruiser to ward off scurvy. There's plenty of lime deposits around the hot springs here behind me—that is, if your popori friend hasn't scooped them all up already for his muscle relaxant.&lt;BR&gt;&lt;BR&gt;Bring me lime, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Sky...? Popori...? Lime! Right, I'll get some lime."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="182" prevId="3" villagerId="2036">
+        <Page social="1" voiceTypeId="0">That wasn't such a chore, now, was it?&lt;BR&gt;&lt;BR&gt;But putting the pendant back together is the easy part. It still needs to be attuned to the demokron talismans for it to work. I'll need you to kill Parthian bowmen, Parthian warriors, and Parthian riders to collect mysterious talismans...&lt;NEXTPAGEBUTTON&gt;"Like these?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">You already had them before you came to see me?&lt;BR&gt;&lt;BR&gt;My, oh my! It's been so long, I forgot what it was like to work with professionals!&lt;BR&gt;&lt;BR&gt;Now wait right there while I perform this extremely delicate and complicated procedure...&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" huntingZoneId="182" villagerId="2036">
+        <Page social="0">Hot springs are right behind me. Big white thingies, with big blue thingies in the middle?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="182" prevId="4" villagerId="2036">
+        <Page social="1" voiceTypeId="0">How long will what take? I told you: I need deva horns!&lt;BR&gt;&lt;BR&gt;I can't deal with you when you're like this. I don't even know who you are anymore. You're not the person I fell in love with. I really need to focus on my career right now.&lt;BR&gt;&lt;BR&gt;Why don't you go talk to my production assistant, Dandit? He's just down the road to the south.&lt;BR&gt;&lt;BR&gt;Yes, he'll validate you.&lt;NEXTPAGEBUTTON&gt;"Okay."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" huntingZoneId="182" prevId="6" villagerId="2042">
+        <Page social="4" voiceTypeId="0">Keezar sent you?&lt;BR&gt;&lt;BR&gt;That's...strange. She's not the kind of person who helps others...&lt;BR&gt;&lt;BR&gt;Well, let's see why she sent you to me.&lt;NEXTPAGEBUTTON&gt;"Keezar was going to fix this pendant for me..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="1" voiceTypeId="0">Hmm. She did most of the work. The glue just needs Spirit's Tear.&lt;BR&gt;&lt;BR&gt;Fortunately, Spirit's Tear isn't hard to find. Parthian War-Shamans carry it, and as luck would have it there's a group of them behind me here, up on the hill.&lt;NEXTPAGEBUTTON&gt;"Okay..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" huntingZoneId="182" prevId="7" villagerId="2042">
+        <Page social="1" voiceTypeId="0">Nicely done.&lt;BR&gt;&lt;BR&gt;Mixing the lime and the Spirit's Tear holds the pendant's pieces together and focuses the magic.&lt;BR&gt;&lt;BR&gt;Shouldn't take but a few seconds.&lt;NEXTPAGEBUTTON&gt;"Sure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" huntingZoneId="182" villagerId="2042">
+        <Page social="0">Without the Spirit's Tear, the lime is just a chalky mineral.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="182" prevId="8" villagerId="2042">
+        <Page social="1" voiceTypeId="0">You're good to go.&lt;BR&gt;&lt;BR&gt;Make sure you've got all of the pendant pieces out of your pack, then stick them together with the power glue.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="11" huntingZoneId="182" prevId="10" villagerId="2042">
+        <Page social="1" voiceTypeId="0">Let me see it.&lt;BR&gt;&lt;BR&gt;Yes, it's functioning properly again. But it's best that you don't try to activate it, unless you want it to shatter again.&lt;BR&gt;&lt;BR&gt;By the way, those people over there by the teleport platform were looking for you earlier. Friends of yours?&lt;NEXTPAGEBUTTON&gt;"I'll figure it out, thanks."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

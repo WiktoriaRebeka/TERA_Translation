@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1003">
+        <Page social="4">A searching eye sees many {@LinkCreature:13#300932#ghilliedhus} between here and your duties. Demonstrate your combat skills so that we might know how best to use you.&lt;BR&gt;&lt;BR&gt;Watch their limbs—it's best to block or dodge when they swoop downward. When exhausted or injured, rest here at the fire or speak to the clerics.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1003">
+        <Page social="4">The skills shown today inspire hope in all present. &lt;PCNAME&gt;'s demonstration lends strength to weary troopers, but it also spawns questions...</Page>
+    </Text>
+</QuestDialog>

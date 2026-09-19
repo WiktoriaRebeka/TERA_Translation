@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1009">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1009">
+        <Page social="4">Blast and damnation! These cursed Junaidar mercenaries can't work for a living, so they steal our crystals!&lt;BR&gt;&lt;BR&gt;The attacks are getting worse. Shipments to Acarum are ambushed—it's got to stop.&lt;BR&gt;&lt;BR&gt;Hunt down and kill {@LinkCreature:34#410#Junaidar raiders}. Find Praetor Nunahd in Bleakrock when the deed is done.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="83" prevId="2" villagerId="1004">
+        <Page social="4">So, ya gutted those Junaidar scum? Fine work. Could use a lot more help like that.&lt;BR&gt;&lt;BR&gt;See, this region's rich in eldritch shards. Intriguing crystals, extremely useful for magical shields. Allemantheia pays a premium for them, as well they should!&lt;BR&gt;&lt;BR&gt;I've got to get back to work. Thanks again!</Page>
+    </Text>
+</QuestDialog>

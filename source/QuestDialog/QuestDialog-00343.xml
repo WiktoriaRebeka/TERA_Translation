@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1106">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1106">
+        <Page social="4">Elleon's brother, Leander, leads the search effort from his camp far to the south. Unlike his brother—and unlike you, judging from that weapon—Leander's a scholar by profession, not a soldier.&lt;BR&gt;&lt;BR&gt;Nobody wants to find Elleon more than I do, but we've got a whole island to reclaim—and if Elleon's dead, then that's the best way to honor his memory.&lt;BR&gt;&lt;BR&gt;Let's keep you moving. Report to &lt;font color='#660000'&gt;Centurion Kishale&lt;/font&gt; at the Northern Checkpoint, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1003">
+        <Page social="4">Survivors from the first demon attack are always welcome—the new recruits have no idea how danger can arrive in a heartbeat. Everyone clings to hope that Elleon lives, but you saw those demons firsthand. We cling to hope, not certainty.</Page>
+    </Text>
+</QuestDialog>

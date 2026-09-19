@@ -1,0 +1,22 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="231" prevId="0" villagerId="1011">
+        <Page social="4">There's a lighthouse at the top of the hill to the west of Icefang Inlet. Before the magical storm, the lighthouse keeper kept ships from wrecking on the rocks, but now that the inlet's frozen solid, we could use him down here instead.&lt;BR&gt;&lt;BR&gt;Not to mention {@LinkCreature:31#10#frostreach sentinels} are camped out all along the path to the lighthouse. We're all worried about Mogel up there alone. Would you clear out the path and bring him down here where it's safer?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1006">
+        <Page social="4">Haven't seen you around these parts before. Nice work with those frostreach sentinels, though. Gets to be hard clearing them out with the temperature down so low.&lt;BR&gt;&lt;BR&gt;Sent you up here to get me down, eh? Well, go tell those folks to forget it! I'm not comin' down. This place is full of memories of my sons and my life. The lighthouse will be lit until the day I die—ships or no ships.&lt;BR&gt;&lt;BR&gt;You can tell them thanks for their concern, but don't bother me anymore.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="231" prevId="3" villagerId="1011">
+        <Page social="4">That possibility presented itself. Mogel's sons {@LinkCreature:31#30#Endain}, {@LinkCreature:31#30#Endrenlas}, and {@LinkCreature:31#30#Enkanas} were soldiers of Acarum, defending the coastline. They died in battle when the naga first arrived, just before the storm.&lt;BR&gt;&lt;BR&gt;But the tragedy is not finished. The brothers still roam Tempest Reach.&lt;NEXTPAGEBUTTON&gt;"How is that?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Thulsa's wicked magic has forced the sons of Mogel to walk the titans' Dream once more.&lt;BR&gt;&lt;BR&gt;Mogel must know—how could he not? It leaves him in even greater danger with these monsters in his sons' skins walking the coast.&lt;BR&gt;&lt;BR&gt;If you give those three brothers peace and collect their belongings, I'll take them to Mogel, then perhaps he can bring their memories down from the lighthouse with him.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="231" prevId="4" villagerId="1011">
+        <Page social="10">This tragedy won't be forgotten, and neither will your selfless act. I shall bring these things to Mogel in person and see him down the hill.&lt;BR&gt;&lt;BR&gt;Thank you for your assistance.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="231" villagerId="1011">
+        <Page social="0">You must find Mogel's undead sons and release them from their nightmare.</Page>
+    </Text>
+</QuestDialog>

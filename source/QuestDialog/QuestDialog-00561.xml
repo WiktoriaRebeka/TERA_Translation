@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="222" prevId="0" villagerId="1008">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="222" prevId="0" villagerId="1008">
+        <Page social="5">The Witches of Vadoma are the finest instructors of magic in the world, but they're no longer in their right minds.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:22#31#Serena}, our headmistress, is vicious and lashing out at everyone.&lt;BR&gt;&lt;BR&gt;I don't have the power to face her, so I'm counting on you to stop her.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1005">
+        <Page social="5">Serena's loss hurts us all, but at least she can't destroy us.&lt;BR&gt;&lt;BR&gt;There may be time to resurrect her if we regain control of the academy.&lt;BR&gt;&lt;BR&gt;...if not, looks like I'm getting promoted.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="222" villagerId="1005">
+        <Page social="0">She knows every trick I've got, &lt;PCNAME&gt;. She taught them to me, after all.&lt;BR&gt;&lt;BR&gt;You're the only one who can face {@LinkCreature:22#31#Serena}.</Page>
+    </Text>
+</QuestDialog>

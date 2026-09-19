@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="224" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="224" prevId="0" villagerId="1011">
+        <Page social="4">We're doing everything in our power to hold the enemy from advancing north, but we've taken irreparable damage in the meantime. The kulkari are hiding out in the Sand Wind Village, and Qasimir is our only soldier there to watch them. &lt;BR&gt;&lt;BR&gt;Please head southwest. On your way, find the {@LinkCreature:24#56#Sand Wind scavengers} and kill them. Then help our soldiers who are hiding near the village.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1014">
+        <Page social="4">Pembry sent you? It's about time. I've been asking for assistance since the last bloody equinox! &lt;BR&gt;&lt;BR&gt;Now that you're finally here, let's get to work.</Page>
+    </Text>
+</QuestDialog>

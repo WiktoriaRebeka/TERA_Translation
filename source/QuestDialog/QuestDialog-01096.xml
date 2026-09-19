@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1020">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1020">
+        <Page social="4">Our scout saw what looked like wendigo ragers at that shield emitter bubble south of here. The argons must have left them for us.&lt;BR&gt;&lt;BR&gt;If you go that way, do what you can to discourage them, and report back.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1020">
+        <Page social="4">I don't know how we'll ever clean up what those thrice-cursed argons did here. Thank you for your help.</Page>
+    </Text>
+</QuestDialog>

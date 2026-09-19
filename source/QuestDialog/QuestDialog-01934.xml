@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="606" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="1022" prevId="0" villagerId="1002">
+        <Page social="4">We believe nexuses are created by a distortion of dimensions.&lt;BR&gt;&lt;BR&gt;If so, we might be able to send nexus monsters back across the dimensions with a symbol of distorted dimension.&lt;BR&gt;&lt;BR&gt;Of course, it's just a theory. Speaking of which, I'd like you to test it.&lt;BR&gt;&lt;BR&gt;My research isn't complete, so the symbol may not be effective against anything other than lesser nexus creatures.&lt;BR&gt;&lt;BR&gt;If anything goes wrong, you'll have "eliminate" that monster.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="1022" prevId="2" villagerId="1002">
+        <Page social="4">Unfortunate. I felt certain the symbol would prove efficacious. Where did I go wrong?&lt;BR&gt;&lt;BR&gt;A problem for another time. Thank you for your courage, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,31 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Thulsa, holding the last relic fragment, told you he'd rather destroy the world than let you win. He threw himself into Kelsaik's mouth, and Kelsaik became even stronger by consuming the god of death.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Kelsaik is not in the Ebon Tower, so pursue Thulsa instead! Follow the traces of mana Thulsa leaves in his wake, and you'll find the teleportal Thulsa used to escape.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1502">
+        <Page social="1" voiceTypeId="0">Thulsa's teleportal goes to a pocket dimension called "Kelsaik's Nest." Brace yourself before you enter.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="251" prevId="3" villagerId="1042">
+        <Page social="4" voiceTypeId="0">I knew you could do it!&lt;BR&gt;When he heard that Thulsa ran away, Elleon sent me here.&lt;BR&gt;&lt;BR&gt;He fainted right after that though...&lt;BR&gt;&lt;BR&gt;but anyways, you did it!&lt;BR&gt;I wanted to see you once more before I left.&lt;NEXTPAGEBUTTON&gt;"How is Elleon doing?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">The doctor said that there was nothing he could do.&lt;BR&gt;&lt;BR&gt;After all, Elleon was wounded by a God, right?&lt;BR&gt;&lt;BR&gt;I have to take him to Allemantheia to get some treatment.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="251" prevId="4" villagerId="1042">
+        <Page social="5" voiceTypeId="0">I'm sorry you were all on your own.&lt;BR&gt;Elleon would be glad to hear that you made it.&lt;BR&gt;&lt;BR&gt;I should get going now.&lt;BR&gt;&lt;BR&gt;You should go and report back to Kaia, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Let me know when your ready.&lt;BR&gt;I'll take you back to Kaiator.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="251" prevId="4" villagerId="1042">
+        <Page social="5" voiceTypeId="0">We'll meet again for sure. Take care.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="84" prevId="4" villagerId="1088">
+        <Page social="4" voiceTypeId="0">&lt;PCNAME&gt;! You're back!&lt;BR&gt;Everyone is waiting for you.&lt;BR&gt;&lt;BR&gt;Quick! Get in there!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="528" prevId="7" villagerId="5030">
+        <Page social="1" voiceTypeId="0">You defeated Kelsaik, and thus saved Kaiator...and Allemantheia...and Velika...&lt;BR&gt;...and everywhere.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;The titans continue their dream uninterrupted, thanks to you, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="528" prevId="8" villagerId="5005">
+        <Page social="1" voiceTypeId="0">Killian is dead! You hear that, Father! KILLIAN IS DEAD!&lt;BR&gt;You kept your promise to me, , and my father can rest in peace.&lt;BR&gt;&lt;BR&gt;With Killian, Thulsa, and Kelsaik no more, my people can focus on the Argon War.&lt;BR&gt;&lt;BR&gt;Speaking of the argons, you say they took Kelsaik's corpse away? I wonder why....</Page>
+    </Text>
+</QuestDialog>

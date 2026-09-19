@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1065">
+        <Page social="1">Let's put that overdeveloped sense of helpfulness to good use, &lt;PCNAME&gt;. Sestena, a researcher who seeks artifacts called archive tablets, needs some help out in the field.&lt;BR&gt;&lt;BR&gt;Consider it penance for being naive.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1019">
+        <Page social="1">You're my savior!&lt;BR&gt;&lt;BR&gt;The {@Rgn:30009$$Upper Archive} is so extensive that I don't know where to begin.&lt;BR&gt;&lt;BR&gt;Apparently, archive tablets lie inside stone boxes scattered all over this temple area.&lt;BR&gt;&lt;BR&gt;Collect all the archive tablets you find, and give them to {@LinkCreature:230#1026$$Meterok}. Hopefully he can put them in order.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="230" prevId="3" villagerId="1026">
+        <Page social="1">That's a real treasure trove of slates! Hand them to me carefully—they date back to the ancient empire of the giants, you know.&lt;BR&gt;&lt;BR&gt;I have a theory that the giants who wrote these slates are the direct ancestors of the baraka—lovers of knowledge, not of conquest, in other words.&lt;BR&gt;&lt;BR&gt;I should reward you for your efforts, of course.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="230" villagerId="1026">
+        <Page social="0">It's about time that Sestena sent me some help.</Page>
+    </Text>
+</QuestDialog>

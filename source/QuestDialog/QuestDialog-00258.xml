@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="10" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="210" prevId="0" villagerId="1004">
+        <Page social="4">The nagas gather at the tomb of their creator-god, Dagon. And with {@LinkCreature:10#13#naga bloodscales} and {@LinkCreature:10#14#naga wyrmlings}, they're awfully confident that we can't strike them there.&lt;BR&gt;&lt;BR&gt;You're going to show them how wrong they are. I expect to you to come back with their scales. Trophies send messages, you know.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="1004">
+        <Page social="4">Now they're outnumbered, not us.&lt;BR&gt;&lt;BR&gt;And we have these handy new trophies. Maybe we should mount them.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="210" villagerId="1004">
+        <Page social="0">I know the place is crawling—or slithering, I suppose—with nagas.&lt;BR&gt;&lt;BR&gt;Think of it as a "target-rich environment."</Page>
+    </Text>
+</QuestDialog>

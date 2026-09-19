@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1005">
+        <Page social="12">This place is littered with graves—cairns with makeshift headstones. The fallen deserve better.&lt;BR&gt;&lt;BR&gt;Vulcan wastewalkers are to blame. They're bloodthirsty animals. Now I too thirst for blood!&lt;BR&gt;&lt;BR&gt;Alas, my duty is here. Bring me the horns of vulcans and we can put these souls to rest...together.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1005">
+        <Page social="7">Our comrades can finally rest in peace. You've lifted a heavy weight off my heart. I can't thank you enough.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="235" villagerId="1005">
+        <Page social="0">Kill the vulcans!&lt;BR&gt;&lt;BR&gt;If not for the dead, do it for the living, that they might see another day.</Page>
+    </Text>
+</QuestDialog>

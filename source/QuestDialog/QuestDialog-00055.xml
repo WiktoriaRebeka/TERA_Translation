@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1011">
+        <Page social="4">Not far from here is another scout, {@LinkCreature:203#1010#Rasima}. She's as tough as they come, but she's all alone.&lt;BR&gt;&lt;BR&gt;She'd never ask for help, she's all into having altitude, but she'll take it if it's offered. And bring her something to drink!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1010">
+        <Page social="4">Yes, I'm all alone—now. My partner, Keleth, and I were discovered while scouting around. We fought hard, but he bought my escape with his life.&lt;BR&gt;&lt;BR&gt;I honor his sacrifice but need a favor. Bring back his {@LinkCreature:203#1029#ring} that I might return them to his home and thank his family.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1029">
+        <Page social="4">(The corpse was clearly savaged in battle. Nothing stands out except a simple copper ring.)</Page>
+    </Text>
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1010">
+        <Page social="4">I remember this ring. Keleth was very proud of such a humble band.&lt;BR&gt;&lt;BR&gt;This is perfect. Such a token will mean much to his loved ones. Thank you for this. May the Shieldmaiden protect you in all your battles!</Page>
+    </Text>
+</QuestDialog>

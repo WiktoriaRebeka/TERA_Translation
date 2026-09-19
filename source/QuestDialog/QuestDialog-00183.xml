@@ -1,0 +1,28 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0">While fighting gulas in the Hungry Caverns, you met a soldier, Detrian, who wanted you to deliver a gift to his younger sister. The sister returned the favor, sending a gift to Detrian.&lt;BR&gt;&lt;BR&gt;Then Detrian reported to his post in the Hungry Caverns.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1012">
+        <Page social="0" voiceTypeId="0">Gulas...just the thought of them makes my skin crawl.&lt;BR&gt;&lt;BR&gt;It's one thing to face your enemy and slit his throat or spill his guts. But to eat your enemies—I mean, cook them up and eat them—that's just wrong. Kaia's Swords have been trying to wipe them out, but they're tenacious. I want your help, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1012">
+        <Page social="5" voiceTypeId="0">Thank you. I'll dispatch you there immediately.&lt;BR&gt;&lt;BR&gt;While I file the paperwork, can you do me a favor? Pass along these recall orders to Detrian in Castanica.&lt;BR&gt;&lt;BR&gt;He's on leave, but we need him back on the front lines as soon as he can...well...extricate himself from Castanica's, um, &amp;quot;recreational opportunities.&amp;quot;</Page>
+    </Text>
+    <Text id="4" huntingZoneId="61" prevId="3" villagerId="1106">
+        <Page social="5" voiceTypeId="0">Recall orders, eh? Figures.&lt;BR&gt;&lt;BR&gt;You heading to the Hungry Caverns, too?&lt;NEXTPAGEBUTTON&gt;"Indeed, I am."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">I know those caverns like the back of my hand, but...&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, can you give this doll to my little sister, Hennika?&lt;BR&gt;&lt;BR&gt;I promised I'd bring it to her, but I have to report back right away, so I won't have time to go home first.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="61" prevId="4" villagerId="1107">
+        <Page social="5" voiceTypeId="0">My brother is the best! He always remembers me.&lt;BR&gt;&lt;BR&gt;I remembered him, too. I got him this charm...oh, but now I can't give it to him.&lt;BR&gt;&lt;BR&gt;But you can! You're going to the same place he is, right? Just tell him it's a lucky charm, 'cause Hennika wants him to be safe.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1023">
+        <Page social="5" voiceTypeId="0">A charm? That's so sweet. Just like Hennika. I miss her so much.&lt;BR&gt;&lt;BR&gt;Well, better keep moving, &lt;PCNAME&gt;. Karina is waiting for you at Avenger Outpost.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1001">
+        <Page social="5" voiceTypeId="0">The famous &lt;PCNAME&gt; is here! Let the slaughter begin!&lt;BR&gt;&lt;BR&gt;Your first target will be {@linkcreature:8#2021#gula slavers} and {@linkcreature:8#2021#caiman mercenaries}. Report back to me here when you're done.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="208" prevId="7" villagerId="1001">
+        <Page social="5" voiceTypeId="0">That's the kind of energy I like to see, &lt;PCNAME&gt;. But we're only just getting started.</Page>
+    </Text>
+</QuestDialog>

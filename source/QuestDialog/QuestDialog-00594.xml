@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="223" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="223" prevId="0" villagerId="1007">
+        <Page social="5">The Blessed Woods is tended to by teraliths—but instead of protecting it, they're destroying it!&lt;BR&gt;&lt;BR&gt;Hurry there and kill the {@LinkCreature:23#14#lurking teraliths}.&lt;BR&gt;&lt;BR&gt;Bring back the sealing rocks in their bodies. Our arcanists will need them later.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1007">
+        <Page social="5">It's too bad about the teraliths. They're hideously expensive to make.&lt;BR&gt;&lt;BR&gt;Oh, well. Nature moves on.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="223" villagerId="1007">
+        <Page social="0">It's not just a question of destroying the teraliths. If the arcanists don't recover the stones, it costs so much more to make new ones.&lt;BR&gt;&lt;BR&gt;We must have them.</Page>
+    </Text>
+</QuestDialog>

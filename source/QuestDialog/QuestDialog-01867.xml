@@ -1,0 +1,30 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="602" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="78" prevId="0" villagerId="3002">
+        <Page social="4">I heard a disturbing report from the front lines. Something about a weird, red argon that's tougher than expected?&lt;BR&gt;&lt;BR&gt;Speak with Drokhir at Khanovar Citadel. He's putting together a strike mission.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="4">Yes, these red argons appeared after one of our operatives used a new argon device. We don't know much more than that. I've got a pile of scrolls from the Invalesco wanting more details.&lt;BR&gt;&lt;BR&gt;Head into Carnage Vale, find this device and see what happens next.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="248" prevId="2" villagerId="3002">
+        <Page social="4">This plating looks different. Stronger, too.&lt;BR&gt;&lt;BR&gt;I'll get a courier to transport these components to the Invalesco.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="248" villagerId="3002">
+        <Page social="0">Helping the Invalesco's just smart strategy. They want to stop the argons, too.&lt;BR&gt;&lt;BR&gt;Find those red argons, &lt;PCNAME&gt;. Kill 'em dead.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="248" prevId="6" villagerId="3002">
+        <Page social="4">This plating looks different. Stronger, too.&lt;BR&gt;&lt;BR&gt;I'll get a courier to transport these components to the Invalesco.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="248" villagerId="3002">
+        <Page social="0">Helping the Invalesco's just smart strategy. They want to stop the argons, too.&lt;BR&gt;&lt;BR&gt;Find those red argons, &lt;PCNAME&gt;. Kill 'em dead.</Page>
+    </Text>
+</QuestDialog>

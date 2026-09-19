@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1007">
+        <Page social="4">Aside from his scouts and the beasts, Thulsa has an assault brigade stationed at the western gate to Habere. Take them out, and we'll all breathe easier&lt;BR&gt;&lt;BR&gt;You've been very brave so far, so stay the course! Check in with Centurion Turua at the western gate. He'll point you toward Thulsa's minions.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="252" prevId="2" villagerId="1017">
+        <Page social="4">Let me brief you on our situation, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Warkul commands Thulsa's forces in the region. Repelling Warkul and his troopers will give us a huge advantage in battle, perhaps a chance to reverse the situation throughout this wretched land.&lt;BR&gt;&lt;BR&gt;Lead us to victory, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="252" prevId="3" villagerId="1017">
+        <Page social="4">The remnants remain, but they pose no threat to the safety of Habere.&lt;BR&gt;&lt;BR&gt;Thank you so much, &lt;PCNAME&gt;.</Page>
+    </Text>
+</QuestDialog>

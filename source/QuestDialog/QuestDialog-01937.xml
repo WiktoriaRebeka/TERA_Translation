@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="4">You don't look like a janitor, but you'll do, I suppose.&lt;BR&gt;&lt;BR&gt;We do truly amazing work here, but one of the byproducts is a truly amazing mess. We need someone to clean this place up on a daily basis.&lt;BR&gt;&lt;BR&gt;And yes, that's a hint. You catch on fast, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1702">
+        <Page social="4">I'm impressed. A lot of so-called heroes think they're too good for this sort of work.&lt;BR&gt;&lt;BR&gt;I'll see you again tomorrow, I hope.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" villagerId="1702">
+        <Page social="0">I can't even think with this place so messy. Clean it up now!</Page>
+    </Text>
+</QuestDialog>

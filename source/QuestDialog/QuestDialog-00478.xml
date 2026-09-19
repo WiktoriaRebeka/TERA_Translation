@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1007">
+        <Page social="4">Yeah, I know. It's the same old story. "Return to the safety of the camp." I don't think so.&lt;BR&gt;&lt;BR&gt;Anyway, ready to help?&lt;NEXTPAGEBUTTON&gt;"I don't remember volunteering."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I volunteered you. I'm researching the civilization of the giants, but I can't find enough historical documents to get a full understanding it. However, the {@LinkCreature:18#17#ancient teraliths} are covered with inscriptions. I wonder if they'd help.&lt;BR&gt;&lt;BR&gt;If you'd collect some for me, I'd be grateful.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1007">
+        <Page social="4">Oh, look at these inscriptions! They're exactly what I'd hoped.&lt;BR&gt;&lt;BR&gt;These pictures will teach me a lot. Good work!&lt;BR&gt;&lt;BR&gt;Here, take this for your trouble. I know it's not much, but it's all I can get this far from camp.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1007">
+        <Page social="0">If you're looking for the {@LinkCreature:18#17#ancient teraliths} around here, you're going to be looking for a long time.&lt;BR&gt;&lt;BR&gt;Go on, now. Are you in or out?</Page>
+    </Text>
+</QuestDialog>

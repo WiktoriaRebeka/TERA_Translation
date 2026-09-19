@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="51" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="251" prevId="0" villagerId="1012">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="251" prevId="0" villagerId="1012">
+        <Page social="4">Before we can face the god of death directly, we must eliminate his remaining pawns.&lt;BR&gt;&lt;BR&gt;The Sihranars betrayed Kaiator to follow Kaidun, but now they serve the god who sacked their city? Incredible.&lt;BR&gt;&lt;BR&gt;You know, I trust, what to do?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="251" prevId="2" villagerId="1012">
+        <Page social="4">I'd gladly serve a month on the front lines if I could get a good bottle of Allemantheian silver wine.&lt;BR&gt;&lt;BR&gt;Alas, it's just you, me, and our duty. Speaking of which, thanks for handling the Sihranars. The end of this long campaign draws near—and not a moment too soon.</Page>
+    </Text>
+</QuestDialog>

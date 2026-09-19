@@ -1,0 +1,13 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="35" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="235" prevId="0" villagerId="1003">
+        <Page social="5">We're incredibly grateful for all you've done here, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;In a perfect world, we'd keep you to ourselves, but it would hardly be ethical. They're in dire need at Firespine Outpost, a temporary base built by garrison soldiers retreating from Deathgorge.&lt;NEXTPAGEBUTTON&gt;"I'll see what I can do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="5">Great! Desert runekeepers litter the path to the outpost.&lt;BR&gt;&lt;BR&gt;See if you can take some out on the way.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="235" prevId="2" villagerId="1005">
+        <Page social="5">You're the reinforcement from Elenea? Thank you for coming.&lt;BR&gt;&lt;BR&gt;We're on our last legs and in need of a serious boost in morale.</Page>
+    </Text>
+</QuestDialog>

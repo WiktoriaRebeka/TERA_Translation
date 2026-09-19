@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1002">
+        <Page social="0">Not all faeries have fallen under the sway of the ill wind that blows through the Fey Forest.&lt;BR&gt;&lt;BR&gt;There are loyal faeries at the Faerie Pond, but the rebels are massing for an all-out assault.&lt;BR&gt;&lt;BR&gt;It'll be waves of {@LinkCreature:2#2#furious faeries}, {@LinkCreature:2#152#faerie insurgents}, {@LinkCreature:2#62#faerie rebels}, and {@LinkCreature:2#52#faerie vigilantes}. &lt;NEXTPAGEBUTTON&gt;"How do we stop them?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">I didn't want it to come to this. I didn't want more faerie blood watering the trees of the forest.&lt;BR&gt;&lt;BR&gt;But some blood will be shed no matter what. Eradicate the rebel faeries as they gather near the Faerie Pond. And grab their weapons—we can use them to arm some of the loyal faeries.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1002">
+        <Page social="0">Every fading faerie diminishes the Dream we all share, &lt;PCNAME&gt;. Yours was a hard task, but a necessary one.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1002">
+        <Page social="0">It's a brutal business, but kill those faeries before they wipe out the friendly spirits of the Faerie Pond!</Page>
+    </Text>
+</QuestDialog>

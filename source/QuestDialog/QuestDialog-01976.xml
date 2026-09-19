@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">The Consos Clan is preparing a festival in honor of Balder, the God of the Sun.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">[Festival of the Sun]&lt;BR&gt;Every year, the Consos Clan hosts a festival for Balder, the God of the Sun. During this time, they ask everyone to assist with the duties of the clergy, such as cleaning the temple.&lt;BR&gt;&lt;BR&gt;Because participation is not mandatory, the clergy are prepared to reward those who assist them.&lt;BR&gt;&lt;BR&gt;Please demonstrate your devotion to the God of the Sun during this most holy time of year.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="7000">
+        <Page social="4">Hello, &lt;PCNAME&gt;. I am Renmi. It is my pleasure to welcome you to the Festival of the Sun God.&lt;BR&gt;&lt;BR&gt;Please, spend some time looking around the Garden of the Sun, and do not hesitate to ask any of the Consos Clan where your assistance is needed.&lt;BR&gt;&lt;BR&gt;And when the work at the temple is done, and the sun's flame has been rekindled, there will be a great celebration, to which you are of course invited.</Page>
+    </Text>
+</QuestDialog>

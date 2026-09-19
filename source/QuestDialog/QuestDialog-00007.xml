@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="2" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="202" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1001">
+        <Page social="4">We could mollify Lennert a little, though, if we collected the cut timber that the last crew left behind when they fled or died.&lt;BR&gt;&lt;BR&gt;And by "we," I mean "you."&lt;BR&gt;&lt;BR&gt;Check down at the bottom of the hill and bring back what timber you can.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="202" prevId="2" villagerId="1001">
+        <Page social="4">That's more timber than I thought! I'll measure and bundle it, and Lennert can make some progress against his precious "quota."&lt;BR&gt;&lt;BR&gt;Thanks, &lt;PCNAME&gt;, and if you ever muster out of the military, look me up. We can always use more loggers around here.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="202" villagerId="1001">
+        <Page social="0">My last crew must have left a full day's work down there when the centaurs came. It shouldn't be hard to find.&lt;BR&gt;&lt;BR&gt;I mean...you know what wood looks like, right?</Page>
+    </Text>
+</QuestDialog>

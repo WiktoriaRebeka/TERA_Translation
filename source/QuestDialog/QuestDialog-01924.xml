@@ -1,0 +1,33 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="605" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="3002">
+        <Page social="4">The Hands of Velika want to prove our worth in the fight against evil. Today we're looking to make a dent in {@Rgn:9002#Azarel's Labyrinth}.&lt;BR&gt;&lt;BR&gt;Talk to {@LinkCreature:63#3003#Elthienne} if you want to aid in the cause.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="4">You're a federation soldier, obviously, so this is a little sneaky of us.&lt;BR&gt;&lt;BR&gt;Basically, we'd like you to take out a bunch of monsters in the labyrinth, and let the Hands of Velika take the credit. It would be really good for our reputation, er, cause.&lt;BR&gt;&lt;BR&gt;What do you say?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="5" huntingZoneId="63" prevId="2" villagerId="3003">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="63" prevId="2" villagerId="3002">
+        <Page social="5">{@Rgn:9002#Azarel's Labyrinth} is crawling with weird monsters, right?&lt;BR&gt;&lt;BR&gt;I wouldn't last a minute in that labyrinth. But you work for me, so it's just like I did it, right?&lt;BR&gt;&lt;BR&gt;Plus, Elthienne will make sure you get paid. Win-win.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Take out {@LinkCreature:9#1400#Azarel's juggernauts} in {@Rgn:9002#Azarel's Labyrinth} and bring back proof of their deaths.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="63" prevId="6" villagerId="3002">
+        <Page social="5">Thanks for all you've done for us, &lt;PCNAME&gt;. You've become a real friend to the Hands. It means a lot.&lt;BR&gt;&lt;BR&gt;Elthienne has your payment, as usual.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="63" villagerId="3002">
+        <Page social="0">Hunt {@LinkCreature:9#1410#Labyrinthine stalkers} in {@Rgn:9002#Azarel's Labyrinth} and bring back proof of their deaths.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="63" prevId="8" villagerId="3003">
+        <Page social="4">Thank you, &lt;PCNAME&gt;. This means so much to the Hands of Velika. Your service to us is invaluable.&lt;BR&gt;&lt;BR&gt;Invaluable or no, here's your payment for a job well done, as usual.</Page>
+    </Text>
+</QuestDialog>

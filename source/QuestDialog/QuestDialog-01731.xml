@@ -1,0 +1,26 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, the recipe is complete!&lt;BR&gt;Meet me on the Island of Dawn.&lt;BR&gt;&lt;BR&gt;- Olivung</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You gathered Fimbrilisk's Durignite for Olivung, and exchanged it for the second piece.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="13" prevId="1" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Welcome, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;I've just finished designing my next recipe.&lt;BR&gt;&lt;BR&gt;I call it 'Magma Ice Cream!'&lt;BR&gt;I'll need you to get me some {@linkcreature:13#7005#Fimbrilisk}'s Durignite.&lt;BR&gt;&lt;BR&gt;Be careful!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="13" prevId="3" villagerId="9005">
+        <Page social="0" voiceTypeId="0">Thank you.&lt;BR&gt;I never knew that Durignite was so beautiful. It's not hot, is it?&lt;BR&gt;&lt;BR&gt;Now, let's get started with that ice cream.&lt;BR&gt;&lt;BR&gt;It should be delicious!&lt;NEXTPAGEBUTTON&gt;"I can't wait!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">It's a taste that you'll never forget!&lt;BR&gt;&lt;BR&gt;This ice cream is truly a masterpiece!&lt;BR&gt;&lt;BR&gt;Quick! Try it!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="13" villagerId="9005">
+        <Page social="0">I want every gourmet in the land to experience this treat!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="13" prevId="4" villagerId="9005">
+        <Page social="0" voiceTypeId="0">It's hot, but it's also cold, right? That's the beauty of the Fimbrilisk's Durignite!&lt;BR&gt;&lt;BR&gt;I tried to make a loaf of bread with it long ago, but the bread got so cold...&lt;BR&gt;&lt;BR&gt;Then I thought: I can use that to make ice cream!&lt;NEXTPAGEBUTTON&gt;"This is fascinating!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">This was a very successful experiment. A fine dessert, fit for the goddess herself!&lt;BR&gt;&lt;BR&gt;Here, take the second piece. I'd like to see how it changes the crown!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="13" prevId="6" villagerId="9005">
+        <Page social="0" voiceTypeId="0">What a view...&lt;BR&gt;It's as stunning as my cooking!&lt;BR&gt;&lt;BR&gt;Hmm!&lt;BR&gt;&lt;BR&gt;One last piece to go, right?&lt;NEXTPAGEBUTTON&gt;"What do you need next?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I've got so many ideas...I need time to decide which one to go with.&lt;BR&gt;&lt;BR&gt;I'll send you a message when I'm ready. You can keep training in the meanwhile.&lt;BR&gt;&lt;BR&gt;See you soon!</Page>
+    </Text>
+</QuestDialog>

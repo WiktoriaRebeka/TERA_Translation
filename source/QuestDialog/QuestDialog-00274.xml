@@ -1,0 +1,19 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1001">
+        <Page social="4">It used to be so simple: Pirates chase the merchants, and the navy chases the pirates. Adventure on the high seas all around.&lt;BR&gt;&lt;BR&gt;Then the nagas came and wiped out all the pirates, and the sea's been red with blood. No pirates' code, no law of the sea, no nothin'.&lt;BR&gt;&lt;BR&gt;The worst are the abductions. No ransom or anything—I think the nagas just eat their captives. So we've got a lot of orphans around, like Govan. Could you make sure the lad's all right? I haven't seen him for a while.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="62" prevId="2" villagerId="1006">
+        <Page social="4">Looking for Govan? I saw him heading west just a bit ago.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="62" prevId="3" villagerId="1016">
+        <Page social="13">Let me guess. Siam sent you to bring me home, right? Well, I'm not going!&lt;BR&gt;&lt;BR&gt;At least not until the nagas pay for what happened to my mom...in blood! They say I'm too young to fight, but I'm too old to just sit in the village doing nothing.&lt;NEXTPAGEBUTTON&gt;"You can't do it alone..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="13">No I can't...but you could, I bet!&lt;BR&gt;&lt;BR&gt;Heck, you'd be helping the soldiers here, too. Just avenge my mom on those Red Lash pirates.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="211" prevId="4" villagerId="1005">
+        <Page social="4">That's quite a promise you made... As you've seen, the Red Lash leaves only pain in its wake.&lt;BR&gt;&lt;BR&gt;Make sure you keep the promise you made to that little boy, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Maybe you'll prevent the next set of orphans around here.</Page>
+    </Text>
+</QuestDialog>

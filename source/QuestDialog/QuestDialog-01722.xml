@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">You overcame your self-doubt, and felt your inner strength growing.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="3" huntingZoneId="508" prevId="2" villagerId="2001">
+        <Page social="0" voiceTypeId="0">Why was I chosen to be a hero? I was nothing special... so why do I have to deal with the failures?&lt;BR&gt;&lt;BR&gt;They always call me to come to the rescue, to vanquish the bad guys...&lt;BR&gt;&lt;BR&gt;But there are always casualties.&lt;BR&gt;And I have to live with that...&lt;BR&gt;&lt;BR&gt;But... could I ever have saved them?&lt;BR&gt;Was I chosen because I was the best? Or because I was the best they could get? What if that's never going to be enough?</Page>
+    </Text>
+</QuestDialog>

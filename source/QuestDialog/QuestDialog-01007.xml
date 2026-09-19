@@ -1,0 +1,54 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="518" prevId="0" villagerId="1001">
+        <Page social="5" voiceTypeId="0">Don't ask me how we know this, but the nagas have been hiding away treasure somewhere in the Temple of Dagon, presumably to use as an offering.&lt;BR&gt;&lt;BR&gt;The federation is looking at...creative solutions to solve some recent financial difficulties. The argons aren't going anywhere, and the treasury's running dry.&lt;BR&gt;&lt;BR&gt;Ibar has asked the federation to send reinforcements to Frontera. I'd like to send you.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="75" prevId="2" villagerId="1001">
+        <Page social="5" voiceTypeId="0">I'm glad you're here, &lt;PCNAME&gt;. Our spies have discovered that the nagas in the Temple of Dagaon have been hiding away treasure, possibly as some sort of offering to their serpent god. We have a better use for it.&lt;BR&gt;&lt;BR&gt;There's an expedition team already on site, searching the temple, but they sure could use your help.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" prevId="3" villagerId="1039">
+        <Page social="5" voiceTypeId="0">You can't know how grateful we are to see you here. Not only is the temple much larger than we expected, but the nagas and their friends are proving to be formidable foes.&lt;BR&gt;&lt;BR&gt;From what we've been able to find out, there are two treasure caches on two different floors. One is somewhere near here, and the other—the big one—is all the way down where Dagon is sleeping.&lt;BR&gt;&lt;BR&gt;I'm afraid we don't know more than that, but we need to recover those treasures, &lt;PCNAME&gt;. The federation needs them.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="242" prevId="4" villagerId="1039">
+        <Page social="4" voiceTypeId="0">You brought the treasure! Let's see what's here!&lt;NEXTPAGEBUTTON&gt;"Anything valuable?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Yes, but not nearly as much as we'd hoped. We have to find that lower treasure—this will scarcely be enough to buy a hundred suits of good armor.&lt;BR&gt;&lt;BR&gt;There's another camp on the next level down. Talk to Wekrine down there—they've been formulating plans for getting to the lower levels.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="242" villagerId="1039">
+        <Page social="0">Have you found the treasure yet?</Page>
+    </Text>
+    <Text id="7" huntingZoneId="242" prevId="5" villagerId="1040">
+        <Page social="5" voiceTypeId="0">Nedisia sent you? Excellent. We've covered every corner of this level without finding anything.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, can you handle the Dagonite templars in the Chamber of Mighty Souls? And try to bring back some naga leather.&lt;NEXTPAGEBUTTON&gt;"Naga leather?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Yes. The skin is tough enough to make into armor, and has magical properties as well. It sells for a high price in Allemantheia.&lt;BR&gt;&lt;BR&gt;As long as you'll be fighting them anyway, there's no need to waste the opportunity for enriching the federation's coffers.</Page>
+    </Text>
+    <Text id="8" huntingZoneId="242" prevId="7" villagerId="1040">
+        <Page social="4" voiceTypeId="0">These are exactly what we need. And the money we receive from selling them will help the war effort. Well done, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="242" villagerId="1040">
+        <Page social="0">Have you brought the naga leather?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="242" prevId="8" villagerId="1038">
+        <Page social="5" voiceTypeId="0">Naga leather, she says. Yes, it's terribly expensive, but it won't make a dent in the cost of this war.&lt;BR&gt;&lt;BR&gt;But I believe the Cerulean Gem is here in this temple. It's not only the most valuable thing we could hope to find, but the mekonaris think it will speed up the process of Dagon's resurrection. That means we must keep it away from them.&lt;BR&gt;&lt;BR&gt;There may be more treasure, also. Keep your eyes open.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="242" prevId="10" villagerId="1038">
+        <Page social="4" voiceTypeId="0">Look at these! Magnificent! Worth billions of pieces of naga leather.&lt;BR&gt;&lt;BR&gt;In other news, my scout says the nagas have moved the Relic of Dagon into Dagon's Chantry. If that's true, they may be getting ready to resurrect him.&lt;BR&gt;&lt;BR&gt;We have to get that gem.&lt;NEXTPAGEBUTTON&gt;"What can I do?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">We're pretty sure Dagon's Chantry is at the very bottom of the temple, but we don't have any idea where.&lt;BR&gt;&lt;BR&gt;One of the mekonaris—Resaltuuk, the Priest of Renewal—has a book that tells the exact location. You'll probably have to take it from his corpse.</Page>
+    </Text>
+    <Text id="12" huntingZoneId="242" villagerId="1038">
+        <Page social="0">Let's see what's in here, shall we?</Page>
+    </Text>
+    <Text id="13" huntingZoneId="242" prevId="11" villagerId="1038">
+        <Page social="4" voiceTypeId="0">The Book of Rituals! Now we can find Dagon's Chantry!&lt;BR&gt;&lt;BR&gt;Yes, here. But it's shielded somehow.&lt;BR&gt;&lt;BR&gt;Look, it mentions the menhir in the central hall on the third level. Perhaps that's how they get in and out.&lt;BR&gt;&lt;BR&gt;Give it a try...but if and when you get inside, &lt;PCNAME&gt;, don't expect it to be easy. They'll have their most powerful warriors guarding that place. Take them out and search the room for that gem.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="242" villagerId="1038">
+        <Page social="0">The Book of Rituals. Do you have it yet?&lt;BR&gt;&lt;BR&gt;We can't find Dagon's Chantry without it.</Page>
+    </Text>
+    <Text id="15" huntingZoneId="242" prevId="13" villagerId="1038">
+        <Page social="4" voiceTypeId="0">So this is it: the Cerulean Gem. Worth all the riches in Allemantheia. And there's an undeniable power here, too. The Mysterium will be very interested.&lt;BR&gt;&lt;BR&gt;Now the federation will have the means to fight the argons, and we owe it to you, &lt;PCNAME&gt;. This was among the treasures we liberated, and I'd like you to have it. I hope you'll find some value in it.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="242" villagerId="1038">
+        <Page social="0">Did you find the Cerulean Gem? Was it there?</Page>
+    </Text>
+</QuestDialog>

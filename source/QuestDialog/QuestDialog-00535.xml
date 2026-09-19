@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="21" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="221" prevId="0" villagerId="1048">
+        <Page social="4">It seems the Kulkari have their own unique chain of command. Those {@LinkCreature:21#5#Crag Stalker Prophets} and {@LinkCreature:21#30#Crag Stalker shamans} over there are like the commanders.&lt;BR&gt;&lt;BR&gt;To the prophets and shamans, as well as the combatants under their control, the staves they carry around are holy. If we take their staves, we will effectively eliminate their objects of worship. &lt;BR&gt;&lt;BR&gt;Once their faith starts to falter, their will to fight will soon follow.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="221" prevId="2" villagerId="1048">
+        <Page social="4">Look over there! Unrest stewing among the Crag Stalkers, just as we planned! You've done an excellent job.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="221" villagerId="1048">
+        <Page social="0">The best way to break their morale in half is to eliminate the very objects they worship. You should perhaps hurry up.</Page>
+    </Text>
+</QuestDialog>

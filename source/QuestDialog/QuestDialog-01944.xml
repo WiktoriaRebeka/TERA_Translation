@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1704">
+        <Page social="4">I'm looking for a component for this machine, a small cogwheel. And when I say "small," I'm not kidding. It's so tiny that no ordinary artisan can make it.&lt;BR&gt;&lt;BR&gt;Only one place has such detail work: Lily in the Kingdom of Dwarves.&lt;BR&gt;&lt;BR&gt;If you defeat the forest guardians in Lily and talk to the village chief, he'll give you a small cogwheel. Please bring it to me safely.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="445" prevId="2" villagerId="122">
+        <Page social="4">Thank you, great &lt;PCCLASS:lcase&gt;, for getting rid of the forest guardians. Here, take this small cogwheel. And if you ever return to our kingdom, know that we'd appreciate help with the denizens of the forest.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1704">
+        <Page social="4">Yes, this is it! It fits perfectly!&lt;BR&gt;&lt;BR&gt;You know, if I had more cogwheels, I could miniaturize everything. Mini this! Mini that! My inventions would be the smallest around!</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" villagerId="1704">
+        <Page social="0">I need a small cogwheel. Please bring one from the dwarf instance dungeon.</Page>
+    </Text>
+</QuestDialog>

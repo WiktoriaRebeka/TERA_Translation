@@ -1,0 +1,17 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" voiceTypeId="0">Redorn would like to speak with you, if you have time to spare.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0">Redorn gave you some powerful accessories to complete your gear upgrade.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="183" prevId="1" villagerId="2033">
+        <Page social="0" voiceTypeId="0">&lt;pcname&gt;! It's been a long time!&lt;BR&gt;&lt;BR&gt;I heard you've been outfitted with new gear.&lt;BR&gt;&lt;BR&gt;Would you like some accessories as well?&lt;NEXTPAGEBUTTON&gt;"Yes, thank you!&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Excellent.&lt;BR&gt;&lt;BR&gt;Let's start you out with a Twistshard Belt!&lt;BR&gt;You'll need to tune it to your combat style, but you remember how that works, right? Select &lt;font color='#FF0000'&gt;superior enchantment effects&lt;/font&gt; whenever possible for maximum efficiency..</Page>
+    </Text>
+    <Text id="4" huntingZoneId="183" prevId="3" villagerId="2033">
+        <Page social="0" voiceTypeId="0">That belt looks great on you!&lt;BR&gt;&lt;BR&gt;Let me set you up with some more accessories: a necklace, earrings, and rings.&lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I've prepared a selection of good stuff for you. If you care about Crits, use Carving accessories. If you're focused on Power, pick Prospect.&lt;BR&gt;&lt;BR&gt;Whichever accessories you choose, you should know that just like your gear, they can be &lt;font color='#FF0000'&gt;upgraded&lt;/font&gt; to more powerful versions in the future.</Page>
+        <Page social="0" voiceTypeId="0">I hope you'll do well with your new accessories.</Page>
+    </Text>
+</QuestDialog>

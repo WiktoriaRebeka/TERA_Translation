@@ -1,0 +1,42 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="0">The elin princesses Rida and Arin were locked in a feud over heraldry. The dispute over the new design for a Popori Kingdom flag got ugly when Rida fled Pora Elinu and raised an army.&lt;BR&gt;&lt;BR&gt;Lienyn recruited you to resolve the dispute, as the queen was unavailable. Princess Arin wanted your help to brew a draught to compel Rida back to her side.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1102">
+        <Page social="4" voiceTypeId="0">Good to see you again, &lt;PCNAME&gt;. You've proven yourself to be capable and resourceful. Now we'll see if you can be delicate as well. The elin asked for you specifically for this mission.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
+        <Page social="4" voiceTypeId="0">There's a dispute between two royal princesses, Arin and Rida. The queen is communing with the goddess Seren and isn't available. The kingdom wants an outsider to help resolve this, to avoid a political nightmare.&lt;NEXTPAGEBUTTON&gt;"Is it that bad?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">If you ask me, it's already a political nightmare.&lt;BR&gt;&lt;BR&gt;Lienyn in Pora Elinu has the details.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="68" prevId="3" villagerId="1007">
+        <Page social="4" voiceTypeId="0">Greetings, &lt;PCNAME&gt;. Commander Seir speaks highly of your skills...and your discretion. I need someone to mediate a dispute between the royals. It's an internal matter, and requires an outside perspective.&lt;BR&gt;&lt;BR&gt;You're said to have a deft touch when it comes to sensitive matters.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Princesses Rida and Arin are arguing, and their disagreement has divided the kingdom. The queen would normally intervene, but she remains in seclusion and can't be disturbed.&lt;BR&gt;&lt;BR&gt;Speak with Princess Arin and hear her out...but try to sway her for the good of the kingdom! She won't give in easily, but if this were an easy task, we wouldn't need you.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="223" prevId="4" villagerId="1002">
+        <Page social="4" voiceTypeId="0">This is an internal matter, but your reputation has afforded you a few moments of my time. I can't imagine how you could make matters worse!&lt;BR&gt;&lt;BR&gt;We were designing a new flag for the kingdom. Rida, that...intractable bovine...Rida insists on a truly ridiculous symbol, while my design uses a more suitable one. The issue has divided the entire nation!&lt;NEXTPAGEBUTTON&gt;"You're fighting over art?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Not just art! Our nation's symbol!&lt;BR&gt;&lt;BR&gt;The officials voted to adopt my image. Princess Rida's simply stubborn. Not to mention the fact her symbol is a squirrel! So gauche.&lt;BR&gt;&lt;BR&gt;The fox is a clearly superior symbol and resonates with our people, our history...our cultural identity! How can we not stand firm on this matter?</Page>
+    </Text>
+    <Text id="6" huntingZoneId="223" prevId="5" villagerId="1002">
+        <Page social="4" voiceTypeId="0">The votes were clear. My symbol won by a full individual vote. It wasn't even close.&lt;BR&gt;&lt;BR&gt;It's not my fault the squirrel princess is nuts!&lt;BR&gt;&lt;BR&gt;When she lost the vote, she ran out of the assembly and went off on this foolish crusade. She's raising an army!&lt;BR&gt;&lt;BR&gt;We need to stand united, under one banner. The banner of my design, to be precise.&lt;NEXTPAGEBUTTON&gt;"What can I do to help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Well, first you can tell Rida she's being foolish and stubborn. Then you can help me make her a drink.&lt;BR&gt;&lt;BR&gt;If you bring me some &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7002#-38335.6172,46082.5313,1267.9902&amp;type=1&amp;name=Dewdrop Buds"&gt;dewdrop buds&lt;/A&gt;&lt;/FONT&gt;, I'll brew a dazzling cocktail. It tastes great and makes people much more receptive to suggestion. Simple!</Page>
+    </Text>
+    <Text id="7" huntingZoneId="223" prevId="6" villagerId="1002">
+        <Page social="4" voiceTypeId="0">Perfect! Now, we lack only something of Rida's, to help bind the effect to her.&lt;BR&gt;&lt;BR&gt;Don't look at me like that. This is my sister—I'd never hurt her!&lt;BR&gt;&lt;BR&gt;If you climb to the top of the tallest tree in eastern Pora Elinu, you'll find Sujai, Rida's maid. She should be able to obtain a &lt;b&gt;strand of Rida's hair&lt;/b&gt;. Bring that back to me and we'll be set!&lt;NEXTPAGEBUTTON&gt;"Why can't you go?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Because I am a princess and you are not. It would be beneath me because...because I'm a princess!&lt;BR&gt;&lt;BR&gt;Now, hurry along!</Page>
+    </Text>
+    <Text id="8" huntingZoneId="223" villagerId="1002">
+        <Page social="0">I just need those dewdrop buds, and this whole sordid affair is behind us once and for all! Now, off with you.</Page>
+    </Text>
+    <Text id="9" huntingZoneId="223" prevId="7" villagerId="1042">
+        <Page social="4" voiceTypeId="0">By Seren's tears, who are you?&lt;BR&gt;&lt;BR&gt;Did Arin send you? I can't take sides in this—I'm just a maid!&lt;BR&gt;&lt;BR&gt;A strand of hair? Of course I could get that, but I'd never do anything to harm Princess Rida! I'm a loyal daughter of the kingdom!&lt;NEXTPAGEBUTTON&gt;"No harm will come to her."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">Well, you have an honest face, and I want the princesses to stop arguing.&lt;BR&gt;&lt;BR&gt;It's just a flag! Seren guide us!&lt;BR&gt;&lt;BR&gt;As you wish, &lt;PCNAME&gt;. Take this bracelet—it's made of her hair. So long as you do her no harm, you have my permission to use it.</Page>
+    </Text>
+    <Text id="10" huntingZoneId="223" prevId="9" villagerId="1002">
+        <Page social="4" voiceTypeId="0">You have the hair! You are a skilled negotiator indeed, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Please, accept this reward with the thanks of a grateful princess.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="223" villagerId="1002">
+        <Page social="0" />
+    </Text>
+</QuestDialog>

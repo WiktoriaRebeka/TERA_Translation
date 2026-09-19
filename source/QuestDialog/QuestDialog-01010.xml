@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1037">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1037">
+        <Page social="5">We're in urgent need of antidotes here—naga claws are venomous and cause a most agonizing death.&lt;BR&gt;&lt;BR&gt;The adderfungus we need grow deep in the temple, but the {@LinkCreature:42#500#vigilant chikas} have kept me from most of them.&lt;BR&gt;&lt;BR&gt;I'd appreciate any help you can give in thinning their numbers a bit.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1037">
+        <Page social="5">Thank you. The gathering will go faster and easier now.</Page>
+    </Text>
+</QuestDialog>

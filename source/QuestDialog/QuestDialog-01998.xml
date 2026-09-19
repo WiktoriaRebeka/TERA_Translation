@@ -1,0 +1,39 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="702" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">You met Lein and Digory in Freeholds and received information about Rootstock.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="219" prevId="0" villagerId="7000">
+        <Page social="0">Around this time every year, we hold Rootstock to harvest the last of the winter vegetables before we till the fields again for the spring planting.&lt;BR&gt;&lt;BR&gt;There are lots of fun events, but cooking the fresh produce—and eating it—is the most fun, I think.&lt;BR&gt;&lt;BR&gt;Do you want to look around the farm first? We're particularly proud of our mudroots, here at Lein's Farm.&lt;BR&gt;&lt;BR&gt;Tell you what: If you bring me back a mudroot, I'll show you how to cook it.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="219" prevId="2" villagerId="7000">
+        <Page social="4">Oh, nice! That's a great mudroot! It would make a nice mudroot salad.&lt;BR&gt;&lt;BR&gt;You can make it with a salad bowl. Millia can show you how.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="219" villagerId="7000">
+        <Page social="0">Just bring one you like.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="219" prevId="3" villagerId="7006">
+        <Page social="4">The secret of cooking is using the right utensils.&lt;BR&gt;&lt;BR&gt;When you aren't sure which ones to use, just read the recipe.&lt;BR&gt;&lt;BR&gt;Here: Take this recipe and these ingredients, and make your own salad. It's easy as can be!</Page>
+    </Text>
+    <Text id="6" huntingZoneId="219" prevId="5" villagerId="7000">
+        <Page social="4">Are you sure this is your first mudroot salad? It looks like you've been making them all your life!&lt;BR&gt;&lt;BR&gt;Well, since you've mastered mudroot salad so quickly, I guess you're ready to move on to more challenging dishes!&lt;BR&gt;&lt;BR&gt;You'll find rare ingredients and recipes here and there all around the festival and the farms. Be sure to keep an eye out! &lt;NEXTPAGEBUTTON&gt;"What else is there to do at the fair?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Well, if cooking really isn't your thing, you could always go check out the Bamarama.&lt;BR&gt;&lt;BR&gt;Go talk to Lein. He'll give you all the details.</Page>
+    </Text>
+    <Text id="7" huntingZoneId="219" villagerId="7000">
+        <Page social="0">&lt;PCNAME&gt;, did you carefully follow the recipe I gave you?</Page>
+    </Text>
+    <Text id="8" huntingZoneId="219" prevId="6" villagerId="1030">
+        <Page social="4">Welcome! Welcome! Got tired of playing chef, eh? Well, you've come to the right place! The Bamarama is the best part of Rootstock.&lt;BR&gt;&lt;BR&gt;You can watch thrilling matches, and if you are lucky, you can make some money on it! The rules are very simple: Just pick a fighter, and if it wins its match, you win!&lt;BR&gt;&lt;BR&gt;And since this is your first time, I can be persuaded to give you a hint. Care to give it a try? &lt;NEXTPAGEBUTTON&gt;"I might—there's still a lot of the fair to see."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Not just yet? Well, okay. Come back whenever you like.&lt;BR&gt;&lt;BR&gt;If you're looking for something a little more hands-on, check out Digory's farm. And come back later!</Page>
+    </Text>
+    <Text id="9" huntingZoneId="219" prevId="8" villagerId="1009">
+        <Page social="4">Welcome to my farm!&lt;BR&gt;&lt;BR&gt;Care to try your hand—or should I say foot?—at kick-bale? Then you came to the right place!&lt;BR&gt;&lt;BR&gt;In this game, you kick as much straw as you can within the time limit—but don't kick it out of bounds!&lt;BR&gt;&lt;BR&gt;Want to kick one around until you get the hang of it? &lt;NEXTPAGEBUTTON&gt;"Maybe?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="10" huntingZoneId="219" prevId="9" villagerId="1009">
+        <Page social="4">What do you think? Harder than it looks, isn't it?&lt;BR&gt;&lt;BR&gt;Sure you don't want to play again? &lt;NEXTPAGEBUTTON&gt;"I'll come back later."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hehe, no worries.&lt;BR&gt;&lt;BR&gt;Say, &lt;PCNAME&gt;, have you met my little sister, Rachlae? She has a little sky lotus garden. You should ask her about it!</Page>
+    </Text>
+    <Text id="11" huntingZoneId="219" prevId="10" villagerId="7001">
+        <Page social="4">Oh, hello. Did my brother Digory send you?&lt;BR&gt;&lt;BR&gt;I'm afraid he was playing a little joke on you. Yes, I cultivate sky lotus...but my garden is up the steps here.&lt;BR&gt;&lt;BR&gt;Yeah, I know—it only grows at very high altitudes, but it's worth cultivating, because it makes everything taste so amazing.&lt;BR&gt;&lt;BR&gt;Here: You came all this way, so the least I can do is let you try some—even if you don't feel like gathering some yourself. &lt;NEXTPAGEBUTTON&gt;"Thank you."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    </Text>
+</QuestDialog>

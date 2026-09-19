@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="4">We're still unpacking from the move, and we don't have all our reference materials yet.&lt;BR&gt;&lt;BR&gt;Can you borrow a thaumaturgical book from the Collegium Arcane? They'll understand... professional courtesy and all that.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1712">
+        <Page social="4">This may be the book that Fitae wants.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="4">Exactly what I needed. Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Your help is getting us up to speed on our research quickly.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" villagerId="1702">
+        <Page social="0">The book is in Collegium Arcane. Sorry, no pictures. It's a grown-up book.</Page>
+    </Text>
+</QuestDialog>

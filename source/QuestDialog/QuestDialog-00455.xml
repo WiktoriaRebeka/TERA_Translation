@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1005">
+        <Page social="5">(This is a crate of federation rations and supplies. It's large enough to hold a month's worth of food for a whole unit.)</Page>
+    </Text>
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1007">
+        <Page social="5">What's that you—oh, these are them! These are the supplies! &lt;PCNAME&gt;, you're a hero!&lt;BR&gt;&lt;BR&gt;I knew it. I knew our goods were falling into the Cult's hands. If I find the person who signed for these....</Page>
+    </Text>
+</QuestDialog>

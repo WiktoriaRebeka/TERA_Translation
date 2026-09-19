@@ -1,0 +1,12 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1005">
+        <Page social="4">Lazy! Every last one of them! I think they purposely wander off to "take care of the archaeologists."&lt;BR&gt;&lt;BR&gt;Frankly, I hope the archaeologists get buried in ruins. Less of an annoyance to me.&lt;BR&gt;&lt;BR&gt;In the meantime, the {@LinkCreature:18#10#sentinel} and {@LinkCreature:18#12#warblade golems} keep cropping up everywhere. Get rid of them, and maybe I'll consider letting you join our group permanently.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1005">
+        <Page social="4">Well done.&lt;BR&gt;&lt;BR&gt;Full time employment? &lt;PCNAME&gt;, you should know that some people will tell you whatever it takes to get the job done.&lt;BR&gt;&lt;BR&gt;I'm one of them.</Page>
+    </Text>
+</QuestDialog>

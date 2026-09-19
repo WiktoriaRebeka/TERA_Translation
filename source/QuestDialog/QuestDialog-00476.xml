@@ -1,0 +1,16 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1022">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1022">
+        <Page social="4">We don't have much time, so let me get right to it.&lt;BR&gt;&lt;BR&gt;Kunchara told you he turned the kulkari with a spell. Well, he did cast a spell, but it didn't do the damage he thinks it did.&lt;BR&gt;&lt;BR&gt;As with too many things, blame falls to the cultists.&lt;NEXTPAGEBUTTON&gt;"But Tukarus..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Tukarus thought the same thing Kunchara did, but they were both wrong. I can't explain right now, but trust me.&lt;BR&gt;&lt;BR&gt;To make this right, I need blood from {@LinkCreature:18#21#Lokian skullcleavers} and {@LinkCreature:18#22#priests}.&lt;BR&gt;&lt;BR&gt;I'll fill you in on the rest when you get back.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1022">
+        <Page social="4">This is exactly what I needed. Thank you.&lt;BR&gt;&lt;BR&gt;The explanation? Oh, no. I'm still far too busy. Another time, though. Really.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="218" villagerId="1022">
+        <Page social="0">The longer you stand here, the more the cultists can advance their plots.</Page>
+    </Text>
+</QuestDialog>

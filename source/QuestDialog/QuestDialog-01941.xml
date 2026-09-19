@@ -1,0 +1,106 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="607" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="1702">
+        <Page social="4">"A book is more powerful than any weapon," says an old proverb. Read books and teach yourself about a wiser life.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="1709">
+        <Page social="4">&lt;font color='#0000FF'&gt;Allemantheia&lt;/font&gt; is the city of magic built by the high elves. (Details omitted.)&lt;BR&gt;&lt;BR&gt;To control the energy from the &lt;font color='#0000FF'&gt;Flower of Life&lt;/font&gt;, &lt;font color='#0000FF'&gt;Serion&lt;/font&gt; created—and became—the Core. (Details omitted.)&lt;BR&gt;&lt;BR&gt;The &lt;font color='#0000FF'&gt;Core&lt;/font&gt; supplies the high elves with an unlimited supply of mana. (Details omitted.)</Page>
+    </Text>
+    <Text id="4" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="4">Finish studying already? You must be smarter than you look.&lt;BR&gt;&lt;BR&gt;Get ready to take a test. We do a lot of tests around here.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="6" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="7" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="8" huntingZoneId="72" prevId="3" villagerId="1702">
+        <Page social="0" />
+    </Text>
+    <Text id="9" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">Who created the Core?</Page>
+    </Text>
+    <Text id="10" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">Bingo! You didn't just skip the reading.&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, you did. I expected nothing less.</Page>
+    </Text>
+    <Text id="11" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">He's an important figure, but not the right answer.&lt;NEXTPAGEBUTTON&gt;"I might have, um, skimmed the book."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Go back to Collegium Arcane and study harder, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="12" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">I'm sorry, but the Flower of Life held the energy that the Core now holds.&lt;NEXTPAGEBUTTON&gt;"I should study more."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, you should indeed study harder.</Page>
+    </Text>
+    <Text id="13" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">She isn't the right answer.&lt;NEXTPAGEBUTTON&gt;"Was that really in the book?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">It's all in the book. Go back to Collegium Arcane and read it again.</Page>
+    </Text>
+    <Text id="14" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">Where do High Elves get their mana from?</Page>
+    </Text>
+    <Text id="15" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">The Flower of Life was once a power source, but it is no more.&lt;NEXTPAGEBUTTON&gt;"Can I guess again?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, guess again—after you go to Collegium Arcane and read the book.</Page>
+    </Text>
+    <Text id="16" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">Bingo!&lt;BR&gt;You studied hard, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, you did. Success as expected!</Page>
+    </Text>
+    <Text id="17" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">These are not supposed to be difficult, &lt;PCNAME&gt;!&lt;NEXTPAGEBUTTON&gt;"I'll study harder."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">See that you do. Go back to Collegium Arcane.</Page>
+    </Text>
+    <Text id="18" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">Serion is the high elf who created the Core—by becoming the Core.&lt;NEXTPAGEBUTTON&gt;"I will study more."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, go back to Collegium Arcane, and pay attention this time.</Page>
+    </Text>
+    <Text id="19" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">Here's an easy one; the answer is all around you. High elves built this city of magic on the continent of Shara. What's the name of this city?</Page>
+    </Text>
+    <Text id="20" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">No, that's not it at all.&lt;NEXTPAGEBUTTON&gt;"I'll pay more attention next time."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Hit the books! Go back to Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">He's an important figure, but not the right answer.&lt;NEXTPAGEBUTTON&gt;"I should have taken notes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Use whatever study technique you like, but go back to Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">A simple question, and a correct answer.&lt;NEXTPAGEBUTTON&gt;"Did I get it right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, you did. You're a quick study.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">That's not just incorrect. It's unbelievably wrong!&lt;NEXTPAGEBUTTON&gt;"Can it be an open-book test?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">No, you must study and remember. Go back to Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="24" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">Serion stored energy from here within the Core. Where did the energy come from?</Page>
+    </Text>
+    <Text id="25" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">That's the name of an elf. Are you just guessing?&lt;NEXTPAGEBUTTON&gt;"Incorrectly, it seems."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">We prefer certainty to guesswork. Go back to Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="26" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">He's an important figure, but not the right answer.&lt;NEXTPAGEBUTTON&gt;"Do I get a second chance?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Yes, after you go back to Collegium Arcane and study the book again.</Page>
+    </Text>
+    <Text id="27" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">Your ignorance leaves me speechless! Well, nearly speechless...&lt;NEXTPAGEBUTTON&gt;"I can do better!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">You'll have your chance. Go back to Collegium Arcane and study harder.</Page>
+    </Text>
+    <Text id="28" huntingZoneId="72" prevId="4" villagerId="1702">
+        <Page social="0">Your answer matches the truth.&lt;NEXTPAGEBUTTON&gt;"I got it right?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Indeed, you were correct.</Page>
+    </Text>
+    <Text id="29" huntingZoneId="72" prevId="24" villagerId="1702">
+        <Page social="4">Keep studying hard, &lt;PCNAME&gt;. You'll become a great theoretician one day.</Page>
+    </Text>
+</QuestDialog>

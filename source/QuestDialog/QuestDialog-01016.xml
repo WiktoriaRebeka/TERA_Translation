@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="42" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="242" prevId="0" villagerId="1006">
+        <Page social="5">Reports from the second level tell of tall, black-feathered beings working with the naga. Am I the only one who's thinking mekonari? Of all the things we didn't need....&lt;BR&gt;&lt;BR&gt;Kill one of these {@LinkCreature:42#1010#black-feathered things} and bring me a souvenir, will you? We need to know for sure what we're up against.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="242" prevId="2" villagerId="1006">
+        <Page social="4">Mekonari, just as I suspected. But why are they here? I wish I knew more about them. I should have paid better attention at the academy. Go back and hunt {@LinkCreature:42#1010#mekonari} until you find out. I'll make it worth your while, of course.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="242" villagerId="1006">
+        <Page social="0">What are the mekonari up to? Have you found out yet?</Page>
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1005">
+        <Page social="4">I'm not the only one who needs your help. Several peddlers got stuck in Blood Run. Their wagons are stolen or wrecked, but the peddlers could still get their goods to Crescentia if someone would escort them.&lt;BR&gt;&lt;BR&gt;Even a little shipment would be a real relief. You're looking for the {@LinkCreature:203#1028#peddler} east of here. Hurry up and don't let him die!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="3" villagerId="25">
+        <Page social="0">I've got some basic foodstuffs and medicines but the devas will cut me down. Can you see me safely to Crescentia?</Page>
+    </Text>
+    <Text id="4" huntingZoneId="59" prevId="2" villagerId="1011">
+        <Page social="4">Outstanding. A simple thing like a pack full of goods brings so much hope at a time like this. That's just the sort of sign we've been waiting for.&lt;BR&gt;&lt;BR&gt;Speak with Magistrate Corann. I'm sure he wants to sing your praises.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="59" prevId="4" villagerId="1001">
+        <Page social="4">You're &lt;PCNAME&gt;? The tribune spoke highly of you. Thank you for escorting that merchant to safety. I don't have to tell you how heartening such little victories can be.&lt;BR&gt;&lt;BR&gt;Crescentia's enduring a dark time right now, but we'll get through it. Thank you.</Page>
+    </Text>
+</QuestDialog>

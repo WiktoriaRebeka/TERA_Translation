@@ -1,0 +1,11 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="2003" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="2003" prevId="0" villagerId="131">
+        <Page social="0">The Draakon Pursuers. We must take them down.&lt;BR&gt;&lt;BR&gt;Be careful though. They're known to be the most furious of them all. We'll find the engine room in no time with them gone.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="3" huntingZoneId="2003" prevId="1" villagerId="131">
+        <Page social="0">You've took care of the pursuers! Nicely done.&lt;BR&gt;This way should be the way down to the engine room.</Page>
+    </Text>
+</QuestDialog>
