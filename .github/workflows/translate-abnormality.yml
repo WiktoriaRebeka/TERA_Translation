@@ -1,0 +1,81 @@
+name: Translate TERA Abnormality
+
+# Tooltipy buffow/debuffow. name= zostaje EN. Kind (Benefit) compact lokalnie.
+on:
+  workflow_dispatch:
+    inputs:
+      input_path:
+        description: "Folder source/StrSheet_Abnormality albo jeden XML"
+        required: true
+        default: "source/StrSheet_Abnormality"
+      start:
+        description: "Pomin pierwsze N plikow"
+        required: false
+        default: "0"
+      count:
+        description: "Ile plikow. 0 = wszystkie"
+        required: false
+        default: "0"
+      batch_size:
+        description: "Ile unikalnych tooltipow na zapytanie Gemini"
+        required: false
+        default: "20"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-abnormality
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj biblioteki
+        run: pip install -r requirements.txt
+
+      - name: Przetlumacz Abnormality
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python translate_abnormality.py "${{ inputs.input_path }}" \
+            --output-dir output/StrSheet_Abnormality \
+            --start "${{ inputs.start }}" \
+            --count "${{ inputs.count }}" \
+            --batch-size "${{ inputs.batch_size }}"
+
+      - name: Compact AbnormalityKind
+        if: always()
+        run: |
+          python translate_abnormality.py source/StrSheet_AbnormalityKind \
+            --output-dir output/StrSheet_AbnormalityKind
+
+      - name: Sprawdz jakosc
+        if: always()
+        continue-on-error: true
+        run: python check_abnormality.py output/StrSheet_Abnormality
+
+      - name: Zapisz wynik do repozytorium
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output cache || true
+          if git diff --staged --quiet; then
+            echo "Brak zmian do zapisania."
+          else
+            git commit -m "Tlumaczenie Abnormality pack start=${{ inputs.start }} count=${{ inputs.count }}"
+            git pull --rebase
+            git push
+          fi
