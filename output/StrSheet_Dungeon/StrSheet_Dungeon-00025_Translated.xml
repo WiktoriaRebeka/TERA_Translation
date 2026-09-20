@@ -1,0 +1,31 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="30200001" string="The Pirate Ship approaches!/&amp;#161;El barco pirata se acerca!" />
+    <String id="30200002" string="We can't afford to lose the map! Get rid of them!/&amp;#161;No podemos darnos el lujo de perder el mapa! &amp;#161;Desh&amp;#225;ganse de ellos!" />
+    <String id="30200006" string="Eliminated all enemies!/&amp;#161;Todos los enemigos eliminados!" styleId="66" />
+    <String id="30200007" string="Pirate's Golden Treasure Chest/Cofre del tesoro dorado pirata" styleId="67" />
+    <String id="30200008" string="Receive your reward on the deck./Recoge tu recompensa en la cubierta." styleId="66" />
+    <String id="30200009" string="Continue with the Voyage List./Contin&amp;#250;a con la lista de viaje." styleId="66" />
+    <String id="30209900" string="Deliver the map to Ronyn and start your voyage./Entr&amp;#233;gale el mapa a Ronyn y comienza tu viaje." styleId="66" />
+    <String id="30209901" string="Sea of Honor [Difficulty 1]./Mar de Honor [Dificultad 1]." styleId="66" />
+    <String id="30209902" string="Sea of Honor [Difficulty 2]./Mar de Honor [Dificultad 2]." styleId="66" />
+    <String id="30209903" string="Sea of Honor [Difficulty 3]./Mar de Honor [Dificultad 3]." styleId="66" />
+    <String id="30209904" string="Sea of Honor [Difficulty 4]./Mar de Honor [Dificultad 4]." styleId="66" />
+    <String id="30209905" string="Sea of Honor [Difficulty 5]./Mar de Honor [Dificultad 5]." styleId="66" />
+    <String id="30209100" string="Random Effect 1 activates./Efecto aleatorio 1 se activa." styleId="66" />
+    <String id="30209101" string="Mana Plunder/Robo de man&amp;#225;" styleId="67" />
+    <String id="30209102" string="Mana decreases when attacked by monsters./El man&amp;#225; disminuye al ser atacado por monstruos." styleId="66" />
+    <String id="30209103" string="Deep Wound/Herida profunda" styleId="67" />
+    <String id="30209104" string="If attacked by a monster, healing efficiency decreases./Si te ataca un monstruo, la eficacia de curaci&amp;#243;n disminuye." styleId="66" />
+    <String id="30209105" string="" styleId="66" />
+    <String id="30209200" string="Random Effect 2 activates./Efecto aleatorio 2 se activa." styleId="66" />
+    <String id="30209201" string="Specter Strike/Golpe espectral" styleId="67" />
+    <String id="30209202" string="Lightning strikes a random target every 50 seconds./Un rayo golpea a un objetivo aleatorio cada 50 segundos." styleId="66" />
+    <String id="30209203" string="Sea Witch's Breath/Aliento de la bruja marina" styleId="67" />
+    <String id="30209204" string="Witch's Breath affects a random target every 50 seconds./El aliento de la bruja afecta a un objetivo aleatorio cada 50 segundos." styleId="66" />
+    <String id="30209301" string="Slippery Deck/Cubierta resbaladiza" styleId="67" />
+    <String id="30209302" string="Good Afternoon/Buenas tardes" styleId="67" />
+    <String id="30209303" string="Pearly Way/Camino perlado" styleId="67" />
+    <String id="30209311" string="Weather: Increases Movement Speed during battle./Clima: Aumenta la velocidad de movimiento durante el combate." styleId="66" />
+    <String id="30209312" string="Weather: Increases Attack Power./Clima: Aumenta el poder de ataque." styleId="66" />
+    <String id="30209313" string="Weather: Increases Defense./Clima: Aumenta la defensa." styleId="66" />
+</StrSheet_Dungeon>

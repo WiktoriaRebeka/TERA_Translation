@@ -1,0 +1,33 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="30291000" string="(not shown)/(no se muestra)" styleId="66" />
+    <String id="30292000" string="Sacrificial target selected./Objetivo sacrificial seleccionado." styleId="66" />
+    <String id="30291001" string="Nightmare Kalioth's Resistance I has ended./La Resistencia I de Nightmare Kalioth ha terminado." styleId="67" />
+    <String id="30291002" string="Nightmare Kalioth's Resistance II has ended./La Resistencia II de Nightmare Kalioth ha terminado." styleId="67" />
+    <String id="30293000" string="Enter your final words now./Di tus &amp;#250;ltimas palabras ahora." styleId="66" />
+    <String id="30293001" string="Mercy not found./Piedad no encontrada." styleId="66" />
+    <String id="30293002" string="Dispersing collected mana!/&amp;#161;Dispersando man&amp;#225; acumulado!" styleId="66" />
+    <String id="30293003" string="Escape option disabled./Opci&amp;#243;n de escape deshabilitada." styleId="66" />
+    <String id="30293004" string="Antaroth is collecting unstable mana./Antaroth est&amp;#225; recolectando man&amp;#225; inestable." styleId="67" />
+    <String id="30293005" string="Greatly empowered when mana is stabilized./Grandemente potenciado cuando el man&amp;#225; se estabiliza." styleId="67" />
+    <String id="30293006" string="Fatal error.../Error fatal..." styleId="66" />
+    <String id="30294000" string="The gates will close soon./Las puertas se cerrar&amp;#225;n pronto." styleId="67" />
+    <String id="30295000" string="Entering central administration zone. Security level increased./Entrando a la zona de administraci&amp;#243;n central. Nivel de seguridad aumentado." />
+    <String id="30295001" string="Please adhere to the security regulations for the facility and your own safety./Por favor, cumpla con las normativas de seguridad de la instalaci&amp;#243;n y por su propia seguridad." />
+    <String id="30295002" string="Now entering the restricted zone./Entrando a la zona restringida." />
+    <String id="30296000" string="Defeat Nightmare Ghergof with a summoned Lancer./Derrota a Nightmare Ghergof con un Lancer invocado." styleId="71" />
+    <String id="30296001" string="Destroy the Summoning Stone and summon a helper./Destruye la piedra de invocaci&amp;#243;n e invoca a un ayudante." styleId="71" />
+    <String id="30296002" string="Defeat Nightmare Kalioth with a summoned Lancer./Derrota a Nightmare Kalioth con un Lancer invocado." styleId="71" />
+    <String id="30296004" string="Defeat Nightmare Antaroth with a summoned Lancer./Derrota a Nightmare Antaroth con un Lancer invocado." styleId="71" />
+    <String id="30296005" string="Defeat Nightmare Ghergof with a summoned Priest./Derrota a Nightmare Ghergof con un Priest invocado." styleId="71" />
+    <String id="30296006" string="Defeat Nightmare Kalioth with a summoned Priest./Derrota a Nightmare Kalioth con un Priest invocado." styleId="71" />
+    <String id="30296007" string="Defeat Nightmare Antaroth with a summoned Priest./Derrota a Nightmare Antaroth con un Priest invocado." styleId="71" />
+    <String id="30296008" string="You can find Divine Pylons on both sides of the entrance. Destroy the pylons from within 10m when needed./Puedes encontrar Divine Pylons en ambos lados de la entrada. Destruye los pilonos desde una distancia de menos de 10m cuando sea necesario." styleId="71" />
+    <String id="30296009" string="You must defeat the Nameless Spectre to pass the passage./Debes derrotar a Nameless Spectre para pasar." styleId="71" />
+    <String id="30296010" string="The dungeon is now closed. Type '/reset' or use the 'Reset Instances' button in your Character Profile (P)./La mazmorra ya est&amp;#225; cerrada. Escribe '/reset' o usa el bot&amp;#243;n 'Reiniciar estancias' en tu perfil de personaje (P)." styleId="71" />
+    <String id="3029501" string="Attack while I use Infuriate!/&amp;#161;Ataca mientras uso Infuriate!" />
+    <String id="3029502" string="MORE AGGRO!/&amp;#161;M&amp;#193;S AGGRO!" />
+    <String id="3029503" string="I'll hold this thing off! Give it your best shot!/&amp;#161;Yo retendr&amp;#233; a esto! &amp;#161;Dad vuestro mejor golpe!" />
+    <String id="3029504" string="I've activated Adrenaline Rush and Guardian Shout! Attack!/&amp;#161;He activado Adrenaline Rush y Guardian Shout! &amp;#161;Atacad!" />
+    <String id="3029200" string="Use &lt;img src='img://__Icon_Items.Add_Extract_Potion_2_Tex' width='28' height='28'&gt;&lt;img src='img://__Icon_Items.potion10_Tex' width='28' height='28'&gt; battle solutions and &lt;img src='img://__Icon_Items.fallfestival_bulgogi_Tex' width='28' height='28'&gt;&lt;img src='img://__Icon_Items.noctan_Tex' width='28' height='28'&gt; additional items before combat./Usa battle solutions de &lt;img src='img://__Icon_Items.Add_Extract_Potion_2_Tex' width='28' height='28'&gt;&lt;img src='img://__Icon_Items.potion10_Tex' width='28' height='28'&gt; y objetos adicionales de &lt;img src='img://__Icon_Items.fallfestival_bulgogi_Tex' width='28' height='28'&gt;&lt;img src='img://__Icon_Items.noctan_Tex' width='28' height='28'&gt; antes del combate." styleId="71" />
+    <String id="3029201" string="Battle solutions can be purchased from the &lt;font color = '#FFFF00'&gt;Training Dungeon Merchant&lt;/font&gt;./Las battle solutions se pueden comprar al &lt;font color = '#FFFF00'&gt;Training Dungeon Merchant&lt;/font&gt;." styleId="71" />
+</StrSheet_Dungeon>
