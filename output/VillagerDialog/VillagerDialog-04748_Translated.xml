@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1008" huntingZoneId="233" voiceTypeId="39" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="233" prevId="0" villagerId="1008" endSocial="14">
+        <Page social="4">[EN] What drove Kaidun insane still lingers here. Beware anything and everything you come across. Getting wounded is the least of the evils that hounds us here. The Red Mage's curse is nothing to take lightly.&lt;br&gt;[ES] Lo que volvi&amp;#243; loco a Kaidun a&amp;#250;n acecha aqu&amp;#237;. Cu&amp;#237;date de todo lo que te cruces en el camino. Salir herido es el menor de los males que nos persiguen aqu&amp;#237;. La maldici&amp;#243;n del Red Mage no es algo que debamos tomar a la ligera.</Page>
+    </Text>
+    <Text id="2" endSocial="5">
+        <Page social="0">[EN] Teleporting you to Thulsa's secret research facility is a simple task.&lt;TEXTBUTTON&gt;Revenge!&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to Thulsa's secret research facility.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] Teletransportarte a la instalaci&amp;#243;n de investigaci&amp;#243;n secreta de Thulsa es una tarea sencilla.&lt;TEXTBUTTON&gt;Revenge!&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to Thulsa's secret research facility.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

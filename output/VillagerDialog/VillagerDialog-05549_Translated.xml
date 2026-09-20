@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1104" huntingZoneId="252" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] I am alive thanks to you.&lt;BR&gt;&lt;BR&gt;Bless you. I was about to lose all hope...&lt;br&gt;[ES] Estoy vivo gracias a ti.&lt;BR&gt;&lt;BR&gt;Que Kaia te bendiga. Estaba a punto de perder toda esperanza...</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">[EN] We must recover the Furnace Controller! Hurry and deliver this news!&lt;br&gt;[ES] &amp;#161;Debemos recuperar el Furnace Controller! &amp;#161;Date prisa y lleva esta noticia!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4">[EN] Thulsa's Legion... &lt;BR&gt;&lt;BR&gt;The Divine Furnace... &lt;BR&gt;&lt;BR&gt;I wonder if Muhrak is safe...&lt;br&gt;[ES] La Legi&amp;#243;n de Thulsa... &lt;BR&gt;&lt;BR&gt;El Divine Furnace... &lt;BR&gt;&lt;BR&gt;Me pregunto si Muhrak estar&amp;#225; a salvo...</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4">[EN] I am ashamed... I was too afraid of dying and didn't even put up any resistance...&lt;br&gt;[ES] Qu&amp;#233; verg&amp;#252;enza tengo... Ten&amp;#237;a tanto miedo de morir que ni siquiera opuse resistencia...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] I don't want to die like this. Help!&lt;br&gt;[ES] No quiero morir as&amp;#237;. &amp;#161;Ayuda!</Page>
+    </Text>
+</VillagerDialog>

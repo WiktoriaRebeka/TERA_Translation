@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1019" huntingZoneId="472" voiceTypeId="39" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="5">[EN] Arrogance and complacency-old friends of mine.&lt;BR&gt;&lt;BR&gt;To be defeated by poison...shameful.&lt;br&gt;[ES] La arrogancia y la complacencia, viejas amigas m&amp;#237;as.&lt;BR&gt;&lt;BR&gt;Ser derrotado por veneno... qu&amp;#233; verg&amp;#252;enza.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] Don't fear for me. Make ready! They're coming!&lt;TEXTBUTTON&gt;"Are you all right?"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Defend Elleon.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] No temas por m&amp;#237;. &amp;#161;Prep&amp;#225;rate! &amp;#161;Ya vienen!&lt;TEXTBUTTON&gt;"Are you all right?"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Defend Elleon.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

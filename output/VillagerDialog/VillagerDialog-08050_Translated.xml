@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2006" huntingZoneId="2504" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You destroy the Control System here.&lt;BR&gt;Titus will destroy the other side.&lt;br&gt;[ES] T&amp;#250; destruye el Control System aqu&amp;#237;.&lt;BR&gt;Titus destruir&amp;#225; el otro lado.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I will destroy the Main Control System.&lt;BR&gt;Meet me there when you are done!&lt;br&gt;[ES] &amp;#161;Yo destruir&amp;#233; el Main Control System!&lt;BR&gt;&amp;#161;Re&amp;#250;nete conmigo all&amp;#237; cuando termines!</Page>
+    </Text>
+</VillagerDialog>

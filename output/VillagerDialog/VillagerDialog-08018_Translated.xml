@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3001" huntingZoneId="2502" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We&amp;#8217;d better hurry.&lt;br&gt;[ES] M&amp;#225;s nos vale darnos prisa.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We&amp;#8217;re running late.&lt;BR&gt;Let&amp;#8217;s hurry.&lt;br&gt;[ES] Se nos hace tarde.&lt;BR&gt;D&amp;#225;ndisa prisa.</Page>
+    </Text>
+</VillagerDialog>

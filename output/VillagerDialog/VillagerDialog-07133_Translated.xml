@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2001" huntingZoneId="821" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] So persistent&amp;#8230;you need a vacation!&lt;br&gt;[ES] Qu&amp;#233; insistente... &amp;#161;necesitas unas vacaciones!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] As you wish.&lt;br&gt;[ES] Como desees.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Kill them!&lt;br&gt;[ES] &amp;#161; M&amp;#225;tenlos!</Page>
+    </Text>
+</VillagerDialog>

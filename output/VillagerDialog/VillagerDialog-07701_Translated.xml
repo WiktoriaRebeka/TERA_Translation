@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20810" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="1" voiceTypeId="0">[EN] Save me! Please!&lt;BR&gt;&lt;BR&gt;They dragged me here! Please!&lt;br&gt;[ES] &amp;#161;S&amp;#225;lvame! &amp;#161;Por favor!&lt;BR&gt;&lt;BR&gt;&amp;#161;Me arrastraron hasta aqu&amp;#237;! &amp;#161;Por favor!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll take these people out of here.&lt;br&gt;[ES] Sacar&amp;#233; a esta gente de aqu&amp;#237;.</Page>
+    </Text>
+</VillagerDialog>

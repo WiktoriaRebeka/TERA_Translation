@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1316" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] What is the meaning of this?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; significa esto?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Ha! Finally, some good news!&lt;br&gt;[ES] &amp;#161;Ja! &amp;#161;Por fin, buenas noticias!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You know as well as I do they don't have motives. For now, our top priority is to secure the the recovered territory.&lt;br&gt;[ES] T&amp;#250; sabes tan bien como yo que no tienen motivaciones. Por ahora, nuestra m&amp;#225;xima prioridad es asegurar el territorio recuperado.</Page>
+    </Text>
+</VillagerDialog>

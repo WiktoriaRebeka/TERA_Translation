@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3001" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Cough... so this is it...&lt;BR&gt;&lt;br&gt;[ES] Tos... &amp;#191;as&amp;#237; que este es el fin...?&lt;BR&gt;</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hey... over... here...&lt;br&gt;[ES] Oigan... por... aqu&amp;#237;...</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Urgh... ah...&lt;br&gt;[ES] Urg... ah...</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I won't make it. You... take care of yourself...&lt;br&gt;[ES] No lo lograr&amp;#233;. T&amp;#250;... cu&amp;#237;date...</Page>
+    </Text>
+</VillagerDialog>

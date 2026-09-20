@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="502" huntingZoneId="27" voiceTypeId="291" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] That was a close one.&lt;BR&gt;We should head back to the village now.&lt;BR&gt;We can take care of the butterflies after we make sure the villagers are safe.&lt;br&gt;[ES] Esa estuvo cerca.&lt;BR&gt;Deber&amp;#237;amos volver a la aldea ahora.&lt;BR&gt;Podemos encargarnos de las mariposas despu&amp;#233;s de asegurarnos de que los aldeanos est&amp;#233;n a salvo.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] Help is on the way!&lt;BR&gt;&lt;br&gt;[ES] &amp;#161;La ayuda est&amp;#225; en camino!&lt;BR&gt;</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] This way!&lt;BR&gt;&lt;br&gt;[ES] &amp;#161;Por aqu&amp;#237;!&lt;BR&gt;</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] Is this all that made it...?&lt;BR&gt;&lt;br&gt;[ES] &amp;#191;Es todo lo que logr&amp;#243; sobrevivir...?&lt;BR&gt;</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] This sound...? It must be...!&lt;BR&gt;&lt;br&gt;[ES] &amp;#191;Este sonido...? &amp;#161;Tiene que ser...!&lt;BR&gt;</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] This gives me no choice but to...!&lt;BR&gt;&lt;br&gt;[ES] &amp;#161;Esto no me deja otra opci&amp;#243;n m&amp;#225;s que...!&lt;BR&gt;</Page>
+    </Text>
+</VillagerDialog>

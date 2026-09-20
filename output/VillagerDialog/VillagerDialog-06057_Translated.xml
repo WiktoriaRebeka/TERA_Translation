@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1052" huntingZoneId="415" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">[EN] You don't look hurt. Not badly, anyway.&lt;br&gt;[ES] No te ves herido. No de gravedad, al menos.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] Stay alert! There could be anything on this island.&lt;br&gt;[ES] &amp;#161;Mantente alerta! Podr&amp;#237;a haber cualquier cosa en esta isla.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0">[EN] Hold on. Breathe deeply. That's it.&lt;br&gt;[ES] Espera. Respira hondo. As&amp;#237;.</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0">[EN] The horrors, the horrors.&lt;br&gt;[ES] Los horrores, los horrores.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] We just found medical supplies. Waterlogged, but usable.&lt;br&gt;[ES] Acabamos de encontrar suministros m&amp;#233;dicos. Empapados, pero utilizables.</Page>
+    </Text>
+</VillagerDialog>

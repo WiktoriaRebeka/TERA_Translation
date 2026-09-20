@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1002" huntingZoneId="213" voiceTypeId="66" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="213" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">[EN] Attend, &lt;PCCLASS:lcase&gt;! Even in this remote place, the federation keeps basic necessities in stock for you. Scrolls, bandages, crystals&amp;#8212;all cheap! What do you want?&lt;br&gt;[ES] &amp;#161;Atiende, &lt;PCCLASS:lcase&gt;! Incluso en este lugar remoto, la federaci&amp;#243;n tiene provisiones b&amp;#225;sicas en existencia para ti. Pergaminos, vendas, Crystal... &amp;#161;todo barato! &amp;#191;Qu&amp;#233; quieres?</Page>
+    </Text>
+</VillagerDialog>

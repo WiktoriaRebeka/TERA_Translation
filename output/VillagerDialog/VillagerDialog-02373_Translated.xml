@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1013" huntingZoneId="83" voiceTypeId="112" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="1013" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Bah! This isn't cold. Now, Kaiator...that's cold.&lt;br&gt;[ES] &amp;#161;Bah! Esto no es fr&amp;#237;o. Ahora, Kaiator... eso s&amp;#237; es fr&amp;#237;o.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I brought vegetables from storage.&lt;br&gt;[ES] traje verduras del almac&amp;#233;n.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Next, we add in some vegetables.&lt;br&gt;[ES] Siguiente, agregamos algunas verduras.</Page>
+    </Text>
+</VillagerDialog>

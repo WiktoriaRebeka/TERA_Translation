@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8101" huntingZoneId="509" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="127">[EN] This is my first day in Velika, and it is all so fascinating!&lt;br&gt;[ES] &amp;#161;Este es mi primer d&amp;#237;a en Velika, y todo es tan fascinante!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="127">[EN] Hah! Garom, look! Dancing! This is wonderful!&lt;br&gt;[ES] &amp;#161;Ja! &amp;#161;Garom, mira! &amp;#161;Baile! &amp;#161;Esto es maravilloso!</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="127">[EN] We should venture out of Highwatch more often.&lt;br&gt;[ES] Deber&amp;#237;amos aventurarnos fuera de Highwatch m&amp;#225;s seguido.</Page>
+    </Text>
+</VillagerDialog>

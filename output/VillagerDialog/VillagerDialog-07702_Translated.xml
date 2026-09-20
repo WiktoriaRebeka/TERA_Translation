@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22000" huntingZoneId="2001" voiceTypeId="43" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="43">[EN] Airene...&lt;br&gt;[ES] Airene...</Page>
+    </Text>
+    <Text id="101" endSocial="12">
+        <Page social="12" voiceTypeId="0">[EN] I can't even imagine how much pain these people have been through.&lt;br&gt;[ES] Ni siquiera puedo imaginar por cu&amp;#225;nto dolor ha pasado esta gente.</Page>
+    </Text>
+    <Text id="102" endSocial="4">
+        <Page social="4" voiceTypeId="0">[EN] I'll lead the villagers out.&lt;br&gt;[ES] Sacar&amp;#233; a los aldeanos de aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Everyone, follow me.&lt;br&gt;[ES] &amp;#161;S&amp;#237;ganme todos!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4201" huntingZoneId="509" voiceTypeId="25" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] What...? Was that the actual Goddess?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233;...? &amp;#191;Era esa la Diosa en persona?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] This banquet has been quite pleasant!&lt;br&gt;[ES] &amp;#161;Este banquete ha sido muy agradable!</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] Speech! Speech!&lt;br&gt;[ES] &amp;#161;Discurso! &amp;#161;Discurso!</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] I hope it's not too clich&amp;#233;.&lt;br&gt;[ES] Espero que no sea demasiado clich&amp;#233;.</Page>
+    </Text>
+</VillagerDialog>

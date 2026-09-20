@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2012" huntingZoneId="182" voiceTypeId="134" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="5" voiceTypeId="0">[EN] That is close enough, outlander! What do you want?&lt;br&gt;[ES] &amp;#161;Eso es suficientemente cerca, extranjero! &amp;#191;Qu&amp;#233; quieres?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Onward to Highwatch!&lt;br&gt;[ES] &amp;#161;Hacia Highwatch!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Keep your head down!&lt;br&gt;[ES] &amp;#161;Mant&amp;#233;n la cabeza baja!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The Parthian forces have blocked the road. When the Khirian resistance is ready to move, though, this siege engine will clear the blockage.&lt;br&gt;[ES] Las fuerzas parthianas han bloqueado el camino. Sin embargo, cuando la resistencia khiriana est&amp;#233; lista para avanzar, esta m&amp;#225;quina de asedio despejar&amp;#225; el bloqueo.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We should talk.&lt;br&gt;[ES] Deber&amp;#237;amos hablar.</Page>
+    </Text>
+</VillagerDialog>

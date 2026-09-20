@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22014" huntingZoneId="72" voiceTypeId="12" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I've gone over my records, and the name &lt;PCNAME&gt; does not appear. You have the wrong bank.&lt;br&gt;[ES] He revisado mis registros y el nombre &lt;PCNAME&gt; no aparece. Te equivocaste de banco.</Page>
+    </Text>
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You want us to hold onto something for you, friend?&lt;br&gt;[ES] &amp;#191;Quieres que te guardemos algo, amigo?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Do you have something in our vaults, friend? Or did you want to put something there?&lt;br&gt;[ES] &amp;#191;Tienes algo en nuestras b&amp;#243;vedas, amigo? &amp;#191;O quer&amp;#237;as guardar algo all&amp;#237;?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Greetings, friend. How may we serve you today?&lt;br&gt;[ES] Saludos, amigo. &amp;#191;C&amp;#243;mo podemos servirte hoy?</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] The bank is not currently open for business. We are busy building a more sophisticated form of society!&lt;br&gt;[ES] El banco no est&amp;#225; abierto al p&amp;#250;blico por el momento. &amp;#161;Estamos ocupados construyendo una forma de sociedad m&amp;#225;s sofisticada!</Page>
+    </Text>
+</VillagerDialog>

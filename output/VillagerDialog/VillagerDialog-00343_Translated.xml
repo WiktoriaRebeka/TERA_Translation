@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1162" huntingZoneId="27" voiceTypeId="291" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="291">[EN] Good to see you're back in one piece, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;It seems that you've solved the problem.&lt;BR&gt;&lt;BR&gt;I don't know what happened, but the butterflies aren't increasing anymore.&lt;BR&gt;&lt;BR&gt;The world is lucky to have you.&lt;br&gt;[ES] Qu&amp;#233; bueno verte de vuelta de una sola pieza, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Parece que has solucionado el problema.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; qu&amp;#233; pas&amp;#243;, pero las mariposas ya no siguen aumentando.&lt;BR&gt;&lt;BR&gt;El mundo tiene suerte de tenerte.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] I'll be on my way now, &lt;PCNAME&gt;.&lt;br&gt;[ES] Me pondr&amp;#233; en marcha ahora, &lt;PCNAME&gt;.</Page>
+    </Text>
+</VillagerDialog>

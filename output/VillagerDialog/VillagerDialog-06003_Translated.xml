@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5013" huntingZoneId="411" voiceTypeId="218" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] (This creature is busy.)&lt;br&gt;[ES] (Esta criatura est&amp;#225; ocupada.)</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Kyaut!&lt;br&gt;[ES] &amp;#161;Kyaut!</Page>
+    </Text>
+</VillagerDialog>

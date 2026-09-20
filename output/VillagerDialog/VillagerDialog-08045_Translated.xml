@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2000" huntingZoneId="2504" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You&amp;#8217;re finally here!&lt;BR&gt;I&amp;#8217;ve been waiting for so long!&lt;br&gt;[ES] &amp;#161;Por fin llegas!&lt;BR&gt;&amp;#161;He estado esperando por mucho tiempo!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Now, you go left, and I&amp;#8217;ll go right.&lt;BR&gt;Let&amp;#8217;s tear this place apart!&lt;br&gt;[ES] Ahora, t&amp;#250; ve a la izquierda y yo ir&amp;#233; a la derecha.&lt;BR&gt;&amp;#161;Destruyamos este lugar!</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Count on me to take care of this perfectly!&lt;br&gt;[ES] &amp;#161;Cuenta conmigo para encargarme de esto a la perfecci&amp;#243;n!</Page>
+    </Text>
+</VillagerDialog>

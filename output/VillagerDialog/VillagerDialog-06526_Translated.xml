@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2003" huntingZoneId="505" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Mommy...?&lt;br&gt;[ES] &amp;#191;Mami...?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Mom... where are you?&lt;br&gt;[ES] Mam&amp;#225;... &amp;#191;d&amp;#243;nde est&amp;#225;s?</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Mom... I'm scared...&lt;br&gt;[ES] Mam&amp;#225;... tengo miedo...</Page>
+    </Text>
+</VillagerDialog>

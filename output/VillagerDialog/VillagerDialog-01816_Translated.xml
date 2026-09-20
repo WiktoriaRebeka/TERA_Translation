@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1702" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="255">[EN] Smart individuals invest their time in study.&lt;BR&gt;&lt;BR&gt;Foolish individuals chase revelry and romance when they should be in the library.&lt;br&gt;[ES] Los individuos inteligentes invierten su tiempo en el estudio.&lt;BR&gt;&lt;BR&gt;Los individuos tontos persiguen la juerga y el romance cuando deber&amp;#237;an estar en la biblioteca.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="256">[EN] Now you're showing results. Keep up the good work&amp;#8212;our world needs more theoreticians!&lt;br&gt;[ES] &amp;#161;Ahora est&amp;#225;s mostrando resultados! Sigue con el buen trabajo; &amp;#161;nuestro mundo necesita m&amp;#225;s te&amp;#243;ricos!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="257">[EN] You've got the knowledge, and now it's time to use what you've learned to help others.&lt;br&gt;[ES] Tienes el conocimiento, y ahora es el momento de usar lo que has aprendido para ayudar a otros.</Page>
+    </Text>
+</VillagerDialog>

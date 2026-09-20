@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3001" huntingZoneId="2504" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Let&amp;#8217;s install the bomb and get out of here!&lt;br&gt;[ES] &amp;#161;Instalemos la bomba y largu&amp;#233;monos de aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Drat, this isn&amp;#8217;t easy.&lt;BR&gt;Can you lend me a hand?&lt;br&gt;[ES] Maldici&amp;#243;n, esto no es f&amp;#225;cil.&lt;BR&gt;&amp;#191;Me echas una mano?</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I will finish it up.&lt;BR&gt;You go help Elleon.&lt;br&gt;[ES] Yo terminar&amp;#233; con esto.&lt;BR&gt;Ve a ayudar a Elleon.</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Alright!&lt;BR&gt;Now, we just need to finish&amp;#8212;mm?!&lt;br&gt;[ES] &amp;#161;Muy bien!&lt;BR&gt;Ahora solo necesitamos terminar&amp;#8212;&amp;#161;&amp;#191;mm?!</Page>
+    </Text>
+</VillagerDialog>

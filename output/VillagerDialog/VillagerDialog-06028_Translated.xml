@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="415" voiceTypeId="116" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3" voiceTypeId="0">[EN] Let's claim this island for the Valkyon Federation!&lt;br&gt;[ES] &amp;#161;Reclamemos esta isla para la Valkyon Federation!</Page>
+    </Text>
+    <Text id="2" endSocial="3">
+        <Page social="3" voiceTypeId="0">[EN] For Elleon! For Valkyon!&lt;br&gt;[ES] &amp;#161;Por Elleon! &amp;#161;Por Valkyon!</Page>
+    </Text>
+</VillagerDialog>

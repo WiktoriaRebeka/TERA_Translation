@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="509" voiceTypeId="16" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="16">[EN] May I see your invitation?&lt;BR&gt;&lt;br&gt;[ES] &amp;#191;Puedo ver tu invitaci&amp;#243;n?&lt;BR&gt;</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="16">[EN] You need an invitation to attend the banquet.&lt;BR&gt;&lt;br&gt;[ES] Necesitas una invitaci&amp;#243;n para asistir al banquete.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="16">[EN] The end of the world, right now? When there's an event celebrating peace? That's just absurd...&lt;BR&gt;&lt;br&gt;[ES] &amp;#191;El fin del mundo, ahora mismo? &amp;#191;Cuando hay un evento celebrando la paz? Eso es simplemente absurdo...&lt;BR&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10100" huntingZoneId="2500" voiceTypeId="273" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="273">[EN] Thank you.&lt;BR&gt;&lt;BR&gt;Because of you, we've earned a chance at a new life.&lt;br&gt;[ES] Gracias.&lt;BR&gt;&lt;BR&gt;Gracias a ti, nos hemos ganado la oportunidad de una nueva vida.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Zolyn and I are getting acclimated to the New World.&lt;br&gt;[ES] Zolyn y yo nos estamos aclimatando al Nuevo Mundo.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Because you saved us...&lt;br&gt;[ES] Porque nos salvaste...</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Ah! hello, Zolyn!&lt;br&gt;[ES] &amp;#161;Ah! &amp;#161;Hola, Zolyn!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Thank you so much.&lt;br&gt;[ES] Muchas gracias.</Page>
+    </Text>
+</VillagerDialog>

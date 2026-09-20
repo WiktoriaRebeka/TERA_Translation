@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1004" huntingZoneId="60" voiceTypeId="3" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="60" prevId="0" villagerId="1004" endSocial="14">
+        <Page social="4">[EN] Lighten your load, &lt;PCCLASS:lcase&gt;!&lt;br&gt;[ES] &amp;#161;Aligera tu peso, &lt;PCCLASS:lcase&gt;!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1004" endSocial="14">
+        <Page social="4">[EN] The faeries taught us to log responsibly, to plant a tree for every one we harvested. Now they teach us to fear&amp;#8212;and to seek revenge.&lt;br&gt;[ES] Las faeries nos ense&amp;#241;aron a talar de forma responsable, a plantar un &amp;#225;rbol por cada uno que cort&amp;#225;bamos. Ahora nos ense&amp;#241;an a temer... y a buscar venganza.</Page>
+    </Text>
+</VillagerDialog>

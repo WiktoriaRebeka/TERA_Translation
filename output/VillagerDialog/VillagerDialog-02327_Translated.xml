@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1026" huntingZoneId="81" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="81" prevId="0" villagerId="1026" endSocial="14">
+        <Page social="4">[EN] I'm heartened to see so many souls aiding the fey in our time of need.&lt;br&gt;[ES] Me anima ver tantas almas ayudando a las fey en nuestro momento de necesidad.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Unn... I feel better now... Am I truly better?&lt;br&gt;[ES] Mnn... Me siento mejor ahora... &amp;#191;De verdad estoy mejor?</Page>
+    </Text>
+</VillagerDialog>

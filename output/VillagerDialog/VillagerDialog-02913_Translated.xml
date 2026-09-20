@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2010" huntingZoneId="172" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I, uh, don't suppose you could help a simple traveler?&lt;br&gt;[ES] Yo, eh, supongo que no podr&amp;#237;as ayudar a un simple viajero.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] What? Rhodos? The archdevas will pay much to learn your location!&lt;br&gt;[ES] &amp;#191;Qu&amp;#233;? &amp;#191;Rhodos? &amp;#161;Los archdevas pagar&amp;#225;n mucho por saber tu ubicaci&amp;#243;n!</Page>
+    </Text>
+</VillagerDialog>

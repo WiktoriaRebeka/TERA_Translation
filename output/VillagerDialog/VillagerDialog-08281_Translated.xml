@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10002" huntingZoneId="3101" voiceTypeId="175" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="175">[EN] I nearly fainted watching that battle!&lt;BR&gt;&lt;BR&gt;You were brilliant!&lt;BR&gt;&lt;BR&gt;So, the queen was protecting her eggs! I'm sure that the pheromones she was putting off would have affected butterflies that are nowhere near the nest.&lt;br&gt;[ES] &amp;#161;Casi me desmayo viendo esa batalla!&lt;BR&gt;&lt;BR&gt;&amp;#161;Estuviste brillante!&lt;BR&gt;&lt;BR&gt;&amp;#161;As&amp;#237; que la reina estaba protegiendo sus huevos! Estoy seguro de que las feromonas que emit&amp;#237;a habr&amp;#237;an afectado a mariposas que est&amp;#225;n muy lejos del nido.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'm glad you're okay, &lt;PCNAME&gt;.&lt;br&gt;[ES] Me alegra que est&amp;#233;s bien, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We have much more to learn, but what we have gathered so far is important as well.&lt;BR&gt;&lt;BR&gt;Let's get out of here and let Elleon know what we found.&lt;br&gt;[ES] Tenemos mucho m&amp;#225;s que aprender, pero lo que hemos reunido hasta ahora tambi&amp;#233;n es importante.&lt;BR&gt;&lt;BR&gt;Salgamos de aqu&amp;#237; y hag&amp;#225;mosle saber a Elleon lo que encontramos.</Page>
+    </Text>
+</VillagerDialog>

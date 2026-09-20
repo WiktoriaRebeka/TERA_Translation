@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1012" huntingZoneId="249" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] (You see a stone grave with a single word written on it&amp;#8212;{@Creature:76#1011}.)&lt;br&gt;[ES] (Ves una tumba de piedra con una sola palabra escrita en ella: {@Creature:76#1011}).</Page>
+    </Text>
+</VillagerDialog>

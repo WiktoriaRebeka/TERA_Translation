@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1010" huntingZoneId="215" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="215" prevId="0" villagerId="1010" endSocial="14">
+        <Page social="4">[EN] We've not enough soldiers stationed here. Glad to have your help. More glad if you can get the federation to send more soldiers.&lt;br&gt;[ES] No tenemos suficientes soldados apostados aqu&amp;#237;. Me alegra tener tu ayuda. Me alegrar&amp;#237;a m&amp;#225;s si pudieras lograr que la federaci&amp;#243;n env&amp;#237;e m&amp;#225;s soldados.</Page>
+    </Text>
+    <Text id="99" huntingZoneId="215" prevId="0" villagerId="1010" endSocial="14">
+        <Page social="4" />
+    </Text>
+</VillagerDialog>

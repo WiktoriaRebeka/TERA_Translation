@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1002" huntingZoneId="63" voiceTypeId="14" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">[EN] Come in, come in! Please don't mind the mess&amp;#8212;I've been searching for something. I know I left it...right around...here....&lt;BR&gt;&lt;BR&gt;Anyway, can I help you?&lt;br&gt;[ES] &amp;#161;Pasen, pasen! Por favor, no le hagan caso al desorden; he estado buscando algo. S&amp;#233; que lo dej&amp;#233;... justo por... aqu&amp;#237;....&lt;BR&gt;&lt;BR&gt;De cualquier forma, &amp;#191;te puedo ayudar en algo?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">[EN] Something was wrong with this. I was fixing something. I know I was. What was it?&lt;BR&gt;&lt;BR&gt;Do you remember? Wait, you weren't even here yet. Oh dear....&lt;BR&gt;&lt;BR&gt;Did you need something?&lt;br&gt;[ES] Algo andaba mal con esto. Estaba arreglando algo. S&amp;#233; que lo estaba haciendo. &amp;#191;Qu&amp;#233; era?&lt;BR&gt;&lt;BR&gt;&amp;#191;Te acuerdas? Espera, t&amp;#250; ni siquiera estabas aqu&amp;#237; todav&amp;#237;a. Ay, cielos....&lt;BR&gt;&lt;BR&gt;&amp;#191;Necesitabas algo?</Page>
+    </Text>
+</VillagerDialog>

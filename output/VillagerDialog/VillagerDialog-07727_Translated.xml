@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="132" huntingZoneId="2002" voiceTypeId="293" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="4">
+        <Page social="4" voiceTypeId="293">[EN] What's the main ingredient of the poison?&lt;br&gt;[ES] &amp;#191;Cu&amp;#225;l es el ingrediente principal del veneno?</Page>
+    </Text>
+    <Text id="102" endSocial="4">
+        <Page social="4" voiceTypeId="293">[EN] How do you process the poison plant?&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo procesas la planta venenosa?</Page>
+    </Text>
+    <Text id="103" endSocial="4">
+        <Page social="4" voiceTypeId="293">[EN] Can you eat it?&lt;br&gt;[ES] &amp;#191;Se puede comer?</Page>
+    </Text>
+</VillagerDialog>

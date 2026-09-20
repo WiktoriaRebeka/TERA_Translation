@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5013" huntingZoneId="464" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Who are you? Are you here to rescue me?&lt;BR&gt;&lt;BR&gt;Excellent! It's good to have one more set of hands. For now, pick up a weapon. I'll explain later.&lt;br&gt;[ES] &amp;#191;Qui&amp;#233;n eres? &amp;#191;Est&amp;#225;s aqu&amp;#237; para rescatarme?&lt;BR&gt;&lt;BR&gt;&amp;#161;Excelente! Es bueno tener un par de manos m&amp;#225;s. Por ahora, toma un arma. Te lo explicar&amp;#233; m&amp;#225;s tarde.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Here they come! Get ready!&lt;TEXTBUTTON&gt;Get yourself ready.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Start Defending.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Aqu&amp;#237; vienen! &amp;#161;Prep&amp;#225;rense!&lt;TEXTBUTTON&gt;Get yourself ready.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Start Defending.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

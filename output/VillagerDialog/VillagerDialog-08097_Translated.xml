@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1007" huntingZoneId="3003" voiceTypeId="18" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="3003" prevId="0" villagerId="1007" endSocial="14">
+        <Page social="4">[EN] Please don't kill me. I am just a prisoner here. Please save me!&lt;br&gt;[ES] Por favor, no me mates. Solo soy un prisionero aqu&amp;#237;. &amp;#161;Por favor, s&amp;#225;lvame!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="3003" prevId="0" villagerId="1007" endSocial="12">
+        <Page social="9">[EN] Please trust me. I didn't do anything wrong!&lt;TEXTBUTTON&gt;Discerning...&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;You are lying.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] Por favor, conf&amp;#237;a en m&amp;#237;. &amp;#161;No hice nada malo!&lt;TEXTBUTTON&gt;Discerning...&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;You are lying.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

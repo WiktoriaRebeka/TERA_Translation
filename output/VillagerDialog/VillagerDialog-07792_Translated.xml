@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20000" huntingZoneId="2020" voiceTypeId="301" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="301">[EN] The Draakons here are heading someplace else.&lt;BR&gt;&lt;BR&gt;What could they be doing...&lt;br&gt;[ES] Los Draakons aqu&amp;#237; se dirigen a otra parte.&lt;BR&gt;&lt;BR&gt;Qu&amp;#233; estar&amp;#225;n haciendo...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Jelena! You need to take care of yourself!&lt;br&gt;[ES] &amp;#161;Jelena! &amp;#161;Tienes que cuidarte!</Page>
+    </Text>
+</VillagerDialog>

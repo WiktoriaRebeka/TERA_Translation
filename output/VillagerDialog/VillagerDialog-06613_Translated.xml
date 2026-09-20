@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8400" huntingZoneId="506" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="67">[EN] I worked late yesterday, so this banquet is my way of relaxing.&lt;br&gt;[ES] Trabaj&amp;#233; hasta tarde ayer, as&amp;#237; que este banquete es mi forma de relajarme.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="67">[EN] I want the play to start!&lt;br&gt;[ES] &amp;#161;Quiero que empiece la obra!</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="67">[EN] I wonder if there's time to grab a bite before the play starts...?&lt;br&gt;[ES] Me pregunto si habr&amp;#225; tiempo para comer algo antes de que empiece la obra...?</Page>
+    </Text>
+</VillagerDialog>

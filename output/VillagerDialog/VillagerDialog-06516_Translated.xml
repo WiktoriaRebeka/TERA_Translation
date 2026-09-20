@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1006" huntingZoneId="503" voiceTypeId="76" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="5">
+        <Page social="5" voiceTypeId="76">[EN] My job is to maintain good relations between the poporis and the federation. Not always easy, but never boring.&lt;BR&gt;&lt;BR&gt;I must report this to the queen of Pora Elinu.&lt;br&gt;[ES] Mi trabajo es mantener buenas relaciones entre los poporis y la federaci&amp;#243;n. No siempre es f&amp;#225;cil, pero nunca aburrido.&lt;BR&gt;&lt;BR&gt;Debo informarle esto a la reina de Pora Elinu.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] If that's true...Pora Elinu is in danger.&lt;br&gt;[ES] Si eso es verdad... Pora Elinu est&amp;#225; en peligro.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll let Zolyn know about this.&lt;br&gt;[ES] Le avisar&amp;#233; a Zolyn sobre esto.</Page>
+    </Text>
+</VillagerDialog>

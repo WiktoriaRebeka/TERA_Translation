@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220046" huntingZoneId="72" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Knowing your heart's desire will guide you in choosing a faction to join.&lt;BR&gt;&lt;BR&gt;If wealth is what drives you, you have something in common with the Free Traders Collective. Physical resilience is highly-prized in the Iron Order. The Enlightened Union leans toward the power that comes from having a solid reputation.&lt;br&gt;[ES] Conocer los deseos de tu coraz&amp;#243;n te guiar&amp;#225; al elegir una facci&amp;#243;n a la que unirte.&lt;BR&gt;&lt;BR&gt;Si la riqueza es lo que te impulsa, tienes algo en com&amp;#250;n con el Free Traders Collective. La resistencia f&amp;#237;sica es muy valorada en el Iron Order. El Enlightened Union se inclina hacia el poder que proviene de tener una reputaci&amp;#243;n s&amp;#243;lida.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] So, what's your heart's desire? Which faction's values match your own?&lt;br&gt;[ES] Entonces, &amp;#191;cu&amp;#225;les son los deseos de tu coraz&amp;#243;n? &amp;#191;Los valores de qu&amp;#233; facci&amp;#243;n coinciden con los tuyos?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] If you are not a Guild Master, I'm afraid I can't help you.&lt;br&gt;[ES] Si no eres un Maestro de Hermandad, me temo que no puedo ayudarte.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Our leaders should be either the boldest, the bravest, or the wisest. Which would you choose?&lt;br&gt;[ES] Nuestros l&amp;#237;deres deben ser los m&amp;#225;s audaces, los m&amp;#225;s valientes o los m&amp;#225;s sabios. &amp;#191;A cu&amp;#225;l elegir&amp;#237;as?</Page>
+    </Text>
+</VillagerDialog>

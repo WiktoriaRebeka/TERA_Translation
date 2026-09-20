@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1008" huntingZoneId="84" voiceTypeId="119" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] The argons are out there. Yes, they're destructive, but show no fear.&lt;BR&gt;&lt;BR&gt;You have something they don't... Honor.&lt;br&gt;[ES] Los argons est&amp;#225;n ah&amp;#237; afuera. S&amp;#237;, son destructivos, pero no muestres miedo.&lt;BR&gt;&lt;BR&gt;Tienes algo que ellos no tienen... Honor.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Remember. Argons show no fear and coddle no weakness!&lt;br&gt;[ES] Recuerda. &amp;#161;Los argons no muestran miedo ni consienten la debilidad!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Focus!&lt;br&gt;[ES] &amp;#161;Conc&amp;#233;ntrate!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] Are you off to battle? Fight well!&lt;br&gt;[ES] &amp;#191;Te diriges a la batalla? &amp;#161;Lucha bien!</Page>
+    </Text>
+</VillagerDialog>

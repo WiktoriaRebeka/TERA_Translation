@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220020" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I have nothing to say to the unenlightened.&lt;br&gt;[ES] No tengo nada que decirle a los no iluminados.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="61">[EN] Continue to improve yourself, and we shall see what we can do for one another.&lt;br&gt;[ES] Contin&amp;#250;a super&amp;#225;ndote a ti mismo y ya veremos qu&amp;#233; podemos hacer el uno por el otro.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You are clearly not familiar with enlightenment. Please go.&lt;br&gt;[ES] Es evidente que no est&amp;#225;s familiarizado con la iluminaci&amp;#243;n. Por favor, vete.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="61">[EN] You must acknowledge your heart's desire. If it is enlightenment you seek, then we can be friends.&lt;br&gt;[ES] Debes reconocer el deseo de tu coraz&amp;#243;n. Si lo que buscas es la iluminaci&amp;#243;n, entonces podemos ser amigos.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="61">[EN] The day fast approaches when enlightenment shall triumph over stubbornness and greed.&lt;br&gt;[ES] Se acerca r&amp;#225;pidamente el d&amp;#237;a en que la iluminaci&amp;#243;n triunfar&amp;#225; sobre la terquedad y la avaricia.</Page>
+    </Text>
+</VillagerDialog>

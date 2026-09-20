@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3002" huntingZoneId="506" voiceTypeId="25" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="22" voiceTypeId="25">[EN] Please help me get inside!&lt;BR&gt;I have an urgent message for the Commander!&lt;br&gt;[ES] &amp;#161;Por favor, ay&amp;#250;dame a entrar!&lt;BR&gt;&amp;#161;Tengo un mensaje urgente para el Comandante!</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="0" voiceTypeId="25">[EN] Please get me inside! It's vital I speak with the Commander!&lt;br&gt;[ES] &amp;#161;Por favor, d&amp;#233;jame entrar! &amp;#161;Es vital que hable con el Comandante!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="0" voiceTypeId="25">[EN] It's the end of the world! Please! Let me in!&lt;br&gt;[ES] &amp;#161;Es el fin del mundo! &amp;#161;Por favor! &amp;#161;D&amp;#233;jame entrar!</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] Velik... is it really the end for your city... the entire world...?&lt;BR&gt;&lt;br&gt;[ES] Velik... &amp;#191;es realmente el fin para tu ciudad... para el mundo entero...?&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] Is it... really the end...?&lt;br&gt;[ES] &amp;#191;Es... realmente el fin...?</Page>
+    </Text>
+    <Text id="6" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] Hello? Can you help me?&lt;br&gt;[ES] &amp;#191;Hola? &amp;#191;Puedes ayudarme?</Page>
+    </Text>
+</VillagerDialog>

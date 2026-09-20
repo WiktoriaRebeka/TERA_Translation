@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1002" huntingZoneId="64" voiceTypeId="66" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="64" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">[EN] Nature smiles on you! Need to store some supplies? Paw through your stash? Want to post a parcel? All services I provide!&lt;BR&gt;&lt;BR&gt;You got all of that?&lt;br&gt;[ES] &amp;#161;La naturaleza te sonr&amp;#237;e! &amp;#191;Necesitas almacenar algunos suministros? &amp;#191;Revisar tu alijo? &amp;#191;Quieres enviar un paquete? &amp;#161;Todos los servicios que ofrezco!&lt;BR&gt;&lt;BR&gt;&amp;#191;Entendiste todo eso?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">[EN] Nature sings your songs, &lt;PCNAME&gt;. The tall ones all speak of your deeds. You must be a tough nut to crack!&lt;br&gt;[ES] La naturaleza canta tus canciones, &lt;PCNAME&gt;. Los altos hablan de tus haza&amp;#241;as. &amp;#161;Debes ser un hueso duro de roer!</Page>
+    </Text>
+</VillagerDialog>

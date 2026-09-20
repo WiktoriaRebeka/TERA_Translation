@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="211" huntingZoneId="827" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="0">[EN] Hello again, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Emun was looking for you, near the village gate. Did you miss him?&lt;br&gt;[ES] Hola de nuevo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Emun te estaba buscando, cerca de la puerta de la aldea. &amp;#191;Te lo perdiste?</Page>
+    </Text>
+</VillagerDialog>

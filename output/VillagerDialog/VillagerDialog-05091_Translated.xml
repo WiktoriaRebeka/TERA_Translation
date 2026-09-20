@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="243" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="243" prevId="0" villagerId="1001" endSocial="0">
+        <Page social="0">[EN] You don't look like an ordinary &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;This is a battlefield overrun by argons. It's very dangerous here. Try not to get killed. Enough of us have died here already.&lt;br&gt;[ES] No pareces un &lt;PCCLASS:lcase&gt; com&amp;#250;n.&lt;BR&gt;&lt;BR&gt;Este es un campo de batalla invadido por argons. Es muy peligroso aqu&amp;#237;. Intenta que no te maten. Ya bastantes de los nuestros han muerto aqu&amp;#237;.</Page>
+    </Text>
+</VillagerDialog>

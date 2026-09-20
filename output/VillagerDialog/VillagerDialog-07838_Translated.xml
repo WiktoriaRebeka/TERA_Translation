@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20200" huntingZoneId="2101" voiceTypeId="95" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="95">[EN] Over here. I saw people caged here.&lt;br&gt;[ES] Por aqu&amp;#237;. Vi gente enjaulada aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;PCNAME&gt;! Hurry up!&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! &amp;#161;Date prisa!</Page>
+    </Text>
+</VillagerDialog>

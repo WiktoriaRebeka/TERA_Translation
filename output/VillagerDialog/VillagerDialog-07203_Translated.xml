@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4000101" huntingZoneId="830" voiceTypeId="167" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="167">[EN] Wow! &lt;PCNAME&gt;, you are indeed a true champion!&lt;BR&gt;&lt;BR&gt;Just listen to the audience cheer!&lt;BR&gt;&lt;BR&gt;You have to come back again sometime for another challenge!&lt;BR&gt;&lt;BR&gt;In the meantime, let me know when you're ready, and I will send you to Highwatch!&lt;br&gt;[ES] &amp;#161;Guau! &lt;PCNAME&gt;, &amp;#161;eres sin duda un verdadero campe&amp;#243;n!&lt;BR&gt;&lt;BR&gt;&amp;#161;Solo escucha c&amp;#243;mo vitorea el p&amp;#250;blico!&lt;BR&gt;&lt;BR&gt;&amp;#161;Tienes que volver alg&amp;#250;n d&amp;#237;a para otro desaf&amp;#237;o!&lt;BR&gt;&lt;BR&gt;Mientras tanto, av&amp;#237;same cuando est&amp;#233;s listo y te enviar&amp;#233; a Highwatch.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="4" voiceTypeId="167">[EN] I'm sorry, but the arena is unavailable right now.&lt;BR&gt;&lt;BR&gt;Please try again later.&lt;br&gt;[ES] Lo siento, pero la arena no est&amp;#225; disponible en este momento.&lt;BR&gt;&lt;BR&gt;Por favor, int&amp;#233;ntalo de nuevo m&amp;#225;s tarde.</Page>
+    </Text>
+</VillagerDialog>

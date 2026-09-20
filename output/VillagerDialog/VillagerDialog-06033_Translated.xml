@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1013" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">[EN] I was on watch this morning. Not a cloud in the sky, honest!&lt;br&gt;[ES] Estaba de guardia esta ma&amp;#241;ana. Ni una nube en el cielo, &amp;#161;lo juro!</Page>
+    </Text>
+    <Text id="2" endSocial="3">
+        <Page social="3">[EN] I can barely move.&lt;br&gt;[ES] Apenas puedo moverme.</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">[EN] Our lifeboat got swamped&amp;#8212;too many soldiers. Not exactly a problem anymore.&lt;br&gt;[ES] Nuestro bote salvavidas se aneg&amp;#243;; hab&amp;#237;a demasiados soldados. Ya no es exactamente un problema.</Page>
+    </Text>
+</VillagerDialog>

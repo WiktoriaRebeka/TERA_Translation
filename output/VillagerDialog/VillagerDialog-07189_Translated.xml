@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="226" huntingZoneId="827" voiceTypeId="282" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="282">[EN] &lt;PCNAME&gt;! I'm so glad you're here! Come stand by me.&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! &amp;#161;Me alegro mucho de que est&amp;#233;s aqu&amp;#237;! Ven a pararte junto a m&amp;#237;.</Page>
+    </Text>
+    <Text id="100" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] O Tiaran, rooted in sorrow, bathed in light,&lt;br&gt;[ES] Oh Tiaran, arraigado en la tristeza, ba&amp;#241;ado en luz,</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] And live in dreams, until the Dream is ended.&lt;br&gt;[ES] Y vive en sue&amp;#241;os, hasta que el Sue&amp;#241;o termine.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Through your miracles we gain our divine Sight.&lt;br&gt;[ES] A trav&amp;#233;s de tus milagros obtenemos nuestra Visi&amp;#243;n divina.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] With Sight we see the world the gods intended,&lt;br&gt;[ES] Con la Visi&amp;#243;n vemos el mundo que los dioses pretendieron,</Page>
+    </Text>
+    <Text id="200" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Ah&amp;#8230; I&amp;#8217;m dizzy&amp;#8230;&lt;br&gt;[ES] Ah... Estoy mareado...</Page>
+    </Text>
+</VillagerDialog>

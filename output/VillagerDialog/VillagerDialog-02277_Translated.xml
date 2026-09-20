@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1015" huntingZoneId="80" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="80" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">[EN] Most of us came here after money, honestly. Lot of relics lost in those woods.&lt;BR&gt;&lt;BR&gt;But Yedwin...he just doesn't quit, and it's kind of infectious. Sometimes he's the only ray of daylight in town.&lt;BR&gt;&lt;BR&gt;And he's right. I'd feel dirty if I cut and ran now.&lt;br&gt;[ES] La verdad es que la mayor&amp;#237;a de nosotros vino aqu&amp;#237; por dinero. Se han perdido muchas reliquias en esos bosques.&lt;BR&gt;&lt;BR&gt;Pero Yedwin... &amp;#233;l simplemente no se rinde, y es algo contagioso. A veces es el &amp;#250;nico rayo de sol en el pueblo.&lt;BR&gt;&lt;BR&gt;Y tiene raz&amp;#243;n. Me sentir&amp;#237;a sucio si huyera ahora.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Where are the reinforcements?&lt;br&gt;[ES] &amp;#191;D&amp;#243;nde est&amp;#225;n los refuerzos?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] This town's had enough.&lt;br&gt;[ES] Este pueblo ya ha tenido suficiente.</Page>
+    </Text>
+</VillagerDialog>

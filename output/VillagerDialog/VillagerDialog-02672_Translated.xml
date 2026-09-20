@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220044" huntingZoneId="84" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Don't tell anyone...but I like your alliance the best.&lt;br&gt;[ES] No se lo digas a nadie... pero tu alianza es la que m&amp;#225;s me gusta.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Are you ready to join? Will you choose the Free Traders Collective, who feel everyone should enjoy the wealth of noctenium? Or the sagacious fellowship of the Enlightened Union? Or the hard-core Iron Order?&lt;br&gt;[ES] &amp;#191;Est&amp;#225;s listo para unirte? &amp;#191;Elegir&amp;#225;s el Free Traders Collective, que cree que todos deben disfrutar de la riqueza del noctenium? &amp;#191;O la sagaz hermandad del Enlightened Union? &amp;#191;O la inflexible Iron Order?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Guildmasters seeking to join an alliance should seek me out.&lt;br&gt;[ES] Los maestros de hermandad que busquen unirse a una alianza deben buscarme.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] The federation has troubles. Don't you think it's time for new leadership?&lt;br&gt;[ES] La federaci&amp;#243;n tiene problemas. &amp;#191;No crees que es hora de un nuevo liderazgo?</Page>
+    </Text>
+</VillagerDialog>

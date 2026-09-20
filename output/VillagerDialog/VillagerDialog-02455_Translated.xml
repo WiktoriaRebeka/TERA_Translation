@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1060" huntingZoneId="84" voiceTypeId="176" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5">[EN] If you're out to make a profit, this is the place.&lt;BR&gt;&lt;BR&gt;A shrewd trader knows there's money to be made on either side of a transaction. Perhaps both!&lt;br&gt;[ES] Si buscas obtener ganancias, este es el lugar.&lt;BR&gt;&lt;BR&gt;Un comerciante astuto sabe que se puede ganar dinero a ambos lados de una transacci&amp;#243;n. &amp;#161;Tal vez en ambos!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] I do my best to get you your best!&lt;br&gt;[ES] &amp;#161;Hago lo mejor para conseguirte lo mejor!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Got anything to sell?&lt;br&gt;[ES] &amp;#191;Tienes algo para vender?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] Buying? Selling? I'll take care of it for you!&lt;br&gt;[ES] &amp;#191;Compras? &amp;#191;Vendes? &amp;#161;Yo me encargo de eso por ti!</Page>
+    </Text>
+</VillagerDialog>

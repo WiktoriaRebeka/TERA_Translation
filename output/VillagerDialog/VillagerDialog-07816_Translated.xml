@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20500" huntingZoneId="2100" voiceTypeId="43" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="43">[EN] Thank you for saving me! There are more people over there.&lt;br&gt;[ES] &amp;#161;Gracias por salvarme! Hay m&amp;#225;s personas por all&amp;#225;.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Let's get out of here.&lt;br&gt;[ES] Salgamos de aqu&amp;#237;.</Page>
+    </Text>
+</VillagerDialog>

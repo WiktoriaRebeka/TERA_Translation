@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220045" huntingZoneId="63" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Sorry&amp;#8212;I only process requests from guild masters who have yet to join an alliance.&lt;br&gt;[ES] Lo siento, solo proceso solicitudes de maestros de hermandad que a&amp;#250;n no se han unido a una alianza.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Which alliance strikes your heart's desire?&lt;BR&gt;&lt;BR&gt;The Free Traders Collective attracts money while the Enlightened Union attracts favor and reputation, and the Iron Order values combat above all.&lt;BR&gt;&lt;BR&gt;Just let me know, and I'll get you all signed up!&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; alianza se roba el deseo de tu coraz&amp;#243;n?&lt;BR&gt;&lt;BR&gt;El Free Traders Collective atrae dinero, mientras que el Enlightened Union atrae favor y reputaci&amp;#243;n, y el Iron Order valora el combate por encima de todo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Solo d&amp;#237;melo y te inscribir&amp;#233;!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Sorry, we only take applications from guild masters.&lt;br&gt;[ES] Lo siento, solo aceptamos solicitudes de maestros de hermandad.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Oh! We aren't quite ready for volunteers right now. Try back later.&lt;br&gt;[ES] &amp;#161;Oh! A&amp;#250;n no estamos listos para recibir voluntarios. Vuelve m&amp;#225;s tarde.</Page>
+    </Text>
+</VillagerDialog>

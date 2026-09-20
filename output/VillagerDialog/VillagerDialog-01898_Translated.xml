@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220080" huntingZoneId="72" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="72220080" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Hold on, there. This challenge is only for the boldest, the bravest, the wisest. Are you qualified?&lt;BR&gt;&lt;BR&gt;Entry to the Vault of Allies requires a full party containing five alliance members or higher (no cadets!) each with a vault ticket.&lt;br&gt;[ES] Espera un momento. Este desaf&amp;#237;o es solo para los m&amp;#225;s audaces, valientes y sabios. &amp;#191;Est&amp;#225;s calificado?&lt;BR&gt;&lt;BR&gt;La entrada a la Vault of Allies requiere un grupo completo de cinco miembros de la alianza o superior (&amp;#161;sin cadetes!), cada uno con un boleto de la c&amp;#225;mara.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I give access to the vault for Enlightened Union members.&lt;BR&gt;&lt;BR&gt;Entry to the Vault of Allies requires a full party containing five alliance members. Each alliance member needs a vault ticket, and the vault ticket is consumed when you use the teleportal.&lt;br&gt;[ES] Doy acceso a la c&amp;#225;mara a los miembros de Enlightened Union.&lt;BR&gt;&lt;BR&gt;La entrada a la Vault of Allies requiere un grupo completo que contenga cinco miembros de la alianza. Cada miembro de la alianza necesita un boleto de la c&amp;#225;mara, y este se consume al usar el teleportal.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] There's a change coming down the pike, friend. Campaigning will be a thing of the past. Soon, we'll choose our leaders based on their strength, or their skill, or the wisdom.&lt;br&gt;[ES] Se avecina un cambio, amigo. Las campa&amp;#241;as ser&amp;#225;n cosa del pasado. Pronto elegiremos a nuestros l&amp;#237;deres seg&amp;#250;n su fuerza, su habilidad o su sabidur&amp;#237;a.</Page>
+    </Text>
+</VillagerDialog>

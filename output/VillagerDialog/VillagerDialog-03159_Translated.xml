@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2024" huntingZoneId="183" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="127">[EN] Welcome to Highwatch, the cradle of knowledge!&lt;BR&gt;&lt;BR&gt;Your presence here can only mean that the roads are not entirely under the control of the Archdevan Imperial Army&amp;#8212;and that is good news indeed!&lt;br&gt;[ES] &amp;#161;Bienvenido a Highwatch, la cuna del conocimiento!&lt;BR&gt;&lt;BR&gt;&amp;#161;Tu presencia aqu&amp;#237; solo puede significar que los caminos no est&amp;#225;n completamente bajo el control del Archdevan Imperial Army, y eso es una muy buena noticia!</Page>
+    </Text>
+    <Text id="101" endSocial="4">
+        <Page social="4" voiceTypeId="127">[EN] You can activate your flying skill in the &amp;quot;riding skill&amp;quot; tab.&lt;br&gt;[ES] Puedes activar tu habilidad de vuelo en la pesta&amp;#241;a de &amp;quot;habilidades de equitaci&amp;#243;n&amp;quot;.</Page>
+    </Text>
+    <Text id="102" endSocial="4">
+        <Page social="4" voiceTypeId="127">[EN] Gear effects are in orange! That's the way of the Highwatch Guards!&lt;br&gt;[ES] &amp;#161;Los efectos del equipamiento est&amp;#225;n en naranja! &amp;#161;Ese es el estilo de los guardias de Highwatch!</Page>
+    </Text>
+</VillagerDialog>

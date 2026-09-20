@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3002" huntingZoneId="71" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5" voiceTypeId="248">[EN] I don't really have time for you. Step aside, please.&lt;br&gt;[ES] Realmente no tengo tiempo para ti. Ap&amp;#225;rtate, por favor.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="14" voiceTypeId="249">[EN] I can trust someone like you. You understand nature like we do.&lt;br&gt;[ES] Puedo confiar en alguien como t&amp;#250;. Entiendes la naturaleza como nosotros.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="5" voiceTypeId="250">[EN] You must be the guardian of this place! I have no doubt that the goddess Seren guided you here!&lt;br&gt;[ES] &amp;#161;Debes ser el guardi&amp;#225;n de este lugar! &amp;#161;No tengo duda de que la diosa Seren te gui&amp;#243; hasta aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="5" voiceTypeId="250">[EN] You must be the guardian of this place! I have no doubt that the goddess Seren guided you here!&lt;br&gt;[ES] &amp;#161;Debes ser el guardi&amp;#225;n de este lugar! &amp;#161;No tengo duda de que la diosa Seren te gui&amp;#243; hasta aqu&amp;#237;!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3002" huntingZoneId="77" voiceTypeId="82" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="252">[EN] You'd better stay away! My teeth are pretty sharp, I'll have you know!&lt;br&gt;[ES] &amp;#161;Es mejor que te alejes! Mis dientes son bastante afilados, &amp;#161;te lo advierto!</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="253">[EN] What is it?&lt;BR&gt;&lt;BR&gt;Do you have something to say to me?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; pasa?&lt;BR&gt;&lt;BR&gt;&amp;#191;Tienes algo que decirme?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="14" voiceTypeId="254">[EN] Wow! Can you play with me today? Huh? Let's play hide-and-seek, okay? Please?&lt;br&gt;[ES] &amp;#161;Guau! &amp;#191;Puedes jugar conmigo hoy? &amp;#191;Eh? Juguemos a las escondidas, &amp;#191;s&amp;#237;? &amp;#191;Por favor?</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="14" voiceTypeId="254">[EN] Wow! Can you play with me today? Huh? Let's play hide-and-seek, okay? Please?&lt;br&gt;[ES] &amp;#161;Guau! &amp;#191;Puedes jugar conmigo hoy? &amp;#191;Eh? Juguemos a las escondidas, &amp;#191;s&amp;#237;? &amp;#191;Por favor?</Page>
+    </Text>
+</VillagerDialog>

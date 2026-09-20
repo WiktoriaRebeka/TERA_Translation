@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220021" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="26">[EN] The work we do here is imperative.&lt;br&gt;[ES] El trabajo que hacemos aqu&amp;#237; es imperativo.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You should go find members of your own alliance. I'll bet they have lovely things to say.&lt;BR&gt;&lt;BR&gt;Shoo.&lt;br&gt;[ES] Deber&amp;#237;as ir a buscar a los miembros de tu propia alianza. Apuesto a que tienen cosas encantadoras que decir.&lt;BR&gt;&lt;BR&gt;Largo.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You should go find members of your own alliance. I'll bet they have lovely things to say.&lt;BR&gt;&lt;BR&gt;Shoo.&lt;br&gt;[ES] Deber&amp;#237;as ir a buscar a los miembros de tu propia alianza. Apuesto a que tienen cosas encantadoras que decir.&lt;BR&gt;&lt;BR&gt;Largo.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="26">[EN] Please join our alliance and come back again.&lt;br&gt;[ES] Por favor, &amp;#250;nete a nuestra alianza y regresa m&amp;#225;s tarde.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="26">[EN] Sorry, you'll have to come back later.&lt;br&gt;[ES] Lo siento, tendr&amp;#225;s que volver m&amp;#225;s tarde.</Page>
+    </Text>
+</VillagerDialog>

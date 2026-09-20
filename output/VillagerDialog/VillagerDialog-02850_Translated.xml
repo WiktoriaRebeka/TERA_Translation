@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="6025" huntingZoneId="152" voiceTypeId="273" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="273">[EN] Where are you, my dearest one?&lt;br&gt;[ES] &amp;#191;D&amp;#243;nde est&amp;#225;s, mi ser m&amp;#225;s querido?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Ah, okay, then!&lt;br&gt;[ES] &amp;#161;Ah, de acuerdo, entonces!</Page>
+    </Text>
+</VillagerDialog>

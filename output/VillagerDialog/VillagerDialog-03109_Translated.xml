@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1018" huntingZoneId="183" voiceTypeId="128" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="128">[EN] I am Falim, Halran's assistant. Halran has authorized me to speak on his behalf when he is occupied and should not be otherwise disturbed.&lt;br&gt;[ES] Soy Falim, el asistente de Halran. Halran me ha autorizado a hablar en su nombre cuando est&amp;#233; ocupado y no deba ser molestado.</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="4" voiceTypeId="128">[EN] We've been waiting for you.&lt;br&gt;[ES] Te hemos estado esperando.</Page>
+    </Text>
+</VillagerDialog>

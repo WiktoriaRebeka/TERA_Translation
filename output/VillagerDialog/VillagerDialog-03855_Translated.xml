@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1037" huntingZoneId="212" voiceTypeId="9" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Huh? Sorry... you surprised me.&lt;br&gt;[ES] &amp;#191;Eh? Lo siento... me asustaste.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] What did you do?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; hiciste?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Lok... forgive... me...!&lt;br&gt;[ES] &amp;#161;Lok... perd&amp;#243;name...!</Page>
+    </Text>
+</VillagerDialog>

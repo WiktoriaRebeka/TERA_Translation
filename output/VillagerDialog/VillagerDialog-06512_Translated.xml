@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1002" huntingZoneId="503" voiceTypeId="135" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="135">[EN] These so-called Demokrons are appearing all over the land.&lt;BR&gt;&lt;BR&gt;They seem to gather wherever there are devas. Could I ask you to take care of them?&lt;br&gt;[ES] Estos autodenominados Demokrons est&amp;#225;n apareciendo por toda la tierra.&lt;BR&gt;&lt;BR&gt;Parece que se re&amp;#250;nen dondequiera que hay devas. &amp;#191;Podr&amp;#237;a pedirte que te encargues de ellos?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We need to dispatch our scouts to Northern Arun as soon as we can.&lt;br&gt;[ES] Necesitamos enviar a nuestros exploradores al norte de Arun tan pronto como podamos.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Grapine is getting better, though.&lt;br&gt;[ES] Sin embargo, Grapine est&amp;#225; mejorando.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] That's a relief. I'm sure that she'll deal with the elders.&lt;br&gt;[ES] Qu&amp;#233; alivio. Estoy seguro de que se encargar&amp;#225; de los ancianos.</Page>
+    </Text>
+</VillagerDialog>

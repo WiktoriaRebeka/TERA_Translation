@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1040" huntingZoneId="208" voiceTypeId="152" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="152">[EN] I can't believe it... Fraya...&lt;br&gt;[ES] No lo puedo creer... Fraya...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Now that we've got the Core, the ambitions of the evil gods are put to rest.&lt;br&gt;[ES] Ahora que tenemos el Core, las ambiciones de los dioses malvados han llegado a su fin.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll meet you in Castanica.&lt;br&gt;[ES] Nos vemos en Castanica.</Page>
+    </Text>
+</VillagerDialog>

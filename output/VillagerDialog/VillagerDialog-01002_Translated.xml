@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1317" huntingZoneId="63" voiceTypeId="270" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="270">[EN] Greetings, &lt;PCNAME&gt;.&lt;BR&gt;I'm Gislan, the new commander. I gave my pledge to the goddess to keep Velika safe at any cost.&lt;br&gt;[ES] Saludos, &lt;PCNAME&gt;.&lt;BR&gt;Soy Gislan, el nuevo comandante. Le jur&amp;#233; a la diosa mantener a Velika a salvo a toda costa.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Troius! Why have you interrupted our meeting?&lt;br&gt;[ES] &amp;#161;Troius! &amp;#191;Por qu&amp;#233; interrumpes nuestra reuni&amp;#243;n?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The Argons fell back? What could they be up to?&lt;br&gt;[ES] &amp;#191;Los Argons retrocedieron? &amp;#191;Qu&amp;#233; estar&amp;#225;n tramando?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll scramble some reinforcements to Northern Shara. It won't be easy, but it's the right thing to do.&lt;br&gt;[ES] Reclutar&amp;#233; algunos refuerzos para el norte de Shara. No ser&amp;#225; f&amp;#225;cil, pero es lo correcto.</Page>
+    </Text>
+</VillagerDialog>

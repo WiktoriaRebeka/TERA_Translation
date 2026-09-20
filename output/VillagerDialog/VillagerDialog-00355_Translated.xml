@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5012" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I shouldn't have left our home....&lt;BR&gt;I'll never see my family again...&lt;br&gt;[ES] No deb&amp;#237; haber dejado nuestro hogar...&lt;BR&gt;&amp;#161;Nunca volver&amp;#233; a ver a mi familia...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Thank the gods!&lt;BR&gt;&lt;br&gt;[ES] &amp;#161;Gracias a los dioses!&lt;BR&gt;</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Whew! Now I'm relieved!&lt;BR&gt;&lt;br&gt;[ES] &amp;#161;Uf! &amp;#161;Ahora estoy tranquilo!&lt;BR&gt;</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The airship...! It's going to crash!&lt;BR&gt;&lt;br&gt;[ES] &amp;#161;El dirigible...! &amp;#161;Se va a estrellar!&lt;BR&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,6 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7903" huntingZoneId="2500" voiceTypeId="171" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Oh, you look like you could lift a thing or two!&lt;BR&gt;Want to join us?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I already have a group."&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Oh, pareces alguien capaz de levantar un par de cosas!&lt;BR&gt;&amp;#191;Quieres unirte a nosotros?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I already have a group."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">[EN] More&amp;#8217;s the pity.&lt;BR&gt;Maybe we&amp;#8217;ll meet again some day.&lt;br&gt;[ES] Cu&amp;#225;nto lo siento.&lt;BR&gt;Tal vez nos volvamos a encontrar alg&amp;#250;n d&amp;#237;a.</Page>
+    </Text>
+</VillagerDialog>

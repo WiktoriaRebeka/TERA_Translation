@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1026" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">[EN] How did I end up here?&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo termin&amp;#233; aqu&amp;#237;?</Page>
+    </Text>
+    <Text id="2" endSocial="3">
+        <Page social="3">[EN] What are we supposed to do?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; se supone que debemos hacer?</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">[EN] I'm the only one in my squad who got this far.&lt;br&gt;[ES] Soy el &amp;#250;nico de mi escuadr&amp;#243;n que ha llegado tan lejos.</Page>
+    </Text>
+</VillagerDialog>

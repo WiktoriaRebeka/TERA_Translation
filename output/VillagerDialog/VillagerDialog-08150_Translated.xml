@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="3006" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] (A glowing blue line of cyasma runs through the pylon. It must be connected to the Argons.&lt;BR&gt;&lt;BR&gt;It may act as the key to one of the doors.)&lt;br&gt;[ES] (Una l&amp;#237;nea azul brillante de miasma recorre el pil&amp;#243;n. Debe estar conectada con los Argons.&lt;BR&gt;&lt;BR&gt;Puede que sirva como la llave de una de las puertas.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] (The pylon glows brighter as you approach. An outline forms around a switch.)&lt;TEXTBUTTON&gt;Examine the pylon.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Touch the switch.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] (El pil&amp;#243;n brilla con m&amp;#225;s intensidad a medida que te acercas. Se forma el contorno de un interruptor.)&lt;TEXTBUTTON&gt;Examine the pylon.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Touch the switch.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

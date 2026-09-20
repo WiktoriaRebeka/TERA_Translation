@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2007" huntingZoneId="249" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] My brother volunteered for scout duty a few weeks ago.&lt;BR&gt;&lt;BR&gt;I haven't heard from him since.&lt;br&gt;[ES] Mi hermano se ofreci&amp;#243; como voluntario para misiones de reconocimiento hace unas semanas.&lt;BR&gt;&lt;BR&gt;No he sabido nada de &amp;#233;l desde entonces.</Page>
+    </Text>
+    <Text id="100" endSocial="14">
+        <Page social="4">[EN] My friend, you look like I feel.&lt;BR&gt;&lt;BR&gt;Take a break for your health.&lt;br&gt;[ES] Amigo m&amp;#237;o, tienes la misma cara que yo siento.&lt;BR&gt;&lt;BR&gt;T&amp;#243;mate un descanso por tu salud.</Page>
+    </Text>
+    <Text id="101" endSocial="14">
+        <Page social="12">[EN] My brother can't be dead! He's clever and...well, he's clever.&lt;br&gt;[ES] &amp;#161;Mi hermano no puede estar muerto! &amp;#201;l es astuto y... bueno, es astuto.</Page>
+    </Text>
+    <Text id="102" endSocial="14">
+        <Page social="13">[EN] All I want is for this endless death and horror to mean something in the end.&lt;BR&gt;&lt;BR&gt;Anything, really.&lt;br&gt;[ES] Todo lo que quiero es que esta muerte y horror sin fin signifiquen algo al final.&lt;BR&gt;&lt;BR&gt;Cualquier cosa, de verdad.</Page>
+    </Text>
+</VillagerDialog>

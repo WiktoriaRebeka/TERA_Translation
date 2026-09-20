@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4202" huntingZoneId="509" voiceTypeId="34" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="34">[EN] Mom, did that man do something wrong?&lt;br&gt;[ES] Mam&amp;#225;, &amp;#191;ese hombre hizo algo malo?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="34">[EN] Mom, who messed up the play this time?&lt;br&gt;[ES] Mam&amp;#225;, &amp;#191;qui&amp;#233;n arruin&amp;#243; la obra esta vez?</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="34">[EN] Mom, what's a speech? Is it a kind of play?&lt;br&gt;[ES] Mam&amp;#225;, &amp;#191;qu&amp;#233; es un discurso? &amp;#191;Es un tipo de obra?</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1012" huntingZoneId="59" voiceTypeId="24" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="59" prevId="0" villagerId="1012" endSocial="14">
+        <Page social="4">[EN] It's not as if anyone else volunteered to figure out why the dead are rising from their graves.&lt;BR&gt;&lt;BR&gt;I've got a job to do and I'll do it right. I'll need help, of course. I'm a scholar, not a soldier.&lt;br&gt;[ES] Tampoco es que nadie m&amp;#225;s se haya ofrecido como voluntario para averiguar por qu&amp;#233; los muertos se est&amp;#225;n levantando de sus tumbas.&lt;BR&gt;&lt;BR&gt;Tengo un trabajo que hacer y lo har&amp;#233; bien. Necesitar&amp;#233; ayuda, por supuesto. Soy un erudito, no un soldado.</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="59" prevId="0" villagerId="1012" endSocial="0">
+        <Page social="4">[EN] By the gods!&lt;br&gt;[ES] &amp;#161;Por los dioses!</Page>
+    </Text>
+    <Text id="10002" huntingZoneId="59" prevId="0" villagerId="1012" endSocial="0">
+        <Page social="4">[EN] The core is tainted with spiritual energy!&lt;br&gt;[ES] &amp;#161;El n&amp;#250;cleo est&amp;#225; contaminado con energ&amp;#237;a espiritual!</Page>
+    </Text>
+    <Text id="10003" huntingZoneId="59" prevId="0" villagerId="1012" endSocial="0">
+        <Page social="4">[EN] That explains why the dead walk through the woods.&lt;br&gt;[ES] Eso explica por qu&amp;#233; los muertos caminan por el bosque.</Page>
+    </Text>
+</VillagerDialog>

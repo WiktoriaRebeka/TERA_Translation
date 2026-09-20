@@ -1,0 +1,23 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20302" huntingZoneId="2001" voiceTypeId="294" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="294">[EN] We should concentrate on finding the villagers.&lt;br&gt;[ES] Deber&amp;#237;amos concentrarnos en encontrar a los aldeanos.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] There are still a lot of villagers left.&lt;br&gt;[ES] Todav&amp;#237;a quedan muchos aldeanos.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4" voiceTypeId="0">[EN] All right. We'll split up to form a Rescue Team and Search Team.&lt;br&gt;[ES] De acuerdo. Nos dividiremos para formar un equipo de rescate y un equipo de b&amp;#250;squeda.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;PCNAME&gt; and I will search for Jelena and the captured villagers.&lt;br&gt;[ES] &lt;PCNAME&gt; y yo buscaremos a Jelena y a los aldeanos capturados.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="7" voiceTypeId="0">[EN] Okay. Let's get moving.&lt;br&gt;[ES] De acuerdo. Pong&amp;#225;monos en marcha.</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Please take care of Titus, Aurl, and the others.&lt;br&gt;[ES] Por favor, cuida de Titus, Aurl y los dem&amp;#225;s.</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;PCNAME&gt;, let's get moving. We must find Jelena.&lt;br&gt;[ES] &lt;PCNAME&gt;, pong&amp;#225;monos en marcha. Debemos encontrar a Jelena.</Page>
+    </Text>
+</VillagerDialog>

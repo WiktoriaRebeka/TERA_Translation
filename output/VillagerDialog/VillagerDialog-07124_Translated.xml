@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1102" huntingZoneId="818" voiceTypeId="275" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="275">[EN] What happened? Was that elin warrior abducted?&lt;BR&gt;&lt;BR&gt;Dakuryon again! That bastard! I will flay him alive!&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; pas&amp;#243;? &amp;#191;Secuestraron a esa guerrera Elin?&lt;BR&gt;&lt;BR&gt;&amp;#161;Otra vez Dakuryon! &amp;#161;Ese maldito! &amp;#161;Lo desollar&amp;#237;a vivo!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="275">[EN] What? What happened?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233;? &amp;#191;Qu&amp;#233; pas&amp;#243;?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="275">[EN] Tell your feeble gods you met your death at the hands of Rhodos!&lt;br&gt;[ES] &amp;#161;Dile a tus d&amp;#233;biles dioses que encontraste la muerte a manos de Rhodos!</Page>
+    </Text>
+</VillagerDialog>

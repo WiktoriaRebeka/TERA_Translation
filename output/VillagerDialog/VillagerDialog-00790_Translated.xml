@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1004" huntingZoneId="63" voiceTypeId="126" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1004" endSocial="14">
+        <Page social="4">[EN] Worried because I'm so young?&lt;BR&gt;&lt;BR&gt;Listen, I really am a banker. I still have lots to learn, but I guard your gear like it was my own.&lt;br&gt;[ES] &amp;#191;Te preocupa que sea tan joven?&lt;BR&gt;&lt;BR&gt;Escucha, de verdad soy un banquero. Todav&amp;#237;a tengo mucho que aprender, pero cuido tu equipo como si fuera m&amp;#237;o.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1004" endSocial="14">
+        <Page social="4">[EN] Oops, I didn't mean to drop that. Luckily it wasn't fragile!&lt;BR&gt;&lt;BR&gt;When I grow up I'll be as big and strong as any other amani.&lt;br&gt;[ES] Ups, no quer&amp;#237;a tirar eso. &amp;#161;Por suerte no era fr&amp;#225;gil!&lt;BR&gt;&lt;BR&gt;Cuando crezca ser&amp;#233; tan grande y fuerte como cualquier otro amani.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3000" huntingZoneId="2504" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We should find the way up first.&lt;BR&gt;There must be some kind of mechanical device.&lt;br&gt;[ES] Primero deber&amp;#237;amos encontrar el camino hacia arriba.&lt;BR&gt;Tiene que haber alg&amp;#250;n tipo de dispositivo mec&amp;#225;nico.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Go left and try to find it.&lt;br&gt;[ES] Ve a la izquierda e intenta encontrarlo.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hey! Wait for me!&lt;br&gt;[ES] &amp;#161;Eh! &amp;#161;Espera por m&amp;#237;!</Page>
+    </Text>
+</VillagerDialog>

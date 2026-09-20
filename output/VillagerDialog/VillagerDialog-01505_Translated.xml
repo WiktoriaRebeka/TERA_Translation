@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1040" huntingZoneId="70" voiceTypeId="45" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] After Balder's death, Shakan pursued Lok with a vengeance. Lok was clever, and hard to trap. They fought twice and Shakan slew Lok during their second battle.&lt;BR&gt;&lt;BR&gt;Lok had the last laugh, however. His blood showered the land and blighted the forest. To this day, we curse Shakan for ruining our province.&lt;br&gt;[ES] Tras la muerte de Balder, Shakan persigui&amp;#243; a Lok con sed de venganza. Lok era astuto y dif&amp;#237;cil de atrapar. Lucharon dos veces y Shakan mat&amp;#243; a Lok durante su segunda batalla.&lt;BR&gt;&lt;BR&gt;Sin embargo, Lok ri&amp;#243; el &amp;#250;ltimo. Su sangre ba&amp;#241;&amp;#243; la tierra y arruin&amp;#243; el bosque. Hasta el d&amp;#237;a de hoy, maldecimos a Shakan por arruinar nuestra provincia.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Oh! I should take the next airship then.&lt;br&gt;[ES] &amp;#161;Oh! Entonces deber&amp;#237;a tomar el pr&amp;#243;ximo dirigible.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Who dare disgraces Shakan?&lt;br&gt;[ES] &amp;#191;Qui&amp;#233;n se Atreve a deshonrar a Shakan?</Page>
+    </Text>
+</VillagerDialog>

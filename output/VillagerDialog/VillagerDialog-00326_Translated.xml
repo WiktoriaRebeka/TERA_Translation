@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1102" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The powder in the air is getting thick.&lt;BR&gt;&lt;BR&gt;We shouldn't stay here for long. Let's move.&lt;BR&gt;&lt;br&gt;[ES] El polvo en el aire se est&amp;#225; volviendo espeso.&lt;BR&gt;&lt;BR&gt;No deber&amp;#237;amos quedarnos aqu&amp;#237; por mucho tiempo. V&amp;#225;monos.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The messenger was right.&lt;BR&gt;It's clear that the butterflies' numbers have increased.&lt;br&gt;[ES] El mensajero ten&amp;#237;a raz&amp;#243;n.&lt;BR&gt;Es evidente que el n&amp;#250;mero de mariposas ha aumentado.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Are we there yet? It's been a while...how much longer will it take?&lt;br&gt;[ES] &amp;#191;Ya llegamos? Ha pasado un rato... &amp;#191;cu&amp;#225;nto m&amp;#225;s falta?</Page>
+    </Text>
+</VillagerDialog>

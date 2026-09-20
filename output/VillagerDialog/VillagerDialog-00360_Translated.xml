@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5017" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I want to go home...&lt;br&gt;[ES] Quiero ir a casa...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Wow! It's Elleon!&lt;BR&gt;&lt;br&gt;[ES] &amp;#161;Guau! &amp;#161;Es Elleon!&lt;BR&gt;</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'm not traveling by air again any time soon...&lt;BR&gt;&lt;br&gt;[ES] No volver&amp;#233; a viajar en aeronave en un buen rato...&lt;BR&gt;</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Is that...the airship?&lt;BR&gt;&lt;br&gt;[ES] &amp;#191;Es esa... la aeronave?&lt;BR&gt;</Page>
+    </Text>
+</VillagerDialog>

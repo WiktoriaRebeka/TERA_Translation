@@ -1,0 +1,26 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30100" huntingZoneId="2501" voiceTypeId="290" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="2501" prevId="0" villagerId="30100" endSocial="0">
+        <Page social="4" voiceTypeId="290">[EN] I need your help.&lt;BR&gt;&lt;BR&gt;Would you help me?&lt;br&gt;[ES] Necesito tu ayuda.&lt;BR&gt;&lt;BR&gt;&amp;#191;Me ayudar&amp;#237;as?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="2501" prevId="0" villagerId="30100" endSocial="0">
+        <Page social="4" voiceTypeId="290">[EN] Thank you.&lt;BR&gt;&lt;BR&gt;Please investigate this area.&lt;BR&gt;&lt;BR&gt;I will try and dispose of the restrained power of the God of Death.&lt;TEXTBUTTON&gt;"I&amp;#8217;ll help."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Understood."&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] Gracias.&lt;BR&gt;&lt;BR&gt;Por favor, investiga esta &amp;#225;rea.&lt;BR&gt;&lt;BR&gt;Intentar&amp;#233; deshacerme del poder reprimido del Dios de la Muerte.&lt;TEXTBUTTON&gt;"I&amp;#8217;ll help."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Understood."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I can feel holy energy from you.&lt;br&gt;[ES] Puedo sentir energ&amp;#237;a sagrada en ti.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I am Lok.&lt;BR&gt;I hold the key to the Sealed Area.&lt;br&gt;[ES] Soy Lok.&lt;BR&gt;Tengo la llave del Sealed Area.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The world may collapse if this power falls into the wrong hands.&lt;br&gt;[ES] El mundo podr&amp;#237;a colapsar si este poder cae en las manos equivocadas.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Could you please help me?&lt;br&gt;[ES] &amp;#191;Podr&amp;#237;as ayudarme por favor?</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Thank you.&lt;BR&gt;Hopefully you are safe.&lt;br&gt;[ES] Gracias.&lt;BR&gt;Esperemos que est&amp;#233;s a salvo.</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Are you ready? Let&amp;#8217;s go.&lt;br&gt;[ES] &amp;#191;Est&amp;#225;s listo? V&amp;#225;monos.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="110" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Now, follow me.&lt;br&gt;[ES] Ahora, s&amp;#237;gueme.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Come on, pick up your pace!&lt;br&gt;[ES] &amp;#161;Vamos, acelera el paso!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Here! Over here!&lt;br&gt;[ES] &amp;#161;Aqu&amp;#237;! &amp;#161;Por aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] This is the center of the world.&lt;br&gt;[ES] Este es el centro del mundo.</Page>
+    </Text>
+</VillagerDialog>

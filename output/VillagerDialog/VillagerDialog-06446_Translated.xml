@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="488" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="488" prevId="0" villagerId="1003" endSocial="0">
+        <Page social="0">[EN] (This device has the power to clear your path.)&lt;br&gt;[ES] (Este dispositivo tiene el poder de despejar tu camino.)</Page>
+    </Text>
+    <Text id="2" huntingZoneId="488" prevId="0" villagerId="1003" endSocial="0">
+        <Page social="0">[EN] (This old contraption might clear the entrance to the Manor of Misery.)&lt;TEXTBUTTON&gt;Old Contraption&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Activate Contraption&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] (Este viejo artefacto podr&amp;#237;a despejar la entrada a Manor of Misery.)&lt;TEXTBUTTON&gt;Old Contraption&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Activate Contraption&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

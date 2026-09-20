@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1032" huntingZoneId="76" voiceTypeId="96" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] An outsider! I hope you brought food.&lt;br&gt;[ES] &amp;#161;Un extra&amp;#241;o! Espero que hayas tra&amp;#237;do comida.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4">[EN] Let me know if fresh rations show up.&lt;br&gt;[ES] Av&amp;#237;same si aparecen raciones frescas.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1025" huntingZoneId="213" voiceTypeId="49" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="213" prevId="0" villagerId="1025" endSocial="14">
+        <Page social="4">[EN] Make no mistake, &lt;PCCLASS:lcase&gt;, the Tainted Gorge is where the federation's efforts will succeed or fail. A look in any direction from this fire is all the proof necessary for those who doubt.&lt;br&gt;[ES] No te equivoques, &lt;PCCLASS:lcase&gt;, Tainted Gorge es donde los esfuerzos de la federaci&amp;#243;n tendr&amp;#225;n &amp;#233;xito o fracasar&amp;#225;n. Una mirada en cualquier direcci&amp;#243;n desde esta hoguera es toda la prueba necesaria para quienes dudan.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025" endSocial="14">
+        <Page social="4">[EN] This moment. Here, now. This is a time that shapes and defines the brave. Karascha must die!&lt;TEXTBUTTON&gt;To Karascha&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Teleport to Karascha&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] Este momento. Aqu&amp;#237;, ahora. Este es un tiempo que forma y define a los valientes. &amp;#161;Karascha debe morir!&lt;TEXTBUTTON&gt;To Karascha&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Teleport to Karascha&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30001" huntingZoneId="63" voiceTypeId="1" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You can't have a Free Traders Collective without free trade!&lt;BR&gt;&lt;BR&gt;Are your dues all paid up?&lt;br&gt;[ES] &amp;#161;No puedes tener un Free Traders Collective sin libre comercio!&lt;BR&gt;&lt;BR&gt;&amp;#191;Est&amp;#225;n todas tus cuotas pagadas?</Page>
+    </Text>
+    <Text id="6" endSocial="4">
+        <Page social="0" voiceTypeId="0">[EN] Even free trade has a cost...to you.&lt;br&gt;[ES] Incluso el libre comercio tiene un costo... para ti.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9021" huntingZoneId="52" voiceTypeId="165" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Ugh...I think I'm wounded....&lt;BR&gt;&lt;BR&gt;What about my colleagues?&lt;br&gt;[ES] Uf... Creo que estoy herido...&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; hay de mis colegas?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] My legs!&lt;br&gt;[ES] &amp;#161;Mis piernas!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Take me with you! Please! Don't leave me!&lt;br&gt;[ES] &amp;#161;Ll&amp;#233;vame contigo! &amp;#161;Por favor! &amp;#161;No me dejes!</Page>
+    </Text>
+</VillagerDialog>

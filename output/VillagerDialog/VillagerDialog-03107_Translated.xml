@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1015" huntingZoneId="183" voiceTypeId="128" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="128">[EN] Friend baraka, we should not view these visitors to our land as strangers to be suspected and avoided, but as guests, to be honored and served! How say you?&lt;br&gt;[ES] Amigo baraka, no debemos ver a estos visitantes de nuestra tierra como extra&amp;#241;os a los que sospechar y evitar, &amp;#161;sino como invitados a los que honrar y servir! &amp;#191;Qu&amp;#233; dices?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Shara's dream was covered in azure darkness.&lt;br&gt;[ES] El sue&amp;#241;o de Shara se cubri&amp;#243; de una oscuridad azur.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Songs of anguish and moaning echo, yet without a sound.&lt;br&gt;[ES] Canciones de angustia y lamentos resuenan, pero sin emitir sonido.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Go. Follow the light.&lt;br&gt;[ES] Ve. Sigue la luz.</Page>
+    </Text>
+</VillagerDialog>

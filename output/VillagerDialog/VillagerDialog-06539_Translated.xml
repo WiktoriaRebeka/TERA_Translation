@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="506" voiceTypeId="16" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="16">[EN] You must have an invitation.&lt;BR&gt;&lt;br&gt;[ES] Debes tener una invitaci&amp;#243;n.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="2" endSocial="1">
+        <Page social="4" voiceTypeId="16">[EN] You need an invitation to attend the Banquet.&lt;BR&gt;&lt;br&gt;[ES] Necesitas una invitaci&amp;#243;n para asistir al Banquet.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="16">[EN] If you wish to meet the Commander, please schedule an appointment.&lt;BR&gt;&lt;br&gt;[ES] Si deseas reunirte con el Commander, por favor programa una cita.&lt;BR&gt;</Page>
+    </Text>
+</VillagerDialog>

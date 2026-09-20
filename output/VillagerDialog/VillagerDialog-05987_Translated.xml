@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5009" huntingZoneId="410" voiceTypeId="136" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Welcome to the land of honorable combat.&lt;BR&gt;&lt;BR&gt;What is it that you seek here?&lt;br&gt;[ES] Bienvenido a la tierra del combate honorable.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; es lo que buscas aqu&amp;#237;?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Rise, my soldiers.&lt;br&gt;[ES] Levantaos, mis soldados.</Page>
+    </Text>
+</VillagerDialog>

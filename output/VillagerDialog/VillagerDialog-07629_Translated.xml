@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20203" huntingZoneId="2001" voiceTypeId="293" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="293">[EN] Everything we find out here will help our mission greatly.&lt;br&gt;[ES] Todo lo que descubramos aqu&amp;#237; ayudar&amp;#225; enormemente a nuestra misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Keep going, &lt;PCNAME&gt;.&lt;br&gt;[ES] Sigue adelante, &lt;PCNAME&gt;.</Page>
+    </Text>
+</VillagerDialog>

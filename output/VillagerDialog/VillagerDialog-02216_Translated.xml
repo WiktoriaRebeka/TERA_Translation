@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1024" huntingZoneId="79" voiceTypeId="18" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="79" prevId="0" villagerId="1024" endSocial="14">
+        <Page social="5">[EN] Animal scraps may seem like a disgusting business, but just wait until you see what I can make with these. Stunning winter clothes make all the gore worthwhile.&lt;br&gt;[ES] Los restos de animales pueden parecer un negocio asqueroso, pero espera a ver lo que puedo hacer con esto. Un impresionante abrigo de invierno hace que toda la sangre valga la pena.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] There's nothing we can do until the army kills those beasts.&lt;br&gt;[ES] No podemos hacer nada hasta que el ej&amp;#233;rcito mate a esas bestias.</Page>
+    </Text>
+    <Text id="102" endSocial="10">
+        <Page social="5">[EN] I understand.&lt;br&gt;[ES] Entiendo.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="5">[EN] Did you hear about Craxan?&lt;br&gt;[ES] &amp;#191;Te enteraste de Craxan?</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="6">[EN] How could he go hunting at a time like this?&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo pudo irse a cazar en un momento as&amp;#237;?</Page>
+    </Text>
+</VillagerDialog>

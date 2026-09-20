@@ -1,0 +1,41 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1017" huntingZoneId="428" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] This must be Malachai's Lab. It's filled with wicked magic energy. &lt;BR&gt;&lt;BR&gt;Please be careful.&lt;br&gt;[ES] Este debe ser el laboratorio de Malachai. Est&amp;#225; lleno de energ&amp;#237;a m&amp;#225;gica maligna. &lt;BR&gt;&lt;BR&gt;Por favor, ten cuidado.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Malachai's magic will activate the moment that you summon the Teleportal.&lt;br&gt;[ES] La magia de Malachai se activar&amp;#225; en el momento en que invoques el portal.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It could be dangerous. Please be careful.&lt;br&gt;[ES] Podr&amp;#237;a ser peligroso. Por favor, ten cuidado.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The magic has activated.&lt;br&gt;[ES] La magia se ha activado.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Whatever appears, don't be afraid!&lt;br&gt;[ES] &amp;#161;Lo que sea que aparezca, no tengas miedo!</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Dear Balder, the God of the Sun!&lt;br&gt;[ES] &amp;#161;Querido Balder, el dios del Sol!</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Punish the evil with your authority!&lt;br&gt;[ES] &amp;#161;Castiga el mal con tu autoridad!</Page>
+    </Text>
+    <Text id="107" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll entrap the evil power inside me. Use that time to take care of the demon!&lt;br&gt;[ES] Atrapar&amp;#233; el poder maligno dentro de m&amp;#237;. &amp;#161;Usa ese tiempo para encargarte del demonio!</Page>
+    </Text>
+    <Text id="108" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Ugh&amp;#8230; I'll leave the rest to you.&lt;br&gt;[ES] Ugh... &amp;#161;Te dejo el resto a ti!</Page>
+    </Text>
+    <Text id="109" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I've entrapped the evil power inside me&amp;#8230;&lt;br&gt;[ES] He atrapado el poder maligno dentro de m&amp;#237;...</Page>
+    </Text>
+    <Text id="110" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] This is the teleportal linked to Sirjuka Gallery.&lt;br&gt;[ES] Este es el teleportal vinculado a Sirjuka Gallery.</Page>
+    </Text>
+    <Text id="111" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll transport this magic stone to Allemantheia.&lt;br&gt;[ES] Transportar&amp;#233; esta piedra m&amp;#225;gica a Allemantheia.</Page>
+    </Text>
+    <Text id="112" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll see you in Allemantheia.&lt;br&gt;[ES] Te veo en Allemantheia.</Page>
+    </Text>
+</VillagerDialog>

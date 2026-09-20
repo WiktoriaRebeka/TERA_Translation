@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="131" huntingZoneId="2002" voiceTypeId="293" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="4">
+        <Page social="4" voiceTypeId="293">[EN] Materials for the cure? Tell me quick.&lt;br&gt;[ES] &amp;#191;Materiales para la cura? Dime r&amp;#225;pido.</Page>
+    </Text>
+    <Text id="102" endSocial="4">
+        <Page social="4" voiceTypeId="293">[EN] Can you please provide details of the cure?&lt;br&gt;[ES] &amp;#191;Puedes darme los detalles de la cura?</Page>
+    </Text>
+    <Text id="103" endSocial="4">
+        <Page social="4" voiceTypeId="293">[EN] We need to get the cure materials! Hurry!&lt;br&gt;[ES] &amp;#161;Necesitamos conseguir los materiales para la cura! &amp;#161;Date prisa!</Page>
+    </Text>
+</VillagerDialog>

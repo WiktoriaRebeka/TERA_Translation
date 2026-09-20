@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="469" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The state of this place, with all the corpses lined up, speaks volumes about the miserable lives the sub-devan slaves have.&lt;BR&gt;&lt;BR&gt;This particular corpse is still clutching an old and dirty kerchief, with something carefully wrapped up inside.&lt;br&gt;[ES] El estado de este lugar, con todos los cad&amp;#225;veres alineados, dice mucho sobre las m&amp;#237;seras vidas que llevan los esclavos sub-devan.&lt;BR&gt;&lt;BR&gt;Este cad&amp;#225;ver en particular a&amp;#250;n aferra un pa&amp;#241;uelo viejo y sucio, con algo envuelto cuidadosamente en su interior.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Inside the dirty kercheif there is a single piece of stale bread...clearly once someone's most treasured possession.&lt;TEXTBUTTON&gt;What's in here?&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;You held onto it...you can keep it.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] Dentro del pa&amp;#241;uelo sucio hay un solo trozo de pan duro... claramente alguna vez la posesi&amp;#243;n m&amp;#225;s preciada de alguien.&lt;TEXTBUTTON&gt;What's in here?&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;You held onto it...you can keep it.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

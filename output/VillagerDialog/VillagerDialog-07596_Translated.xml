@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30002" huntingZoneId="2000" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We can't go anywhere thanks to this rock. Passing the Crystal Canyon is far too dangerous.&lt;br&gt;[ES] No podemos ir a ninguna parte gracias a esta roca. Cruzar el Crystal Canyon es demasiado peligroso.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Thank you, &lt;PCCLASS&gt;.&lt;br&gt;[ES] Gracias, &lt;PCCLASS&gt;.</Page>
+    </Text>
+</VillagerDialog>

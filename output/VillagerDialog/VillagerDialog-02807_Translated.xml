@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220020" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Get lost! ...or maybe you already are.&lt;br&gt;[ES] &amp;#161;Pi&amp;#233;rdete! ...o tal vez ya lo est&amp;#225;s.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You do not belong here!&lt;br&gt;[ES] &amp;#161;No perteneces aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="130">[EN] The faster I get what I need, the faster you get what you want.&lt;br&gt;[ES] Cuanto m&amp;#225;s r&amp;#225;pido consiga lo que necesito, m&amp;#225;s r&amp;#225;pido obtendr&amp;#225;s lo que quieres.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="130">[EN] Join the Iron Order and I will have much to show you.&lt;br&gt;[ES] &amp;#218;nete a la Iron Order y tendr&amp;#233; mucho que mostrarte.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="130">[EN] When will the federation learn to keep information from me is futile?&lt;br&gt;[ES] &amp;#191;Cu&amp;#225;ndo aprender&amp;#225; la federaci&amp;#243;n que ocultarme informaci&amp;#243;n es in&amp;#250;til?</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3517" huntingZoneId="245" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="2" voiceTypeId="264">[EN] Woof Woof!! Woof Woof!!&lt;br&gt;[ES] &amp;#161;Guau, guau! &amp;#161;Guau, guau!</Page>
+    </Text>
+    <Text id="2" endSocial="1">
+        <Page social="2" voiceTypeId="266">[EN] (The dog wags its tail and pants.)&lt;br&gt;[ES] (El perro menea la cola y jadea).</Page>
+    </Text>
+</VillagerDialog>

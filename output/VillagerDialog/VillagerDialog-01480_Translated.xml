@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1013" huntingZoneId="70" voiceTypeId="54" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="70" prevId="0" villagerId="1013" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Our garrison is rallying to assist with the assault on the Stronghold of Blood. Even the reservists are being called up.&lt;BR&gt;&lt;BR&gt;What do you say? You look like you've seen your fair share of battle.&lt;br&gt;[ES] Nuestra guarnici&amp;#243;n se est&amp;#225; reuniendo para ayudar en el asalto al Stronghold of Blood. Hasta los reservistas han sido llamados.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; dices? Tienes cara de haber visto tu buena raci&amp;#243;n de batallas.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Rorise, the Stronghold of Blood's barrier is working, right?&lt;br&gt;[ES] Rorise, la barrera del Stronghold of Blood est&amp;#225; funcionando, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Then the transport with villagers must go first.&lt;br&gt;[ES] Entonces el transporte con los aldeanos debe ir primero.</Page>
+    </Text>
+</VillagerDialog>

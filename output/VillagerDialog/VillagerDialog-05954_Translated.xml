@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="403" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="403" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">[EN] A plan is a lot like a fount, don't you think?&lt;BR&gt;&lt;BR&gt;I mean, the parts that make it up sort of pour from a spout...and...erm...&lt;BR&gt;&lt;BR&gt;Well, that fell apart fast, didn't it.&lt;BR&gt;&lt;BR&gt;Anyway, ask me if you need help with anything.&lt;br&gt;[ES] Un plan es muy parecido a una fuente, &amp;#191;no crees?&lt;BR&gt;&lt;BR&gt;Digo, las partes que lo componen brotan de un surtidor de alg&amp;#250;n modo... y... ehm...&lt;BR&gt;&lt;BR&gt;Bueno, eso se vino abajo r&amp;#225;pido, &amp;#191;verdad?&lt;BR&gt;&lt;BR&gt;De todos modos, av&amp;#237;same si necesitas ayuda con algo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="403" prevId="0" villagerId="1001" endSocial="0">
+        <Page social="0">[EN] Would you like to leave?&lt;TEXTBUTTON&gt;"I'll take your help."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Exit Aura.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Te gustar&amp;#237;a irte?&lt;TEXTBUTTON&gt;"I'll take your help."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Exit Aura.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

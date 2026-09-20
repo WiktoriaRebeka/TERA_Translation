@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9999" huntingZoneId="1023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Have you found any treasure?&lt;br&gt;[ES] &amp;#191;Has encontrado alg&amp;#250;n tesoro?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Do I have to go back...?&lt;br&gt;[ES] &amp;#191;Tengo que volver...?</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2106" huntingZoneId="183" voiceTypeId="134" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="134">[EN] I am Braga. It is my duty to see to the safety of Highwatch.&lt;BR&gt;&lt;BR&gt;Should you ever see or hear anything suspicious, report it to me at once.&lt;br&gt;[ES] Soy Braga. Es mi deber velar por la seguridad de Highwatch.&lt;BR&gt;&lt;BR&gt;Si alguna vez ves o escuchas algo sospechoso, inf&amp;#243;rmamelo de inmediato.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Yes, sir.&lt;br&gt;[ES] S&amp;#237;, se&amp;#241;or.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Etchings will make your equipment powerful!&lt;br&gt;[ES] &amp;#161;Los Etching har&amp;#225;n que tu equipo sea poderoso!</Page>
+    </Text>
+</VillagerDialog>

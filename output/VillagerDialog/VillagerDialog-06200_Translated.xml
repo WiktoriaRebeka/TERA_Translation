@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="120" huntingZoneId="445" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="26">[EN] I'm the chief around here, and as you know, our village faces great peril. I hope you can bring peace back to us.&lt;BR&gt;&lt;BR&gt;If you're ready, let me know. I have the guards ready.&lt;br&gt;[ES] Soy el jefe por aqu&amp;#237; y, como sabes, nuestra aldea enfrenta un gran peligro. Espero que puedas devolvernos la paz.&lt;BR&gt;&lt;BR&gt;Si est&amp;#225;s listo, av&amp;#237;same. Tengo a los guardias preparados.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="14" voiceTypeId="26">[EN] When the battle begins, I'll go hide in the ruined part of the village.&lt;BR&gt;Let me know if I can help you.&lt;TEXTBUTTON&gt;"I'm ready."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Got it."&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] Cuando comience la batalla, me ir&amp;#233; a esconder a la parte en ruinas de la aldea.&lt;BR&gt;Av&amp;#237;same si puedo ayudarte.&lt;TEXTBUTTON&gt;"I'm ready."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Got it."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

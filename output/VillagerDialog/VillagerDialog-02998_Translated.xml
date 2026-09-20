@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2006" huntingZoneId="182" voiceTypeId="143" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="5" voiceTypeId="143">[EN] You're empty-handed. That's not a good sign.&lt;br&gt;[ES] Vienes con las manos vac&amp;#237;as. Eso no es una buena se&amp;#241;al.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We didn't learn anything from her, except maybe about this "Dakuryon," whoever that is.&lt;BR&gt;&lt;BR&gt;But on the bright side, we've stopped a leak, and they won't be able to spy on us that way again.&lt;br&gt;[ES] No aprendimos nada de ella, excepto tal vez sobre este &quot;Dakuryon&quot;, sea quien sea.&lt;BR&gt;&lt;BR&gt;Pero por el lado positivo, hemos detenido una filtraci&amp;#243;n y ya no podr&amp;#225;n espiarnos de esa manera.</Page>
+    </Text>
+</VillagerDialog>

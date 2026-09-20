@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22005" huntingZoneId="72" voiceTypeId="132" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="912100" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Felicitations, my friend. What can I provide?&lt;br&gt;[ES] Felicitaciones, amigo m&amp;#237;o. &amp;#191;Qu&amp;#233; te puedo ofrecer?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] My wares are for the enlightened, and we can both plainly see that does not describe you. You have no business here.&lt;br&gt;[ES] Mis productos son para los ilustrados, y ambos podemos ver claramente que t&amp;#250; no encajas en esa descripci&amp;#243;n. No tienes nada que hacer aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Friend, we are rapidly approaching the dawn of an enlightened age. Will you join us&amp;#8212;or are you content to wallow in chaos?&lt;br&gt;[ES] Amigo, nos acercamos r&amp;#225;pidamente al amanecer de una era ilustrada. &amp;#191;Te nos unir&amp;#225;s o te conformas con revolcarte en el caos?</Page>
+    </Text>
+</VillagerDialog>

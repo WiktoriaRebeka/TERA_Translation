@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1705" huntingZoneId="62" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="227">[EN] I can't be bothered. Jax's business, not yours.&lt;br&gt;[ES] No me molestes. Es negocio de Jax, no tuyo.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="228">[EN] You wouldn't think we'd be so profitable out here in Cutthroat Harbor, and yet business is booming.&lt;br&gt;[ES] No pensar&amp;#237;as que ser&amp;#237;amos tan rentables aqu&amp;#237; en Cutthroat Harbor, y sin embargo el negocio va viento en popa.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="229">[EN] You ever think about starting a business for yourself? Not me! Jax takes good care of us.&lt;br&gt;[ES] &amp;#191;Alguna vez has pensado en iniciar tu propio negocio? &amp;#161;Yo no! Jax nos cuida muy bien.</Page>
+    </Text>
+</VillagerDialog>

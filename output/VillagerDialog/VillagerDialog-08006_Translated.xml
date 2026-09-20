@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10200" huntingZoneId="2501" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Urgh... Who are you?&lt;br&gt;[ES] Ugh... &amp;#191;Qui&amp;#233;n eres?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I&amp;#8217;m not done yet!&lt;br&gt;[ES] &amp;#161;A&amp;#250;n no he terminado!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I will take this world to myself!&lt;br&gt;[ES] &amp;#161;Me apoderar&amp;#233; de este mundo!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You&amp;#8217;re going to break the seal cast on my body?&lt;br&gt;[ES] &amp;#191;Vas a romper el sello lanzado sobre mi cuerpo?</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I will help you if you cut this chain that&amp;#8217;s restraining me.&lt;br&gt;[ES] Te ayudar&amp;#233; si cortas esta cadena que me retiene.</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Woooooaaaaa!&lt;br&gt;[ES] &amp;#161;Guuuuuuau!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2204" huntingZoneId="183" voiceTypeId="143" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="128">[EN] I thought I missed something.&lt;BR&gt;Here, this is for you.&lt;br&gt;[ES] Pens&amp;#233; que me hab&amp;#237;a perdido de algo.&lt;BR&gt;Ten, esto es para ti.</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="4" voiceTypeId="128">[EN] &lt;PCNAME&gt;! Wait!&lt;br&gt;[ES] &amp;#161;&lt;PCNAME&gt;! &amp;#161;Espera!</Page>
+    </Text>
+</VillagerDialog>

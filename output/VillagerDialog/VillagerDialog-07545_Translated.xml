@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20100" huntingZoneId="2000" voiceTypeId="294" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="294">[EN] The people of our world have been kidnapped.&lt;BR&gt;&lt;BR&gt;We must find them.&lt;br&gt;[ES] La gente de nuestro mundo ha sido secuestrada.&lt;BR&gt;&lt;BR&gt;Debemos encontrarla.</Page>
+    </Text>
+    <Text id="101" endSocial="14">
+        <Page social="4" voiceTypeId="294">[EN] &lt;PCNAME&gt;...? Is that you?&lt;br&gt;[ES] &lt;PCNAME&gt;... &amp;#191;Eres t&amp;#250;?</Page>
+    </Text>
+</VillagerDialog>

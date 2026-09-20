@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1041" huntingZoneId="79" voiceTypeId="200" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] Please...can you understand me? Are you a friend of the fey? Don't friends help each other where you come from?&lt;br&gt;[ES] Por favor... &amp;#191;puedes entenderme? &amp;#191;Eres amigo de los fey? &amp;#191;No se ayudan los amigos de donde vienes?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Where are our friends?&lt;br&gt;[ES] &amp;#191;D&amp;#243;nde est&amp;#225;n nuestros amigos?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Won't friends help?&lt;br&gt;[ES] &amp;#191;No ayudar&amp;#225;n los amigos?</Page>
+    </Text>
+</VillagerDialog>

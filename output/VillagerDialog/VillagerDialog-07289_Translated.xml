@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1088" huntingZoneId="833" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Already here...&lt;br&gt;[ES] Ya estoy aqu&amp;#237;...</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The dragons only became vicious after these plants started appearing.&lt;br&gt;[ES] Los dragones solo se volvieron feroces despu&amp;#233;s de que estas plantas empezaron a aparecer.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I think you have to agree that the plants have something to do with the dragons, right?&lt;br&gt;[ES] Supongo que estar&amp;#225;s de acuerdo en que las plantas tienen algo que ver con los dragones, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I need to get back to the village, and do some research.&lt;br&gt;[ES] Necesito volver al pueblo e investigar un poco.</Page>
+    </Text>
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Scholar&lt;br&gt;[ES] Scholar</Page>
+    </Text>
+</VillagerDialog>

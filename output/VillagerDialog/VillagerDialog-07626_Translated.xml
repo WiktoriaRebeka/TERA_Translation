@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20200" huntingZoneId="2001" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I need more time to inspect this place.&lt;BR&gt;&lt;BR&gt;Don't forget what we're here for.&lt;br&gt;[ES] Necesito m&amp;#225;s tiempo para inspeccionar este lugar.&lt;BR&gt;&lt;BR&gt;No olvides a qu&amp;#233; hemos venido.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Rescuing and investigating are both important. We shouldn't neglect one for another.&lt;br&gt;[ES] Rescatar e investigar son igual de importantes. No debemos descuidar lo uno por lo otro.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll give Aurl a hand.&lt;br&gt;[ES] Le echar&amp;#233; una mano a Aurl.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Titus, we need to stop when we find a new plant.&lt;br&gt;[ES] Titus, necesitamos parar cuando encontremos una planta nueva.</Page>
+    </Text>
+</VillagerDialog>

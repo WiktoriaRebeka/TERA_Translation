@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4001" huntingZoneId="509" voiceTypeId="22" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="22">[EN] Look at this piece of paper I found! I think it might be worth something!&lt;br&gt;[ES] &amp;#161;Mira este pedazo de papel que encontr&amp;#233;! &amp;#161;Creo que podr&amp;#237;a valer algo!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="22">[EN] It has something to do with dragons... like, how to ride them!&lt;br&gt;[ES] Tiene algo que ver con dragones... &amp;#161;como, por ejemplo, c&amp;#243;mo montarlos!</Page>
+    </Text>
+</VillagerDialog>

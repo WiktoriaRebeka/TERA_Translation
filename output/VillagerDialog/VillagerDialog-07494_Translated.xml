@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220022" huntingZoneId="1023" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hello there. I am Serghetto, a collector from...far away.&lt;BR&gt;Perhaps I may have something that you desire.&lt;BR&gt;You should take a look fast. No one knows when the Nexus will recover.&lt;br&gt;[ES] Hola. Soy Serghetto, un coleccionista de... muy lejos.&lt;BR&gt;Tal vez tenga algo que deseas.&lt;BR&gt;Deber&amp;#237;as echar un vistazo r&amp;#225;pido. Nadie sabe cu&amp;#225;ndo se recuperar&amp;#225; el Nexus.</Page>
+    </Text>
+    <Text id="101" prevId="0" endSocial="14">
+        <Page>[EN] The battle energy created a Nexus...&lt;br&gt;[ES] La energ&amp;#237;a de la batalla cre&amp;#243; un Nexus...</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1011" huntingZoneId="76" voiceTypeId="96" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Oh? A new face? Does that mean the road to Kaiator is clear?&lt;br&gt;[ES] &amp;#191;Oh? &amp;#191;Una cara nueva? &amp;#191;Significa eso que el camino a Kaiator est&amp;#225; despejado?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4">[EN] I'll be back later!&lt;br&gt;[ES] &amp;#161;Volver&amp;#233; m&amp;#225;s tarde!</Page>
+    </Text>
+</VillagerDialog>

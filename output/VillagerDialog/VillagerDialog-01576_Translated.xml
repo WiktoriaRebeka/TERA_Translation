@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3001" huntingZoneId="71" voiceTypeId="77" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="245">[EN] The refuge is a safe place for nature and those who love it. Show it respect.&lt;BR&gt;&lt;BR&gt;We'll be watching you, soldier.&lt;br&gt;[ES] El refugio es un lugar seguro para la naturaleza y quienes la aman. Mu&amp;#233;strale respeto.&lt;BR&gt;&lt;BR&gt;Te estaremos vigilando, soldado.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="246">[EN] You show respect to nature, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nurture that attitude.&lt;br&gt;[ES] Le muestras respeto a la naturaleza, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Mant&amp;#233;n esa actitud.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="247">[EN] Welcome, &lt;PCNAME&gt;.&lt;br&gt;[ES] Bienvenido, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="247">[EN] Pleasure to see you...my friend.&lt;br&gt;[ES] Un placer verte... amigo m&amp;#237;o.</Page>
+    </Text>
+</VillagerDialog>

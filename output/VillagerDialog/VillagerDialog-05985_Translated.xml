@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5007" huntingZoneId="410" voiceTypeId="110" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] They cut off the general's horns! They desecrated his body!&lt;BR&gt;&lt;BR&gt;I will not forgive them! Never!&lt;br&gt;[ES] &amp;#161;Le cortaron los cuernos al general! &amp;#161;Profanaron su cuerpo!&lt;BR&gt;&lt;BR&gt;&amp;#161;No los perdonar&amp;#233;! &amp;#161;Nunca!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Yes, sir!&lt;br&gt;[ES] &amp;#161;S&amp;#237;, se&amp;#241;or!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] You...!&lt;br&gt;[ES] &amp;#161;T&amp;#250;...!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] Guards!&lt;br&gt;[ES] &amp;#161;Guardias!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0">[EN] Praise Kaia!&lt;br&gt;[ES] &amp;#161;Alaben a Kaia!</Page>
+    </Text>
+</VillagerDialog>

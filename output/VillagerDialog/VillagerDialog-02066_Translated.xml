@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="76" voiceTypeId="97" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Did you come from {@Rgn:84001}?&lt;br&gt;[ES] &amp;#191;Vienes de {@Rgn:84001}?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Hey! An outsider! It's an outsider!&lt;br&gt;[ES] &amp;#161;Oigan! &amp;#161;Un extra&amp;#241;o! &amp;#161;Es un extra&amp;#241;o!</Page>
+    </Text>
+</VillagerDialog>

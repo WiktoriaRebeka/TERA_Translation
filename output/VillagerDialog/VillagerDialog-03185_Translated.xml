@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2064" huntingZoneId="183" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] My name is Loomey.&lt;BR&gt;&lt;BR&gt;I enjoy wandering the land.&lt;br&gt;[ES] Me llamo Loomey.&lt;BR&gt;&lt;BR&gt;Disfruto vagando por estas tierras.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4" voiceTypeId="0">[EN] Would you take a look at this egg? I found it in the Timeless Woods.&lt;br&gt;[ES] &amp;#191;Podr&amp;#237;as echarle un vistazo a este huevo? Lo encontr&amp;#233; en Timeless Woods.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4" voiceTypeId="0">[EN] I hope everything goes well.&lt;br&gt;[ES] Espero que todo salga bien.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Yes!&lt;br&gt;[ES] &amp;#161;S&amp;#237;!</Page>
+    </Text>
+</VillagerDialog>

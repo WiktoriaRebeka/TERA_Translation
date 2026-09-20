@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10035" huntingZoneId="84" voiceTypeId="112" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I came from Habere!&lt;BR&gt;Please let me into the headquarters!&lt;br&gt;[ES] &amp;#161;Vine de Habere!&lt;BR&gt;&amp;#161;Por favor, d&amp;#233;jame entrar al cuartel general!</Page>
+    </Text>
+    <Text id="1" endSocial="0">
+        <Page social="5" voiceTypeId="112">[EN] The Divine Furnace engineer is awake!&lt;br&gt;[ES] &amp;#161;El ingeniero del Divine Furnace est&amp;#225; despierto!</Page>
+    </Text>
+</VillagerDialog>

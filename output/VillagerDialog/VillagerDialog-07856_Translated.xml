@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="130" huntingZoneId="2500" voiceTypeId="282" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="282">[EN] Hi!&lt;BR&gt;Are you done looking around Tower of Shara?&lt;BR&gt;I've got things to do with my friends. I'll play with you later. &lt;BR&gt;See you!&lt;br&gt;[ES] &amp;#161;Hola!&lt;BR&gt;&amp;#191;Ya terminaste de explorar Tower of Shara?&lt;BR&gt;Tengo cosas que hacer con mis amigos. Jugar&amp;#233; contigo m&amp;#225;s tarde. &lt;BR&gt;&amp;#161;Nos vemos!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4" voiceTypeId="0">[EN] See you!&lt;br&gt;[ES] &amp;#161;Nos vemos!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4" voiceTypeId="0">[EN] Guys, play with me.&lt;br&gt;[ES] Chicos, jueguen conmigo.</Page>
+    </Text>
+</VillagerDialog>

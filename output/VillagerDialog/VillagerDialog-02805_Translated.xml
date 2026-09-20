@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30001" huntingZoneId="123" voiceTypeId="95" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="6">
+        <Page social="0" voiceTypeId="0">[EN] There are all kinds of great trades going on&amp;#8212;for members of the Iron Order, that is.&lt;br&gt;[ES] Hay todo tipo de grandes negocios en marcha... para los miembros de la Iron Order, claro.</Page>
+    </Text>
+    <Text id="6" endSocial="4">
+        <Page social="0" voiceTypeId="0">[EN] I serve the Iron Order&amp;#8212;not you.&lt;br&gt;[ES] Sirvo a la Iron Order, no a ti.</Page>
+    </Text>
+</VillagerDialog>

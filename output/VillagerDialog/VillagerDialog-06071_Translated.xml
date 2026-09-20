@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9004" huntingZoneId="416" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="2">[EN] The gods are with us!&lt;br&gt;[ES] &amp;#161;Los dioses est&amp;#225;n con nosotros!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Be careful! There are enemies on top of the ladder!&lt;br&gt;[ES] &amp;#161;Ten cuidado! &amp;#161;Hay enemigos arriba de la escalera!</Page>
+    </Text>
+</VillagerDialog>

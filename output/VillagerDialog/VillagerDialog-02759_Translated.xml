@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30001" huntingZoneId="121" voiceTypeId="2" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="6">
+        <Page social="0" voiceTypeId="0">[EN] What's the Free Traders Collective for, if not free trade?&lt;BR&gt;&lt;BR&gt;You are in the collective, right?&lt;br&gt;[ES] &amp;#191;Para qu&amp;#233; sirve el Free Traders Collective, si no es para el comercio libre?&lt;BR&gt;&lt;BR&gt;Est&amp;#225;s en el colectivo, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="6" endSocial="4">
+        <Page social="0" voiceTypeId="0">[EN] I only do business with members of my own alliance!&lt;br&gt;[ES] &amp;#161;Solo hago negocios con miembros de mi propia alianza!</Page>
+    </Text>
+</VillagerDialog>

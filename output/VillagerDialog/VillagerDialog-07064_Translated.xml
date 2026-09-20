@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1016" huntingZoneId="793" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] (Karascha's crest dominates the structure.)&lt;br&gt;[ES] (El blas&amp;#243;n de Karascha domina la estructura.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] (The crest vibrates slightly.)&lt;TEXTBUTTON&gt;Examine the crest.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Touch the crest.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] (El blas&amp;#243;n vibra levemente.)&lt;TEXTBUTTON&gt;Examine the crest.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Touch the crest.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

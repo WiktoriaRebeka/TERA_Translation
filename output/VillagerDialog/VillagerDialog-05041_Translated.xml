@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1021" huntingZoneId="241" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] Our brothers who were enslaved by the gulas think of us as traitors. And yet it's our duty to free them from their oppressors.&lt;BR&gt;&lt;BR&gt;We can't do it without your help.&lt;br&gt;[ES] Nuestros hermanos que fueron esclavizados por las gulas nos consideran traidores. Y, sin embargo, es nuestro deber liberarlos de sus opresores.&lt;BR&gt;&lt;BR&gt;No podemos hacerlo sin tu ayuda.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Graatush has betrayed Badoask!&lt;br&gt;[ES] &amp;#161;Graatush ha traicionado a Badoask!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] We won't forgive Graatush for driving the orcans to ruin!&lt;br&gt;[ES] &amp;#161;No perdonaremos a Graatush por llevar a los orcans a la ruina!</Page>
+    </Text>
+</VillagerDialog>

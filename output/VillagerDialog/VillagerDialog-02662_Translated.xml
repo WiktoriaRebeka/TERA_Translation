@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22010" huntingZoneId="84" voiceTypeId="66" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="8422010" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I can send you upstairs.&lt;br&gt;[ES] Puedo subirte al piso de arriba.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] If you have to choose sides, always choose the winning side!&lt;br&gt;[ES] &amp;#161;Si tienes que elegir un bando, elige siempre el bando ganador!</Page>
+    </Text>
+</VillagerDialog>

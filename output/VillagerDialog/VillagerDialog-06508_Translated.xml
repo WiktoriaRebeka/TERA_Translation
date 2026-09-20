@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="496" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Malachai studied the core energy secretly in Sirjuka Gallery.&lt;BR&gt;&lt;BR&gt;It's filled with ominous energy...&lt;br&gt;[ES] Malachai estudi&amp;#243; la energ&amp;#237;a del n&amp;#250;cleo en secreto en Sirjuka Gallery.&lt;BR&gt;&lt;BR&gt;Est&amp;#225; llena de una energ&amp;#237;a ominosa...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4" voiceTypeId="0">[EN] Whatever appears, protect the core crystal!&lt;br&gt;[ES] &amp;#161;Aparezca lo que aparezca, protege el Crystal del n&amp;#250;cleo!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4" voiceTypeId="0">[EN] Jermir and I will help you.&lt;br&gt;[ES] Jermir y yo te ayudaremos.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="4" voiceTypeId="0">[EN] Jermir, let's go!&lt;br&gt;[ES] &amp;#161;Jermir, v&amp;#225;monos!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="4" voiceTypeId="0">[EN] Farewell, &lt;PCNAME&gt;.&lt;br&gt;[ES] Adi&amp;#243;s, &lt;PCNAME&gt;.</Page>
+    </Text>
+</VillagerDialog>

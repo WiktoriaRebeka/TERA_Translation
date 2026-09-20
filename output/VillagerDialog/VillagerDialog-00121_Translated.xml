@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="25" huntingZoneId="3" voiceTypeId="4" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Oh, no! My necklace!&lt;br&gt;[ES] &amp;#161;Oh, no! &amp;#161;Mi collar!</Page>
+    </Text>
+    <Text id="101" endSocial="1">
+        <Page social="0" voiceTypeId="0">[EN] Wait...did you hear something?&lt;br&gt;[ES] Espera... &amp;#191;escuchaste algo?</Page>
+    </Text>
+    <Text id="102" endSocial="1">
+        <Page social="0" voiceTypeId="0">[EN] Help!&lt;br&gt;[ES] &amp;#161;Ayuda!</Page>
+    </Text>
+    <Text id="10001" endSocial="1">
+        <Page social="0" voiceTypeId="0">[EN] I was finally able to demonstrate my skills. Thanks.&lt;br&gt;[ES] Por fin pude demostrar mis habilidades. Gracias.</Page>
+    </Text>
+</VillagerDialog>

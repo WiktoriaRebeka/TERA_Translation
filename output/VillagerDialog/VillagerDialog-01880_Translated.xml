@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22013" huntingZoneId="72" voiceTypeId="12" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I wish I could help, but my hands are tied, friend. Are you sure you have the right bank?&lt;br&gt;[ES] Desear&amp;#237;a poder ayudar, pero tengo las manos atadas, amigo. &amp;#191;Est&amp;#225;s seguro de que tienes el banco correcto?</Page>
+    </Text>
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] When it comes to spare gear, there's no place safer than a bank vault.&lt;br&gt;[ES] Cuando se trata de equipo adicional, no hay lugar m&amp;#225;s seguro que una b&amp;#243;veda del banco.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] We can hold your items for you&amp;#8212;no questions asked.&lt;br&gt;[ES] Podemos guardar tus objetos sin hacer preguntas.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Go. Bring enlightenment to the masses. We'll watch your things.&lt;br&gt;[ES] Ve. Lleva la iluminaci&amp;#243;n a las masas. Nosotros cuidaremos tus cosas.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Trust me, the wisest investment you can make is your community. Wait and see.&lt;br&gt;[ES] Cr&amp;#233;eme, la inversi&amp;#243;n m&amp;#225;s sabia que puedes hacer es tu comunidad. Ya lo ver&amp;#225;s.</Page>
+    </Text>
+</VillagerDialog>

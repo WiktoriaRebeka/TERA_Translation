@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2025" huntingZoneId="506" voiceTypeId="108" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="108">[EN] Oh, you'll be sorry when I get my hands on you!&lt;br&gt;[ES] &amp;#161;Ay, te vas a arrepentir cuando te ponga las manos encima!</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="0" voiceTypeId="108">[EN] Really? My mom said so too!&lt;br&gt;[ES] &amp;#191;De verdad? &amp;#161;Mi mam&amp;#225; tambi&amp;#233;n dijo eso!</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="108">[EN] That's a lie! Who would believe that?&lt;br&gt;[ES] &amp;#161;Eso es mentira! &amp;#191;Qui&amp;#233;n creer&amp;#237;a algo as&amp;#237;?</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5006" huntingZoneId="829" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="100" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Who dares to interrupt us?&lt;br&gt;[ES] &amp;#191;Qui&amp;#233;n se atreve a interrumpirnos?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You are too late! It is done!&lt;br&gt;[ES] &amp;#161;Llegas demasiado tarde! &amp;#161;Ya est&amp;#225; hecho!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30003" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="0" voiceTypeId="0">[EN] Welcome, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Take your time, and look around.&lt;br&gt;[ES] Bienvenido, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;T&amp;#243;mate tu tiempo y echa un vistazo.</Page>
+    </Text>
+    <Text id="6" endSocial="4">
+        <Page social="0" voiceTypeId="0">[EN] My wares are for the Iron Order, and no one else. Understand?&lt;br&gt;[ES] Mis mercanc&amp;#237;as son para la Iron Order y para nadie m&amp;#225;s. &amp;#191;Entendido?</Page>
+    </Text>
+</VillagerDialog>

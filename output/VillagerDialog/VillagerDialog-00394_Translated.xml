@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1039" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Raider's Corpse&lt;br&gt;[ES] Cad&amp;#225;ver de asaltante</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You should leave, if you know what's good for you.&lt;br&gt;[ES] Deber&amp;#237;as marcharte, si sabes lo que te conviene.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Urgh!&lt;br&gt;[ES] &amp;#161;Urg!</Page>
+    </Text>
+</VillagerDialog>

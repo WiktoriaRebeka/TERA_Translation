@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1022" huntingZoneId="74" voiceTypeId="28" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="28">[EN] When will the village be safe again?&lt;br&gt;[ES] &amp;#191;Cu&amp;#225;ndo volver&amp;#225; a estar seguro el pueblo?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Who will end our suffering?&lt;br&gt;[ES] &amp;#191;Qui&amp;#233;n acabar&amp;#225; con nuestro sufrimiento?</Page>
+    </Text>
+</VillagerDialog>

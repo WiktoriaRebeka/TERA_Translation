@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3001" huntingZoneId="210" voiceTypeId="3" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="6" voiceTypeId="3">[EN] Though none of our hands are entirely clean, the Lightkeepers exist as an example to others of the proper way for a guild to comport itself.&lt;BR&gt;&lt;BR&gt;When I die, it will be while protecting the weak, and history shall remember me for my actions.&lt;br&gt;[ES] Aunque ninguna de nuestras manos est&amp;#225; completamente limpia, los Lightkeepers existen como un ejemplo para los dem&amp;#225;s sobre la forma adecuada en que un gremio debe comportarse.&lt;BR&gt;&lt;BR&gt;Cuando muera, ser&amp;#225; mientras protejo a los d&amp;#233;biles, y la historia me recordar&amp;#225; por mis acciones.</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="5" voiceTypeId="3">[EN] &lt;PCNAME&gt;, what will you do when you face absolute evil?&lt;br&gt;[ES] &lt;PCNAME&gt;, &amp;#191;qu&amp;#233; har&amp;#225;s cuando te enfrentes al mal absoluto?</Page>
+    </Text>
+</VillagerDialog>

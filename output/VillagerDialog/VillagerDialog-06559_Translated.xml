@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2022" huntingZoneId="506" voiceTypeId="122" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="4" voiceTypeId="122">[EN] Aren't you a dancer?&lt;br&gt;[ES] &amp;#191;Acaso no eres bailar&amp;#237;n?</Page>
+    </Text>
+    <Text id="2" endSocial="2">
+        <Page social="4" voiceTypeId="122">[EN] Haha, show them what you've got.&lt;br&gt;[ES] Jaja, mu&amp;#233;strales lo que tienes.</Page>
+    </Text>
+</VillagerDialog>

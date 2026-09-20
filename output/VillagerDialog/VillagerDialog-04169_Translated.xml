@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1032" huntingZoneId="220" voiceTypeId="10" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="10">[EN] Let me out! Please say you're here to let me out!&lt;br&gt;[ES] &amp;#161;S&amp;#225;came de aqu&amp;#237;! &amp;#161;Por favor, dime que est&amp;#225;s aqu&amp;#237; para sacarme!</Page>
+    </Text>
+    <Text id="10001" endSocial="0">
+        <Page social="10">[EN] Oh, thank you. Thank you so much.&lt;br&gt;[ES] Oh, gracias. Much&amp;#237;simas gracias.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1004" huntingZoneId="3004" voiceTypeId="177" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="0">[EN] You must... get away from me... hurry...&lt;br&gt;[ES] Debes... alejarme de m&amp;#237;... date prisa...</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Get away! No! Run!&lt;TEXTBUTTON&gt;Approach Kaidun. &lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Help Kaidun up.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Al&amp;#233;jate! &amp;#161;No! &amp;#161;Corre!&lt;TEXTBUTTON&gt;Approach Kaidun. &lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Help Kaidun up.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

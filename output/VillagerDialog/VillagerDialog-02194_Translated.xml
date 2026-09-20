@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3006" huntingZoneId="78" voiceTypeId="86" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="261">[EN] Whose ass did you neglect kissing to get stationed here?&lt;br&gt;[ES] &amp;#191;A qu&amp;#233; trasero olvidaste besar para que te asignaran aqu&amp;#237;?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="0" voiceTypeId="262">[EN] Are you here to talk or fight?&lt;br&gt;[ES] &amp;#191;Vienes a hablar o a pelear?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="263">[EN] You're making quite a name for yourself, my friend.&lt;BR&gt;&lt;BR&gt;Keep spilling the blood.&lt;br&gt;[ES] Te est&amp;#225;s haciendo un gran nombre, amigo m&amp;#237;o.&lt;BR&gt;&lt;BR&gt;Sigue derramando sangre.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="263">[EN] Still standing, eh?&lt;BR&gt;&lt;BR&gt;Good. Means the argons aren't.&lt;br&gt;[ES] Sigues de pie, &amp;#191;eh?&lt;BR&gt;&lt;BR&gt;Bien. Significa que los argons no.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5010" huntingZoneId="411" voiceTypeId="68" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] It takes a lot of effort to become a decent blacksmith.&lt;br&gt;[ES] Se necesita mucho esfuerzo para convertirse en un herrero decente.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Alkahest is done...&lt;br&gt;[ES] El Alkahest est&amp;#225; listo...</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Next is pixie's wing powder...&lt;br&gt;[ES] Lo siguiente es polvo de ala de pixie...</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] Master, it's ready!&lt;br&gt;[ES] &amp;#161;Maestro, est&amp;#225; listo!</Page>
+    </Text>
+</VillagerDialog>

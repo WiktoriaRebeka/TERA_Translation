@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22002" huntingZoneId="72" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Hello, friend. Have you given thought to what you can do for the Enlightened Union?&lt;br&gt;[ES] Hola, amigo. &amp;#191;Has pensado en lo que puedes hacer por la Enlightened Union?</Page>
+    </Text>
+    <Text id="5" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Oh, I'm sorry, friend, but it would appear you are not a master, or even a member, of a guild serving the Enlightened Union. In simple terms, this would mean we have nothing to talk about. But have a good day!&lt;br&gt;[ES] Oh, lo siento, amigo, pero parece que no eres un maestro, ni siquiera un miembro, de un gremio que sirve a la Enlightened Union. En pocas palabras, esto significa que no tenemos de qu&amp;#233; hablar. &amp;#161;Pero que tengas un buen d&amp;#237;a!</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Hello, friend. Have you ever wondered what the Enlightened Union has in store for you?&lt;br&gt;[ES] Hola, amigo. &amp;#191;Alguna vez te has preguntado qu&amp;#233; tiene reservado para ti la Enlightened Union?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Hello, friend. Have you heard the good word of the Enlightened Union?&lt;br&gt;[ES] Hola, amigo. &amp;#191;Has escuchado las buenas nuevas de la Enlightened Union?</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Hello, friend. Have you come to pledge allegiance to the Enlightened Union?&lt;br&gt;[ES] Hola, amigo. &amp;#191;Has venido a jurar lealtad a la Enlightened Union?</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] The vanarch system simply isn't working, is it? So much chaos. The people need more enlightened leadership.&lt;br&gt;[ES] El sistema de vanarch simplemente no funciona, &amp;#191;verdad? Tanto caos. La gente necesita un liderazgo m&amp;#225;s ilustrado.</Page>
+    </Text>
+</VillagerDialog>

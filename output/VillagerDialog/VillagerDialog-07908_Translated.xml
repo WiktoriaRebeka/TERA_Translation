@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2504" huntingZoneId="2500" voiceTypeId="294" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="294">[EN] Welcome.&lt;br&gt;[ES] Bienvenido.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Alright, I'm also going to train hard from now on.&lt;br&gt;[ES] Muy bien, &amp;#161;yo tambi&amp;#233;n voy a entrenar duro a partir de ahora!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I&amp;#8217;ll grow strong!&lt;br&gt;[ES] &amp;#161;Me har&amp;#233; fuerte!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Serial attacks!&lt;br&gt;[ES] &amp;#161;Ataques en serie!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hiyah!&lt;br&gt;[ES] &amp;#161;Jaj&amp;#225;i!</Page>
+    </Text>
+</VillagerDialog>

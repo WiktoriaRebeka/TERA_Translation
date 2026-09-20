@@ -1,0 +1,29 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22003" huntingZoneId="72" voiceTypeId="38" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="912300" endSocial="14">
+        <Page social="0" voiceTypeId="0">[EN] Greetings, my friend. How might my wares serve you?&lt;br&gt;[ES] Saludos, amigo m&amp;#237;o. &amp;#191;C&amp;#243;mo pueden mis productos servirte?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Oh, I'm so sorry, but these items might be a bit too advanced for you. Have you tried the stables, or an armory?&lt;br&gt;[ES] Oh, lo siento mucho, pero estos art&amp;#237;culos pueden ser un poco demasiado avanzados para ti. &amp;#191;Has probado en los establos o en una armer&amp;#237;a?</Page>
+    </Text>
+    <Text id="9123001" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Greetings, friend! Might my wares serve your needs?&lt;br&gt;[ES] &amp;#161;Saludos, amigo! &amp;#191;Podr&amp;#237;an mis mercanc&amp;#237;as satisfacer tus necesidades?</Page>
+    </Text>
+    <Text id="9123002" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Greetings, my friend. Are you interested in my wares?&lt;br&gt;[ES] Saludos, amigo m&amp;#237;o. &amp;#191;Est&amp;#225;s interesado en mis productos?</Page>
+    </Text>
+    <Text id="9123003" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Greetings, friend. How have you served the union today?&lt;br&gt;[ES] Saludos, amigo. &amp;#191;C&amp;#243;mo has servido a la uni&amp;#243;n hoy?</Page>
+    </Text>
+    <Text id="9123004" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Greetings, my friend. How might I serve one who serves the union?&lt;br&gt;[ES] Saludos, amigo m&amp;#237;o. &amp;#191;C&amp;#243;mo puedo servir a alguien que sirve a la uni&amp;#243;n?</Page>
+    </Text>
+    <Text id="700" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] My apologies, friend, but you are still an associate member. The executive store is for those of the upper echelons.&lt;br&gt;[ES] Mis disculpas, amigo, pero sigues siendo un miembro asociado. La tienda ejecutiva es para aquellos en las altas esferas.</Page>
+    </Text>
+    <Text id="800" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I am sorry, my friend&amp;#8212;so, so sorry&amp;#8212;but your status as an associate member does not allow you to patronize the executive store.&lt;br&gt;[ES] Lo siento, amigo m&amp;#237;o &amp;#8212;lo siento much&amp;#237;simo&amp;#8212;, pero tu condici&amp;#243;n de miembro asociado no te permite comprar en la tienda ejecutiva.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Everywhere we look, nothing but discontent. Our leaders should be chosen from the most enlightened&amp;#8212;not the strongest or most popular.&lt;br&gt;[ES] Dondequiera que mire, no hay m&amp;#225;s que descontento. Nuestros l&amp;#237;deres deber&amp;#237;an ser elegidos entre los m&amp;#225;s ilustrados, no entre los m&amp;#225;s fuertes o populares.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8024" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I ran into that &lt;PCCLASS:lcase&gt; I told you about.&lt;br&gt;[ES] Me top&amp;#233; con ese &lt;PCCLASS:lcase&gt; del que te habl&amp;#233;.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You'll get your money when I get the World Tree sap.&lt;br&gt;[ES] Recibir&amp;#225;s tu dinero cuando consiga la savia del World Tree.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] No tricks, scoundrel, or the Free Traders Collective will put a bounty on your head.&lt;br&gt;[ES] Sin trucos, sinverg&amp;#252;enza, o los Free Traders Collective pondr&amp;#225;n precio a tu cabeza.</Page>
+    </Text>
+</VillagerDialog>

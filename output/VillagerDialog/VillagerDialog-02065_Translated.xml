@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1013" huntingZoneId="76" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="14">
+        <Page social="4">[EN] Look! A soldier!&lt;br&gt;[ES] &amp;#161;Mira! &amp;#161;Un soldado!</Page>
+    </Text>
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] We're so glad to see you. We'd almost lost hope.&lt;br&gt;[ES] Nos alegra mucho verte. Casi hab&amp;#237;amos perdido la esperanza.</Page>
+    </Text>
+</VillagerDialog>

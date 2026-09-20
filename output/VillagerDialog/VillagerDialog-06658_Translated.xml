@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3001" huntingZoneId="509" voiceTypeId="25" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] I must... speak with the Commander...&lt;br&gt;[ES] Debo... hablar con el Commander...</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="0" voiceTypeId="25">[EN] I've never had Bleakfields barbecue. Do you recommend it?&lt;br&gt;[ES] Nunca he probado la barbacoa de Bleakfields. &amp;#191;La recomiendas?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="0" voiceTypeId="25">[EN] It's the end of the world! Please! You have to let me in!&lt;br&gt;[ES] &amp;#161;Es el fin del mundo! &amp;#161;Por favor! &amp;#161;Tienes que dejarme entrar!</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] Is this what the Gods wanted...? Apocalypse...?&lt;BR&gt;&lt;br&gt;[ES] &amp;#191;Es esto lo que quer&amp;#237;an los Dioses...? &amp;#191;Apocalipsis...?&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] Is it... really the end...?&lt;br&gt;[ES] &amp;#191;Es... realmente el fin...?</Page>
+    </Text>
+    <Text id="6" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] Hello? &lt;PCNAME&gt;! I'm so glad to see you!&lt;br&gt;[ES] &amp;#191;Hola? &amp;#161;&lt;PCNAME&gt;! &amp;#161;Qu&amp;#233; alegr&amp;#237;a verte!</Page>
+    </Text>
+</VillagerDialog>

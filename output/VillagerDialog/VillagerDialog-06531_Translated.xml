@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2027" huntingZoneId="505" voiceTypeId="135" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="24">
+        <Page social="0" voiceTypeId="0">[EN] This was supposed to be our era of peace... we fought so hard for it!&lt;BR&gt;Guardian, please get these people to safety.&lt;br&gt;[ES] Se supone que esta ser&amp;#237;a nuestra era de paz... &amp;#161;luchamos tanto por ella!&lt;BR&gt;Guardian, por favor lleva a esta gente a un lugar seguro.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Be careful moving the wounded!&lt;br&gt;[ES] &amp;#161;Cuidado al trasladar a los heridos!</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Is anybody there?&lt;br&gt;[ES] &amp;#191;Hay alguien ah&amp;#237;?</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The city... the Goddess!&lt;br&gt;[ES] La ciudad... &amp;#161;la Diosa!</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Gather the survivors here, where I am. After that, we move out!&lt;br&gt;[ES] &amp;#161;Re&amp;#250;ne a los sobrevivientes aqu&amp;#237;, donde estoy! &amp;#161;Despu&amp;#233;s de eso, nos marchamos!</Page>
+    </Text>
+    <Text id="6" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Use the teleport scroll. Make sure that every survivor is accounted for!&lt;br&gt;[ES] Usa el pergamino de teletransporte. &amp;#161;Aseg&amp;#250;rate de que no falte ning&amp;#250;n sobreviviente!</Page>
+    </Text>
+</VillagerDialog>

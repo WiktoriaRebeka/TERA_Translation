@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="213" voiceTypeId="93" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="213" prevId="0" villagerId="1005" endSocial="14">
+        <Page social="4">[EN] Well, aren't you the very picture of a freshly-minted keener. You get lost?&lt;br&gt;[ES] Vaya, si eres la viva imagen de un novato empoll&amp;#243;n. &amp;#191;Te perdiste?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1005" endSocial="14">
+        <Page social="4" />
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10000" huntingZoneId="3101" voiceTypeId="175" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="175">[EN] Good gracious! Who could have imagined that such a place would be down here...? And it doesn't seem to be natural...&lt;BR&gt;&lt;BR&gt;I wonder how this place got here...&lt;BR&gt;&lt;BR&gt;Don't worry. I'll try to stay out of your way.&lt;br&gt;[ES] &amp;#161;Dios m&amp;#237;o! &amp;#191;Qui&amp;#233;n habr&amp;#237;a imaginado que un lugar as&amp;#237; estar&amp;#237;a aqu&amp;#237; abajo...? Y no parece ser natural...&lt;BR&gt;&lt;BR&gt;Me pregunto c&amp;#243;mo lleg&amp;#243; este lugar aqu&amp;#237;...&lt;BR&gt;&lt;BR&gt;No te preocupes. Intentar&amp;#233; no estorbar.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Look at this place! It doesn't seem...natural.&lt;br&gt;[ES] &amp;#161;Mira este lugar! No parece... natural.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It looks like there's a way down over there. Go ahead, I'll be right behind you.&lt;br&gt;[ES] Parece que hay una forma de bajar por ah&amp;#237;. Ve t&amp;#250;, te sigo de cerca.</Page>
+    </Text>
+</VillagerDialog>

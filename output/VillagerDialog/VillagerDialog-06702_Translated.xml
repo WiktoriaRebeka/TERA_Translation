@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8003" huntingZoneId="509" voiceTypeId="76" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="76">[EN] I love this banquet!&lt;BR&gt;It's the best thing that's happened in years!&lt;br&gt;[ES] &amp;#161;Me encanta este banquete!&lt;BR&gt;&amp;#161;Es lo mejor que ha pasado en a&amp;#241;os!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="76">[EN] Oh, Nipuni! We can dance, if that's what you want to do.&lt;br&gt;[ES] &amp;#161;Oh, Nipuni! Podemos bailar, si eso es lo que quieres hacer.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="76">[EN] Let's get something to eat when we're finished here! Everything looks so delicious!&lt;br&gt;[ES] &amp;#161;Vamos a comer algo cuando terminemos aqu&amp;#237;! &amp;#161;Todo se ve tan delicioso!</Page>
+    </Text>
+</VillagerDialog>

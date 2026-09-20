@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1026" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] What just happened? I couldn't see anything...&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; acaba de pasar? No pude ver nada...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It seems that Amber Essence makes these things crazy.&lt;br&gt;[ES] Parece que la Esencia &amp;#225;mbar vuelve locas a estas cosas.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] They're probably very confused.&lt;br&gt;[ES] Probablemente est&amp;#225;n muy confundidos.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I think we have company. We should split up.&lt;br&gt;[ES] Creo que tenemos compa&amp;#241;&amp;#237;a. Deber&amp;#237;amos separarnos.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1105" huntingZoneId="27" voiceTypeId="175" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="175">[EN] By the gods!&lt;BR&gt;&lt;BR&gt;Did you see that? The butterflies emerged from that weird opening!&lt;BR&gt;&lt;BR&gt;We were lucky to witness that. Now that we're able to observe their nest, and maybe get some pure samples of the amber powder, we should be able to develop a cure more quickly.&lt;BR&gt;&lt;BR&gt;Don't get me wrong: I'm not enjoying this!&lt;br&gt;[ES] &amp;#161;Por los dioses!&lt;BR&gt;&lt;BR&gt;&amp;#191;Viste eso? &amp;#161;Las mariposas salieron de esa extra&amp;#241;a abertura!&lt;BR&gt;&lt;BR&gt;Tuvimos suerte de presenciar eso. Ahora que podemos observar su nido, y tal vez conseguir algunas muestras puras del polvo de &amp;#225;mbar, deber&amp;#237;amos poder desarrollar una cura m&amp;#225;s r&amp;#225;pidamente.&lt;BR&gt;&lt;BR&gt;No me malinterpretes: &amp;#161;no estoy disfrutando esto!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I can't wait any longer. I'll go ahead.&lt;br&gt;[ES] No puedo esperar m&amp;#225;s. Ir&amp;#233; adelante.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] What was that? &lt;PCNAME&gt;, did you see that too?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; fue eso? &lt;PCNAME&gt;, &amp;#191;t&amp;#250; tambi&amp;#233;n viste eso?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] A butterfly just came out of that opening!&lt;br&gt;[ES] &amp;#161;Acaba de salir una mariposa de esa abertura!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hey, over here!&lt;br&gt;[ES] &amp;#161;Ey, por aqu&amp;#237;!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1803" huntingZoneId="79" voiceTypeId="107" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="4">[EN] I don't suppose you brought a game with you?&lt;br&gt;[ES] Supongo que no trajiste un juego contigo.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4">[EN] My mom won't let me leave the house!&lt;br&gt;[ES] &amp;#161;Mi mam&amp;#225; no me deja salir de casa!</Page>
+    </Text>
+    <Text id="103" endSocial="1">
+        <Page social="4">[EN] Have you ever noticed the specs of dust floating in the air?&lt;br&gt;[ES] &amp;#191;Alguna vez has notado las motas de polvo flotando en el aire?</Page>
+    </Text>
+</VillagerDialog>

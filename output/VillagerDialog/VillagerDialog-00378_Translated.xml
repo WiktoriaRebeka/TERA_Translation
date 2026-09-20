@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="29" voiceTypeId="291" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] I had a feeling I might find you here.&lt;br&gt;[ES] Ten&amp;#237;a el presentimiento de que te encontrar&amp;#237;a aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] That's my line.&lt;br&gt;[ES] Esa es mi l&amp;#237;nea.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] Run now, while you still can!&lt;br&gt;[ES] &amp;#161;Corre ahora, mientras puedas!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] This, this is madness!&lt;br&gt;[ES] &amp;#161;Esto, esto es una locura!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9906" huntingZoneId="230" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Why did I decide to fish here? Seems like I haven't slept in days...&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; decid&amp;#237; pescar aqu&amp;#237;? Parece que no he dormido en d&amp;#237;as...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] This sweet smell...where is it coming from?&lt;br&gt;[ES] Este dulce olor... &amp;#191;de d&amp;#243;nde viene?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It's a candy!&lt;br&gt;[ES] &amp;#161;Es un caramelo!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Woah! Who are you?&lt;br&gt;[ES] &amp;#161;Guau! &amp;#191;Qui&amp;#233;n eres?</Page>
+    </Text>
+</VillagerDialog>

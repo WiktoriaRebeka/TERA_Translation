@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20305" huntingZoneId="2000" voiceTypeId="301" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="301">[EN] The Draakon Commander must be here!&lt;br&gt;[ES] &amp;#161;El Draakon Commander debe estar aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;PCNAME&gt;!!!&lt;br&gt;[ES] &lt;PCNAME&gt;!!!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Jelena found out where they're going!&lt;br&gt;[ES] &amp;#161;Jelena descubri&amp;#243; a d&amp;#243;nde van!</Page>
+    </Text>
+</VillagerDialog>

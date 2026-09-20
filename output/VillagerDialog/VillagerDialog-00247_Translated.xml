@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8022" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You're late.&lt;br&gt;[ES] Llegas tarde.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It doesn't look like you were followed. Where's the money?&lt;br&gt;[ES] No parece que te hayan seguido. &amp;#191;D&amp;#243;nde est&amp;#225; el dinero?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You don't trust me? Very well. Bring the money to the shrine&amp;#8212;Karascha's old lair. Then we'll make the exchange.&lt;br&gt;[ES] &amp;#191;No conf&amp;#237;as en m&amp;#237;? Muy bien. Lleva el dinero al santuario, la antigua guarida de Karascha. Entonces haremos el intercambio.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] If it makes you feel better. Just meet me at the shrine...with the money.&lt;br&gt;[ES] Si eso te hace sentir mejor. Solo encu&amp;#233;ntrame en el santuario... con el dinero.</Page>
+    </Text>
+</VillagerDialog>

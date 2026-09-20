@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4204" huntingZoneId="509" voiceTypeId="66" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="66">[EN] A good man should have something good in return!&lt;br&gt;[ES] &amp;#161;Un hombre bueno deber&amp;#237;a recibir algo bueno a cambio!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="66">[EN] Na na na na! La la la!&lt;br&gt;[ES] &amp;#161;Na na na na! &amp;#161;La la la!</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="66">[EN] It's starting!&lt;br&gt;[ES] &amp;#161;Est&amp;#225; empezando!</Page>
+    </Text>
+</VillagerDialog>

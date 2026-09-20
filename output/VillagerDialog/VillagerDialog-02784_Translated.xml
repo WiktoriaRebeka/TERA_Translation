@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220021" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] We have no reason to converse, wouldn't you agree?&lt;br&gt;[ES] No tenemos motivos para conversar, &amp;#191;no est&amp;#225;s de acuerdo?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="132">[EN] Only serenity can take you where you belong.&lt;br&gt;[ES] Solo la serenidad puede llevarte a donde perteneces.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You have the wrong baraka, don't you think?&lt;br&gt;[ES] Te has equivocado de baraka, &amp;#191;no te parece?</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="132">[EN] Cameraderie is key. Please, achieve that virtue before you come to us again.&lt;br&gt;[ES] La camarader&amp;#237;a es fundamental. Por favor, alcanza esa virtud antes de volver a nosotros.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="132">[EN] There will soon come a day when light shall reach even the darkest places!&lt;br&gt;[ES] &amp;#161;Pronto llegar&amp;#225; el d&amp;#237;a en que la luz alcance incluso los lugares m&amp;#225;s oscuros!</Page>
+    </Text>
+</VillagerDialog>

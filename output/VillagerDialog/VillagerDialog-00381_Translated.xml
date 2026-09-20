@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1008" huntingZoneId="29" voiceTypeId="150" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="150">[EN] I don't know this girl, but she clearly knows you.&lt;BR&gt;&lt;BR&gt;If she's lying, and they're trying to weaponize this, we'll be in more danger we could ever imagine.&lt;br&gt;[ES] No conozco a esta chica, pero ella claramente te conoce.&lt;BR&gt;&lt;BR&gt;Si est&amp;#225; mintiendo y est&amp;#225;n intentando convertir esto en un arma, estaremos en m&amp;#225;s peligro de lo que jam&amp;#225;s podr&amp;#237;amos imaginar.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="150">[EN] How dare you show yourself?&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo te atreves a aparecer?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="150">[EN] Why should we trust you?&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; deber&amp;#237;amos confiar en ti?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="150">[EN] Alright. Elleon, we should go.&lt;br&gt;[ES] De acuerdo. Elleon, deber&amp;#237;amos irnos.</Page>
+    </Text>
+</VillagerDialog>

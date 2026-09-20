@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8100" huntingZoneId="122" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="3" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Hello, friend! How may this one serve you today?&lt;br&gt;[ES] &amp;#161;Hola, amigo! &amp;#191;C&amp;#243;mo puedo servirte hoy?</Page>
+    </Text>
+    <Text id="20" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Welcome, friend! This one stands ready to serve you.&lt;br&gt;[ES] &amp;#161;Bienvenido, amigo! Estoy listo para servirte.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Greetings, friend! Do you have need of a cleric at this time?&lt;br&gt;[ES] &amp;#161;Saludos, amigo! &amp;#191;Necesitas los servicios de un cl&amp;#233;rigo en este momento?</Page>
+    </Text>
+    <Text id="22" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Hello, my friend! How can this one serve your needs today?&lt;br&gt;[ES] &amp;#161;Hola, amigo m&amp;#237;o! &amp;#191;C&amp;#243;mo puedo ayudarte hoy?</Page>
+    </Text>
+    <Text id="23" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Salutations, brave friend! This one has been dispatched to serve your needs and tend your wounds. Where shall we start?&lt;br&gt;[ES] &amp;#161;Saludos, valiente amigo! He sido asignado para servirte y curar tus heridas. &amp;#191;Por d&amp;#243;nde empezamos?</Page>
+    </Text>
+    <Text id="1" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Many apologies! Your blood is not for me, nor mine for you!&lt;br&gt;[ES] &amp;#161;Muchas disculpas! &amp;#161;Tu sangre no es para m&amp;#237;, ni la m&amp;#237;a para ti!</Page>
+    </Text>
+</VillagerDialog>

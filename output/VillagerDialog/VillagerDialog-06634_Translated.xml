@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2002" huntingZoneId="509" voiceTypeId="125" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="125">[EN] Take me with you!&lt;br&gt;[ES] &amp;#161;Ll&amp;#233;vame contigo!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="125">[EN] I'm allowed to stay up late...&lt;br&gt;[ES] Me dejan quedarme despierto hasta tarde...</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="125">[EN] That's because the Goddess has brought us peace!&lt;br&gt;[ES] &amp;#161;Eso es porque la Diosa nos ha tra&amp;#237;do la paz!</Page>
+    </Text>
+</VillagerDialog>

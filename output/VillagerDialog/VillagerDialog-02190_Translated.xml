@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3002" huntingZoneId="78" voiceTypeId="119" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="236">[EN] You look like you can handle yourself.&lt;br&gt;[ES] Parece que sabes cuidarte solo.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="237">[EN] I don't fear death&amp;#8212;I fear the shame of dishonor.&lt;BR&gt;&lt;BR&gt;Death before dishonor!&lt;br&gt;[ES] No le temo a la muerte, le temo a la verg&amp;#252;enza del deshonor.&lt;BR&gt;&lt;BR&gt;&amp;#161;La muerte antes que el deshonor!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="238">[EN] The Shariar would gladly welcome a veteran such as yourself.&lt;br&gt;[ES] Los Shariar recibir&amp;#237;an con los brazos abiertos a un veterano como t&amp;#250;.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="238">[EN] I wish we had more soldiers like you.&lt;BR&gt;&lt;BR&gt;The argons wouldn't stand a chance!&lt;br&gt;[ES] Ojal&amp;#225; tuvi&amp;#233;ramos m&amp;#225;s soldados como t&amp;#250;.&lt;BR&gt;&lt;BR&gt;&amp;#161;Los argons no tendr&amp;#237;an ninguna oportunidad!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1056" huntingZoneId="415" voiceTypeId="10" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3" voiceTypeId="0">[EN] Help us. Do whatever you can, but help us.&lt;br&gt;[ES] Ay&amp;#250;danos. Haz lo que puedas, pero ay&amp;#250;danos.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'm never going back.&lt;br&gt;[ES] Jam&amp;#225;s voy a volver.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I couldn't save anyone. I tried, honest.&lt;br&gt;[ES] No pude salvar a nadie. Lo intent&amp;#233;, de verdad.</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We're all going to die here&amp;#8212;on an island that's not even on the maps!&lt;br&gt;[ES] &amp;#161;Todos vamos a morir aqu&amp;#237;, en una isla que ni siquiera aparece en los mapas!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] No more retreating! I've had it!&lt;br&gt;[ES] &amp;#161;No m&amp;#225;s retiradas! &amp;#161;Ya basta!</Page>
+    </Text>
+</VillagerDialog>

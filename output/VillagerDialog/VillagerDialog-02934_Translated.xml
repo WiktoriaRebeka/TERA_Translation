@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1004" huntingZoneId="181" voiceTypeId="134" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="134">[EN] The junior researchers tell me that Verikam is missing...perhaps dead.&lt;BR&gt;&lt;BR&gt;I wonder if the citizens of Highwatch will ask me to become the new High Elder...&lt;br&gt;[ES] Los investigadores junior me dicen que Verikam ha desaparecido... quiz&amp;#225;s est&amp;#233; muerto.&lt;BR&gt;&lt;BR&gt;Me pregunto si los ciudadanos de Highwatch me pedir&amp;#225;n que me convierta en el nuevo Gran Anciano...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4" voiceTypeId="134">[EN] This is taking longer than I remember. Have I forgotten something?&lt;br&gt;[ES] Esto est&amp;#225; tomando m&amp;#225;s tiempo del que recuerdo. &amp;#191;He olvidado algo?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4" voiceTypeId="134">[EN] This is not as easy as it might appear.&lt;br&gt;[ES] Esto no es tan f&amp;#225;cil como parece.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="4" voiceTypeId="134">[EN] Patience. The potion is nearly finished.&lt;br&gt;[ES] Paciencia. La poci&amp;#243;n est&amp;#225; casi lista.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="4" voiceTypeId="134">[EN] This was much easier when I was a younger baraka...&lt;br&gt;[ES] Esto era mucho m&amp;#225;s f&amp;#225;cil cuando era un baraka m&amp;#225;s joven...</Page>
+    </Text>
+</VillagerDialog>

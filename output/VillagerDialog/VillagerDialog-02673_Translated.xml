@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220045" huntingZoneId="84" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I'm here to help guildmasters choose an alliance. Don't worry, I'll put in a good word for yours.&lt;br&gt;[ES] Estoy aqu&amp;#237; para ayudar a los maestros de hermandad a elegir una alianza. No te preocupes, hablar&amp;#233; bien de la tuya.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I'm sure you've done your research on the material desires of the Free Traders Collective, the fellowship of the Enlightened Union, and the battle stance of the Iron Order. So which alliance do you want to join?&lt;br&gt;[ES] Seguro que ya investigaste sobre los deseos materiales de Free Traders Collective, la hermandad de Enlightened Union y la postura de combate de Iron Order. &amp;#191;A qu&amp;#233; alianza te quieres unir?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You need to be a guildmaster to join an alliance.&lt;br&gt;[ES] Necesitas ser un l&amp;#237;der de hermandad para unirse a una alianza.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] If the federation hadn't kept things from its people, the people wouldn't move to keep power fromthe federation!&lt;br&gt;[ES] &amp;#161;Si la federaci&amp;#243;n no le hubiera ocultado cosas a su pueblo, la gente no se mover&amp;#237;a para quitarle el poder a la federaci&amp;#243;n!</Page>
+    </Text>
+</VillagerDialog>

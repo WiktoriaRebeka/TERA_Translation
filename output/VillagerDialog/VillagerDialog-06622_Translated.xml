@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2001" huntingZoneId="508" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You try to deny it, but it haunts you...now and forever.&lt;br&gt;[ES] Intentas negarlo, pero te persigue... ahora y para siempre.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The hero of the entire world...&lt;BR&gt;always the first to come to the rescue.&lt;BR&gt;&lt;BR&gt;Always the first covered in blood.&lt;TEXTBUTTON&gt;[Look into your memory.]&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"I'm ready to face my regrets."&lt;/EVENTPAGEBUTTON&gt;&lt;CLOSEPAGEBUTTON&gt;"I'm not ready yet."&lt;/CLOSEPAGEBUTTON&gt;&lt;br&gt;[ES] El h&amp;#233;roe de todo el mundo...&lt;BR&gt;siempre el primero en acudir al rescate.&lt;BR&gt;&lt;BR&gt;Siempre el primero cubierto de sangre.&lt;TEXTBUTTON&gt;[Look into your memory.]&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"I'm ready to face my regrets."&lt;/EVENTPAGEBUTTON&gt;&lt;CLOSEPAGEBUTTON&gt;"I'm not ready yet."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

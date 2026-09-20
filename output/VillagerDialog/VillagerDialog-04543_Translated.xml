@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1031" huntingZoneId="230" voiceTypeId="128" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I'm the official delegate for the affairs between Bastion and Archive Stronghold, so I'm quite busy nowadays.&lt;br&gt;[ES] Soy el delegado oficial para los asuntos entre Bastion y Archive Stronghold, as&amp;#237; que estoy bastante ocupado hoy en d&amp;#237;a.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You have broken both of Seren's Seals. All that remains now is to go to Balder's Temple.&lt;CLOSEPAGEBUTTON&gt;"For the federation."&lt;/CLOSEPAGEBUTTON&gt;&lt;br&gt;[ES] Has roto ambos sellos de Seren. Todo lo que queda ahora es ir a Balder's Temple.&lt;CLOSEPAGEBUTTON&gt;"For the federation."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" endSocial="2">
+        <Page social="5" voiceTypeId="0">[EN] &lt;PCNAME&gt;, thank you for showing me that the prophecy was not false.&lt;CLOSEPAGEBUTTON&gt;"Glad to do it."&lt;/CLOSEPAGEBUTTON&gt;&lt;br&gt;[ES] &lt;PCNAME&gt;, gracias por demostrarme que la profec&amp;#237;a no era falsa.&lt;CLOSEPAGEBUTTON&gt;"Glad to do it."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="147" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="0">[EN] I...I'm scared...that I'll suddenly turn stiff...&lt;br&gt;[ES] Yo... tengo miedo... de quedarme r&amp;#237;gida de repente...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Argh...what the...?&lt;br&gt;[ES] Argh... &amp;#191;qu&amp;#233;...?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Never mind, &lt;PCNAME&gt;.&lt;br&gt;[ES] Olv&amp;#237;dalo, &lt;PCNAME&gt;.</Page>
+    </Text>
+</VillagerDialog>

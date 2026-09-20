@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="216" voiceTypeId="150" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="216" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4">[EN] I've been watching you. I'm definitely impressed. Skilled, clever, and not bad-looking at all.&lt;BR&gt;&lt;BR&gt;What's a nice &lt;PCCLASS:lcase&gt; like you doing in a place like this?&lt;br&gt;[ES] Te he estado observando. Definitivamente estoy impresionado. H&amp;#225;bil, inteligente y nada mal parecido.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233; hace una linda &lt;PCCLASS:lcase&gt; como t&amp;#250; en un lugar como este?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="216" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4">[EN] You'd never make it through the front doors. The Sinestral Manor is irritatingly hard to enter. On the other hand, I don't believe in "can't."&lt;BR&gt;&lt;BR&gt;Want to get inside?&lt;BR&gt;&lt;BR&gt;(Parties of three or more required.)&lt;TEXTBUTTON&gt;Sinestral Manor&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Enter the Manor&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] Jam&amp;#225;s lograr&amp;#237;as pasar por la puerta principal. La Sinestral Manor es irritantemente dif&amp;#237;cil de entrar. Por otro lado, no creo en el &quot;no puedo&quot;.&lt;BR&gt;&lt;BR&gt;&amp;#191;Quieres entrar?&lt;BR&gt;&lt;BR&gt;(Se requieren grupos de tres o m&amp;#225;s integrantes.)&lt;TEXTBUTTON&gt;Sinestral Manor&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Enter the Manor&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

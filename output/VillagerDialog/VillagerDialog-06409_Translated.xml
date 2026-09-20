@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8004" huntingZoneId="478" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] Free. Thank Kaia, I'm free!&lt;BR&gt;&lt;BR&gt;Ugh&amp;#8212;I think you've done me in, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;I'm dying...&lt;br&gt;[ES] Libre. &amp;#161;Gracias a Kaia, soy libre!&lt;BR&gt;&lt;BR&gt;Uf, creo que me has vencido, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Me estoy muriendo...</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] No, no...it's better this way. I couldn't live with the shame of my actions.&lt;BR&gt;&lt;BR&gt;Suryati leads the argons. I'll have to leave him to you. Heh. Tell him I said hello.&lt;BR&gt;&lt;BR&gt;Wait here while I open the portal. Careful! It'll take time...and they'll know you're coming.&lt;TEXTBUTTON&gt;"It was the only way."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Good."&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] No, no... es mejor as&amp;#237;. No podr&amp;#237;a vivir con la verg&amp;#252;enza de mis actos.&lt;BR&gt;&lt;BR&gt;Suryati lidera a los argons. Tendr&amp;#233; que dej&amp;#225;rtelo a ti. Je. Dale saludos de mi parte.&lt;BR&gt;&lt;BR&gt;Espera aqu&amp;#237; mientras abro el portal. &amp;#161;Ten cuidado! Tomar&amp;#225; tiempo... y sabr&amp;#225;n que vienes.&lt;TEXTBUTTON&gt;"It was the only way."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Good."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

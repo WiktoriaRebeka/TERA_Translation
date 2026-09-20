@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="148" huntingZoneId="38" voiceTypeId="10" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="13" voiceTypeId="10">[EN] I can't move like I used to, after I saw those butterflies and the powder.&lt;br&gt;[ES] No puedo moverme como antes, despu&amp;#233;s de ver esas mariposas y el polvo.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] What just happened?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; acaba de pasar?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It's nothing, Niniel...I was just remembering something about your birthday.&lt;br&gt;[ES] No es nada, Niniel... Solo recordaba algo sobre tu cumplea&amp;#241;os.</Page>
+    </Text>
+</VillagerDialog>

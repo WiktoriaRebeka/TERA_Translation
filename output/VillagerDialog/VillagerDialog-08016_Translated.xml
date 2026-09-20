@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2002" huntingZoneId="2502" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Urgh...&lt;br&gt;[ES] Urg...</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] My strength has not been fully regained yet.&lt;br&gt;[ES] Mi fuerza a&amp;#250;n no se ha recuperado por completo.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I&amp;#8217;ll back down this time.&lt;br&gt;[ES] Me retirar&amp;#233; por esta vez.</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It won&amp;#8217;t be like this the next time you see me, petty one!&lt;br&gt;[ES] &amp;#161;No ser&amp;#225; as&amp;#237; la pr&amp;#243;xima vez que nos veamos, insignificante criatura!</Page>
+    </Text>
+</VillagerDialog>

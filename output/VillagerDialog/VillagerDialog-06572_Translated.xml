@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4006" huntingZoneId="506" voiceTypeId="116" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="4" voiceTypeId="116">[EN] Missing? I thought he'd just gone into seclusion, to research something.&lt;BR&gt;Well, that's what I heard.&lt;br&gt;[ES] &amp;#191;Desaparecido? Pens&amp;#233; que simplemente se hab&amp;#237;a aislado para investigar algo.&lt;BR&gt;Bueno, eso fue lo que escuch&amp;#233;.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="116">[EN] Yeah, he's busy alright.&lt;BR&gt;&lt;br&gt;[ES] S&amp;#237;, est&amp;#225; bastante ocupado.&lt;BR&gt;</Page>
+    </Text>
+</VillagerDialog>

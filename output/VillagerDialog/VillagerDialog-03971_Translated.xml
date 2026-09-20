@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1027" huntingZoneId="215" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] I've studied my share of plagues. There are many things about this one that just don't fit.&lt;br&gt;[ES] He estudiado mi buena porci&amp;#243;n de plagas. Hay muchas cosas sobre esta que simplemente no encajan.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] At last, some answers!&lt;br&gt;[ES] &amp;#161;Por fin, algunas respuestas!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] Oh, please hurry! Popolion's very fate rides in that cart!&lt;TEXTBUTTON&gt;"Ready. Let's go!"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to the caravan.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Oh, por favor, date prisa! &amp;#161;El destino de Popolion depende de ese carro!&lt;TEXTBUTTON&gt;"Ready. Let's go!"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to the caravan.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

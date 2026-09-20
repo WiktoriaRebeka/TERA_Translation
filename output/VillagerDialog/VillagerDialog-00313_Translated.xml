@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1000" huntingZoneId="27" voiceTypeId="95" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I've located the transports.&lt;BR&gt;&lt;BR&gt;It took more time to come here and report than it did to track them down.&lt;br&gt;[ES] He localizado los transportes.&lt;BR&gt;&lt;BR&gt;Me tom&amp;#243; m&amp;#225;s tiempo venir aqu&amp;#237; y reportarlo que rastrearlos.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Well done!&lt;br&gt;[ES] &amp;#161;Bien hecho!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] This place is safe, thanks to you.&lt;br&gt;[ES] Este lugar es seguro, gracias a ti.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] There's no time to hesitate...!&lt;br&gt;[ES] &amp;#161;No hay tiempo para dudar...!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hurry. The villagers need our help!&lt;br&gt;[ES] Date prisa. &amp;#161;Los aldeanos necesitan nuestra ayuda!</Page>
+    </Text>
+</VillagerDialog>

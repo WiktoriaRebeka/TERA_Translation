@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="50016" huntingZoneId="63" voiceTypeId="104" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="1" voiceTypeId="0">[EN] Greetings, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I have rewards for brave fighters back from battlegrounds. Is there anything you want?&lt;br&gt;[ES] Saludos, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Tengo recompensas para los valientes combatientes que regresan de los campos de batalla. &amp;#191;Hay algo que quieras?</Page>
+    </Text>
+</VillagerDialog>

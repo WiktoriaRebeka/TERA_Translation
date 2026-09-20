@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="105" huntingZoneId="827" voiceTypeId="282" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="282">[EN] Tiaran is sad because the gods won't wake up. I hope I always wake up!&lt;br&gt;[ES] Tiaran est&amp;#225; triste porque los dioses no se despiertan. &amp;#161;Espero despertarme siempre!</Page>
+    </Text>
+    <Text id="100" endSocial="4">
+        <Page social="4" voiceTypeId="282">[EN] I'll race you!&lt;br&gt;[ES] &amp;#161;Te desaf&amp;#237;o a una carrera!</Page>
+    </Text>
+    <Text id="101" endSocial="4">
+        <Page social="4" voiceTypeId="282">[EN] I'll be right back!&lt;br&gt;[ES] &amp;#161;Ya vuelvo!</Page>
+    </Text>
+</VillagerDialog>

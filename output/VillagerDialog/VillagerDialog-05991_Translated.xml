@@ -1,0 +1,26 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5001" huntingZoneId="411" voiceTypeId="189" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You're new around here, aren't you? Not to worry&amp;#8212;we've got the finest blacksmiths in the land!&lt;BR&gt;&lt;BR&gt;Take your time, look around, and see all we have to offer.&lt;br&gt;[ES] &amp;#191;Eres nuevo por aqu&amp;#237;, verdad? &amp;#161;No te preocupes; tenemos a los mejores herreros de la regi&amp;#243;n!&lt;BR&gt;&lt;BR&gt;T&amp;#243;matelo con calma, mira a tu alrededor y descubre todo lo que tenemos para ofrecer.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Good! Shall we start?&lt;br&gt;[ES] &amp;#161;Bien! &amp;#191;Empezamos?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Not yet. This is not enough!&lt;br&gt;[ES] &amp;#161;A&amp;#250;n no. &amp;#161;Esto no es suficiente!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Guys!&lt;br&gt;[ES] &amp;#161;Chicos!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Now, the essence of the Core...&lt;br&gt;[ES] Ahora, la esencia del Core...</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Finally! I made it!&lt;br&gt;[ES] &amp;#161;Por fin! &amp;#161;Lo logr&amp;#233;!</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Now our task is complete.&lt;br&gt;[ES] Ahora nuestra tarea est&amp;#225; completa.</Page>
+    </Text>
+    <Text id="107" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Elleon! It's been a while.&lt;br&gt;[ES] &amp;#161;Elleon! Ha pasado tiempo.</Page>
+    </Text>
+</VillagerDialog>

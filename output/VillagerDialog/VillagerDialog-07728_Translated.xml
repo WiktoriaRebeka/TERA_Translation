@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="140" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="7" voiceTypeId="0">[EN] Good heavens!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! I never thought I'd see you here!&lt;br&gt;[ES] &amp;#161;Por el cielo!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt; &amp;#161;Jam&amp;#225;s pens&amp;#233; que te ver&amp;#237;a aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="7" voiceTypeId="0">[EN] Thank you. Thank you!&lt;br&gt;[ES] &amp;#161;Gracias! &amp;#161;Muchas gracias!</Page>
+    </Text>
+</VillagerDialog>

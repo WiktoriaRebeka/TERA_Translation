@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22004" huntingZoneId="84" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="912100" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Licking noctenium? My supplies will make your noctenium tasty!&lt;br&gt;[ES] &amp;#191;Lamiendo noctenium? &amp;#161;Mis suministros har&amp;#225;n que tu noctenium sepa delicioso!</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You don't smell like Iron Order.&lt;br&gt;[ES] No hueles a la Iron Order.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Snows bring the smell of doom for the federation.&lt;br&gt;[ES] Las nieves traen el olor de la fatalidad para la federaci&amp;#243;n.</Page>
+    </Text>
+</VillagerDialog>

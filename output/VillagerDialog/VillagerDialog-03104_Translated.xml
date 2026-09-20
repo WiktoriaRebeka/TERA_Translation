@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1007" huntingZoneId="183" voiceTypeId="274" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="274">[EN] Welcome, stranger. My name is Verikam, High Elder of Highwatch.&lt;br&gt;[ES] Bienvenido, extra&amp;#241;o. Mi nombre es Verikam, Gran Anciano de Highwatch.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Thank you for this pendant! It may indeed contain the answer of how to break the siege.&lt;br&gt;[ES] &amp;#161;Gracias por este colgante! De verdad puede contener la respuesta sobre c&amp;#243;mo romper el asedio.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Braga, please keep this in a safe place.&lt;br&gt;[ES] Braga, por favor guarda esto en un lugar seguro.</Page>
+    </Text>
+</VillagerDialog>

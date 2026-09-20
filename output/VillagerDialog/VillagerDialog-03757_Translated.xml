@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2010" huntingZoneId="210" voiceTypeId="82" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="82">[EN] Hi! Do you like sand? I like sand. I like to walk in it and sit in it and play on it and build in it and&amp;#8212;wait do you like sandcastles? I love sandcastles. I like to build them and smash them and build them again and fall on them and...&lt;br&gt;[ES] &amp;#161;Hola! &amp;#191;Te gusta la arena? Me gusta la arena. Me gusta caminar en ella y sentarme en ella y jugar en ella y construir en ella y... espera, &amp;#191;te encantan los castillos de arena? Me encantan los castillos de arena. Me gusta construirlos y destruirlos y construirlos de nuevo y caer sobre ellos y...</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="82">[EN] Hi! Do you want to play?&lt;br&gt;[ES] &amp;#161;Hola! &amp;#191;Quieres jugar?</Page>
+    </Text>
+</VillagerDialog>

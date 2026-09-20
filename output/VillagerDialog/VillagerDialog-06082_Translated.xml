@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="99" huntingZoneId="419" voiceTypeId="53" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="419" prevId="0" villagerId="99" endSocial="14">
+        <Page social="4">[EN] I never thought the Research Center would come under attack. How wrong I was.&lt;BR&gt;&lt;BR&gt;There will be nothing to worry about once the shield is ready.&lt;br&gt;[ES] Nunca pens&amp;#233; que el Research Center fuera atacado. Qu&amp;#233; equivocado estaba.&lt;BR&gt;&lt;BR&gt;No habr&amp;#225; nada de qu&amp;#233; preocuparse una vez que el escudo est&amp;#233; listo.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] Now I will activate the defense shield. Protect me from the Lok believers.&lt;TEXTBUTTON&gt;Talk to Mattin.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Protect Mattin as he works.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] Ahora activar&amp;#233; el escudo de defensa. Prot&amp;#233;geme de los creyentes de Lok.&lt;TEXTBUTTON&gt;Talk to Mattin.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Protect Mattin as he works.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

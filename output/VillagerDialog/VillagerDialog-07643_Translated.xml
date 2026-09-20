@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20301" huntingZoneId="2001" voiceTypeId="294" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="294">[EN] Rescuing the villagers should be our highest priority.&lt;br&gt;[ES] Rescatar a los aldeanos deber&amp;#237;a ser nuestra m&amp;#225;xima prioridad.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Titus, Aurl. Take care of the others.&lt;br&gt;[ES] Titus, Aurl. Cuiden de los dem&amp;#225;s.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;PCNAME&gt;, let's get moving. We must find Jelena.&lt;br&gt;[ES] &lt;PCNAME&gt;, pong&amp;#225;monos en marcha. Debemos encontrar a Jelena.</Page>
+    </Text>
+</VillagerDialog>

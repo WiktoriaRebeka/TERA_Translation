@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10004" huntingZoneId="2504" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You&amp;#8217;re more of a hassle than I thought.&lt;br&gt;[ES] Eres m&amp;#225;s molestia de lo que pensaba.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] But the playtime is over.&lt;br&gt;[ES] Pero el juego ha terminado.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Urgh...&lt;br&gt;[ES] Urg...</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I won&amp;#8217;t forget this.&lt;br&gt;[ES] No olvidar&amp;#233; esto.</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You will pay!&lt;br&gt;[ES] &amp;#161;Lo pagar&amp;#225;s!</Page>
+    </Text>
+</VillagerDialog>

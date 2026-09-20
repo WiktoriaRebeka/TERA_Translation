@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4000102" huntingZoneId="830" voiceTypeId="167" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="167">[EN] &lt;img src='img://__Image_Dungeon_9830.9830'/&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;&lt;PCNAME&gt;!! &lt;/font&gt;What a disappointment. &lt;BR&gt;A bigger disappointment for the crowd who was rooting for you... &lt;BR&gt;&lt;BR&gt;How could you let everyone down? &lt;BR&gt;&lt;BR&gt;The arena manager is very upset!!&lt;BR&gt;&lt;BR&gt;Be gone!&lt;br&gt;[ES] &lt;img src='img://__Image_Dungeon_9830.9830'/&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;&lt;PCNAME&gt;!! &lt;/font&gt;Qu&amp;#233; decepci&amp;#243;n. &lt;BR&gt;Una decepci&amp;#243;n a&amp;#250;n mayor para la multitud que te apoyaba... &lt;BR&gt;&lt;BR&gt;&amp;#191;C&amp;#243;mo pudiste defraudar a todos? &lt;BR&gt;&lt;BR&gt;&amp;#161;&amp;#161;El administrador de la arena est&amp;#225; muy molesto!!&lt;BR&gt;&lt;BR&gt;&amp;#161;Fuera de aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="4" voiceTypeId="167">[EN] Celestial Arena is not available right now.&lt;BR&gt;Try back later.&lt;br&gt;[ES] Celestial Arena no est&amp;#225; disponible en este momento.&lt;BR&gt;Vuelve m&amp;#225;s tarde.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4203" huntingZoneId="509" voiceTypeId="18" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="18">[EN] No, dear. That man does nothing but good, for all of us.&lt;br&gt;[ES] No, cari&amp;#241;o. Ese hombre no hace m&amp;#225;s que el bien por todos nosotros.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="18">[EN] It's time for Seir's speech now.&lt;br&gt;[ES] Es hora del discurso de Seir ahora.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="18">[EN] You have to be quiet during the speech. Okay?&lt;br&gt;[ES] Tienes que hacer silencio durante el discurso. &amp;#191;De acuerdo?</Page>
+    </Text>
+</VillagerDialog>

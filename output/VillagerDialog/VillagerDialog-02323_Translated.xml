@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1021" huntingZoneId="81" voiceTypeId="131" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="81" prevId="0" villagerId="1021" endSocial="14">
+        <Page social="4">[EN] To better communicate with the fey, you must open up both your heart and your mind.&lt;BR&gt;&lt;BR&gt;You must understand that communicating with the fey is communicating with nature or the divine, if you're into that kind of thing.&lt;BR&gt;&lt;BR&gt;Fey are nature.&lt;br&gt;[ES] Para comunicarte mejor con las fey, debes abrir tanto tu coraz&amp;#243;n como tu mente.&lt;BR&gt;&lt;BR&gt;Debes entender que comunicarte con las fey es comunicarte con la naturaleza o lo divino, si te va ese tipo de cosas.&lt;BR&gt;&lt;BR&gt;Las fey son la naturaleza.</Page>
+    </Text>
+    <Text id="1001" huntingZoneId="81" prevId="0" villagerId="1021" endSocial="0">
+        <Page social="4">[EN] Tsk, tsk... Troublemakers...&lt;br&gt;[ES] Tsk, tsk... Alborotadores...</Page>
+    </Text>
+</VillagerDialog>

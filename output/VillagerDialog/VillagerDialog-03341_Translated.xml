@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="202" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="202" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">[EN] The ghilliedhus are the root of the problem, if you ask me. Get it? "Root!" Get it?&lt;br&gt;[ES] Los ghilliedhus son la ra&amp;#237;z del problema, si me preguntas. &amp;#191;Entiendes? &amp;#161;&quot;Ra&amp;#237;z&quot;! &amp;#191;Entiendes?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="202" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">[EN] I should be out there getting rich, not cowering here, afraid of faeries!&lt;br&gt;[ES] &amp;#161;Deber&amp;#237;a estar ah&amp;#237; fuera haci&amp;#233;ndome rico, no acurrucado aqu&amp;#237;, con miedo a las hadas!</Page>
+    </Text>
+</VillagerDialog>

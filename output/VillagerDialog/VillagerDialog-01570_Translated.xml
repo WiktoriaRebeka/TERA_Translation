@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1113" huntingZoneId="71" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Huurrrr! &lt;CLOSEPAGEBUTTON&gt;"Easy!"&lt;/CLOSEPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Huurrrr! &lt;CLOSEPAGEBUTTON&gt;"Easy!"&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Graaah!&lt;br&gt;[ES] &amp;#161;Graaah!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Braaaappphh.&lt;CLOSEPAGEBUTTON&gt;"Um, 'braaaappphh' to you too."&lt;/CLOSEPAGEBUTTON&gt;&lt;br&gt;[ES] Braaaappphh.&lt;CLOSEPAGEBUTTON&gt;"Um, 'braaaappphh' to you too."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

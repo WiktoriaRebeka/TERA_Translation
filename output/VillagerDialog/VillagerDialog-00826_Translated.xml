@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1101" huntingZoneId="63" voiceTypeId="16" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1101" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You've found federation headquarters. Everyone is very busy here, so I must insist you only enter on official business.&lt;br&gt;[ES] Has encontrado el cuartel general de la federation. Todos est&amp;#225;n muy ocupados aqu&amp;#237;, as&amp;#237; que debo insistir en que solo entres por asuntos oficiales.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] What a relief. I found this for you.&lt;br&gt;[ES] Qu&amp;#233; alivio. Encontr&amp;#233; esto para ti.</Page>
+    </Text>
+</VillagerDialog>

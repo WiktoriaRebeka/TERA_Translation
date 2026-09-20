@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9996" huntingZoneId="1022" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] You're brave. You can stop what's happening in the nexus.&lt;BR&gt;&lt;BR&gt;We'll figure it out soon.&lt;br&gt;[ES] Eres valiente. Puedes detener lo que est&amp;#225; pasando en el nexo.&lt;BR&gt;&lt;BR&gt;Pronto lo resolveremos.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">[EN] You can't help with this quest here. There are already 120 questers here. Check for another nexus location on the map.&lt;br&gt;[ES] No puedes ayudar con esta misi&amp;#243;n aqu&amp;#237;. Ya hay 120 aventureros aqu&amp;#237;. Revisa el mapa para encontrar otra ubicaci&amp;#243;n del nexo.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4">[EN] You don't have much time! Please hurry!&lt;br&gt;[ES] &amp;#161;No tienes mucho tiempo! &amp;#161;Por favor, date prisa!</Page>
+    </Text>
+</VillagerDialog>

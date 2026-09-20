@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="525" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I wonder what happened to the others...?&lt;BR&gt;Will we make it back to our village?&lt;BR&gt;Are we safe here?&lt;br&gt;[ES] Me pregunto qu&amp;#233; les habr&amp;#225; pasado a los dem&amp;#225;s...?&lt;BR&gt;&amp;#191;Lograremos volver a nuestra aldea?&lt;BR&gt;&amp;#191;Estamos a salvo aqu&amp;#237;?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Goddess! Please save us!&lt;br&gt;[ES] &amp;#161;Diosa! &amp;#161;Por favor, s&amp;#225;lvanos!</Page>
+    </Text>
+</VillagerDialog>

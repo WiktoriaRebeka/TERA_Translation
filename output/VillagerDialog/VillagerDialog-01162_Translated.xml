@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22011" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="6322011" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I can send you downstairs! Why go all the way to the other end of the hall when I could just send you down now?&lt;br&gt;[ES] &amp;#161;Puedo enviarte a la planta baja! &amp;#191;Por qu&amp;#233; ir hasta el otro extremo del pasillo cuando podr&amp;#237;a simplemente bajarte ahora?</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I'm not quite ready to send you downstairs. I'm tired. I might feel like it again later.&lt;br&gt;[ES] No estoy muy listo para enviarte abajo. Estoy cansado. Puede que tenga ganas m&amp;#225;s tarde.</Page>
+    </Text>
+</VillagerDialog>

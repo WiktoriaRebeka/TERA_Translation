@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1701" huntingZoneId="62" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="237">[EN] I don't know what you're doing here, but don't interrupt our business.&lt;br&gt;[ES] No s&amp;#233; qu&amp;#233; est&amp;#225;s haciendo aqu&amp;#237;, no interrumpas nuestros negocios.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="237">[EN] Nothing like mutually profitable situations, eh?&lt;br&gt;[ES] , &amp;#191;eh? Nada como las situaciones mutuamente provechosas</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="238">[EN] Business is booming, thanks to you. You're an asset to our organization.&lt;br&gt;[ES] El negocio va viento en popa gracias a ti. Eres un activo para nuestra organizaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="238">[EN] Revenue is climbing, expenses are down...you're one of our best investments.&lt;br&gt;[ES] Los ingresos suben, los gastos bajan... eres una de nuestras mejores inversiones.</Page>
+    </Text>
+</VillagerDialog>

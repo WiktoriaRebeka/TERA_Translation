@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8401" huntingZoneId="509" voiceTypeId="112" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="112">[EN] We're closed today! It's the day of the banquet!&lt;br&gt;[ES] &amp;#161;Hoy estamos cerrados! &amp;#161;Es el d&amp;#237;a del banquete!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="112">[EN] It's a celebration! Loosen up a little! Dance!&lt;br&gt;[ES] &amp;#161;Es una celebraci&amp;#243;n! &amp;#161;Rel&amp;#225;jate un poco! &amp;#161;A bailar!</Page>
+    </Text>
+</VillagerDialog>

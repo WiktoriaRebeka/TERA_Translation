@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3003" huntingZoneId="2502" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Drat! We&amp;#8217;re late.&lt;br&gt;[ES] &amp;#161;Maldici&amp;#243;n! Llegamos tarde.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You can remove the barrier by defeating all the Divine Guardians in the nearby ruins.&lt;br&gt;[ES] Puedes eliminar la barrera derrotando a todos los Divine Guardians en las ruinas cercanas.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You take care of the two in the right.&lt;BR&gt;I will take care of the rest.&lt;br&gt;[ES] T&amp;#250; enc&amp;#225;rgate de los dos de la derecha.&lt;BR&gt;Yo me encargar&amp;#233; del resto.</Page>
+    </Text>
+</VillagerDialog>

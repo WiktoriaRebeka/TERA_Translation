@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2008" huntingZoneId="249" voiceTypeId="90" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] My husband? Yes, he's a scout. One of the best, actually.&lt;BR&gt;&lt;BR&gt;No doubt he's late because he's giving the argons whatfor.&lt;br&gt;[ES] &amp;#191;Mi esposo? S&amp;#237;, es un explorador. Uno de los mejores, de hecho.&lt;BR&gt;&lt;BR&gt;Sin duda llega tarde porque les est&amp;#225; dando su merecido a los argons.</Page>
+    </Text>
+    <Text id="100" endSocial="14">
+        <Page social="4">[EN] Oh, hello. What brings you here?&lt;br&gt;[ES] Oh, hola. &amp;#191;Qu&amp;#233; te trae por aqu&amp;#237;?</Page>
+    </Text>
+    <Text id="101" endSocial="14">
+        <Page social="12">[EN] Still no word from my husband.&lt;BR&gt;&lt;BR&gt;I'm not afraid to say I'm worried.&lt;br&gt;[ES] A&amp;#250;n no hay noticias de mi esposo.&lt;BR&gt;&lt;BR&gt;No me da miedo decir que estoy preocupada.</Page>
+    </Text>
+    <Text id="102" endSocial="14">
+        <Page social="12">[EN] The argons take everything from us. It never ends.&lt;br&gt;[ES] Los argons nos quitan todo. Esto nunca termina.</Page>
+    </Text>
+</VillagerDialog>

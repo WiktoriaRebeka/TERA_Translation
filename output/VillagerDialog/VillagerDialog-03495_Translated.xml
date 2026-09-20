@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1002" huntingZoneId="205" voiceTypeId="74" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="205" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">[EN] Hmm. Riled up earth spirits are the first sign that something is wrong with the land, you know.&lt;BR&gt;&lt;BR&gt;I wonder what's going on.&lt;br&gt;[ES] Mmm. Los esp&amp;#237;ritus de la tierra alterados son la primera se&amp;#241;al de que algo anda mal con la tierra, &amp;#191;sabes?</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="205" prevId="0" villagerId="1002" endSocial="0">
+        <Page social="4">[EN] Excellent! It's done perfectly.&lt;br&gt;[ES] &amp;#161;Excelente! Est&amp;#225; hecho a la perfecci&amp;#243;n.</Page>
+    </Text>
+</VillagerDialog>

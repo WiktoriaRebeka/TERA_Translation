@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1704" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="261">[EN] Eight plus six, carry the one...pardon, but you're interfering with important research. Why must every new student feel compelled to interupt?&lt;br&gt;[ES] Ocho m&amp;#225;s seis, me llevo uno... disculpa, pero est&amp;#225;s interfiriendo con una investigaci&amp;#243;n importante. &amp;#191;Por qu&amp;#233; todo estudiante nuevo siente la necesidad de interrumpir?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="262">[EN] My colleagues tell me you're quite helpful. And with work like ours, we can use all the help we can get.&lt;br&gt;[ES] Mis colegas me dicen que eres muy servicial. Y con un trabajo como el nuestro, toda ayuda es poca.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="263">[EN] I'll never forget what you've done for us.&lt;br&gt;[ES] Nunca olvidar&amp;#233; lo que has hecho por nosotros.</Page>
+    </Text>
+</VillagerDialog>

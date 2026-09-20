@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1702" huntingZoneId="62" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="227">[EN] Stop bothering me! Don't you know who I work for?&lt;br&gt;[ES] &amp;#161;Deja de molestarme! &amp;#191;No sabes para qui&amp;#233;n trabajo?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="228">[EN] Business is good...but in our organization, business is always good.&lt;br&gt;[ES] El negocio va bien... pero en nuestra organizaci&amp;#243;n, el negocio siempre va bien.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="229">[EN] Nothing like rising profits and falling competitors, eh?&lt;br&gt;[ES] , &amp;#191;eh? Nada como el aumento de beneficios y la ca&amp;#237;da de la competencia</Page>
+    </Text>
+</VillagerDialog>

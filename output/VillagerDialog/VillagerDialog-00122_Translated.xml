@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="26" huntingZoneId="3" voiceTypeId="4" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You made it! Um...sorry about leaving you back there. I panicked...&lt;br&gt;[ES] &amp;#161;Lo lograste! Mmm... disculpa por dejarte atr&amp;#225;s. Me entr&amp;#243; p&amp;#225;nico...</Page>
+    </Text>
+    <Text id="10001" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I would never have gotten this far without your help. Thanks!&lt;br&gt;[ES] &amp;#161;Jam&amp;#225;s habr&amp;#237;a llegado tan lejos sin tu ayuda. Gracias!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Follow me! I know the way!&lt;br&gt;[ES] &amp;#161;S&amp;#237;gueme! &amp;#161;Conozco el camino!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We made it! That was exhilirating!&lt;br&gt;[ES] &amp;#161;Lo logramos! &amp;#161;Fue emocionante!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1960" huntingZoneId="63" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1960" endSocial="14">
+        <Page social="4">[EN] With an outfit like that, of course I'll call on you.&lt;br&gt;[ES] Con un atuendo as&amp;#237;, por supuesto que contar&amp;#233; contigo.</Page>
+    </Text>
+    <Text id="101" prevId="0" endSocial="14">
+        <Page>[EN] I'm here. You're here. Let's make a deal.&lt;br&gt;[ES] Yo estoy aqu&amp;#237;. T&amp;#250; est&amp;#225;s aqu&amp;#237;. Hagamos un trato.</Page>
+    </Text>
+</VillagerDialog>

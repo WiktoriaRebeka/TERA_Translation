@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20108" huntingZoneId="2000" voiceTypeId="294" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="294">[EN] Quickly!&lt;br&gt;[ES] &amp;#161;R&amp;#225;pido!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Jelena!&lt;br&gt;[ES] &amp;#161;Jelena!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The villagers were inside the mansion.&lt;br&gt;[ES] Los aldeanos estaban dentro de la mansi&amp;#243;n.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll get these people to a safe place.&lt;br&gt;[ES] Llevar&amp;#233; a esta gente a un lugar seguro.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Jelena, we must move quick.&lt;br&gt;[ES] Jelena, debemos darnos prisa.</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We should get moving.&lt;BR&gt;Why don't you two follow me.&lt;br&gt;[ES] Deber&amp;#237;amos ponernos en marcha.&lt;BR&gt;&amp;#191;Por qu&amp;#233; no me siguen los dos?</Page>
+    </Text>
+</VillagerDialog>

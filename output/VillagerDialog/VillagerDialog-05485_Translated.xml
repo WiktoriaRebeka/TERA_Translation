@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1031" huntingZoneId="251" voiceTypeId="174" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Craxan promised us a glorious hunt, one that would speed up our apprenticeship.&lt;BR&gt;&lt;BR&gt;I think we might be in over our heads.&lt;br&gt;[ES] Craxan nos prometi&amp;#243; una cacer&amp;#237;a gloriosa, una que acelerar&amp;#237;a nuestro aprendizaje.&lt;BR&gt;&lt;BR&gt;Creo que nos puede venir grande.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] I'll return to the village.&lt;br&gt;[ES] Regresar&amp;#233; a la aldea.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Thank you!&lt;br&gt;[ES] &amp;#161;Gracias!</Page>
+    </Text>
+</VillagerDialog>

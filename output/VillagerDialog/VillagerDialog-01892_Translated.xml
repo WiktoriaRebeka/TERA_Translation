@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220045" huntingZoneId="72" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Before you ally yourself with a faction, you must know your heart's desire.&lt;BR&gt;&lt;BR&gt;Is gold your aim? Then the Free Traders Collective may be your best match. Perhaps you prize physical prowess, in which case you have something in common with the Iron Order. Or is your reputation what you value most? The Enlightened Union has a place for you.&lt;br&gt;[ES] Antes de aliarte con una facci&amp;#243;n, debes conocer los deseos de tu coraz&amp;#243;n.&lt;BR&gt;&lt;BR&gt;&amp;#191;Tu objetivo es el oro? Entonces el Free Traders Collective puede ser tu mejor opci&amp;#243;n. Tal vez valores la destreza f&amp;#237;sica, en cuyo caso tienes algo en com&amp;#250;n con el Iron Order. &amp;#191;O lo que m&amp;#225;s valoras es tu reputaci&amp;#243;n? El Enlightened Union tiene un lugar para ti.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] What is your heart's desire? Money? Power? Companionship?&lt;br&gt;[ES] &amp;#191;Cu&amp;#225;les son los deseos de tu coraz&amp;#243;n? &amp;#191;Dinero? &amp;#191;Poder? &amp;#191;Compa&amp;#241;&amp;#237;a?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Alas, I can only accept applications from guild masters.&lt;br&gt;[ES] Ay, solo puedo aceptar solicitudes de maestros de hermandad.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] The day will come when we choose our leaders based on boldness, bravery, or wisdom. Which do you value most?&lt;br&gt;[ES] Llegar&amp;#225; el d&amp;#237;a en que elijamos a nuestros l&amp;#237;deres bas&amp;#225;ndonos en la audacia, la valent&amp;#237;a o la sabidur&amp;#237;a. &amp;#191;Qu&amp;#233; es lo que m&amp;#225;s valoras?</Page>
+    </Text>
+</VillagerDialog>

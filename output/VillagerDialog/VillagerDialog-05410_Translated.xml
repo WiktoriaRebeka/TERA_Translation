@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2009" huntingZoneId="249" voiceTypeId="19" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Has there been any news of the scouts? My husband's among them.&lt;br&gt;[ES] &amp;#191;Ha habido alguna noticia de los exploradores? Mi esposo est&amp;#225; entre ellos.</Page>
+    </Text>
+    <Text id="100" endSocial="14">
+        <Page social="4">[EN] Yes, Celtan. Are you here for the dagger you lent me? Do you have news of my husband?&lt;br&gt;[ES] S&amp;#237;, Celtan. &amp;#191;Vienes por la daga que me prestaste? &amp;#191;Tienes noticias de mi esposo?</Page>
+    </Text>
+    <Text id="101" endSocial="14">
+        <Page social="9">[EN] Oh, Celtan! Why did you have to send him?&lt;br&gt;[ES] &amp;#161;Oh, Celtan! &amp;#191;Por qu&amp;#233; tuviste que enviarlo?</Page>
+    </Text>
+    <Text id="102" endSocial="14">
+        <Page social="13">[EN] Darling, I won't forget you. No matter what...&lt;br&gt;[ES] Cari&amp;#241;o, no te olvidar&amp;#233;. Pase lo que pase...</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,29 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1000" huntingZoneId="2504" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hm...&lt;br&gt;[ES] Mh...</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] There's nothing else we can gain from this anymore.&lt;BR&gt;Why don't we call it a day?&lt;br&gt;[ES] Ya no podemos sacar nada m&amp;#225;s de esto.&lt;BR&gt;&amp;#191;Por qu&amp;#233; no lo dejamos por hoy?</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'm glad they backed down so easily.&lt;br&gt;[ES] Me alegra que se hayan retirado tan f&amp;#225;cilmente.</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Now, then...&lt;BR&gt;Is everyone okay?&lt;br&gt;[ES] Ahora bien...&lt;BR&gt;&amp;#191;Est&amp;#225;n todos bien?</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] For now, we'd better get out of here.&lt;br&gt;[ES] Por ahora, ser&amp;#225; mejor que salgamos de aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="6" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Then, let's look for an exit.&lt;br&gt;[ES] Entonces, busquemos una salida.</Page>
+    </Text>
+    <Text id="7" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll go this way.&lt;BR&gt;Want to come with me?&lt;br&gt;[ES] Ir&amp;#233; por aqu&amp;#237;.&lt;BR&gt;&amp;#191;Quieres venir conmigo?</Page>
+    </Text>
+    <Text id="8" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We can get out through here.&lt;br&gt;[ES] Podemos salir por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="9" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll go bring Elleon.&lt;BR&gt;You get out first.&lt;br&gt;[ES] Ir&amp;#233; a traer a Elleon.&lt;BR&gt;Salgan ustedes primero.</Page>
+    </Text>
+</VillagerDialog>

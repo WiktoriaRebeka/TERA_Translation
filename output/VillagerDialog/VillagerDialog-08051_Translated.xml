@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2100" huntingZoneId="2504" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Urgh!&lt;br&gt;[ES] &amp;#161;Urg!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Ugh!&lt;BR&gt;He's much stronger than I thought!&lt;br&gt;[ES] &amp;#161;Aj!&lt;BR&gt;&amp;#161;Es mucho m&amp;#225;s fuerte de lo que pensaba!</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Buy me some time, will you?&lt;BR&gt;I&amp;#8217;ll need to catch a breath.&lt;br&gt;[ES] &amp;#191;Me compras un poco de tiempo?&lt;BR&gt;Necesito recuperar el aliento.</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Is it over?&lt;br&gt;[ES] &amp;#191;Se acab&amp;#243;?</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] H-how did this happen?&lt;BR&gt;Gah, let's get out of here first!&lt;br&gt;[ES] &amp;#191;C-c&amp;#243;mo pas&amp;#243; esto?&lt;BR&gt;&amp;#161;Gah, largu&amp;#233;monos de aqu&amp;#237; primero!</Page>
+    </Text>
+    <Text id="6" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Then, I'll head this way and look for an exit.&lt;br&gt;[ES] Entonces, ir&amp;#233; por este camino a buscar una salida.</Page>
+    </Text>
+</VillagerDialog>

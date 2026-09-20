@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5033" huntingZoneId="528" voiceTypeId="136" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="5">
+        <Page social="5" voiceTypeId="136">[EN] &lt;PCNAME&gt;, you are now my sword. &lt;BR&gt;&lt;BR&gt;I know you will do well.&lt;br&gt;[ES] &lt;PCNAME&gt;, ahora eres mi espada. &lt;BR&gt;&lt;BR&gt;S&amp;#233; que lo har&amp;#225;s bien.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The Argons are a threat to all life.&lt;br&gt;[ES] Los argons son una amenaza para toda la vida.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] They must not prevail!&lt;br&gt;[ES] &amp;#161;No deben triunfar!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You have my blessing, &lt;PCNAME&gt;.&lt;br&gt;[ES] Tienes mi bendici&amp;#243;n, &lt;PCNAME&gt;.</Page>
+    </Text>
+</VillagerDialog>

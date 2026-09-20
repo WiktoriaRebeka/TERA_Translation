@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22004" huntingZoneId="63" voiceTypeId="22" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Sorry, you'll need to use the quartermaster for your own alliance.&lt;br&gt;[ES] Lo siento, tendr&amp;#225;s que usar al intendente de tu propia alianza.</Page>
+    </Text>
+    <Text id="912100" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] What are you looking for?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; est&amp;#225;s buscando?</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Sorry, we're not open right now. Shift change. You know how it is.&lt;br&gt;[ES] Lo siento, no estamos abiertos ahora mismo. Cambio de turno. Ya sabes c&amp;#243;mo es esto.</Page>
+    </Text>
+</VillagerDialog>

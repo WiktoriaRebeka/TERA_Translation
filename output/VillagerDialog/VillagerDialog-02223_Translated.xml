@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1034" huntingZoneId="79" voiceTypeId="119" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="79" prevId="0" villagerId="1034" endSocial="14">
+        <Page social="4">[EN] Thulsa has invaded the Divine Furnace. That used to be our holy ground. He's even taken the legendary blacksmith hostage.&lt;BR&gt;&lt;BR&gt;I swear on the great name of Kaia, I will fight until every one of Thulsa's soldiers is dead.&lt;br&gt;[ES] Thulsa ha invadido Divine Furnace. Ese sol&amp;#237;a ser nuestro terreno sagrado. Incluso ha tomado como rehenes al legendario herrero.&lt;BR&gt;&lt;BR&gt;Lo juro por el gran nombre de Kaia, luchar&amp;#233; hasta que cada uno de los soldados de Thulsa est&amp;#233; muerto.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4">[EN] Forgive me&amp;#8212;I'm too angry to talk right now.&lt;br&gt;[ES] Perd&amp;#243;name, estoy demasiado enojado para hablar ahora.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="5">[EN] We lost the holy ground. I say it, but I can't believe it.&lt;br&gt;[ES] Perdimos el terreno sagrado. Lo digo, pero no lo puedo creer.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="6">[EN] You seem excessively calm, considering.&lt;br&gt;[ES] Pareces excesivamente tranquilo para la situaci&amp;#243;n.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="5">[EN] I'll take the holy ground back myself. Just give me my axe!&lt;br&gt;[ES] &amp;#161;Recuperar&amp;#233; el terreno sagrado yo mismo! &amp;#161;Solo denme mi hacha!</Page>
+    </Text>
+</VillagerDialog>

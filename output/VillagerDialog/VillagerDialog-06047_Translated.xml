@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1030" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] This place is a meatgrinder.&lt;br&gt;[ES] Este lugar es una moledora de carne.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Hold on...just hold on!&lt;br&gt;[ES] Aguanta... &amp;#161;solo aguanta!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] You're going to make it! Trust me!&lt;br&gt;[ES] &amp;#161;Lo vas a lograr! &amp;#161;Cr&amp;#233;eme!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] Oh, no.&lt;br&gt;[ES] Oh, no.</Page>
+    </Text>
+</VillagerDialog>

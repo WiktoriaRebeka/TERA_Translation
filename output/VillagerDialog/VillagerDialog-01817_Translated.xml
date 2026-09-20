@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1703" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="230">[EN] If you're not interested in the future of magic, please leave.&lt;br&gt;[ES] Si no te interesa el futuro de la magia, por favor, ret&amp;#237;rate.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="231">[EN] We're advancing so quickly...the future is almost here!&lt;br&gt;[ES] &amp;#161;Estamos avanzando tan r&amp;#225;pido... el futuro est&amp;#225; casi aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="232">[EN] Making the magic bot isn't just a pipe dream.&lt;BR&gt;&lt;BR&gt;Someday, magic bots will serve our every need!&lt;br&gt;[ES] Crear el bot de magia no es solo una quimera.&lt;BR&gt;&lt;BR&gt;&amp;#161;Alg&amp;#250;n d&amp;#237;a, los bots de magia atender&amp;#225;n todas nuestras necesidades!</Page>
+    </Text>
+</VillagerDialog>

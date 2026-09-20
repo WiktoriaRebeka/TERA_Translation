@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2049" huntingZoneId="183" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="72220080" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] This area is for a select few. Are you sure you measure up?&lt;br&gt;[ES] Esta &amp;#225;rea es para unos pocos elegidos. &amp;#191;Est&amp;#225;s seguro de que das la talla?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I can provide access to the vault.&lt;br&gt;[ES] Puedo darte acceso al dep&amp;#243;sito.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Sorry, this area is off limits for right now. Try back later.&lt;br&gt;[ES] Lo siento, esta &amp;#225;rea est&amp;#225; restringida por ahora. Vuelve m&amp;#225;s tarde.</Page>
+    </Text>
+</VillagerDialog>

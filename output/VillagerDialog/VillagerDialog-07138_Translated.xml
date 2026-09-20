@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2005" huntingZoneId="822" voiceTypeId="273" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="273">[EN] The archdevas were hiding inside the camp?&lt;BR&gt;&lt;BR&gt;Well, now they have Zolyn to answer to!&lt;BR&gt;&lt;BR&gt;And Paesyn. Zolyn and Paesyn!&lt;br&gt;[ES] &amp;#191;Los archidevas se escond&amp;#237;an dentro del campamento?&lt;BR&gt;&lt;BR&gt;&amp;#161;Bueno, ahora tendr&amp;#225;n que v&amp;#233;rselas con Zolyn!&lt;BR&gt;&lt;BR&gt;&amp;#161;Y con Paesyn. &amp;#161;Zolyn y Paesyn!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] What?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233;?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Zolyn! It's dangerous to go alone! Take me with you!&lt;br&gt;[ES] &amp;#161;Zolyn! &amp;#161;Es peligroso ir solo! &amp;#161;Ll&amp;#233;vame contigo!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="141" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="13">
+        <Page social="13" voiceTypeId="0">[EN] This...place...i..s...horrible...&lt;br&gt;[ES] Este... lugar... e...s... horrible...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="13" voiceTypeId="0">[EN] Where...where do we have to go?&lt;br&gt;[ES] &amp;#191;A d&amp;#243;nde... a d&amp;#243;nde tenemos que ir?</Page>
+    </Text>
+</VillagerDialog>

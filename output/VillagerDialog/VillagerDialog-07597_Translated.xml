@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="50000" huntingZoneId="2000" voiceTypeId="143" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="143">[EN] I'm taking care of this outpost on behalf of the federation.&lt;BR&gt;&lt;BR&gt;The Azart threat is still a problem for us. I hope you keep up the good work, &lt;PCNAME&gt;.&lt;br&gt;[ES] Estoy a cargo de este puesto avanzado en nombre de la federaci&amp;#243;n.&lt;BR&gt;&lt;BR&gt;La amenaza de los Azart sigue siendo un problema para nosotros. Espero que sigas haciendo un buen trabajo, &lt;PCNAME&gt;.</Page>
+    </Text>
+</VillagerDialog>

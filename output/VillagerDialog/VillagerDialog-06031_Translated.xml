@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1007" huntingZoneId="415" voiceTypeId="68" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="5">
+        <Page social="4">[EN] Where did those reefs come from? Or this storm?&lt;BR&gt;&lt;BR&gt;It's a miracle we're still alive!&lt;br&gt;[ES] &amp;#191;De d&amp;#243;nde salieron esos arrecifes? &amp;#191;O esta tormenta?&lt;BR&gt;&lt;BR&gt;&amp;#161;Es un milagro que sigamos vivos!</Page>
+    </Text>
+    <Text id="101" endSocial="5">
+        <Page social="4">[EN] I'm trying not to think about it, but how are we getting home?&lt;br&gt;[ES] Intento no pensar en ello, pero &amp;#191;c&amp;#243;mo vamos a volver a casa?</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5103" huntingZoneId="63" voiceTypeId="168" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="6">
+        <Page social="4" voiceTypeId="168">[EN] All prizes are awarded after the event ends.&lt;BR&gt;Don't leave empty-handed!&lt;br&gt;[ES] Todos los premios se otorgan despu&amp;#233;s de que termine el evento.&lt;BR&gt;&amp;#161;No te vayas con las manos vac&amp;#237;as!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Get your prizes after the game!&lt;br&gt;[ES] &amp;#161;Consigue tus premios despu&amp;#233;s del juego!</Page>
+    </Text>
+</VillagerDialog>

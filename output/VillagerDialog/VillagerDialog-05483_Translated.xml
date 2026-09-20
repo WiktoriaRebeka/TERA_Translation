@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1029" huntingZoneId="251" voiceTypeId="111" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5">[EN] I'm worried about the apprentices. Craxan took them to Frostclaw Crag&amp;#8212;that's no place for a beginner.&lt;br&gt;[ES] Me preocupan los aprendices. Craxan se los llev&amp;#243; a Frostclaw Crag; ese no es lugar para un principiante.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] I'm glad to hear they're all right. Thank you.&lt;br&gt;[ES] Me alegra saber que est&amp;#225;n bien. Gracias.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Craxan's a fool, but a devoted father. Hard to fault an aman for that.&lt;br&gt;[ES] Craxan es un tonto, pero un padre devoto. Es dif&amp;#237;cil reprocharle eso a un aman.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] That fool thinks he has two lives!&lt;br&gt;[ES] &amp;#161;Ese tonto cree que tiene dos vidas!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0">[EN] I'll strangle him myself!&lt;br&gt;[ES] &amp;#161;Lo estrangular&amp;#233; yo mismo!</Page>
+    </Text>
+</VillagerDialog>

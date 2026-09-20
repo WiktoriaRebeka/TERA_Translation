@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20100" huntingZoneId="2100" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We need to save them all.&lt;br&gt;[ES] Tenemos que salvarlos a todos.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] He must be in charge here.&lt;br&gt;[ES] &amp;#201;l debe estar a cargo aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;PCNAME&gt;, defeat what's left of the nagas and rescue the villagers.&lt;br&gt;[ES] &lt;PCNAME&gt;, derrota a los nagas que quedan y rescata a los aldeanos.</Page>
+    </Text>
+</VillagerDialog>

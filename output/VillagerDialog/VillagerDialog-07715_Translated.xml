@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="100" huntingZoneId="2002" voiceTypeId="324" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="2" voiceTypeId="324">[EN] Oh, Mother...&lt;BR&gt;&lt;BR&gt;A stranger...? Here...?&lt;br&gt;[ES] Oh, Madre...&lt;BR&gt;&lt;BR&gt;&amp;#191;Un extra&amp;#241;o...? &amp;#191;Aqu&amp;#237;...?</Page>
+    </Text>
+    <Text id="101" endSocial="1">
+        <Page social="2" voiceTypeId="324">[EN] You're strangers...&lt;br&gt;[ES] Son extra&amp;#241;os...</Page>
+    </Text>
+    <Text id="102" endSocial="1">
+        <Page social="2" voiceTypeId="324">[EN] My ally is waiting to help find a cure.&lt;br&gt;[ES] Mi aliado est&amp;#225; esperando para ayudar a encontrar una cura.</Page>
+    </Text>
+    <Text id="103" endSocial="1">
+        <Page social="2" voiceTypeId="324">[EN] Basheek...might know.&lt;br&gt;[ES] Basheek... podr&amp;#237;a saberlo.</Page>
+    </Text>
+    <Text id="104" endSocial="1">
+        <Page social="2" voiceTypeId="324">[EN] I haven't seen your companion.&lt;br&gt;[ES] No he visto a tu compa&amp;#241;ero.</Page>
+    </Text>
+    <Text id="105" endSocial="1">
+        <Page social="2" voiceTypeId="324">[EN] Follow the path, and you'll find someone to guide you.&lt;br&gt;[ES] Sigue el camino y encontrar&amp;#225;s a alguien que te gu&amp;#237;e.</Page>
+    </Text>
+</VillagerDialog>

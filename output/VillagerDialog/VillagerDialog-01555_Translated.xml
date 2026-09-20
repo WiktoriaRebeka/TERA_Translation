@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1011" huntingZoneId="71" voiceTypeId="44" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="71" prevId="0" villagerId="1011" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The baraka are interested in all sorts of things...I've never seen a book like this before.&lt;br&gt;[ES] Los baraka se interesan por todo tipo de cosas... Nunca antes hab&amp;#237;a visto un libro as&amp;#237;.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Oh, that book?&lt;br&gt;[ES] &amp;#191;Oh, ese libro?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It's infamous! A cursed book.&lt;br&gt;[ES] &amp;#161;Es infame! Un libro maldito.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It's supposed to bring bad luck to its bearer.&lt;br&gt;[ES] Se supone que trae mala suerte a quien lo porta.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Still, I heard they printed thousands of copies, years ago.&lt;br&gt;[ES] Aun as&amp;#237;, escuch&amp;#233; que imprimieron miles de copias hace a&amp;#241;os.</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Rumor has it that the book is made from popori skin...&lt;br&gt;[ES] Corre el rumor de que el libro est&amp;#225; hecho de piel de popori...</Page>
+    </Text>
+</VillagerDialog>

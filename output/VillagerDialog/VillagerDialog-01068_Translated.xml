@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1963" huntingZoneId="63" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1963" endSocial="14">
+        <Page social="4">[EN] Looking to make a trade? I can help you with that.&lt;BR&gt;&lt;BR&gt;Good items at the best prices!&lt;br&gt;[ES] &amp;#191;Buscas hacer un trato? Puedo ayudarte con eso.&lt;BR&gt;&lt;BR&gt;&amp;#161;Buenos art&amp;#237;culos a los mejores precios!</Page>
+    </Text>
+    <Text id="101" prevId="0" endSocial="14">
+        <Page>[EN] Buying? Selling? Lowest fees around!&lt;br&gt;[ES] &amp;#191;Compras? &amp;#191;Ventas? &amp;#161;Las comisiones m&amp;#225;s bajas de los alrededores!</Page>
+    </Text>
+</VillagerDialog>

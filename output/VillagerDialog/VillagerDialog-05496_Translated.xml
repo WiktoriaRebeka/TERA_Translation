@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1042" huntingZoneId="251" voiceTypeId="150" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'm so glad you're alright.&lt;br&gt;[ES] Me alegra tanto que est&amp;#233;s bien.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;PCNAME&gt;...? Are you alright? By the gods, you did it!&lt;br&gt;[ES] &amp;#191;&lt;PCNAME&gt;...? &amp;#191;Est&amp;#225;s bien? &amp;#161;Por los dioses, lo lograste!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You actually defeated Thulsa and Kelsaik!&lt;br&gt;[ES] &amp;#161;De verdad derrotaste a Thulsa y a Kelsaik!</Page>
+    </Text>
+</VillagerDialog>

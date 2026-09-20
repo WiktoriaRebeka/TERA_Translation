@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1018" huntingZoneId="473" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Vulgar &lt;PCCLASS:lcase&gt;...&lt;br&gt;[ES] Vulgar &lt;PCCLASS:lcase&gt;...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Ugh...&lt;br&gt;[ES] Ugh...</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] I can't believe I lost to these weaklings!&lt;br&gt;[ES] &amp;#161;No puedo creer que haya perdido ante estos debiluchos!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] This isn't over. Not over yet!&lt;br&gt;[ES] &amp;#161;Esto no ha terminado! &amp;#161;A&amp;#250;n no termina!</Page>
+    </Text>
+</VillagerDialog>

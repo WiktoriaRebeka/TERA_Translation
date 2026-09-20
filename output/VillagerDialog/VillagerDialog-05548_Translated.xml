@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1103" huntingZoneId="252" voiceTypeId="100" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Are you our savior?&lt;br&gt;[ES] &amp;#191;Eres nuestro salvador?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">[EN] Thank you for rescuing me. I thought I was done for sure!&lt;br&gt;[ES] Gracias por rescatarme. &amp;#161;Pens&amp;#233; que ya no la contaba!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4">[EN] Barely... made it out alive.&lt;BR&gt;&lt;BR&gt;Ugh... I wonder if that old aman is safe...&lt;br&gt;[ES] Apenas... logr&amp;#233; salir con vida.&lt;BR&gt;&lt;BR&gt;Uf... Me pregunto si ese viejo aman estar&amp;#225; a salvo...</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4">[EN] I'm alive! Thank you, Kaia!&lt;br&gt;[ES] &amp;#161;Estoy vivo! &amp;#161;Gracias, Kaia!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Run everyone, run!&lt;br&gt;[ES] &amp;#161;Huyan todos, huyan!</Page>
+    </Text>
+</VillagerDialog>

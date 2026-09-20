@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1055" huntingZoneId="415" voiceTypeId="10" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">[EN] This island will be my grave.&lt;br&gt;[ES] Esta isla ser&amp;#225; mi tumba.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] We're all doomed...&lt;br&gt;[ES] Estamos todos condenados...</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0">[EN] Argh! It hurts so much!&lt;br&gt;[ES] &amp;#161;Argh! &amp;#161;Duele tanto!</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0">[EN] Can't hear you. Can't hear anything, really.&lt;br&gt;[ES] No te escucho. No escucho nada, la verdad.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] We're all gonna die!&lt;br&gt;[ES] &amp;#161;Todos vamos a morir!</Page>
+    </Text>
+</VillagerDialog>

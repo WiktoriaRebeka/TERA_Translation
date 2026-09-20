@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="511" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] D&lt;br&gt;[ES] D</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Butterflies...?&lt;br&gt;[ES] &amp;#191;Mariposas...?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Take it easy, Elleon.&lt;br&gt;[ES] Tranquilo, Elleon.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Your arm...you're okay, right?&lt;br&gt;[ES] Tu brazo... est&amp;#225;s bien, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We should search for villagers first.&lt;br&gt;[ES] Primero deber&amp;#237;amos buscar a los aldeanos.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10110" huntingZoneId="2500" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Oh, I can't do that...&lt;br&gt;[ES] Oh, no puedo hacer eso...</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Yes!&lt;br&gt;[ES] &amp;#161;S&amp;#237;!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Oh, stop embarrassing me...&lt;br&gt;[ES] Oh, deja de avergonzarme...</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Err... P-Paesyn...&lt;br&gt;[ES] E-Ehm... P-Paesyn...</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hello...&lt;br&gt;[ES] Hola...</Page>
+    </Text>
+    <Text id="1" endSocial="14">
+        <Page social="5" voiceTypeId="278">[EN] You&amp;#8217;ve been very helpful this time.&lt;BR&gt;Thank you, &lt;PCNAME&gt;.&lt;br&gt;[ES] Has sido de gran ayuda esta vez.&lt;BR&gt;Gracias, &lt;PCNAME&gt;.</Page>
+    </Text>
+</VillagerDialog>

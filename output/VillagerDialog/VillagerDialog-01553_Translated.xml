@@ -1,0 +1,9 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1009" huntingZoneId="71" voiceTypeId="45" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="71" prevId="0" villagerId="1009" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Need something, soldier?&lt;br&gt;[ES] &amp;#191;Necesitas algo, soldado?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] One of the Consos clan, Thakun, was due back from Allemantheia, but his pegasus arrived empty.&lt;NEXTPAGEBUTTON&gt;"He fell?"&lt;/NEXTPAGEBUTTON&gt;&lt;br&gt;[ES] Thakun, uno del clan Consos, ten&amp;#237;a que regresar de Allemantheia, pero su pegasus lleg&amp;#243; vac&amp;#237;o.&lt;NEXTPAGEBUTTON&gt;"He fell?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[EN] Likely. Reading a book, no doubt.&lt;BR&gt;&lt;BR&gt;I doubt he survived, but his family will want the body.&lt;CLOSEPAGEBUTTON&gt;"I'll keep my eyes open."&lt;/CLOSEPAGEBUTTON&gt;&lt;br&gt;[ES] Es probable. Leyendo un libro, sin duda.&lt;BR&gt;&lt;BR&gt;Dudo que haya sobrevivido, pero su familia querr&amp;#225; el cuerpo.&lt;CLOSEPAGEBUTTON&gt;"I'll keep my eyes open."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

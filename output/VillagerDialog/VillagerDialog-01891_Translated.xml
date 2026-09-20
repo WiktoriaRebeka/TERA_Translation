@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220044" huntingZoneId="72" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] If you seek to ally yourself with a faction, you must know your heart's desire.&lt;BR&gt;&lt;BR&gt;If gold is important to you, the Free Traders Collective may be your best bet. Is power more your style? Then join the Iron Order. Or, if you seek to improve your reputation, then the Enlightened Union may be your new best friends.&lt;br&gt;[ES] Si buscas aliarte con una facci&amp;#243;n, debes conocer los deseos de tu coraz&amp;#243;n.&lt;BR&gt;&lt;BR&gt;Si el oro es importante para ti, el Free Traders Collective puede ser tu mejor opci&amp;#243;n. &amp;#191;El poder es m&amp;#225;s tu estilo? Entonces &amp;#250;nete al Iron Order. O, si buscas mejorar tu reputaci&amp;#243;n, el Enlightened Union podr&amp;#237;a ser tu mejor aliado.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] So, which faction most reflects your heart's desire? Who will you join?&lt;br&gt;[ES] Entonces, &amp;#191;qu&amp;#233; facci&amp;#243;n refleja mejor los deseos de tu coraz&amp;#243;n? &amp;#191;A qui&amp;#233;n te unir&amp;#225;s?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I can only accept faction applications from guild masters.&lt;br&gt;[ES] Solo puedo aceptar solicitudes de facci&amp;#243;n de los maestros de hermandad.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] One day, we will select our leaders from the boldest, the bravest, and the wisest. Which will you choose?&lt;br&gt;[ES] Alg&amp;#250;n d&amp;#237;a, elegiremos a nuestros l&amp;#237;deres entre los m&amp;#225;s audaces, los m&amp;#225;s valientes y los m&amp;#225;s sabios. &amp;#191;Cu&amp;#225;l elegir&amp;#225;s?</Page>
+    </Text>
+</VillagerDialog>

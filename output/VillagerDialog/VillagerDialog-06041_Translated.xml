@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1024" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">[EN] Help...I don't want to die...&lt;br&gt;[ES] Ayuda... No quiero morir...</Page>
+    </Text>
+    <Text id="2" endSocial="3">
+        <Page social="3">[EN] Medic! Medic!&lt;br&gt;[ES] &amp;#161;M&amp;#233;dico! &amp;#161;M&amp;#233;dico!</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">[EN] Ugh...&lt;br&gt;[ES] Ugh...</Page>
+    </Text>
+</VillagerDialog>

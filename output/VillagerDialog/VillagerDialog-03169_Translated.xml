@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2047" huntingZoneId="183" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Sorry&amp;#8212;I only process requests from guild masters who have yet to join an alliance.&lt;br&gt;[ES] Lo siento, solo proceso solicitudes de maestros de hermandad que a&amp;#250;n no se han unido a una alianza.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] So, which faction most reflects your heart's desire? Who will you join?&lt;br&gt;[ES] Entonces, &amp;#191;qu&amp;#233; facci&amp;#243;n refleja mejor los deseos de tu coraz&amp;#243;n? &amp;#191;A qui&amp;#233;n te unir&amp;#225;s?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Sorry, we only take applications from guild masters.&lt;br&gt;[ES] Lo siento, solo aceptamos solicitudes de maestros de hermandad.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Sorry, we're not open right now. Shift change. You know how it is.&lt;br&gt;[ES] Lo siento, no estamos abiertos ahora mismo. Cambio de turno. Ya sabes c&amp;#243;mo es esto.</Page>
+    </Text>
+</VillagerDialog>

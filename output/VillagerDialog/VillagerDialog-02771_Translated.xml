@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2012" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Hm. &lt;PCNAME&gt;, &lt;PCNAME&gt; ... nothing. According to my records, you don't have an account with this bank.&lt;br&gt;[ES] Mh. &lt;PCNAME&gt;, &lt;PCNAME&gt;... nada. Seg&amp;#250;n mis registros, no tienes una cuenta en este banco.</Page>
+    </Text>
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="88">[EN] There's no better place than a bank vault to store your spare gear.&lt;br&gt;[ES] No hay mejor lugar que la b&amp;#243;veda de un banco para guardar tu equipo adicional.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="88">[EN] We don't care what it is. You can leave it with us.&lt;br&gt;[ES] No nos importa qu&amp;#233; sea. Puedes dej&amp;#225;rnoslo a nosotros.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="88">[EN] Go! Enlighten the benighted! We'll keep an eye on your stuff.&lt;br&gt;[ES] &amp;#161;Ve! &amp;#161;Ilumina a los ignorantes! Nosotros vigilaremos tus cosas.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="88">[EN] We are building a more learned, literate society. This is how communities grow!&lt;br&gt;[ES] Estamos construyendo una sociedad m&amp;#225;s culta y letrada. &amp;#161;As&amp;#237; es como crecen las comunidades!</Page>
+    </Text>
+</VillagerDialog>

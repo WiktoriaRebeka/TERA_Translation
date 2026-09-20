@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1031" huntingZoneId="74" voiceTypeId="114" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Have you come here to mock us?&lt;br&gt;[ES] &amp;#191;Has venido a burlarte de nosotros?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] There's no work. We can't find work anywhere.&lt;br&gt;[ES] No hay trabajo. No podemos encontrar trabajo en ninguna parte.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Excuse me&amp;#8212;I don't suppose you're hiring?&lt;br&gt;[ES] Disculpa, supongo que no estar&amp;#225;s contratando, &amp;#191;verdad?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] Shouldn't you be doing something?&lt;br&gt;[ES] &amp;#191;No deber&amp;#237;as estar haciendo algo?</Page>
+    </Text>
+</VillagerDialog>

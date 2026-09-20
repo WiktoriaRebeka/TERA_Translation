@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7002" huntingZoneId="19" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;font color='#FFFF00'&gt;How should I cook you? Any suggestions?&lt;/font&gt;&lt;br&gt;[ES] &lt;font color='#FFFF00'&gt;&amp;#191;C&amp;#243;mo deber&amp;#237;a cocinarte? &amp;#191;Alguna sugerencia?&lt;/font&gt;</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;font color='#FFFF00'&gt;Oh, it was nothing!&lt;/font&gt;&lt;br&gt;[ES] &lt;font color='#FFFF00'&gt;&amp;#161;Oh, no fue nada!&lt;/font&gt;</Page>
+    </Text>
+</VillagerDialog>

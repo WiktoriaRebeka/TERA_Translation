@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8404" huntingZoneId="509" voiceTypeId="69" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="69">[EN] Oh, I love this play!&lt;br&gt;[ES] &amp;#161;Ay, me encanta esta obra!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="69">[EN] I've seen over a dozen plays this past year alone!&lt;br&gt;[ES] &amp;#161;He visto m&amp;#225;s de una docena de obras de teatro solo este a&amp;#241;o pasado!</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="69">[EN] Okay, we'll leave after the play.&lt;br&gt;[ES] De acuerdo, nos iremos despu&amp;#233;s de la obra.</Page>
+    </Text>
+</VillagerDialog>

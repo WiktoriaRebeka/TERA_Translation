@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8102" huntingZoneId="506" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="127">[EN] It is a delight to finally take a break.&lt;br&gt;[ES] Es un placer tomarse un descanso por fin.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="127">[EN] Oh, I hear you, Mandon!&lt;br&gt;[ES] &amp;#161;Oh, te oigo, Mandon!</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="127">[EN] I believe you mentioned that you would dance today...?&lt;br&gt;[ES] Creo que mencionaste que ibas a bailar hoy...?</Page>
+    </Text>
+</VillagerDialog>

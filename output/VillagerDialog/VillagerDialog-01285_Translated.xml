@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1012" huntingZoneId="65" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="65" prevId="0" villagerId="1012" endSocial="14">
+        <Page social="4">[EN] Federation soldier! Excellent!&lt;BR&gt;&lt;BR&gt;We could use a soldier around here!&lt;br&gt;[ES] &amp;#161;Soldado de la federaci&amp;#243;n! &amp;#161;Excelente!&lt;BR&gt;&lt;BR&gt;&amp;#161;Nos vendr&amp;#237;a bien un soldado por aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012" endSocial="14">
+        <Page social="4" />
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10040" huntingZoneId="84" voiceTypeId="269" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="269">[EN] Hello. I'm Hasmina, from the Mysterium.&lt;br&gt;[ES] Hola. Soy Hasmina, del Mysterium.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Anyways, thanks for joining the fight. You're a big help.&lt;br&gt;[ES] De todos modos, gracias por unirte a la lucha. Eres de gran ayuda.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I heard Arun isn't so damaged.&lt;br&gt;[ES] Escuch&amp;#233; que Arun no est&amp;#225; tan da&amp;#241;ado.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I heard that Northern Shara has already fallen to the Argons.&lt;br&gt;[ES] Escuch&amp;#233; que Northern Shara ya ha ca&amp;#237;do ante los Argons.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It used to be so beautiful when I was here with Elleon and the princess.&lt;br&gt;[ES] Sol&amp;#237;a ser tan hermoso cuando estuve aqu&amp;#237; con Elleon y la princesa.</Page>
+    </Text>
+</VillagerDialog>

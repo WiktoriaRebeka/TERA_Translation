@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="99" huntingZoneId="491" voiceTypeId="30" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] I don't know how something like that could have happened at the Eldritch Academy.&lt;BR&gt;&lt;BR&gt;We'll be able to deal with it once the sealing device is functioning again, but until then, we'll need to all work together to keep things under control.&lt;br&gt;[ES] No s&amp;#233; c&amp;#243;mo algo as&amp;#237; pudo haber ocurrido en la Eldritch Academy.&lt;BR&gt;&lt;BR&gt;Podremos solucionarlo una vez que el dispositivo de sellado vuelva a funcionar, pero hasta entonces, todos tendremos que trabajar juntos para mantener las cosas bajo control.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] This is terrible. I don't even know what to say.&lt;BR&gt;&lt;BR&gt;Well, except the "this is terrible" part. I knew to say that.&lt;BR&gt;&lt;BR&gt;Nothing else, though.&lt;br&gt;[ES] Esto es terrible. Ni siquiera s&amp;#233; qu&amp;#233; decir.&lt;BR&gt;&lt;BR&gt;Bueno, aparte de la parte de &quot;esto es terrible&quot;. Eso s&amp;#237; supe decirlo.&lt;BR&gt;&lt;BR&gt;Aunque nada m&amp;#225;s.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0">[EN] I'm deactivate the sealing device's shield.&lt;BR&gt;&lt;BR&gt;Once the magic starts, demons will show up to guard it.&lt;BR&gt;&lt;BR&gt;You'll have to protect me until my work is done&amp;#8212;can you handle that?&lt;TEXTBUTTON&gt;"Bring it."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Let's go."&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] Voy a desactivar el escudo del dispositivo de sellado.&lt;BR&gt;&lt;BR&gt;Una vez que comience la magia, aparecer&amp;#225;n demonios para protegerlo.&lt;BR&gt;&lt;BR&gt;Tendr&amp;#225;s que protegerme hasta que termine mi trabajo; &amp;#191;crees que podr&amp;#225;s con eso?&lt;TEXTBUTTON&gt;"Bring it."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Let's go."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1025" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">[EN] I think something watches us from above.&lt;br&gt;[ES] Creo que algo nos observa desde arriba.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="3">[EN] Quiet! I thought I heard something.&lt;br&gt;[ES] &amp;#161;Silencio! Cre&amp;#237; haber o&amp;#237;do algo.</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">[EN] We're a shambles, and we haven't even started fighting.&lt;br&gt;[ES] Estamos hechos un desastre y ni siquiera hemos empezado a luchar.</Page>
+    </Text>
+</VillagerDialog>

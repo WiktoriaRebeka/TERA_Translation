@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1041" huntingZoneId="70" voiceTypeId="46" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Legends and lore abound around Essenia. Not to mention the ongoing assault by Thulsa's legions!&lt;BR&gt;&lt;BR&gt;I'm writing a book about everything that's happening. I'll get a castanic to market it and swim in the piles of gold I'll make.&lt;br&gt;[ES] &amp;#161;Essenia est&amp;#225; llena de leyendas y tradiciones! &amp;#161;Sin mencionar el asalto continuo de las legiones de Thulsa!&lt;BR&gt;&lt;BR&gt;Estoy escribiendo un libro sobre todo lo que est&amp;#225; pasando. Har&amp;#233; que un Castanic lo venda y nadar&amp;#233; en las pilas de oro que ganar&amp;#233;.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] What? Evacuate the city?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233;? &amp;#191;Evacuar la ciudad?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Tobas, you need to hurry! One transport has already left!&lt;br&gt;[ES] &amp;#161;Tobas, tienes que darte prisa! &amp;#161;Ya ha salido un transporte!</Page>
+    </Text>
+</VillagerDialog>

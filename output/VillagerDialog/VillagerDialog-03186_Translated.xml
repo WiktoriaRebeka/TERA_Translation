@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2065" huntingZoneId="183" voiceTypeId="80" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="80">[EN] Greetings. My name is Kuncun.&lt;BR&gt;&lt;BR&gt;I'm Loomey's trusted companion!&lt;br&gt;[ES] Saludos. Me llamo Kuncun.&lt;BR&gt;&lt;BR&gt;&amp;#161;Soy el fiel compa&amp;#241;ero de Loomey!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Were you looking for me?&lt;br&gt;[ES] &amp;#191;Estabas busc&amp;#225;ndome?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] We need a lot of essence from magical creatures for the hatching spell. If I give you the details, will you please gather it for us?&lt;br&gt;[ES] Necesitamos mucha esencia de criaturas m&amp;#225;gicas para el conjuro de eclosi&amp;#243;n. Si te doy los detalles, &amp;#191;podr&amp;#237;as conseguirla para nosotros, por favor?</Page>
+    </Text>
+</VillagerDialog>

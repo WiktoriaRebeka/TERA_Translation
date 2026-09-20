@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1021" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">[EN] The bleeding won't stop. This one is slipping away!&lt;br&gt;[ES] La hemorragia no se detiene. &amp;#161;Este se nos est&amp;#225; escapando!</Page>
+    </Text>
+    <Text id="2" endSocial="3">
+        <Page social="3">[EN] Breathe, curse you! Breathe!&lt;br&gt;[ES] &amp;#161;Respira, maldita sea! &amp;#161;Respira!</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">[EN] So many injured. So many dead.&lt;br&gt;[ES] Tantos heridos. Tantos muertos.</Page>
+    </Text>
+    <Text id="4" endSocial="3">
+        <Page social="3">[EN] Drowning victims on a battlefield. That's a first for me, and hopefully a last.&lt;br&gt;[ES] V&amp;#237;ctimas de ahogamiento en un campo de batalla. Es la primera vez para m&amp;#237;, y espero que la &amp;#250;ltima.</Page>
+    </Text>
+</VillagerDialog>

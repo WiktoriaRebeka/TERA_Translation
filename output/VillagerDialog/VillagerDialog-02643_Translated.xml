@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10033" huntingZoneId="84" voiceTypeId="269" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="269">[EN] I'll clear the Argons out of our land. For my sister.&lt;br&gt;[ES] Limpiar&amp;#233; nuestra tierra de Argons. Por mi hermana.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'm glad that we have someone like you on our side.&lt;br&gt;[ES] Me alegra que tengamos a alguien como t&amp;#250; de nuestro lado.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] See you on the front line.&lt;br&gt;[ES] Nos vemos en la primera l&amp;#237;nea.</Page>
+    </Text>
+</VillagerDialog>

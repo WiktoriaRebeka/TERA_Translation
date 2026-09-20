@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="83" voiceTypeId="17" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Eldritch shards are extremely valuable. The Mysterium uses them to protect Allemantheia with an arcane shield, so they pay anything for them.&lt;BR&gt;&lt;BR&gt;If you've got a bit of luck and a lot of fur, you might survive long enough to find your own strike of shards.&lt;br&gt;[ES] Los eldritch shards son extremadamente valiosos. El Mysterium los usa para proteger Allemantheia con un escudo arcano, por lo que pagan lo que sea por ellos.&lt;BR&gt;&lt;BR&gt;Si tienes un poco de suerte y mucha piel, podr&amp;#237;as sobrevivir el tiempo suficiente para encontrar tu propio yacimiento de fragmentos.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] This is going to be a feast!&lt;br&gt;[ES] &amp;#161;Esto va a ser un banquete!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Some expensive flavoring...&lt;br&gt;[ES] Un poco de condimento caro...</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1019" huntingZoneId="476" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] Elleon! Elleon! Is this what you were worried about?&lt;br&gt;[ES] &amp;#161;Elleon! &amp;#161;Elleon! &amp;#191;Es esto de lo que te preocupabas?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Elleon, Elleon! Wake up!&lt;br&gt;[ES] &amp;#161;Elleon, El&amp;#233;on! &amp;#161;Despierta!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Let's move him to Habere quickly!&lt;br&gt;[ES] &amp;#161;Llevemos a Habere r&amp;#225;pido!</Page>
+    </Text>
+</VillagerDialog>

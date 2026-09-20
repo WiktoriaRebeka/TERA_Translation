@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2002" huntingZoneId="418" voiceTypeId="20" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Just passing through, eh?&lt;BR&gt;&lt;BR&gt;I'm guessing you're on a mission, or you wouldn't be in such a hurry.&lt;BR&gt;&lt;BR&gt;I tell you what: Let's have a riddle contest. If you win, I'll let you pass.&lt;br&gt;[ES] &amp;#191;Solo de paso, eh?&lt;BR&gt;&lt;BR&gt;Supongo que est&amp;#225;s en una misi&amp;#243;n, o no tendr&amp;#237;as tanta prisa.&lt;BR&gt;&lt;BR&gt;Te propongo algo: hagamos un concurso de acertijos. Si ganas, te dejar&amp;#233; pasar.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">[EN] Ha! What a tough customer you are! Very well.&lt;TEXTBUTTON&gt;"I don't have time for this." &lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Just open the door already." &lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Ja! &amp;#161;Qu&amp;#233; cliente tan duro eres! Muy bien.&lt;TEXTBUTTON&gt;"I don't have time for this." &lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Just open the door already." &lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4">[EN] Okay, just a moment. I'll open the door for you.&lt;br&gt;[ES] De acuerdo, solo un momento. Te abrir&amp;#233; la puerta.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4">[EN] You'd better watch your back.&lt;br&gt;[ES] M&amp;#225;s te vale cuidar tus espaldas.</Page>
+    </Text>
+</VillagerDialog>

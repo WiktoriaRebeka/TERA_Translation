@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1009" huntingZoneId="222" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="222" prevId="0" villagerId="1009" endSocial="0">
+        <Page social="0">[EN] I sincerely hope you're not looking to blame me for this. I didn't do...whatever was done. I have an alibi.&lt;BR&gt;&lt;BR&gt;Oh, wait&amp;#8212;my alibi ran screaming from here.&lt;BR&gt;&lt;BR&gt;I still didn't do it.&lt;br&gt;[ES] Espero sinceramente que no busques culparme de esto. Yo no hice... lo que sea que se haya hecho. Tengo una coartada.&lt;BR&gt;&lt;BR&gt;Ay, espera... mi coartada sali&amp;#243; corriendo de aqu&amp;#237; a los gritos.&lt;BR&gt;&lt;BR&gt;Aun as&amp;#237;, yo no lo hice.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] Are you ready to go to Hallie?&lt;TEXTBUTTON&gt;Go.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to Hallie.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#191;Est&amp;#225;s listo para ir con Hallie?&lt;TEXTBUTTON&gt;Go.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to Hallie.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

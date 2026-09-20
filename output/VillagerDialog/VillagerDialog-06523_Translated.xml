@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1101" huntingZoneId="505" voiceTypeId="41" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="41">[EN] Quick! We need to get these people to safety!&lt;br&gt;[ES] &amp;#161;R&amp;#225;pido! &amp;#161;Tenemos que poner a esta gente a salvo!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="41">[EN] Try to stay calm.&lt;br&gt;[ES] Trata de mantener la calma.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="41">[EN] Yes, sir!&lt;br&gt;[ES] &amp;#161;S&amp;#237;, se&amp;#241;or!</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="41">[EN] We're evacuating. Find Seir. He'll get you to safety.&lt;br&gt;[ES] Estamos evacuando. Busca a Seir. &amp;#201;l te pondr&amp;#225; a salvo.</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="41">[EN] Hey, little buddy. Things are going to get a bit dangerous here, so let's go see if Seir can't find you a safer place to be.&lt;br&gt;[ES] Hola, peque&amp;#241;o amigo. Las cosas se van a poner un poco peligrosas aqu&amp;#237;, as&amp;#237; que vamos a ver si Seir puede encontrarte un lugar m&amp;#225;s seguro.</Page>
+    </Text>
+    <Text id="6" endSocial="0">
+        <Page social="0" voiceTypeId="41">[EN] Commander! Are you okay?&lt;br&gt;[ES] &amp;#161;Comandante! &amp;#191;Est&amp;#225;s bien?</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30000" huntingZoneId="123" voiceTypeId="115" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] If you're not with the Iron Order, there's nothing for you here.&lt;br&gt;[ES] Si no est&amp;#225;s con la Iron Order, no hay nada para ti aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="6" endSocial="4">
+        <Page social="0" voiceTypeId="0">[EN] I'm here for the Order. You aren't the Order. Get the message?&lt;br&gt;[ES] Estoy aqu&amp;#237; por la Order. T&amp;#250; no eres de la Order. &amp;#191;Entendido?</Page>
+    </Text>
+</VillagerDialog>

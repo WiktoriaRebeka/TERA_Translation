@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8004" huntingZoneId="506" voiceTypeId="74" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="74">[EN] There's so many people, and so much to see!&lt;br&gt;[ES] &amp;#161;Hay tanta gente y tantas cosas que ver!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="74">[EN] Siruna, could we go over there?&lt;br&gt;[ES] Siruna, &amp;#191;podr&amp;#237;amos ir all&amp;#237;?</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="74">[EN] Maybe...we could just wait here until the floor isn't so crowded.&lt;br&gt;[ES] Tal vez... podr&amp;#237;amos simplemente esperar aqu&amp;#237; hasta que la pista no est&amp;#233; tan llena.</Page>
+    </Text>
+</VillagerDialog>

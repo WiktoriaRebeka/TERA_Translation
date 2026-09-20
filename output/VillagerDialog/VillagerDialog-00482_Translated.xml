@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2000" huntingZoneId="38" voiceTypeId="290" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="5">
+        <Page social="5" voiceTypeId="290">[EN] I was waiting for you, &lt;PCNAME&gt;.&lt;br&gt;[ES] Te estaba esperando, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Welcome, &lt;PCNAME&gt;.&lt;br&gt;[ES] Bienvenido, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I knew you would come.&lt;br&gt;[ES] Sab&amp;#237;a que vendr&amp;#237;as.</Page>
+    </Text>
+</VillagerDialog>

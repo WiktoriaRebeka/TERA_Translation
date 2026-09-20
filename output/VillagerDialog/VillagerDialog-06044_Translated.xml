@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1027" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">[EN] I saw a ship full of provisions go down. What are we gonna eat?&lt;br&gt;[ES] Vi hundirse un barco lleno de provisiones. &amp;#191;Qu&amp;#233; vamos a comer?</Page>
+    </Text>
+    <Text id="2" endSocial="3">
+        <Page social="3">[EN] I thought they were gonna throw us a parade.&lt;br&gt;[ES] Pens&amp;#233; que nos recibir&amp;#237;an con un desfile.</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">[EN] Just survive. One more hour. One more.&lt;br&gt;[ES] Solo sobrevive. Una hora m&amp;#225;s. Una m&amp;#225;s.</Page>
+    </Text>
+</VillagerDialog>

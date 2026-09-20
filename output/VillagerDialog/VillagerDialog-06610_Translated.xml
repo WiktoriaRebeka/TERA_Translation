@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8300" huntingZoneId="506" voiceTypeId="108" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="108">[EN] Can I do this? And that? And...!&lt;br&gt;[ES] &amp;#191;Puedo hacer esto? &amp;#191;Y aquello? &amp;#161;Y...!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="108">[EN] Okay, Dabria.&lt;br&gt;[ES] De acuerdo, Dabria.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="108">[EN] Heh! I can't wait!&lt;br&gt;[ES] &amp;#161;Je! &amp;#161;No puedo esperar!</Page>
+    </Text>
+</VillagerDialog>

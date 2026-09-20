@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3602" huntingZoneId="1022" voiceTypeId="59" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5" voiceTypeId="255">[EN] I only sell items to those who cooperate with us. You'll want to help us first if you want to do business with me.&lt;br&gt;[ES] Solo vendo objetos a quienes cooperan con nosotros. Primero tendr&amp;#225;s que ayudarnos si quieres hacer negocios conmigo.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="256">[EN] Help us and you will get many items in return.&lt;br&gt;[ES] Ay&amp;#250;danos y recibir&amp;#225;s muchos objetos a cambio.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="257">[EN] Thank you for always helping us. Let me know if there are any items you need.&lt;br&gt;[ES] Gracias por ayudarnos siempre. Av&amp;#237;same si necesitas alg&amp;#250;n objeto.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="257">[EN] Thank you for always helping us. Let me know if there are any items you need.&lt;br&gt;[ES] Gracias por ayudarnos siempre. Av&amp;#237;same si necesitas alg&amp;#250;n objeto.</Page>
+    </Text>
+</VillagerDialog>

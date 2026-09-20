@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="100" huntingZoneId="2500" voiceTypeId="282" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="282">[EN] Err, I don&amp;#8217;t think I&amp;#8217;ve seen you before.&lt;br&gt;[ES] Eh, creo que no te hab&amp;#237;a visto antes.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Come over here for a sec, will you?&lt;br&gt;[ES] Ven aqu&amp;#237; un segundo, &amp;#191;quieres?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Come close to me and press the &lt;img src='img://__Icon_KeyboardShape.Keyboard_F' width='18' height='18'/&gt; key.&lt;br&gt;[ES] Ac&amp;#233;rcate a m&amp;#237; y presiona la tecla &lt;img src='img://__Icon_KeyboardShape.Keyboard_F' width='18' height='18'/&gt;.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Sheesh, you have to be closer than that if you want to talk.&lt;br&gt;[ES] Vaya, tienes que estar m&amp;#225;s cerca que eso si quieres hablar.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1039" huntingZoneId="70" voiceTypeId="38" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Stay alert and focused at all times. The land is toxic, the beasts enraged, and the invaders closer than we'd like.&lt;BR&gt;&lt;BR&gt;So long as you listen to the veterans around here and only eat imported food, your health should remain mostly unaffected.&lt;br&gt;[ES] Mantente alerta y concentrado en todo momento. La tierra es t&amp;#243;xica, las bestias est&amp;#225;n enfurecidas y los invasores m&amp;#225;s cerca de lo que nos gustar&amp;#237;a.&lt;BR&gt;&lt;BR&gt;Siempre y cuando escuches a los veteranos por aqu&amp;#237; y solo comas comida importada, tu salud deber&amp;#237;a permanecer casi intacta.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;PCNAME&gt;, we'll be ready to take off soon.&lt;br&gt;[ES] &lt;PCNAME&gt;, estaremos listos para despegar pronto.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] This is an emergency! Everyone on the transports!&lt;br&gt;[ES] &amp;#161;Esto es una emergencia! &amp;#161;Todos a los transportes!</Page>
+    </Text>
+</VillagerDialog>

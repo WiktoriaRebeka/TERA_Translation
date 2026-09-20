@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1016" huntingZoneId="203" voiceTypeId="12" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="203" prevId="0" villagerId="1016" endSocial="14">
+        <Page social="4">[EN] If you're ready to fight, I'm ready to find you work.&lt;BR&gt;&lt;BR&gt;Stay frosty and get them before they get us!&lt;br&gt;[ES] Si est&amp;#225;s listo para pelear, yo estoy listo para conseguirte trabajo.&lt;BR&gt;&lt;BR&gt;&amp;#161;Mantente alerta y acaben con ellos antes de que ellos acaben con nosotros!</Page>
+    </Text>
+    <Text id="99" huntingZoneId="203" prevId="0" villagerId="1016" endSocial="14">
+        <Page social="4" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1016" endSocial="14">
+        <Page social="4">[EN] I heard a rumor around the campfire one night. This cult people whisper about? They're trying to resurrect a dead god.&lt;BR&gt;&lt;BR&gt;I don't know why. The gods have messed everything up. It's up to us to fix it.&lt;br&gt;[ES] Escuch&amp;#233; un rumor alrededor de la fogata una noche. &amp;#191;Ese culto del que la gente susurra? Est&amp;#225;n intentando resucitar a un dios muerto.&lt;BR&gt;&lt;BR&gt;No s&amp;#233; por qu&amp;#233;. Los dioses lo han arruinado todo. Nos toca a nosotros arreglarlo.</Page>
+    </Text>
+</VillagerDialog>

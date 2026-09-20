@@ -1,0 +1,26 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3000" huntingZoneId="2502" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You are here!&lt;br&gt;[ES] &amp;#161;Est&amp;#225;s aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Thulsa stole titanic essense from the Tower of Shara.&lt;br&gt;[ES] Thulsa rob&amp;#243; esencia tit&amp;#225;nica de la Tower of Shara.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] What he needs it for is unclear,&lt;BR&gt;but I&amp;#8217;m sure he&amp;#8217;s up to no good.&lt;br&gt;[ES] No est&amp;#225; claro para qu&amp;#233; la necesita,&lt;BR&gt;pero estoy seguro de que trama algo malo.</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It must be retrieved before it&amp;#8217;s too late.&lt;br&gt;[ES] Hay que recuperarla antes de que sea demasiado tarde.</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Let's talk on the way.&lt;BR&gt;Follow me.&lt;br&gt;[ES] Hablemos en el camino.&lt;BR&gt;S&amp;#237;gueme.</Page>
+    </Text>
+    <Text id="6" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Anyway, that woman who was with Thulsa...&lt;br&gt;[ES] En fin, esa mujer que estaba con Thulsa...</Page>
+    </Text>
+    <Text id="7" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I don't know...&lt;BR&gt;I have a bad feeling about her.&lt;br&gt;[ES] No lo s&amp;#233;...&lt;BR&gt;Tengo un mal presentimiento sobre ella.</Page>
+    </Text>
+    <Text id="8" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Ah...&lt;BR&gt;Things are getting annoying.&lt;br&gt;[ES] Ah...&lt;BR&gt;Las cosas se est&amp;#225;n poniendo fastidiosas.</Page>
+    </Text>
+</VillagerDialog>

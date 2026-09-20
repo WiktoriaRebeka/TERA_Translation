@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1009" huntingZoneId="60" voiceTypeId="25" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="60" prevId="0" villagerId="1009" endSocial="14">
+        <Page social="4">[EN] If I can't get into the forest, I can't make a living.&lt;BR&gt;&lt;BR&gt;And if I can't make a living, I'm no better than a refugee.&lt;br&gt;[ES] Si no puedo entrar al bosque, no puedo ganarme la vida.&lt;BR&gt;&lt;BR&gt;Y si no puedo ganarme la vida, no soy mejor que un refugiado.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1009" endSocial="14">
+        <Page social="4">[EN] A good weapon...one of the few things in the world that will love you right back.&lt;br&gt;[ES] Una buena arma... una de las pocas cosas en el mundo que te querr&amp;#225; de vuelta.</Page>
+    </Text>
+</VillagerDialog>

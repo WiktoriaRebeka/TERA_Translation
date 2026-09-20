@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1006" huntingZoneId="3004" voiceTypeId="114" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="4">[EN] My body... what's happening to me?&lt;br&gt;[ES] Mi cuerpo... &amp;#191;qu&amp;#233; me est&amp;#225; pasando?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Never... escape...&lt;br&gt;[ES] Nunca... escapar...</Page>
+    </Text>
+</VillagerDialog>

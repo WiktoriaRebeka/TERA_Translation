@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">[EN] Watch your surroundings!&lt;br&gt;[ES] &amp;#161;Vigila tus alrededores!</Page>
+    </Text>
+    <Text id="2" endSocial="3">
+        <Page social="0">[EN] The Valkyon Federation never retreats!&lt;br&gt;[ES] &amp;#161;La Valkyon Federation nunca se retira!</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">[EN] Supplies gone, comrades gone, but honor intact!&lt;br&gt;[ES] &amp;#161;Suministros perdidos, camaradas perdidos, pero el honor sigue intacto!</Page>
+    </Text>
+    <Text id="4" endSocial="3">
+        <Page social="3">[EN] Chin up, soldier. The Valkyon Federation is with us every step of the way!&lt;br&gt;[ES] &amp;#161;&amp;#193;nimo, soldado! &amp;#161;La Valkyon Federation est&amp;#225; con nosotros en cada paso del camino!</Page>
+    </Text>
+</VillagerDialog>

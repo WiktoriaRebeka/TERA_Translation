@@ -1,0 +1,50 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5005" huntingZoneId="528" voiceTypeId="137" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Kaiator will not succumb to any threat! Kaia, the goddess of war, will protect us!&lt;br&gt;[ES] &amp;#161;Kaiator no sucumbir&amp;#225; ante ninguna amenaza! &amp;#161;Kaia, la diosa de la guerra, nos proteger&amp;#225;!</Page>
+    </Text>
+    <Text id="101" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] What's all this commotion?&lt;br&gt;[ES] &amp;#191;A qu&amp;#233; se debe todo este alboroto?</Page>
+    </Text>
+    <Text id="102" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] What? There was a battle going on there! What happened?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233;? &amp;#161;Hubo una batalla all&amp;#237;! &amp;#191;Qu&amp;#233; pas&amp;#243;?</Page>
+    </Text>
+    <Text id="103" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Did you find out anything?&lt;br&gt;[ES] &amp;#191;Averiguaste algo?</Page>
+    </Text>
+    <Text id="104" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] That's why I'm putting &lt;PCNAME&gt; in charge of the mission.&lt;br&gt;[ES] Por eso voy a poner a &lt;PCNAME&gt; al mando de la misi&amp;#243;n.</Page>
+    </Text>
+    <Text id="105" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I know I can trust you two to finish this!&lt;br&gt;[ES] &amp;#161;S&amp;#233; que puedo confiar en ustedes dos para terminar esto!</Page>
+    </Text>
+    <Text id="106" endSocial="4">
+        <Page social="4" voiceTypeId="0">[EN] I've reviewed your report, &lt;PCNAME&gt;.&lt;br&gt;[ES] He revisado tu informe, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="107" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Gislan, it'll be difficult to send out any more reinforcements.&lt;br&gt;[ES] Gislan, va a ser dif&amp;#237;cil enviar m&amp;#225;s refuerzos.</Page>
+    </Text>
+    <Text id="108" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Thulsa awakened Kelsaik and took over the Divine Furnace.&lt;br&gt;[ES] Thulsa despert&amp;#243; a Kelsaik y se apoder&amp;#243; de Divine Furnace.</Page>
+    </Text>
+    <Text id="109" endSocial="4">
+        <Page social="4" voiceTypeId="0">[EN] We've dispatched all of our men except for those needed to defend the city.&lt;br&gt;[ES] Hemos enviado a todos nuestros hombres, excepto a los necesarios para defender la ciudad.</Page>
+    </Text>
+    <Text id="110" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I can't help thinking that the evil god and argons are supporting each other.&lt;br&gt;[ES] No puedo dejar de pensar que el dios maligno y los argons se est&amp;#225;n apoyando mutuamente.</Page>
+    </Text>
+    <Text id="111" endSocial="0">
+        <Page social="22" voiceTypeId="0">[EN] Take this to the meeting point.&lt;br&gt;[ES] Lleva esto al punto de encuentro.</Page>
+    </Text>
+    <Text id="112" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Can we talk about this later?&lt;br&gt;[ES] &amp;#191;Podemos hablar de esto m&amp;#225;s tarde?</Page>
+    </Text>
+    <Text id="113" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Kaia!?&lt;br&gt;[ES] &amp;#161;&amp;#191;Kaia?!</Page>
+    </Text>
+    <Text id="114" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Gislan, Hasmina will head to the front.&lt;br&gt;[ES] Gislan, Hasmina ir&amp;#225; al frente.</Page>
+    </Text>
+    <Text id="115" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll give her a message.&lt;br&gt;[ES] Le dar&amp;#233; un mensaje.</Page>
+    </Text>
+</VillagerDialog>

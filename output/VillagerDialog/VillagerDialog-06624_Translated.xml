@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2003" huntingZoneId="508" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Do you hear that? It's doubt, and it's calling your name...&lt;br&gt;[ES] &amp;#191;Escuchas eso? Es la duda, y est&amp;#225; llamando tu nombre...</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Frustrating, isn't it?&lt;BR&gt;There's always another weakling, expecting you to make the difficult choices.&lt;BR&gt;But what do you get in return?&lt;TEXTBUTTON&gt;[Look into your memory.]&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"I'm ready to face my Skepticism."&lt;/EVENTPAGEBUTTON&gt;&lt;CLOSEPAGEBUTTON&gt;"I'm not ready yet."&lt;/CLOSEPAGEBUTTON&gt;&lt;br&gt;[ES] Es frustrante, &amp;#191;no?&lt;BR&gt;Siempre hay otro debilucho que espera que t&amp;#250; tomes las decisiones dif&amp;#237;ciles.&lt;BR&gt;Pero &amp;#191;qu&amp;#233; obtienes a cambio?&lt;TEXTBUTTON&gt;[Look into your memory.]&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"I'm ready to face my Skepticism."&lt;/EVENTPAGEBUTTON&gt;&lt;CLOSEPAGEBUTTON&gt;"I'm not ready yet."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

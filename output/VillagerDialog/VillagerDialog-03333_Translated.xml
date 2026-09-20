@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2202" huntingZoneId="191" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Are you a friend... of Rhodos?&lt;br&gt;[ES] &amp;#191;Eres amigo... de Rhodos?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Please&amp;#8230; tell&amp;#8230; Rhodos&amp;#8230;&lt;br&gt;[ES] Por favor... dile... a Rhodos...</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Promise me&amp;#8230;&lt;br&gt;[ES] Prom&amp;#233;teme...</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] No! Not yet&amp;#8230;&lt;br&gt;[ES] &amp;#161;No! A&amp;#250;n no...</Page>
+    </Text>
+</VillagerDialog>

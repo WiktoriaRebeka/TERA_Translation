@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="27" voiceTypeId="291" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] The butterflies...they're creating more crystal powder!&lt;br&gt;[ES] Las mariposas... &amp;#161;est&amp;#225;n creando m&amp;#225;s polvo de Crystal!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] It's this way!&lt;br&gt;[ES] &amp;#161;Es por aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] That airship...it crashed...&lt;br&gt;[ES] Esa aeronave... se estrell&amp;#243;...</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] We need to save as many as we can!&lt;br&gt;[ES] &amp;#161;Tenemos que salvar a tantos como podamos!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] Let's split up and look for survivors!&lt;br&gt;[ES] &amp;#161;Separ&amp;#233;monos y busquemos sobrevivientes!</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] You can go through here!&lt;br&gt;[ES] &amp;#161;Puedes pasar por aqu&amp;#237;!</Page>
+    </Text>
+</VillagerDialog>

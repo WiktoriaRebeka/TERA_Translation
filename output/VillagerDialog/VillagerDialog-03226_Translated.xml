@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7001" huntingZoneId="183" voiceTypeId="167" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="167">[EN] &lt;img src='img://__Image_Dungeon_9830.9830'/&gt;Hello! I am Gaderong, your guide to the Celestial Arena!&lt;BR&gt;&lt;BR&gt;The arena presents challenging trials at each stage!&lt;BR&gt;&lt;BR&gt;If you'd like, I can send you there right now.&lt;BR&gt;&lt;BR&gt;&lt;font color='#0000FF'&gt;Entering the Celestial Arena costs 70 Adventure Coins.&lt;/font&gt;&lt;br&gt;[ES] &lt;img src='img://__Image_Dungeon_9830.9830'/&gt;&amp;#161;Hola! Soy Gaderong, &amp;#161;tu gu&amp;#237;a en la Celestial Arena!&lt;BR&gt;&lt;BR&gt;&amp;#161;La arena presenta pruebas desafiantes en cada etapa!&lt;BR&gt;&lt;BR&gt;Si quieres, puedo enviarte all&amp;#237; ahora mismo.&lt;BR&gt;&lt;BR&gt;&lt;font color='#0000FF'&gt;Entrar a la Celestial Arena cuesta 70 Adventure Coins.&lt;/font&gt;</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="4" voiceTypeId="167">[EN] I'm sorry, but the arena is closed right now.&lt;BR&gt;&lt;BR&gt;Please try again later.&lt;br&gt;[ES] Lo siento, pero la arena est&amp;#225; cerrada en este momento.&lt;BR&gt;&lt;BR&gt;Por favor, int&amp;#233;ntalo de nuevo m&amp;#225;s tarde.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1145" huntingZoneId="27" voiceTypeId="69" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="69">[EN] Elleon can't do anything without me. Even now, he wants me by his side.&lt;BR&gt;&lt;br&gt;[ES] Elleon no puede hacer nada sin m&amp;#237;. Incluso ahora, me quiere a su lado.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] What is it, Elleon? You have some news for the federation and Jelena?&lt;BR&gt;&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; pasa, Elleon? &amp;#191;Tienes alguna noticia para la federaci&amp;#243;n y Jelena?&lt;BR&gt;</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] This was the last for sure, right? So long!&lt;BR&gt;&lt;br&gt;[ES] Esta era la &amp;#250;ltima, &amp;#191;verdad? &amp;#161;Hasta luego!&lt;BR&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="120" huntingZoneId="2002" voiceTypeId="327" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="1" voiceTypeId="327">[EN] Watch out for the plants and beasts here in Iridian Wetlands.&lt;BR&gt;&lt;BR&gt;You'll be able to find materials here.&lt;br&gt;[ES] Cuidado con las plantas y bestias aqu&amp;#237; en Iridian Wetlands.&lt;BR&gt;&lt;BR&gt;Aqu&amp;#237; podr&amp;#225;s encontrar materiales.</Page>
+    </Text>
+    <Text id="101" endSocial="1">
+        <Page social="1" voiceTypeId="327">[EN] Well...that...I...&lt;br&gt;[ES] Bueno... eso... yo...</Page>
+    </Text>
+    <Text id="102" endSocial="1">
+        <Page social="1" voiceTypeId="327">[EN] That's...because of the intake...&lt;br&gt;[ES] Eso es... debido al consumo...</Page>
+    </Text>
+</VillagerDialog>

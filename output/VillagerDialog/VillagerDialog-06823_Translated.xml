@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="183" huntingZoneId="599" voiceTypeId="283" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="283">[EN] Is Sharla okay, &lt;PCNAME&gt;...?&lt;BR&gt;&lt;BR&gt;Can she not wake up?&lt;br&gt;[ES] &amp;#191;Est&amp;#225; bien Sharla, &lt;PCNAME&gt;...?&lt;BR&gt;&lt;BR&gt;&amp;#191;No puede despertar?</Page>
+    </Text>
+    <Text id="100" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Sharla! Wake up, Sharla! Wake up!&lt;br&gt;[ES] &amp;#161;Sharla! &amp;#161;Despierta, Sharla! &amp;#161;Despierta!</Page>
+    </Text>
+</VillagerDialog>

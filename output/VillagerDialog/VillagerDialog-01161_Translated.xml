@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22010" huntingZoneId="63" voiceTypeId="66" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="6322010" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I can send you right upstairs! Would you like to go?&lt;br&gt;[ES] &amp;#161;Puedo enviarte directo al piso de arriba! &amp;#191;Te gustar&amp;#237;a ir?</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Not ready, not ready...so much pressure! Try coming back later.&lt;br&gt;[ES] A&amp;#250;n no estoy listo... &amp;#161;tanta presi&amp;#243;n! Intenta regresar m&amp;#225;s tarde.</Page>
+    </Text>
+</VillagerDialog>

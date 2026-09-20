@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220021" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I have nothing to give you, moneygrubber!&lt;br&gt;[ES] &amp;#161;No tengo nada que darte, &amp;#225;varo!</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I have no time for fawning lackeys!&lt;br&gt;[ES] &amp;#161;No tengo tiempo para lacayos aduladores!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="67">[EN] Strength in numbers! Even if the number is one.&lt;br&gt;[ES] &amp;#161;La uni&amp;#243;n hace la fuerza! Incluso si el n&amp;#250;mero es uno.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="67">[EN] Join the Iron Order!&lt;br&gt;[ES] &amp;#161;&amp;#218;nete a la Iron Order!</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="67">[EN] I trust Frateko's judgment and follow his leadership.&lt;br&gt;[ES] Conf&amp;#237;o en el juicio de Frateko y sigo su liderazgo.</Page>
+    </Text>
+</VillagerDialog>

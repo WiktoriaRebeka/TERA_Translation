@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1012" huntingZoneId="76" voiceTypeId="108" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Have the argons retreated?&lt;br&gt;[ES] &amp;#191;Se han retirado los argons?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Looks like a messenger's here from {@Rgn:84001}.&lt;br&gt;[ES] Parece que hay un mensajero de {@Rgn:84001} aqu&amp;#237;.</Page>
+    </Text>
+</VillagerDialog>

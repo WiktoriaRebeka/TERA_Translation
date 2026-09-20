@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="182" huntingZoneId="599" voiceTypeId="283" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="283">[EN] Kiecey! Pilt! Are you in here? Jerdan? Niyum!&lt;br&gt;[ES] &amp;#161;Kiecey! &amp;#161;Pilt! &amp;#191;Est&amp;#225;n aqu&amp;#237;? &amp;#191;Jerdan? &amp;#161;Niyum!</Page>
+    </Text>
+    <Text id="100" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Yoo-hoo! Who's in here?&lt;br&gt;[ES] &amp;#161;Yuju! &amp;#191;Qui&amp;#233;n est&amp;#225; aqu&amp;#237;?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Oh! It's Grannie Melma! Are you okay?&lt;br&gt;[ES] &amp;#161;Oh! &amp;#161;Es la abuela Melma! &amp;#191;Est&amp;#225;s bien?</Page>
+    </Text>
+</VillagerDialog>

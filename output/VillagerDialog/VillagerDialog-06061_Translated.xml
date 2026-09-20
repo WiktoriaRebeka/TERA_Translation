@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5000" huntingZoneId="416" voiceTypeId="153" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] You're all alive.&lt;br&gt;[ES] Est&amp;#225;n todos vivos.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] We must find the remaining expedition members. Let's go.&lt;br&gt;[ES] Debemos encontrar a los miembros restantes de la expedici&amp;#243;n. Vamos.</Page>
+    </Text>
+    <Text id="1" endSocial="4">
+        <Page social="4">[EN] We must find the remaining expedition members.&lt;br&gt;[ES] Debemos encontrar a los miembros restantes de la expedici&amp;#243;n.</Page>
+    </Text>
+</VillagerDialog>

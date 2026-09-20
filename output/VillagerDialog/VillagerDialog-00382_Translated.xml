@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1009" huntingZoneId="29" voiceTypeId="291" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] There was a misunderstanding.&lt;BR&gt;&lt;BR&gt;I thought that the raiders were trying to make use of the phenomenon to attack...&lt;BR&gt;&lt;BR&gt;But they were too suspicious all along.&lt;br&gt;[ES] Hubo un malentendido.&lt;BR&gt;&lt;BR&gt;Pens&amp;#233; que los asaltantes estaban intentando aprovechar el fen&amp;#243;meno para atacar...&lt;BR&gt;&lt;BR&gt;Pero fueron demasiado sospechosos todo este tiempo.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] Trust &lt;PCNAME&gt; instead.&lt;br&gt;[ES] Conf&amp;#237;a en &lt;PCNAME&gt; en su lugar.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="291">[EN] We will investigate your claims, Hennika. Pray your story checks out.&lt;br&gt;[ES] Investigaremos tus afirmaciones, Hennika. Ruega que tu historia sea cierta.</Page>
+    </Text>
+</VillagerDialog>

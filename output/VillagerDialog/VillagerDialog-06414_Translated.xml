@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="11005" huntingZoneId="478" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] (Even unpowered, the dark pressure of the dementalith is suffocating.)&lt;br&gt;[ES] (Incluso sin energ&amp;#237;a, la oscura presi&amp;#243;n del dementalito es sofocante.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] The dark energy arising from the Dementalith is suffocating. Even though Thulsa is gone, the power of the Dementalith still remains as strong as ever. &lt;TEXTBUTTON&gt;Investigate more closely.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;The power of the Dementalith is becoming stronger.&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] La energ&amp;#237;a oscura que emana del Dementalith es sofocante. Aunque Thulsa se haya ido, el poder del Dementalith sigue siendo tan fuerte como siempre. &lt;TEXTBUTTON&gt;Investigate more closely.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;The power of the Dementalith is becoming stronger.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

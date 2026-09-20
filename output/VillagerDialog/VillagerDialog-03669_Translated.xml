@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1032" huntingZoneId="208" voiceTypeId="153" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="153">[EN] Still looking for clues...&lt;br&gt;[ES] A&amp;#250;n buscando pistas...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You take the that entrance. I'll search for another way.&lt;br&gt;[ES] T&amp;#250; toma esa entrada. Yo buscar&amp;#233; otra manera.</Page>
+    </Text>
+</VillagerDialog>

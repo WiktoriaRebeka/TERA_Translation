@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="202" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="202" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4">[EN] A forest full of lumber, and we can't get it cut, much less get it to market.&lt;BR&gt;&lt;BR&gt;Breaks my mercenary heart, it does.&lt;br&gt;[ES] Un bosque lleno de madera y no podemos cortarla, y mucho menos llevarla al mercado.&lt;BR&gt;&lt;BR&gt;Me parte el coraz&amp;#243;n de mercenario, de verdad.</Page>
+    </Text>
+    <Text id="99" huntingZoneId="202" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4" />
+    </Text>
+</VillagerDialog>

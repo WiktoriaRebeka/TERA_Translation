@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20201" huntingZoneId="2001" voiceTypeId="293" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="293">[EN] Everything is just amazing here.&lt;BR&gt;&lt;BR&gt;You have to see what I just found.&lt;br&gt;[ES] Todo es simplemente incre&amp;#237;ble aqu&amp;#237;.&lt;BR&gt;&lt;BR&gt;Tienes que ver lo que acabo de encontrar.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Over here!&lt;br&gt;[ES] &amp;#161;Por aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Let's move.&lt;br&gt;[ES] En marcha.</Page>
+    </Text>
+</VillagerDialog>

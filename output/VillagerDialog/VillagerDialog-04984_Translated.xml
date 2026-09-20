@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1008" huntingZoneId="240" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="240" prevId="0" villagerId="1008" endSocial="0">
+        <Page social="0">[EN] (That man is staring in your direction.)&lt;br&gt;[ES] (Ese hombre est&amp;#225; mirando en tu direcci&amp;#243;n.)</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="240" prevId="0" villagerId="1008" endSocial="0">
+        <Page social="0">[EN] I'm exhausted! What's wrong with me?&lt;br&gt;[ES] &amp;#161;Estoy agotado! &amp;#191;Qu&amp;#233; me pasa?</Page>
+    </Text>
+</VillagerDialog>

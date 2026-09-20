@@ -1,0 +1,23 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1006" huntingZoneId="83" voiceTypeId="4" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="1006" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You can't trust the wendigos. Of course they want the shards&amp;#8212;for themselves!&lt;BR&gt;&lt;BR&gt;Like strip mining a resource ever harmed anything. Pfft.&lt;br&gt;[ES] No puedes confiar en los wendigos. &amp;#161;Claro que quieren los fragmentos... para ellos solos!&lt;BR&gt;&lt;BR&gt;Como si extraer recursos a cielo abierto le hubiera hecho da&amp;#241;o a algo. Pfft.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You really got 'em ready?&lt;br&gt;[ES] &amp;#191;De verdad los tienes listos?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] So I need to add fish...yeast...and some fresh water...&lt;br&gt;[ES] As&amp;#237; que necesito agregar pescado... levadura... y un poco de agua fresca...</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Done!&lt;br&gt;[ES] &amp;#161;Listo!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Everybody got ingredients for the stew.&lt;br&gt;[ES] Todos tienen los ingredientes para el estofado.</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] First, we need to boil some fresh water.&lt;br&gt;[ES] Primero, necesitamos hervir un poco de agua fresca.</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Then, we put in the Queen Salmon and it's done!&lt;br&gt;[ES] &amp;#161;Luego, ponemos el Queen Salmon y est&amp;#225; listo!</Page>
+    </Text>
+</VillagerDialog>

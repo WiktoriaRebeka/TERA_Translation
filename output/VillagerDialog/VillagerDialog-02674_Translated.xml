@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220046" huntingZoneId="84" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You're already in an alliance.&lt;br&gt;[ES] Ya est&amp;#225;s en una alianza.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] To the shame of the federation, guildmasters from around the world of TERA formed three alliances to take control. Which reflects your philosophy?&lt;BR&gt;&lt;BR&gt;The material desires of the Free Traders Collective? The fellowship of the Enlightened Union? Or the battle stance of the Iron Order?&lt;br&gt;[ES] Para verg&amp;#252;enza de la federaci&amp;#243;n, los l&amp;#237;deres de hermandad de todo el mundo de TERA formaron tres alianzas para tomar el control. &amp;#191;Cu&amp;#225;l refleja tu filosof&amp;#237;a?&lt;BR&gt;&lt;BR&gt;&amp;#191;Los deseos materiales de Free Traders Collective? &amp;#191;La hermandad de Enlightened Union? &amp;#191;O la postura de combate de Iron Order?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Only guildmasters can select a guild's alliance.&lt;br&gt;[ES] Solo los l&amp;#237;deres de hermandad pueden seleccionar la alianza de una hermandad.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] The federation hasn't kept its promises. There is a movement afoot to change how the power is weilded.&lt;BR&gt;&lt;BR&gt;But you didn't hear it from me, of course.&lt;br&gt;[ES] La federaci&amp;#243;n no ha cumplido sus promesas. Hay un movimiento en marcha para cambiar la forma en que se ejerce el poder.&lt;BR&gt;&lt;BR&gt;Pero claro, esto no lo o&amp;#237;ste de m&amp;#237;.</Page>
+    </Text>
+</VillagerDialog>

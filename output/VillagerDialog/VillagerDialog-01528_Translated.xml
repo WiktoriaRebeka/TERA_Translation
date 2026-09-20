@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1078" huntingZoneId="70" voiceTypeId="41" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] All aboard!&lt;br&gt;[ES] &amp;#161;Todos a bordo!</Page>
+    </Text>
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I hope the first transport made it safely.&lt;br&gt;[ES] Espero que el primer transporte haya llegado a salvo.</Page>
+    </Text>
+</VillagerDialog>

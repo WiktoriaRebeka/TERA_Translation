@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9998" huntingZoneId="1023" voiceTypeId="11" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You've got my report! They should be around here.&lt;br&gt;[ES] &amp;#161;Tienes mi informe! Deber&amp;#237;an estar por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'll take cover again.&lt;br&gt;[ES] Volver&amp;#233; a cubrirme.</Page>
+    </Text>
+</VillagerDialog>

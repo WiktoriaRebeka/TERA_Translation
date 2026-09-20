@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8200" huntingZoneId="122" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="3" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Hello! You seem flush. How may this one attend you today?&lt;br&gt;[ES] &amp;#161;Hola! Te ves con buen semblante. &amp;#191;C&amp;#243;mo te puede atender este hoy?</Page>
+    </Text>
+    <Text id="20" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Welcome! This one stands ready to serve you, no matter the price.&lt;br&gt;[ES] &amp;#161;Bienvenido! Este se encuentra listo para servirte, sin importar el precio.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Greetings! Shall I stitch your wounds and salve your burns?&lt;br&gt;[ES] &amp;#161;Saludos! &amp;#191;Debo coser tus heridas y aliviar tus quemaduras?</Page>
+    </Text>
+    <Text id="22" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Hello! What burdens you, other than gold?&lt;br&gt;[ES] &amp;#161;Hola! &amp;#191;Qu&amp;#233; te agobia, aparte del oro?</Page>
+    </Text>
+    <Text id="23" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Salutations! I stand ready to serve your needs and tend your wounds. Where shall we start?&lt;br&gt;[ES] &amp;#161;Saludos! Estoy listo para servir a tus necesidades y atender tus heridas. &amp;#191;Por d&amp;#243;nde empezamos?</Page>
+    </Text>
+    <Text id="1" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] It seems your account is not balanced. Your blood must go on flowing.&lt;br&gt;[ES] Parece que tus cuentas no est&amp;#225;n equilibradas. Tu sangre debe seguir fluyendo.</Page>
+    </Text>
+</VillagerDialog>

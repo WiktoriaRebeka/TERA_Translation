@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20190" huntingZoneId="2503" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I won't forgive you!&lt;br&gt;[ES] &amp;#161;No te perdonar&amp;#233;!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Take this, Dakuryon!&lt;br&gt;[ES] &amp;#161;Toma esto, Dakuryon!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Whew, that worked!&lt;br&gt;[ES] Uf, &amp;#161;funcion&amp;#243;!</Page>
+    </Text>
+</VillagerDialog>

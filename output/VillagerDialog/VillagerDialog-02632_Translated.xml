@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5001" huntingZoneId="84" voiceTypeId="110" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Are argons strong? I never fought one before ... but I'm not afraid!&lt;BR&gt;&lt;BR&gt;Okay, well ... nervous, maybe. A little.&lt;br&gt;[ES] &amp;#191;Son fuertes los argons? Nunca luch&amp;#233; contra uno antes... &amp;#161;pero no tengo miedo!&lt;BR&gt;&lt;BR&gt;Bueno, okey... nerviosa, tal vez. Un poco.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Whew ... all this exercise is hard work. But it'll be worth it!&lt;br&gt;[ES] Uf... todo este ejercicio es un trabajo duro. &amp;#161;Pero valdr&amp;#225; la pena!</Page>
+    </Text>
+</VillagerDialog>

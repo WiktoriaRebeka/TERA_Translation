@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20502" huntingZoneId="2001" voiceTypeId="297" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="1" voiceTypeId="297">[EN] I heard you found the location I told you about.&lt;BR&gt;&lt;BR&gt;So, this means that you're with us?&lt;br&gt;[ES] Me enter&amp;#233; de que encontraste el lugar del que te habl&amp;#233;.&lt;BR&gt;&lt;BR&gt;Entonces, &amp;#191;esto significa que est&amp;#225;s con nosotros?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Let's go and find that healer.&lt;br&gt;[ES] Vamos a buscar a ese sanador.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1059" huntingZoneId="84" voiceTypeId="8" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">[EN] Welcome! If I, or any of the brokers, can be of assistance, don't hesitate to ask.&lt;br&gt;[ES] &amp;#161;Bienvenido! Si yo, o cualquiera de los intermediarios, podemos ayudarte, no dudes en preguntar.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Make your trades here!&lt;br&gt;[ES] &amp;#161;Haz tus intercambios aqu&amp;#237;!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Looking for the best? I've got it!&lt;br&gt;[ES] &amp;#191;Buscas lo mejor? &amp;#161;Lo tengo!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] Make some extra gold with your extra items!&lt;br&gt;[ES] &amp;#161;Gana oro extra con tus objetos sobrantes!</Page>
+    </Text>
+</VillagerDialog>

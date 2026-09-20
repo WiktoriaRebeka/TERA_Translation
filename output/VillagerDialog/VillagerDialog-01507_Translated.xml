@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1042" huntingZoneId="70" voiceTypeId="21" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Ruins and relics are fascinating, to be sure, but hardly worth risking one's life over. Very few people benefit from becoming famous after their deaths.&lt;br&gt;[ES] Las ruinas y las reliquias son fascinantes, sin duda, pero apenas vale la pena arriesgar la vida por ellas. Muy poca gente se beneficia de volverse famosa despu&amp;#233;s de morir.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4" voiceTypeId="0">[EN] How do I take all this research with me...?&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo me llevo toda esta investigaci&amp;#243;n conmigo...?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Shona. It's good to have you with us. Let's hurry!&lt;br&gt;[ES] Shona. Qu&amp;#233; bueno que est&amp;#225;s con nosotros. &amp;#161;D&amp;#233;monos prisa!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1012" huntingZoneId="472" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] (It's a magic stone inscribed with a sealed crest.)&lt;br&gt;[ES] (Es una piedra m&amp;#225;gica con un blas&amp;#243;n grabado y sellado.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] (The crest is glowing brightly.) &lt;TEXTBUTTON&gt;Look at the crest.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Reach for the crest. &lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] (El blas&amp;#243;n brilla intensamente.) &lt;TEXTBUTTON&gt;Look at the crest.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Reach for the crest. &lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

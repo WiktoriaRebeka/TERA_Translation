@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1101" huntingZoneId="27" voiceTypeId="175" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="175">[EN] The powder in the air is thicker then before.&lt;BR&gt;&lt;BR&gt;The butterflies must be scattering more powder than before.&lt;br&gt;[ES] El polvo en el aire es m&amp;#225;s denso que antes.&lt;BR&gt;&lt;BR&gt;Las mariposas deben estar esparciendo m&amp;#225;s polvo que antes.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Butterflies recently appeared at this location.&lt;br&gt;[ES] Han aparecido mariposas en este lugar recientemente.</Page>
+    </Text>
+</VillagerDialog>

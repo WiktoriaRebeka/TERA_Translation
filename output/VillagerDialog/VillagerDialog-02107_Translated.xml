@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3010" huntingZoneId="76" voiceTypeId="85" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="261">[EN] Any fool can kill. It takes skill and practice to hunt.&lt;br&gt;[ES] Cualquier tonto puede matar. Se necesita habilidad y pr&amp;#225;ctica para cazar.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="262">[EN] Be careful. The argons patrol by here often enough to make me sweat.&lt;br&gt;[ES] Ten cuidado. Los argons patrullan por aqu&amp;#237; lo suficiente como para hacerme sudar.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="263">[EN] We're not exactly a militia. We're not organized enough for that.&lt;br&gt;[ES] No somos exactamente una milicia. No estamos lo suficientemente organizados para eso.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="263">[EN] You fought your way here. As far as I'm concerned, that makes you family.&lt;br&gt;[ES] Te abriste paso luchas hasta aqu&amp;#237;. Para m&amp;#237;, eso te convierte en familia.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1446" huntingZoneId="72" voiceTypeId="148" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You might as well leave matters in Veritas District to me, &lt;PCCLASS:lcase&gt;.&lt;br&gt;[ES] Bien podr&amp;#237;as dejar los asuntos de Veritas District en mis manos, &lt;PCCLASS:lcase&gt;.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You. Elf! I need permission to visit Veritas District.&lt;br&gt;[ES] &amp;#161;T&amp;#250;! &amp;#161;Elfa! Necesito permiso para visitar Veritas District.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Who? Never mind. I've a long way to travel yet. My permit?&lt;br&gt;[ES] &amp;#191;Qui&amp;#233;n? No importa. A&amp;#250;n me queda un largo camino por recorrer. &amp;#191;Mi permiso?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Curious? What do you mean?&lt;br&gt;[ES] &amp;#191;Curioso? &amp;#191;Qu&amp;#233; quieres decir?</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] You? Oh, not again!&lt;br&gt;[ES] &amp;#191;T&amp;#250;? &amp;#161;Ay, no otra vez!</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hah! Keep up if you can!&lt;br&gt;[ES] &amp;#161;Ja! &amp;#161;Sigue el ritmo si puedes!</Page>
+    </Text>
+</VillagerDialog>

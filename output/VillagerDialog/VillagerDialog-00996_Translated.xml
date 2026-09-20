@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1311" huntingZoneId="63" voiceTypeId="147" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Pay attention and follow orders. You've got to keep your mind on the big picture. Trust me to know it and I'll trust you to believe in it. Or I'll boot you to some frozen pit north of Kaiator before you can say 'Velik preserve me!'&lt;br&gt;[ES] Presta atenci&amp;#243;n y sigue &amp;#243;rdenes. Tienes que mantener tu mente en el panorama general. Conf&amp;#237;a en que lo s&amp;#233; y yo confiar&amp;#233; en que creas en ello. &amp;#161;O te mandar&amp;#233; a patadas a alg&amp;#250;n pozo helado al norte de Kaiator antes de que puedas decir '&amp;#161;Que Velik me ampare!'</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;PCNAME&gt;? What are you doing?&lt;br&gt;[ES] &amp;#191;&lt;PCNAME&gt;? &amp;#191;Qu&amp;#233; est&amp;#225;s haciendo?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Do you have any business with the Goddess?&lt;br&gt;[ES] &amp;#191;Tienes alg&amp;#250;n asunto con la Diosa?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Go and support the Justicar. Disturbance will not be tolerated.&lt;br&gt;[ES] Ve y apoya al Justicar. No se tolerar&amp;#225;n altercados.</Page>
+    </Text>
+</VillagerDialog>

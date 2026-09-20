@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="795" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] I'm sorry, but this area is reserved for heroes with a higher reward tier than yours.&lt;br&gt;[ES] Lo siento, pero esta zona est&amp;#225; reservada para h&amp;#233;roes con un nivel de recompensa superior al tuyo.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Welcome. Can you please confirm for me your reward tier?&lt;TEXTBUTTON&gt;Confirm reward tier&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Confirm&lt;/EVENTPAGEBUTTON&gt;&lt;br&gt;[ES] Bienvenido. &amp;#191;Podr&amp;#237;as confirmarme tu nivel de recompensa?&lt;TEXTBUTTON&gt;Confirm reward tier&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Confirm&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

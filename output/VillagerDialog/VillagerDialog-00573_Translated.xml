@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="60" voiceTypeId="69" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="60" prevId="0" villagerId="1003" endSocial="14">
+        <Page social="4">[EN] What can a humble banker do against the crush of refugees? Or the madness of the faeries?&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; puede hacer un humilde banquero contra la avalancha de refugiados? &amp;#191;O contra la locura de las faeries?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1003" endSocial="14">
+        <Page social="4">[EN] A dead customer is a permanently unsatisfied customer.&lt;br&gt;[ES] Un cliente muerto es un cliente insatisfecho para siempre.</Page>
+    </Text>
+    <Text id="101" huntingZoneId="60" prevId="0" villagerId="1003" endSocial="14">
+        <Page social="4">[EN] If you can't trust a bank, what can you trust?&lt;br&gt;[ES] Si no puedes confiar en un banco, &amp;#191;en qu&amp;#233; puedes confiar?</Page>
+    </Text>
+    <Text id="102" huntingZoneId="60" prevId="0" villagerId="1003" endSocial="14">
+        <Page social="4">[EN] You look overburdened. Let me help.&lt;br&gt;[ES] Te ves con demasiada carga. D&amp;#233;jame ayudarte.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4002" huntingZoneId="509" voiceTypeId="12" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="12">[EN] Looks like someone's notes. A page from a journal, maybe...?&lt;br&gt;[ES] Parecen las notas de alguien. Una p&amp;#225;gina de un diario, tal vez...?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="12">[EN] Huh! We should try to find the rest!&lt;br&gt;[ES] &amp;#161;Ja! &amp;#161;Deber&amp;#237;amos intentar encontrar el resto!</Page>
+    </Text>
+</VillagerDialog>

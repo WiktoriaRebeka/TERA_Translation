@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22009" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] (This teleportal takes you to specific locations in Allemantheia.)&lt;br&gt;[ES] (Este teleportal te lleva a ubicaciones espec&amp;#237;ficas en Allemantheia.)</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] (This teleportal is currently inactive.)&lt;br&gt;[ES] (Este portal de teletransporte est&amp;#225; inactivo en este momento.)</Page>
+    </Text>
+</VillagerDialog>

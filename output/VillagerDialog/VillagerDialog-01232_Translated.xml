@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="64" voiceTypeId="1" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="64" prevId="0" villagerId="1005" endSocial="14">
+        <Page social="4">[EN] You'll want bandages if you're heading out. I've got scrolls and crystals as well, all at federation-mandated prices. I wonder if I should just point at items and nod, instead of pretending to haggle.&lt;br&gt;[ES] Te vendr&amp;#225;n bien unas vendas si vas a salir. Tambi&amp;#233;n tengo pergaminos y Crystal, todo a los precios establecidos por la federaci&amp;#243;n. Me pregunto si deber&amp;#237;a limitarme a se&amp;#241;alar los art&amp;#237;culos y asentir en lugar de fingir que regateo.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1005" endSocial="14">
+        <Page social="4">[EN] If you need crystals, go see Viator. Mahadam sells armor, and Ailesa has fine weapons. Merchants will buy your unneeded items too, or you can drop them off with a banker.&lt;br&gt;[ES] Si necesitas Crystal, ve a ver a Viator. Mahadam vende armaduras y Ailesa tiene buenas armas. Los mercaderes tambi&amp;#233;n te comprar&amp;#225;n los objetos que no necesites, o puedes guardarlos en un banquero.</Page>
+    </Text>
+</VillagerDialog>

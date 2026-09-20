@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7000" huntingZoneId="411" voiceTypeId="136" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="5">
+        <Page social="5" voiceTypeId="136">[EN] You can use your enemy's strength against them to forge new equipment.&lt;br&gt;[ES] Puedes usar la fuerza de tu enemigo en su contra para forjar nuevo equipamiento.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Let this spark become an everlasting flame.&lt;br&gt;[ES] Deja que esta chispa se convierta en una llama eterna.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Eeeeeeaaaarrrghhh!&lt;br&gt;[ES] &amp;#161;Eeeeeeaaaarrrghhh!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Everything is now in place. Fovarth, prepare yourself.&lt;br&gt;[ES] Todo est&amp;#225; listo ahora. Fovarth, prep&amp;#225;rate.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Fovarth, you are my anvil. Now you must forge &lt;PCNAME&gt; into my sword.&lt;br&gt;[ES] Fovarth, eres mi yunque. Ahora debes forjar &lt;PCNAME&gt; en mi espada.</Page>
+    </Text>
+</VillagerDialog>

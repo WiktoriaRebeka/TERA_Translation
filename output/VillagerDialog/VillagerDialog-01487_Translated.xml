@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1020" huntingZoneId="70" voiceTypeId="19" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="70" prevId="0" villagerId="1020" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Oh, Jordal! Where are you now?&lt;br&gt;[ES] &amp;#161;Oh, Jordal! &amp;#191;D&amp;#243;nde est&amp;#225;s ahora?</Page>
+    </Text>
+    <Text id="101" endSocial="4">
+        <Page social="4" voiceTypeId="0">[EN] We won't be back for a long time...I should go check the warehouse to see if anything is left behind.&lt;br&gt;[ES] No volveremos en mucho tiempo... Deber&amp;#237;a ir a revisar el almac&amp;#233;n para ver si se ha quedado algo atr&amp;#225;s.</Page>
+    </Text>
+</VillagerDialog>

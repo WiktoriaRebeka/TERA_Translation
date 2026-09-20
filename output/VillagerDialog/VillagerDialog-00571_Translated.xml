@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="60" voiceTypeId="5" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="60" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">[EN] Everyone wants a bargain, just because the loggers can't work...&lt;br&gt;[ES] Todo el mundo quiere una ganga, solo porque los le&amp;#241;adores no pueden trabajar...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">[EN] Everyone wants the loggers to get back to work, but what about the refugees?&lt;br&gt;[ES] Todo el mundo quiere que los le&amp;#241;adores vuelvan al trabajo, &amp;#191;pero qu&amp;#233; hay de los refugiados?</Page>
+    </Text>
+    <Text id="101" huntingZoneId="60" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">[EN] Looking for something special?&lt;br&gt;[ES] &amp;#191;Buscas algo especial?</Page>
+    </Text>
+    <Text id="102" huntingZoneId="60" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">[EN] Fair goods for a fair price, friend.&lt;br&gt;[ES] Art&amp;#237;culos justos por un precio justo, amigo.</Page>
+    </Text>
+</VillagerDialog>

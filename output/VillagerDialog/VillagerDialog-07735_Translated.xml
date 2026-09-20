@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="151" huntingZoneId="2002" voiceTypeId="301" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="301">[EN] What a weird place.&lt;BR&gt;&lt;BR&gt;These giant plants...it feels like I might get eaten.&lt;br&gt;[ES] Qu&amp;#233; lugar tan extra&amp;#241;o.&lt;BR&gt;&lt;BR&gt;Estas plantas gigantes... siento que podr&amp;#237;a se devorado.</Page>
+    </Text>
+    <Text id="101" endSocial="4">
+        <Page social="4" voiceTypeId="301">[EN] I saw something!&lt;br&gt;[ES] &amp;#161;Vi algo!</Page>
+    </Text>
+    <Text id="102" endSocial="4">
+        <Page social="4" voiceTypeId="301">[EN] What in the...! This aura must be...&lt;br&gt;[ES] &amp;#161;Pero qu&amp;#233;...l! Esta aura debe ser...</Page>
+    </Text>
+</VillagerDialog>

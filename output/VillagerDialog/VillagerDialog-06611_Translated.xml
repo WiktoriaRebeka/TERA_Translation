@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8301" huntingZoneId="506" voiceTypeId="91" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="91">[EN] I'm glad Lorrenia is having a good time.&lt;br&gt;[ES] Me alegra que Lorrenia se est&amp;#233; divirtiendo.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="91">[EN] Don't worry Dabria, I'll take care of her.&lt;br&gt;[ES] No te preocupes, Dabria, yo cuidar&amp;#233; de ella.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="91">[EN] You stay right next to me, okay?&lt;br&gt;[ES] Qu&amp;#233;date bien pegada a m&amp;#237;, &amp;#191;de acuerdo?</Page>
+    </Text>
+</VillagerDialog>

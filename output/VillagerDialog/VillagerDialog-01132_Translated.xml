@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8000" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hey! Are you going to the Halloween party?&lt;BR&gt;&lt;BR&gt;Assuming it actually happens. Eldritch Academy is a mess now. Brigands of some sort are trying to disrupt the party and steal the witches' magic candy.&lt;BR&gt;&lt;BR&gt;Serena delegated the party to Titiana, but she's too busy pretending to be a detective to accomplish anything useful. I can teleport you there, if you like.&lt;CLOSEPAGEBUTTON&gt;"Got it."&lt;/CLOSEPAGEBUTTON&gt;&lt;br&gt;[ES] &amp;#161;Hola! &amp;#191;Vas a ir a la fiesta de Halloween?&lt;BR&gt;&lt;BR&gt;Suponiendo que se celebre, claro. La Eldritch Academy es un desastre ahora mismo. Unos bandidos intentan arruinar la fiesta y robar los caramelos m&amp;#225;gicos de las brujas.&lt;BR&gt;&lt;BR&gt;Serena le deleg&amp;#243; la fiesta a Titiana, pero est&amp;#225; demasiado ocupada fingiendo ser detective como para hacer algo &amp;#250;til. Puedo teletransportarte all&amp;#237;, si quieres.&lt;CLOSEPAGEBUTTON&gt;"Got it."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] No Halloween party this year, I hear. Bummer.&lt;br&gt;[ES] Por lo que oigo, este a&amp;#241;o no hay fiesta de Halloween. Qu&amp;#233; fastidio.</Page>
+    </Text>
+</VillagerDialog>

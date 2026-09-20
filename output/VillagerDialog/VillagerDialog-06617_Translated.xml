@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8404" huntingZoneId="506" voiceTypeId="69" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="69">[EN] I'm glad I came.&lt;br&gt;[ES] Me alegra haber venido.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="69">[EN] I hope the play starts soon.&lt;br&gt;[ES] Espero que la obra empiece pronto.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="69">[EN] That salad wasn't very filling... maybe the Bleakfields barbecue next...?&lt;br&gt;[ES] ...Esa ensalada no llen&amp;#243; mucho... &amp;#191;tal vez la barbacoa de Bleakfields sea mejor...?</Page>
+    </Text>
+</VillagerDialog>

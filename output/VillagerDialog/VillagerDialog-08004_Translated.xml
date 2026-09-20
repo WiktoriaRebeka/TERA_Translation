@@ -1,0 +1,26 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10000" huntingZoneId="2501" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="0" />
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hmm... it&amp;#8217;s here.&lt;br&gt;[ES] Mmm... est&amp;#225; aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] This is where the overwhelming power is sealed.&lt;br&gt;[ES] Aqu&amp;#237; es donde el poder abrumador est&amp;#225; sellado.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Uhhh...&lt;br&gt;[ES] &amp;#161;Ahhh...</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hya!&lt;br&gt;[ES] &amp;#161;Hya!</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Wooohooo!&lt;br&gt;[ES] &amp;#161;Wooohooo!</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Kuhaha! I feel the power surging inside me!&lt;br&gt;[ES] &amp;#161;Kuhaha! &amp;#161;Siento el poder brotando dentro de m&amp;#237;!</Page>
+    </Text>
+    <Text id="107" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Let&amp;#8217;s head to the next destination.&lt;br&gt;[ES] Vayamos al siguiente destino.</Page>
+    </Text>
+</VillagerDialog>

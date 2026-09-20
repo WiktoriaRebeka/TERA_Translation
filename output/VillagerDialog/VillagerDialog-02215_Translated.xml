@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1023" huntingZoneId="79" voiceTypeId="24" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="79" prevId="0" villagerId="1023" endSocial="14">
+        <Page social="5">[EN] Habere used to be a village of hope.&lt;BR&gt;&lt;BR&gt;Each day brings more reason to doubt, though.&lt;br&gt;[ES] Habere sol&amp;#237;a ser un pueblo de esperanza.&lt;BR&gt;&lt;BR&gt;Aunque cada d&amp;#237;a trae m&amp;#225;s motivos para dudar.</Page>
+    </Text>
+    <Text id="101" endSocial="12">
+        <Page social="4">[EN] I've had just about all I can take.&lt;br&gt;[ES] Ya he tenido m&amp;#225;s de lo que puedo soportar.</Page>
+    </Text>
+    <Text id="102" endSocial="10">
+        <Page social="5">[EN] It looks like I'm not going to get any hunting done this month!&lt;br&gt;[ES] &amp;#161;Parece que no voy a poder cazar nada este mes!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="4">[EN] Oh, are you looking for an aman?&lt;br&gt;[ES] Oh, &amp;#191;est&amp;#225;s buscando a un aman?</Page>
+    </Text>
+    <Text id="104" endSocial="20">
+        <Page social="5">[EN] We can't control everything.&lt;br&gt;[ES] No podemos controlarlo todo.</Page>
+    </Text>
+</VillagerDialog>

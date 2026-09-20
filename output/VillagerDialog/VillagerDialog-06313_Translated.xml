@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2400" huntingZoneId="469" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="100" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Huh. I knew you'd do this sooner or later, Anea.&lt;br&gt;[ES] Huh. Sab&amp;#237;a que har&amp;#237;as esto tarde o temprano, Anea.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Hah! My moment has finally arrived!&lt;br&gt;[ES] &amp;#161;Ja! &amp;#161;Mi momento por fin ha llegado!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] The Bloodshard is mine at last!&lt;br&gt;[ES] &amp;#161;El Bloodshard es m&amp;#237;o al fin!</Page>
+    </Text>
+</VillagerDialog>

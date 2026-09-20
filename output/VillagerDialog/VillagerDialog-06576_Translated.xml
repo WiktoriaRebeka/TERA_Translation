@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4201" huntingZoneId="506" voiceTypeId="25" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="4" voiceTypeId="25">[EN] It's wonderful to see everyone so excited.&lt;br&gt;[ES] Es maravilloso ver a todos tan entusiasmados.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] This banquet has been just delightful!&lt;br&gt;[ES] &amp;#161;Este banquete ha sido simplemente encantador!</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] It's time for Seir's speech now.&lt;br&gt;[ES] Es hora del discurso de Seir ahora.</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="25">[EN] I hope it's not too clich&amp;#233;.&lt;br&gt;[ES] Espero que no sea demasiado clich&amp;#233;.</Page>
+    </Text>
+</VillagerDialog>

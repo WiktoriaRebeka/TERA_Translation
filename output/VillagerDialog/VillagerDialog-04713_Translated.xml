@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1010" huntingZoneId="232" voiceTypeId="60" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="232" prevId="0" villagerId="1010" endSocial="14">
+        <Page social="4">[EN] Is there something you need help with?&lt;br&gt;[ES] &amp;#191;Hay algo en lo que necesites ayuda?</Page>
+    </Text>
+    <Text id="101" huntingZoneId="232" prevId="0" villagerId="1010" endSocial="0">
+        <Page social="0">[EN] Rushing the process will not get you what you want any sooner. Please be patient.&lt;br&gt;[ES] Acelerar el proceso no har&amp;#225; que consigas lo que quieres antes. Por favor, ten paciencia.</Page>
+    </Text>
+    <Text id="102" huntingZoneId="232" prevId="0" villagerId="1010" endSocial="0">
+        <Page social="0">[EN] Hmm...&lt;br&gt;[ES] Mjum...</Page>
+    </Text>
+    <Text id="103" huntingZoneId="232" prevId="0" villagerId="1010" endSocial="0">
+        <Page social="0">[EN] Phew... All that can be done, has been, but there wasn't enough time to create a potion that will do everything you wanted it to do.&lt;br&gt;[ES] Uf... Todo lo que se pod&amp;#237;a hacer, se ha hecho, pero no hubo tiempo suficiente para crear una poci&amp;#243;n que haga todo lo que quer&amp;#237;as que hiciera.</Page>
+    </Text>
+</VillagerDialog>

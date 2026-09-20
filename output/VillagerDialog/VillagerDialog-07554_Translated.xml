@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20109" huntingZoneId="2000" voiceTypeId="294" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="294">[EN] It isn't over yet.&lt;BR&gt;&lt;BR&gt;We need to get those people out of here.&lt;br&gt;[ES] Esto a&amp;#250;n no ha terminado.&lt;BR&gt;&lt;BR&gt;Tenemos que sacar a esa gente de aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;PCNAME&gt;, This way.&lt;br&gt;[ES] &lt;PCNAME&gt;, por aqu&amp;#237;.</Page>
+    </Text>
+</VillagerDialog>

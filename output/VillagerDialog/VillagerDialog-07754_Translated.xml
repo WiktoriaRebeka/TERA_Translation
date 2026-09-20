@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="120" huntingZoneId="2003" voiceTypeId="340" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="1" voiceTypeId="340">[EN] What are you doing?&lt;BR&gt;&lt;BR&gt;Go back to the fortress!&lt;br&gt;[ES] &amp;#191;Qu&amp;#233; est&amp;#225;s haciendo?&lt;BR&gt;&lt;BR&gt;&amp;#161;Vuelve a la fortaleza!</Page>
+    </Text>
+    <Text id="2" endSocial="1">
+        <Page social="1" voiceTypeId="340">[EN] One of you stay and guard this place. I should go. Let me know if there's something wrong.&lt;br&gt;[ES] Que uno de se quede a vigilar este lugar. Yo debo irme. Av&amp;#237;senme si pasa algo.</Page>
+    </Text>
+</VillagerDialog>

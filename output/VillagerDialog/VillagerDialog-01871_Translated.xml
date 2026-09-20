@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22004" huntingZoneId="72" voiceTypeId="132" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="912100" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Salutations, friend. Tell me what you require.&lt;br&gt;[ES] Saludaciones, amigo. Dime qu&amp;#233; necesitas.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] My wares are for the enlightened only. I fail to see how you qualify. Please depart promptly.&lt;br&gt;[ES] Mis productos son solo para los ilustrados. No veo c&amp;#243;mo cumples los requisitos. Por favor, ret&amp;#237;rate de inmediato.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] My friend, the advent of a new day is nearly upon us! Soon, our leaders will be drawn from the ranks of the literati.&lt;br&gt;[ES] &amp;#161;Amigo m&amp;#237;o, la llegada de un nuevo d&amp;#237;a est&amp;#225; casi sobre nosotros! Pronto, nuestros l&amp;#237;deres ser&amp;#225;n elegidos entre las filas de los literatos.</Page>
+    </Text>
+</VillagerDialog>

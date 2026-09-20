@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="110" huntingZoneId="2002" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="0">[EN] Please...please save me!&lt;br&gt;[ES] &amp;#161;Por favor... por favor, s&amp;#225;lvame!</Page>
+    </Text>
+    <Text id="101" endSocial="4">
+        <Page social="4" voiceTypeId="0">[EN] You're the ones...!&lt;br&gt;[ES] &amp;#161;Ustedes son los...!</Page>
+    </Text>
+    <Text id="102" endSocial="4">
+        <Page social="4" voiceTypeId="0">[EN] Please! Have mercy!&lt;br&gt;[ES] &amp;#161;Por favor! &amp;#161;Ten piedad!</Page>
+    </Text>
+</VillagerDialog>

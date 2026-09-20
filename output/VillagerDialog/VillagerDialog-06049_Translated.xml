@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1032" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] Ugh...&lt;br&gt;[ES] Ugh...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] I'm tired. Everything hurts.&lt;br&gt;[ES] Estoy cansado. Me duele todo.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] I can't do it anymore. I just can't.&lt;br&gt;[ES] Ya no puedo m&amp;#225;s. Simplemente no puedo.</Page>
+    </Text>
+</VillagerDialog>

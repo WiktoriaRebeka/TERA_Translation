@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1039" huntingZoneId="79" voiceTypeId="118" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5">[EN] Whether it be debt or revenge you repay, I say do unto others what they do to you, two-fold. Nothing less will do!&lt;br&gt;[ES] Ya sea que pagues una deuda o venganza, yo digo que hagas a los otros lo que te hacen a ti, pero al doble. &amp;#161;Nada menos servir&amp;#225;!</Page>
+    </Text>
+    <Text id="101" endSocial="10">
+        <Page social="6">[EN] I can't sleep anymore.&lt;br&gt;[ES] Ya no puedo dormir.</Page>
+    </Text>
+    <Text id="102" endSocial="10">
+        <Page social="6">[EN] Have you heard the screaming at night? It's terrifying.&lt;br&gt;[ES] &amp;#191;Has escuchado los gritos por la noche? Es aterrorizante.</Page>
+    </Text>
+</VillagerDialog>

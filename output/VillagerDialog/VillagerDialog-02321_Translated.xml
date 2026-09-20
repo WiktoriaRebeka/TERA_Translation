@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1019" huntingZoneId="81" voiceTypeId="165" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="81" prevId="0" villagerId="1019" endSocial="14">
+        <Page social="4">[EN] Faeries fall sick. And even my awesome powers of healing have met stinky results.&lt;BR&gt;&lt;BR&gt;Unless I do something soon, the faeries will never be able to recover fully.&lt;br&gt;[ES] Las hadas enferman. E incluso mis impresionantes poderes de sanaci&amp;#243;n han dado resultados apestosos.&lt;BR&gt;&lt;BR&gt;A menos que haga algo pronto, las hadas nunca podr&amp;#225;n recuperarse por completo.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] I hope this works...&lt;br&gt;[ES] Espero que esto funcione...</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Pain reliever...&lt;br&gt;[ES] Analg&amp;#233;sico...</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] Natural essence...&lt;br&gt;[ES] Esencia natural...</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0">[EN] I'll keep tasting for signs of change. For good or ill.&lt;br&gt;[ES] Seguir&amp;#233; probando para detectar se&amp;#241;ales de cambio. Para bien o para mal.</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0">[EN] My skills and your flowers are bound to make them better! Thank you!&lt;br&gt;[ES] &amp;#161;Mis habilidades y tus flores seguramente los mejorar&amp;#225;n! &amp;#161;Gracias!</Page>
+    </Text>
+</VillagerDialog>

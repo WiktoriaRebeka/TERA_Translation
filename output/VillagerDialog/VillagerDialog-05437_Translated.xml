@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1024" huntingZoneId="250" voiceTypeId="48" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="6" voiceTypeId="48">[EN] Our research can end this war once and for all!&lt;br&gt;[ES] &amp;#161;Nuestra investigaci&amp;#243;n puede terminar con esta guerra de una vez por todas!</Page>
+    </Text>
+    <Text id="101" endSocial="3">
+        <Page social="6" voiceTypeId="48">[EN] We must find their energy source. Everything depends upon it.&lt;br&gt;[ES] Debemos encontrar su fuente de energ&amp;#237;a. Todo depende de ello.</Page>
+    </Text>
+    <Text id="102" endSocial="3">
+        <Page social="6" voiceTypeId="48">[EN] Kaia grant you strength.&lt;br&gt;[ES] Que Kaia te otorgue fuerza.</Page>
+    </Text>
+</VillagerDialog>

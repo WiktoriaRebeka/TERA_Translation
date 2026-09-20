@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22005" huntingZoneId="63" voiceTypeId="22" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="912100" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] What can I help you with?&lt;br&gt;[ES] &amp;#191;En qu&amp;#233; te puedo ayudar?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Oh, I think you're looking for someone else. I don't deal in goods for your alliance.&lt;br&gt;[ES] Oh, creo que est&amp;#225;s buscando a otra persona. No comercio con bienes para tu alianza.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Sorry, counting the tills. We can't help you right now.&lt;br&gt;[ES] Lo siento, estoy contando las cajas. No podemos ayudarte ahora mismo.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22012" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Hm. &lt;PCNAME&gt;, &lt;PCNAME&gt; ... no, nothing in my records. You don't appear to have an account with this bank.&lt;br&gt;[ES] Mmh. &lt;PCNAME&gt;, &lt;PCNAME&gt;... no, no hay nada en mis registros. Parece que no tienes una cuenta en este banco.</Page>
+    </Text>
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] There's no safer place for your spare gear than a bank vault.&lt;br&gt;[ES] No hay un lugar m&amp;#225;s seguro para tu equipo adicional que la b&amp;#243;veda del banco.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You can leave it with us&amp;#8212;whatever it is.&lt;br&gt;[ES] Puedes dej&amp;#225;rnoslo a nosotros, sea lo que sea.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] You can go perform deeds of valor with a clear head, knowing we're taking care of your gear.&lt;br&gt;[ES] Puedes ir a realizar actos de valor con la mente despejada, sabiendo que nosotros cuidamos de tu equipo.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] Communities take root because someone brave carves out a safe place for them. They grow because someone shrewd know when to buy and when to borrow. But they only mature when someone wise codifies the rules that let them all live together in peace.&lt;br&gt;[ES] Las comunidades echan ra&amp;#237;ces porque alguien valiente abre un lugar seguro para ellas. Crecen porque alguien astuto sabe cu&amp;#225;ndo comprar y cu&amp;#225;ndo pedir prestado. Pero solo maduran cuando alguien sabio codifica las reglas que les permiten vivir juntos en paz.</Page>
+    </Text>
+</VillagerDialog>

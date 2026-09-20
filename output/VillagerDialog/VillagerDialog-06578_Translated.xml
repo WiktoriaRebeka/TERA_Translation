@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4203" huntingZoneId="506" voiceTypeId="18" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="4" voiceTypeId="18">[EN] I was dying for this Banquet because I get the chance to listen to the Commander's speech!&lt;br&gt;[ES] &amp;#161;Me mor&amp;#237;a por este banquete porque tengo la oportunidad de escuchar el discurso del Commander!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="18">[EN] It's time for Seir's speech now.&lt;br&gt;[ES] Es hora del discurso de Seir ahora.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="18">[EN] You have to be quiet during the speech. Okay?&lt;br&gt;[ES] Tienes que hacer silencio durante el discurso. &amp;#191;De acuerdo?</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20201" huntingZoneId="2000" voiceTypeId="295" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="295">[EN] I found a way out.&lt;BR&gt;&lt;BR&gt;But there are still more villagers to save.&lt;br&gt;[ES] Encontr&amp;#233; una salida.&lt;BR&gt;&lt;BR&gt;Pero a&amp;#250;n hay m&amp;#225;s aldeanos que salvar.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] &lt;PCNAME&gt;, Titus, Aurl! Come with me!&lt;br&gt;[ES] &lt;PCNAME&gt;, &amp;#161;Titus, Aurl! &amp;#161;Vengan conmigo!</Page>
+    </Text>
+</VillagerDialog>

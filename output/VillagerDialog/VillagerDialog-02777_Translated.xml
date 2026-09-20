@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8300" huntingZoneId="122" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="3" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Wounded in battle? I can help.&lt;br&gt;[ES] &amp;#191;Herido en batalla? Puedo ayudar.</Page>
+    </Text>
+    <Text id="20" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] We should treat that before it festers.&lt;br&gt;[ES] Deber&amp;#237;amos tratar eso antes de que se infecte.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] That's going to make a fine scar someday&amp;#8212;but for now, it's a liability in battle.&lt;br&gt;[ES] Eso dejar&amp;#225; una buena cicatriz alg&amp;#250;n d&amp;#237;a, pero por ahora es un riesgo en la batalla.</Page>
+    </Text>
+    <Text id="22" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] I hope there's a good story to go along with these wounds.&lt;br&gt;[ES] Espero que haya una buena historia detr&amp;#225;s de estas heridas.</Page>
+    </Text>
+    <Text id="23" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] Let's get you stitched up and back in the fight.&lt;br&gt;[ES] Vamos a coserte y a devolverte a la pelea.</Page>
+    </Text>
+    <Text id="1" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">[EN] I'm here to help the Iron Order...not its enemies.&lt;br&gt;[ES] Estoy aqu&amp;#237; para ayudar a la Iron Order... no a sus enemigos.</Page>
+    </Text>
+</VillagerDialog>

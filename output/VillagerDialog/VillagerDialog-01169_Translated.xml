@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30000" huntingZoneId="63" voiceTypeId="11" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I broker trades for the Free Traders. No one else.&lt;br&gt;[ES] Gestiono transacciones para los Free Traders. Nadie m&amp;#225;s.</Page>
+    </Text>
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] The Free Traders Collective is all about free trade...for the collective.&lt;br&gt;[ES] Free Traders Collective se trata de comercio libre... para el colectivo.</Page>
+    </Text>
+</VillagerDialog>

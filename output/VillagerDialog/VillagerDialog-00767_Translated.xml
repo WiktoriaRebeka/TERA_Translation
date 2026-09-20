@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1704" huntingZoneId="62" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="233">[EN] It's business. You wouldn't understand.&lt;br&gt;[ES] Es un negocio. No lo entender&amp;#237;as.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="233">[EN] Our products are dominating the market, thanks to you.&lt;br&gt;[ES] Nuestros productos est&amp;#225;n dominando el mercado, gracias a ti.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="235">[EN] The best part about Jax is how he spreads the profits around. That's why I'll do anything for the organization, no questions asked.&lt;br&gt;[ES] Lo mejor de Jax es c&amp;#243;mo reparte las ganancias. Por eso har&amp;#233; cualquier cosa por la organizaci&amp;#243;n, sin hacer preguntas.</Page>
+    </Text>
+</VillagerDialog>

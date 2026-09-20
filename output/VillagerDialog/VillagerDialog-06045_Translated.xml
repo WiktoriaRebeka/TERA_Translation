@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1028" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] Ugh...&lt;br&gt;[ES] Ugh...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Ugh. Save me, please.&lt;br&gt;[ES] Ugh. S&amp;#225;lvame, por favor.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">[EN] Why can't I see anything?&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; no puedo ver nada?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">[EN] Mom, is that you?&lt;br&gt;[ES] Mam&amp;#225;, &amp;#191;eres t&amp;#250;?</Page>
+    </Text>
+</VillagerDialog>

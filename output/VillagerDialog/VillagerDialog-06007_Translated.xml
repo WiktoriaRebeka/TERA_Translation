@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="6000" huntingZoneId="411" voiceTypeId="85" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">[EN] I can't remember when I was here last.&lt;br&gt;[ES] No recuerdo cu&amp;#225;ndo fue la &amp;#250;ltima vez que estuve aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="200" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] It's fast and good! But I think we'll need something different this time!&lt;br&gt;[ES] &amp;#161;Es r&amp;#225;pido y bueno! Pero creo que necesitaremos algo diferente esta vez.</Page>
+    </Text>
+</VillagerDialog>

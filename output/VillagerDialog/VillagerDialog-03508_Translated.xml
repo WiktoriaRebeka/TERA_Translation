@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1015" huntingZoneId="205" voiceTypeId="16" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="205" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">[EN] So they're talking about reclaiming the swamp, but I'm not sure how they intend to manage that.&lt;BR&gt;&lt;BR&gt;What? Who's "they"? Huh. Interesting question. It never even really occurred to me to ask.&lt;br&gt;[ES] As&amp;#237; que est&amp;#225;n hablando de recuperar el pantano, pero no estoy seguro de c&amp;#243;mo planean lograrlo.&lt;BR&gt;&lt;BR&gt;&amp;#191;Qu&amp;#233;? &amp;#191;Qui&amp;#233;nes son &quot;ellos&quot;? Aj&amp;#225;. Pregunta interesante. Ni siquiera se me hab&amp;#237;a ocurrido preguntar.</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="205" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">[EN] Finally the big annoying drum is gone.&lt;br&gt;[ES] Por fin el gran tambor molesto se ha ido.</Page>
+    </Text>
+    <Text id="10002" huntingZoneId="205" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">[EN] Their communication is disrupted! Go!&lt;br&gt;[ES] &amp;#161;Su comunicaci&amp;#243;n est&amp;#225; interrumpida! &amp;#161;Ve!</Page>
+    </Text>
+    <Text id="10003" huntingZoneId="205" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">[EN] Time to get to training the new recruits.&lt;br&gt;[ES] Es hora de empezar a entrenar a los nuevos reclutas.</Page>
+    </Text>
+</VillagerDialog>

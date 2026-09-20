@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8302" huntingZoneId="506" voiceTypeId="97" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="97">[EN] It's so crowded here.&lt;BR&gt;But there's so much to see and do!&lt;br&gt;[ES] Hay mucha gente aqu&amp;#237;.&lt;BR&gt;&amp;#161;Pero hay tanto que ver y hacer!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="97">[EN] Lorrenia, you have a good time with Kibellia.&lt;br&gt;[ES] Lorrenia, divi&amp;#233;rtete con Kibellia.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="97">[EN] Please take good care of her, Kibellia. I have to attend the private feast in the headquarters.&lt;br&gt;[ES] Por favor, cuida bien de ella, Kibellia. Tengo que asistir al banquete privado en el cuartel general.</Page>
+    </Text>
+</VillagerDialog>

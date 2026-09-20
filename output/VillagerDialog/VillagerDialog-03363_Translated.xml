@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1024" huntingZoneId="202" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="202" prevId="0" villagerId="1024" endSocial="14">
+        <Page social="4">[EN] People say they wish it was like the good old days, but I wonder whether they were really all that "good."&lt;br&gt;[ES] La gente dice que desear&amp;#237;a que fuera como los viejos tiempos, pero me pregunto si de verdad fueron tan &quot;buenos&quot;.</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="202" prevId="0" villagerId="1024" endSocial="0">
+        <Page social="4">[EN] I'll look into matters immediately.&lt;br&gt;[ES] Investigar&amp;#233; los asuntos de inmediato.</Page>
+    </Text>
+    <Text id="10002" huntingZoneId="202" prevId="0" villagerId="1024" endSocial="0">
+        <Page social="4">[EN] The spirit cores are indeed tainted.&lt;br&gt;[ES] Los n&amp;#250;cleos espirituales est&amp;#225;n efectivamente contaminados.</Page>
+    </Text>
+</VillagerDialog>

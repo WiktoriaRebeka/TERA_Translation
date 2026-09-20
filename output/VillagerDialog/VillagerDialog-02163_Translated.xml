@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3601" huntingZoneId="77" voiceTypeId="14" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="233">[EN] Are all Valkyon Federation soldiers rude like you? Please leave me alone.&lt;br&gt;[ES] &amp;#191;Todos los soldados de la Valkyon Federation son groseros como t&amp;#250;? Por favor, d&amp;#233;jame en paz.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="234">[EN] I don't like the Valkyon Federation, but you're an exception. Tell me if there's an item you need.&lt;br&gt;[ES] No me gusta la Valkyon Federation, pero t&amp;#250; eres una excepci&amp;#243;n. Dime si necesitas alg&amp;#250;n objeto.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="235">[EN] Hey, long time no see. It's really good to see you again. Are you looking for anything in particular? Let me know.&lt;br&gt;[ES] Hola, cu&amp;#225;nto tiempo sin vernos. Me alegra mucho verte de nuevo. &amp;#191;Buscas algo en particular? Av&amp;#237;same.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="235">[EN] Hey, long time no see. It's really good to see you again. Are you looking for anything in particular? Let me know.&lt;br&gt;[ES] Hola, cu&amp;#225;nto tiempo sin vernos. Me alegra mucho verte de nuevo. &amp;#191;Buscas algo en particular? Av&amp;#237;same.</Page>
+    </Text>
+</VillagerDialog>

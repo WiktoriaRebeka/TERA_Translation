@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1037" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">[EN] How can we fight? We just got massacred by a storm!&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo vamos a luchar? &amp;#161;Una tormenta acaba de masacrarnos!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">[EN] Kill them all!&lt;br&gt;[ES] &amp;#161;M&amp;#225;tenlos a todos!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">[EN] If I die, let it be in a fair fight.&lt;br&gt;[ES] Si voy a morir, que sea en un combate justo.</Page>
+    </Text>
+</VillagerDialog>

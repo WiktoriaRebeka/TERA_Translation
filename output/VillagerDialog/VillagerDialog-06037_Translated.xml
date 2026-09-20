@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1020" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">[EN] We don't even know what we're up against yet&amp;#8212;other than this storm.&lt;br&gt;[ES] Ni siquiera sabemos contra qu&amp;#233; nos enfrentamos todav&amp;#237;a, aparte de esta tormenta.</Page>
+    </Text>
+    <Text id="2" endSocial="3">
+        <Page social="3">[EN] Listen up if you want to live.&lt;br&gt;[ES] Escucha bien si quieres vivir.</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">[EN] We can overcome this. We are Valkyon soldiers!&lt;br&gt;[ES] Podemos superar esto. &amp;#161;Somos soldados de la Valkyon!</Page>
+    </Text>
+</VillagerDialog>

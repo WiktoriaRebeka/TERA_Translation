@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1701" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="227">[EN] Are you new? Study hard. We administer a number of tests around here.&lt;br&gt;[ES] &amp;#191;Eres nuevo? Estudia duro. Administramos varias pruebas por aqu&amp;#237;.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="228">[EN] You're a promising student.&lt;BR&gt;&lt;BR&gt;Expectations are high around here. Never forget that.&lt;br&gt;[ES] Eres un estudiante prometedor.&lt;BR&gt;&lt;BR&gt;Las expectativas son altas por aqu&amp;#237;. Nunca olvides eso.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="229">[EN] I've heard that you're keeping our research moving forward.&lt;BR&gt;&lt;BR&gt;I appreciate the hard work.&lt;br&gt;[ES] He o&amp;#237;do que est&amp;#225;s manteniendo nuestra investigaci&amp;#243;n en marcha.&lt;BR&gt;&lt;BR&gt;Aprecio el duro trabajo.</Page>
+    </Text>
+</VillagerDialog>

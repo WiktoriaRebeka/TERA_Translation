@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1007" huntingZoneId="65" voiceTypeId="69" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="65" prevId="0" villagerId="1007" endSocial="14">
+        <Page social="4">[EN] Digory...he's trying to buy up everything and sell it for twice the price.&lt;BR&gt;&lt;BR&gt;If I never hear that man's name again, it will be too soon. Honestly.&lt;br&gt;[ES] Digory... est&amp;#225; intentando comprarlo todo para revenderlo al doble de precio.&lt;BR&gt;&lt;BR&gt;Si no vuelvo a o&amp;#237;r el nombre de ese hombre, ser&amp;#225; demasiado pronto. En serio.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1007" endSocial="14">
+        <Page social="4" />
+    </Text>
+</VillagerDialog>

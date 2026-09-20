@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3602" huntingZoneId="78" voiceTypeId="114" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="239">[EN] Bah! Get away from me, keener.&lt;BR&gt;&lt;BR&gt;Earn your spurs, then speak to me.&lt;br&gt;[ES] &amp;#161;Bah! Al&amp;#233;jate de m&amp;#237;, adulador.&lt;BR&gt;&lt;BR&gt;G&amp;#225;nate tus espuelas y luego h&amp;#225;blame.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="240">[EN] I suppose I could part with a few items.&lt;br&gt;[ES] Supongo que podr&amp;#237;a desprenderse de algunos art&amp;#237;culos.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="241">[EN] Word gets around about you.&lt;BR&gt;&lt;BR&gt;You know your stuff! Need anything special?&lt;br&gt;[ES] Se corre la voz sobre ti.&lt;BR&gt;&lt;BR&gt;&amp;#161;Sabes lo que haces! &amp;#191;Necesitas algo especial?</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="241">[EN] Keep fighting the good fight! I wish we had soldiers half as good as you.&lt;br&gt;[ES] &amp;#161;Sigue luchando por la buena causa! Ojal&amp;#225; tuvi&amp;#233;ramos soldados tan buenos como t&amp;#250;.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1168" huntingZoneId="84" voiceTypeId="71" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="0" voiceTypeId="0">[EN] Welcome, student! I stand ready to teach you all you wish to learn.&lt;br&gt;[ES] &amp;#161;Bienvenido, alumno! Estoy listo para ense&amp;#241;arte todo lo que desees aprender.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[EN] Yes? Is there something I can help you with?&lt;br&gt;[ES] ,&amp;#191;S&amp;#237;? &amp;#191;Hay algo en lo que pueda ayudarte?</Page>
+    </Text>
+</VillagerDialog>
