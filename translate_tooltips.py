@@ -309,6 +309,9 @@ ENGLISH_STOPWORDS = {
 
 
 def _segments(text: str) -> list[str]:
+    # Nazwy skilli w <font> maja zostac po angielsku; nie traktujemy ich
+    # jako "nieprzetlumaczonego zdania".
+    text = re.sub(r"<font\b[^>]*>.*?</font>", " ", text, flags=re.I | re.S)
     parts = re.split(r"\$BR|<br\s*/?>", text, flags=re.I)
     return [p.strip() for p in parts if p.strip()]
 
@@ -321,6 +324,11 @@ def _plain_words(segment: str) -> list[str]:
     return segment.lower().split()
 
 
+# "of"/"the" wystepuja w nazwach skilli (Shadow of the Tempest). Same nie
+# oznaczaja, ze model skopiowal zdanie zamiast je przetlumaczyc.
+_NAME_STOPWORDS = {"the", "of", "a", "an"}
+
+
 def looks_untranslated(original: str, spanish_escaped: str) -> bool:
     """Wykrywa zdania przepisane z angielskiego zamiast przetlumaczonych.
 
@@ -328,15 +336,45 @@ def looks_untranslated(original: str, spanish_escaped: str) -> bool:
     skopiowac. Zmienne silnika sa wtedy komplet, wiec tamta walidacja tego
     nie lapie. Porownujemy zdanie po zdaniu; identyczne zdanie zawierajace
     angielskie slowa funkcyjne oznacza, ze nie zostalo przetlumaczone.
-    Nazwy wlasne ("Exodor Scout Armor Feedstock") tych slow nie maja.
+    Nazwy wlasne ("Exodor Scout Armor Feedstock", "Shadow of the Tempest I")
+    nie waluja sie jako skopiowane zdania.
     """
     en = set(_segments(html.unescape(original)))
     es = set(_segments(html.unescape(spanish_escaped)))
     for segment in en & es:
         words = _plain_words(segment)
-        if len(words) >= 4 and sum(1 for w in words if w in ENGLISH_STOPWORDS) >= 2:
+        verbish = sum(
+            1 for w in words if w in ENGLISH_STOPWORDS and w not in _NAME_STOPWORDS
+        )
+        if len(words) >= 4 and verbish >= 2:
             return True
     return False
+
+
+KEEP_ENGLISH_ALIASES = {
+    "Etching": (r"\bgrabados?\b", r"\bgrabada\b"),
+    "Crystal": (r"\bcristales?\b", r"\bcristal\b"),
+}
+
+
+def restore_keep_english(original: str, spanish_escaped: str) -> str:
+    """Wstawia z powrotem terminy z KEEP_ENGLISH, jesli model je przetlumaczyl."""
+    en = html.unescape(original)
+    es = html.unescape(spanish_escaped)
+    changed = False
+    for term, aliases in KEEP_ENGLISH_ALIASES.items():
+        if not re.search(r"\b" + re.escape(term), en, re.I):
+            continue
+        if re.search(r"\b" + re.escape(term), es, re.I):
+            continue
+        for alias in aliases:
+            es, count = re.subn(alias, term, es, flags=re.I)
+            if count:
+                changed = True
+                break
+    if not changed:
+        return spanish_escaped
+    return xml_attr_escape(es)
 
 
 def breaks_glossary(original: str, spanish_escaped: str) -> bool:
@@ -374,7 +412,10 @@ def describe_problems(original: str, candidate: str) -> list[str]:
     en_text, es_text = html.unescape(original), html.unescape(candidate)
     for segment in set(_segments(en_text)) & set(_segments(es_text)):
         words = _plain_words(segment)
-        if len(words) >= 4 and sum(1 for w in words if w in ENGLISH_STOPWORDS) >= 2:
+        verbish = sum(
+            1 for w in words if w in ENGLISH_STOPWORDS and w not in _NAME_STOPWORDS
+        )
+        if len(words) >= 4 and verbish >= 2:
             problems.append(f"this sentence is still English: {segment[:120]}")
     for term in KEEP_ENGLISH:
         pattern = r"\b" + re.escape(term)
@@ -601,7 +642,9 @@ def translate_chunk(
             if bad <= 3:
                 print(f"    reject (empty): {original[:90]}", flush=True)
             continue
-        candidate = finalize_translation(spanish, tags)
+        candidate = restore_keep_english(
+            original, finalize_translation(spanish, tags)
+        )
         if not translation_is_valid(original, candidate):
             bad += 1
             if rejected is not None:
@@ -637,15 +680,24 @@ def repair_one(client: genai.Client, original: str, bad_candidate: str) -> str |
                 model=GEMINI_MODEL, contents=prompt, config=build_config()
             )
             fixed = parse_translation_array(extract_response_text(response), 1)[0]
-            candidate = finalize_translation(fixed, tags)
+            candidate = restore_keep_english(
+                original, finalize_translation(fixed, tags)
+            )
             if translation_is_valid(original, candidate):
                 return candidate
             bad_candidate = candidate
             problems = describe_problems(original, candidate)
         except Exception as exc:  # noqa: BLE001
             if is_rate_limit_error(exc):
-                time.sleep(rate_limit_wait_seconds(exc, attempt))
+                wait = rate_limit_wait_seconds(exc, attempt)
+                print(
+                    f"    Gemini rate/quota on repair attempt {attempt}/3; "
+                    f"sleeping {wait}s",
+                    flush=True,
+                )
+                time.sleep(wait)
             else:
+                print(f"    repair retry {attempt}/3: {exc}", flush=True)
                 time.sleep(min(2 ** attempt, 20))
         time.sleep(BATCH_DELAY)
     return None
@@ -692,7 +744,7 @@ def fill_cache_in_batches(
         print(f"  naprawa {len(rejected)} odrzuconych tekstow, po jednym", flush=True)
         still_bad = 0
         for index, (original, bad_candidate) in enumerate(rejected, 1):
-            if index % 25 == 0:
+            if index == 1 or index % 10 == 0 or index == len(rejected):
                 print(f"    naprawiono {index}/{len(rejected)}", flush=True)
             fixed = repair_one(client, original, bad_candidate)
             if fixed is None:
