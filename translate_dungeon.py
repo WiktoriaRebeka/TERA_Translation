@@ -10,10 +10,56 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import html
+import re
 from pathlib import Path
 
 import translate_tooltips as item
 import translate_string_sheet as sheet
+
+PLACE_NAME_FILE = Path("source/StrSheet_Dungeon/StrSheet_Dungeon-00000.xml")
+_PLACE_NAMES: set[str] | None = None
+
+
+def load_place_names() -> set[str]:
+    global _PLACE_NAMES
+    if _PLACE_NAMES is not None:
+        return _PLACE_NAMES
+    names: set[str] = set()
+    if PLACE_NAME_FILE.is_file():
+        text = PLACE_NAME_FILE.read_text(encoding="utf-8")
+        for match in sheet.ATTR_RE.finditer(text):
+            original = match.group(1)
+            if original:
+                names.add(original)
+                names.add(html.unescape(original))
+                names.add(_fully_unescape(original))
+    _PLACE_NAMES = names
+    return names
+
+
+def _fully_unescape(text: str) -> str:
+    prev = None
+    cur = text
+    while cur != prev:
+        prev = cur
+        cur = html.unescape(cur)
+    return cur.strip()
+
+
+def should_leave_english(original: str) -> bool:
+    raw = _fully_unescape(original)
+    if not raw:
+        return True
+    names = load_place_names()
+    if raw in names or original in names:
+        return True
+    if re.fullmatch(r"\d+", raw):
+        return True
+    return False
+
+
+sheet.LEAVE_ENGLISH_FN = should_leave_english
 
 item.SYSTEM_PROMPT = """
 You are an expert video game localizer. Translate TERA MMORPG dungeon floating banners from English to Spanish.

@@ -8,7 +8,7 @@ import re
 import sys
 from pathlib import Path
 
-from translate_dungeon import ATTR_RE, describe_problems, looks_untranslated
+from translate_dungeon import ATTR_RE, describe_problems, looks_untranslated, should_leave_english
 
 
 def halves(text: str) -> tuple[str, str] | None:
@@ -37,6 +37,7 @@ def main() -> int:
     problems = 0
     bilingual = 0
     left = 0
+    english_only = 0
     for path in files:
         text = path.read_text(encoding="utf-8")
         for match in ATTR_RE.finditer(text):
@@ -45,7 +46,10 @@ def main() -> int:
                 continue
             pair = halves(value)
             if pair is None:
-                left += 1
+                if should_leave_english(value):
+                    english_only += 1
+                else:
+                    left += 1
                 continue
             bilingual += 1
             english, spanish = pair
@@ -55,7 +59,10 @@ def main() -> int:
             if issues:
                 print(f"{path.name}: {issues[:3]}")
                 problems += 1
-    print(f"Dungeon bilingual={bilingual} left={left} problems={problems}")
+    print(
+        f"Dungeon bilingual={bilingual} english={english_only} "
+        f"left={left} problems={problems}"
+    )
     return 1 if problems else 0
 
 

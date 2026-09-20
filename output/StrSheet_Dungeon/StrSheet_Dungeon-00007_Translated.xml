@@ -1,33 +1,33 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="25040001" string="You see Titus and Elleon ahead of you./Ves a Titus y Elleon adelante." styleId="71" />
-    <String id="25040002" string="Enemies have spotted us./Los enemigos nos han detectado." styleId="71" />
-    <String id="25040003" string="Let&amp;#8217;s go along the way./Sigamos por aqu&amp;#237;." styleId="71" />
-    <String id="25040004" string="You have teleported to the second level./Te has teletransportado al segundo nivel." styleId="71" />
-    <String id="25040005" string="Elleon pointed at the Control System./Elleon se&amp;#241;al&amp;#243; el sistema de control." styleId="71" />
-    <String id="25040006" string="The Control System caught on fire and stopped./El sistema de control se incendi&amp;#243; y se detuvo." styleId="71" />
-    <String id="25040007" string="Enemies keep increasing./Los enemigos siguen aumentando." styleId="71" />
-    <String id="25040008" string="The bomb exploded./La bomba explot&amp;#243;." styleId="71" />
-    <String id="25040009" string="Go to the 3rd floor and help Elleon/Ve al tercer piso y ayuda a Elleon" styleId="71" />
-    <String id="25040010" string="Head to the center of the 3rd floor./Dir&amp;#237;gete al centro del tercer piso." styleId="71" />
-    <String id="25040100" string="Defeat the enemies./Derrota a los enemigos." styleId="71" />
-    <String id="25040101" string="Head to the left and look for a way up./Dir&amp;#237;gete a la izquierda y busca una forma de subir." styleId="71" />
-    <String id="25040102" string="Investigate the device that the enemy&amp;#8217;s leader used./Investiga el dispositivo que us&amp;#243; el l&amp;#237;der enemigo." styleId="71" />
-    <String id="25040103" string="Follow Elleon and use the device./Sigue a Elleon y usa el dispositivo." styleId="71" />
-    <String id="25040104" string="Follow Elleon./Sigue a Elleon." styleId="71" />
-    <String id="25040105" string="Move to where Elleon went./Mu&amp;#233;vete hacia donde fue Elleon." styleId="71" />
-    <String id="25040106" string="Help Titus set up the bomb./Ayuda a Titus a colocar la bomba." styleId="71" />
-    <String id="25040107" string="The explosion shakes the entire floor./La explosi&amp;#243;n sacude todo el piso." styleId="71" />
-    <String id="25040108" string="Defeat Kalligar./Derrota a Kalligar." styleId="71" />
-    <String id="25040109" string="Go to the 3rd floor and help Elleon/Ve al tercer piso y ayuda a Elleon" styleId="71" />
-    <String id="25040110" string="Head to the center of the 3rd floor./Dir&amp;#237;gete al centro del tercer piso." styleId="71" />
-    <String id="25040111" string="Hurry to the Main Control System./Date prisa hacia el Sistema de Control Principal." styleId="71" />
-    <String id="25040112" string="Destroy the Control System./Destruye el Sistema de Control." styleId="71" />
-    <String id="25040113" string="Destroy the Door/Destruye la puerta" styleId="71" />
-    <String id="25040114" string="Follow Elleon/Sigue a Elleon" styleId="71" />
-    <String id="25040200" string="Stop!/&amp;#161;Alto!" styleId="71" />
-    <String id="25040201" string="Take out the intruders!/&amp;#161;Elimina a los intrusos!" styleId="71" />
-    <String id="25040202" string="You shall not pass!/&amp;#161;No pasar&amp;#225;n!" styleId="71" />
-    <String id="25040203" string="No.../No..." styleId="71" />
-    <String id="25040204" string="This is bad./Esto es malo." styleId="71" />
-    <String id="25040205" string="Is it you this time?/&amp;#191;Eres t&amp;#250; esta vez?" styleId="71" />
+    <String id="25040001" string="[EN] You see Titus and Elleon ahead of you.&lt;br&gt;[ES] Ves a Titus y Elleon adelante." styleId="71" />
+    <String id="25040002" string="[EN] Enemies have spotted us.&lt;br&gt;[ES] Los enemigos nos han detectado." styleId="71" />
+    <String id="25040003" string="[EN] Let&amp;#8217;s go along the way.&lt;br&gt;[ES] Sigamos por aqu&amp;#237;." styleId="71" />
+    <String id="25040004" string="[EN] You have teleported to the second level.&lt;br&gt;[ES] Te has teletransportado al segundo nivel." styleId="71" />
+    <String id="25040005" string="[EN] Elleon pointed at the Control System.&lt;br&gt;[ES] Elleon se&amp;#241;al&amp;#243; el sistema de control." styleId="71" />
+    <String id="25040006" string="[EN] The Control System caught on fire and stopped.&lt;br&gt;[ES] El sistema de control se incendi&amp;#243; y se detuvo." styleId="71" />
+    <String id="25040007" string="[EN] Enemies keep increasing.&lt;br&gt;[ES] Los enemigos siguen aumentando." styleId="71" />
+    <String id="25040008" string="[EN] The bomb exploded.&lt;br&gt;[ES] La bomba explot&amp;#243;." styleId="71" />
+    <String id="25040009" string="[EN] Go to the 3rd floor and help Elleon&lt;br&gt;[ES] Ve al tercer piso y ayuda a Elleon" styleId="71" />
+    <String id="25040010" string="[EN] Head to the center of the 3rd floor.&lt;br&gt;[ES] Dir&amp;#237;gete al centro del tercer piso." styleId="71" />
+    <String id="25040100" string="[EN] Defeat the enemies.&lt;br&gt;[ES] Derrota a los enemigos." styleId="71" />
+    <String id="25040101" string="[EN] Head to the left and look for a way up.&lt;br&gt;[ES] Dir&amp;#237;gete a la izquierda y busca una forma de subir." styleId="71" />
+    <String id="25040102" string="[EN] Investigate the device that the enemy&amp;#8217;s leader used.&lt;br&gt;[ES] Investiga el dispositivo que us&amp;#243; el l&amp;#237;der enemigo." styleId="71" />
+    <String id="25040103" string="[EN] Follow Elleon and use the device.&lt;br&gt;[ES] Sigue a Elleon y usa el dispositivo." styleId="71" />
+    <String id="25040104" string="[EN] Follow Elleon.&lt;br&gt;[ES] Sigue a Elleon." styleId="71" />
+    <String id="25040105" string="[EN] Move to where Elleon went.&lt;br&gt;[ES] Mu&amp;#233;vete hacia donde fue Elleon." styleId="71" />
+    <String id="25040106" string="[EN] Help Titus set up the bomb.&lt;br&gt;[ES] Ayuda a Titus a colocar la bomba." styleId="71" />
+    <String id="25040107" string="[EN] The explosion shakes the entire floor.&lt;br&gt;[ES] La explosi&amp;#243;n sacude todo el piso." styleId="71" />
+    <String id="25040108" string="[EN] Defeat Kalligar.&lt;br&gt;[ES] Derrota a Kalligar." styleId="71" />
+    <String id="25040109" string="[EN] Go to the 3rd floor and help Elleon&lt;br&gt;[ES] Ve al tercer piso y ayuda a Elleon" styleId="71" />
+    <String id="25040110" string="[EN] Head to the center of the 3rd floor.&lt;br&gt;[ES] Dir&amp;#237;gete al centro del tercer piso." styleId="71" />
+    <String id="25040111" string="[EN] Hurry to the Main Control System.&lt;br&gt;[ES] Date prisa hacia el Sistema de Control Principal." styleId="71" />
+    <String id="25040112" string="[EN] Destroy the Control System.&lt;br&gt;[ES] Destruye el Sistema de Control." styleId="71" />
+    <String id="25040113" string="[EN] Destroy the Door&lt;br&gt;[ES] Destruye la puerta" styleId="71" />
+    <String id="25040114" string="[EN] Follow Elleon&lt;br&gt;[ES] Sigue a Elleon" styleId="71" />
+    <String id="25040200" string="[EN] Stop!&lt;br&gt;[ES] &amp;#161;Alto!" styleId="71" />
+    <String id="25040201" string="[EN] Take out the intruders!&lt;br&gt;[ES] &amp;#161;Elimina a los intrusos!" styleId="71" />
+    <String id="25040202" string="[EN] You shall not pass!&lt;br&gt;[ES] &amp;#161;No pasar&amp;#225;n!" styleId="71" />
+    <String id="25040203" string="[EN] No...&lt;br&gt;[ES] No..." styleId="71" />
+    <String id="25040204" string="[EN] This is bad.&lt;br&gt;[ES] Esto es malo." styleId="71" />
+    <String id="25040205" string="[EN] Is it you this time?&lt;br&gt;[ES] &amp;#191;Eres t&amp;#250; esta vez?" styleId="71" />
 </StrSheet_Dungeon>

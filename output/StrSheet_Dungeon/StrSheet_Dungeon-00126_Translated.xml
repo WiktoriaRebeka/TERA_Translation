@@ -1,40 +1,40 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="9511001" string="The cave begins trembling./La cueva comienza a temblar." />
-    <String id="9511002" string="The cave begins trembling./La cueva comienza a temblar." />
-    <String id="9511003" string="Change to Abomitwin Tension at 40% Abomination HP/Cambia a Abomitwin Tension al 40% de HP de Abomination" />
-    <String id="9511004" string="Thalweg prepares to devour demokrons./Thalweg se prepara para devorar demokrons." />
-    <String id="9511005" string="The demokrons approach./Los demokrons se acercan." />
-    <String id="9511006" string="Monsters are approaching./Los monstruos se est&amp;#225;n acercando." />
-    <String id="9511007" string="Monsters are approaching./Los monstruos se est&amp;#225;n acercando." />
-    <String id="9511008" string="Immunity to melee attacks in 5 seconds./Inmunidad a los ataques cuerpo a cuerpo en 5 segundos." />
-    <String id="9511009" string="Immunity to range attacks in 5 seconds./Inmunidad a los ataques a distancia en 5 segundos." />
-    <String id="9511010" string="The tentacles recover HP./Los tent&amp;#225;culos recuperan HP." />
-    <String id="9511011" string="The battle has weakened the building./La batalla ha debilitado el edificio." />
-    <String id="9511012" string="Thalweg summons demokrons./Thalweg invoca demokrons." />
-    <String id="9511013" string="Thalweg becomes more powerful with demokrons close by./Thalweg se vuelve m&amp;#225;s poderoso con demokrons cerca." />
-    <String id="9511014" string="The demokrons approach./Los demokrons se acercan." />
-    <String id="9511015" string="Thalweg recovers HP with demokrons close by./Thalweg recupera HP con demokrons cerca." />
-    <String id="9511016" string="Demokrons swarm in from behind./Los demokrons acuden en horda desde atr&amp;#225;s." />
-    <String id="9511017" string="Demokrons are climbing up the bridge from below./Los Demokrons est&amp;#225;n subiendo por el puente desde abajo." />
-    <String id="9511018" string="Krakatox approaches./Krakatox se acerca." />
-    <String id="9511019" string="The cave is collapsing./La cueva se est&amp;#225; derrumbando." />
-    <String id="9511020" string="Watch out! Falling rocks will briefly stun you./&amp;#161;Cuidado! Las rocas que caen te aturdir&amp;#225;n brevemente." />
+    <String id="9511001" string="[EN] The cave begins trembling.&lt;br&gt;[ES] La cueva comienza a temblar." />
+    <String id="9511002" string="[EN] The cave begins trembling.&lt;br&gt;[ES] La cueva comienza a temblar." />
+    <String id="9511003" string="[EN] Change to Abomitwin Tension at 40% Abomination HP&lt;br&gt;[ES] Cambia a Abomitwin Tension al 40% de HP de Abomination" />
+    <String id="9511004" string="[EN] Thalweg prepares to devour demokrons.&lt;br&gt;[ES] Thalweg se prepara para devorar demokrons." />
+    <String id="9511005" string="[EN] The demokrons approach.&lt;br&gt;[ES] Los demokrons se acercan." />
+    <String id="9511006" string="[EN] Monsters are approaching.&lt;br&gt;[ES] Los monstruos se est&amp;#225;n acercando." />
+    <String id="9511007" string="[EN] Monsters are approaching.&lt;br&gt;[ES] Los monstruos se est&amp;#225;n acercando." />
+    <String id="9511008" string="[EN] Immunity to melee attacks in 5 seconds.&lt;br&gt;[ES] Inmunidad a los ataques cuerpo a cuerpo en 5 segundos." />
+    <String id="9511009" string="[EN] Immunity to range attacks in 5 seconds.&lt;br&gt;[ES] Inmunidad a los ataques a distancia en 5 segundos." />
+    <String id="9511010" string="[EN] The tentacles recover HP.&lt;br&gt;[ES] Los tent&amp;#225;culos recuperan HP." />
+    <String id="9511011" string="[EN] The battle has weakened the building.&lt;br&gt;[ES] La batalla ha debilitado el edificio." />
+    <String id="9511012" string="[EN] Thalweg summons demokrons.&lt;br&gt;[ES] Thalweg invoca demokrons." />
+    <String id="9511013" string="[EN] Thalweg becomes more powerful with demokrons close by.&lt;br&gt;[ES] Thalweg se vuelve m&amp;#225;s poderoso con demokrons cerca." />
+    <String id="9511014" string="[EN] The demokrons approach.&lt;br&gt;[ES] Los demokrons se acercan." />
+    <String id="9511015" string="[EN] Thalweg recovers HP with demokrons close by.&lt;br&gt;[ES] Thalweg recupera HP con demokrons cerca." />
+    <String id="9511016" string="[EN] Demokrons swarm in from behind.&lt;br&gt;[ES] Los demokrons acuden en horda desde atr&amp;#225;s." />
+    <String id="9511017" string="[EN] Demokrons are climbing up the bridge from below.&lt;br&gt;[ES] Los Demokrons est&amp;#225;n subiendo por el puente desde abajo." />
+    <String id="9511018" string="[EN] Krakatox approaches.&lt;br&gt;[ES] Krakatox se acerca." />
+    <String id="9511019" string="[EN] The cave is collapsing.&lt;br&gt;[ES] La cueva se est&amp;#225; derrumbando." />
+    <String id="9511020" string="[EN] Watch out! Falling rocks will briefly stun you.&lt;br&gt;[ES] &amp;#161;Cuidado! Las rocas que caen te aturdir&amp;#225;n brevemente." />
     <String id="9511021" string="" />
     <String id="9511022" string="" />
-    <String id="9511023" string="Krakatox summons tentacles to ensnare you!/&amp;#161;Krakatox invoca tent&amp;#225;culos para atraparte!" />
-    <String id="9511024" string="The entrance will close in 10 seconds./La entrada se cerrar&amp;#225; en 10 segundos." />
-    <String id="9511025" string="The entrance will close in 20 seconds./La entrada se cerrar&amp;#225; en 20 segundos." />
-    <String id="9511026" string="Thalweg is in danger./Thalweg est&amp;#225; en peligro." />
-    <String id="9511027" string="All the demokrons flock to Thalweg./Todos los demokrons acuden en masa hacia Thalweg." />
-    <String id="9511028" string="Thalweg howls, calling the demokrons to him./Thalweg a&amp;#250;lla, llamando a los demokrons hacia &amp;#233;l." />
-    <String id="9511029" string="Krakatox gathers energy./Krakatox re&amp;#250;ne energ&amp;#237;a." />
-    <String id="9511030" string="Stop Krakatox before he finishes gathering the energy./Det&amp;#233;n a Krakatox antes de que termine de acumular energ&amp;#237;a." />
-    <String id="9511031" string="The cave is collapsing./La cueva se est&amp;#225; derrumbando." />
-    <String id="9511032" string="The power of the demokron's curse fills the cave./El poder de la maldici&amp;#243;n del demokron llena la cueva." />
-    <String id="9511033" string="Krakatox is becoming enraged./Krakatox se est&amp;#225; enfureciendo." />
-    <String id="9511034" string="He grows stronger with time./Se vuelve m&amp;#225;s fuerte con el tiempo." />
-    <String id="9511035" string="Thalweg summons Demokrons./Thalweg invoca Demokrons." />
-    <String id="9511036" string="When the summoned Demokrons move to Thalweg, his attack power increases./Cuando los Demokrons invocados se mueven hacia Thalweg, su poder de ataque aumenta." />
-    <String id="9511037" string="Krakatox can create more bombs now./Krakatox puede crear m&amp;#225;s bombas ahora." />
-    <String id="9511038" string="The demokron energy will kill you 10 minutes from the beginning of the battle./La energ&amp;#237;a demokron te matar&amp;#225; 10 minutos despu&amp;#233;s de empezar el combate." />
+    <String id="9511023" string="[EN] Krakatox summons tentacles to ensnare you!&lt;br&gt;[ES] &amp;#161;Krakatox invoca tent&amp;#225;culos para atraparte!" />
+    <String id="9511024" string="[EN] The entrance will close in 10 seconds.&lt;br&gt;[ES] La entrada se cerrar&amp;#225; en 10 segundos." />
+    <String id="9511025" string="[EN] The entrance will close in 20 seconds.&lt;br&gt;[ES] La entrada se cerrar&amp;#225; en 20 segundos." />
+    <String id="9511026" string="[EN] Thalweg is in danger.&lt;br&gt;[ES] Thalweg est&amp;#225; en peligro." />
+    <String id="9511027" string="[EN] All the demokrons flock to Thalweg.&lt;br&gt;[ES] Todos los demokrons acuden en masa hacia Thalweg." />
+    <String id="9511028" string="[EN] Thalweg howls, calling the demokrons to him.&lt;br&gt;[ES] Thalweg a&amp;#250;lla, llamando a los demokrons hacia &amp;#233;l." />
+    <String id="9511029" string="[EN] Krakatox gathers energy.&lt;br&gt;[ES] Krakatox re&amp;#250;ne energ&amp;#237;a." />
+    <String id="9511030" string="[EN] Stop Krakatox before he finishes gathering the energy.&lt;br&gt;[ES] Det&amp;#233;n a Krakatox antes de que termine de acumular energ&amp;#237;a." />
+    <String id="9511031" string="[EN] The cave is collapsing.&lt;br&gt;[ES] La cueva se est&amp;#225; derrumbando." />
+    <String id="9511032" string="[EN] The power of the demokron's curse fills the cave.&lt;br&gt;[ES] El poder de la maldici&amp;#243;n del demokron llena la cueva." />
+    <String id="9511033" string="[EN] Krakatox is becoming enraged.&lt;br&gt;[ES] Krakatox se est&amp;#225; enfureciendo." />
+    <String id="9511034" string="[EN] He grows stronger with time.&lt;br&gt;[ES] Se vuelve m&amp;#225;s fuerte con el tiempo." />
+    <String id="9511035" string="[EN] Thalweg summons Demokrons.&lt;br&gt;[ES] Thalweg invoca Demokrons." />
+    <String id="9511036" string="[EN] When the summoned Demokrons move to Thalweg, his attack power increases.&lt;br&gt;[ES] Cuando los Demokrons invocados se mueven hacia Thalweg, su poder de ataque aumenta." />
+    <String id="9511037" string="[EN] Krakatox can create more bombs now.&lt;br&gt;[ES] Krakatox puede crear m&amp;#225;s bombas ahora." />
+    <String id="9511038" string="[EN] The demokron energy will kill you 10 minutes from the beginning of the battle.&lt;br&gt;[ES] La energ&amp;#237;a demokron te matar&amp;#225; 10 minutos despu&amp;#233;s de empezar el combate." />
 </StrSheet_Dungeon>

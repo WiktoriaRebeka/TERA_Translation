@@ -1,26 +1,26 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="9027002" string="Vanishing magic./Magia de invisibilidad." styleId="70" />
-    <String id="9027003" string="Reemerged!/&amp;#161;Has vuelto a aparecer!" styleId="70" />
-    <String id="9027008" string="Parasites flock to you./Los par&amp;#225;sitos acuden hacia ti." styleId="71" />
-    <String id="9027016" string="You're relentless. Come forth, my minions!/Eres implacable. &amp;#161;Salid, mis esbirros!" styleId="70" />
-    <String id="9027017" string="I'll make you stronger!/&amp;#161;Har&amp;#233; que seas m&amp;#225;s fuerte!" styleId="70" />
-    <String id="9027019" string="You fools.../Insensatos..." styleId="70" />
-    <String id="9027020" string="This is just the beginning!/&amp;#161;Esto es solo el comienzo!" styleId="70" />
-    <String id="9027023" string="The door will be locked soon./La puerta se bloquear&amp;#225; pronto." styleId="71" />
-    <String id="9027024" string="The Plexus will be locked soon./El Plexus se bloquear&amp;#225; pronto." styleId="71" />
-    <String id="9027025" string="All the minions you killed are now part of me!/&amp;#161;Todos los esbirros que mataste ahora son parte de m&amp;#237;!" styleId="70" />
-    <String id="9027004" string="Kill the blue argons. Empowered argons decrease the enemy's health./Mata a los argones azules. &amp;#161;Los argones potenciados reducen la salud del enemigo!" styleId="71" />
-    <String id="9027005" string="Kill the red argons. Empowered argons increase the enemy's health./Mata a los argones rojos. &amp;#161;Los argones potenciados aumentan la salud del enemigo!" styleId="71" />
-    <String id="9027007" string="Each time I bleed, parasites will infect you!/&amp;#161;Cada vez que sangre, los par&amp;#225;sitos te infectar&amp;#225;n!" styleId="70" />
-    <String id="9027011" string="A horde of monsters is coming. Break the cocoon before they arrive!/Se acerca una horda de monstruos. &amp;#161;Rompe el capullo antes de que lleguen!" styleId="71" />
-    <String id="9027012" string="Fanged gullets are on their way!/&amp;#161;Gargantas con colmillos est&amp;#225;n en camino!" styleId="71" />
-    <String id="9027013" string="Teleportal, open! Come to me, my minions!/&amp;#161;Teleportal abierto! &amp;#161;Venid a m&amp;#237;, mis esbirros!" styleId="70" />
-    <String id="9027015" string="The battle has lasted 15 minutes. Shandra Manaya enters a fiery rage!/La batalla ha durado 15 minutos. &amp;#161;Shandra Manaya entra en una furia ardiente!" styleId="71" />
-    <String id="9027021" string="The battle has lasted 6 minutes. Hrathgol enters a fiery rage!/La batalla ha durado 6 minutos. &amp;#161;Hrathgol entra en una furia ardiente!" styleId="71" />
-    <String id="9027022" string="The battle has lasted 6 minutes. Melkatran enters a fiery rage!/La batalla has durado 6 minutos. &amp;#161;Melkatran entra en una furia ardiente!" styleId="71" />
-    <String id="9027100" string="You will receive a boon in 1 minute./Recibir&amp;#225;s una bendici&amp;#243;n en 1 minuto." styleId="71" />
-    <String id="9027101" string="A boon is now active. (1/3)/Una bendici&amp;#243;n est&amp;#225; activa ahora. (1/3)" styleId="71" />
-    <String id="9027102" string="A boon is now active. (2/3)/Una bendici&amp;#243;n est&amp;#225; activa ahora. (2/3)" styleId="71" />
-    <String id="9027103" string="A boon is now active. (3/3)/Una bendici&amp;#243;n est&amp;#225; activa ahora. (3/3)" styleId="71" />
-    <String id="9027104" string="Jump to knock off all the parasites!/&amp;#161;Salta para quitarte todos los par&amp;#225;sitos!" styleId="71" />
+    <String id="9027002" string="[EN] Vanishing magic.&lt;br&gt;[ES] Magia de invisibilidad." styleId="70" />
+    <String id="9027003" string="[EN] Reemerged!&lt;br&gt;[ES] &amp;#161;Has vuelto a aparecer!" styleId="70" />
+    <String id="9027008" string="[EN] Parasites flock to you.&lt;br&gt;[ES] Los par&amp;#225;sitos acuden hacia ti." styleId="71" />
+    <String id="9027016" string="[EN] You're relentless. Come forth, my minions!&lt;br&gt;[ES] Eres implacable. &amp;#161;Salid, mis esbirros!" styleId="70" />
+    <String id="9027017" string="[EN] I'll make you stronger!&lt;br&gt;[ES] &amp;#161;Har&amp;#233; que seas m&amp;#225;s fuerte!" styleId="70" />
+    <String id="9027019" string="[EN] You fools...&lt;br&gt;[ES] Insensatos..." styleId="70" />
+    <String id="9027020" string="[EN] This is just the beginning!&lt;br&gt;[ES] &amp;#161;Esto es solo el comienzo!" styleId="70" />
+    <String id="9027023" string="[EN] The door will be locked soon.&lt;br&gt;[ES] La puerta se bloquear&amp;#225; pronto." styleId="71" />
+    <String id="9027024" string="[EN] The Plexus will be locked soon.&lt;br&gt;[ES] El Plexus se bloquear&amp;#225; pronto." styleId="71" />
+    <String id="9027025" string="[EN] All the minions you killed are now part of me!&lt;br&gt;[ES] &amp;#161;Todos los esbirros que mataste ahora son parte de m&amp;#237;!" styleId="70" />
+    <String id="9027004" string="[EN] Kill the blue argons. Empowered argons decrease the enemy's health.&lt;br&gt;[ES] Mata a los argones azules. &amp;#161;Los argones potenciados reducen la salud del enemigo!" styleId="71" />
+    <String id="9027005" string="[EN] Kill the red argons. Empowered argons increase the enemy's health.&lt;br&gt;[ES] Mata a los argones rojos. &amp;#161;Los argones potenciados aumentan la salud del enemigo!" styleId="71" />
+    <String id="9027007" string="[EN] Each time I bleed, parasites will infect you!&lt;br&gt;[ES] &amp;#161;Cada vez que sangre, los par&amp;#225;sitos te infectar&amp;#225;n!" styleId="70" />
+    <String id="9027011" string="[EN] A horde of monsters is coming. Break the cocoon before they arrive!&lt;br&gt;[ES] Se acerca una horda de monstruos. &amp;#161;Rompe el capullo antes de que lleguen!" styleId="71" />
+    <String id="9027012" string="[EN] Fanged gullets are on their way!&lt;br&gt;[ES] &amp;#161;Gargantas con colmillos est&amp;#225;n en camino!" styleId="71" />
+    <String id="9027013" string="[EN] Teleportal, open! Come to me, my minions!&lt;br&gt;[ES] &amp;#161;Teleportal abierto! &amp;#161;Venid a m&amp;#237;, mis esbirros!" styleId="70" />
+    <String id="9027015" string="[EN] The battle has lasted 15 minutes. Shandra Manaya enters a fiery rage!&lt;br&gt;[ES] La batalla ha durado 15 minutos. &amp;#161;Shandra Manaya entra en una furia ardiente!" styleId="71" />
+    <String id="9027021" string="[EN] The battle has lasted 6 minutes. Hrathgol enters a fiery rage!&lt;br&gt;[ES] La batalla ha durado 6 minutos. &amp;#161;Hrathgol entra en una furia ardiente!" styleId="71" />
+    <String id="9027022" string="[EN] The battle has lasted 6 minutes. Melkatran enters a fiery rage!&lt;br&gt;[ES] La batalla has durado 6 minutos. &amp;#161;Melkatran entra en una furia ardiente!" styleId="71" />
+    <String id="9027100" string="[EN] You will receive a boon in 1 minute.&lt;br&gt;[ES] Recibir&amp;#225;s una bendici&amp;#243;n en 1 minuto." styleId="71" />
+    <String id="9027101" string="[EN] A boon is now active. (1/3)&lt;br&gt;[ES] Una bendici&amp;#243;n est&amp;#225; activa ahora. (1/3)" styleId="71" />
+    <String id="9027102" string="[EN] A boon is now active. (2/3)&lt;br&gt;[ES] Una bendici&amp;#243;n est&amp;#225; activa ahora. (2/3)" styleId="71" />
+    <String id="9027103" string="[EN] A boon is now active. (3/3)&lt;br&gt;[ES] Una bendici&amp;#243;n est&amp;#225; activa ahora. (3/3)" styleId="71" />
+    <String id="9027104" string="[EN] Jump to knock off all the parasites!&lt;br&gt;[ES] &amp;#161;Salta para quitarte todos los par&amp;#225;sitos!" styleId="71" />
 </StrSheet_Dungeon>

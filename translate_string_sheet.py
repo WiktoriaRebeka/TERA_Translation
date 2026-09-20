@@ -6,10 +6,16 @@ import re
 from pathlib import Path
 
 import translate_tooltips as item
-import translate_ui as ui
 
 ATTR_RE = re.compile(r'\bstring="([^"]*)"')
 item.TOOLTIP_RE = re.compile(r'\bstring="([^"]*)"')
+
+# Do not import translate_ui: that module replaces bilingual_tooltip with compact English/Spanish.
+BRACE_RE = re.compile(
+    r"\{@(?:select|ordinal|plural):[^{}]*\{[^{}]*\}[^{}]*\}"
+    r"|\{@[A-Za-z]+(?::[^{}]+)?\}"
+    r"|\{[A-Za-z][A-Za-z0-9_]*\}"
+)
 
 item.OUTPUT_TEMPLATE = (
     "[EN] {english}"
@@ -24,9 +30,12 @@ item.MARKUP_RE = re.compile(
     + "|"
     + item.LINK_RE.pattern
     + "|"
-    + ui.BRACE_RE.pattern
+    + BRACE_RE.pattern
     + r"|\x01"
 )
+
+# Optional: leave instance titles / numerals in English (Dungeon 00000 names).
+LEAVE_ENGLISH_FN = None
 
 
 def to_tera_html_entities(text: str) -> str:
@@ -43,6 +52,8 @@ def collect_unique_uncached(lines: list[str], cache: dict[str, str]) -> list[str
         for match in ATTR_RE.finditer(line):
             original = match.group(1)
             if original == "" or original in seen:
+                continue
+            if LEAVE_ENGLISH_FN and LEAVE_ENGLISH_FN(original):
                 continue
             if item.is_already_bilingual(original):
                 continue
@@ -75,6 +86,9 @@ def rewrite_lines(
             original = match.group(1)
             if original == "":
                 stats["empty"] += 1
+                continue
+            if LEAVE_ENGLISH_FN and LEAVE_ENGLISH_FN(original):
+                stats["left_original"] += 1
                 continue
             if item.is_already_bilingual(original):
                 stats["already_bilingual"] += 1

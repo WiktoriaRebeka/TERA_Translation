@@ -1,27 +1,27 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="905401" string="&lt;font size='50'&gt;Water floods the room.&lt;/font&gt;/&lt;font size='50'&gt;El agua inundar&amp;#225; la sala.&lt;/font&gt;" />
-    <String id="905402" string="&lt;font size='50'&gt;The entrance will close in 5 seconds.&lt;/font&gt;/&lt;font size='50'&gt;La entrada se cerrar&amp;#225; en 5 segundos.&lt;/font&gt;" />
-    <String id="905403" string="&lt;font size='50'&gt;The elevator activates.&lt;/font&gt;/&lt;font size='50'&gt;El ascensor se activa.&lt;/font&gt;" />
-    <String id="905404" string="No! Not the itty bitty living space!/&amp;#161;No! &amp;#161;Ese espacio diminuto no!" />
-    <String id="905405" string="Pay attention!/&amp;#161;Presta atenci&amp;#243;n!" />
-    <String id="905420" string="&lt;font size='50'&gt;A waterspout barricades the pool.&lt;/font&gt;/&lt;font size='50'&gt;Una tromba marina bloquea la piscina.&lt;/font&gt;" />
-    <String id="905430" string="&lt;font size='50'&gt;The rocks scatter again.&lt;/font&gt;/&lt;font size='50'&gt;Las rocas vuelven a dispersarse.&lt;/font&gt;" />
-    <String id="905410" string="&lt;font size='50'&gt;Can you find the real heart?&lt;/font&gt;/&lt;font size='50'&gt;&amp;#191;Puedes encontrar el coraz&amp;#243;n real?&lt;/font&gt;" />
-    <String id="905411" string="&lt;font size='50'&gt;1&lt;/font&gt;/&lt;font size='50'&gt;1&lt;/font&gt;" />
-    <String id="905412" string="&lt;font size='50'&gt;2&lt;/font&gt;/&lt;font size='50'&gt;2&lt;/font&gt;" />
-    <String id="905413" string="&lt;font size='50'&gt;3&lt;/font&gt;/&lt;font size='50'&gt;3&lt;/font&gt;" />
-    <String id="905414" string="&lt;font size='50'&gt;Let the game begin.&lt;/font&gt;/&lt;font size='50'&gt;Que comience el juego.&lt;/font&gt;" />
-    <String id="905415" string="&lt;font size='50'&gt;Ah, the heart of the matter.&lt;/font&gt;/&lt;font size='50'&gt;Ah, el quid de la cuesti&amp;#243;n.&lt;/font&gt;" />
-    <String id="905416" string="&lt;font size='50'&gt;Now face me!&lt;/font&gt;/&lt;font size='50'&gt;&amp;#161;Ahora enfr&amp;#233;ntate a m&amp;#237;!&lt;/font&gt;" />
-    <String id="905417" string="&lt;font size='50'&gt;The door opens.&lt;/font&gt;/&lt;font size='50'&gt;La puerta se abre.&lt;/font&gt;" />
-    <String id="905418" string="&lt;font size='50'&gt;Failure!&lt;/font&gt;/&lt;font size='50'&gt;&amp;#161;Fracaso!&lt;/font&gt;" />
-    <String id="905419" string="&lt;font size='50'&gt;Try Again!&lt;/font&gt;/&lt;font size='50'&gt;&amp;#161;Int&amp;#233;ntalo de nuevo!&lt;/font&gt;" />
-    <String id="905421" string="&lt;font size='50'&gt;A gold treasure chest appears.&lt;/font&gt;/&lt;font size='50'&gt;Aparece un cofre del tesoro dorado.&lt;/font&gt;" />
-    <String id="905422" string="&lt;font size='50'&gt;A silver treasure chest appears.&lt;/font&gt;/&lt;font size='50'&gt;Aparece un cofre del tesoro plateado.&lt;/font&gt;" />
-    <String id="905423" string="&lt;font size='50'&gt;A treasure chest appears.&lt;/font&gt;/&lt;font size='50'&gt;Aparece un cofre del tesoro.&lt;/font&gt;" />
-    <String id="905450" string="&lt;font size='50'&gt;A novice boon will activate in 30 seconds.&lt;/font&gt;/&lt;font size='50'&gt;Una bendici&amp;#243;n de novato se activar&amp;#225; en 30 segundos.&lt;/font&gt;" />
-    <String id="905451" string="&lt;font size='50'&gt;A novice boon is now active (1/3).&lt;/font&gt;/&lt;font size='50'&gt;Una bendici&amp;#243;n de novato est&amp;#225; activa (1/3).&lt;/font&gt;" />
-    <String id="905452" string="&lt;font size='50'&gt;A novice boon is now active (2/3).&lt;/font&gt;/&lt;font size='50'&gt;Una bendici&amp;#243;n de novato est&amp;#225; activa (2/3).&lt;/font&gt;" />
-    <String id="905453" string="&lt;font size='50'&gt;A novice boon is now active (3/3).&lt;/font&gt;/&lt;font size='50'&gt;Una bendici&amp;#243;n de novato est&amp;#225; activa (3/3).&lt;/font&gt;" />
-    <String id="905454" string="&lt;font size='50'&gt;A novice boon is now active (1/1).&lt;/font&gt;/&lt;font size='50'&gt;Una bendici&amp;#243;n de novato est&amp;#225; activa (1/1).&lt;/font&gt;" />
+    <String id="905401" string="[EN] &lt;font size='50'&gt;Water floods the room.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;El agua inundar&amp;#225; la sala.&lt;/font&gt;" />
+    <String id="905402" string="[EN] &lt;font size='50'&gt;The entrance will close in 5 seconds.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;La entrada se cerrar&amp;#225; en 5 segundos.&lt;/font&gt;" />
+    <String id="905403" string="[EN] &lt;font size='50'&gt;The elevator activates.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;El ascensor se activa.&lt;/font&gt;" />
+    <String id="905404" string="[EN] No! Not the itty bitty living space!&lt;br&gt;[ES] &amp;#161;No! &amp;#161;Ese espacio diminuto no!" />
+    <String id="905405" string="[EN] Pay attention!&lt;br&gt;[ES] &amp;#161;Presta atenci&amp;#243;n!" />
+    <String id="905420" string="[EN] &lt;font size='50'&gt;A waterspout barricades the pool.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Una tromba marina bloquea la piscina.&lt;/font&gt;" />
+    <String id="905430" string="[EN] &lt;font size='50'&gt;The rocks scatter again.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Las rocas vuelven a dispersarse.&lt;/font&gt;" />
+    <String id="905410" string="[EN] &lt;font size='50'&gt;Can you find the real heart?&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;&amp;#191;Puedes encontrar el coraz&amp;#243;n real?&lt;/font&gt;" />
+    <String id="905411" string="[EN] &lt;font size='50'&gt;1&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;1&lt;/font&gt;" />
+    <String id="905412" string="[EN] &lt;font size='50'&gt;2&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;2&lt;/font&gt;" />
+    <String id="905413" string="[EN] &lt;font size='50'&gt;3&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;3&lt;/font&gt;" />
+    <String id="905414" string="[EN] &lt;font size='50'&gt;Let the game begin.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Que comience el juego.&lt;/font&gt;" />
+    <String id="905415" string="[EN] &lt;font size='50'&gt;Ah, the heart of the matter.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Ah, el quid de la cuesti&amp;#243;n.&lt;/font&gt;" />
+    <String id="905416" string="[EN] &lt;font size='50'&gt;Now face me!&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;&amp;#161;Ahora enfr&amp;#233;ntate a m&amp;#237;!&lt;/font&gt;" />
+    <String id="905417" string="[EN] &lt;font size='50'&gt;The door opens.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;La puerta se abre.&lt;/font&gt;" />
+    <String id="905418" string="[EN] &lt;font size='50'&gt;Failure!&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;&amp;#161;Fracaso!&lt;/font&gt;" />
+    <String id="905419" string="[EN] &lt;font size='50'&gt;Try Again!&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;&amp;#161;Int&amp;#233;ntalo de nuevo!&lt;/font&gt;" />
+    <String id="905421" string="[EN] &lt;font size='50'&gt;A gold treasure chest appears.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Aparece un cofre del tesoro dorado.&lt;/font&gt;" />
+    <String id="905422" string="[EN] &lt;font size='50'&gt;A silver treasure chest appears.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Aparece un cofre del tesoro plateado.&lt;/font&gt;" />
+    <String id="905423" string="[EN] &lt;font size='50'&gt;A treasure chest appears.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Aparece un cofre del tesoro.&lt;/font&gt;" />
+    <String id="905450" string="[EN] &lt;font size='50'&gt;A novice boon will activate in 30 seconds.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Una bendici&amp;#243;n de novato se activar&amp;#225; en 30 segundos.&lt;/font&gt;" />
+    <String id="905451" string="[EN] &lt;font size='50'&gt;A novice boon is now active (1/3).&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Una bendici&amp;#243;n de novato est&amp;#225; activa (1/3).&lt;/font&gt;" />
+    <String id="905452" string="[EN] &lt;font size='50'&gt;A novice boon is now active (2/3).&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Una bendici&amp;#243;n de novato est&amp;#225; activa (2/3).&lt;/font&gt;" />
+    <String id="905453" string="[EN] &lt;font size='50'&gt;A novice boon is now active (3/3).&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Una bendici&amp;#243;n de novato est&amp;#225; activa (3/3).&lt;/font&gt;" />
+    <String id="905454" string="[EN] &lt;font size='50'&gt;A novice boon is now active (1/1).&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Una bendici&amp;#243;n de novato est&amp;#225; activa (1/1).&lt;/font&gt;" />
 </StrSheet_Dungeon>

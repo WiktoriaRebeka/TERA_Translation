@@ -1,14 +1,14 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="9075002" string="You set off a trap!/&amp;#161;Activaste una trampa!" styleId="71" />
-    <String id="9075003" string="Something falls from above./Algo cae desde arriba." styleId="71" />
-    <String id="9075004" string="You disarmed the trap./Desactivaste la trampa." />
-    <String id="9075005" string="The chamber door opens./La puerta de la c&amp;#225;mara se abre." />
-    <String id="9075011" string="Killed Kelsaik!/&amp;#161;Kelsaik ha muerto!" />
-    <String id="9075012" string="Entered Kelsaik's Hall./Entraste al Sal&amp;#243;n de Kelsaik." />
-    <String id="9075013" string="The chamber door closes./La puerta de la c&amp;#225;mara se cierra." />
+    <String id="9075002" string="[EN] You set off a trap!&lt;br&gt;[ES] &amp;#161;Activaste una trampa!" styleId="71" />
+    <String id="9075003" string="[EN] Something falls from above.&lt;br&gt;[ES] Algo cae desde arriba." styleId="71" />
+    <String id="9075004" string="[EN] You disarmed the trap.&lt;br&gt;[ES] Desactivaste la trampa." />
+    <String id="9075005" string="[EN] The chamber door opens.&lt;br&gt;[ES] La puerta de la c&amp;#225;mara se abre." />
+    <String id="9075011" string="[EN] Killed Kelsaik!&lt;br&gt;[ES] &amp;#161;Kelsaik ha muerto!" />
+    <String id="9075012" string="[EN] Entered Kelsaik's Hall.&lt;br&gt;[ES] Entraste al Sal&amp;#243;n de Kelsaik." />
+    <String id="9075013" string="[EN] The chamber door closes.&lt;br&gt;[ES] La puerta de la c&amp;#225;mara se cierra." />
     <String id="9075014" string="" />
-    <String id="9075100" string="You will receive a boon in 1 minute./Recibir&amp;#225;s una bendici&amp;#243;n en 1 minuto." styleId="71" />
-    <String id="9075101" string="A boon is now active. (1/3)/Una bendici&amp;#243;n est&amp;#225; activa ahora. (1/3)" styleId="71" />
-    <String id="9075102" string="A boon is now active. (2/3)/Una bendici&amp;#243;n est&amp;#225; activa ahora. (2/3)" styleId="71" />
-    <String id="9075103" string="A boon is now active. (3/3)/Una bendici&amp;#243;n est&amp;#225; activa ahora. (3/3)" styleId="71" />
+    <String id="9075100" string="[EN] You will receive a boon in 1 minute.&lt;br&gt;[ES] Recibir&amp;#225;s una bendici&amp;#243;n en 1 minuto." styleId="71" />
+    <String id="9075101" string="[EN] A boon is now active. (1/3)&lt;br&gt;[ES] Una bendici&amp;#243;n est&amp;#225; activa ahora. (1/3)" styleId="71" />
+    <String id="9075102" string="[EN] A boon is now active. (2/3)&lt;br&gt;[ES] Una bendici&amp;#243;n est&amp;#225; activa ahora. (2/3)" styleId="71" />
+    <String id="9075103" string="[EN] A boon is now active. (3/3)&lt;br&gt;[ES] Una bendici&amp;#243;n est&amp;#225; activa ahora. (3/3)" styleId="71" />
 </StrSheet_Dungeon>

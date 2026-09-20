@@ -1,21 +1,21 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="9760001" string="Suicide Soldiers are targeting the bomb piles! Break an oak barrel and use Inferno Spores to take them out./&amp;#161;Los Suicide Soldiers van tras las pilas de bombas! Rompe un barril de roble y usa Inferno Spores para eliminarlos." styleId="71" />
-    <String id="9760002" string="Suicide Soldiers are targeting the gunpowder boxes! Break an oak barrel and use Inferno Spores to take them out./&amp;#161;Los Suicide Soldiers van tras las cajas de p&amp;#243;lvora! Rompe un barril de roble y usa Inferno Spores para eliminarlos." styleId="71" />
-    <String id="9760003" string="Suicide Soldiers are targeting the wine barrels! Break an oak barrel and use Inferno Spores to take them out./&amp;#161;Los Suicide Soldiers van tras los barriles de vino! Rompe un barril de roble y usa Inferno Spores para eliminarlos." styleId="71" />
-    <String id="9760004" string="Suicide Soldiers are targeting the oil barrels! Break an oak barrel and use Inferno Spores to take them out./&amp;#161;Los Suicide Soldiers van tras los barriles de aceite! Rompe un barril de roble y usa Inferno Spores para eliminarlos." styleId="71" />
-    <String id="9760005" string="Polyphemus is throwing timed bomb!/&amp;#161;Polyphemus est&amp;#225; lanzando una bomba con temporizador!" styleId="71" />
-    <String id="9760006" string="Kalivan is summoning lightning./Kalivan est&amp;#225; invocando rayos." styleId="71" />
-    <String id="9760007" string="Kalivan is preparing an electrical attack! Get to a lightning rod!/&amp;#161;Kalivan est&amp;#225; preparando un ataque el&amp;#233;ctrico! &amp;#161;Dir&amp;#237;gete a un pararrayos!" styleId="71" />
-    <String id="9760008" string="Pepero is bolstering his troops!/&amp;#161;Pepero est&amp;#225; reforzando a sus tropas!" styleId="71" />
-    <String id="9760009" string="Pepero is shaking the ship!/&amp;#161;Pepero est&amp;#225; sacudiendo el barco!" styleId="71" />
-    <String id="9760010" string="Polyphemus is preparing to jump! Lure him to the bomb squad./&amp;#161;Polyphemus se prepara para saltar! Atr&amp;#225;elo hacia el escuadr&amp;#243;n antibombas." styleId="71" />
-    <String id="9760011" string="An explosion has damaged the ship!/&amp;#161;Una explosi&amp;#243;n ha da&amp;#241;ado el barco!" styleId="71" />
-    <String id="9760012" string="An explosion has damaged the ship!/&amp;#161;Una explosi&amp;#243;n ha da&amp;#241;ado el barco!" styleId="71" />
-    <String id="9760013" string="An explosion has damaged the ship!/&amp;#161;Una explosi&amp;#243;n ha da&amp;#241;ado el barco!" styleId="71" />
-    <String id="9760014" string="An explosion has damaged the ship!/&amp;#161;Una explosi&amp;#243;n ha da&amp;#241;ado el barco!" styleId="71" />
-    <String id="9760015" string="All the supplies are destroyed. The ship is sinking!/Todos los suministros est&amp;#225;n destruidos. &amp;#161;El barco se est&amp;#225; hundiendo!" styleId="71" />
-    <String id="9760016" string="Prepare for a massed assault!/&amp;#161;Prep&amp;#225;rate para un asalto masivo!" styleId="71" />
-    <String id="9760017" string="Look out!/&amp;#161;Cuidado!" styleId="71" />
-    <String id="9760018" string="The entrance will close soon!/&amp;#161;La entrada se cerrar&amp;#225; pronto!" styleId="71" />
-    <String id="9760019" string="Overload!/&amp;#161;Sobrecarga!" />
+    <String id="9760001" string="[EN] Suicide Soldiers are targeting the bomb piles! Break an oak barrel and use Inferno Spores to take them out.&lt;br&gt;[ES] &amp;#161;Los Suicide Soldiers van tras las pilas de bombas! Rompe un barril de roble y usa Inferno Spores para eliminarlos." styleId="71" />
+    <String id="9760002" string="[EN] Suicide Soldiers are targeting the gunpowder boxes! Break an oak barrel and use Inferno Spores to take them out.&lt;br&gt;[ES] &amp;#161;Los Suicide Soldiers van tras las cajas de p&amp;#243;lvora! Rompe un barril de roble y usa Inferno Spores para eliminarlos." styleId="71" />
+    <String id="9760003" string="[EN] Suicide Soldiers are targeting the wine barrels! Break an oak barrel and use Inferno Spores to take them out.&lt;br&gt;[ES] &amp;#161;Los Suicide Soldiers van tras los barriles de vino! Rompe un barril de roble y usa Inferno Spores para eliminarlos." styleId="71" />
+    <String id="9760004" string="[EN] Suicide Soldiers are targeting the oil barrels! Break an oak barrel and use Inferno Spores to take them out.&lt;br&gt;[ES] &amp;#161;Los Suicide Soldiers van tras los barriles de aceite! Rompe un barril de roble y usa Inferno Spores para eliminarlos." styleId="71" />
+    <String id="9760005" string="[EN] Polyphemus is throwing timed bomb!&lt;br&gt;[ES] &amp;#161;Polyphemus est&amp;#225; lanzando una bomba con temporizador!" styleId="71" />
+    <String id="9760006" string="[EN] Kalivan is summoning lightning.&lt;br&gt;[ES] Kalivan est&amp;#225; invocando rayos." styleId="71" />
+    <String id="9760007" string="[EN] Kalivan is preparing an electrical attack! Get to a lightning rod!&lt;br&gt;[ES] &amp;#161;Kalivan est&amp;#225; preparando un ataque el&amp;#233;ctrico! &amp;#161;Dir&amp;#237;gete a un pararrayos!" styleId="71" />
+    <String id="9760008" string="[EN] Pepero is bolstering his troops!&lt;br&gt;[ES] &amp;#161;Pepero est&amp;#225; reforzando a sus tropas!" styleId="71" />
+    <String id="9760009" string="[EN] Pepero is shaking the ship!&lt;br&gt;[ES] &amp;#161;Pepero est&amp;#225; sacudiendo el barco!" styleId="71" />
+    <String id="9760010" string="[EN] Polyphemus is preparing to jump! Lure him to the bomb squad.&lt;br&gt;[ES] &amp;#161;Polyphemus se prepara para saltar! Atr&amp;#225;elo hacia el escuadr&amp;#243;n antibombas." styleId="71" />
+    <String id="9760011" string="[EN] An explosion has damaged the ship!&lt;br&gt;[ES] &amp;#161;Una explosi&amp;#243;n ha da&amp;#241;ado el barco!" styleId="71" />
+    <String id="9760012" string="[EN] An explosion has damaged the ship!&lt;br&gt;[ES] &amp;#161;Una explosi&amp;#243;n ha da&amp;#241;ado el barco!" styleId="71" />
+    <String id="9760013" string="[EN] An explosion has damaged the ship!&lt;br&gt;[ES] &amp;#161;Una explosi&amp;#243;n ha da&amp;#241;ado el barco!" styleId="71" />
+    <String id="9760014" string="[EN] An explosion has damaged the ship!&lt;br&gt;[ES] &amp;#161;Una explosi&amp;#243;n ha da&amp;#241;ado el barco!" styleId="71" />
+    <String id="9760015" string="[EN] All the supplies are destroyed. The ship is sinking!&lt;br&gt;[ES] Todos los suministros est&amp;#225;n destruidos. &amp;#161;El barco se est&amp;#225; hundiendo!" styleId="71" />
+    <String id="9760016" string="[EN] Prepare for a massed assault!&lt;br&gt;[ES] &amp;#161;Prep&amp;#225;rate para un asalto masivo!" styleId="71" />
+    <String id="9760017" string="[EN] Look out!&lt;br&gt;[ES] &amp;#161;Cuidado!" styleId="71" />
+    <String id="9760018" string="[EN] The entrance will close soon!&lt;br&gt;[ES] &amp;#161;La entrada se cerrar&amp;#225; pronto!" styleId="71" />
+    <String id="9760019" string="[EN] Overload!&lt;br&gt;[ES] &amp;#161;Sobrecarga!" />
 </StrSheet_Dungeon>

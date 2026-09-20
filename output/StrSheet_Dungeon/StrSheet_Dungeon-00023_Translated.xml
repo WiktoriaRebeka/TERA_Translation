@@ -1,22 +1,22 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="3018000" string="The entrance will close soon./La entrada se cerrar&amp;#225; pronto." styleId="71" />
-    <String id="3018101" string="Charged Energy/Energ&amp;#237;a cargada" />
-    <String id="3018102" string="Energy Surge/Oleada de energ&amp;#237;a" />
-    <String id="3018103" string="Energy charged./Energ&amp;#237;a cargada." styleId="67" />
-    <String id="3018104" string="Energy depleted./Energ&amp;#237;a agotada." styleId="67" />
-    <String id="3018105" string="First Energy Pillar Activation/Activaci&amp;#243;n del primer pilar de energ&amp;#237;a" styleId="67" />
-    <String id="3018106" string="Second Energy Pillar Activation/Activaci&amp;#243;n del segundo pilar de energ&amp;#237;a" styleId="67" />
-    <String id="3018107" string="Third Energy Pillar Activation/Activaci&amp;#243;n del tercer pilar de energ&amp;#237;a" styleId="67" />
-    <String id="3018108" string="Fourth Energy Pillar Activation/Activaci&amp;#243;n del cuarto pilar de energ&amp;#237;a" styleId="67" />
-    <String id="3018109" string="Theropath charges energy./Theropath carga energ&amp;#237;a." styleId="67" />
-    <String id="3018200" string="Let's roll!/&amp;#161;A jugar!" styleId="67" />
-    <String id="3018201" string="The skillbook appears./Aparece el libro de habilidades." styleId="67" />
-    <String id="3018202" string="I need power!/&amp;#161;Necesito poder!" styleId="66" />
-    <String id="3018203" string="I need more power!/&amp;#161;Necesito m&amp;#225;s poder!" styleId="66" />
-    <String id="3018204" string="I need more and more power!/&amp;#161;Necesito m&amp;#225;s y m&amp;#225;s poder!" styleId="66" />
-    <String id="3018205" string="Apetus rushes toward the skillbook./Apetus corre hacia el libro de habilidades." styleId="67" />
-    <String id="3018206" string="Apetus is infused with fire!/&amp;#161;Apetus est&amp;#225; infundido con fuego!" styleId="67" />
-    <String id="3018207" string="Apetus is infused with water!/&amp;#161;Apetus est&amp;#225; infundido con agua!" styleId="67" />
-    <String id="3018208" string="Apetus is infused with grass!/&amp;#161;Apetus est&amp;#225; infundido con hierba!" styleId="67" />
-    <String id="3018301" string="I win!/&amp;#161;Gano!" styleId="66" />
+    <String id="3018000" string="[EN] The entrance will close soon.&lt;br&gt;[ES] La entrada se cerrar&amp;#225; pronto." styleId="71" />
+    <String id="3018101" string="[EN] Charged Energy&lt;br&gt;[ES] Energ&amp;#237;a cargada" />
+    <String id="3018102" string="[EN] Energy Surge&lt;br&gt;[ES] Oleada de energ&amp;#237;a" />
+    <String id="3018103" string="[EN] Energy charged.&lt;br&gt;[ES] Energ&amp;#237;a cargada." styleId="67" />
+    <String id="3018104" string="[EN] Energy depleted.&lt;br&gt;[ES] Energ&amp;#237;a agotada." styleId="67" />
+    <String id="3018105" string="[EN] First Energy Pillar Activation&lt;br&gt;[ES] Activaci&amp;#243;n del primer pilar de energ&amp;#237;a" styleId="67" />
+    <String id="3018106" string="[EN] Second Energy Pillar Activation&lt;br&gt;[ES] Activaci&amp;#243;n del segundo pilar de energ&amp;#237;a" styleId="67" />
+    <String id="3018107" string="[EN] Third Energy Pillar Activation&lt;br&gt;[ES] Activaci&amp;#243;n del tercer pilar de energ&amp;#237;a" styleId="67" />
+    <String id="3018108" string="[EN] Fourth Energy Pillar Activation&lt;br&gt;[ES] Activaci&amp;#243;n del cuarto pilar de energ&amp;#237;a" styleId="67" />
+    <String id="3018109" string="[EN] Theropath charges energy.&lt;br&gt;[ES] Theropath carga energ&amp;#237;a." styleId="67" />
+    <String id="3018200" string="[EN] Let's roll!&lt;br&gt;[ES] &amp;#161;A jugar!" styleId="67" />
+    <String id="3018201" string="[EN] The skillbook appears.&lt;br&gt;[ES] Aparece el libro de habilidades." styleId="67" />
+    <String id="3018202" string="[EN] I need power!&lt;br&gt;[ES] &amp;#161;Necesito poder!" styleId="66" />
+    <String id="3018203" string="[EN] I need more power!&lt;br&gt;[ES] &amp;#161;Necesito m&amp;#225;s poder!" styleId="66" />
+    <String id="3018204" string="[EN] I need more and more power!&lt;br&gt;[ES] &amp;#161;Necesito m&amp;#225;s y m&amp;#225;s poder!" styleId="66" />
+    <String id="3018205" string="[EN] Apetus rushes toward the skillbook.&lt;br&gt;[ES] Apetus corre hacia el libro de habilidades." styleId="67" />
+    <String id="3018206" string="[EN] Apetus is infused with fire!&lt;br&gt;[ES] &amp;#161;Apetus est&amp;#225; infundido con fuego!" styleId="67" />
+    <String id="3018207" string="[EN] Apetus is infused with water!&lt;br&gt;[ES] &amp;#161;Apetus est&amp;#225; infundido con agua!" styleId="67" />
+    <String id="3018208" string="[EN] Apetus is infused with grass!&lt;br&gt;[ES] &amp;#161;Apetus est&amp;#225; infundido con hierba!" styleId="67" />
+    <String id="3018301" string="[EN] I win!&lt;br&gt;[ES] &amp;#161;Gano!" styleId="66" />
 </StrSheet_Dungeon>

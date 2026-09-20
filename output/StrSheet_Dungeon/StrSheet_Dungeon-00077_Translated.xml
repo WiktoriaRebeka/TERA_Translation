@@ -1,15 +1,15 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="9050001" string="&lt;font size='50'&gt;The door will now open.&lt;/font&gt;/&lt;font size='50'&gt;La puerta se abrir&amp;#225; ahora.&lt;/font&gt;" />
-    <String id="9050002" string="&lt;font size='50'&gt;The monument has been created.&lt;/font&gt;/&lt;font size='50'&gt;El monumento ha sido creado.&lt;/font&gt;" />
-    <String id="9050003" string="&lt;font size='50'&gt;The entrance to the Nest will close in 10 seconds.&lt;/font&gt;/&lt;font size='50'&gt;La entrada al Nest se cerrar&amp;#225; en 10 segundos.&lt;/font&gt;" />
-    <String id="9050004" string="&lt;font size='50'&gt;The entrance to the Cave will be shut in 10 seconds.&lt;/font&gt;/&lt;font size='50'&gt;La entrada a la Cave se cerrar&amp;#225; en 10 segundos.&lt;/font&gt;" />
-    <String id="9050005" string="&lt;font size='50'&gt;The airship has altered course to Yativio's platform.&lt;/font&gt;/&lt;font size='50'&gt;El dirigible ha cambiado su curso hacia la plataforma de Yativio.&lt;/font&gt;" />
-    <String id="9050006" string="&lt;font size='50'&gt;An airship has departed.&lt;/font&gt;/&lt;font size='50'&gt;Un dirigible ha partido.&lt;/font&gt;" />
+    <String id="9050001" string="[EN] &lt;font size='50'&gt;The door will now open.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;La puerta se abrir&amp;#225; ahora.&lt;/font&gt;" />
+    <String id="9050002" string="[EN] &lt;font size='50'&gt;The monument has been created.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;El monumento ha sido creado.&lt;/font&gt;" />
+    <String id="9050003" string="[EN] &lt;font size='50'&gt;The entrance to the Nest will close in 10 seconds.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;La entrada al Nest se cerrar&amp;#225; en 10 segundos.&lt;/font&gt;" />
+    <String id="9050004" string="[EN] &lt;font size='50'&gt;The entrance to the Cave will be shut in 10 seconds.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;La entrada a la Cave se cerrar&amp;#225; en 10 segundos.&lt;/font&gt;" />
+    <String id="9050005" string="[EN] &lt;font size='50'&gt;The airship has altered course to Yativio's platform.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;El dirigible ha cambiado su curso hacia la plataforma de Yativio.&lt;/font&gt;" />
+    <String id="9050006" string="[EN] &lt;font size='50'&gt;An airship has departed.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Un dirigible ha partido.&lt;/font&gt;" />
     <String id="9050007" styleId="37" />
     <String id="9050008" styleId="37" />
-    <String id="9050009" string="&lt;font size='50'&gt;Azzem has opened the platform door.&lt;/font&gt;/&lt;font size='50'&gt;Azzem ha abierto la puerta de la plataforma.&lt;/font&gt;" />
-    <String id="9050010" string="&lt;font size='50'&gt;Instance dungeon Beginner Support System will activate in 1 minute.&lt;/font&gt;/&lt;font size='50'&gt;El sistema de apoyo para principiantes de la mazmorra instanciada se activar&amp;#225; en 1 minuto.&lt;/font&gt;" />
-    <String id="9050011" string="&lt;font size='50'&gt;Instance dungeon Beginner Support System is now active (1/3).&lt;/font&gt;/&lt;font size='50'&gt;El sistema de apoyo para principiantes de la mazmorra instanciada ya est&amp;#225; activo (1/3).&lt;/font&gt;" />
-    <String id="9050012" string="&lt;font size='50'&gt;Instance dungeon Beginner Support System is now active (2/3).&lt;/font&gt;/&lt;font size='50'&gt;El sistema de apoyo para principiantes de la mazmorra instanciada ya est&amp;#225; activo (2/3).&lt;/font&gt;" />
-    <String id="9050013" string="&lt;font size='50'&gt;Instance dungeon Beginner Support System is now active (3/3).&lt;/font&gt;/&lt;font size='50'&gt;El Sistema de Apoyo para Principiantes de la instancia de mazmorra est&amp;#225; activo (3/3).&lt;/font&gt;" />
+    <String id="9050009" string="[EN] &lt;font size='50'&gt;Azzem has opened the platform door.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Azzem ha abierto la puerta de la plataforma.&lt;/font&gt;" />
+    <String id="9050010" string="[EN] &lt;font size='50'&gt;Instance dungeon Beginner Support System will activate in 1 minute.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;El sistema de apoyo para principiantes de la mazmorra instanciada se activar&amp;#225; en 1 minuto.&lt;/font&gt;" />
+    <String id="9050011" string="[EN] &lt;font size='50'&gt;Instance dungeon Beginner Support System is now active (1/3).&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;El sistema de apoyo para principiantes de la mazmorra instanciada ya est&amp;#225; activo (1/3).&lt;/font&gt;" />
+    <String id="9050012" string="[EN] &lt;font size='50'&gt;Instance dungeon Beginner Support System is now active (2/3).&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;El sistema de apoyo para principiantes de la mazmorra instanciada ya est&amp;#225; activo (2/3).&lt;/font&gt;" />
+    <String id="9050013" string="[EN] &lt;font size='50'&gt;Instance dungeon Beginner Support System is now active (3/3).&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;El Sistema de Apoyo para Principiantes de la instancia de mazmorra est&amp;#225; activo (3/3).&lt;/font&gt;" />
 </StrSheet_Dungeon>

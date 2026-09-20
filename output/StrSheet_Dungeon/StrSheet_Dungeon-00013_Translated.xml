@@ -1,11 +1,11 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="3005001" string="Take out the intruders!/&amp;#161;Elimina a los intrusos!" styleId="70" />
-    <String id="3005002" string="Mumbling/Murmurando" styleId="70" />
-    <String id="3005006" string="Blocked door is opening!/&amp;#161;La puerta bloqueada se est&amp;#225; abriendo!" styleId="71" />
-    <String id="3005007" string="Door opens!/&amp;#161;La puerta se abre!" styleId="71" />
-    <String id="3005008" string="The door opens for the Chamber of Trial./La puerta se abre para la C&amp;#225;mara de las Pruebas." styleId="71" />
-    <String id="3005100" string="You will receive a boon in 1 minute./Recibir&amp;#225;s una bendici&amp;#243;n en 1 minuto." styleId="71" />
-    <String id="3005101" string="A boon is now active. (1/3)/Una bendici&amp;#243;n est&amp;#225; activa ahora. (1/3)" styleId="71" />
-    <String id="3005102" string="A boon is now active. (2/3)/Una bendici&amp;#243;n est&amp;#225; activa ahora. (2/3)" styleId="71" />
-    <String id="3005103" string="A boon is now active. (3/3)/Una bendici&amp;#243;n est&amp;#225; activa ahora. (3/3)" styleId="71" />
+    <String id="3005001" string="[EN] Take out the intruders!&lt;br&gt;[ES] &amp;#161;Elimina a los intrusos!" styleId="70" />
+    <String id="3005002" string="[EN] Mumbling&lt;br&gt;[ES] Murmurando" styleId="70" />
+    <String id="3005006" string="[EN] Blocked door is opening!&lt;br&gt;[ES] &amp;#161;La puerta bloqueada se est&amp;#225; abriendo!" styleId="71" />
+    <String id="3005007" string="[EN] Door opens!&lt;br&gt;[ES] &amp;#161;La puerta se abre!" styleId="71" />
+    <String id="3005008" string="[EN] The door opens for the Chamber of Trial.&lt;br&gt;[ES] La puerta se abre para la C&amp;#225;mara de las Pruebas." styleId="71" />
+    <String id="3005100" string="[EN] You will receive a boon in 1 minute.&lt;br&gt;[ES] Recibir&amp;#225;s una bendici&amp;#243;n en 1 minuto." styleId="71" />
+    <String id="3005101" string="[EN] A boon is now active. (1/3)&lt;br&gt;[ES] Una bendici&amp;#243;n est&amp;#225; activa ahora. (1/3)" styleId="71" />
+    <String id="3005102" string="[EN] A boon is now active. (2/3)&lt;br&gt;[ES] Una bendici&amp;#243;n est&amp;#225; activa ahora. (2/3)" styleId="71" />
+    <String id="3005103" string="[EN] A boon is now active. (3/3)&lt;br&gt;[ES] Una bendici&amp;#243;n est&amp;#225; activa ahora. (3/3)" styleId="71" />
 </StrSheet_Dungeon>

@@ -1,58 +1,58 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="9830151" string="5/5" />
-    <String id="9830152" string="4/4" />
-    <String id="9830153" string="3/3" />
-    <String id="9830154" string="2/2" />
-    <String id="9830155" string="1/1" />
-    <String id="9830156" string="Begin/Comenzar" />
-    <String id="9830201" string="Stage 1/Fase 1" />
-    <String id="9830202" string="Stage 2/Fase 2" />
-    <String id="9830203" string="Stage 3/Fase 3" />
-    <String id="9830204" string="Stage 4/Fase 4" />
-    <String id="9830205" string="Stage 5/Fase 5" />
-    <String id="9830206" string="Stage 6/Fase 6" />
-    <String id="9830207" string="Stage 7/Fase 7" />
-    <String id="9830208" string="Stage 8/Fase 8" />
-    <String id="9830209" string="Stage 9/Fase 9" />
-    <String id="9830210" string="Stage 10/Fase 10" />
-    <String id="9830211" string="Stage 11/Fase 11" />
-    <String id="9830212" string="Stage 12/Fase 12" />
-    <String id="9830213" string="Stage 13/Fase 13" />
-    <String id="9830214" string="Stage 14/Fase 14" />
-    <String id="9830215" string="Stage 15/Fase 15" />
-    <String id="9830216" string="Stage 16/Fase 16" />
-    <String id="9830217" string="Stage 17/Fase 17" />
-    <String id="9830218" string="Stage 18/Fase 18" />
-    <String id="9830219" string="Stage 19/Fase 19" />
-    <String id="9830220" string="Stage 20/Fase 20" />
-    <String id="9830301" string="Destroy all monsters!/&amp;#161;Destruye a todos los monstruos!" />
-    <String id="9830302" string="Defeat as many monsters as you can within 30 seconds./Derrota a tantos monstruos como puedas en 30 segundos." />
-    <String id="9830303" string="Warning: Pay attention to the Kumas statues!/Advertencia: &amp;#161;Presta atenci&amp;#243;n a las estatuas de Kumas!" styleId="67" />
-    <String id="9830304" string="Warning: Avoid ice fields&amp;#8212;unless you like snowmen./Advertencia: Evita los campos de hielo, a menos que te gusten los mu&amp;#241;ecos de nieve." styleId="67" />
-    <String id="9830305" string="Defeat the Relic Guardians as fast as you can./Derrota a los Relic Guardians lo m&amp;#225;s r&amp;#225;pido que puedas." styleId="67" />
-    <String id="9830306" string="Warning: Stay clear of Jurnagg Columns!/Advertencia: &amp;#161;Al&amp;#233;jate de las columnas Jurnagg!" styleId="67" />
-    <String id="9830307" string="Warning: Avoid Snapping Gullets./Advertencia: Evita a los Snapping Gullets." styleId="67" />
-    <String id="9830308" string="Stay close to Murhak!/&amp;#161;Mantente cerca de Murhak!" styleId="67" />
-    <String id="9830309" string="Attack Training Dummies to increase your damage./Ataca a los Training Dummies para aumentar tu da&amp;#241;o." styleId="67" />
-    <String id="9830310" string="Warning: Zombies have poison attacks!/Advertencia: &amp;#161;Los zombis tienen ataques de veneno!" styleId="67" />
-    <String id="9830311" string="Warning: Zompori Laborers throw bombs!/Advertencia: &amp;#161;Los Zompori Laborers lanzan bombas!" styleId="67" />
-    <String id="9830312" string="Warning: Bears have knockdown attacks!/Advertencia: &amp;#161;Los osos tienen ataques de derribo!" styleId="67" />
-    <String id="9830313" string="Warning: Sabertooths can turn invisible!/Advertencia: &amp;#161;Los Sabertooths pueden volverse invisibles!" styleId="67" />
-    <String id="9830314" string="Tuwangi. TuWANgi. TUWANGI!/&amp;#161;Tuwangi. TuWANgi. TUWANGI!" styleId="67" />
-    <String id="9830315" string="Warning: Imps can inflict Chaos!/Advertencia: &amp;#161;Los diablillos pueden infligir Caos!" styleId="67" />
-    <String id="9830316" string="Warning: Caiman Pirates set explosives!/Advertencia: &amp;#161;Los Caiman Pirates colocan explosivos!" styleId="67" />
-    <String id="9830317" string="Lure the Kariagons to barrels to damage them./Atrae a los Kariagons hacia los barriles para da&amp;#241;arlos." styleId="67" />
-    <String id="9830318" string="Stay close to the totem to reveal invisible hyenas./Mantente cerca del t&amp;#243;tem para revelar a las hienas invisibles." styleId="67" />
-    <String id="9830319" string="Lure the Zuulhounds to the center to lower their Defense./Atrae a los Zuulhounds hacia el centro para reducir su resistencia." styleId="67" />
-    <String id="9830320" string="&lt;font size='50'&gt;Attack only the delicious watermelons. You will lose points if you attack the wrong type.&lt;/font&gt;/&lt;font size='50'&gt;Ataca solo las sand&amp;#237;as deliciosas. Perder&amp;#225;s puntos si atacas al tipo incorrecto.&lt;/font&gt;" styleId="67" />
-    <String id="9830321" string="Tuwangi! Tuwangi!/&amp;#161;Tuwangi! &amp;#161;Tuwangi!" styleId="67" />
-    <String id="9830900" string="10 seconds left./Quedan 10 segundos." styleId="67" />
-    <String id="9830901" string="5 seconds left./Quedan 5 segundos." styleId="67" />
-    <String id="9830800" string="You failed the Celestial Arena challenge./Fallaste el desaf&amp;#237;o de Celestial Arena." />
-    <String id="9830998" string="Crowd Pleaser!/&amp;#161;Aclamado por el p&amp;#250;blico!" />
-    <String id="9830999" string="You did it!/&amp;#161;Lo lograste!" />
-    <String id="9830100" string="A novice boon will activate in 60 seconds./Una bendici&amp;#243;n de novato se activar&amp;#225; en 60 segundos." styleId="71" />
-    <String id="9830101" string="A novice boon has been activated (1/3)/Se ha activado una bendici&amp;#243;n de novato (1/3)" styleId="71" />
-    <String id="9830102" string="A novice boon has been activated (2/3)/Se ha activado una bendici&amp;#243;n de novato (2/3)" styleId="71" />
-    <String id="9830103" string="A novice boon has been activated (3/3)/Se ha activado una bendici&amp;#243;n de novato (3/3)" styleId="71" />
+    <String id="9830151" string="5" />
+    <String id="9830152" string="4" />
+    <String id="9830153" string="3" />
+    <String id="9830154" string="2" />
+    <String id="9830155" string="1" />
+    <String id="9830156" string="[EN] Begin&lt;br&gt;[ES] Comenzar" />
+    <String id="9830201" string="[EN] Stage 1&lt;br&gt;[ES] Fase 1" />
+    <String id="9830202" string="[EN] Stage 2&lt;br&gt;[ES] Fase 2" />
+    <String id="9830203" string="[EN] Stage 3&lt;br&gt;[ES] Fase 3" />
+    <String id="9830204" string="[EN] Stage 4&lt;br&gt;[ES] Fase 4" />
+    <String id="9830205" string="[EN] Stage 5&lt;br&gt;[ES] Fase 5" />
+    <String id="9830206" string="[EN] Stage 6&lt;br&gt;[ES] Fase 6" />
+    <String id="9830207" string="[EN] Stage 7&lt;br&gt;[ES] Fase 7" />
+    <String id="9830208" string="[EN] Stage 8&lt;br&gt;[ES] Fase 8" />
+    <String id="9830209" string="[EN] Stage 9&lt;br&gt;[ES] Fase 9" />
+    <String id="9830210" string="[EN] Stage 10&lt;br&gt;[ES] Fase 10" />
+    <String id="9830211" string="[EN] Stage 11&lt;br&gt;[ES] Fase 11" />
+    <String id="9830212" string="[EN] Stage 12&lt;br&gt;[ES] Fase 12" />
+    <String id="9830213" string="[EN] Stage 13&lt;br&gt;[ES] Fase 13" />
+    <String id="9830214" string="[EN] Stage 14&lt;br&gt;[ES] Fase 14" />
+    <String id="9830215" string="[EN] Stage 15&lt;br&gt;[ES] Fase 15" />
+    <String id="9830216" string="[EN] Stage 16&lt;br&gt;[ES] Fase 16" />
+    <String id="9830217" string="[EN] Stage 17&lt;br&gt;[ES] Fase 17" />
+    <String id="9830218" string="[EN] Stage 18&lt;br&gt;[ES] Fase 18" />
+    <String id="9830219" string="[EN] Stage 19&lt;br&gt;[ES] Fase 19" />
+    <String id="9830220" string="[EN] Stage 20&lt;br&gt;[ES] Fase 20" />
+    <String id="9830301" string="[EN] Destroy all monsters!&lt;br&gt;[ES] &amp;#161;Destruye a todos los monstruos!" />
+    <String id="9830302" string="[EN] Defeat as many monsters as you can within 30 seconds.&lt;br&gt;[ES] Derrota a tantos monstruos como puedas en 30 segundos." />
+    <String id="9830303" string="[EN] Warning: Pay attention to the Kumas statues!&lt;br&gt;[ES] Advertencia: &amp;#161;Presta atenci&amp;#243;n a las estatuas de Kumas!" styleId="67" />
+    <String id="9830304" string="[EN] Warning: Avoid ice fields&amp;#8212;unless you like snowmen.&lt;br&gt;[ES] Advertencia: Evita los campos de hielo, a menos que te gusten los mu&amp;#241;ecos de nieve." styleId="67" />
+    <String id="9830305" string="[EN] Defeat the Relic Guardians as fast as you can.&lt;br&gt;[ES] Derrota a los Relic Guardians lo m&amp;#225;s r&amp;#225;pido que puedas." styleId="67" />
+    <String id="9830306" string="[EN] Warning: Stay clear of Jurnagg Columns!&lt;br&gt;[ES] Advertencia: &amp;#161;Al&amp;#233;jate de las columnas Jurnagg!" styleId="67" />
+    <String id="9830307" string="[EN] Warning: Avoid Snapping Gullets.&lt;br&gt;[ES] Advertencia: Evita a los Snapping Gullets." styleId="67" />
+    <String id="9830308" string="[EN] Stay close to Murhak!&lt;br&gt;[ES] &amp;#161;Mantente cerca de Murhak!" styleId="67" />
+    <String id="9830309" string="[EN] Attack Training Dummies to increase your damage.&lt;br&gt;[ES] Ataca a los Training Dummies para aumentar tu da&amp;#241;o." styleId="67" />
+    <String id="9830310" string="[EN] Warning: Zombies have poison attacks!&lt;br&gt;[ES] Advertencia: &amp;#161;Los zombis tienen ataques de veneno!" styleId="67" />
+    <String id="9830311" string="[EN] Warning: Zompori Laborers throw bombs!&lt;br&gt;[ES] Advertencia: &amp;#161;Los Zompori Laborers lanzan bombas!" styleId="67" />
+    <String id="9830312" string="[EN] Warning: Bears have knockdown attacks!&lt;br&gt;[ES] Advertencia: &amp;#161;Los osos tienen ataques de derribo!" styleId="67" />
+    <String id="9830313" string="[EN] Warning: Sabertooths can turn invisible!&lt;br&gt;[ES] Advertencia: &amp;#161;Los Sabertooths pueden volverse invisibles!" styleId="67" />
+    <String id="9830314" string="[EN] Tuwangi. TuWANgi. TUWANGI!&lt;br&gt;[ES] &amp;#161;Tuwangi. TuWANgi. TUWANGI!" styleId="67" />
+    <String id="9830315" string="[EN] Warning: Imps can inflict Chaos!&lt;br&gt;[ES] Advertencia: &amp;#161;Los diablillos pueden infligir Caos!" styleId="67" />
+    <String id="9830316" string="[EN] Warning: Caiman Pirates set explosives!&lt;br&gt;[ES] Advertencia: &amp;#161;Los Caiman Pirates colocan explosivos!" styleId="67" />
+    <String id="9830317" string="[EN] Lure the Kariagons to barrels to damage them.&lt;br&gt;[ES] Atrae a los Kariagons hacia los barriles para da&amp;#241;arlos." styleId="67" />
+    <String id="9830318" string="[EN] Stay close to the totem to reveal invisible hyenas.&lt;br&gt;[ES] Mantente cerca del t&amp;#243;tem para revelar a las hienas invisibles." styleId="67" />
+    <String id="9830319" string="[EN] Lure the Zuulhounds to the center to lower their Defense.&lt;br&gt;[ES] Atrae a los Zuulhounds hacia el centro para reducir su resistencia." styleId="67" />
+    <String id="9830320" string="[EN] &lt;font size='50'&gt;Attack only the delicious watermelons. You will lose points if you attack the wrong type.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='50'&gt;Ataca solo las sand&amp;#237;as deliciosas. Perder&amp;#225;s puntos si atacas al tipo incorrecto.&lt;/font&gt;" styleId="67" />
+    <String id="9830321" string="[EN] Tuwangi! Tuwangi!&lt;br&gt;[ES] &amp;#161;Tuwangi! &amp;#161;Tuwangi!" styleId="67" />
+    <String id="9830900" string="[EN] 10 seconds left.&lt;br&gt;[ES] Quedan 10 segundos." styleId="67" />
+    <String id="9830901" string="[EN] 5 seconds left.&lt;br&gt;[ES] Quedan 5 segundos." styleId="67" />
+    <String id="9830800" string="[EN] You failed the Celestial Arena challenge.&lt;br&gt;[ES] Fallaste el desaf&amp;#237;o de Celestial Arena." />
+    <String id="9830998" string="[EN] Crowd Pleaser!&lt;br&gt;[ES] &amp;#161;Aclamado por el p&amp;#250;blico!" />
+    <String id="9830999" string="[EN] You did it!&lt;br&gt;[ES] &amp;#161;Lo lograste!" />
+    <String id="9830100" string="[EN] A novice boon will activate in 60 seconds.&lt;br&gt;[ES] Una bendici&amp;#243;n de novato se activar&amp;#225; en 60 segundos." styleId="71" />
+    <String id="9830101" string="[EN] A novice boon has been activated (1/3)&lt;br&gt;[ES] Se ha activado una bendici&amp;#243;n de novato (1/3)" styleId="71" />
+    <String id="9830102" string="[EN] A novice boon has been activated (2/3)&lt;br&gt;[ES] Se ha activado una bendici&amp;#243;n de novato (2/3)" styleId="71" />
+    <String id="9830103" string="[EN] A novice boon has been activated (3/3)&lt;br&gt;[ES] Se ha activado una bendici&amp;#243;n de novato (3/3)" styleId="71" />
 </StrSheet_Dungeon>

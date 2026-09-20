@@ -1,41 +1,41 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="9508001" string="The creator is with us./El creador est&amp;#225; con nosotros." />
-    <String id="9508002" string="Your soul screams in anguish./Tu alma grita de angustia." />
-    <String id="9508003" string="The sound of enraged screaming fills the air./El sonido de gritos furiosos llena el aire." styleId="67" />
-    <String id="9508004" string="Guardian? Of what? Who do you guard?/&amp;#191;Guardi&amp;#225;n? &amp;#191;De qu&amp;#233;? &amp;#191;A qui&amp;#233;n guardas?" />
-    <String id="9508005" string="How can you call yourself a Guardian when you're soaked in blood?/&amp;#191;C&amp;#243;mo puedes llamarte Guardi&amp;#225;n cuando est&amp;#225;s empapado en sangre?" />
-    <String id="9508006" string="Do you feel the guilt? The fury?/&amp;#191;Sientes la culpa? &amp;#191;La furia?" />
-    <String id="9508007" string="You will never leave this place!/&amp;#161;Nunca saldr&amp;#225;s de este lugar!" />
-    <String id="9508008" string="All of this... it's only in your mind./Todo esto... solo est&amp;#225; en tu mente." styleId="67" />
-    <String id="9508009" string="I should have lived.../Deber&amp;#237;a haber vivido..." />
-    <String id="9508010" string="I give my soul... to you.../Entrego mi alma... a ti..." />
-    <String id="9508011" string="Why didn't you save me?/&amp;#191;Por qu&amp;#233; no me salvaste?" />
-    <String id="9508012" string="Die! Die! Die!/&amp;#161;Muere! &amp;#161;Muere! &amp;#161;Muere!" />
-    <String id="9508013" string="I was too young to die... it's all because of you!/Era demasiado joven para morir... &amp;#161;todo es por tu culpa!" />
-    <String id="9508014" string="My money... all gone... because of you!/Mi dinero... todo perdido... &amp;#161;por tu culpa!" />
-    <String id="9508015" string="Feel what it's like to be hopeless./Siente lo que es estar sin esperanza." />
-    <String id="9508016" string="Neck Slice!/&amp;#161;Neck Slice!" />
-    <String id="9508017" string="Your thoughts turn ominous!/&amp;#161;Tus pensamientos se vuelven siniestros!" />
-    <String id="9508018" string="Behind you! Watch out!/&amp;#161;Detr&amp;#225;s de ti! &amp;#161;Cuidado!" />
-    <String id="9508019" string="Mystel's Blessing decreases your cooldown for Apex skills./Mystel's Blessing reduce tu tiempo de reutilizaci&amp;#243;n para habilidades Apex." styleId="67" />
-    <String id="9508020" string="Only an Apex skill can conquer your Temper./Solo una habilidad Apex puede conquistar tu Temper." styleId="67" />
-    <String id="9508021" string="Only an Apex skill can master your Self-Doubt./Solo una habilidad Apex puede dominar tu Self-Doubt." styleId="67" />
-    <String id="9508022" string="Only an Apex skill can banish your Guilt./Solo una habilidad Apex puede desterrar tu Guilt." styleId="67" />
-    <String id="9508023" string="You acquired Apex glyphs./Adquiriste glifos Apex." styleId="66" />
-    <String id="9508024" string="Look upon the core of your Temper./Contempla el n&amp;#250;cleo de tu Temper." styleId="67" />
-    <String id="9508025" string="Look upon the core of your Self-Doubt./Contempla el n&amp;#250;cleo de tu Self-Doubt." styleId="67" />
-    <String id="9508026" string="Look upon the core of your Guilt./Contempla el n&amp;#250;cleo de tu Guilt." styleId="67" />
-    <String id="9508027" string="Overcome your Temper./Supera tu Temper." styleId="67" />
-    <String id="9508028" string="Overcome your Self-Doubt./Supera tu Self-Doubt." styleId="67" />
-    <String id="9508029" string="Overcome your Guilt./Supera tu Guilt." styleId="67" />
-    <String id="9508030" string="Confront your Aggravation again, when you're ready./Enfrenta tu Aggravation de nuevo, cuando est&amp;#233;s listo." styleId="67" />
-    <String id="9508031" string="Address your Indecision again, when you're ready./Aborda tu Indecision de nuevo, cuando est&amp;#233;s listo." styleId="67" />
-    <String id="9508032" string="Acknowledge your Responsibilty again, when you're ready./Reconoce tu responsabilidad de nuevo cuando est&amp;#233;s listo." styleId="67" />
-    <String id="9508033" string="You feel a growing confidence./Sientes una confianza creciente." styleId="66" />
-    <String id="9508034" string="You feel an overwhelming strength building deep within your soul./Sientes una fuerza abrumadora form&amp;#225;ndose en lo m&amp;#225;s profundo de tu alma." styleId="66" />
-    <String id="9508035" string="You have awakened./Has despertado." styleId="66" />
-    <String id="9508036" string="You feel your inner strength becoming unstoppable./Sientes que tu fuerza interior se vuelve imparable." styleId="66" />
-    <String id="9508037" string="You have acquired all Apex skills./Has adquirido todas las habilidades Apex." styleId="67" />
-    <String id="9508038" string="You acquired Apex glyphs./Adquiriste glifos Apex." styleId="67" />
-    <String id="9508039" string="You acquired an Apex title./Has adquirido un t&amp;#237;tulo Apex." styleId="67" />
+    <String id="9508001" string="[EN] The creator is with us.&lt;br&gt;[ES] El creador est&amp;#225; con nosotros." />
+    <String id="9508002" string="[EN] Your soul screams in anguish.&lt;br&gt;[ES] Tu alma grita de angustia." />
+    <String id="9508003" string="[EN] The sound of enraged screaming fills the air.&lt;br&gt;[ES] El sonido de gritos furiosos llena el aire." styleId="67" />
+    <String id="9508004" string="[EN] Guardian? Of what? Who do you guard?&lt;br&gt;[ES] &amp;#191;Guardi&amp;#225;n? &amp;#191;De qu&amp;#233;? &amp;#191;A qui&amp;#233;n guardas?" />
+    <String id="9508005" string="[EN] How can you call yourself a Guardian when you're soaked in blood?&lt;br&gt;[ES] &amp;#191;C&amp;#243;mo puedes llamarte Guardi&amp;#225;n cuando est&amp;#225;s empapado en sangre?" />
+    <String id="9508006" string="[EN] Do you feel the guilt? The fury?&lt;br&gt;[ES] &amp;#191;Sientes la culpa? &amp;#191;La furia?" />
+    <String id="9508007" string="[EN] You will never leave this place!&lt;br&gt;[ES] &amp;#161;Nunca saldr&amp;#225;s de este lugar!" />
+    <String id="9508008" string="[EN] All of this... it's only in your mind.&lt;br&gt;[ES] Todo esto... solo est&amp;#225; en tu mente." styleId="67" />
+    <String id="9508009" string="[EN] I should have lived...&lt;br&gt;[ES] Deber&amp;#237;a haber vivido..." />
+    <String id="9508010" string="[EN] I give my soul... to you...&lt;br&gt;[ES] Entrego mi alma... a ti..." />
+    <String id="9508011" string="[EN] Why didn't you save me?&lt;br&gt;[ES] &amp;#191;Por qu&amp;#233; no me salvaste?" />
+    <String id="9508012" string="[EN] Die! Die! Die!&lt;br&gt;[ES] &amp;#161;Muere! &amp;#161;Muere! &amp;#161;Muere!" />
+    <String id="9508013" string="[EN] I was too young to die... it's all because of you!&lt;br&gt;[ES] Era demasiado joven para morir... &amp;#161;todo es por tu culpa!" />
+    <String id="9508014" string="[EN] My money... all gone... because of you!&lt;br&gt;[ES] Mi dinero... todo perdido... &amp;#161;por tu culpa!" />
+    <String id="9508015" string="[EN] Feel what it's like to be hopeless.&lt;br&gt;[ES] Siente lo que es estar sin esperanza." />
+    <String id="9508016" string="[EN] Neck Slice!&lt;br&gt;[ES] &amp;#161;Neck Slice!" />
+    <String id="9508017" string="[EN] Your thoughts turn ominous!&lt;br&gt;[ES] &amp;#161;Tus pensamientos se vuelven siniestros!" />
+    <String id="9508018" string="[EN] Behind you! Watch out!&lt;br&gt;[ES] &amp;#161;Detr&amp;#225;s de ti! &amp;#161;Cuidado!" />
+    <String id="9508019" string="[EN] Mystel's Blessing decreases your cooldown for Apex skills.&lt;br&gt;[ES] Mystel's Blessing reduce tu tiempo de reutilizaci&amp;#243;n para habilidades Apex." styleId="67" />
+    <String id="9508020" string="[EN] Only an Apex skill can conquer your Temper.&lt;br&gt;[ES] Solo una habilidad Apex puede conquistar tu Temper." styleId="67" />
+    <String id="9508021" string="[EN] Only an Apex skill can master your Self-Doubt.&lt;br&gt;[ES] Solo una habilidad Apex puede dominar tu Self-Doubt." styleId="67" />
+    <String id="9508022" string="[EN] Only an Apex skill can banish your Guilt.&lt;br&gt;[ES] Solo una habilidad Apex puede desterrar tu Guilt." styleId="67" />
+    <String id="9508023" string="[EN] You acquired Apex glyphs.&lt;br&gt;[ES] Adquiriste glifos Apex." styleId="66" />
+    <String id="9508024" string="[EN] Look upon the core of your Temper.&lt;br&gt;[ES] Contempla el n&amp;#250;cleo de tu Temper." styleId="67" />
+    <String id="9508025" string="[EN] Look upon the core of your Self-Doubt.&lt;br&gt;[ES] Contempla el n&amp;#250;cleo de tu Self-Doubt." styleId="67" />
+    <String id="9508026" string="[EN] Look upon the core of your Guilt.&lt;br&gt;[ES] Contempla el n&amp;#250;cleo de tu Guilt." styleId="67" />
+    <String id="9508027" string="[EN] Overcome your Temper.&lt;br&gt;[ES] Supera tu Temper." styleId="67" />
+    <String id="9508028" string="[EN] Overcome your Self-Doubt.&lt;br&gt;[ES] Supera tu Self-Doubt." styleId="67" />
+    <String id="9508029" string="[EN] Overcome your Guilt.&lt;br&gt;[ES] Supera tu Guilt." styleId="67" />
+    <String id="9508030" string="[EN] Confront your Aggravation again, when you're ready.&lt;br&gt;[ES] Enfrenta tu Aggravation de nuevo, cuando est&amp;#233;s listo." styleId="67" />
+    <String id="9508031" string="[EN] Address your Indecision again, when you're ready.&lt;br&gt;[ES] Aborda tu Indecision de nuevo, cuando est&amp;#233;s listo." styleId="67" />
+    <String id="9508032" string="[EN] Acknowledge your Responsibilty again, when you're ready.&lt;br&gt;[ES] Reconoce tu responsabilidad de nuevo cuando est&amp;#233;s listo." styleId="67" />
+    <String id="9508033" string="[EN] You feel a growing confidence.&lt;br&gt;[ES] Sientes una confianza creciente." styleId="66" />
+    <String id="9508034" string="[EN] You feel an overwhelming strength building deep within your soul.&lt;br&gt;[ES] Sientes una fuerza abrumadora form&amp;#225;ndose en lo m&amp;#225;s profundo de tu alma." styleId="66" />
+    <String id="9508035" string="[EN] You have awakened.&lt;br&gt;[ES] Has despertado." styleId="66" />
+    <String id="9508036" string="[EN] You feel your inner strength becoming unstoppable.&lt;br&gt;[ES] Sientes que tu fuerza interior se vuelve imparable." styleId="66" />
+    <String id="9508037" string="[EN] You have acquired all Apex skills.&lt;br&gt;[ES] Has adquirido todas las habilidades Apex." styleId="67" />
+    <String id="9508038" string="[EN] You acquired Apex glyphs.&lt;br&gt;[ES] Adquiriste glifos Apex." styleId="67" />
+    <String id="9508039" string="[EN] You acquired an Apex title.&lt;br&gt;[ES] Has adquirido un t&amp;#237;tulo Apex." styleId="67" />
 </StrSheet_Dungeon>

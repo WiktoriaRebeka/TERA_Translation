@@ -1,52 +1,52 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="30260001" string="Inner Temperature/Temperatura interna" />
-    <String id="30260002" string="A strange aura is coming from inside the sanctum./Una extra&amp;#241;a aura proviene del interior del santuario." styleId="71" />
-    <String id="30260003" string="You can feel power emanating from the center of the Sanctum./Puedes sentir un poder que emana del centro del santuario." styleId="71" />
+    <String id="30260001" string="[EN] Inner Temperature&lt;br&gt;[ES] Temperatura interna" />
+    <String id="30260002" string="[EN] A strange aura is coming from inside the sanctum.&lt;br&gt;[ES] Una extra&amp;#241;a aura proviene del interior del santuario." styleId="71" />
+    <String id="30260003" string="[EN] You can feel power emanating from the center of the Sanctum.&lt;br&gt;[ES] Puedes sentir un poder que emana del centro del santuario." styleId="71" />
     <String id="30260004" string="" />
-    <String id="30260005" string="The gates will close soon./Las puertas se cerrar&amp;#225;n pronto." styleId="71" />
-    <String id="30260006" string="Jump to knock off all the parasites!/&amp;#161;Salta para quitarte todos los par&amp;#225;sitos!" styleId="71" />
-    <String id="30260007" string="Argon parasites cling to your body./Par&amp;#225;sitos de arg&amp;#243;n se aferran a tu cuerpo." styleId="71" />
-    <String id="30260008" string="With the power of the Argons, I rise again!/&amp;#161;Con el poder de los argones, me levanto de nuevo!" styleId="70" />
-    <String id="30260009" string="You shall pay!/&amp;#161;Lo pagar&amp;#225;s!" styleId="70" />
-    <String id="30260010" string="Kelsaik is faltering.../Kelsaik est&amp;#225; flaqueando..." />
-    <String id="30260011" string="Kelsaik approaches./Kelsaik se acerca." styleId="71" />
-    <String id="30260012" string="Failed to balance temperature. The air in the battle area is unstable./No se pudo equilibrar la temperatura. El aire en el &amp;#225;rea de combate es inestable." styleId="71" />
-    <String id="30260013" string="Raging Kelsaik is unstoppable./El Kelsaik furioso es imparable." styleId="71" />
-    <String id="30260014" string="Kelsaik grows stronger./Kelsaik se vuelve m&amp;#225;s fuerte." styleId="71" />
-    <String id="30260015" string="A Mana Field has activated. The battle area is corroding./Un campo de man&amp;#225; se ha activado. El &amp;#225;rea de combate se est&amp;#225; corroyendo." styleId="71" />
-    <String id="30260016" string="Battle area corrosion is speeding up./La corrosi&amp;#243;n del &amp;#225;rea de combate se est&amp;#225; acelerando." styleId="71" />
-    <String id="30260017" string="Mana Field is fully powered./El campo de man&amp;#225; est&amp;#225; completamente cargado." styleId="71" />
-    <String id="30260018" string="Kelsaik has been defeated!/&amp;#161;Kelsaik ha sido derrotado!" styleId="71" />
-    <String id="30260019" string="Frostbite Avatar/Avatar de escarcha" />
-    <String id="30260020" string="Blazing Avatar/Avatar ardiente" />
-    <String id="30260021" string="Enough! You shall not leave this place alive!/&amp;#161;Basta! &amp;#161;No saldr&amp;#225;n de aqu&amp;#237; con vida!" styleId="66" />
-    <String id="3026002" string="Blazing and Frostbite Argon Priests approach./Los Argon Priests de Fuego y Escarcha se acercan." />
-    <String id="3026003" string="The Argon Priest is trying to enrage Kelsaik./El Priest Arg&amp;#243;n est&amp;#225; intentando enfurecer a Kelsaik." />
-    <String id="3026004" string="The Argon Priest has been eliminated./El Argon Priest ha sido eliminado." />
-    <String id="3026005" string="Kelsaik's avatar approaches. Collect the Argon Priest Essence and go to the leaping board./El avatar de Kelsaik se acerca. Recoge la Argon Priest Essence y ve al trampol&amp;#237;n." />
-    <String id="3026006" string="Kelsaik's avatar has been eliminated./El avatar de Kelsaik ha sido eliminado." />
-    <String id="3026007" string="Defeat the Argon Priest that matches the element to stop Kelsaik's rage./Derrota al Argon Priest que coincida con el elemento para detener la ira de Kelsaik." />
-    <String id="3026008" string="You defeated the Frostbite Avatar. Frostshield is deactivated./Has derrotado al avatar de congelaci&amp;#243;n. El escudo de escarcha est&amp;#225; desactivado." />
-    <String id="3026009" string="You defeated the Blazing Avatar. Blazeshield is deactivated./Has derrotado al avatar llameante. El escudo de llamas est&amp;#225; desactivado." />
-    <String id="3026010" string="You must escape before the wrath of the flame captures you./Debes escapar antes de que la ira de la llama te atrap&amp;#233;." />
-    <String id="3026015" string="You failed to defeat the Frostbite Avatar. The battle area will get dangerously cold./No has podido derrotar al avatar de congelaci&amp;#243;n. El &amp;#225;rea de combate se pondr&amp;#225; peligrosamente fr&amp;#237;a." />
-    <String id="3026017" string="You failed to defeat the Blazing Avatar. The battle area will get dangerously hot./No has podido derrotar al avatar llameante. El &amp;#225;rea de combate se pondr&amp;#225; peligrosamente caliente." />
-    <String id="3026018" string="Kelsaik absorbs the raging flame aura./Kelsaik absorbe el aura de llama furiosa." />
-    <String id="3026019" string="Kelsaik absorbs the chilling frost aura./Kelsaik absorbe el aura de escarcha helada." />
-    <String id="3026020" string="Fools! That fire will do nothing!/&amp;#161;Insensatos! &amp;#161;Ese fuego no har&amp;#225; nada!" styleId="70" />
-    <String id="3026021" string="Fools! That frost will do nothing!/&amp;#161;Insensatos! &amp;#161;Esa escarcha no har&amp;#225; nada!" styleId="70" />
-    <String id="3026022" string="The temperature rises!/&amp;#161;La temperatura sube!" />
-    <String id="3026023" string="The temperature drops!/&amp;#161;La temperatura baja!" />
-    <String id="3026404" string="Kelsaik is protected by the Frostshield and the Blazeshield./Kelsaik est&amp;#225; protegido por el escudo de escarcha y el escudo de llamas." />
-    <String id="3026405" string="All skill damage will decrease by 25% if the doom and shield attributes match./Todo el da&amp;#241;o de las habilidades se reducir&amp;#225; un 25% si los atributos de perdici&amp;#243;n y escudo coinciden." />
-    <String id="3026407" string="Kelsaik is losing mana!/&amp;#161;Kelsaik est&amp;#225; perdiendo man&amp;#225;!" />
-    <String id="3026408" string="Decreases healing effects by 50% and cooldown of all skills by 25%./Reduce los efectos de curaci&amp;#243;n un 50% y el tiempo de reutilizaci&amp;#243;n de todas las habilidades un 25%." />
-    <String id="3026409" string="Kelsaik is losing mana faster!/&amp;#161;Kelsaik est&amp;#225; perdiendo man&amp;#225; m&amp;#225;s r&amp;#225;pido!" />
-    <String id="3026410" string="Mana drain at maximum./Drenaje de man&amp;#225; al m&amp;#225;ximo." />
-    <String id="3026300" string="The butterflies are creating falling chunks of amber./Las mariposas est&amp;#225;n creando trozos de &amp;#225;mbar que caen." styleId="71" />
-    <String id="3026301" string="Amber chunks will generate faster increases as time passes./Los trozos de &amp;#225;mbar se generar&amp;#225;n m&amp;#225;s r&amp;#225;pido a medida que pase el tiempo." styleId="71" />
-    <String id="3026302" string="The number of amber chunks is increasing./El n&amp;#250;mero de trozos de &amp;#225;mbar est&amp;#225; aumentando." styleId="71" />
-    <String id="3026303" string="Amber chunks are falling./Los trozos de &amp;#225;mbar est&amp;#225;n cayendo." styleId="71" />
-    <String id="3026304" string="More amber chunks are falling./Est&amp;#225;n cayendo m&amp;#225;s trozos de &amp;#225;mbar." styleId="71" />
-    <String id="3026305" string="The falling amber chunks are out of control. This is the end./Los trozos de &amp;#225;mbar que caen est&amp;#225;n fuera de control. Este es el fin." styleId="71" />
+    <String id="30260005" string="[EN] The gates will close soon.&lt;br&gt;[ES] Las puertas se cerrar&amp;#225;n pronto." styleId="71" />
+    <String id="30260006" string="[EN] Jump to knock off all the parasites!&lt;br&gt;[ES] &amp;#161;Salta para quitarte todos los par&amp;#225;sitos!" styleId="71" />
+    <String id="30260007" string="[EN] Argon parasites cling to your body.&lt;br&gt;[ES] Par&amp;#225;sitos de arg&amp;#243;n se aferran a tu cuerpo." styleId="71" />
+    <String id="30260008" string="[EN] With the power of the Argons, I rise again!&lt;br&gt;[ES] &amp;#161;Con el poder de los argones, me levanto de nuevo!" styleId="70" />
+    <String id="30260009" string="[EN] You shall pay!&lt;br&gt;[ES] &amp;#161;Lo pagar&amp;#225;s!" styleId="70" />
+    <String id="30260010" string="[EN] Kelsaik is faltering...&lt;br&gt;[ES] Kelsaik est&amp;#225; flaqueando..." />
+    <String id="30260011" string="[EN] Kelsaik approaches.&lt;br&gt;[ES] Kelsaik se acerca." styleId="71" />
+    <String id="30260012" string="[EN] Failed to balance temperature. The air in the battle area is unstable.&lt;br&gt;[ES] No se pudo equilibrar la temperatura. El aire en el &amp;#225;rea de combate es inestable." styleId="71" />
+    <String id="30260013" string="[EN] Raging Kelsaik is unstoppable.&lt;br&gt;[ES] El Kelsaik furioso es imparable." styleId="71" />
+    <String id="30260014" string="[EN] Kelsaik grows stronger.&lt;br&gt;[ES] Kelsaik se vuelve m&amp;#225;s fuerte." styleId="71" />
+    <String id="30260015" string="[EN] A Mana Field has activated. The battle area is corroding.&lt;br&gt;[ES] Un campo de man&amp;#225; se ha activado. El &amp;#225;rea de combate se est&amp;#225; corroyendo." styleId="71" />
+    <String id="30260016" string="[EN] Battle area corrosion is speeding up.&lt;br&gt;[ES] La corrosi&amp;#243;n del &amp;#225;rea de combate se est&amp;#225; acelerando." styleId="71" />
+    <String id="30260017" string="[EN] Mana Field is fully powered.&lt;br&gt;[ES] El campo de man&amp;#225; est&amp;#225; completamente cargado." styleId="71" />
+    <String id="30260018" string="[EN] Kelsaik has been defeated!&lt;br&gt;[ES] &amp;#161;Kelsaik ha sido derrotado!" styleId="71" />
+    <String id="30260019" string="[EN] Frostbite Avatar&lt;br&gt;[ES] Avatar de escarcha" />
+    <String id="30260020" string="[EN] Blazing Avatar&lt;br&gt;[ES] Avatar ardiente" />
+    <String id="30260021" string="[EN] Enough! You shall not leave this place alive!&lt;br&gt;[ES] &amp;#161;Basta! &amp;#161;No saldr&amp;#225;n de aqu&amp;#237; con vida!" styleId="66" />
+    <String id="3026002" string="[EN] Blazing and Frostbite Argon Priests approach.&lt;br&gt;[ES] Los Argon Priests de Fuego y Escarcha se acercan." />
+    <String id="3026003" string="[EN] The Argon Priest is trying to enrage Kelsaik.&lt;br&gt;[ES] El Priest Arg&amp;#243;n est&amp;#225; intentando enfurecer a Kelsaik." />
+    <String id="3026004" string="[EN] The Argon Priest has been eliminated.&lt;br&gt;[ES] El Argon Priest ha sido eliminado." />
+    <String id="3026005" string="[EN] Kelsaik's avatar approaches. Collect the Argon Priest Essence and go to the leaping board.&lt;br&gt;[ES] El avatar de Kelsaik se acerca. Recoge la Argon Priest Essence y ve al trampol&amp;#237;n." />
+    <String id="3026006" string="[EN] Kelsaik's avatar has been eliminated.&lt;br&gt;[ES] El avatar de Kelsaik ha sido eliminado." />
+    <String id="3026007" string="[EN] Defeat the Argon Priest that matches the element to stop Kelsaik's rage.&lt;br&gt;[ES] Derrota al Argon Priest que coincida con el elemento para detener la ira de Kelsaik." />
+    <String id="3026008" string="[EN] You defeated the Frostbite Avatar. Frostshield is deactivated.&lt;br&gt;[ES] Has derrotado al avatar de congelaci&amp;#243;n. El escudo de escarcha est&amp;#225; desactivado." />
+    <String id="3026009" string="[EN] You defeated the Blazing Avatar. Blazeshield is deactivated.&lt;br&gt;[ES] Has derrotado al avatar llameante. El escudo de llamas est&amp;#225; desactivado." />
+    <String id="3026010" string="[EN] You must escape before the wrath of the flame captures you.&lt;br&gt;[ES] Debes escapar antes de que la ira de la llama te atrap&amp;#233;." />
+    <String id="3026015" string="[EN] You failed to defeat the Frostbite Avatar. The battle area will get dangerously cold.&lt;br&gt;[ES] No has podido derrotar al avatar de congelaci&amp;#243;n. El &amp;#225;rea de combate se pondr&amp;#225; peligrosamente fr&amp;#237;a." />
+    <String id="3026017" string="[EN] You failed to defeat the Blazing Avatar. The battle area will get dangerously hot.&lt;br&gt;[ES] No has podido derrotar al avatar llameante. El &amp;#225;rea de combate se pondr&amp;#225; peligrosamente caliente." />
+    <String id="3026018" string="[EN] Kelsaik absorbs the raging flame aura.&lt;br&gt;[ES] Kelsaik absorbe el aura de llama furiosa." />
+    <String id="3026019" string="[EN] Kelsaik absorbs the chilling frost aura.&lt;br&gt;[ES] Kelsaik absorbe el aura de escarcha helada." />
+    <String id="3026020" string="[EN] Fools! That fire will do nothing!&lt;br&gt;[ES] &amp;#161;Insensatos! &amp;#161;Ese fuego no har&amp;#225; nada!" styleId="70" />
+    <String id="3026021" string="[EN] Fools! That frost will do nothing!&lt;br&gt;[ES] &amp;#161;Insensatos! &amp;#161;Esa escarcha no har&amp;#225; nada!" styleId="70" />
+    <String id="3026022" string="[EN] The temperature rises!&lt;br&gt;[ES] &amp;#161;La temperatura sube!" />
+    <String id="3026023" string="[EN] The temperature drops!&lt;br&gt;[ES] &amp;#161;La temperatura baja!" />
+    <String id="3026404" string="[EN] Kelsaik is protected by the Frostshield and the Blazeshield.&lt;br&gt;[ES] Kelsaik est&amp;#225; protegido por el escudo de escarcha y el escudo de llamas." />
+    <String id="3026405" string="[EN] All skill damage will decrease by 25% if the doom and shield attributes match.&lt;br&gt;[ES] Todo el da&amp;#241;o de las habilidades se reducir&amp;#225; un 25% si los atributos de perdici&amp;#243;n y escudo coinciden." />
+    <String id="3026407" string="[EN] Kelsaik is losing mana!&lt;br&gt;[ES] &amp;#161;Kelsaik est&amp;#225; perdiendo man&amp;#225;!" />
+    <String id="3026408" string="[EN] Decreases healing effects by 50% and cooldown of all skills by 25%.&lt;br&gt;[ES] Reduce los efectos de curaci&amp;#243;n un 50% y el tiempo de reutilizaci&amp;#243;n de todas las habilidades un 25%." />
+    <String id="3026409" string="[EN] Kelsaik is losing mana faster!&lt;br&gt;[ES] &amp;#161;Kelsaik est&amp;#225; perdiendo man&amp;#225; m&amp;#225;s r&amp;#225;pido!" />
+    <String id="3026410" string="[EN] Mana drain at maximum.&lt;br&gt;[ES] Drenaje de man&amp;#225; al m&amp;#225;ximo." />
+    <String id="3026300" string="[EN] The butterflies are creating falling chunks of amber.&lt;br&gt;[ES] Las mariposas est&amp;#225;n creando trozos de &amp;#225;mbar que caen." styleId="71" />
+    <String id="3026301" string="[EN] Amber chunks will generate faster increases as time passes.&lt;br&gt;[ES] Los trozos de &amp;#225;mbar se generar&amp;#225;n m&amp;#225;s r&amp;#225;pido a medida que pase el tiempo." styleId="71" />
+    <String id="3026302" string="[EN] The number of amber chunks is increasing.&lt;br&gt;[ES] El n&amp;#250;mero de trozos de &amp;#225;mbar est&amp;#225; aumentando." styleId="71" />
+    <String id="3026303" string="[EN] Amber chunks are falling.&lt;br&gt;[ES] Los trozos de &amp;#225;mbar est&amp;#225;n cayendo." styleId="71" />
+    <String id="3026304" string="[EN] More amber chunks are falling.&lt;br&gt;[ES] Est&amp;#225;n cayendo m&amp;#225;s trozos de &amp;#225;mbar." styleId="71" />
+    <String id="3026305" string="[EN] The falling amber chunks are out of control. This is the end.&lt;br&gt;[ES] Los trozos de &amp;#225;mbar que caen est&amp;#225;n fuera de control. Este es el fin." styleId="71" />
 </StrSheet_Dungeon>

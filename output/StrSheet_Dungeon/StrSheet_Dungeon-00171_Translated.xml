@@ -1,39 +1,39 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="9825001" string="The temple gate opens./La puerta del templo se abre." />
-    <String id="9825002" string="The golem power aura activates./El aura de poder del golem se activa." />
-    <String id="9825003" string="The golem maintenance device activates./El dispositivo de mantenimiento del golem se activa." />
-    <String id="9825004" string="The golem production device activates./El dispositivo de producci&amp;#243;n del golem se activa." />
-    <String id="9825005" string="Power is about to flow to the left pond./El poder est&amp;#225; a punto de fluir hacia el estanque izquierdo." />
-    <String id="9825006" string="Power cut to the left pond./Corte de energ&amp;#237;a en el estanque izquierdo." />
-    <String id="9825007" string="Power is about to flow to the right pond./La energ&amp;#237;a est&amp;#225; a punto de fluir hacia el estanque derecho." />
-    <String id="9825008" string="Power cut to the right pond./Corte de energ&amp;#237;a en el estanque derecho." />
-    <String id="9825027" string="Minions approach. Lure them into a pond and throw the switch./Se acercan esbirros. Atr&amp;#225;elos a un estanque y activa el interruptor." />
-    <String id="9825009" string="Start/Comenzar" />
-    <String id="9825010" string="Prepare for the second stage./Prep&amp;#225;rate para la segunda etapa." />
-    <String id="9825011" string="Prepare for the third stage./Prep&amp;#225;rate para la tercera etapa." />
-    <String id="9825012" string="Complete./Completado." />
-    <String id="9825013" string="Destroy the fourth jar./Destruye la cuarta jarra." />
-    <String id="9825014" string="Destroy the fifth jar./Destruye la quinta jarra." />
-    <String id="9825015" string="The temple guardians approach./Los guardianes del templo se acercan." />
-    <String id="9825016" string="The temple guardians approach./Los guardianes del templo se acercan." />
-    <String id="9825017" string="The temple guardians approach./Los guardianes del templo se acercan." />
-    <String id="9825018" string="Light glints off the mirror./La luz brilla en el espejo." />
-    <String id="9825019" string="Auricadis gathers power to strike./Auricadis re&amp;#250;ne energ&amp;#237;a para atacar." />
-    <String id="9825020" string="A trap is sprung./Se ha activado una trampa." />
-    <String id="9825021" string="You've failed. Please try again./Has fallado. Por favor, int&amp;#233;ntalo de nuevo." />
-    <String id="9825022" string="The guardian absorbs all the energy./El guardi&amp;#225;n absorbe toda la energ&amp;#237;a." />
-    <String id="9825023" string="The door opens./La puerta se abre." />
-    <String id="9825024" string="A powerful weapon appears./Aparece un arma poderosa." />
-    <String id="9825025" string="Power surges through your body./El poder fluye a trav&amp;#233;s de tu cuerpo." />
-    <String id="9825026" string="A dimensional mirror appears./Aparece un espejo dimensional." />
-    <String id="9825101" string="1/1" />
-    <String id="9825102" string="2/2" />
-    <String id="9825103" string="3/3" />
-    <String id="9825104" string="4/4" />
-    <String id="9825105" string="5/5" />
-    <String id="9825106" string="6/6" />
-    <String id="9825107" string="7/7" />
-    <String id="9825108" string="8/8" />
-    <String id="9825109" string="9/9" />
-    <String id="9825110" string="10/10" />
+    <String id="9825001" string="[EN] The temple gate opens.&lt;br&gt;[ES] La puerta del templo se abre." />
+    <String id="9825002" string="[EN] The golem power aura activates.&lt;br&gt;[ES] El aura de poder del golem se activa." />
+    <String id="9825003" string="[EN] The golem maintenance device activates.&lt;br&gt;[ES] El dispositivo de mantenimiento del golem se activa." />
+    <String id="9825004" string="[EN] The golem production device activates.&lt;br&gt;[ES] El dispositivo de producci&amp;#243;n del golem se activa." />
+    <String id="9825005" string="[EN] Power is about to flow to the left pond.&lt;br&gt;[ES] El poder est&amp;#225; a punto de fluir hacia el estanque izquierdo." />
+    <String id="9825006" string="[EN] Power cut to the left pond.&lt;br&gt;[ES] Corte de energ&amp;#237;a en el estanque izquierdo." />
+    <String id="9825007" string="[EN] Power is about to flow to the right pond.&lt;br&gt;[ES] La energ&amp;#237;a est&amp;#225; a punto de fluir hacia el estanque derecho." />
+    <String id="9825008" string="[EN] Power cut to the right pond.&lt;br&gt;[ES] Corte de energ&amp;#237;a en el estanque derecho." />
+    <String id="9825027" string="[EN] Minions approach. Lure them into a pond and throw the switch.&lt;br&gt;[ES] Se acercan esbirros. Atr&amp;#225;elos a un estanque y activa el interruptor." />
+    <String id="9825009" string="[EN] Start&lt;br&gt;[ES] Comenzar" />
+    <String id="9825010" string="[EN] Prepare for the second stage.&lt;br&gt;[ES] Prep&amp;#225;rate para la segunda etapa." />
+    <String id="9825011" string="[EN] Prepare for the third stage.&lt;br&gt;[ES] Prep&amp;#225;rate para la tercera etapa." />
+    <String id="9825012" string="[EN] Complete.&lt;br&gt;[ES] Completado." />
+    <String id="9825013" string="[EN] Destroy the fourth jar.&lt;br&gt;[ES] Destruye la cuarta jarra." />
+    <String id="9825014" string="[EN] Destroy the fifth jar.&lt;br&gt;[ES] Destruye la quinta jarra." />
+    <String id="9825015" string="[EN] The temple guardians approach.&lt;br&gt;[ES] Los guardianes del templo se acercan." />
+    <String id="9825016" string="[EN] The temple guardians approach.&lt;br&gt;[ES] Los guardianes del templo se acercan." />
+    <String id="9825017" string="[EN] The temple guardians approach.&lt;br&gt;[ES] Los guardianes del templo se acercan." />
+    <String id="9825018" string="[EN] Light glints off the mirror.&lt;br&gt;[ES] La luz brilla en el espejo." />
+    <String id="9825019" string="[EN] Auricadis gathers power to strike.&lt;br&gt;[ES] Auricadis re&amp;#250;ne energ&amp;#237;a para atacar." />
+    <String id="9825020" string="[EN] A trap is sprung.&lt;br&gt;[ES] Se ha activado una trampa." />
+    <String id="9825021" string="[EN] You've failed. Please try again.&lt;br&gt;[ES] Has fallado. Por favor, int&amp;#233;ntalo de nuevo." />
+    <String id="9825022" string="[EN] The guardian absorbs all the energy.&lt;br&gt;[ES] El guardi&amp;#225;n absorbe toda la energ&amp;#237;a." />
+    <String id="9825023" string="[EN] The door opens.&lt;br&gt;[ES] La puerta se abre." />
+    <String id="9825024" string="[EN] A powerful weapon appears.&lt;br&gt;[ES] Aparece un arma poderosa." />
+    <String id="9825025" string="[EN] Power surges through your body.&lt;br&gt;[ES] El poder fluye a trav&amp;#233;s de tu cuerpo." />
+    <String id="9825026" string="[EN] A dimensional mirror appears.&lt;br&gt;[ES] Aparece un espejo dimensional." />
+    <String id="9825101" string="1" />
+    <String id="9825102" string="2" />
+    <String id="9825103" string="3" />
+    <String id="9825104" string="4" />
+    <String id="9825105" string="5" />
+    <String id="9825106" string="6" />
+    <String id="9825107" string="7" />
+    <String id="9825108" string="8" />
+    <String id="9825109" string="9" />
+    <String id="9825110" string="10" />
 </StrSheet_Dungeon>

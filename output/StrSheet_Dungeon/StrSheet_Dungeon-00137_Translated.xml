@@ -1,27 +1,27 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="9750001" string="Maximum HP increased by 20%./HP m&amp;#225;ximo aumentado un 20%." styleId="37" />
-    <String id="9750002" string="Power increased by 10%./Poder aumentado un 10%." styleId="37" />
-    <String id="9750003" string="&lt;font size='30'&gt;The combat area is closing.&lt;/font&gt;/&lt;font size='30'&gt;La zona de combate se est&amp;#225; cerrando.&lt;/font&gt;" styleId="37" />
-    <String id="9750004" string="&lt;font size='30'&gt;Destroy the Manacache and choose among three paths.&lt;/font&gt;/&lt;font size='30'&gt;Destruye el Manacache y elige entre tres caminos.&lt;/font&gt;" styleId="37" />
-    <String id="9750005" string="You have selected the Path of the Unknown./Has seleccionado el Camino de lo Desconocido." styleId="37" />
-    <String id="9750006" string="You have selected the Cliff Passage of Koleogg./Has seleccionado el Pasaje del Acantilado de Koleogg." styleId="37" />
-    <String id="9750007" string="You selected the Force Platform./Has seleccionado la Plataforma de Fuerza." styleId="37" />
-    <String id="9750008" string="Acidity/Acidez" />
-    <String id="9750009" string="It is diffficult to breathe due to the high acidity of the area./Es dif&amp;#237;cil respirar debido a la alta acidez del &amp;#225;rea." styleId="71" />
-    <String id="9750010" string="Can&amp;#8217;t dodge Vesporax&amp;#8217;s attack./No puedes esquivar el ataque de Vesporax." styleId="71" />
-    <String id="9750011" string="Skyreach Flower removes toxin from each party member./Skyreach Flower elimina la toxina de cada miembro del grupo." styleId="37" />
-    <String id="9750012" string="Defeat every Oddritu in 15 seconds./Derrota a cada Oddritu en 15 segundos." styleId="37" />
-    <String id="9750013" string="Failed to destroy all the Oddritus. Yativio delivers a wide-area attack./No se pudieron destruir todos los Oddritus. Yativio lanza un ataque de &amp;#225;rea amplia." styleId="71" />
-    <String id="9750014" string="Skyreach Flower has appeared. Each party member will be cured if you destroy it./Ha aparecido Skyreach Flower. Cada miembro del grupo ser&amp;#225; curado si la destruyes." styleId="37" />
-    <String id="9750015" string="Lightning will strike the Lightning Induction Device for 40 seconds./Caer&amp;#225;n rayos sobre el Lightning Induction Device durante 40 segundos." styleId="37" />
-    <String id="9750016" string="Berserk Tuberelle appeared! Berserk Tuberelle&amp;#8217;s self-destruct damages Yativio, too!/&amp;#161;Apareci&amp;#243; Berserk Tuberelle! &amp;#161;La autodestrucci&amp;#243;n de Berserk Tuberelle tambi&amp;#233;n da&amp;#241;a a Yativio!" styleId="37" />
-    <String id="9750017" string="The Acidic Field created by Vesporax can be removed with an Alkaline Water Bomb./El campo &amp;#225;cido creado por Vesporax se puede eliminar con una Alkaline Water Bomb." styleId="37" />
-    <String id="9750018" string="Left-click to throw the Alkaline Water Bomb to remove the Acidic Field./Haz clic izquierdo para lanzar la Alkaline Water Bomb y eliminar el campo &amp;#225;cido." styleId="37" />
-    <String id="9750019" string="Lightning strikes periodically. Being struck while covered in crystal dust will cause a burn./Los rayos caen peri&amp;#243;dicamente. Ser alcanzado mientras est&amp;#225;s cubierto de polvo de Crystal causar&amp;#225; una quemadura." styleId="37" />
-    <String id="9750020" string="Jump to shake off dust./Salta para sacudirte el polvo." styleId="37" />
-    <String id="9750021" string="Yativio&amp;#8217;s toxin is strong. 10 stacks of Toxin will result in death./La toxina de Yativio es fuerte. 10 acumulaciones de Toxin resultar&amp;#225;n en la muerte." styleId="37" />
-    <String id="9750022" string="Grace of Resurrection is granted./Se otorga Grace of Resurrection." styleId="37" />
-    <String id="9750023" string="Increases Crit Factor by 10%./Aumenta el &amp;#237;ndice de golpe cr&amp;#237;tico en un 10%." styleId="37" />
-    <String id="9750024" string="Decreases cooldown for all skills by 5%./Reduce el tiempo de reutilizaci&amp;#243;n de todas las habilidades en un 5%." styleId="37" />
-    <String id="9750025" string="&lt;font size='30'&gt;The door opens.&lt;/font&gt;/&lt;font size='30'&gt;La puerta se abre.&lt;/font&gt;" styleId="37" />
+    <String id="9750001" string="[EN] Maximum HP increased by 20%.&lt;br&gt;[ES] HP m&amp;#225;ximo aumentado un 20%." styleId="37" />
+    <String id="9750002" string="[EN] Power increased by 10%.&lt;br&gt;[ES] Poder aumentado un 10%." styleId="37" />
+    <String id="9750003" string="[EN] &lt;font size='30'&gt;The combat area is closing.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='30'&gt;La zona de combate se est&amp;#225; cerrando.&lt;/font&gt;" styleId="37" />
+    <String id="9750004" string="[EN] &lt;font size='30'&gt;Destroy the Manacache and choose among three paths.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='30'&gt;Destruye el Manacache y elige entre tres caminos.&lt;/font&gt;" styleId="37" />
+    <String id="9750005" string="[EN] You have selected the Path of the Unknown.&lt;br&gt;[ES] Has seleccionado el Camino de lo Desconocido." styleId="37" />
+    <String id="9750006" string="[EN] You have selected the Cliff Passage of Koleogg.&lt;br&gt;[ES] Has seleccionado el Pasaje del Acantilado de Koleogg." styleId="37" />
+    <String id="9750007" string="[EN] You selected the Force Platform.&lt;br&gt;[ES] Has seleccionado la Plataforma de Fuerza." styleId="37" />
+    <String id="9750008" string="[EN] Acidity&lt;br&gt;[ES] Acidez" />
+    <String id="9750009" string="[EN] It is diffficult to breathe due to the high acidity of the area.&lt;br&gt;[ES] Es dif&amp;#237;cil respirar debido a la alta acidez del &amp;#225;rea." styleId="71" />
+    <String id="9750010" string="[EN] Can&amp;#8217;t dodge Vesporax&amp;#8217;s attack.&lt;br&gt;[ES] No puedes esquivar el ataque de Vesporax." styleId="71" />
+    <String id="9750011" string="[EN] Skyreach Flower removes toxin from each party member.&lt;br&gt;[ES] Skyreach Flower elimina la toxina de cada miembro del grupo." styleId="37" />
+    <String id="9750012" string="[EN] Defeat every Oddritu in 15 seconds.&lt;br&gt;[ES] Derrota a cada Oddritu en 15 segundos." styleId="37" />
+    <String id="9750013" string="[EN] Failed to destroy all the Oddritus. Yativio delivers a wide-area attack.&lt;br&gt;[ES] No se pudieron destruir todos los Oddritus. Yativio lanza un ataque de &amp;#225;rea amplia." styleId="71" />
+    <String id="9750014" string="[EN] Skyreach Flower has appeared. Each party member will be cured if you destroy it.&lt;br&gt;[ES] Ha aparecido Skyreach Flower. Cada miembro del grupo ser&amp;#225; curado si la destruyes." styleId="37" />
+    <String id="9750015" string="[EN] Lightning will strike the Lightning Induction Device for 40 seconds.&lt;br&gt;[ES] Caer&amp;#225;n rayos sobre el Lightning Induction Device durante 40 segundos." styleId="37" />
+    <String id="9750016" string="[EN] Berserk Tuberelle appeared! Berserk Tuberelle&amp;#8217;s self-destruct damages Yativio, too!&lt;br&gt;[ES] &amp;#161;Apareci&amp;#243; Berserk Tuberelle! &amp;#161;La autodestrucci&amp;#243;n de Berserk Tuberelle tambi&amp;#233;n da&amp;#241;a a Yativio!" styleId="37" />
+    <String id="9750017" string="[EN] The Acidic Field created by Vesporax can be removed with an Alkaline Water Bomb.&lt;br&gt;[ES] El campo &amp;#225;cido creado por Vesporax se puede eliminar con una Alkaline Water Bomb." styleId="37" />
+    <String id="9750018" string="[EN] Left-click to throw the Alkaline Water Bomb to remove the Acidic Field.&lt;br&gt;[ES] Haz clic izquierdo para lanzar la Alkaline Water Bomb y eliminar el campo &amp;#225;cido." styleId="37" />
+    <String id="9750019" string="[EN] Lightning strikes periodically. Being struck while covered in crystal dust will cause a burn.&lt;br&gt;[ES] Los rayos caen peri&amp;#243;dicamente. Ser alcanzado mientras est&amp;#225;s cubierto de polvo de Crystal causar&amp;#225; una quemadura." styleId="37" />
+    <String id="9750020" string="[EN] Jump to shake off dust.&lt;br&gt;[ES] Salta para sacudirte el polvo." styleId="37" />
+    <String id="9750021" string="[EN] Yativio&amp;#8217;s toxin is strong. 10 stacks of Toxin will result in death.&lt;br&gt;[ES] La toxina de Yativio es fuerte. 10 acumulaciones de Toxin resultar&amp;#225;n en la muerte." styleId="37" />
+    <String id="9750022" string="[EN] Grace of Resurrection is granted.&lt;br&gt;[ES] Se otorga Grace of Resurrection." styleId="37" />
+    <String id="9750023" string="[EN] Increases Crit Factor by 10%.&lt;br&gt;[ES] Aumenta el &amp;#237;ndice de golpe cr&amp;#237;tico en un 10%." styleId="37" />
+    <String id="9750024" string="[EN] Decreases cooldown for all skills by 5%.&lt;br&gt;[ES] Reduce el tiempo de reutilizaci&amp;#243;n de todas las habilidades en un 5%." styleId="37" />
+    <String id="9750025" string="[EN] &lt;font size='30'&gt;The door opens.&lt;/font&gt;&lt;br&gt;[ES] &lt;font size='30'&gt;La puerta se abre.&lt;/font&gt;" styleId="37" />
 </StrSheet_Dungeon>

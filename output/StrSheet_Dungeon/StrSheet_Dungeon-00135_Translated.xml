@@ -1,24 +1,24 @@
 <StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
-    <String id="9735001" string="The teleportal has disappeared./El teleportal ha desaparecido." styleId="67" />
-    <String id="9735200" string="Defect detected. Activating defect elimination.../Defecto detectado. Activando eliminaci&amp;#243;n de defectos..." styleId="66" />
-    <String id="9735301" string="Heat Detection Protocol: Transmitting.../Protocolo de detecci&amp;#243;n de calor: Transmitiendo..." styleId="66" />
-    <String id="9735302" string="Protocol Transferred: Melee Detection/Protocolo transferido: Detecci&amp;#243;n cuerpo a cuerpo" styleId="67" />
-    <String id="9735303" string="Protocol Transferred: Range Detection/Protocolo transferido: Detecci&amp;#243;n a distancia" styleId="67" />
-    <String id="9735304" string="Protocol Transferred: Full-Range Detection/Protocolo transferido: Detecci&amp;#243;n de alcance total" styleId="67" />
-    <String id="9735307" string="This isn't over./Esto no ha terminado." styleId="66" />
-    <String id="9735308" string="Warning! Unregistered Transmission!/&amp;#161;Advertencia! &amp;#161;Transmisi&amp;#243;n no registrada!" styleId="67" />
-    <String id="9735309" string="System Warning: Shard Protection Removed/Advertencia del sistema: Protecci&amp;#243;n de fragmentos eliminada" styleId="67" />
-    <String id="9735310" string="Failed to activate energy transmission matrix.../Error al activar la matriz de transmisi&amp;#243;n de energ&amp;#237;a..." styleId="66" />
-    <String id="9735311" string="System Recovery: Heat Detection Protocol/Recuperaci&amp;#243;n del sistema: Protocolo de detecci&amp;#243;n de calor" styleId="67" />
-    <String id="9735312" string="System Error: Heat Detection Protocol/Error del sistema: Protocolo de detecci&amp;#243;n de calor" styleId="67" />
-    <String id="9735313" string="Deactivating.../Desactivando..." styleId="67" />
-    <String id="9735314" string="All quadrants have been deactivated./Todos los cuadrantes han sido desactivados." styleId="67" />
-    <String id="9735315" string="System: Teleportal Created/Sistema: Portal de teletransporte creado" styleId="67" />
-    <String id="9735401" string="Do not stand in my way!/&amp;#161;No se interpongan en mi camino!" styleId="66" />
-    <String id="9735402" string="You'll answer to Ventarun!/&amp;#161;Se las ver&amp;#225;n con Ventarun!" styleId="66" />
-    <String id="9735403" string="Ventarun not nasty enough? Don't worry. I've got more./&amp;#191;Ventarun no es lo suficientemente desagradable? No se preocupen. Tengo m&amp;#225;s." styleId="66" />
-    <String id="9735404" string="I'll destroy you once and for all. Just wait and see!/&amp;#161;Te destruir&amp;#233; de una vez por todas! &amp;#161;Solo espera y ver&amp;#225;s!" styleId="66" />
-    <String id="9735405" string="Shut off the control panels to neutralize the magnetic field./Desactiven los paneles de control para neutralizar el campo magn&amp;#233;tico." styleId="67" />
-    <String id="9735406" string="You insects!/&amp;#161;Insectos!" styleId="66" />
-    <String id="9735407" string="Hexapleon will end you!/&amp;#161;Hexapleon acabar&amp;#225; contigo!" styleId="66" />
+    <String id="9735001" string="[EN] The teleportal has disappeared.&lt;br&gt;[ES] El teleportal ha desaparecido." styleId="67" />
+    <String id="9735200" string="[EN] Defect detected. Activating defect elimination...&lt;br&gt;[ES] Defecto detectado. Activando eliminaci&amp;#243;n de defectos..." styleId="66" />
+    <String id="9735301" string="[EN] Heat Detection Protocol: Transmitting...&lt;br&gt;[ES] Protocolo de detecci&amp;#243;n de calor: Transmitiendo..." styleId="66" />
+    <String id="9735302" string="[EN] Protocol Transferred: Melee Detection&lt;br&gt;[ES] Protocolo transferido: Detecci&amp;#243;n cuerpo a cuerpo" styleId="67" />
+    <String id="9735303" string="[EN] Protocol Transferred: Range Detection&lt;br&gt;[ES] Protocolo transferido: Detecci&amp;#243;n a distancia" styleId="67" />
+    <String id="9735304" string="[EN] Protocol Transferred: Full-Range Detection&lt;br&gt;[ES] Protocolo transferido: Detecci&amp;#243;n de alcance total" styleId="67" />
+    <String id="9735307" string="[EN] This isn't over.&lt;br&gt;[ES] Esto no ha terminado." styleId="66" />
+    <String id="9735308" string="[EN] Warning! Unregistered Transmission!&lt;br&gt;[ES] &amp;#161;Advertencia! &amp;#161;Transmisi&amp;#243;n no registrada!" styleId="67" />
+    <String id="9735309" string="[EN] System Warning: Shard Protection Removed&lt;br&gt;[ES] Advertencia del sistema: Protecci&amp;#243;n de fragmentos eliminada" styleId="67" />
+    <String id="9735310" string="[EN] Failed to activate energy transmission matrix...&lt;br&gt;[ES] Error al activar la matriz de transmisi&amp;#243;n de energ&amp;#237;a..." styleId="66" />
+    <String id="9735311" string="[EN] System Recovery: Heat Detection Protocol&lt;br&gt;[ES] Recuperaci&amp;#243;n del sistema: Protocolo de detecci&amp;#243;n de calor" styleId="67" />
+    <String id="9735312" string="[EN] System Error: Heat Detection Protocol&lt;br&gt;[ES] Error del sistema: Protocolo de detecci&amp;#243;n de calor" styleId="67" />
+    <String id="9735313" string="[EN] Deactivating...&lt;br&gt;[ES] Desactivando..." styleId="67" />
+    <String id="9735314" string="[EN] All quadrants have been deactivated.&lt;br&gt;[ES] Todos los cuadrantes han sido desactivados." styleId="67" />
+    <String id="9735315" string="[EN] System: Teleportal Created&lt;br&gt;[ES] Sistema: Portal de teletransporte creado" styleId="67" />
+    <String id="9735401" string="[EN] Do not stand in my way!&lt;br&gt;[ES] &amp;#161;No se interpongan en mi camino!" styleId="66" />
+    <String id="9735402" string="[EN] You'll answer to Ventarun!&lt;br&gt;[ES] &amp;#161;Se las ver&amp;#225;n con Ventarun!" styleId="66" />
+    <String id="9735403" string="[EN] Ventarun not nasty enough? Don't worry. I've got more.&lt;br&gt;[ES] &amp;#191;Ventarun no es lo suficientemente desagradable? No se preocupen. Tengo m&amp;#225;s." styleId="66" />
+    <String id="9735404" string="[EN] I'll destroy you once and for all. Just wait and see!&lt;br&gt;[ES] &amp;#161;Te destruir&amp;#233; de una vez por todas! &amp;#161;Solo espera y ver&amp;#225;s!" styleId="66" />
+    <String id="9735405" string="[EN] Shut off the control panels to neutralize the magnetic field.&lt;br&gt;[ES] Desactiven los paneles de control para neutralizar el campo magn&amp;#233;tico." styleId="67" />
+    <String id="9735406" string="[EN] You insects!&lt;br&gt;[ES] &amp;#161;Insectos!" styleId="66" />
+    <String id="9735407" string="[EN] Hexapleon will end you!&lt;br&gt;[ES] &amp;#161;Hexapleon acabar&amp;#225; contigo!" styleId="66" />
 </StrSheet_Dungeon>
