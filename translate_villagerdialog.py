@@ -37,6 +37,7 @@ These are parchment speeches when talking to merchants, guards, trainers and oth
 Keep proper names unchanged: NPCs, places, dungeons, items, skills, classes, races, AND monster names. Place names stay English: Isolated Town, Island of Dawn, Velika, Oblivion Woods, Bestial Vale, Bastion of Lok.
 Class and race names stay English.
 Placeholders like __TAG0__ and markup must be copied unchanged, same spelling and relative position.
+Copy {@linkcreature:...}, {@linkitem:...} and other {@...} tags verbatim, including English place and NPC names inside them (Allemantheia Headquarters, Flight Manager, speak to the gatekeeper to enter).
 Text inside NEXTPAGEBUTTON, PREVPAGEBUTTON, CLOSEPAGEBUTTON, TEXTBUTTON and EVENTPAGEBUTTON stays English (F-choices, Confirm/Cancel, dungeon names).
 GLOSSARY:
 - Keep MP, HP in English. Never PM, PH, mana, PV, PS.

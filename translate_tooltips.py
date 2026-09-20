@@ -48,7 +48,12 @@ TAG_RE = re.compile(r"<[^>]+>")
 # Kolejnosc w alternatywie jest wazna: w zrodle te tokeny wchodza wprost
 # w kolejne slowo ($BRAuto, $COLOR_ENDInflicts, $H_W_GOODGlyph).
 VAR_RE = re.compile(r"\$(?:COLOR_END|H_[A-Z]_(?:GOOD|BAD)|BR|[a-z][A-Za-z0-9]*)")
-MARKUP_RE = re.compile(TAG_RE.pattern + "|" + VAR_RE.pattern + "|\x01")
+# Mapa / teleport: {@linkcreature:72#1104#Allemantheia Headquarters (speak to the gatekeeper to enter)#}
+# Nazwy w srodku zostaja po angielsku; nie wolno ich traktowac jako zdania do tlumaczenia.
+LINK_RE = re.compile(r"\{@[^{}]+\}")
+MARKUP_RE = re.compile(
+    TAG_RE.pattern + "|" + VAR_RE.pattern + "|" + LINK_RE.pattern + "|\x01"
+)
 # Zrodlo lamie linie encja &#xA;. Chronimy ja znakiem sterujacym, zeby
 # przetrwala tlumaczenie i czyszczenie, a na koncu wracala jako encja.
 NEWLINE_ENTITY_RE = re.compile(r"&#x0*A;|&#0*10;", re.I)
@@ -309,15 +314,17 @@ ENGLISH_STOPWORDS = {
 
 
 def _segments(text: str) -> list[str]:
-    # Nazwy skilli w <font> maja zostac po angielsku; nie traktujemy ich
-    # jako "nieprzetlumaczonego zdania".
+    # Nazwy skilli w <font> i etykiety {@link...} maja zostac po angielsku;
+    # nie traktujemy ich jako "nieprzetlumaczonego zdania".
     text = re.sub(r"<font\b[^>]*>.*?</font>", " ", text, flags=re.I | re.S)
+    text = LINK_RE.sub(" ", text)
     parts = re.split(r"\$BR|<br\s*/?>", text, flags=re.I)
     return [p.strip() for p in parts if p.strip()]
 
 
 def _plain_words(segment: str) -> list[str]:
     segment = re.sub(r"<[^>]*>", " ", segment)
+    segment = LINK_RE.sub(" ", segment)
     segment = re.sub(r"\$[A-Za-z_][A-Za-z0-9_]*", " ", segment)
     segment = re.sub(r"\[[^\]]*\]", " ", segment)
     segment = re.sub(r"[^A-Za-z ]", " ", segment)
