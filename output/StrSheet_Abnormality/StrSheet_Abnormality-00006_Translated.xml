@@ -1,0 +1,22 @@
+<StrSheet_Abnormality xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Abnormality StrSheet_Abnormality.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Abnormality">
+    <String id="5030000" name="" tooltip="" />
+    <String id="5030001" name="" tooltip="" />
+    <String id="5030002" name="Emblem of Success" tooltip="" />
+    <String id="5030003" name="Power potion - CD, MP regen" tooltip="" />
+    <String id="5030004" name="Memento of Fame" tooltip="" />
+    <String id="5030005" name="Sigil of Indestructible Flame" tooltip="" />
+    <String id="5030006" name="" tooltip="" />
+    <String id="5030007" name="" tooltip="" />
+    <String id="5030008" name="" tooltip="" />
+    <String id="5030009" name="" tooltip="" />
+    <String id="16300006" name="Physical Change: Breast" tooltip="[EN] Can be stacked up to 3 times. (mimimum -3 &amp;#8211; maximum +3)&lt;br&gt;[ES] Se puede acumular hasta 3 veces. (m&amp;#237;nimo -3, m&amp;#225;ximo +3)" />
+    <String id="16300007" name="Physical Change: Height" tooltip="[EN] Can be stacked up to 3 times. (mimimum -3 &amp;#8211; maximum +3)&lt;br&gt;[ES] Se puede acumular hasta 3 veces. (m&amp;#237;nimo -3, m&amp;#225;ximo +3)" />
+    <String id="16300008" name="Shape Change: Thighs" tooltip="[EN] Your thighs look like you've been working out! $BRStacks down to a mimimum -3 or up to a maximum +3.&lt;br&gt;[ES] &amp;#161;Tus muslos parecen como si hubieras estado entrenando! $BRSe acumula hacia abajo hasta un m&amp;#237;nimo de -3 o hacia arriba hasta un m&amp;#225;ximo de +3." />
+    <String id="16300009" name="Comfortable Travel" tooltip="[EN] Restores 0.5% of your max HP and MP every second.&lt;br&gt;[ES] Restaura el 0,5% de tu HP y MP m&amp;#225;ximo cada segundo." />
+    <String id="16300010" name="Relaxing Travel" tooltip="[EN] Restores 0.5% of your max HP and 1% of your max MP every second.&lt;br&gt;[ES] Restaura el 0,5% de tu HP m&amp;#225;ximo y el 1% de tu MP m&amp;#225;ximo cada segundo." />
+    <String id="16300011" name="Relaxing Travel" tooltip="[EN] Restores 0.5% of your max HP and 1% of your max MP every second.&lt;br&gt;[ES] Restaura el 0,5% de tu HP m&amp;#225;ximo y el 1% de tu MP m&amp;#225;ximo cada segundo." />
+    <String id="16300012" name="Calming Travel" tooltip="[EN] Recovers 0.5% of your maximum HP and replenishes 0.5% of your maximum MP every second.&lt;br&gt;[ES] Recupera el 0,5% de tu HP m&amp;#225;ximo y reconstituye el 0,5% de tu MP m&amp;#225;ximo cada segundo." />
+    <String id="16300013" name="Drop of Dare Devil" tooltip="[EN] Increases skill damage by $H_W_GOOD$value2$COLOR_END, and reduces damage taken by $H_W_GOOD$value3$COLOR_END. Additionally increases attack speed by $H_W_GOOD$value$COLOR_END.&lt;br&gt;[ES] Aumenta el da&amp;#241;o de las habilidades en $H_W_GOOD$value2$COLOR_END y reduce el da&amp;#241;o recibido en $H_W_GOOD$value3$COLOR_END. Adem&amp;#225;s, aumenta la velocidad de ataque en $H_W_GOOD$value$COLOR_END." />
+    <String id="16300015" name="Drop of Destruction" tooltip="[EN] Damage increases by $H_W_GOOD$value2$COLOR_END.&lt;br&gt;[ES] El da&amp;#241;o aumenta en $H_W_GOOD$value2$COLOR_END." />
+    <String id="16300017" name="Lucky Day(VIP)" tooltip="[EN] Special benefits for VIP users. Drop Rate increases by $H_W_GOOD100%$COLOR_END. Drop rate can decrease in party-play.&lt;br&gt;[ES] Beneficios especiales para usuarios VIP. La tasa de obtenci&amp;#243;n aumenta en un $H_W_GOOD100%$COLOR_END. La tasa de obtenci&amp;#243;n puede disminuir al jugar en grupo." />
+</StrSheet_Abnormality>
