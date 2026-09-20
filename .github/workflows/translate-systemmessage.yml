@@ -1,0 +1,75 @@
+name: Translate TERA SystemMessage
+
+# Chat bojowy, party/gildia, toasty bledow, popupy.
+on:
+  workflow_dispatch:
+    inputs:
+      input_path:
+        description: "Folder source/StrSheet_SystemMessage albo jeden XML"
+        required: true
+        default: "source/StrSheet_SystemMessage"
+      start:
+        description: "Pomin pierwsze N plikow"
+        required: false
+        default: "0"
+      count:
+        description: "Ile plikow. 0 = wszystkie"
+        required: false
+        default: "0"
+      batch_size:
+        description: "Ile unikalnych stringow na zapytanie Gemini"
+        required: false
+        default: "20"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-systemmessage
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj biblioteki
+        run: pip install -r requirements.txt
+
+      - name: Przetlumacz SystemMessage
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python translate_systemmessage.py "${{ inputs.input_path }}" \
+            --output-dir output/StrSheet_SystemMessage \
+            --start "${{ inputs.start }}" \
+            --count "${{ inputs.count }}" \
+            --batch-size "${{ inputs.batch_size }}"
+
+      - name: Sprawdz jakosc
+        if: always()
+        continue-on-error: true
+        run: python check_systemmessage.py output/StrSheet_SystemMessage
+
+      - name: Zapisz wynik do repozytorium
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output cache || true
+          if git diff --staged --quiet; then
+            echo "Brak zmian do zapisania."
+          else
+            git commit -m "Tlumaczenie SystemMessage pack start=${{ inputs.start }} count=${{ inputs.count }}"
+            git pull --rebase
+            git push
+          fi

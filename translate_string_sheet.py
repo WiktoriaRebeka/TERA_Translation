@@ -1,4 +1,4 @@
-"""Shared bilingual string= rewriter for Tutorial and Dungeon sheets."""
+"""Shared bilingual string= rewriter for Tutorial, Dungeon and SystemMessage sheets."""
 
 from __future__ import annotations
 
@@ -14,7 +14,7 @@ item.TOOLTIP_RE = re.compile(r'\bstring="([^"]*)"')
 BRACE_RE = re.compile(
     r"\{@(?:select|ordinal|plural):[^{}]*\{[^{}]*\}[^{}]*\}"
     r"|\{@[A-Za-z]+(?::[^{}]+)?\}"
-    r"|\{[A-Za-z][A-Za-z0-9_]*\}"
+    r"|\{[A-Za-z+][A-Za-z0-9_]*(?:@[A-Za-z0-9_-]+)?\}"
 )
 
 item.OUTPUT_TEMPLATE = (
