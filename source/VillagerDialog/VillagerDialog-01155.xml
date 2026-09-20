@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22004" huntingZoneId="63" voiceTypeId="22" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">Sorry, you'll need to use the quartermaster for your own alliance.</Page>
+    </Text>
+    <Text id="912100" endSocial="14">
+        <Page social="4" voiceTypeId="0">What are you looking for?</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">Sorry, we're not open right now. Shift change. You know how it is.</Page>
+    </Text>
+</VillagerDialog>

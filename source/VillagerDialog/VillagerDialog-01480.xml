@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1013" huntingZoneId="70" voiceTypeId="54" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="70" prevId="0" villagerId="1013" endSocial="14">
+        <Page social="4" voiceTypeId="0">Our garrison is rallying to assist with the assault on the Stronghold of Blood. Even the reservists are being called up.&lt;BR&gt;&lt;BR&gt;What do you say? You look like you've seen your fair share of battle.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Rorise, the Stronghold of Blood's barrier is working, right?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">Then the transport with villagers must go first.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1070" huntingZoneId="70" voiceTypeId="87" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="70" prevId="0" villagerId="1070" endSocial="14">
+        <Page social="4" voiceTypeId="0">An entire region is in danger. That's bad.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Tria is an important staging area for our troops. If we lose that town, we could lose the whole region.</Page>
+    </Text>
+</VillagerDialog>

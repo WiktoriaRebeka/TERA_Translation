@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22002" huntingZoneId="84" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">You! Have you thought about what you can do for the alliance?</Page>
+    </Text>
+    <Text id="5" endSocial="14">
+        <Page social="4" voiceTypeId="0">You're in the wrong place. Obviously your guildmaster has made a mistake in not joining the Iron Order!</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">You! Have you thought about what you can do for the alliance?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">You! Have you thought about what you can do for the alliance?</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="0">You! Have you thought about what you can do for the alliance?</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">Strength is the way to victory. Too bad the federation has lost sight of that.</Page>
+    </Text>
+</VillagerDialog>

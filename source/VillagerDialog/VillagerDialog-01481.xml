@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="70" voiceTypeId="134" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="70" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4" voiceTypeId="0">Tria's history is storied. Between the Divine War and the high elves, much blood has been shed in these hills.&lt;BR&gt;&lt;BR&gt;They say Lok's blood curses the region to this very day!</Page>
+    </Text>
+    <Text id="101" endSocial="13">
+        <Page social="4" voiceTypeId="0">Heh, I should hurry packing my books, then!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="6000" huntingZoneId="3020" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">The first time I saw this vessel, there were only five soldiers on board. Not only is there a storm rolling in, but it looks like two full pirate crews coming at us.&lt;BR&gt;&lt;BR&gt;I don't know who else is on board, but you'd better get ready. Five soldiers are no match for this many opponents.&lt;font color='#FF0000'&gt;Defeat all enemies within the time limit to receive additional rewards.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Are you ready to start your voyage?&lt;TEXTBUTTON&gt;Start&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Confirm&lt;/EVENTPAGEBUTTON&gt;&lt;/EVENTPAGEBUTTON&gt;&lt;CLOSEPAGEBUTTON&gt;Cancel&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

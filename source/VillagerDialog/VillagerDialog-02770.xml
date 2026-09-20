@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2001" huntingZoneId="122" voiceTypeId="48" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">One day, the people might come to call you a hero. Until then, you can strive for people to call you a friend.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">We are all friends in the Enlightened Union, and we dream of a day when friendship is shared by everyone, everywhere. Does that not seem like a worthy aspiration?</Page>
+    </Text>
+</VillagerDialog>

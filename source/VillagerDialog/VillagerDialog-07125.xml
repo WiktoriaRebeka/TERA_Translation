@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1103" huntingZoneId="818" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="0">Zolyn? No...not Zolyn. Not Zolyn!</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="4" voiceTypeId="0">I don't care if I die! I am not leaving without Zolyn!&lt;TEXTBUTTON&gt;"We can't stay here!"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Rhodos? Rhodos, help me protect Paesyn!"&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

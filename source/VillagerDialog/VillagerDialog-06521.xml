@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1013" huntingZoneId="503" voiceTypeId="155" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="5">
+        <Page social="5" voiceTypeId="155">Not to mention the Vanguard Scouts, but a lot of funds were spent in the name of Elleon.&lt;BR&gt;&lt;BR&gt;I just wish that all the things that Elleon did for the federation wouldn't end up being so useless.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="5" voiceTypeId="0">Commander Seir, I heard something went wrong with the secret mission.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">There haven't been any issues with the supplies for the scouts, but we need to handle some complaints fast.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Sir, I shall deliver the Archdevan Mark to Fraya.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'll pray to Velik for your success.</Page>
+    </Text>
+</VillagerDialog>

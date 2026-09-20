@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="152" huntingZoneId="2002" voiceTypeId="301" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="4">
+        <Page social="4" voiceTypeId="301">Over here! Someone's waiting for us!</Page>
+    </Text>
+    <Text id="102" endSocial="4">
+        <Page social="4" voiceTypeId="301">Have you seen any other strangers?</Page>
+    </Text>
+</VillagerDialog>

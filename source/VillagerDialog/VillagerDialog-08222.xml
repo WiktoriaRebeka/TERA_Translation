@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="6102" huntingZoneId="3020" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Place the map here.&lt;BR&gt;&lt;BR&gt;Don't tell me you lost it.&lt;BR&gt;&lt;BR&gt;That map is the only way to find the treasure!&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;Select the difficulty to proceed.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Sea of Honor [Difficulty 1]&lt;BR&gt;[Required Item]&lt;BR&gt;&lt;img src='img://__Icon_Items.map01_Tex' height='50' width='50'/&gt;&lt;BR&gt;&lt;font color='#0000FF'&gt;Voyage Map [Sea of Honor] [Difficulty 1-4]&lt;/font&gt;&lt;BR&gt;[Recommended Item Level]&lt;BR&gt;&lt;font color='#FF0000'&gt;446&lt;/font&gt;&lt;BR&gt;[Items]&lt;BR&gt;Extensive XP Tome&lt;BR&gt;Silver Talent&lt;BR&gt;Silver Siglo&lt;BR&gt;Metamorphic Emblem&lt;TEXTBUTTON&gt;Sea of Honor [Difficulty 1]&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Confirm&lt;/EVENTPAGEBUTTON&gt;&lt;/EVENTPAGEBUTTON&gt;&lt;CLOSEPAGEBUTTON&gt;Cancel&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">Sea of Honor [Difficulty 2]&lt;BR&gt;[Required Item]&lt;BR&gt;&lt;img src='img://__Icon_Items.map01_Tex' height='50' width='50'/&gt;&lt;BR&gt;&lt;font color='#0000FF'&gt;Voyage Map [Sea of Honor] [Difficulty 1-4]&lt;/font&gt;&lt;BR&gt;[Recommended Item Level]&lt;BR&gt;&lt;font color='#FF0000'&gt;453&lt;/font&gt;&lt;BR&gt;[Items]&lt;BR&gt;Exodor Weapon/Armor Enchanting Scroll [Rare]&lt;BR&gt;&lt;BR&gt;Azart Expedition Badge&lt;BR&gt;Metamorphic Emblem&lt;TEXTBUTTON&gt;Sea of Honor [Difficulty 2]&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Confirm&lt;/EVENTPAGEBUTTON&gt;&lt;CLOSEPAGEBUTTON&gt;Cancel&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">Sea of Honor [Difficulty 3]&lt;BR&gt;[Required Item]&lt;BR&gt;&lt;img src='img://__Icon_Items.map01_Tex' height='50' width='50'/&gt;&lt;BR&gt;&lt;font color='#0000FF'&gt;Voyage Map [Sea of Honor] [Difficulty 1-4]&lt;/font&gt;&lt;BR&gt;[Recommended Item Level]&lt;BR&gt;&lt;font color='#FF0000'&gt;461&lt;/font&gt;&lt;BR&gt;[Items]&lt;BR&gt;Exodor Weapon/Armor Enchanting Scroll [Superior]&lt;BR&gt;&lt;BR&gt;Azart Expedition Badge&lt;BR&gt;Metamorphic Emblem&lt;TEXTBUTTON&gt;Sea of Honor [Difficulty 3]&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Confirm&lt;/EVENTPAGEBUTTON&gt;&lt;CLOSEPAGEBUTTON&gt;Cancel&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="0">Sea of Honor [Difficulty 4]&lt;BR&gt;[Required Item]&lt;BR&gt;&lt;img src='img://__Icon_Items.map01_Tex' height='50' width='50'/&gt;&lt;BR&gt;&lt;font color='#0000FF'&gt;Voyage Map [Sea of Honor] [Difficulty 1-4]&lt;/font&gt;&lt;BR&gt;[Recommended Item Level]&lt;BR&gt;&lt;font color='#FF0000'&gt;475&lt;/font&gt;&lt;BR&gt;[Items]&lt;BR&gt;Exodor Weapon/Armor Enchanting Scroll [Superior]&lt;BR&gt;&lt;BR&gt;Ishara's Halidom I&lt;BR&gt;Amarun's Relic I&lt;TEXTBUTTON&gt;Sea of Honor [Difficulty 4]&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Confirm&lt;/EVENTPAGEBUTTON&gt;&lt;CLOSEPAGEBUTTON&gt;Cancel&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

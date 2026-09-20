@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1037" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">How can we fight? We just got massacred by a storm!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Kill them all!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">If I die, let it be in a fair fight.</Page>
+    </Text>
+</VillagerDialog>

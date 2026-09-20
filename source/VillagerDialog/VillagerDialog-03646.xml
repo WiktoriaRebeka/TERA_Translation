@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="208" voiceTypeId="93" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="208" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">Too many civilians wandering around. We're making it too easy for the cannibals to grab them.</Page>
+    </Text>
+</VillagerDialog>

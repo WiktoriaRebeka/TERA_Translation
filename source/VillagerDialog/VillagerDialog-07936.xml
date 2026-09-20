@@ -1,0 +1,6 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7304" huntingZoneId="2500" voiceTypeId="80" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Jennie wants to go hiking with me. &lt;BR&gt;But I prefer swimming if I’m honest! I love the sea! There’s nothing like the sea!&lt;NEXTPAGEBUTTON&gt;"Just tell her the truth."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Do you reckon? What if she’s disappointed?</Page>
+    </Text>
+</VillagerDialog>

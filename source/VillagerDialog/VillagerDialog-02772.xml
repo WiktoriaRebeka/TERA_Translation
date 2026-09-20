@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2015" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1222015" endSocial="0">
+        <Page social="0" voiceTypeId="0">(This teleportal takes you directly to the battlefield, or to the Enlightened Union Hall.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Please specify your intended destination.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">(This teleportal is currently inactive.)</Page>
+    </Text>
+</VillagerDialog>

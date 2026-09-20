@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="109" huntingZoneId="827" voiceTypeId="282" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="282">I'm so glad you're my friend, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;I hope you always remember me and Zo-Zo!</Page>
+    </Text>
+    <Text id="100" endSocial="0">
+        <Page social="0" voiceTypeId="0">O Tiaran, rooted in sorrow, bathed in...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Huh? What's going on?</Page>
+    </Text>
+</VillagerDialog>

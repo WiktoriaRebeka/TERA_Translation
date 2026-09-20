@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="503" voiceTypeId="143" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="5">
+        <Page social="5" voiceTypeId="143">We're making an airship that will pass the Storm Barrier and take us to Northern Arun.&lt;BR&gt;Surely this is all thanks to Velik!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Commander!&lt;BR&gt;The airship is complete!</Page>
+    </Text>
+</VillagerDialog>

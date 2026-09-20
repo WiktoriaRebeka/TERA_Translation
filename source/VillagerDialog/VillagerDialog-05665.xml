@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1027" huntingZoneId="256" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="0">(This must be one of the townsfolk. His face is twisted with agony. If you can just catch what he's saying...)</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Follow...I can open...</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">...so hard...you to see us...</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">Others...gave me their life-force...</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0">Here! Up...</Page>
+    </Text>
+</VillagerDialog>

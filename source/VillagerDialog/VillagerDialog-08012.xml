@@ -1,0 +1,26 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30100" huntingZoneId="2501" voiceTypeId="290" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="2501" prevId="0" villagerId="30100" endSocial="0">
+        <Page social="4" voiceTypeId="290">I need your help.&lt;BR&gt;&lt;BR&gt;Would you help me?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="2501" prevId="0" villagerId="30100" endSocial="0">
+        <Page social="4" voiceTypeId="290">Thank you.&lt;BR&gt;&lt;BR&gt;Please investigate this area.&lt;BR&gt;&lt;BR&gt;I will try and dispose of the restrained power of the God of Death.&lt;TEXTBUTTON&gt;"I’ll help."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Understood."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">I can feel holy energy from you.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">I am Lok.&lt;BR&gt;I hold the key to the Sealed Area.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">The world may collapse if this power falls into the wrong hands.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">Could you please help me?</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">Thank you.&lt;BR&gt;Hopefully you are safe.</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">Are you ready? Let’s go.</Page>
+    </Text>
+</VillagerDialog>

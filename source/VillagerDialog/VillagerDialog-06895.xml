@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1002" huntingZoneId="714" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">(This teleportal takes you to either &lt;font color='#0080FF'&gt;Ghillieglade&lt;/font&gt; or &lt;font color='#0080FF'&gt;Velika&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Ghillieglade can be entered a maximum of &lt;font color='#FF0000'&gt;once a day (twice for TERA Club).&lt;/font&gt;)</Page>
+    </Text>
+</VillagerDialog>

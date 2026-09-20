@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7001" huntingZoneId="1023" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">This teleportal takes you to the &lt;font color='#0000FF'&gt;Azart Hatchery&lt;/font&gt;.&lt;br&gt;&lt;br&gt;You cannot enter this area while in a group.&lt;br&gt;&lt;br&gt;The teleportal will disappear after 5 minutes or when character logs out or goes to another region.&lt;br&gt;&lt;font color='#FF0000'&gt;[Warning]&lt;/font&gt; You can only use the teleport once.</Page>
+    </Text>
+</VillagerDialog>

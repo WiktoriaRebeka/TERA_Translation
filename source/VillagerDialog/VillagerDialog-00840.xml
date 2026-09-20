@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1116" huntingZoneId="63" voiceTypeId="69" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1116" endSocial="14">
+        <Page social="4">Ah, come on in, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;This is the place where you can receive rewards for all your services to the Valkyon Federation.&lt;BR&gt;&lt;BR&gt;Well, then. Let's see just how much recognition you've amassed for your work!</Page>
+    </Text>
+</VillagerDialog>

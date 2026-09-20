@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="602026" huntingZoneId="0" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">[Urgent Letter from the Mysterium]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, it's Ryshan.&lt;BR&gt;&lt;BR&gt;The Mysterium has decided to take action on the three towers.&lt;BR&gt;&lt;BR&gt;But we know so little about the argons, we must be cautious of every action. There were even reports that the tower itself might be an argon.&lt;BR&gt;&lt;BR&gt;The  Mysterium is counting on you, &lt;PCNAME&gt;. Go to {@creature:246#2001$$Adeldur} at the research base.&lt;BR&gt;&lt;BR&gt;The federation promised us full support. Please help us.&lt;BR&gt;&lt;BR&gt;—Ryshan&lt;CLOSEPAGEBUTTON&gt;"Consider it done."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

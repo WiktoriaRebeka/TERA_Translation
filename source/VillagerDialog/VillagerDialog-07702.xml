@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22000" huntingZoneId="2001" voiceTypeId="43" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="43">Airene...</Page>
+    </Text>
+    <Text id="101" endSocial="12">
+        <Page social="12" voiceTypeId="0">I can't even imagine how much pain these people have been through.</Page>
+    </Text>
+    <Text id="102" endSocial="4">
+        <Page social="4" voiceTypeId="0">I'll lead the villagers out.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Everyone, follow me.</Page>
+    </Text>
+</VillagerDialog>

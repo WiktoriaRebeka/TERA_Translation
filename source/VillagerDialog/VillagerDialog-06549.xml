@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2010" huntingZoneId="506" voiceTypeId="82" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="82">Heh-heh! Catch me if you can!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="82">Mom told me I could do whatever I want today!&lt;BR&gt;</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="82">Today, Velik is going to make your wish come true!&lt;BR&gt;My mom told me so!&lt;BR&gt;</Page>
+    </Text>
+</VillagerDialog>

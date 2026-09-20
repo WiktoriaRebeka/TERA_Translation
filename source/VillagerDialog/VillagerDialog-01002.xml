@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1317" huntingZoneId="63" voiceTypeId="270" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="270">Greetings, &lt;PCNAME&gt;.&lt;BR&gt;I'm Gislan, the new commander. I gave my pledge to the goddess to keep Velika safe at any cost.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Troius! Why have you interrupted our meeting?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">The Argons fell back? What could they be up to?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'll scramble some reinforcements to Northern Shara. It won't be easy, but it's the right thing to do.</Page>
+    </Text>
+</VillagerDialog>

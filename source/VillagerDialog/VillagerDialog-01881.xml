@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22014" huntingZoneId="72" voiceTypeId="12" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="0">I've gone over my records, and the name &lt;PCNAME&gt; does not appear. You have the wrong bank.</Page>
+    </Text>
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">You want us to hold onto something for you, friend?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">Do you have something in our vaults, friend? Or did you want to put something there?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">Greetings, friend. How may we serve you today?</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">The bank is not currently open for business. We are busy building a more sophisticated form of society!</Page>
+    </Text>
+</VillagerDialog>

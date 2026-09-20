@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1004" huntingZoneId="70" voiceTypeId="46" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="70" prevId="0" villagerId="1004" endSocial="14">
+        <Page social="4">Greetings, &lt;PCNAME&gt;! Need to make a deposit in the bank? How about a withdrawal? Anything you need, I can do.</Page>
+    </Text>
+</VillagerDialog>

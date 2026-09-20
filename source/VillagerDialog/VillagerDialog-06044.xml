@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1027" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">I saw a ship full of provisions go down. What are we gonna eat?</Page>
+    </Text>
+    <Text id="2" endSocial="3">
+        <Page social="3">I thought they were gonna throw us a parade.</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">Just survive. One more hour. One more.</Page>
+    </Text>
+</VillagerDialog>

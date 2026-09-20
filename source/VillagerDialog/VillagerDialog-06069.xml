@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5010" huntingZoneId="416" voiceTypeId="153" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="102" endSocial="0">
+        <Page social="0">You're all alive.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">We must find the remaining expedition members. Let's go.</Page>
+    </Text>
+    <Text id="1" endSocial="4">
+        <Page social="4">We must find the remaining expedition members.</Page>
+    </Text>
+</VillagerDialog>

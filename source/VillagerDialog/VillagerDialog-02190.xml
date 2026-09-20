@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3002" huntingZoneId="78" voiceTypeId="119" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="236">You look like you can handle yourself.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="237">I don't fear death—I fear the shame of dishonor.&lt;BR&gt;&lt;BR&gt;Death before dishonor!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="238">The Shariar would gladly welcome a veteran such as yourself.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="238">I wish we had more soldiers like you.&lt;BR&gt;&lt;BR&gt;The argons wouldn't stand a chance!</Page>
+    </Text>
+</VillagerDialog>

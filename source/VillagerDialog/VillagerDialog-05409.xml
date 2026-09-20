@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2008" huntingZoneId="249" voiceTypeId="90" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">My husband? Yes, he's a scout. One of the best, actually.&lt;BR&gt;&lt;BR&gt;No doubt he's late because he's giving the argons whatfor.</Page>
+    </Text>
+    <Text id="100" endSocial="14">
+        <Page social="4">Oh, hello. What brings you here?</Page>
+    </Text>
+    <Text id="101" endSocial="14">
+        <Page social="12">Still no word from my husband.&lt;BR&gt;&lt;BR&gt;I'm not afraid to say I'm worried.</Page>
+    </Text>
+    <Text id="102" endSocial="14">
+        <Page social="12">The argons take everything from us. It never ends.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,23 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20302" huntingZoneId="2001" voiceTypeId="294" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="294">We should concentrate on finding the villagers.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">There are still a lot of villagers left.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4" voiceTypeId="0">All right. We'll split up to form a Rescue Team and Search Team.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt; and I will search for Jelena and the captured villagers.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="7" voiceTypeId="0">Okay. Let's get moving.</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">Please take care of Titus, Aurl, and the others.</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, let's get moving. We must find Jelena.</Page>
+    </Text>
+</VillagerDialog>

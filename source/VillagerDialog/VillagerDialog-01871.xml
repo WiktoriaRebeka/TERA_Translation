@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22004" huntingZoneId="72" voiceTypeId="132" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="912100" endSocial="14">
+        <Page social="4" voiceTypeId="0">Salutations, friend. Tell me what you require.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">My wares are for the enlightened only. I fail to see how you qualify. Please depart promptly.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">My friend, the advent of a new day is nearly upon us! Soon, our leaders will be drawn from the ranks of the literati.</Page>
+    </Text>
+</VillagerDialog>

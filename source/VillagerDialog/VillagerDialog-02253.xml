@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1800" huntingZoneId="79" voiceTypeId="34" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="4">I'm bored.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4">There's nothing to do.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="4">So...bored....</Page>
+    </Text>
+    <Text id="104" endSocial="1">
+        <Page social="4">I can't even go sledding!</Page>
+    </Text>
+</VillagerDialog>

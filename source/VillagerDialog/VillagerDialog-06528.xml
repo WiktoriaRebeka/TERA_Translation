@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2012" huntingZoneId="505" voiceTypeId="19" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="19">We're all going to die, aren't we?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="19">The Goddess... oh, dear...&lt;TEXTBUTTON&gt;"Stay calm."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"We need to get everyone out of here."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

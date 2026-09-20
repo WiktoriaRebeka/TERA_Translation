@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1002" huntingZoneId="80" voiceTypeId="122" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="80" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">Well met, &lt;PCCLASS:lcase&gt;! Here to help us? Then it's my honor to serve you.&lt;BR&gt;&lt;BR&gt;There have been no deliveries for a while, so prices are up.&lt;BR&gt;&lt;BR&gt;But not for you, by the Maiden's Shield!</Page>
+    </Text>
+</VillagerDialog>

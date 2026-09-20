@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1015" huntingZoneId="203" voiceTypeId="16" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="203" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">I remember when Hendry was a much happier man. Cheerful, even.&lt;BR&gt;&lt;BR&gt;To be honest, I didn't think he'd have the resolve for the position he holds now—I always thought he was a bit soft.&lt;BR&gt;&lt;BR&gt;Must have been wrong—guess we were all just a lot happier back then.</Page>
+    </Text>
+    <Text id="99" huntingZoneId="203" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4" />
+    </Text>
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">If you're ready to fight, I'm ready to find you work.</Page>
+    </Text>
+</VillagerDialog>

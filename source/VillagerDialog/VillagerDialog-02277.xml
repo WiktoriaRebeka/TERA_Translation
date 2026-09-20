@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1015" huntingZoneId="80" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="80" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">Most of us came here after money, honestly. Lot of relics lost in those woods.&lt;BR&gt;&lt;BR&gt;But Yedwin...he just doesn't quit, and it's kind of infectious. Sometimes he's the only ray of daylight in town.&lt;BR&gt;&lt;BR&gt;And he's right. I'd feel dirty if I cut and ran now.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Where are the reinforcements?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">This town's had enough.</Page>
+    </Text>
+</VillagerDialog>

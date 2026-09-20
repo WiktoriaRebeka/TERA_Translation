@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1070" huntingZoneId="63" voiceTypeId="122" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1070" endSocial="14">
+        <Page social="4">A duel is allowed as a 1:1 combat and only in an authorized location.&lt;BR&gt;&lt;BR&gt;Initiate your duel by typing '/duel character name' in the chat window or by right-clicking a character and selecting duel.&lt;BR&gt;&lt;BR&gt;Don't be frightened. It's a true test of skill and honor to fight a duel—and the taste of victory is oh-so-sweet!</Page>
+    </Text>
+</VillagerDialog>

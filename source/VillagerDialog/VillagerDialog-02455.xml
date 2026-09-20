@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1060" huntingZoneId="84" voiceTypeId="176" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5">If you're out to make a profit, this is the place.&lt;BR&gt;&lt;BR&gt;A shrewd trader knows there's money to be made on either side of a transaction. Perhaps both!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">I do my best to get you your best!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">Got anything to sell?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">Buying? Selling? I'll take care of it for you!</Page>
+    </Text>
+</VillagerDialog>

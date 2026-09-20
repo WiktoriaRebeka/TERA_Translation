@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2049" huntingZoneId="183" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="72220080" endSocial="14">
+        <Page social="4" voiceTypeId="0">This area is for a select few. Are you sure you measure up?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">I can provide access to the vault.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">Sorry, this area is off limits for right now. Try back later.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,29 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22003" huntingZoneId="72" voiceTypeId="38" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="912300" endSocial="14">
+        <Page social="0" voiceTypeId="0">Greetings, my friend. How might my wares serve you?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">Oh, I'm so sorry, but these items might be a bit too advanced for you. Have you tried the stables, or an armory?</Page>
+    </Text>
+    <Text id="9123001" endSocial="14">
+        <Page social="4" voiceTypeId="0">Greetings, friend! Might my wares serve your needs?</Page>
+    </Text>
+    <Text id="9123002" endSocial="14">
+        <Page social="4" voiceTypeId="0">Greetings, my friend. Are you interested in my wares?</Page>
+    </Text>
+    <Text id="9123003" endSocial="14">
+        <Page social="4" voiceTypeId="0">Greetings, friend. How have you served the union today?</Page>
+    </Text>
+    <Text id="9123004" endSocial="14">
+        <Page social="4" voiceTypeId="0">Greetings, my friend. How might I serve one who serves the union?</Page>
+    </Text>
+    <Text id="700" endSocial="14">
+        <Page social="4" voiceTypeId="0">My apologies, friend, but you are still an associate member. The executive store is for those of the upper echelons.</Page>
+    </Text>
+    <Text id="800" endSocial="14">
+        <Page social="4" voiceTypeId="0">I am sorry, my friend—so, so sorry—but your status as an associate member does not allow you to patronize the executive store.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">Everywhere we look, nothing but discontent. Our leaders should be chosen from the most enlightened—not the strongest or most popular.</Page>
+    </Text>
+</VillagerDialog>

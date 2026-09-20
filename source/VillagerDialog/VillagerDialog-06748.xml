@@ -1,0 +1,50 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5005" huntingZoneId="528" voiceTypeId="137" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Kaiator will not succumb to any threat! Kaia, the goddess of war, will protect us!</Page>
+    </Text>
+    <Text id="101" endSocial="14">
+        <Page social="4" voiceTypeId="0">What's all this commotion?</Page>
+    </Text>
+    <Text id="102" endSocial="14">
+        <Page social="4" voiceTypeId="0">What? There was a battle going on there! What happened?</Page>
+    </Text>
+    <Text id="103" endSocial="14">
+        <Page social="4" voiceTypeId="0">Did you find out anything?</Page>
+    </Text>
+    <Text id="104" endSocial="14">
+        <Page social="4" voiceTypeId="0">That's why I'm putting &lt;PCNAME&gt; in charge of the mission.</Page>
+    </Text>
+    <Text id="105" endSocial="14">
+        <Page social="4" voiceTypeId="0">I know I can trust you two to finish this!</Page>
+    </Text>
+    <Text id="106" endSocial="4">
+        <Page social="4" voiceTypeId="0">I've reviewed your report, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="107" endSocial="14">
+        <Page social="4" voiceTypeId="0">Gislan, it'll be difficult to send out any more reinforcements.</Page>
+    </Text>
+    <Text id="108" endSocial="0">
+        <Page social="0" voiceTypeId="0">Thulsa awakened Kelsaik and took over the Divine Furnace.</Page>
+    </Text>
+    <Text id="109" endSocial="4">
+        <Page social="4" voiceTypeId="0">We've dispatched all of our men except for those needed to defend the city.</Page>
+    </Text>
+    <Text id="110" endSocial="0">
+        <Page social="0" voiceTypeId="0">I can't help thinking that the evil god and argons are supporting each other.</Page>
+    </Text>
+    <Text id="111" endSocial="0">
+        <Page social="22" voiceTypeId="0">Take this to the meeting point.</Page>
+    </Text>
+    <Text id="112" endSocial="0">
+        <Page social="0" voiceTypeId="0">Can we talk about this later?</Page>
+    </Text>
+    <Text id="113" endSocial="0">
+        <Page social="0" voiceTypeId="0">Kaia!?</Page>
+    </Text>
+    <Text id="114" endSocial="0">
+        <Page social="0" voiceTypeId="0">Gislan, Hasmina will head to the front.</Page>
+    </Text>
+    <Text id="115" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'll give her a message.</Page>
+    </Text>
+</VillagerDialog>

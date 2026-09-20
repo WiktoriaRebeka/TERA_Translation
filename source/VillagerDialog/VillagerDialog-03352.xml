@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1013" huntingZoneId="202" voiceTypeId="12" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="202" prevId="0" villagerId="1013" endSocial="14">
+        <Page social="4">So many refugees, each with a story sadder than the last. So tragic...</Page>
+    </Text>
+    <Text id="99" huntingZoneId="202" prevId="0" villagerId="1013" endSocial="14">
+        <Page social="4" />
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5004" huntingZoneId="720" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">The sphere is emitting strange flashes of light.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">(You hear an unfamiliar male voice, accompanied by a low buzzing.)&lt;BR&gt;&lt;BR&gt;"Isn't it ironic?&lt;BR&gt;Those of you who opposed the Core are now trapped by its power...&lt;BR&gt;&lt;BR&gt;How could any true elf resist such magic?&lt;BR&gt;&lt;BR&gt;I have been watching you...for a long, long time.&lt;BR&gt;My faith has been rewarded...that armor, those swords suit you well."&lt;BR&gt;(The buzzing continues for a while, then stops.)&lt;TEXTBUTTON&gt;Touch the sphere.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Slowly take your hand away.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

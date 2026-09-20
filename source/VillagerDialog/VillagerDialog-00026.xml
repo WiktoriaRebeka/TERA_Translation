@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="45300" huntingZoneId="0" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">(Unknown forces attacked the {@Rgn:84001} two days ago.)&lt;BR&gt;&lt;BR&gt;(All of {@Rgn:103} is under the control of the invaders, though the {@Rgn:84001} remains free thanks to the intervention of {@Creature:248#2008}, who erected a shield around the city.)&lt;BR&gt;&lt;BR&gt;(We're requesting assistance from Allemantheia. If anyone can cut through these strange creatures, it's the high elves.)&lt;BR&gt;&lt;BR&gt;(If they can't, we might all be lost.)&lt;CLOSEPAGEBUTTON&gt;"Incredible."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

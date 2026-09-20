@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="6005" huntingZoneId="735" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Randun's Journal #14</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Day 21&lt;BR&gt;&lt;BR&gt;I shouldn't have believed him. How could I have thought trusting a man who worked with the archdevans was a good idea? It was suspicious from the start—I should have known better.&lt;TEXTBUTTON&gt;Open the book.&lt;/TEXTBUTTON&gt;&lt;NEXTPAGEBUTTON&gt;Read the next page.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Day 33&lt;BR&gt;&lt;BR&gt;Dakyuron is now experimenting on humans. The finest among the Khirians have been imprisoned. They're all innocent—just like Syona.&lt;NEXTPAGEBUTTON&gt;Read the next page.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Day 57&lt;BR&gt;&lt;BR&gt;I failed Syona. Unbelievable.  If only I knew how to use magic or...something. Anything. I could have done something.&lt;BR&gt;&lt;BR&gt;I hear Syona screaming every time I close my eyes.&lt;NEXTPAGEBUTTON&gt;Read the next page.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">My dear Syona,&lt;BR&gt;&lt;BR&gt;Forgive me. There was nothing I could do. I let you down.&lt;BR&gt;&lt;BR&gt;I'll find a way to make up for this. I will. Just...please...&lt;EVENTPAGEBUTTON&gt;Finish reading the book.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

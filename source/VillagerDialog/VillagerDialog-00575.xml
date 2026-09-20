@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="60" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="60" prevId="0" villagerId="1005" endSocial="14">
+        <Page social="4">The townsfolk are sinking deeper into despair because of the faeries' attacks. Our lord is constantly worried about the town.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1005" endSocial="14">
+        <Page social="4">I can't sleep at night thinking of all those people living in tents.</Page>
+    </Text>
+</VillagerDialog>

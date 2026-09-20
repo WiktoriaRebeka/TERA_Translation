@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1025" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">I think something watches us from above.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="3">Quiet! I thought I heard something.</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">We're a shambles, and we haven't even started fighting.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1102" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">The powder in the air is getting thick.&lt;BR&gt;&lt;BR&gt;We shouldn't stay here for long. Let's move.&lt;BR&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">The messenger was right.&lt;BR&gt;It's clear that the butterflies' numbers have increased.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">Are we there yet? It's been a while...how much longer will it take?</Page>
+    </Text>
+</VillagerDialog>

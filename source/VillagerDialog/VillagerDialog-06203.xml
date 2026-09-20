@@ -1,0 +1,29 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="123" huntingZoneId="445" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="1" voiceTypeId="26">Don't hesitate to let me know how I can help you.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="1" voiceTypeId="26">Want more close-range reinforcements for the central post?&lt;TEXTBUTTON&gt;Send close-range guards to central.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Ask for reinforcements.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" endSocial="4">
+        <Page social="1" voiceTypeId="26">Do you want more long-range reinforcements for the central post?&lt;TEXTBUTTON&gt;Send long-range guards to central.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Ask for reinforcements.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" endSocial="1">
+        <Page social="4" voiceTypeId="26">Do you want more close-range reinforcements for the eastern post?&lt;TEXTBUTTON&gt;Send close-range guards to east.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Ask for reinforcements.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" endSocial="1">
+        <Page social="14" voiceTypeId="26">Do you want more long-range reinforcements for the eastern post?&lt;TEXTBUTTON&gt;Send long-range guards to east.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Ask for reinforcements.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="6" endSocial="1">
+        <Page social="14" voiceTypeId="26">Do you want more close-range reinforcements for the western post?&lt;TEXTBUTTON&gt;Send close-range to west.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Ask for reinforcements.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="7" endSocial="1">
+        <Page social="14" voiceTypeId="26">Do you want more long-range reinforcements for the western post?&lt;TEXTBUTTON&gt;Send long-range guards to west.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Ask for reinforcements.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="8" endSocial="1">
+        <Page social="14" voiceTypeId="26">Do you want to increase endurance for all the guards?&lt;TEXTBUTTON&gt;Increase endurance for all guards.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Ask for reinforcements.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="9" endSocial="1">
+        <Page social="14" voiceTypeId="26">I can heal all the guards.&lt;TEXTBUTTON&gt;Heal all guards.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Ask for reinforcements.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

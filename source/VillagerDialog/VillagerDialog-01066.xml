@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1961" huntingZoneId="63" voiceTypeId="68" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5">Keep spare crystals handy. You never know when a dracoloth will melt your face off and ruin your day.&lt;BR&gt;&lt;BR&gt;Oh, sure...a priest might resurrect you, but no priest can resurrect your crystals!</Page>
+    </Text>
+    <Text id="101" prevId="0" endSocial="14">
+        <Page>Cut. Color. Clarity! Dimon is your best friend!</Page>
+    </Text>
+</VillagerDialog>

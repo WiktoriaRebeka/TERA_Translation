@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2006" huntingZoneId="182" voiceTypeId="143" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="5" voiceTypeId="143">You're empty-handed. That's not a good sign.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">We didn't learn anything from her, except maybe about this "Dakuryon," whoever that is.&lt;BR&gt;&lt;BR&gt;But on the bright side, we've stopped a leak, and they won't be able to spy on us that way again.</Page>
+    </Text>
+</VillagerDialog>

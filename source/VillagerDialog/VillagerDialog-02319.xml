@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1017" huntingZoneId="81" voiceTypeId="38" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="81" prevId="0" villagerId="1017" endSocial="14">
+        <Page social="4">Faeries hold secret power here in the forest. Few know what it is. Power that grows with time and need. Power deeply secluded where one could normally never reach.&lt;BR&gt;&lt;BR&gt;That power should fall to me. Whatever it takes, no matter how long!</Page>
+    </Text>
+    <Text id="101" huntingZoneId="81" prevId="0" villagerId="1017" endSocial="0">
+        <Page social="0">Hope will one day return and sprout from the ground in these lands. It's only a matter of time.</Page>
+    </Text>
+    <Text id="102" huntingZoneId="81" prevId="0" villagerId="1017" endSocial="0">
+        <Page social="0">My seeds, my power, this forest will be my legacy. Your hope. My glory!</Page>
+    </Text>
+</VillagerDialog>

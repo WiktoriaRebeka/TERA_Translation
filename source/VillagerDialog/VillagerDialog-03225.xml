@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7000" huntingZoneId="183" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="167">Hi! Call me Hoirun!&lt;BR&gt;I can send you to where the festival is held!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="167">I'd love a festival myself, as well, but there isn't one now.&lt;BR&gt;Come next time. There might be one.</Page>
+    </Text>
+</VillagerDialog>

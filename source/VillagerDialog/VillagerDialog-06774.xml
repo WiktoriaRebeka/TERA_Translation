@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5042" huntingZoneId="528" voiceTypeId="75" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="5">
+        <Page social="5" voiceTypeId="75">&lt;PCNAME&gt;, please return to Velika.&lt;BR&gt;&lt;BR&gt;Demokrons have appeared in Arun. Commander Seir requires your presence.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="5" voiceTypeId="0">I've come from Velika.&lt;BR&gt;The commander is waiting for you.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4" voiceTypeId="0">I'll send you immediately to Velika, when you're ready.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">This wasn't easy for the commander.&lt;BR&gt;You should be aware of that Helkan.</Page>
+    </Text>
+</VillagerDialog>

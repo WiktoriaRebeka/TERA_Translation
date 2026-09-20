@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9992" huntingZoneId="2502" voiceTypeId="294" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="1" voiceTypeId="294">Stop the Murderwing Monarchs.</Page>
+    </Text>
+    <Text id="2" endSocial="1">
+        <Page social="1" voiceTypeId="294">Remove the barrier to defeat the Murderwing Monarchs.</Page>
+    </Text>
+    <Text id="3" endSocial="1">
+        <Page social="1" voiceTypeId="294">The barrier can be removed by collecting Blue Essence from Murderwings.</Page>
+    </Text>
+    <Text id="4" endSocial="1">
+        <Page social="1" voiceTypeId="294">Wait for the Murderwing Monarchs to come to the ground when their barrier is removed.</Page>
+    </Text>
+    <Text id="5" endSocial="1">
+        <Page social="1" voiceTypeId="294">The Red Essence will disturb flying. Be cautious.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1013" huntingZoneId="60" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="60" prevId="0" villagerId="1013" endSocial="14">
+        <Page social="4">Think we've got it bad? You should see the Tuwangi Mire...or the Celestial Hills. Everyone pays attention to the argon front, but the home front is slowly slipping out of our grasp.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1013" endSocial="14">
+        <Page social="4">If Velika cared, they'd send more than a handful of green "reinforcements" our way.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2060" huntingZoneId="183" voiceTypeId="64" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="0" voiceTypeId="67">Fishing is the best sport there is! Would you like to try for yourself? We could always use another angler!&lt;BR&gt;&lt;BR&gt;You're new to fishing? Don't worry! That's why we're here. After we teach you the basics, we'll teleport you to a fishing spot.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Hey there, fellow angler! You ever tried to catch a BAF? Don't forget that our duty is to spread the word about how wonderful fishing is. Would you like to go to another fishing spot?</Page>
+    </Text>
+</VillagerDialog>

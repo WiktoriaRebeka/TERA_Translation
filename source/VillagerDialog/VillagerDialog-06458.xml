@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1004" huntingZoneId="489" voiceTypeId="152" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="489" prevId="0" villagerId="1004" endSocial="14">
+        <Page social="4">Fine work dealing with the Atel Akaad.&lt;BR&gt;&lt;BR&gt;Things looked grim indeed.</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="489" prevId="0" villagerId="1004" endSocial="0">
+        <Page social="0">Finally! It seemed doubtful that we'd survive!</Page>
+    </Text>
+</VillagerDialog>

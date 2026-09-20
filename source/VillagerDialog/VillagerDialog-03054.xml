@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2510" huntingZoneId="182" voiceTypeId="278" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">You were right under our noses!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">You're just making it harder on yourself!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Let's go back.</Page>
+    </Text>
+    <Text id="1" endSocial="0">
+        <Page social="6" voiceTypeId="278">She preferred death to Dakuryon's displeasure...?&lt;BR&gt;&lt;BR&gt;That means the archdevas are more afraid of him than us.</Page>
+    </Text>
+</VillagerDialog>

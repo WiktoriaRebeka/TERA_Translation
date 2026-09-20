@@ -1,0 +1,23 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30000" huntingZoneId="2501" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Too late. He got the body already.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">Powerful attack.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Urgh... Hya!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">Damnit, we lost him.</Page>
+    </Text>
+    <Text id="112" endSocial="0">
+        <Page social="0" voiceTypeId="0">I will follow the God of Death Thulsa. Please take care of this place.</Page>
+    </Text>
+    <Text id="113" endSocial="0">
+        <Page social="0" voiceTypeId="0">Once this place is cleared, come and fight them with me.</Page>
+    </Text>
+    <Text id="114" endSocial="0">
+        <Page social="0" voiceTypeId="0">I’m counting on you.</Page>
+    </Text>
+</VillagerDialog>

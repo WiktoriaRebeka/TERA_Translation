@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="50017" huntingZoneId="63" voiceTypeId="104" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="1" voiceTypeId="0">Welcome, &lt;PCNAME&gt;!</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="1" voiceTypeId="0">Welcome, &lt;PCNAME&gt;! Update your guild emblem? Or I can arrange for flags to be displayed on the exterior walls of your Skycastle!</Page>
+    </Text>
+</VillagerDialog>

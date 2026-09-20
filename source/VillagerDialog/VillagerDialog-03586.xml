@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="207" voiceTypeId="39" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4" voiceTypeId="0">There is little time for sentimentality. Lives have been lost but if we do not work quickly, it will be for naught.&lt;BR&gt;&lt;BR&gt;That's simply not acceptable.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4" voiceTypeId="0">These cultists and their nagas threaten everything! If we fail here, so many deaths will have no meaning.&lt;BR&gt;&lt;BR&gt;We cannot be deterred, and the Scions of Lok will rue the day they opposed the Mysterium.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">Giant Kumases and Kobolds are marching towards the Research Center. If you're ready, I can transport you immediately to the Defense Shield.&lt;TEXTBUTTON&gt;Protect Sanctum Mysterium&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Enter Defense Shield&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

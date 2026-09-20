@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4504" huntingZoneId="453" voiceTypeId="3" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">They're coming!</Page>
+    </Text>
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Nice moves! I don't suppose you're looking to take on an apprentice?</Page>
+    </Text>
+</VillagerDialog>

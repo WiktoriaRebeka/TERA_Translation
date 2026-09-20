@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="99" huntingZoneId="491" voiceTypeId="30" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">I don't know how something like that could have happened at the Eldritch Academy.&lt;BR&gt;&lt;BR&gt;We'll be able to deal with it once the sealing device is functioning again, but until then, we'll need to all work together to keep things under control.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">This is terrible. I don't even know what to say.&lt;BR&gt;&lt;BR&gt;Well, except the "this is terrible" part. I knew to say that.&lt;BR&gt;&lt;BR&gt;Nothing else, though.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0">I'm deactivate the sealing device's shield.&lt;BR&gt;&lt;BR&gt;Once the magic starts, demons will show up to guard it.&lt;BR&gt;&lt;BR&gt;You'll have to protect me until my work is done—can you handle that?&lt;TEXTBUTTON&gt;"Bring it."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Let's go."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

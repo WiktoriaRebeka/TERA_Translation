@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="80" voiceTypeId="14" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="80" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4">It's so frustrating.&lt;BR&gt;&lt;BR&gt;It's been over a month since I came here but I haven't been able to do anything ever since the trouble took place. And the guild won't let me do anything...It's driving me nuts.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Another day wasted. We're not going to get anything done stuck in the village like this!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">This is ridiculous. We have too much to do to be stuck in town.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">We came here for treasure! Not to sit and do nothing.&lt;BR&gt;&lt;BR&gt;I could do nothing at home, you know.</Page>
+    </Text>
+</VillagerDialog>

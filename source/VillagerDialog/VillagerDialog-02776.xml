@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8200" huntingZoneId="122" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="3" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">Hello! You seem flush. How may this one attend you today?</Page>
+    </Text>
+    <Text id="20" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">Welcome! This one stands ready to serve you, no matter the price.</Page>
+    </Text>
+    <Text id="21" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">Greetings! Shall I stitch your wounds and salve your burns?</Page>
+    </Text>
+    <Text id="22" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">Hello! What burdens you, other than gold?</Page>
+    </Text>
+    <Text id="23" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">Salutations! I stand ready to serve your needs and tend your wounds. Where shall we start?</Page>
+    </Text>
+    <Text id="1" huntingZoneId="121" prevId="0" villagerId="8100" endSocial="14">
+        <Page social="4">It seems your account is not balanced. Your blood must go on flowing.</Page>
+    </Text>
+</VillagerDialog>

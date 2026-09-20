@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1030" huntingZoneId="79" voiceTypeId="15" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="4">It got really cold all of a sudden.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="10">Have you seen the monsters outside?</Page>
+    </Text>
+</VillagerDialog>

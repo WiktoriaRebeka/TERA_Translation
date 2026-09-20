@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1101" huntingZoneId="63" voiceTypeId="16" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1101" endSocial="14">
+        <Page social="4" voiceTypeId="0">You've found federation headquarters. Everyone is very busy here, so I must insist you only enter on official business.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">What a relief. I found this for you.</Page>
+    </Text>
+</VillagerDialog>

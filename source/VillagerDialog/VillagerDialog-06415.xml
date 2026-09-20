@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="11006" huntingZoneId="478" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">(The voice of Garan echoes in your head.)&lt;BR&gt;&lt;BR&gt;Don't trust Suryati!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Suryati gave Thulsa the tools to enslave us!&lt;BR&gt;&lt;BR&gt;Kill him! For all of us whose bones litter this accursed mountain, kill him!&lt;TEXTBUTTON&gt;"Garan?"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Die, argon!"&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

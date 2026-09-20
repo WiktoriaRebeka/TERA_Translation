@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1024" huntingZoneId="212" voiceTypeId="114" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="212" prevId="0" villagerId="1024" endSocial="12">
+        <Page social="9">If I had my axe, there'd be a lot fewer slavers around here.&lt;BR&gt;&lt;BR&gt;You can count on that.</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="212" prevId="0" villagerId="1024" endSocial="0">
+        <Page social="9">They said there'd be cake...&lt;BR&gt;&lt;BR&gt;Where is the cake?</Page>
+    </Text>
+</VillagerDialog>

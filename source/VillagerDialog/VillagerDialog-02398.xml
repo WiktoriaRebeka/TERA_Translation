@@ -1,0 +1,29 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9905" huntingZoneId="83" voiceTypeId="7" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="7">It's practically a blizzard! But I don't think that baraka ever gets cold. He just stood there the whole time.&lt;BR&gt;&lt;BR&gt;Stores of the same type offer the same list of deliverable items, in the same amounts.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Look, Jakel is coming.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">Don't worry about fish. We've got 'em.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Oh, my, that smells good.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">The villagers are coming.</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">You're all here. &lt;PCNAME&gt; prepared an enormous fish!</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">Stew? That's my favorite.</Page>
+    </Text>
+    <Text id="107" endSocial="0">
+        <Page social="0" voiceTypeId="0">Those two barakas are just standing there doing nothing. I heard they bet on something.</Page>
+    </Text>
+    <Text id="108" endSocial="0">
+        <Page social="0" voiceTypeId="0">I should leave some for those two.</Page>
+    </Text>
+</VillagerDialog>

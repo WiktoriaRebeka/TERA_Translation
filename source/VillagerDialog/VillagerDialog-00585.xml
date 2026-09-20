@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1015" huntingZoneId="60" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="60" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">I hope you didn't come here to get rich. Or become famous. Or live a quiet life.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">Dream big, and you'll get to Velika someday, child.</Page>
+    </Text>
+    <Text id="99" huntingZoneId="60" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4" />
+    </Text>
+</VillagerDialog>

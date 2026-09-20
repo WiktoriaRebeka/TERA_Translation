@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1251" huntingZoneId="63" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">Hello, &lt;PCNAME&gt;. I can help you manage your inventory.&lt;BR&gt;&lt;BR&gt;It's always better to be able to carry more stuff with you, am I right? But such a luxury will cost a pretty penny.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="60" voiceTypeId="4" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="60" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4">I hear the tuwangis are on the march. Or the hop. Or whatever it is they do.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014" endSocial="14">
+        <Page social="4">The tuwangis are coming, but no one seems to care.&lt;BR&gt;&lt;BR&gt;Someone, do something!</Page>
+    </Text>
+</VillagerDialog>

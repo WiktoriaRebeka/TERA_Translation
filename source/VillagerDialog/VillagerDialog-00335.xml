@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1140" huntingZoneId="27" voiceTypeId="69" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="0" voiceTypeId="0">Gasp...I ran all the way here.&lt;BR&gt;&lt;BR&gt;Can I get something to drink?&lt;BR&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">So busy!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! Is &lt;PCNAME&gt; here?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">We should hurry. Elleon is waiting.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,9 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5004" huntingZoneId="783" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">So... we meet again.&lt;BR&gt;&lt;BR&gt;During the teleportation, I noticed my horn had been broken. Then I completely lost myself. Of course, the teleportation failed, too.&lt;BR&gt;&lt;BR&gt;That's how those red fellas got me again.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Don't worry. I will escape on my own this time.&lt;BR&gt;&lt;BR&gt;You noticed the electric laser?&lt;BR&gt;You need a counter measure. Like something that grants you lightning resistance. If not, you're toast.&lt;BR&gt;&lt;BR&gt;I've had that happen, and I don't want to repeat the experience.&lt;TEXTBUTTON&gt;"You need get out. Now."&lt;/TEXTBUTTON&gt;&lt;NEXTPAGEBUTTON&gt;"Don't worry."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">I will be on my way.&lt;BR&gt;I hope our paths cross again.&lt;BR&gt;&lt;BR&gt;If so, drinks are on me.&lt;CLOSEPAGEBUTTON&gt;"I will look forward to it."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

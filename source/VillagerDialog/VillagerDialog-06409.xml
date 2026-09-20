@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8004" huntingZoneId="478" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">Free. Thank Kaia, I'm free!&lt;BR&gt;&lt;BR&gt;Ugh—I think you've done me in, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;I'm dying...</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">No, no...it's better this way. I couldn't live with the shame of my actions.&lt;BR&gt;&lt;BR&gt;Suryati leads the argons. I'll have to leave him to you. Heh. Tell him I said hello.&lt;BR&gt;&lt;BR&gt;Wait here while I open the portal. Careful! It'll take time...and they'll know you're coming.&lt;TEXTBUTTON&gt;"It was the only way."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Good."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

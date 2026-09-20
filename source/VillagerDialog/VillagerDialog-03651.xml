@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1008" huntingZoneId="208" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="208" prevId="0" villagerId="1008" endSocial="0">
+        <Page social="0">Press Golden Labyrinth to enter the dungeon.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="208" prevId="0" villagerId="1008" endSocial="0">
+        <Page social="0">Press Enter Golden Labyrinth to enter the dungeon.&lt;TEXTBUTTON&gt;Golden Labyrinth&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Enter Golden Labyrinth&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

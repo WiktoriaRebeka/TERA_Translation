@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2" huntingZoneId="16" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="16" prevId="0" villagerId="2" endSocial="0">
+        <Page social="0">How embarrassing! Can we keep this just between us?</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="16" prevId="0" villagerId="2" endSocial="0">
+        <Page social="0">You've arrived at last!</Page>
+    </Text>
+</VillagerDialog>

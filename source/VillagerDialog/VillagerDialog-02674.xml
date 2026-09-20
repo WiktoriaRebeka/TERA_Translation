@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220046" huntingZoneId="84" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">You're already in an alliance.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">To the shame of the federation, guildmasters from around the world of TERA formed three alliances to take control. Which reflects your philosophy?&lt;BR&gt;&lt;BR&gt;The material desires of the Free Traders Collective? The fellowship of the Enlightened Union? Or the battle stance of the Iron Order?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">Only guildmasters can select a guild's alliance.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">The federation hasn't kept its promises. There is a movement afoot to change how the power is weilded.&lt;BR&gt;&lt;BR&gt;But you didn't hear it from me, of course.</Page>
+    </Text>
+</VillagerDialog>

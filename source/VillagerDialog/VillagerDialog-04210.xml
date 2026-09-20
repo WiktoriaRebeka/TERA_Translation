@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1045" huntingZoneId="221" voiceTypeId="21" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="221" prevId="0" villagerId="1045" endSocial="14">
+        <Page social="4">These ruins...they have a hidden power.&lt;BR&gt;&lt;BR&gt;I will discover it. You wait and see.</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="221" prevId="0" villagerId="1045" endSocial="14">
+        <Page social="4">I have to report to my captain.&lt;BR&gt;&lt;BR&gt;Please excuse me.</Page>
+    </Text>
+</VillagerDialog>

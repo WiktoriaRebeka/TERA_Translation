@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="216" huntingZoneId="827" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="0">Hello, &lt;PCNAME&gt;! We heard you ran into some trouble on the way back from Tangle Point...and that you took care of it by yourself! We're impressed!&lt;BR&gt;&lt;BR&gt;You should think about joining the village guardians. We could use more people like you!</Page>
+    </Text>
+</VillagerDialog>

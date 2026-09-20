@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3002" huntingZoneId="71" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5" voiceTypeId="248">I don't really have time for you. Step aside, please.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="14" voiceTypeId="249">I can trust someone like you. You understand nature like we do.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="5" voiceTypeId="250">You must be the guardian of this place! I have no doubt that the goddess Seren guided you here!</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="5" voiceTypeId="250">You must be the guardian of this place! I have no doubt that the goddess Seren guided you here!</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3002" huntingZoneId="77" voiceTypeId="82" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="252">You'd better stay away! My teeth are pretty sharp, I'll have you know!</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="253">What is it?&lt;BR&gt;&lt;BR&gt;Do you have something to say to me?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="14" voiceTypeId="254">Wow! Can you play with me today? Huh? Let's play hide-and-seek, okay? Please?</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="14" voiceTypeId="254">Wow! Can you play with me today? Huh? Let's play hide-and-seek, okay? Please?</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,29 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1000" huntingZoneId="2504" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Hm...</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">There's nothing else we can gain from this anymore.&lt;BR&gt;Why don't we call it a day?</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'm glad they backed down so easily.</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">Now, then...&lt;BR&gt;Is everyone okay?</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="0">For now, we'd better get out of here.</Page>
+    </Text>
+    <Text id="6" endSocial="0">
+        <Page social="0" voiceTypeId="0">Then, let's look for an exit.</Page>
+    </Text>
+    <Text id="7" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'll go this way.&lt;BR&gt;Want to come with me?</Page>
+    </Text>
+    <Text id="8" endSocial="0">
+        <Page social="0" voiceTypeId="0">We can get out through here.</Page>
+    </Text>
+    <Text id="9" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'll go bring Elleon.&lt;BR&gt;You get out first.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1044" huntingZoneId="64" voiceTypeId="8" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="64" prevId="0" villagerId="1044" endSocial="14">
+        <Page social="4">You're smart to talk to us here in camp, but smarter if you communicate with the others out there. &lt;BR&gt;&lt;BR&gt;Introduce yourself to the people you see while fighting or traveling. You'll find grouping up makes hunting go faster, and it keeps you in the thick of things longer.&lt;BR&gt;&lt;BR&gt;Press the &lt;font color='#660000'&gt;Alt-key&lt;/font&gt;, then right-click someone for a list of options, or use the chat window, and "/invite character_name"</Page>
+    </Text>
+</VillagerDialog>

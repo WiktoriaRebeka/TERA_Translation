@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2011" huntingZoneId="247" voiceTypeId="267" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">I'm glad that the Argons are gone...but what happened to the wendigos?&lt;BR&gt;Did the Argons have a purpose here?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'll head to the camp.&lt;BR&gt;I'll see you there!</Page>
+    </Text>
+</VillagerDialog>

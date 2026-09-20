@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2007" huntingZoneId="249" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">My brother volunteered for scout duty a few weeks ago.&lt;BR&gt;&lt;BR&gt;I haven't heard from him since.</Page>
+    </Text>
+    <Text id="100" endSocial="14">
+        <Page social="4">My friend, you look like I feel.&lt;BR&gt;&lt;BR&gt;Take a break for your health.</Page>
+    </Text>
+    <Text id="101" endSocial="14">
+        <Page social="12">My brother can't be dead! He's clever and...well, he's clever.</Page>
+    </Text>
+    <Text id="102" endSocial="14">
+        <Page social="13">All I want is for this endless death and horror to mean something in the end.&lt;BR&gt;&lt;BR&gt;Anything, really.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22020" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">(This gate can transport you to strategic locations for the strength and defense of the Iron Order.)</Page>
+    </Text>
+    <Text id="12122020" endSocial="0">
+        <Page social="0" voiceTypeId="0">(This gate is for Iron Order members only.)</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">(This gate is under construction and unavailable for use.)</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1019" huntingZoneId="80" voiceTypeId="158" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="80" prevId="0" villagerId="1019" endSocial="14">
+        <Page social="4">&lt;PCNAME&gt;! I'm glad you're here lending your strength. The Dragonfall guardsmen and our guild members are barely making a dent out there.&lt;BR&gt;&lt;BR&gt;Just tell us how we can help you.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Be safe out there.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">It should be safe soon. The guards are supposed to be on the way.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">Do you need something?</Page>
+    </Text>
+</VillagerDialog>

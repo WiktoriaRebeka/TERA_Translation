@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220020" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="25">So many research projects!</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">You should go find members of your own alliance. I'll bet they have lovely things to say.&lt;BR&gt;&lt;BR&gt;Shoo.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">You should go find members of your own alliance. I'll bet they have lovely things to say.&lt;BR&gt;&lt;BR&gt;Shoo.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="25">Sorry, I can't help you unless you're a member. Consider joining us, and then we can chat.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="25">Sorry, I'm not quite up to chatting just right now.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2002" huntingZoneId="418" voiceTypeId="20" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">Just passing through, eh?&lt;BR&gt;&lt;BR&gt;I'm guessing you're on a mission, or you wouldn't be in such a hurry.&lt;BR&gt;&lt;BR&gt;I tell you what: Let's have a riddle contest. If you win, I'll let you pass.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">Ha! What a tough customer you are! Very well.&lt;TEXTBUTTON&gt;"I don't have time for this." &lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Just open the door already." &lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4">Okay, just a moment. I'll open the door for you.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="4">You'd better watch your back.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22012" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="0">Hm. &lt;PCNAME&gt;, &lt;PCNAME&gt; ... no, nothing in my records. You don't appear to have an account with this bank.</Page>
+    </Text>
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">There's no safer place for your spare gear than a bank vault.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">You can leave it with us—whatever it is.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">You can go perform deeds of valor with a clear head, knowing we're taking care of your gear.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">Communities take root because someone brave carves out a safe place for them. They grow because someone shrewd know when to buy and when to borrow. But they only mature when someone wise codifies the rules that let them all live together in peace.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4000100" huntingZoneId="830" voiceTypeId="167" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="167">&lt;img src='img://__Image_Dungeon_9830.9830'/&gt;Welcome to the Celestial Arena!&lt;BR&gt;&lt;BR&gt;The arena has various stages to challenge your skills and tactics.&lt;BR&gt;&lt;BR&gt;Are you ready to test your own abilities?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="4" voiceTypeId="167">&lt;img src='img://__Image_Dungeon_9830.9830'/&gt;Excellent! The arena consists of 7 stages total. The more stages you complete, the better your reward.&lt;BR&gt;&lt;BR&gt;Let me know when you're ready, and the first challenge will begin!&lt;TEXTBUTTON&gt;I am ready.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Here I go!&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

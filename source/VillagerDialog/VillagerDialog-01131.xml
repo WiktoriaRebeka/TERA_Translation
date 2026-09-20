@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7002" huntingZoneId="63" voiceTypeId="112" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="112">Did you hear about the solo Ace Dungeons?&lt;BR&gt;&lt;BR&gt;To find the Ace Dungeons, open Instance Matching and select the second tab, marked Ace Dungeons. From there, select a trial (a solo version of some familiar dungeons) and one or more tasks for a chance to earn ace medals. The better you do, the more medals you earn.&lt;BR&gt;&lt;BR&gt;Turn in the medals on the same interface. You have limited attempts for each trial each day, so make them count!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="4" voiceTypeId="112">Test yourself in an Ace Dungeon.</Page>
+    </Text>
+</VillagerDialog>

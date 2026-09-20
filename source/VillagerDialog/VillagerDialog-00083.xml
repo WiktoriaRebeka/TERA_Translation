@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="143536" huntingZoneId="0" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Welcome back!&lt;BR&gt;&lt;BR&gt;To receive all your gifts, go to Menu &gt; Event &gt; Returning Player Event &gt; Get all benefits.&lt;BR&gt;&lt;BR&gt;---------------------------------&lt;BR&gt;&lt;BR&gt;&lt;font color = '#CC0000'&gt;&lt;B&gt;You can only receive a returning player reward once per account, every 30 days.&lt;BR&gt;If you have already received a returning player reward, the UI might not appear.&lt;BR&gt;&lt;BR&gt;&lt;B&gt;&lt;font color = '#FF0000'&gt;You can delete this note, still receive the rewards, and progress the quests.&lt;/font&gt;&lt;/B&gt;&lt;BR&gt;&lt;CLOSEPAGEBUTTON&gt;Close the note.&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

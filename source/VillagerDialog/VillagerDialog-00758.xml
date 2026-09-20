@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1501" huntingZoneId="62" voiceTypeId="86" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="20">
+        <Page social="0" voiceTypeId="0">&lt;img src='img://__Image_Dungeon_9060.9060'/&gt;&lt;BR&gt;Are you here to help? Are you prepared? I hope you have your sea legs.&lt;BR&gt;&lt;BR&gt;(&lt;font color='#0000FF'&gt;Kalivan's Challenge&lt;/font&gt; requires a group of exactly 5 players using Battle Solutions.)&lt;BR&gt;&lt;BR&gt;(Kalivan's Challenge will not start until the above conditions are met.)&lt;BR&gt;&lt;BR&gt;(&lt;font color='#0000FF'&gt;Kalivan's Dreadnaught&lt;/font&gt; is a 5-player dungeon.)</Page>
+    </Text>
+</VillagerDialog>

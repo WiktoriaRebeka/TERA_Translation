@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1007" huntingZoneId="488" voiceTypeId="30" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="488" prevId="0" villagerId="1007" endSocial="0">
+        <Page social="0">Every seer is bound by a common, tragic thread. We all know firsthand how much of life is inevitable.&lt;BR&gt;&lt;BR&gt;Like my imprisonment here.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="488" prevId="0" villagerId="1007" endSocial="0">
+        <Page social="0">&lt;TEXTBUTTON&gt;"Let's get you out of here."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Start escort.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

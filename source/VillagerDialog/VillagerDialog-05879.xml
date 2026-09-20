@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1201" huntingZoneId="378" voiceTypeId="20" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="378" prevId="0" villagerId="1201" endSocial="14">
+        <Page social="4" voiceTypeId="0">Are you here to learn a new skill? The vanarch has put me in charge of teaching new skills required in battle. What skills are you interested in?</Page>
+    </Text>
+</VillagerDialog>

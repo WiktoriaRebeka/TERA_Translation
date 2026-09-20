@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4000102" huntingZoneId="830" voiceTypeId="167" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="167">&lt;img src='img://__Image_Dungeon_9830.9830'/&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;&lt;PCNAME&gt;!! &lt;/font&gt;What a disappointment. &lt;BR&gt;A bigger disappointment for the crowd who was rooting for you... &lt;BR&gt;&lt;BR&gt;How could you let everyone down? &lt;BR&gt;&lt;BR&gt;The arena manager is very upset!!&lt;BR&gt;&lt;BR&gt;Be gone!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="4" voiceTypeId="167">Celestial Arena is not available right now.&lt;BR&gt;Try back later.</Page>
+    </Text>
+</VillagerDialog>

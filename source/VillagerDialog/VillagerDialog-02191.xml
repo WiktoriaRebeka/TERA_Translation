@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3003" huntingZoneId="78" voiceTypeId="117" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="242">My cousin in Kanstria speaks of the Valsekyr Hunt.&lt;BR&gt;&lt;BR&gt;Bah! This is no game we play.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="243">I love the smell of cyasma in the morning....</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="244">May Kaia stand between your foes and the chinks in your armor.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="244">Why not leave the fighting to the military? Because unlike some worms, I'm proud of my home and I'll fight for it!</Page>
+    </Text>
+</VillagerDialog>

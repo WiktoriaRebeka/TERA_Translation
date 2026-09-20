@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1004" huntingZoneId="203" voiceTypeId="24" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="203" prevId="0" villagerId="1004" endSocial="14">
+        <Page social="4" voiceTypeId="0">Blood Run's not so bad. Sure, the fighting's nearly constant and the stonebeaks drive you mad, but the view is pretty and when the screaming's done, we can hear the water in the cave.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Press &lt;img src='img://__Icon_KeyboardShape.Keyboard_t' width='21' height='21' vspace='-6'/&gt; key to enchant with relic fragments. Enchanting will greatly improve your weapon.</Page>
+    </Text>
+</VillagerDialog>

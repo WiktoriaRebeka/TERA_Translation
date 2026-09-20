@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1133" huntingZoneId="72" voiceTypeId="146" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="146">Are you speaking to me?&lt;BR&gt;&lt;BR&gt;Rather presumptuous, don't you think?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">The high elves believe their command of magic is superior to everyone else's. Pride is such a dangerous indulgence.</Page>
+    </Text>
+</VillagerDialog>

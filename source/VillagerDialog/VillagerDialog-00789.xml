@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="63" voiceTypeId="88" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1003" endSocial="14">
+        <Page social="4">Welcome, welcome! I operate the safest bank on the continent, no question! My vault is impenetrable!&lt;BR&gt;&lt;BR&gt;And your stuff will be safe, too!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1003" endSocial="14">
+        <Page social="4">Don't worry about your precious belongings. I'll protect them like they were my very own!&lt;BR&gt;&lt;BR&gt;Feel secure leaving them with me!</Page>
+    </Text>
+</VillagerDialog>

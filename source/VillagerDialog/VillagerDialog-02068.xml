@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1016" huntingZoneId="76" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">What a relief. We're communicating with {@Rgn:84001} again.&lt;BR&gt;&lt;BR&gt;I knew the federation wouldn't abandon us.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Good-bye, {@LinkCreature:76#1011}. Be careful!</Page>
+    </Text>
+</VillagerDialog>

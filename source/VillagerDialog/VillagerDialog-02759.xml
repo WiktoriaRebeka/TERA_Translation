@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30001" huntingZoneId="121" voiceTypeId="2" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="6">
+        <Page social="0" voiceTypeId="0">What's the Free Traders Collective for, if not free trade?&lt;BR&gt;&lt;BR&gt;You are in the collective, right?</Page>
+    </Text>
+    <Text id="6" endSocial="4">
+        <Page social="0" voiceTypeId="0">I only do business with members of my own alliance!</Page>
+    </Text>
+</VillagerDialog>

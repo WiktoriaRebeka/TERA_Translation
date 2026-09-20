@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3601" huntingZoneId="77" voiceTypeId="14" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="233">Are all Valkyon Federation soldiers rude like you? Please leave me alone.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="234">I don't like the Valkyon Federation, but you're an exception. Tell me if there's an item you need.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="235">Hey, long time no see. It's really good to see you again. Are you looking for anything in particular? Let me know.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="235">Hey, long time no see. It's really good to see you again. Are you looking for anything in particular? Let me know.</Page>
+    </Text>
+</VillagerDialog>

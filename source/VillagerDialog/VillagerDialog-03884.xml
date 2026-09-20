@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1025" huntingZoneId="213" voiceTypeId="49" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="213" prevId="0" villagerId="1025" endSocial="14">
+        <Page social="4">Make no mistake, &lt;PCCLASS:lcase&gt;, the Tainted Gorge is where the federation's efforts will succeed or fail. A look in any direction from this fire is all the proof necessary for those who doubt.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025" endSocial="14">
+        <Page social="4">This moment. Here, now. This is a time that shapes and defines the brave. Karascha must die!&lt;TEXTBUTTON&gt;To Karascha&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Teleport to Karascha&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

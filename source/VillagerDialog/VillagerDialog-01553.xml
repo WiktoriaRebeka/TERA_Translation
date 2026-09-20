@@ -1,0 +1,9 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1009" huntingZoneId="71" voiceTypeId="45" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="71" prevId="0" villagerId="1009" endSocial="14">
+        <Page social="4" voiceTypeId="0">Need something, soldier?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">One of the Consos clan, Thakun, was due back from Allemantheia, but his pegasus arrived empty.&lt;NEXTPAGEBUTTON&gt;"He fell?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Likely. Reading a book, no doubt.&lt;BR&gt;&lt;BR&gt;I doubt he survived, but his family will want the body.&lt;CLOSEPAGEBUTTON&gt;"I'll keep my eyes open."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

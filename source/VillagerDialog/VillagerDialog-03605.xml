@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1020" huntingZoneId="207" voiceTypeId="50" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="1020" endSocial="14">
+        <Page social="4">I'm here to serve the Mysterium, like you, friend. Is there someplace you'd like to go faster than your feet or a good mount can take you?</Page>
+    </Text>
+    <Text id="99" huntingZoneId="207" prevId="0" villagerId="1020" endSocial="14">
+        <Page social="4" />
+    </Text>
+</VillagerDialog>

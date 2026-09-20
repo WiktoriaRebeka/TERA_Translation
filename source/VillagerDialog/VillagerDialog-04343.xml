@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="225" voiceTypeId="49" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="225" prevId="0" villagerId="1003" endSocial="10">
+        <Page social="4">I've known Elleon for some time. If you're looking for the cultists, I can help you find them.&lt;BR&gt;&lt;BR&gt;(This is a 3-player instance for players above level 37.)</Page>
+    </Text>
+    <Text id="2" huntingZoneId="225" prevId="0" villagerId="1003" endSocial="18">
+        <Page social="7">The teleportal provides access to the Cultists' Refuge. Let me know when you're ready to proceed. &lt;BR&gt;&lt;BR&gt;&lt;TEXTBUTTON&gt;Cultists' Refuge&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to Cultists' Refuge.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8003" huntingZoneId="13" voiceTypeId="22" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="14" voiceTypeId="22">Hold up! You're about to enter an unsecured part of the island. You sure you want to do that?</Page>
+    </Text>
+</VillagerDialog>

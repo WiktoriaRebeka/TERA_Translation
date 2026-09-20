@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1010" huntingZoneId="232" voiceTypeId="60" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="232" prevId="0" villagerId="1010" endSocial="14">
+        <Page social="4">Is there something you need help with?</Page>
+    </Text>
+    <Text id="101" huntingZoneId="232" prevId="0" villagerId="1010" endSocial="0">
+        <Page social="0">Rushing the process will not get you what you want any sooner. Please be patient.</Page>
+    </Text>
+    <Text id="102" huntingZoneId="232" prevId="0" villagerId="1010" endSocial="0">
+        <Page social="0">Hmm...</Page>
+    </Text>
+    <Text id="103" huntingZoneId="232" prevId="0" villagerId="1010" endSocial="0">
+        <Page social="0">Phew... All that can be done, has been, but there wasn't enough time to create a potion that will do everything you wanted it to do.</Page>
+    </Text>
+</VillagerDialog>

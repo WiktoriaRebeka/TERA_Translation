@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9004" huntingZoneId="950" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Amazing. Velik was truly with you.&lt;BR&gt;&lt;BR&gt;The battle was titanic, and what was left of Harrowhold has been smashed beyond repair...but you stopped Vergos from escaping.&lt;BR&gt;&lt;BR&gt;...wait. Do you hear that? Like a low, angry growl...</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">"I think so..."&lt;TEXTBUTTON&gt;"Is that coming from the cliff edge...?"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Vergos is returning!"&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

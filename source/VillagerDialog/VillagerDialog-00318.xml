@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1015" huntingZoneId="27" voiceTypeId="257" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">My husband...where is he?</Page>
+    </Text>
+    <Text id="101" endSocial="14">
+        <Page social="4" voiceTypeId="0">Here! Over here!</Page>
+    </Text>
+    <Text id="102" endSocial="14">
+        <Page social="4" voiceTypeId="0">Please find my husband!</Page>
+    </Text>
+    <Text id="103" endSocial="14">
+        <Page social="4" voiceTypeId="0">Thank you so much!</Page>
+    </Text>
+</VillagerDialog>

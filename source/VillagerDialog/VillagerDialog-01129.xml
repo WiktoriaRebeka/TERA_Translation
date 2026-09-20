@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7000" huntingZoneId="63" voiceTypeId="167" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="167">Greetings! Are you getting excited for festival season?&lt;BR&gt;&lt;BR&gt;I'm so excited, I would fly my carpet over there right now if they'd let me!&lt;BR&gt;&lt;BR&gt;Alas...I'm on duty to help people get there. So, you know...if you don't go now, I'm missing out on all the fun for nothing...&lt;BR&gt;&lt;BR&gt;(Note: Level requirements may apply for certain quests.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="167">I'm afraid you caught me between festivals.&lt;BR&gt;&lt;BR&gt;But when the next festival starts, you should come visit me. I'll get you right to the center of all the fun!</Page>
+    </Text>
+</VillagerDialog>

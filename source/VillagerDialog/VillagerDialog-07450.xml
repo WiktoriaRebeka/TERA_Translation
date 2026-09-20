@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9996" huntingZoneId="1022" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">You're brave. You can stop what's happening in the nexus.&lt;BR&gt;&lt;BR&gt;We'll figure it out soon.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">You can't help with this quest here. There are already 120 questers here. Check for another nexus location on the map.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4">You don't have much time! Please hurry!</Page>
+    </Text>
+</VillagerDialog>

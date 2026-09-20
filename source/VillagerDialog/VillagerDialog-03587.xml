@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1002" huntingZoneId="207" voiceTypeId="3" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">I came here with a hundred soldiers. I command fewer than ten now. So much loss, so little reason.&lt;BR&gt;&lt;BR&gt;I don't know what the Mysterium is after. All I know is my orders from Velika are to hold my post and support the Mysterium at all cost.&lt;BR&gt;&lt;BR&gt;What could possibly be worth all this blood?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">Casidhe's Stand? It's named for a young centurion who sacrificed herself to ensure her wounded comrades got away.&lt;BR&gt;&lt;BR&gt;If we don't see more reinforcements, you'll have to rename it Casidhe's Stand and Drustan's Folly.</Page>
+    </Text>
+</VillagerDialog>

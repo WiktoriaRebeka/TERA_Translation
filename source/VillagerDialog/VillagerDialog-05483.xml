@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1029" huntingZoneId="251" voiceTypeId="111" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5">I'm worried about the apprentices. Craxan took them to Frostclaw Crag—that's no place for a beginner.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">I'm glad to hear they're all right. Thank you.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">Craxan's a fool, but a devoted father. Hard to fault an aman for that.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">That fool thinks he has two lives!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0">I'll strangle him myself!</Page>
+    </Text>
+</VillagerDialog>

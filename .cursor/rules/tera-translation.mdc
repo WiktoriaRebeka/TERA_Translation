@@ -1,0 +1,59 @@
+---
+description: TERA New Xenesis EN/LATAM Spanish localization rules from in-game review
+alwaysApply: true
+---
+
+# TERA Translation (EN + LATAM ES)
+
+Audience: Latin American Spanish, tu (never vosotros). Never coger. Endurance = resistencia (never aguante). HP/MP stay English.
+
+Wiktoria copies packs from Desktop, not only the git repo:
+- UI: `C:\Users\wikto\Desktop\StrSheet_UI_Translated\StrSheet_UI-00000.xml`
+- Quest: `C:\Users\wikto\Desktop\StrSheet_Quest_Translation\` (files are `*.xml.xml`)
+Corrected files the agent delivers go to:
+`C:\Users\wikto\Desktop\TERA_DATABASE_TRANSLATION`
+Do not push unless asked. Do not run Quest + UI GitHub Actions in parallel.
+Do not run two Gemini sheet workflows at once (Npc / Passivity / QuestDialog / VillagerDialog / Quest / UI).
+
+Next sheets after Item/UserSkill/UI/Quest:
+- NPC menu: `StrSheet_Npc` (compact EN/ES, Unicode)
+- Green gear lines: `StrSheet_Passivity` `name=` + `tooltip=` (`[EN]<br>[ES]`, no credit)
+- NPC parchment: `QuestDialog` Page text (`[EN]<br>[ES]`, no credit)
+Then later: VillagerDialog, StrSheet_SystemMessage, StrSheet_Tutorial, StrSheet_Abnormality.
+
+Full extracted EUR DataCenter (search here first; do not edit unless asked):
+`C:\Users\wikto\Desktop\TERA BAZA DANYCH\Output\Output\DataCenter_Final_EUR`
+~616 folders. Translate working copies on Desktop / git repo, not this dump.
+
+## Keep English (proper names)
+
+Never translate place names (`StrSheet_Region`, `StrSheet_ZoneName`): Isolated Town, Island of Dawn, Velika, Oblivion Woods, etc.
+Never translate monster names (`StrSheet_Creature` `name=`): Argon Predator, Slinking Sabertooths.
+
+## Quest (`StrSheet_Quest`)
+
+- Window title AND the NPC F-row (`id >= 1000` and `id % 1000 == 1`): English only.
+- F-buttons: English only (quoted and unquoted parchment choices).
+- System chrome `id < 1000`: English only.
+- Journal descriptions: `[EN]…<br>[ES]…` without Transcription credit.
+- NPC parchment body is `QuestDialog` / `VillagerDialog`, not StrSheet_Quest.
+
+## UI (`StrSheet_UI`)
+
+Compact `English/Spanish`. Never translate prices or separators: `$005006` is `,` (thousands). Hash in UI is color.
+
+## DataCenter sheet map
+
+- NPC parchment: `QuestDialog` (~2521), `VillagerDialog` (~8297)
+- NPC menu (Expand Inventory, Learn Skills): `StrSheet_Npc`
+- Green gear lines: `StrSheet_Passivity`
+- Buff/debuff: `StrSheet_Abnormality`
+- Skills: `StrSheet_UserSkill` (`name=` stay EN)
+- Combat chat: `StrSheet_SystemMessage`
+- Runemarks floating hint: `StrSheet_Tutorial` id 1015340
+- Shop comma: `StrSheet_UI` `$005006`
+
+## Encoding
+
+- Item/Quest HTML: `&amp;#NNN;`
+- UI labels: Unicode, no numeric `&#`

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="11005" huntingZoneId="478" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">(Even unpowered, the dark pressure of the dementalith is suffocating.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">The dark energy arising from the Dementalith is suffocating. Even though Thulsa is gone, the power of the Dementalith still remains as strong as ever. &lt;TEXTBUTTON&gt;Investigate more closely.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;The power of the Dementalith is becoming stronger.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

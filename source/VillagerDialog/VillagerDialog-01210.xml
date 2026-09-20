@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220045" huntingZoneId="63" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Sorry—I only process requests from guild masters who have yet to join an alliance.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">Which alliance strikes your heart's desire?&lt;BR&gt;&lt;BR&gt;The Free Traders Collective attracts money while the Enlightened Union attracts favor and reputation, and the Iron Order values combat above all.&lt;BR&gt;&lt;BR&gt;Just let me know, and I'll get you all signed up!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">Sorry, we only take applications from guild masters.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">Oh! We aren't quite ready for volunteers right now. Try back later.</Page>
+    </Text>
+</VillagerDialog>

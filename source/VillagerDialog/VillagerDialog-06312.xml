@@ -1,0 +1,10 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="469" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Huh?&lt;BR&gt;&lt;BR&gt;I'm not hiding anything! I mean: Who are you?</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">You can't just take someone else's stuff!&lt;TEXTBUTTON&gt;Show me what you were trying to hide.&lt;/TEXTBUTTON&gt;&lt;NEXTPAGEBUTTON&gt;Don't make this difficult...&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">Okay! Okay! Don't kill me!&lt;BR&gt;&lt;BR&gt;It's just a cameo pendant that I found.)&lt;NEXTPAGEBUTTON&gt;Let me see inside it.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">&lt;img src='img://__Quest_Mission.46904'/&gt;&lt;BR&gt;&lt;BR&gt;(It's an image of Syona and another elin, standing side by side.)&lt;EVENTPAGEBUTTON&gt;I know who this belongs to. Thanks!&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

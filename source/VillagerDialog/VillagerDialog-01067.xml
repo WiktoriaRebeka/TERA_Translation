@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1962" huntingZoneId="63" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">I'll go to the ends of the world for your business.&lt;BR&gt;&lt;BR&gt;In fact, I just did!</Page>
+    </Text>
+    <Text id="101" prevId="0" endSocial="14">
+        <Page>I'll go far, so you can go far.</Page>
+    </Text>
+</VillagerDialog>

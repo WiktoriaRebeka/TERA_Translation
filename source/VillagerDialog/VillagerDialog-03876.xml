@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1017" huntingZoneId="213" voiceTypeId="87" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="213" prevId="0" villagerId="1017" endSocial="14">
+        <Page social="4">This island is the first new thing on maps in three hundred years, and in just three months we've learned enough to redefine the world.&lt;BR&gt;&lt;BR&gt;Have Arun and Shara dreamed this place to test us, or as a reward for the faithful?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1017" endSocial="14">
+        <Page social="4">Our first sight of the island told us a story of wonder and mysteries. Now all I see is a vast graveyard, where brave men, women, and baraka died.&lt;BR&gt;&lt;BR&gt;Measured against what we've lost, can we ever fully consider this expedition a success?</Page>
+    </Text>
+</VillagerDialog>

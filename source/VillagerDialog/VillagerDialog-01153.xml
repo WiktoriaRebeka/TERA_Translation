@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22002" huntingZoneId="63" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="5" endSocial="14">
+        <Page social="4" voiceTypeId="0">Are you a member of the collective? You sure don't look familiar. Are you here about money? This isn't a bank, you know.</Page>
+    </Text>
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Help the collective and the collective helps you! Now, let's talk tithes...</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">Help the collective and the collective helps you! Now, let's talk tithes...</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">Help the collective and the collective helps you! Now, let's talk tithes...</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="0">Help the collective and the collective helps you! Now, let's talk tithes...</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">Sorry, I'm very busy right now—no time to chat. I have numbers to run and figure to...well, figure. Let's see, I was at...oh, now I've lost count!</Page>
+    </Text>
+</VillagerDialog>

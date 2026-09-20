@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9000" huntingZoneId="3024" voiceTypeId="11" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="3024" prevId="0" villagerId="9000" endSocial="0">
+        <Page social="0">&lt;PCNAME&gt;? I never thought I'd see you here!&lt;BR&gt;&lt;BR&gt;I came here to investigate the suspicious teleportal.&lt;BR&gt;I wasn't expecting such a large hatchery. With so many larvae, there was little I could do on my own.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="3024" prevId="0" villagerId="9000" endSocial="0">
+        <Page social="0">It's a big relief that you're here, &lt;PCNAME&gt;. Let's get rid of them!&lt;TEXTBUTTON&gt;"It'll be my pleasure."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Start event.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

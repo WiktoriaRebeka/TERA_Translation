@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2024" huntingZoneId="183" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="127">Welcome to Highwatch, the cradle of knowledge!&lt;BR&gt;&lt;BR&gt;Your presence here can only mean that the roads are not entirely under the control of the Archdevan Imperial Army—and that is good news indeed!</Page>
+    </Text>
+    <Text id="101" endSocial="4">
+        <Page social="4" voiceTypeId="127">You can activate your flying skill in the &amp;quot;riding skill&amp;quot; tab.</Page>
+    </Text>
+    <Text id="102" endSocial="4">
+        <Page social="4" voiceTypeId="127">Gear effects are in orange! That's the way of the Highwatch Guards!</Page>
+    </Text>
+</VillagerDialog>

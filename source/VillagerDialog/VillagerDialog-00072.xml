@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="81106" huntingZoneId="0" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;:&lt;BR&gt;We are completely cut off. The communication device the Mysterium gave us doesn't work.&lt;BR&gt;&lt;BR&gt;You have always been clever. Can you find another way to contact Commander Seir and request reinforcements?&lt;BR&gt;&lt;BR&gt;- Dougal - &lt;BR&gt;&lt;BR&gt;&lt;CLOSEPAGEBUTTON&gt;(Fold Dougal's letter.)&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

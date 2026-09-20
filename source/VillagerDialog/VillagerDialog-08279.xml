@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10000" huntingZoneId="3101" voiceTypeId="175" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="175">Good gracious! Who could have imagined that such a place would be down here...? And it doesn't seem to be natural...&lt;BR&gt;&lt;BR&gt;I wonder how this place got here...&lt;BR&gt;&lt;BR&gt;Don't worry. I'll try to stay out of your way.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Look at this place! It doesn't seem...natural.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">It looks like there's a way down over there. Go ahead, I'll be right behind you.</Page>
+    </Text>
+</VillagerDialog>

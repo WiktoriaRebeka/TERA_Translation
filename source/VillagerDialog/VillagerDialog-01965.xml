@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1019" huntingZoneId="74" voiceTypeId="54" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="74" prevId="0" villagerId="1019" endSocial="14">
+        <Page social="4">Is this a pressing matter? We've a village full of miners out of work—families hungry and terrified. Thulsa has seen to that.&lt;BR&gt;&lt;BR&gt;If the &lt;PCCLASS:lcase&gt; wants to be of assistance, there's a dire need of soldiers in Wyrmgorge.</Page>
+    </Text>
+</VillagerDialog>

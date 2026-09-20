@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1002" huntingZoneId="60" voiceTypeId="12" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="60" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">My uncle was a logger. He hasn't been seen in weeks. The faeries got him...</Page>
+    </Text>
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">If we don't get back to logging, the army won't have Fey Forest timber to build fortifications out of. It's a "want of a nail" situation.</Page>
+    </Text>
+    <Text id="101" huntingZoneId="60" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">Me, I'll be happy when the refugees leave—to anywhere.</Page>
+    </Text>
+    <Text id="102" huntingZoneId="60" prevId="0" villagerId="1002" endSocial="14">
+        <Page social="4">Someday, I'm moving this store to Velika.&lt;BR&gt;&lt;BR&gt;Velika!</Page>
+    </Text>
+</VillagerDialog>

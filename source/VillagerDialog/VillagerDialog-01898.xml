@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220080" huntingZoneId="72" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="72220080" endSocial="14">
+        <Page social="4" voiceTypeId="0">Hold on, there. This challenge is only for the boldest, the bravest, the wisest. Are you qualified?&lt;BR&gt;&lt;BR&gt;Entry to the Vault of Allies requires a full party containing five alliance members or higher (no cadets!) each with a vault ticket.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">I give access to the vault for Enlightened Union members.&lt;BR&gt;&lt;BR&gt;Entry to the Vault of Allies requires a full party containing five alliance members. Each alliance member needs a vault ticket, and the vault ticket is consumed when you use the teleportal.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">There's a change coming down the pike, friend. Campaigning will be a thing of the past. Soon, we'll choose our leaders based on their strength, or their skill, or the wisdom.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="59" voiceTypeId="12" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="59" prevId="0" villagerId="1003" endSocial="14">
+        <Page social="4">Looking for something? Just let me know. There may not be much because what the town is going through these days, but we can accommodate your needs.&lt;BR&gt;&lt;BR&gt;Have you heard? I've heard our town was once rich by trading with the Shurians a long time ago. But the Shurians started to act strangely, and now there are only a few traces of them ever even being here. Well, I like the town the way it is now, calm and safe.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1003" endSocial="14">
+        <Page social="4">Oh! Hi, &lt;PCNAME&gt;. You look like you've been through a lot. I can tell from the air around you. Someone who enjoys facing danger. People like you are just marvelous.</Page>
+    </Text>
+</VillagerDialog>

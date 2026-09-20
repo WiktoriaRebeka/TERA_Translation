@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1051" huntingZoneId="415" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">Still bleeding. We're losing this one.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">How are things? Here's a list: dead, dead, dying, dead, knocked out, dead, dying. And that's just the last ten minutes.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0">Not many swimmers reaching shore in the last few minutes. I don't know whether that's good or bad.</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0">I have to keep him alive. He's all I've got.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Painkillers—who wants 'em?</Page>
+    </Text>
+</VillagerDialog>

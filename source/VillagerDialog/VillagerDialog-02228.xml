@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1039" huntingZoneId="79" voiceTypeId="118" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5">Whether it be debt or revenge you repay, I say do unto others what they do to you, two-fold. Nothing less will do!</Page>
+    </Text>
+    <Text id="101" endSocial="10">
+        <Page social="6">I can't sleep anymore.</Page>
+    </Text>
+    <Text id="102" endSocial="10">
+        <Page social="6">Have you heard the screaming at night? It's terrifying.</Page>
+    </Text>
+</VillagerDialog>

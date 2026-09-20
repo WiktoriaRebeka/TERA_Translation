@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="801" huntingZoneId="1022" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">The archdevans are attacking! &lt;BR&gt;From our experiences with other incursions, they will send demokrons first to weaken our defenses.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">This occurrence of Operation: Overwatch has too many participants. Open the Map to find other Oneiric Generators to protect.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4">Fend off the demokrons while the engineers attempt to calibrate the Oneiric Generator.</Page>
+    </Text>
+</VillagerDialog>

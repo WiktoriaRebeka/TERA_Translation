@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1006" huntingZoneId="63" voiceTypeId="133" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1006" endSocial="14">
+        <Page social="4">Welcome.&lt;BR&gt;&lt;BR&gt;You have the eyes of a seeker in search of something. Those with eyes like yours often go on to achieve amazing feats. It won't be easy, but that doesn't mean it will be impossible.&lt;BR&gt;&lt;BR&gt;Welcome to the place where all things that transpire around here end up. How may I be of service to you?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1006" endSocial="14">
+        <Page social="4">They say knowledge is priceless and difficult to obtain. Nothing could be more true.&lt;BR&gt;&lt;BR&gt;This massive city is filled with people who each have their own trials and tribulations, but the important thing is what we can learn from our individual hardships. This forum is a repository of the people's lamentations and pleas, and it offers a wealth of lessons for those who seek them.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="0" villagerId="1006" endSocial="14">
+        <Page social="4">Welcome, &lt;PCNAME&gt;. It's a pleasure to meet you.&lt;BR&gt;&lt;BR&gt;If you ever get a chance, I would love to have you share some of your stories with me. You see, I am charged with keeping records of events that occur throughout the continent. If I could learn of your adventures, that would truly be a blessing.&lt;BR&gt;&lt;BR&gt;Oh my, please forgive me, I've been babbling on with excitement. How may I help you?</Page>
+    </Text>
+</VillagerDialog>

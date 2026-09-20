@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1104" huntingZoneId="252" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">I am alive thanks to you.&lt;BR&gt;&lt;BR&gt;Bless you. I was about to lose all hope...</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">We must recover the Furnace Controller! Hurry and deliver this news!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4">Thulsa's Legion... &lt;BR&gt;&lt;BR&gt;The Divine Furnace... &lt;BR&gt;&lt;BR&gt;I wonder if Muhrak is safe...</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4">I am ashamed... I was too afraid of dying and didn't even put up any resistance...</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">I don't want to die like this. Help!</Page>
+    </Text>
+</VillagerDialog>

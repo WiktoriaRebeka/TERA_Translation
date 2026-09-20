@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1114" huntingZoneId="71" voiceTypeId="148" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0">I...I am not following you!</Page>
+    </Text>
+    <Text id="1" endSocial="14">
+        <Page social="4">Th-th-the book! Where is it?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">See? I'm going to Seren's garden!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">I'm on my way. You must take the book to him at all costs.</Page>
+    </Text>
+</VillagerDialog>

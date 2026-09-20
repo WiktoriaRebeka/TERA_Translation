@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="6006" huntingZoneId="735" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Randun's Journal #7</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Day 9&lt;BR&gt;&lt;BR&gt;Everything is going as planned, and I'm incredibly close to discovering something here.&lt;BR&gt;&lt;BR&gt;If this was the result of everything we went through back then...that might work out better than I thought.&lt;BR&gt;&lt;BR&gt;(The rest of this page is burnt.)&lt;TEXTBUTTON&gt;Open the book.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Finish reading the book.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

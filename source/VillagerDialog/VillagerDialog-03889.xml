@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1032" huntingZoneId="213" voiceTypeId="174" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="213" prevId="0" villagerId="1032" endSocial="14">
+        <Page social="4">Bravery will only get you so far. There are none braver than the first expedition, and most of them are gone or feeding plants.&lt;BR&gt;&lt;BR&gt;Be smart. Stick to your comrades.</Page>
+    </Text>
+    <Text id="99" huntingZoneId="213" prevId="0" villagerId="1032" endSocial="14">
+        <Page social="4" />
+    </Text>
+</VillagerDialog>

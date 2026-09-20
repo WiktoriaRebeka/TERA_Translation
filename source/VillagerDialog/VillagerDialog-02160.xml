@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3017" huntingZoneId="77" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="2" voiceTypeId="264">(It's barking aggressively looking at me.)&lt;BR&gt;&lt;BR&gt;Woof Woof!! Woof Woof!!</Page>
+    </Text>
+    <Text id="2" endSocial="1">
+        <Page social="2" voiceTypeId="266">(It's looking at me and panting. It likes me.)&lt;BR&gt;&lt;BR&gt; *Whimper*</Page>
+    </Text>
+</VillagerDialog>

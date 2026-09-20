@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3003" huntingZoneId="450" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="165">Welcome, traveler.&lt;BR&gt;&lt;BR&gt;You can board the &lt;font color='#006FDD'&gt;Hidden Airship&lt;/font&gt; on the platform over there, and fly to the &lt;BR&gt;&lt;font color='#FF0000'&gt;Medium Path.&lt;/font&gt;&lt;BR&gt;&lt;BR&gt;Just be careful to keep your hands and head inside the airship at all times.</Page>
+    </Text>
+</VillagerDialog>

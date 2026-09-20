@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10036" huntingZoneId="84" voiceTypeId="273" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="5">
+        <Page social="5" voiceTypeId="273">La la la!&lt;BR&gt;It's my first time at Kaiator!&lt;BR&gt;It's even more breathtaking than I thought it would be!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Are you done?&lt;BR&gt;Ahem! It's my turn!</Page>
+    </Text>
+</VillagerDialog>

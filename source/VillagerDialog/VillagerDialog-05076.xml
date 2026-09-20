@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1032" huntingZoneId="242" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">(This teleportal takes you to &lt;font color='#0000FF'&gt;Dagon's Chantry&lt;/font&gt;.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">(It feels like the teleportal is trying to draw you inside it.)</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0">(Use the teleportal to enter Dagon's Chantry.)&lt;TEXTBUTTON&gt;Enter Dagon's Chantry.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to Dagon's Chantry.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

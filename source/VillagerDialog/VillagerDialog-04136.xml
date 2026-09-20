@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7111" huntingZoneId="219" voiceTypeId="75" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="4" voiceTypeId="75">You timed it right for the special diamond match.&lt;BR&gt;&lt;BR&gt;Place your bets with me! I take diamond tickets in batches of 50, so that's a minimum bet of 50 tickets. You can bet up to 1,000 tickets at one time.&lt;BR&gt;&lt;BR&gt;If you bet on the winning monster, you win an amount determined by your initial bet, the tickets placed on the losing monster, and the total number of winners. If no one bet on the losing monster, you at least win your initial bet once over.&lt;BR&gt;&lt;BR&gt;So, what'll it be?</Page>
+    </Text>
+</VillagerDialog>

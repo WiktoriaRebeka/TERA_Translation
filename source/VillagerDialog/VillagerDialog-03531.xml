@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="206" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="206" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">If I wanted an easy life, I'd have moved to Velika.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">Family matters most. Above everything. The ranch comes in a strong second.&lt;BR&gt;&lt;BR&gt;Everything else—including the federation—is a distant third.</Page>
+    </Text>
+</VillagerDialog>

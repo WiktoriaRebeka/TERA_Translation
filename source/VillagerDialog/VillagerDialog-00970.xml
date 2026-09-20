@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1264" huntingZoneId="63" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1264" endSocial="14">
+        <Page social="1">Lately I've been experimenting with medicines derived from poisons.&lt;BR&gt;&lt;BR&gt;Oh, I see the look on your face, but many venoms and toxic plants can be beneficial, if administered in small doses.</Page>
+    </Text>
+    <Text id="101" huntingZoneId="63" prevId="0" villagerId="1264" endSocial="0">
+        <Page social="1">I've never seen so many patients in Velika before.</Page>
+    </Text>
+    <Text id="102" huntingZoneId="63" prevId="0" villagerId="1264" endSocial="0">
+        <Page social="1">Hang in there.</Page>
+    </Text>
+    <Text id="103" huntingZoneId="63" prevId="0" villagerId="1264" endSocial="0">
+        <Page social="1">You have to drink it all!</Page>
+    </Text>
+    <Text id="104" huntingZoneId="63" prevId="0" villagerId="1264" endSocial="0">
+        <Page social="1">I haven't gone through even half of the patients still...I have to hurry.</Page>
+    </Text>
+</VillagerDialog>

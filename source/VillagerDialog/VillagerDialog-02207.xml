@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1007" huntingZoneId="79" voiceTypeId="121" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="79" prevId="0" villagerId="1007" endSocial="14">
+        <Page social="5">Until we defeat the forces outside the city, we must continue to count on the valor of soliders like you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Please...remember that your strength keeps us strong.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Prepare the army!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">I am heading to the Divine Furnace!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">I'm right behind you!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0">It's time to bring the Divine Furnace back into the bosom of Kaia!</Page>
+    </Text>
+</VillagerDialog>

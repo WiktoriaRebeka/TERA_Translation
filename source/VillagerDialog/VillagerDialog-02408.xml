@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1010" huntingZoneId="84" voiceTypeId="115" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">Have you fought the argons? I've not faced them in battle, yet.&lt;BR&gt;&lt;BR&gt;I will one day, though. Argons slew every member of my family. I'll die avenging them, or I'll live victorious!</Page>
+    </Text>
+    <Text id="10001" endSocial="0">
+        <Page social="0">Grr...&lt;BR&gt;&lt;BR&gt;Training is hard, but failing is harder.</Page>
+    </Text>
+</VillagerDialog>

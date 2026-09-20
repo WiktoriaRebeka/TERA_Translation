@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1036" huntingZoneId="203" voiceTypeId="171" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="203" prevId="0" villagerId="1036" endSocial="14">
+        <Page social="4" voiceTypeId="0">Finished so soon?&lt;BR&gt;&lt;BR&gt;Thanks. That helps a lot...but there are still plenty of devas left, if you've got some time to kill.</Page>
+    </Text>
+    <Text id="99" huntingZoneId="203" prevId="0" villagerId="1036" endSocial="14">
+        <Page social="4" voiceTypeId="0" />
+    </Text>
+</VillagerDialog>

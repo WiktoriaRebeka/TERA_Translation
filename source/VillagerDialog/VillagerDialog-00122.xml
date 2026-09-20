@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="26" huntingZoneId="3" voiceTypeId="4" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">You made it! Um...sorry about leaving you back there. I panicked...</Page>
+    </Text>
+    <Text id="10001" endSocial="0">
+        <Page social="0" voiceTypeId="0">I would never have gotten this far without your help. Thanks!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Follow me! I know the way!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">We made it! That was exhilirating!</Page>
+    </Text>
+</VillagerDialog>

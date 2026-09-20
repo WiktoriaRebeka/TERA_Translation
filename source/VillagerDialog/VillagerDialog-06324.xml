@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9900" huntingZoneId="469" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="20">
+        <Page social="0" voiceTypeId="0">(This teleportal will take you to &lt;font color='#0000FF'&gt;Veritas Vault&lt;/font&gt;.)&lt;BR&gt;&lt;BR&gt;(Note that using this teleportal will reset the dungeon.)&lt;BR&gt;&lt;BR&gt;(Use the Echo Arcana if you want to continue your previous progress in the dungeon.)</Page>
+    </Text>
+</VillagerDialog>

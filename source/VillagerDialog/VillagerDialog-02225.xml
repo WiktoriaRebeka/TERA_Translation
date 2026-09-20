@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1036" huntingZoneId="79" voiceTypeId="112" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="5">Kaia's mission for me is to forge weapons that will crush Thulsan soldier skulls.&lt;BR&gt;&lt;BR&gt;You'll find none better than mine to that end.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="4">What's wrong?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">That's how it is.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="4">I feel the same way.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="4">Someone has to stay and make these weapons.</Page>
+    </Text>
+</VillagerDialog>

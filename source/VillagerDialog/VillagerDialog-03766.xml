@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3001" huntingZoneId="210" voiceTypeId="3" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="6" voiceTypeId="3">Though none of our hands are entirely clean, the Lightkeepers exist as an example to others of the proper way for a guild to comport itself.&lt;BR&gt;&lt;BR&gt;When I die, it will be while protecting the weak, and history shall remember me for my actions.</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="5" voiceTypeId="3">&lt;PCNAME&gt;, what will you do when you face absolute evil?</Page>
+    </Text>
+</VillagerDialog>

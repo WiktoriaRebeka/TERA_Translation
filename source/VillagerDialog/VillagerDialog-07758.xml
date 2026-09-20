@@ -1,0 +1,29 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="140" huntingZoneId="2003" voiceTypeId="337" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="1" voiceTypeId="337">It's me. Titus!&lt;BR&gt;Isn't this the perfect disguise?&lt;BR&gt;&lt;BR&gt;It's like I'm a real draakon.</Page>
+    </Text>
+    <Text id="2" endSocial="1">
+        <Page social="1" voiceTypeId="337">So now we look for the engine room, right?</Page>
+    </Text>
+    <Text id="3" endSocial="1">
+        <Page social="1" voiceTypeId="337">How could it control such power? What kind of technology is this?</Page>
+    </Text>
+    <Text id="4" endSocial="1">
+        <Page social="1" voiceTypeId="337">I hope Jelena and Elleon are all right.</Page>
+    </Text>
+    <Text id="5" endSocial="1">
+        <Page social="1" voiceTypeId="337">Look, a draakon!</Page>
+    </Text>
+    <Text id="6" endSocial="1">
+        <Page social="1" voiceTypeId="337">(She seems to be very upset about what happened to Elleon.)</Page>
+    </Text>
+    <Text id="7" endSocial="1">
+        <Page social="1" voiceTypeId="337">We're all set. Let's go.</Page>
+    </Text>
+    <Text id="8" endSocial="1">
+        <Page social="1" voiceTypeId="337">All right.</Page>
+    </Text>
+    <Text id="9" endSocial="1">
+        <Page social="1" voiceTypeId="337">Something might go wrong if he comes back right away. You should go ahead.</Page>
+    </Text>
+</VillagerDialog>

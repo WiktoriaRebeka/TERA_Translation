@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1009" huntingZoneId="72" voiceTypeId="16" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="72" prevId="0" villagerId="1009" endSocial="14">
+        <Page social="4">The Consul is not here at the moment. Can I help you with anything?</Page>
+    </Text>
+</VillagerDialog>

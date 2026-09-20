@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1023" huntingZoneId="79" voiceTypeId="24" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="79" prevId="0" villagerId="1023" endSocial="14">
+        <Page social="5">Habere used to be a village of hope.&lt;BR&gt;&lt;BR&gt;Each day brings more reason to doubt, though.</Page>
+    </Text>
+    <Text id="101" endSocial="12">
+        <Page social="4">I've had just about all I can take.</Page>
+    </Text>
+    <Text id="102" endSocial="10">
+        <Page social="5">It looks like I'm not going to get any hunting done this month!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="4">Oh, are you looking for an aman?</Page>
+    </Text>
+    <Text id="104" endSocial="20">
+        <Page social="5">We can't control everything.</Page>
+    </Text>
+</VillagerDialog>

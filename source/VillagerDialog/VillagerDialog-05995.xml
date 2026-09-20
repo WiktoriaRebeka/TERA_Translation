@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5005" huntingZoneId="411" voiceTypeId="113" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">One day, I will own this workshop.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Ay-ya!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">Oops!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">I feel tingling!</Page>
+    </Text>
+</VillagerDialog>

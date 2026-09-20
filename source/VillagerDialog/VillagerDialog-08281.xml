@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10002" huntingZoneId="3101" voiceTypeId="175" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="175">I nearly fainted watching that battle!&lt;BR&gt;&lt;BR&gt;You were brilliant!&lt;BR&gt;&lt;BR&gt;So, the queen was protecting her eggs! I'm sure that the pheromones she was putting off would have affected butterflies that are nowhere near the nest.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'm glad you're okay, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">We have much more to learn, but what we have gathered so far is important as well.&lt;BR&gt;&lt;BR&gt;Let's get out of here and let Elleon know what we found.</Page>
+    </Text>
+</VillagerDialog>

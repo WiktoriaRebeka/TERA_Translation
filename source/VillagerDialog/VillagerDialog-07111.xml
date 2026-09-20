@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2001" huntingZoneId="814" voiceTypeId="274" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="274">Well done, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Clearly, you possess formidable willpower!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Welcome to the Vault of Oriyn. Treat these hallowed halls with respect.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">I myself have not been inside for a very long time.</Page>
+    </Text>
+</VillagerDialog>

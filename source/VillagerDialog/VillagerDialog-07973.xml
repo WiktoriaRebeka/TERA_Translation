@@ -1,0 +1,6 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7903" huntingZoneId="2500" voiceTypeId="171" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Oh, you look like you could lift a thing or two!&lt;BR&gt;Want to join us?&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"I already have a group."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4" voiceTypeId="0">More’s the pity.&lt;BR&gt;Maybe we’ll meet again some day.</Page>
+    </Text>
+</VillagerDialog>

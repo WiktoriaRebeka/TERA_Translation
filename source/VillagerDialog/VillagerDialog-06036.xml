@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1019" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">Help me. It hurts so bad.</Page>
+    </Text>
+    <Text id="2" endSocial="3">
+        <Page social="3">Give it to me straight, friend. We're all going to die here, aren't we?</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">Tell Lohra I love her.</Page>
+    </Text>
+    <Text id="4" endSocial="3">
+        <Page social="3">I kept trying to pull people into the lifeboat, but they were so slippery, and my grip got weak.</Page>
+    </Text>
+</VillagerDialog>

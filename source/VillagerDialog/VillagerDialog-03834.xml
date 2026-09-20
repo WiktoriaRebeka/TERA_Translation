@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1016" huntingZoneId="212" voiceTypeId="19" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="212" prevId="0" villagerId="1016" endSocial="13">
+        <Page social="4">I'm a federation citizen! I have rights! I demand to speak to a consulate agent!</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="212" prevId="0" villagerId="1016" endSocial="0">
+        <Page social="4">You aren't a dream, are you? This is real!</Page>
+    </Text>
+</VillagerDialog>

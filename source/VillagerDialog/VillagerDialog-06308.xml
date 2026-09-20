@@ -1,0 +1,9 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="500" huntingZoneId="469" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">(Words start to solidify.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">[...commander of the Devan army ... the Battle of Deva...]&lt;BR&gt;&lt;BR&gt;[...disbanded the old Devan army. While the new Archdevan Empire ...]&lt;BR&gt;&lt;BR&gt;[Queen...built Castle Aranea as her...]&lt;BR&gt;&lt;BR&gt;[..power demanded...deprived freedom ...lowest class of deva...]&lt;TEXTBUTTON&gt;Read what was restored.&lt;/TEXTBUTTON&gt;&lt;NEXTPAGEBUTTON&gt;Continue to read.&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0" voiceTypeId="0">[...the princess of...distant continent...]&lt;BR&gt;&lt;BR&gt;[...Syona...the Fountain.]&lt;BR&gt;&lt;BR&gt;[ ...save...trick...]&lt;BR&gt;&lt;BR&gt;[...Lakan demanded...]&lt;BR&gt;&lt;BR&gt;[...Nemato used the Bloodshard...]&lt;BR&gt;&lt;BR&gt;(There are significant gaps in the echo.)&lt;EVENTPAGEBUTTON&gt;There are more memories to restore!&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

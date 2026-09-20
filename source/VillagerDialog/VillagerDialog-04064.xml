@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1200" huntingZoneId="218" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="218" prevId="0" villagerId="1200" endSocial="14">
+        <Page social="4">You look like you could use a rest. My magic can help you.</Page>
+    </Text>
+</VillagerDialog>

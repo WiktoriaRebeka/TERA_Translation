@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1311" huntingZoneId="63" voiceTypeId="147" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Pay attention and follow orders. You've got to keep your mind on the big picture. Trust me to know it and I'll trust you to believe in it. Or I'll boot you to some frozen pit north of Kaiator before you can say 'Velik preserve me!'</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;? What are you doing?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">Do you have any business with the Goddess?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Go and support the Justicar. Disturbance will not be tolerated.</Page>
+    </Text>
+</VillagerDialog>

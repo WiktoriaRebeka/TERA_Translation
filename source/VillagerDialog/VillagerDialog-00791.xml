@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="63" voiceTypeId="69" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1005" endSocial="14">
+        <Page social="4">Here we monitor threats against the federation. We get reports from the Khanovar Front, Val Elenium, and Ostgarath, and then allocate what resources we can.&lt;BR&gt;&lt;BR&gt;Sadly, always more trouble than soldiers.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1005" endSocial="14">
+        <Page social="4">Velika's so different than Popolion. Smells different, more like stone and less like loam.&lt;BR&gt;&lt;BR&gt;Still, I'm proud to help.</Page>
+    </Text>
+</VillagerDialog>

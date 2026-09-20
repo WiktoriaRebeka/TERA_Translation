@@ -1,0 +1,26 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3000" huntingZoneId="2502" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">You are here!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Thulsa stole titanic essense from the Tower of Shara.</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">What he needs it for is unclear,&lt;BR&gt;but I’m sure he’s up to no good.</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">It must be retrieved before it’s too late.</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="0">Let's talk on the way.&lt;BR&gt;Follow me.</Page>
+    </Text>
+    <Text id="6" endSocial="0">
+        <Page social="0" voiceTypeId="0">Anyway, that woman who was with Thulsa...</Page>
+    </Text>
+    <Text id="7" endSocial="0">
+        <Page social="0" voiceTypeId="0">I don't know...&lt;BR&gt;I have a bad feeling about her.</Page>
+    </Text>
+    <Text id="8" endSocial="0">
+        <Page social="0" voiceTypeId="0">Ah...&lt;BR&gt;Things are getting annoying.</Page>
+    </Text>
+</VillagerDialog>

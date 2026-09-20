@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1110" huntingZoneId="213" voiceTypeId="37" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="213" prevId="0" villagerId="1110" endSocial="14">
+        <Page social="4">If you come across gold or equipment near defeated opponents, be respectful, but also pragmatic. The honored dead of the first expedition died defending the research teams, and that sacrifice protects us still.&lt;BR&gt;&lt;BR&gt;Better equipment equals survival. Try not to think of this as a game, exercise, or a tale of one &lt;PCCLASS:lcase&gt;'s inevitable triumph. Arrogance is a poor substitute for sense.</Page>
+    </Text>
+</VillagerDialog>

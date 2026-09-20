@@ -1,0 +1,29 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5005" huntingZoneId="410" voiceTypeId="137" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">Father...&lt;BR&gt;&lt;BR&gt;...I will avenge you.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Adjutant, gather my troops!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">Which units can we mobilize the most quickly?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">Who?</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0">You!</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0">That was your last laugh, clown.</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0">It can't be...Are those my father's horns?</Page>
+    </Text>
+    <Text id="107" endSocial="0">
+        <Page social="0">Guards! Tear him apart!</Page>
+    </Text>
+    <Text id="108" endSocial="0">
+        <Page social="0">All bow to the Shieldmaiden!</Page>
+    </Text>
+</VillagerDialog>

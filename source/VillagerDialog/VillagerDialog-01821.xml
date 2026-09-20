@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1709" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="0">Magic History Record&lt;BR&gt;&lt;BR&gt;T-- -----ry o- o-- ma--- be---s wi-- S------...&lt;BR&gt;&lt;BR&gt;(You can't understand this book yet.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="4" voiceTypeId="0">Magic History Record&lt;BR&gt;&lt;BR&gt;T-- history of o-- magic be---s with Ser-----...&lt;BR&gt;&lt;BR&gt;(You can understand a couple words.)</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="4" voiceTypeId="0">Magic History Record&lt;BR&gt;&lt;BR&gt;The history of our magic begins with Serion's...&lt;BR&gt;&lt;BR&gt;(You understand the book.)</Page>
+    </Text>
+</VillagerDialog>

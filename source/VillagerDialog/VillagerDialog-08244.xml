@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="999" huntingZoneId="3029" voiceTypeId="113" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="113">You can purchase anything you need here.&lt;BR&gt;Effects of items last for 2 hours.&lt;BR&gt;Beware, purchased items can only be used here and the effects will end once you leave.</Page>
+    </Text>
+</VillagerDialog>

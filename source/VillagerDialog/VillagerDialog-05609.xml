@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1037" huntingZoneId="254" voiceTypeId="200" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">The day the argons arrived the faeries and the creatures changed. And not for the better. Is this the fate of all the fey? Will mandrakes also change?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Ready to follow me?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">Can you keep up?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">Can you make it there on your own? Meet me there?</Page>
+    </Text>
+</VillagerDialog>

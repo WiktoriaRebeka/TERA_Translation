@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9003" huntingZoneId="950" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">You have defeated the four hatchlings!&lt;BR&gt;Celebrate your victory quickly. By now, Vergos knows his children are dead, and his wrath will be cataclysmic.&lt;BR&gt;But you were able to slay the four, so you might have what it takes to slay Vergos himself.&lt;BR&gt;Are you ready? If not, I can send you back out to finish preparing.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Listen...that roaring! Vergos draws near...may the gods be with us all.&lt;TEXTBUTTON&gt;Get ready for the battle&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Start the battle&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

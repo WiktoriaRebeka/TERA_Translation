@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1086" huntingZoneId="833" voiceTypeId="25" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="25">Ramsleigh! He's still alive! I need to patch him up before the dragons come back!</Page>
+    </Text>
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="25">There are so many plants nearby.&lt;BR&gt;They shouldn't be far from here.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="25">What? Who are you?</Page>
+    </Text>
+</VillagerDialog>

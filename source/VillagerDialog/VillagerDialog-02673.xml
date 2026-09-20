@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220045" huntingZoneId="84" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">I'm here to help guildmasters choose an alliance. Don't worry, I'll put in a good word for yours.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">I'm sure you've done your research on the material desires of the Free Traders Collective, the fellowship of the Enlightened Union, and the battle stance of the Iron Order. So which alliance do you want to join?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">You need to be a guildmaster to join an alliance.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">If the federation hadn't kept things from its people, the people wouldn't move to keep power fromthe federation!</Page>
+    </Text>
+</VillagerDialog>

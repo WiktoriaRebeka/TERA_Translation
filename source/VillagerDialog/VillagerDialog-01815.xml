@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1701" huntingZoneId="72" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="227">Are you new? Study hard. We administer a number of tests around here.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="228">You're a promising student.&lt;BR&gt;&lt;BR&gt;Expectations are high around here. Never forget that.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="229">I've heard that you're keeping our research moving forward.&lt;BR&gt;&lt;BR&gt;I appreciate the hard work.</Page>
+    </Text>
+</VillagerDialog>

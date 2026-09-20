@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1012" huntingZoneId="67" voiceTypeId="85" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="67" prevId="0" villagerId="1012" endSocial="14">
+        <Page social="4">PvP is how adventurers compete against each other—but be careful! There are no rules except to successfully slay your opponent!&lt;BR&gt;&lt;BR&gt;To enter PvP with a single character, either type "&lt;font color='#660000'&gt;/PvP Character Name&lt;/font&gt;" into the chat window or right click your opponent and choose the appropriate drop-down button.&lt;BR&gt;&lt;BR&gt;But remember, each one costs money. Don't go nuts.</Page>
+    </Text>
+</VillagerDialog>

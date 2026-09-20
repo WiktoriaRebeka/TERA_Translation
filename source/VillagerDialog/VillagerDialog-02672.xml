@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220044" huntingZoneId="84" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Don't tell anyone...but I like your alliance the best.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">Are you ready to join? Will you choose the Free Traders Collective, who feel everyone should enjoy the wealth of noctenium? Or the sagacious fellowship of the Enlightened Union? Or the hard-core Iron Order?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">Guildmasters seeking to join an alliance should seek me out.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">The federation has troubles. Don't you think it's time for new leadership?</Page>
+    </Text>
+</VillagerDialog>

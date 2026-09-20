@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5026" huntingZoneId="528" voiceTypeId="270" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">I am Velika Commander Gislan.</Page>
+    </Text>
+    <Text id="101" endSocial="12">
+        <Page social="4" voiceTypeId="0">But why? Helkan! You know how things are hopeless at Khanovar!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">This...is a tough situation...</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Yes, she's trustworthy indeed, all right.</Page>
+    </Text>
+</VillagerDialog>

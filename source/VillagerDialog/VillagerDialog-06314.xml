@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5000" huntingZoneId="469" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="20">
+        <Page social="0" voiceTypeId="0">&lt;BR&gt;&lt;BR&gt;[This echo of Castle Aranea has been restored.]&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;If you have not completed the quest, it may not be possible to completely restore the Echo Arcana. Please click the [&lt;font color='#0000FF'&gt;teleport&lt;/font&gt;] button and visit &lt;font color='#FF0000'&gt;Gadin&lt;/font&gt; to complete the quest.&lt;BR&gt;&lt;BR&gt;If it is still not working properly, enter '&lt;font color='#0000FF'&gt;/Reset&lt;/font&gt;' in the chat window to reset the dungeon, then try again.</Page>
+    </Text>
+</VillagerDialog>

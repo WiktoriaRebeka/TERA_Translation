@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22008" huntingZoneId="72" voiceTypeId="23" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="7222008" endSocial="14">
+        <Page social="4" voiceTypeId="0">The time has come to separate the enlightened from the benighted. Let me help you into the light, my friend.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">I give access to the vault for Enlightened Union members.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">A new day is coming, my friend. Will you stand up and be counted when enlightenment is the rule of the day?</Page>
+    </Text>
+</VillagerDialog>

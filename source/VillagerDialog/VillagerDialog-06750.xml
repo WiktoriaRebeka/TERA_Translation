@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5007" huntingZoneId="528" voiceTypeId="110" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">&lt;PCNAME&gt; is your name? I want you to look after Tamur... I mean the Commander.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Kaiator will never fall! &lt;BR&gt;&lt;BR&gt;Let them come! I will kill them all!</Page>
+    </Text>
+</VillagerDialog>

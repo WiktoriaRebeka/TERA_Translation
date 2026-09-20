@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1026" huntingZoneId="70" voiceTypeId="48" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="5">
+        <Page social="0" voiceTypeId="0">No one expected Thulsa to make such a bold push. He's been silent for decades. To take the position between Kaiator and Allemantheia is bold...and dangerous for us.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">The Stronghold of Blood is the safest area in this province. Except for all the monsters, that is.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">I have a theory about fortifying the Stronghold of Blood.</Page>
+    </Text>
+</VillagerDialog>

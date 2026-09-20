@@ -1,0 +1,32 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1111" huntingZoneId="72" voiceTypeId="39" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="14" voiceTypeId="0">Indeed, the Mysterium is very much a part of Allemantheia. Though membership has broadened recently, the high elves are the single largest contingent and our ways shape its path.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Malachai?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">What are you doing in here?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Princess! Alais warned that you might be coming.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">Of course, princess. Here you are. Most curious!</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">Only that both you and this famous hero are bound for Veritas today.</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">Soldier, will you go with her? A princess should have escorts.</Page>
+    </Text>
+    <Text id="107" endSocial="0">
+        <Page social="0" voiceTypeId="0">Curious indeed! I suspect your day will be interesting, hero!</Page>
+    </Text>
+    <Text id="108" endSocial="0">
+        <Page social="0" voiceTypeId="0">Oh, dear. It seems the princess dropped something!</Page>
+    </Text>
+    <Text id="109" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'm grateful for your help, but I'm not sure I agree on your thoughts about the argons.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5008" huntingZoneId="411" voiceTypeId="27" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">You sure do know how to sweat a guy. It is, however, gratifying to see one's own work.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Hmph... maybe it's not enough.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">Yes. That's it!</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">There should be some better way.</Page>
+    </Text>
+</VillagerDialog>

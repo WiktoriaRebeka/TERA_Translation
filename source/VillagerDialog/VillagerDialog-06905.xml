@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5006" huntingZoneId="720" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">This sphere is surrounded by a strange aura.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">(A male voice speaks after rumbles and crashes.)&lt;BR&gt;&lt;BR&gt;"No one...(unintelligible)...this place alive."&lt;BR&gt;&lt;BR&gt;"What is the purpose of life...? Is mine only to linger in this darkness...?"&lt;BR&gt;&lt;BR&gt;(You hear the sounds of liquid flowing for a moment, then silence.)&lt;TEXTBUTTON&gt;Touch the sphere.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Take your hand away.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

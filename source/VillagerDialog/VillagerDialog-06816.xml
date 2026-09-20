@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="172" huntingZoneId="599" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="0">Hello, &lt;PCCLASS:lcase&gt;. You are one of the locals, are you not?&lt;BR&gt;&lt;BR&gt;Thank you for volunteering to help. We believe that today's sleep experiment will allow the gifted children to use the Sight in ways they have never done before. The goal is for them to determine which features of the world were intended by the gods...and which features might be flaws introduced later, so that we know what can—and what should be—repaired.</Page>
+    </Text>
+</VillagerDialog>

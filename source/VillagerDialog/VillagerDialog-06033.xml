@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1013" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="3">I was on watch this morning. Not a cloud in the sky, honest!</Page>
+    </Text>
+    <Text id="2" endSocial="3">
+        <Page social="3">I can barely move.</Page>
+    </Text>
+    <Text id="3" endSocial="3">
+        <Page social="3">Our lifeboat got swamped—too many soldiers. Not exactly a problem anymore.</Page>
+    </Text>
+</VillagerDialog>

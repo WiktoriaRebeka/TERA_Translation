@@ -1,0 +1,23 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1006" huntingZoneId="83" voiceTypeId="4" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="1006" endSocial="14">
+        <Page social="4" voiceTypeId="0">You can't trust the wendigos. Of course they want the shards—for themselves!&lt;BR&gt;&lt;BR&gt;Like strip mining a resource ever harmed anything. Pfft.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">You really got 'em ready?</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">So I need to add fish...yeast...and some fresh water...</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">Done!</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">Everybody got ingredients for the stew.</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">First, we need to boil some fresh water.</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">Then, we put in the Queen Salmon and it's done!</Page>
+    </Text>
+</VillagerDialog>

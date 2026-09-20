@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="472" voiceTypeId="39" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">I've managed to sneak this far, but I think they may have noticed me. We'll see.&lt;BR&gt;&lt;BR&gt;Just be careful.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">You need to be careful. &lt;TEXTBUTTON&gt;Grab the weapon tightly.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Ready for Battle!&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

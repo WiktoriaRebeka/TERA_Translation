@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1011" huntingZoneId="64" voiceTypeId="128" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="64" prevId="0" villagerId="1011" endSocial="14">
+        <Page social="4">Our efforts here must succeed, &lt;PCCLASS:lcase&gt;. Not only have we paid for our progress with blood, but we cannot be certain this island is a permanent addition to the world.&lt;BR&gt;&lt;BR&gt;It arose without warning—who's to say it won't sink beneath the waves just as abruptly?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1011" endSocial="14">
+        <Page social="4">Leander's attachment to his brother is admirable, but we need leadership. The entire Valkyon Federation is counting on him to complete our mission here and bring us home. May the god Oriyn aid Leander—and refocus his mind on that mission.</Page>
+    </Text>
+</VillagerDialog>

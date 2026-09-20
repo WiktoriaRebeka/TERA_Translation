@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="602020" huntingZoneId="0" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;, it's me, Yasring.&lt;BR&gt;&lt;BR&gt;I've been hearing news of you from researchers at the Mysterium. I hope you're doing well.&lt;BR&gt;&lt;BR&gt;I'm keeping up my research at {@Rgn:45001$$Thrallhold}. The sights here used to be spectacular, especially the sky, but that's all gone since the argons appeared.&lt;BR&gt;&lt;BR&gt;Malachai's research helped out greatly, but there's still a lot left in question. &lt;PCNAME&gt;, I need your help.&lt;BR&gt;&lt;BR&gt;I've enclosed a teleport scroll with this letter. Please join me at {@Rgn:45001$$Thrallhold}.&lt;BR&gt;&lt;BR&gt;—Yasring&lt;CLOSEPAGEBUTTON&gt;Close the letter.&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

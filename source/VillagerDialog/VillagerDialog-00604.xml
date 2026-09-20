@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1039" huntingZoneId="60" voiceTypeId="8" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">I feel for the refugees, but if we don't get back into the forest, we'll all be refugees before long.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Thank you. I'll make the medicine right away.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">I hope this will help them get better.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="105" huntingZoneId="795" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Your reward tier is too low.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Welcome, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;In appreciation of all you have done, I have been authorized to present you with treasures gathered from all over the world.&lt;BR&gt;&lt;BR&gt;But you must prove your worth before you can claim them.&lt;BR&gt;&lt;BR&gt;Let me know when you are ready.&lt;TEXTBUTTON&gt;"I'm ready."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Claim Treasure&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0" voiceTypeId="0">Welcome, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;In appreciation of all you have done, I have been authorized to present you with treasures gathered from all over the world.&lt;BR&gt;&lt;BR&gt;But you must prove your worth before you can claim them.&lt;BR&gt;&lt;BR&gt;Let me know when you are ready.&lt;TEXTBUTTON&gt;"I'm ready."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Claim Treasure&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="0">Welcome, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;In appreciation of all you have done, I have been authorized to present you with treasures gathered from all over the world.&lt;BR&gt;&lt;BR&gt;But you must prove your worth before you can claim them.&lt;BR&gt;&lt;BR&gt;Let me know when you are ready.&lt;TEXTBUTTON&gt;"I'm ready."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Claim Treasure&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="0">Welcome, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;In appreciation of all you have done, I have been authorized to present you with treasures gathered from all over the world.&lt;BR&gt;&lt;BR&gt;But you must prove your worth before you can claim them.&lt;BR&gt;&lt;BR&gt;Let me know when you are ready.&lt;TEXTBUTTON&gt;"I'm ready."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Claim Treasure&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

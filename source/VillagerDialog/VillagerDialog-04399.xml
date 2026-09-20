@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1023" huntingZoneId="226" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="226" prevId="0" villagerId="1023" endSocial="14">
+        <Page social="4">I greet you. Few who walk these hills does so without a reason. What brings you here?</Page>
+    </Text>
+    <Text id="2" huntingZoneId="226" prevId="0" villagerId="1023" endSocial="14">
+        <Page social="4">Do you wish my aid? I can help you pass through the aura.&lt;TEXTBUTTON&gt;"How can you help?"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to the heart of Blessing Basin.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

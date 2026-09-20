@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="50008" huntingZoneId="63" voiceTypeId="79" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="50008" endSocial="6">
+        <Page social="3" voiceTypeId="0">Welcome! Leave some things, takes some things... I can take it or leave it.</Page>
+    </Text>
+</VillagerDialog>

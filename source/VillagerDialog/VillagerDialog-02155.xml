@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3004" huntingZoneId="77" voiceTypeId="14" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="230">What was the Valkyon Federation doing when this place was taken over by the argons?&lt;BR&gt;&lt;BR&gt;What's the matter? Has the cat got your tongue?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="231">You're different from the other federation soldiers. We need you to help us perform our duty.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="232">Thanks to you, everything is going well. I really can't thank you enough.&lt;BR&gt;&lt;BR&gt;God bless you. I think I can finally trust the Valkyon Federation.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="232">Thanks to you, everything is going well. I really can't thank you enough.&lt;BR&gt;&lt;BR&gt;God bless you. I think I can finally trust the Valkyon Federation.</Page>
+    </Text>
+</VillagerDialog>

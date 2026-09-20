@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1031" huntingZoneId="222" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">(This teleportal takes you to the &lt;font color='#0000FF'&gt;Altar of Vadoma&lt;/font&gt;.)</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">(The teleportal hums with magical power.)</Page>
+    </Text>
+    <Text id="3" endSocial="0">
+        <Page social="0">(Are you ready to go to the sealing device?)&lt;TEXTBUTTON&gt;Use the teleportal.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Teleport to the sealing device.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

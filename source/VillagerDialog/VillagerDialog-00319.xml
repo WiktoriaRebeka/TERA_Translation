@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1016" huntingZoneId="27" voiceTypeId="10" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Oh, gods!&lt;BR&gt;I thought everyone was dead!&lt;BR&gt;We don't have much time!&lt;BR&gt;We need to get out of here before more of those butterflies come!&lt;BR&gt;Hurry!</Page>
+    </Text>
+    <Text id="101" endSocial="14">
+        <Page social="4" voiceTypeId="0">Thank the Goddess.</Page>
+    </Text>
+    <Text id="102" endSocial="14">
+        <Page social="4" voiceTypeId="0">My comrades...!</Page>
+    </Text>
+    <Text id="103" endSocial="14">
+        <Page social="4" voiceTypeId="0">Please take care of them!</Page>
+    </Text>
+</VillagerDialog>

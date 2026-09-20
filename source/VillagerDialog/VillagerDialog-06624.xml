@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2003" huntingZoneId="508" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Do you hear that? It's doubt, and it's calling your name...</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Frustrating, isn't it?&lt;BR&gt;There's always another weakling, expecting you to make the difficult choices.&lt;BR&gt;But what do you get in return?&lt;TEXTBUTTON&gt;[Look into your memory.]&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"I'm ready to face my Skepticism."&lt;/EVENTPAGEBUTTON&gt;&lt;CLOSEPAGEBUTTON&gt;"I'm not ready yet."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

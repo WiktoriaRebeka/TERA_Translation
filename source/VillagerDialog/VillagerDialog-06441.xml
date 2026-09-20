@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9001" huntingZoneId="487" voiceTypeId="16" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="487" prevId="0" villagerId="9001" endSocial="14">
+        <Page social="4">They're saying the devan brigands are building their hideout somewhere around here.&lt;BR&gt;&lt;BR&gt;Be careful.</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="487" prevId="0" villagerId="9001" endSocial="14">
+        <Page social="4">I hope my sister can find peace.</Page>
+    </Text>
+    <Text id="10002" huntingZoneId="487" prevId="0" villagerId="9001" endSocial="14">
+        <Page social="4">I feel better. Finally.</Page>
+    </Text>
+</VillagerDialog>

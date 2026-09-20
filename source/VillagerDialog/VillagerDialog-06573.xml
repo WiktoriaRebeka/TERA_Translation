@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4007" huntingZoneId="506" voiceTypeId="113" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="4" voiceTypeId="113">Did you hear?&lt;BR&gt;They say that Leander is missing!</Page>
+    </Text>
+    <Text id="2" endSocial="1">
+        <Page social="4" voiceTypeId="113">He should have been invited.&lt;BR&gt;Strange that he's not here.</Page>
+    </Text>
+</VillagerDialog>

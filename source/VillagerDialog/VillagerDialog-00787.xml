@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="63" voiceTypeId="8" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">Whether you're seeking adventure or running for your life, I have everything you might need!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">It's so useful having Valkyon Federation Headquarters right here in Velika. We're always recruiting, and everyone likes to come through Velika once in a while.&lt;BR&gt;&lt;BR&gt;Really gives us a chance to size up future soldiers!</Page>
+    </Text>
+</VillagerDialog>

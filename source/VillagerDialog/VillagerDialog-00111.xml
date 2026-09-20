@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="602032" huntingZoneId="0" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">&lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;If you received this letter, you've arrived in Velika and are about to enter Headquarters.&lt;BR&gt;&lt;BR&gt;There's a few things you need to know first. I've shared your cover story about being a recruit on the Island of Dawn, but some people are still suspicious.&lt;BR&gt;&lt;BR&gt;We're doing our best to track down the traitor, but it's going to take some time. Until then, your real story is classified.&lt;BR&gt;&lt;BR&gt;I'll do my best to protect you from federation politics, but I recommend you get out of the city and back into the field as soon as possible.&lt;BR&gt;&lt;BR&gt;—Dougal&lt;CLOSEPAGEBUTTON&gt;Close the letter.&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

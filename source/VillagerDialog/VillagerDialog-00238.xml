@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8013" huntingZoneId="13" voiceTypeId="5" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="14" voiceTypeId="5">Are you...? Are you the investigator from the Valkyon Federation?&lt;BR&gt;&lt;BR&gt;I think I have some information you might be interested in...&lt;TEXTBUTTON&gt;"What is it?"&lt;/TEXTBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

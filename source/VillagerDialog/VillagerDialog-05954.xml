@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="403" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="403" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">A plan is a lot like a fount, don't you think?&lt;BR&gt;&lt;BR&gt;I mean, the parts that make it up sort of pour from a spout...and...erm...&lt;BR&gt;&lt;BR&gt;Well, that fell apart fast, didn't it.&lt;BR&gt;&lt;BR&gt;Anyway, ask me if you need help with anything.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="403" prevId="0" villagerId="1001" endSocial="0">
+        <Page social="0">Would you like to leave?&lt;TEXTBUTTON&gt;"I'll take your help."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Exit Aura.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

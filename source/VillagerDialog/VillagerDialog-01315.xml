@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8000" huntingZoneId="65" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">Hey! Are you going to the Halloween party?&lt;BR&gt;&lt;BR&gt;Assuming it actually happens. Eldritch Academy is a mess now. Brigands of some sort are trying to disrupt the party and steal the witches' magic candy.&lt;BR&gt;&lt;BR&gt;Serena delegated the party to Titiana, but she's too busy pretending to be a detective to accomplish anything useful. I can teleport you there, if you like.&lt;CLOSEPAGEBUTTON&gt;"Got it."&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">No Halloween party this year, I hear. Bummer.</Page>
+    </Text>
+</VillagerDialog>

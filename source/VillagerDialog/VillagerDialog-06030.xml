@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="415" voiceTypeId="132" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="3">
+        <Page social="5">We just wanted to study the Island of Dawn. It's not every day an entire island appears out of nowhere.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">I'm doing all I can, but many will die on this beach.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">Get gear from Popomin. It'll keep you alive.</Page>
+    </Text>
+</VillagerDialog>

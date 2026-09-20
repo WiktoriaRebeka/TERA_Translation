@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1006" huntingZoneId="489" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="489" prevId="0" villagerId="1006" endSocial="0">
+        <Page social="0">(This obstacle blocks the path to the priests' chamber. It appears summoned, but you can't do anything from here.)</Page>
+    </Text>
+</VillagerDialog>

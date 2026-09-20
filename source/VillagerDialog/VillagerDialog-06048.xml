@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1031" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">Give me room to work!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Don't move, or the wound will open up!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">What a nightmare. How could it get worse?</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0">Stay with me, soldier! Relief ships are sailing this way!</Page>
+    </Text>
+</VillagerDialog>

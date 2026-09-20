@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1174" huntingZoneId="84" voiceTypeId="110" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="0">I am the adjutant of Kaiator's glorious headquarters.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">For Kaia's glory!</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0">Yes, Deputy Commander! I sent soldiers to Darkquaver Woods as you instructed. We will hear from them soon.</Page>
+    </Text>
+</VillagerDialog>

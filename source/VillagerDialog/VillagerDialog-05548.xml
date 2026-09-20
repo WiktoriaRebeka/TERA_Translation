@@ -1,0 +1,17 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1103" huntingZoneId="252" voiceTypeId="100" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">Are you our savior?</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4">Thank you for rescuing me. I thought I was done for sure!</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4">Barely... made it out alive.&lt;BR&gt;&lt;BR&gt;Ugh... I wonder if that old aman is safe...</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4">I'm alive! Thank you, Kaia!</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">Run everyone, run!</Page>
+    </Text>
+</VillagerDialog>

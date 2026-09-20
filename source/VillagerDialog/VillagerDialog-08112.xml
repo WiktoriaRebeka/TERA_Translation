@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1023" huntingZoneId="3003" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="1">
+        <Page social="1" voiceTypeId="0">Monsters are everywhere. I can't run away from them!</Page>
+    </Text>
+    <Text id="2" endSocial="2">
+        <Page social="1" voiceTypeId="0">Please help me get rid of them all and escape. I can't do this alone!&lt;TEXTBUTTON&gt;Reassure Davina.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Protect Davina.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'll go back to Jelena! You take care of yourself!</Page>
+    </Text>
+</VillagerDialog>

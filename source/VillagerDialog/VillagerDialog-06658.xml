@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3001" huntingZoneId="509" voiceTypeId="25" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="25">I must... speak with the Commander...</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="0" voiceTypeId="25">I've never had Bleakfields barbecue. Do you recommend it?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="0" voiceTypeId="25">It's the end of the world! Please! You have to let me in!</Page>
+    </Text>
+    <Text id="4" endSocial="0">
+        <Page social="0" voiceTypeId="25">Is this what the Gods wanted...? Apocalypse...?&lt;BR&gt;</Page>
+    </Text>
+    <Text id="5" endSocial="0">
+        <Page social="0" voiceTypeId="25">Is it... really the end...?</Page>
+    </Text>
+    <Text id="6" endSocial="0">
+        <Page social="0" voiceTypeId="25">Hello? &lt;PCNAME&gt;! I'm so glad to see you!</Page>
+    </Text>
+</VillagerDialog>

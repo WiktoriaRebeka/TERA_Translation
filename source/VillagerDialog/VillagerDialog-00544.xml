@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1012" huntingZoneId="59" voiceTypeId="24" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="59" prevId="0" villagerId="1012" endSocial="14">
+        <Page social="4">It's not as if anyone else volunteered to figure out why the dead are rising from their graves.&lt;BR&gt;&lt;BR&gt;I've got a job to do and I'll do it right. I'll need help, of course. I'm a scholar, not a soldier.</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="59" prevId="0" villagerId="1012" endSocial="0">
+        <Page social="4">By the gods!</Page>
+    </Text>
+    <Text id="10002" huntingZoneId="59" prevId="0" villagerId="1012" endSocial="0">
+        <Page social="4">The core is tainted with spiritual energy!</Page>
+    </Text>
+    <Text id="10003" huntingZoneId="59" prevId="0" villagerId="1012" endSocial="0">
+        <Page social="4">That explains why the dead walk through the woods.</Page>
+    </Text>
+</VillagerDialog>

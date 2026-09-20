@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="184" huntingZoneId="599" voiceTypeId="283" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="4">
+        <Page social="4" voiceTypeId="283">I don't think my friends are in the cave, &lt;PCNAME&gt;. Do you think they're sleeping, too, like Sharla and Finnlas?</Page>
+    </Text>
+    <Text id="100" endSocial="4">
+        <Page social="4" voiceTypeId="283">Kiecey! Jerdan! Pilt! Niyum! Wake up, you guys!</Page>
+    </Text>
+</VillagerDialog>

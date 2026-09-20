@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="200" huntingZoneId="447" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">The festival hall is full of the spookiest, scariest decorations in all of Arun! You'll be in the thick of it guarding our cache of candy.&lt;BR&gt;&lt;BR&gt;Can you handle the fright? Are you scared yet?&lt;TEXTBUTTON&gt;"Ready!"&lt;/TEXTBUTTON&gt;</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">Whether you're scared or not, the Halloween event is about to begin. Are you ready?&lt;TEXTBUTTON&gt;"Are you kidding me?"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"Ready!"&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

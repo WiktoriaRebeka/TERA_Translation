@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20301" huntingZoneId="2500" voiceTypeId="47" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Dearest Kaidun…&lt;BR&gt;&lt;BR&gt;I know how much you care for me, but please be quiet.&lt;BR&gt;Works of art should be appreciated in silence.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0" />
+    </Text>
+</VillagerDialog>

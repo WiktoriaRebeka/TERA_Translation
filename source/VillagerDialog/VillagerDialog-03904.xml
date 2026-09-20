@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1103" huntingZoneId="213" voiceTypeId="8" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="213" prevId="0" villagerId="1103" endSocial="14">
+        <Page social="4">I can give you a basic briefing on the expedition, but you should really check in with Lam for your orders.&lt;BR&gt;&lt;BR&gt;The expedition is studying the island's unique properties, while what remains of our garrison holds off the demons to the south.&lt;BR&gt;&lt;BR&gt;Keep your eyes and ears open, and remember how much it's already cost to bring you here.</Page>
+    </Text>
+</VillagerDialog>

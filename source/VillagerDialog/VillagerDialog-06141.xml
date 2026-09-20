@@ -1,0 +1,41 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1017" huntingZoneId="428" voiceTypeId="127" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">This must be Malachai's Lab. It's filled with wicked magic energy. &lt;BR&gt;&lt;BR&gt;Please be careful.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Malachai's magic will activate the moment that you summon the Teleportal.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="0">It could be dangerous. Please be careful.</Page>
+    </Text>
+    <Text id="103" endSocial="0">
+        <Page social="0" voiceTypeId="0">The magic has activated.</Page>
+    </Text>
+    <Text id="104" endSocial="0">
+        <Page social="0" voiceTypeId="0">Whatever appears, don't be afraid!</Page>
+    </Text>
+    <Text id="105" endSocial="0">
+        <Page social="0" voiceTypeId="0">Dear Balder, the God of the Sun!</Page>
+    </Text>
+    <Text id="106" endSocial="0">
+        <Page social="0" voiceTypeId="0">Punish the evil with your authority!</Page>
+    </Text>
+    <Text id="107" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'll entrap the evil power inside me. Use that time to take care of the demon!</Page>
+    </Text>
+    <Text id="108" endSocial="0">
+        <Page social="0" voiceTypeId="0">Ugh… I'll leave the rest to you.</Page>
+    </Text>
+    <Text id="109" endSocial="0">
+        <Page social="0" voiceTypeId="0">I've entrapped the evil power inside me…</Page>
+    </Text>
+    <Text id="110" endSocial="0">
+        <Page social="0" voiceTypeId="0">This is the teleportal linked to Sirjuka Gallery.</Page>
+    </Text>
+    <Text id="111" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'll transport this magic stone to Allemantheia.</Page>
+    </Text>
+    <Text id="112" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'll see you in Allemantheia.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,20 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22002" huntingZoneId="72" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Hello, friend. Have you given thought to what you can do for the Enlightened Union?</Page>
+    </Text>
+    <Text id="5" endSocial="14">
+        <Page social="4" voiceTypeId="0">Oh, I'm sorry, friend, but it would appear you are not a master, or even a member, of a guild serving the Enlightened Union. In simple terms, this would mean we have nothing to talk about. But have a good day!</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">Hello, friend. Have you ever wondered what the Enlightened Union has in store for you?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">Hello, friend. Have you heard the good word of the Enlightened Union?</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="0">Hello, friend. Have you come to pledge allegiance to the Enlightened Union?</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">The vanarch system simply isn't working, is it? So much chaos. The people need more enlightened leadership.</Page>
+    </Text>
+</VillagerDialog>

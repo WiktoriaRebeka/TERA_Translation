@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="4000101" huntingZoneId="830" voiceTypeId="167" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="4" voiceTypeId="167">Wow! &lt;PCNAME&gt;, you are indeed a true champion!&lt;BR&gt;&lt;BR&gt;Just listen to the audience cheer!&lt;BR&gt;&lt;BR&gt;You have to come back again sometime for another challenge!&lt;BR&gt;&lt;BR&gt;In the meantime, let me know when you're ready, and I will send you to Highwatch!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="4" voiceTypeId="167">I'm sorry, but the arena is unavailable right now.&lt;BR&gt;&lt;BR&gt;Please try again later.</Page>
+    </Text>
+</VillagerDialog>

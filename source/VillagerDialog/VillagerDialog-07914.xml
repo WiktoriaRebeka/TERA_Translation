@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7002" huntingZoneId="2500" voiceTypeId="3" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Look at the train behind me.&lt;BR&gt;&lt;BR&gt;Sometimes a train packed to the brim with gold coins shows up on the battleground.&lt;BR&gt;You can’t touch it while it’s moving. You can attack it as soon as it reaches its destination, though.&lt;BR&gt;You’ll get the gold coins if you destroy it.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,5 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1004" huntingZoneId="74" voiceTypeId="46" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="74" prevId="0" villagerId="1004" endSocial="14">
+        <Page social="4">Good day. Do you have something to check in with us? Your valuables are safe here.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1108" huntingZoneId="403" voiceTypeId="44" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">Where am I? Who are you?&lt;BR&gt;&lt;BR&gt;I had business in Allemantheia, but I don't seem to remember anything.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Akasha! Run!&lt;TEXTBUTTON&gt;"We'll be fine."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Protect Serion.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

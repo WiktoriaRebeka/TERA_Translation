@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2007" huntingZoneId="418" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">It's a switch for operating something.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">It's a switch for operating something.&lt;TEXTBUTTON&gt;Hold the switch lever.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Pull the lever.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

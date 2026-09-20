@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2015" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">(This gate is for Free Traders Collective members only.)</Page>
+    </Text>
+    <Text id="1232015" endSocial="0">
+        <Page social="0" voiceTypeId="0">(This gate can transport you to strategic locations for the rise of the Free Traders Collective.)</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">(This gate is under construction and unavailable for use.)</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="64" voiceTypeId="16" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="64" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">After everything we sacrificed to build an outpost here, to have our work destroyed like this is almost too much to bear.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">Welcome, &lt;PCNAME&gt;. Thanks to your help, the base's defenses have been much improved. This would've been very difficult to achieve without you. It's too early for our expedition team to resume their work, but I feel that we've certainly taken a step in the right direction.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="64" prevId="0" villagerId="1001" endSocial="14">
+        <Page social="4">Ah, it's you, &lt;PCNAME&gt;. We can resume the expedition now, thanks to you. And it's not just me; the entire expedition team thanks you. You've done something really great for us.</Page>
+    </Text>
+</VillagerDialog>

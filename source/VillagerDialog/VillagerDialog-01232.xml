@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="64" voiceTypeId="1" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="64" prevId="0" villagerId="1005" endSocial="14">
+        <Page social="4">You'll want bandages if you're heading out. I've got scrolls and crystals as well, all at federation-mandated prices. I wonder if I should just point at items and nod, instead of pretending to haggle.</Page>
+    </Text>
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1005" endSocial="14">
+        <Page social="4">If you need crystals, go see Viator. Mahadam sells armor, and Ailesa has fine weapons. Merchants will buy your unneeded items too, or you can drop them off with a banker.</Page>
+    </Text>
+</VillagerDialog>

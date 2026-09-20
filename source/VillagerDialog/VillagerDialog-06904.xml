@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5005" huntingZoneId="720" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="0">You see a strange sphere.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="0">(You hear strange, mumbling voices, accompanied by the sound of flowing water.)&lt;BR&gt;&lt;BR&gt;"No, please! Save us! Aren't we all brothers?"&lt;BR&gt;"It was you who led us here...&lt;BR&gt;...Yes, I finally understand...&lt;BR&gt;&lt;BR&gt;...So this is the power of the Core..."&lt;BR&gt;&lt;BR&gt;"Soon, I can leave...The chief guard...where is he...?"&lt;BR&gt;&lt;BR&gt;(You hear a popping sound, and heavy splashing.)&lt;TEXTBUTTON&gt;Touch the sphere.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Carefully take your hand away.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

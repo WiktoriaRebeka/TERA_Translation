@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1010" huntingZoneId="207" voiceTypeId="8" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="207" prevId="0" villagerId="1010" endSocial="14">
+        <Page social="4">I'm Elthim's assistant. He's taught me more in two years than I learned in my entire career at the Collegium Arcane.&lt;BR&gt;&lt;BR&gt;I can't talk about the master's work. He made me swear an oath. Still, when it's unveiled, you'll be astounded!</Page>
+    </Text>
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1010" endSocial="14">
+        <Page social="4">My apologies but I musn't break my concentration. My master's work requires precise focus!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="207" prevId="0" villagerId="1010" endSocial="14">
+        <Page social="4">My magic will send you to Elthim. Protect him while he finishes his task—it could be the breakthrough we've waited for!&lt;BR&gt;&lt;BR&gt;&lt;TEXTBUTTON&gt;To Elthim&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to Elthim&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

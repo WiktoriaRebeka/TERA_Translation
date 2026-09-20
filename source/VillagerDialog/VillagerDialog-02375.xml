@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1015" huntingZoneId="83" voiceTypeId="12" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4" voiceTypeId="0">To be sure, shining rocks are pretty and sell well, but you can't eat them. Hunters like me offer products you can actually use.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">Emm...do you barakas not eat at all?</Page>
+    </Text>
+</VillagerDialog>

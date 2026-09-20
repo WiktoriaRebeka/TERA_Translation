@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3001" huntingZoneId="71" voiceTypeId="77" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="245">The refuge is a safe place for nature and those who love it. Show it respect.&lt;BR&gt;&lt;BR&gt;We'll be watching you, soldier.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="246">You show respect to nature, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nurture that attitude.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="247">Welcome, &lt;PCNAME&gt;.</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="247">Pleasure to see you...my friend.</Page>
+    </Text>
+</VillagerDialog>

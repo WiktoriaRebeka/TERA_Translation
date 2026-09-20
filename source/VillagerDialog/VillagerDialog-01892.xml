@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220045" huntingZoneId="72" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Before you ally yourself with a faction, you must know your heart's desire.&lt;BR&gt;&lt;BR&gt;Is gold your aim? Then the Free Traders Collective may be your best match. Perhaps you prize physical prowess, in which case you have something in common with the Iron Order. Or is your reputation what you value most? The Enlightened Union has a place for you.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">What is your heart's desire? Money? Power? Companionship?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">Alas, I can only accept applications from guild masters.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">The day will come when we choose our leaders based on boldness, bravery, or wisdom. Which do you value most?</Page>
+    </Text>
+</VillagerDialog>

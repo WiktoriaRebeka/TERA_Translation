@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1009" huntingZoneId="29" voiceTypeId="291" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="291">There was a misunderstanding.&lt;BR&gt;&lt;BR&gt;I thought that the raiders were trying to make use of the phenomenon to attack...&lt;BR&gt;&lt;BR&gt;But they were too suspicious all along.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="291">Trust &lt;PCNAME&gt; instead.</Page>
+    </Text>
+    <Text id="102" endSocial="0">
+        <Page social="0" voiceTypeId="291">We will investigate your claims, Hennika. Pray your story checks out.</Page>
+    </Text>
+</VillagerDialog>

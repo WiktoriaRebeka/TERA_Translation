@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="7001" huntingZoneId="508" voiceTypeId="145" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="145">This is the Abyss within you.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0" voiceTypeId="145">&lt;BR&gt;This is where your personal demons dwell.&lt;BR&gt;You must face your demons and overcome them. I'm afraid it won't be easy; these are the only enemies you've never been able to withstand.&lt;BR&gt;Stay strong.&lt;TEXTBUTTON&gt;"I will."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;[Recall your greatest fear.]&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

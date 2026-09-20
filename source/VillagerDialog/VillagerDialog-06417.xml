@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="11008" huntingZoneId="478" voiceTypeId="121" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4">Suryati threatens Acarum and all of Westonia. Countless soldiers better than I fell trying to stop him.&lt;BR&gt;&lt;BR&gt;Is that why you're here?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0">I'm not ready to return...not yet.&lt;BR&gt;&lt;BR&gt;You go on, &lt;PCNAME&gt;.</Page>
+    </Text>
+</VillagerDialog>

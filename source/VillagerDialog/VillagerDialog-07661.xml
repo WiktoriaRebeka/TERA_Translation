@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="20403" huntingZoneId="2001" voiceTypeId="95" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="95">It's...it's just a headache. I think I'll be okay after some rest.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">I'll head for Vogzu. Come quickly, &lt;PCNAME&gt;.</Page>
+    </Text>
+</VillagerDialog>

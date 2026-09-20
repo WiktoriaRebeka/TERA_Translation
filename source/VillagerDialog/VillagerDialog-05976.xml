@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1007" huntingZoneId="408" voiceTypeId="47" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="0">Malachai's foul energy...can you feel it? It's everywhere.</Page>
+    </Text>
+    <Text id="2" endSocial="4">
+        <Page social="0">Ready to punish some real traitors?&lt;TEXTBUTTON&gt;"Let's do something about it."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"I'm ready."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

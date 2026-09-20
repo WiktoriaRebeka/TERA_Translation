@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="22" huntingZoneId="488" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="488" prevId="0" villagerId="22" endSocial="14">
+        <Page social="0">Are you ready for a fight?&lt;BR&gt;&lt;BR&gt;We've got a lot of work to do.</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="488" prevId="0" villagerId="22" endSocial="14">
+        <Page social="0">That fight...that was difficult.&lt;BR&gt;&lt;BR&gt;I'm glad we survived.</Page>
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1103" huntingZoneId="403" voiceTypeId="152" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0">Never forget that Akasha's a goddess. It will take all of our power to defeat her.</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="0">Are you ready?&lt;TEXTBUTTON&gt;"I understand."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Begin the battle with Akasha and Core Serion.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

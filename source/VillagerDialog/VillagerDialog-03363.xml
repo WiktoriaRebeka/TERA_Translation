@@ -1,0 +1,11 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1024" huntingZoneId="202" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="202" prevId="0" villagerId="1024" endSocial="14">
+        <Page social="4">People say they wish it was like the good old days, but I wonder whether they were really all that "good."</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="202" prevId="0" villagerId="1024" endSocial="0">
+        <Page social="4">I'll look into matters immediately.</Page>
+    </Text>
+    <Text id="10002" huntingZoneId="202" prevId="0" villagerId="1024" endSocial="0">
+        <Page social="4">The spirit cores are indeed tainted.</Page>
+    </Text>
+</VillagerDialog>

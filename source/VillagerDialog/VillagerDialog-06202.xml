@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="122" huntingZoneId="445" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="14" voiceTypeId="26">Good job!</Page>
+    </Text>
+    <Text id="2" endSocial="0">
+        <Page social="1" voiceTypeId="26">I've activated a teleportal outside the village for you. Use it to return to wherever you're from.&lt;BR&gt;&lt;BR&gt;Thank you so much for your help!&lt;TEXTBUTTON&gt;"I'm ready to go back."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Farewell!&lt;/EVENTPAGEBUTTON&gt;</Page>
+    </Text>
+</VillagerDialog>

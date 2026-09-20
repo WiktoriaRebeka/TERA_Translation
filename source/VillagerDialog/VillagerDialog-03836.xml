@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1018" huntingZoneId="212" voiceTypeId="51" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="212" prevId="0" villagerId="1018" endSocial="12">
+        <Page social="9">I am powerless without my disc—they've taken what I am away from me. My very being.</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="212" prevId="0" villagerId="1018" endSocial="0">
+        <Page social="9">I'm free! Thank you!</Page>
+    </Text>
+</VillagerDialog>

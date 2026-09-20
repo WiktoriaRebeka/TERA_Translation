@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220046" huntingZoneId="72" voiceTypeId="26" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="0">Knowing your heart's desire will guide you in choosing a faction to join.&lt;BR&gt;&lt;BR&gt;If wealth is what drives you, you have something in common with the Free Traders Collective. Physical resilience is highly-prized in the Iron Order. The Enlightened Union leans toward the power that comes from having a solid reputation.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="0">So, what's your heart's desire? Which faction's values match your own?</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="0">If you are not a Guild Master, I'm afraid I can't help you.</Page>
+    </Text>
+    <Text id="6" endSocial="14">
+        <Page social="4" voiceTypeId="0">Our leaders should be either the boldest, the bravest, or the wisest. Which would you choose?</Page>
+    </Text>
+</VillagerDialog>

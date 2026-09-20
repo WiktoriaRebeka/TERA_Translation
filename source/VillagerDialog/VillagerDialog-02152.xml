@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3001" huntingZoneId="77" voiceTypeId="21" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="14">
+        <Page social="4" voiceTypeId="227">I haven't seen you around here...I don't know what you're doing here but don't do anything to interrupt my research.</Page>
+    </Text>
+    <Text id="2" endSocial="14">
+        <Page social="4" voiceTypeId="228">I'm really grateful for everything you've done for us. But take it easy, don't overdo yourself.</Page>
+    </Text>
+    <Text id="3" endSocial="14">
+        <Page social="4" voiceTypeId="229">Haha...I hear argon research is really going well thanks to you.&lt;BR&gt;&lt;BR&gt;I don't know how to repay you for all you've done!</Page>
+    </Text>
+    <Text id="4" endSocial="14">
+        <Page social="4" voiceTypeId="229">Haha...I hear argon research is really going well thanks to you.&lt;BR&gt;&lt;BR&gt;I don't know how to repay you for all you've done!</Page>
+    </Text>
+</VillagerDialog>

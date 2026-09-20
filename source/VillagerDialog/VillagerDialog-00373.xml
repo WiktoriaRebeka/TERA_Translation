@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1000" huntingZoneId="29" voiceTypeId="13" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" endSocial="0">
+        <Page social="0" voiceTypeId="13">When did all these warthogs come here?&lt;BR&gt;By the looks of them, this won't end well.&lt;BR&gt;When are the recruits coming?</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="13">There's too many of them! Fall back!</Page>
+    </Text>
+</VillagerDialog>

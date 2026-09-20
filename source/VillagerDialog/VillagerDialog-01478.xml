@@ -1,0 +1,8 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1011" huntingZoneId="70" voiceTypeId="44" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="70" prevId="0" villagerId="1011" endSocial="14">
+        <Page social="4" voiceTypeId="0">Essenia's in crisis. Tria looks idyllic, yet we're at the heart of the storm.&lt;BR&gt;&lt;BR&gt;We'll get through this, but we have to remain strong. The citizens have to feel safe, so that panic doesn't set in.</Page>
+    </Text>
+    <Text id="101" endSocial="0">
+        <Page social="0" voiceTypeId="0">I hope the transport doesn't run in to any trouble.</Page>
+    </Text>
+</VillagerDialog>

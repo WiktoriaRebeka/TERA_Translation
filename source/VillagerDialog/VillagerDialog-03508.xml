@@ -1,0 +1,14 @@
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1015" huntingZoneId="205" voiceTypeId="16" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="205" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">So they're talking about reclaiming the swamp, but I'm not sure how they intend to manage that.&lt;BR&gt;&lt;BR&gt;What? Who's "they"? Huh. Interesting question. It never even really occurred to me to ask.</Page>
+    </Text>
+    <Text id="10001" huntingZoneId="205" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">Finally the big annoying drum is gone.</Page>
+    </Text>
+    <Text id="10002" huntingZoneId="205" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">Their communication is disrupted! Go!</Page>
+    </Text>
+    <Text id="10003" huntingZoneId="205" prevId="0" villagerId="1015" endSocial="14">
+        <Page social="4">Time to get to training the new recruits.</Page>
+    </Text>
+</VillagerDialog>
