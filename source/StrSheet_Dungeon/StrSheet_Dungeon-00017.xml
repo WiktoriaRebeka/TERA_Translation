@@ -1,0 +1,8 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="3009001" string="The door opens." styleId="71" />
+    <String id="3009002" string="Thulsa runs to the top of the altar." styleId="71" />
+    <String id="3009100" string="You will receive a boon in 1 minute." styleId="71" />
+    <String id="3009101" string="A boon is now active. (1/3)" styleId="71" />
+    <String id="3009102" string="A boon is now active. (2/3)" styleId="71" />
+    <String id="3009103" string="A boon is now active. (3/3)" styleId="71" />
+</StrSheet_Dungeon>

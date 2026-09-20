@@ -1,0 +1,7 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="3024000" string="This place seems safe. Talk to the agent near the lakeside." styleId="71" />
+    <String id="3024001" string="You see a Federation Spy agent. Talk to the agent." styleId="71" />
+    <String id="3024002" string="The ground quakes." styleId="71" />
+    <String id="3024003" string="You defeated all monsters within the time limit." styleId="71" />
+    <String id="3024004" string="A battle-aid device has spawned. The device will disappear in 20 seconds." styleId="71" />
+</StrSheet_Dungeon>

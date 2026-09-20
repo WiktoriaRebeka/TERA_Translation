@@ -1,0 +1,11 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="9072001" string="Take out the intruders!" styleId="70" />
+    <String id="9072002" string="Mumbling" styleId="70" />
+    <String id="9072006" string="Blocked door is opening!" styleId="71" />
+    <String id="9072007" string="Door opens!" styleId="71" />
+    <String id="9072008" string="The door opens for the Chamber of Trial." styleId="71" />
+    <String id="9072100" string="You will receive a boon in 1 minute." styleId="71" />
+    <String id="9072101" string="A boon is now active. (1/3)" styleId="71" />
+    <String id="9072102" string="A boon is now active. (2/3)" styleId="71" />
+    <String id="9072103" string="A boon is now active. (3/3)" styleId="71" />
+</StrSheet_Dungeon>

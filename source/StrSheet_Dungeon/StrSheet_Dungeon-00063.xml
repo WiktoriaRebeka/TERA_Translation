@@ -1,0 +1,45 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="9025001" string="The temple gate opens." />
+    <String id="9025002" string="The golem power aura activates." styleId="71" />
+    <String id="9025003" string="The golem maintenance device activates." styleId="71" />
+    <String id="9025004" string="The golem production device activates." styleId="71" />
+    <String id="9025005" string="Power is about to flow to the left pond." styleId="71" />
+    <String id="9025006" string="Power cut to the left pond." styleId="71" />
+    <String id="9025007" string="Power is about to flow to the right pond." styleId="71" />
+    <String id="9025008" string="Power cut to the right pond." styleId="71" />
+    <String id="9025009" string="Begin." styleId="71" />
+    <String id="9025010" string="Prepare for the second stage." styleId="71" />
+    <String id="9025011" string="Prepare for the third stage." styleId="71" />
+    <String id="9025012" string="Complete." styleId="71" />
+    <String id="9025013" string="Destroy the fourth jar." styleId="71" />
+    <String id="9025014" string="Destroy the fifth jar." styleId="71" />
+    <String id="9025028" string="Find the real urn and destroy it in time." styleId="71" />
+    <String id="9025015" string="The temple guardians approach." styleId="71" />
+    <String id="9025016" string="More guardians approach." styleId="71" />
+    <String id="9025017" string="More guardians approach." styleId="71" />
+    <String id="9025018" string="Light glints off the mirror." styleId="71" />
+    <String id="9025027" string="You must break through the guardians!" styleId="71" />
+    <String id="9025019" string="Auricadis gathers power to strike." styleId="71" />
+    <String id="9025020" string="A trap is sprung." styleId="71" />
+    <String id="9025021" string="You've failed. Please try again." styleId="71" />
+    <String id="9025022" string="The guardian absorbs all the energy." styleId="71" />
+    <String id="9025023" string="The door opens." />
+    <String id="9025024" string="Cannons appear." styleId="71" />
+    <String id="9025029" string="Get on the cannon and attack the guardian!" styleId="71" />
+    <String id="9025025" string="Power surges through your body." styleId="71" />
+    <String id="9025026" string="A dimensional mirror appears." />
+    <String id="9025101" string="1" />
+    <String id="9025102" string="2" />
+    <String id="9025103" string="3" />
+    <String id="9025104" string="4" />
+    <String id="9025105" string="5" />
+    <String id="9025106" string="6" />
+    <String id="9025107" string="7" />
+    <String id="9025108" string="8" />
+    <String id="9025109" string="9" />
+    <String id="9025110" string="10" />
+    <String id="9025200" string="You will receive a boon in 1 minute." styleId="71" />
+    <String id="9025201" string="A boon is now active. (1/3)" styleId="71" />
+    <String id="9025202" string="A boon is now active. (2/3)" styleId="71" />
+    <String id="9025203" string="A boon is now active. (3/3)" styleId="71" />
+</StrSheet_Dungeon>

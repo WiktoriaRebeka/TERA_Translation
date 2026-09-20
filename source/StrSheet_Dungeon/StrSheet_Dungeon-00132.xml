@@ -1,0 +1,14 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="7201000" string="(not shown)" styleId="66" />
+    <String id="7202000" string="Sacrificial target selected." styleId="66" />
+    <String id="7201001" string="Resistance I has ended." styleId="67" />
+    <String id="7201002" string="Resistance II has ended." styleId="67" />
+    <String id="7203000" string="Enter your final words now." styleId="66" />
+    <String id="7203001" string="Mercy not found." styleId="66" />
+    <String id="7203002" string="Dispersing collected mana!" styleId="66" />
+    <String id="7203003" string="Escape option disabled." styleId="66" />
+    <String id="7204000" string="The gates will close soon." styleId="67" />
+    <String id="7205000" string="Entering central administration zone. Security level increased." />
+    <String id="7205001" string="Please adhere to the security regulations for the facility and your own safety." />
+    <String id="7205002" string="Now entering the restricted zone." />
+</StrSheet_Dungeon>

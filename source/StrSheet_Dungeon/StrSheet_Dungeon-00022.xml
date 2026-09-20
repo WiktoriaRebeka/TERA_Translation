@@ -1,0 +1,17 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="30171000" string="(not shown)" styleId="66" />
+    <String id="30172000" string="Sacrificial target selected." styleId="66" />
+    <String id="30171001" string="Nightmare Kalioth's Resistance I has ended." styleId="67" />
+    <String id="30171002" string="Nightmare Kalioth's Resistance II has ended." styleId="67" />
+    <String id="30173000" string="Enter your final words now." styleId="66" />
+    <String id="30173001" string="Mercy not found." styleId="66" />
+    <String id="30173002" string="Dispersing collected mana!" styleId="66" />
+    <String id="30173003" string="Escape option disabled." styleId="66" />
+    <String id="30173004" string="Antaroth is collecting unstable mana." styleId="67" />
+    <String id="30173005" string="Greatly empowered when mana is stabilized." styleId="67" />
+    <String id="30173006" string="Fatal error..." styleId="66" />
+    <String id="30174000" string="The gates will close soon." styleId="67" />
+    <String id="30175000" string="Entering central administration zone. Security level increased." />
+    <String id="30175001" string="Please adhere to the security regulations for the facility and your own safety." />
+    <String id="30175002" string="Now entering the restricted zone." />
+</StrSheet_Dungeon>

@@ -1,0 +1,13 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="45301" string="Cannons have spawned. Hit Kezzel just right to knock him down." />
+    <String id="453001" string="The entrance will close in 5 seconds." styleId="67" />
+    <String id="453002" string="Drop a powder keg in the path of the giant." />
+    <String id="453003" string="A cannon has been summoned at the top of the ladder." />
+    <String id="453004" string="You can activate the drills once every 3 minutes." />
+    <String id="453005" string="70% of the gate's HP remain. " />
+    <String id="453006" string="50% of the gate's HP remain. " />
+    <String id="453007" string="20% of the gate's HP remain. " />
+    <String id="453008" string="10% of the gate's HP remain. " />
+    <String id="453009" string="The drill is ready for use again. " />
+    <String id="453010" string="A drill has been summoned. Get clear! " />
+</StrSheet_Dungeon>

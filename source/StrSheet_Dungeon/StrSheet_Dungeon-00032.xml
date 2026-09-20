@@ -1,0 +1,33 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="30291000" string="(not shown)" styleId="66" />
+    <String id="30292000" string="Sacrificial target selected." styleId="66" />
+    <String id="30291001" string="Nightmare Kalioth's Resistance I has ended." styleId="67" />
+    <String id="30291002" string="Nightmare Kalioth's Resistance II has ended." styleId="67" />
+    <String id="30293000" string="Enter your final words now." styleId="66" />
+    <String id="30293001" string="Mercy not found." styleId="66" />
+    <String id="30293002" string="Dispersing collected mana!" styleId="66" />
+    <String id="30293003" string="Escape option disabled." styleId="66" />
+    <String id="30293004" string="Antaroth is collecting unstable mana." styleId="67" />
+    <String id="30293005" string="Greatly empowered when mana is stabilized." styleId="67" />
+    <String id="30293006" string="Fatal error..." styleId="66" />
+    <String id="30294000" string="The gates will close soon." styleId="67" />
+    <String id="30295000" string="Entering central administration zone. Security level increased." />
+    <String id="30295001" string="Please adhere to the security regulations for the facility and your own safety." />
+    <String id="30295002" string="Now entering the restricted zone." />
+    <String id="30296000" string="Defeat Nightmare Ghergof with a summoned Lancer." styleId="71" />
+    <String id="30296001" string="Destroy the Summoning Stone and summon a helper." styleId="71" />
+    <String id="30296002" string="Defeat Nightmare Kalioth with a summoned Lancer." styleId="71" />
+    <String id="30296004" string="Defeat Nightmare Antaroth with a summoned Lancer." styleId="71" />
+    <String id="30296005" string="Defeat Nightmare Ghergof with a summoned Priest." styleId="71" />
+    <String id="30296006" string="Defeat Nightmare Kalioth with a summoned Priest." styleId="71" />
+    <String id="30296007" string="Defeat Nightmare Antaroth with a summoned Priest." styleId="71" />
+    <String id="30296008" string="You can find Divine Pylons on both sides of the entrance. Destroy the pylons from within 10m when needed." styleId="71" />
+    <String id="30296009" string="You must defeat the Nameless Spectre to pass the passage." styleId="71" />
+    <String id="30296010" string="The dungeon is now closed. Type '/reset' or use the 'Reset Instances' button in your Character Profile (P)." styleId="71" />
+    <String id="3029501" string="Attack while I use Infuriate!" />
+    <String id="3029502" string="MORE AGGRO!" />
+    <String id="3029503" string="I'll hold this thing off! Give it your best shot!" />
+    <String id="3029504" string="I've activated Adrenaline Rush and Guardian Shout! Attack!" />
+    <String id="3029200" string="Use &lt;img src='img://__Icon_Items.Add_Extract_Potion_2_Tex' width='28' height='28'&gt;&lt;img src='img://__Icon_Items.potion10_Tex' width='28' height='28'&gt; battle solutions and &lt;img src='img://__Icon_Items.fallfestival_bulgogi_Tex' width='28' height='28'&gt;&lt;img src='img://__Icon_Items.noctan_Tex' width='28' height='28'&gt; additional items before combat." styleId="71" />
+    <String id="3029201" string="Battle solutions can be purchased from the &lt;font color = '#FFFF00'&gt;Training Dungeon Merchant&lt;/font&gt;." styleId="71" />
+</StrSheet_Dungeon>

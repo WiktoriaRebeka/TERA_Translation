@@ -1,0 +1,75 @@
+name: Translate TERA Tutorial
+
+# Podpowiedzi (Runemarks, Shift-click, dungeon guides).
+on:
+  workflow_dispatch:
+    inputs:
+      input_path:
+        description: "Folder source/StrSheet_Tutorial albo jeden XML"
+        required: true
+        default: "source/StrSheet_Tutorial"
+      start:
+        description: "Pomin pierwsze N plikow"
+        required: false
+        default: "0"
+      count:
+        description: "Ile plikow. 0 = wszystkie"
+        required: false
+        default: "0"
+      batch_size:
+        description: "Ile unikalnych stringow na zapytanie Gemini"
+        required: false
+        default: "20"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-tutorial
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj biblioteki
+        run: pip install -r requirements.txt
+
+      - name: Przetlumacz Tutorial
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python translate_tutorial.py "${{ inputs.input_path }}" \
+            --output-dir output/StrSheet_Tutorial \
+            --start "${{ inputs.start }}" \
+            --count "${{ inputs.count }}" \
+            --batch-size "${{ inputs.batch_size }}"
+
+      - name: Sprawdz jakosc
+        if: always()
+        continue-on-error: true
+        run: python check_tutorial.py output/StrSheet_Tutorial
+
+      - name: Zapisz wynik do repozytorium
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output cache || true
+          if git diff --staged --quiet; then
+            echo "Brak zmian do zapisania."
+          else
+            git commit -m "Tlumaczenie Tutorial pack start=${{ inputs.start }} count=${{ inputs.count }}"
+            git pull --rebase
+            git push
+          fi

@@ -1,0 +1,11 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="9507001" string="You face the Black Dragon once again." />
+    <String id="9507002" string="Is this... the end?" />
+    <String id="9507003" string="I'm dizzy..." />
+    <String id="9507004" string="Use Mystel's Aura before the Black Dragon returns!" styleId="67" />
+    <String id="9507005" string="You're not dizzy anymore, but all you can see is darkness." styleId="66" />
+    <String id="9507006" string="Did Mystel's Aura protect me...?" />
+    <String id="9507007" string="The Black Dragon's last attack left you near death." styleId="67" />
+    <String id="9507008" string="This will finish you!" styleId="66" />
+    <String id="9507009" string="All skills must be obtained before using Mystel's Aura." styleId="67" />
+</StrSheet_Dungeon>

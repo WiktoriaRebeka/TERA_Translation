@@ -1,0 +1,22 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="9983000" string="The entrance will close soon." styleId="71" />
+    <String id="9983101" string="Charged Energy" />
+    <String id="9983102" string="Energy Surge" />
+    <String id="9983103" string="Energy charged." styleId="67" />
+    <String id="9983104" string="Energy depleted." styleId="67" />
+    <String id="9983105" string="First Energy Pillar Activation" styleId="67" />
+    <String id="9983106" string="Second Energy Pillar Activation" styleId="67" />
+    <String id="9983107" string="Third Energy Pillar Activation" styleId="67" />
+    <String id="9983108" string="Fourth Energy Pillar Activation" styleId="67" />
+    <String id="9983109" string="Theropath charges energy." styleId="67" />
+    <String id="9983200" string="Let's roll!" styleId="67" />
+    <String id="9983201" string="The skillbook appears." styleId="67" />
+    <String id="9983202" string="I need power!" styleId="66" />
+    <String id="9983203" string="I need more power!" styleId="66" />
+    <String id="9983204" string="I need more and more power!" styleId="66" />
+    <String id="9983205" string="Apetus rushes toward the skillbook." styleId="67" />
+    <String id="9983206" string="Apetus is infused with fire!" styleId="67" />
+    <String id="9983207" string="Apetus is infused with water!" styleId="67" />
+    <String id="9983208" string="Apetus is infused with grass!" styleId="67" />
+    <String id="9983301" string="I win!" styleId="66" />
+</StrSheet_Dungeon>

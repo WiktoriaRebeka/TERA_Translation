@@ -1,0 +1,22 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="9782001" string="Let the game begin." styleId="70" />
+    <String id="9782002" string="The Bloody Statue activates." styleId="71" />
+    <String id="9782003" string="The Radiant Statue activates." styleId="71" />
+    <String id="9782004" string="The Cursed Statue activates." styleId="71" />
+    <String id="9782005" string="The Bloody Statue and Radiant Statue activate." styleId="71" />
+    <String id="9782006" string="The Bloody Statue and Cursed Statue activate." styleId="71" />
+    <String id="9782007" string="The Radiant Statue and Cursed Statue activate." styleId="71" />
+    <String id="9782008" string="The Bloody Statue appears again." styleId="71" />
+    <String id="9782009" string="The Radiant Statue appears again." styleId="71" />
+    <String id="9782010" string="The Cursed Statue appears again." styleId="71" />
+    <String id="9782011" string="First boss emits a stench." styleId="71" />
+    <String id="9782012" string="Someone has been chained." styleId="71" />
+    <String id="9782013" string="The area collapses!" styleId="71" />
+    <String id="9782100" string="The combat area is now closed." styleId="71" />
+    <String id="9782500" string="Intruders! Get them!" />
+    <String id="9782501" string="What did you to my friends?" />
+    <String id="9782502" string="Payback time, federation scum." />
+    <String id="9782503" string="Aaaghh!" />
+    <String id="9782504" string="We have a guest." />
+    <String id="9782505" string="Grrr... Die!" />
+</StrSheet_Dungeon>

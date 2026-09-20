@@ -1,0 +1,52 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="30260001" string="Inner Temperature" />
+    <String id="30260002" string="A strange aura is coming from inside the sanctum." styleId="71" />
+    <String id="30260003" string="You can feel power emanating from the center of the Sanctum." styleId="71" />
+    <String id="30260004" string="" />
+    <String id="30260005" string="The gates will close soon." styleId="71" />
+    <String id="30260006" string="Jump to knock off all the parasites!" styleId="71" />
+    <String id="30260007" string="Argon parasites cling to your body." styleId="71" />
+    <String id="30260008" string="With the power of the Argons, I rise again!" styleId="70" />
+    <String id="30260009" string="You shall pay!" styleId="70" />
+    <String id="30260010" string="Kelsaik is faltering..." />
+    <String id="30260011" string="Kelsaik approaches." styleId="71" />
+    <String id="30260012" string="Failed to balance temperature. The air in the battle area is unstable." styleId="71" />
+    <String id="30260013" string="Raging Kelsaik is unstoppable." styleId="71" />
+    <String id="30260014" string="Kelsaik grows stronger." styleId="71" />
+    <String id="30260015" string="A Mana Field has activated. The battle area is corroding." styleId="71" />
+    <String id="30260016" string="Battle area corrosion is speeding up." styleId="71" />
+    <String id="30260017" string="Mana Field is fully powered." styleId="71" />
+    <String id="30260018" string="Kelsaik has been defeated!" styleId="71" />
+    <String id="30260019" string="Frostbite Avatar" />
+    <String id="30260020" string="Blazing Avatar" />
+    <String id="30260021" string="Enough! You shall not leave this place alive!" styleId="66" />
+    <String id="3026002" string="Blazing and Frostbite Argon Priests approach." />
+    <String id="3026003" string="The Argon Priest is trying to enrage Kelsaik." />
+    <String id="3026004" string="The Argon Priest has been eliminated." />
+    <String id="3026005" string="Kelsaik's avatar approaches. Collect the Argon Priest Essence and go to the leaping board." />
+    <String id="3026006" string="Kelsaik's avatar has been eliminated." />
+    <String id="3026007" string="Defeat the Argon Priest that matches the element to stop Kelsaik's rage." />
+    <String id="3026008" string="You defeated the Frostbite Avatar. Frostshield is deactivated." />
+    <String id="3026009" string="You defeated the Blazing Avatar. Blazeshield is deactivated." />
+    <String id="3026010" string="You must escape before the wrath of the flame captures you." />
+    <String id="3026015" string="You failed to defeat the Frostbite Avatar. The battle area will get dangerously cold." />
+    <String id="3026017" string="You failed to defeat the Blazing Avatar. The battle area will get dangerously hot." />
+    <String id="3026018" string="Kelsaik absorbs the raging flame aura." />
+    <String id="3026019" string="Kelsaik absorbs the chilling frost aura." />
+    <String id="3026020" string="Fools! That fire will do nothing!" styleId="70" />
+    <String id="3026021" string="Fools! That frost will do nothing!" styleId="70" />
+    <String id="3026022" string="The temperature rises!" />
+    <String id="3026023" string="The temperature drops!" />
+    <String id="3026404" string="Kelsaik is protected by the Frostshield and the Blazeshield." />
+    <String id="3026405" string="All skill damage will decrease by 25% if the doom and shield attributes match." />
+    <String id="3026407" string="Kelsaik is losing mana!" />
+    <String id="3026408" string="Decreases healing effects by 50% and cooldown of all skills by 25%." />
+    <String id="3026409" string="Kelsaik is losing mana faster!" />
+    <String id="3026410" string="Mana drain at maximum." />
+    <String id="3026300" string="The butterflies are creating falling chunks of amber." styleId="71" />
+    <String id="3026301" string="Amber chunks will generate faster increases as time passes." styleId="71" />
+    <String id="3026302" string="The number of amber chunks is increasing." styleId="71" />
+    <String id="3026303" string="Amber chunks are falling." styleId="71" />
+    <String id="3026304" string="More amber chunks are falling." styleId="71" />
+    <String id="3026305" string="The falling amber chunks are out of control. This is the end." styleId="71" />
+</StrSheet_Dungeon>

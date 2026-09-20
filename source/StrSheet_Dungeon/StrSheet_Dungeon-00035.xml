@@ -1,0 +1,17 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="30321000" string="Bear my curse!" styleId="66" />
+    <String id="30323000" string="The gates will close soon." styleId="66" />
+    <String id="3032200" string="Use &lt;img src='img://__Icon_Items.Add_Extract_Potion_2_Tex' width='28' height='28'&gt; &lt;img src='img://__Icon_Items.potion10_Tex' width='28' height='28'&gt; essential and &lt;img src='img://__Icon_Items.fallfestival_bulgogi_Tex' width='28' height='28'&gt; &lt;img src='img://__Icon_Items.noctan_Tex' width='28' height='28'&gt; optional consumables before combat." styleId="71" />
+    <String id="3032201" string="You can buy these items from the &lt;font color = '#FFFF00'&gt;Training Dungeon Merchant&lt;/font&gt; by the entrance to where each Boss is." styleId="71" />
+    <String id="3032300" string="The dungeon has been cleared. Type &lt;font color='#ffe761'&gt;/reset&lt;/font&gt; or use the &lt;font color='#ffe761'&gt;'Reset Instances' button in your Character Profile&lt;/font&gt;." styleId="71" />
+    <String id="3032018" string="Destroy the pylons to summon a Lancer or a Priest (not required for a 5-person party)." styleId="71" />
+    <String id="3032019" string="Defeat Akalath Travan with a summoned Lancer." styleId="71" />
+    <String id="3032020" string="Defeat Akalath Kashir with a summoned Lancer." styleId="71" />
+    <String id="3032021" string="You can find Divine Pylons on both sides of the entrance. Destroy the pylons from within 10m when needed." styleId="71" />
+    <String id="3032022" string="Defeat Akalath Travan with a summoned Priest." styleId="71" />
+    <String id="3032023" string="Defeat Akalath Kashir with a summoned Priest." styleId="71" />
+    <String id="3032501" string="Using Infuriate! Attack now!" />
+    <String id="3032502" string="I’LL GET ITS ATTENTION!" />
+    <String id="3032503" string="I'll hold this thing off! Give it your best shot!" />
+    <String id="3032504" string="I've activated Adrenaline Rush and Guardian Shout! Attack now!" />
+</StrSheet_Dungeon>

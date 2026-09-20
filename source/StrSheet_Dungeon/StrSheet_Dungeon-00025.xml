@@ -1,0 +1,31 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="30200001" string="The Pirate Ship approaches!" />
+    <String id="30200002" string="We can't afford to lose the map! Get rid of them!" />
+    <String id="30200006" string="Eliminated all enemies!" styleId="66" />
+    <String id="30200007" string="Pirate's Golden Treasure Chest" styleId="67" />
+    <String id="30200008" string="Receive your reward on the deck." styleId="66" />
+    <String id="30200009" string="Continue with the Voyage List." styleId="66" />
+    <String id="30209900" string="Deliver the map to Ronyn and start your voyage." styleId="66" />
+    <String id="30209901" string="Sea of Honor [Difficulty 1]." styleId="66" />
+    <String id="30209902" string="Sea of Honor [Difficulty 2]." styleId="66" />
+    <String id="30209903" string="Sea of Honor [Difficulty 3]." styleId="66" />
+    <String id="30209904" string="Sea of Honor [Difficulty 4]." styleId="66" />
+    <String id="30209905" string="Sea of Honor [Difficulty 5]." styleId="66" />
+    <String id="30209100" string="Random Effect 1 activates." styleId="66" />
+    <String id="30209101" string="Mana Plunder" styleId="67" />
+    <String id="30209102" string="Mana decreases when attacked by monsters." styleId="66" />
+    <String id="30209103" string="Deep Wound" styleId="67" />
+    <String id="30209104" string="If attacked by a monster, healing efficiency decreases." styleId="66" />
+    <String id="30209105" string="" styleId="66" />
+    <String id="30209200" string="Random Effect 2 activates." styleId="66" />
+    <String id="30209201" string="Specter Strike" styleId="67" />
+    <String id="30209202" string="Lightning strikes a random target every 50 seconds." styleId="66" />
+    <String id="30209203" string="Sea Witch's Breath" styleId="67" />
+    <String id="30209204" string="Witch's Breath affects a random target every 50 seconds." styleId="66" />
+    <String id="30209301" string="Slippery Deck" styleId="67" />
+    <String id="30209302" string="Good Afternoon" styleId="67" />
+    <String id="30209303" string="Pearly Way" styleId="67" />
+    <String id="30209311" string="Weather: Increases Movement Speed during battle." styleId="66" />
+    <String id="30209312" string="Weather: Increases Attack Power." styleId="66" />
+    <String id="30209313" string="Weather: Increases Defense." styleId="66" />
+</StrSheet_Dungeon>

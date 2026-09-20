@@ -1,0 +1,13 @@
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="3033100" string="The combat area is closing." styleId="71" />
+    <String id="30336000" string="Defeat Hellgrammite with a summoned Lancer." styleId="71" />
+    <String id="30336001" string="Defeat Gossamer Regent with a summoned Lancer." styleId="71" />
+    <String id="30336002" string="Defeat Hellgrammite with a summoned Priest." styleId="71" />
+    <String id="30336003" string="Defeat Gossamer Regent with a summoned Priest." styleId="71" />
+    <String id="30336004" string="Destroy the Summoning Stone and summon a helper." styleId="71" />
+    <String id="30336005" string="You can find Divine Pylons on both sides of the entrance. Destroy the pylons from within 10m when needed." styleId="71" />
+    <String id="30336006" string="The dungeon is now closed. Type '/reset' or use the 'Reset Instances' button in your Character Profile (P)." styleId="71" />
+    <String id="30336007" string="The 10-minute timer starts when Nightmare Gossamer Regent’s HP falls below 75%. When the timer hits zero, Nightmare Gossamer Regent will launch a devastating wipe-out attack." styleId="71" />
+    <String id="3033200" string="Use &lt;img src='img://__Icon_Items.Add_Extract_Potion_2_Tex' width='28' height='28'&gt; &lt;img src='img://__Icon_Items.potion10_Tex' width='28' height='28'&gt; essential and &lt;img src='img://__Icon_Items.fallfestival_bulgogi_Tex' width='28' height='28'&gt; &lt;img src='img://__Icon_Items.noctan_Tex' width='28' height='28'&gt; optional consumables before combat." styleId="71" />
+    <String id="3033201" string="You can buy these items from the &lt;font color = '#FFFF00'&gt;Training Dungeon Merchant&lt;/font&gt; by the entrance to where each Boss is." styleId="71" />
+</StrSheet_Dungeon>

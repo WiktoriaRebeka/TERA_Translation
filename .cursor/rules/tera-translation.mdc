@@ -13,13 +13,13 @@ Wiktoria copies packs from Desktop, not only the git repo:
 Corrected files the agent delivers go to:
 `C:\Users\wikto\Desktop\TERA_DATABASE_TRANSLATION`
 Do not push unless asked. Do not run Quest + UI GitHub Actions in parallel.
-Do not run two Gemini sheet workflows at once (Npc / Passivity / QuestDialog / VillagerDialog / Quest / UI / Abnormality).
+Do not run two Gemini sheet workflows at once (Npc / Passivity / QuestDialog / VillagerDialog / Quest / UI / Abnormality / Tutorial / Dungeon).
 
 Next sheets after Item/UserSkill/UI/Quest:
 - NPC menu: `StrSheet_Npc` (compact EN/ES, Unicode)
 - Green gear lines: `StrSheet_Passivity` `name=` + `tooltip=` (`[EN]<br>[ES]`, no credit)
 - NPC parchment: `QuestDialog` Page text (`[EN]<br>[ES]`, no credit)
-Then later: StrSheet_SystemMessage, StrSheet_Tutorial, StrSheet_Dungeon, MovieScript.
+Then later: StrSheet_SystemMessage, MovieScript.
 
 Full extracted EUR DataCenter (search here first; do not edit unless asked):
 `C:\Users\wikto\Desktop\TERA BAZA DANYCH\Output\Output\DataCenter_Final_EUR`
@@ -51,6 +51,7 @@ Compact `English/Spanish`. Never translate prices or separators: `$005006` is `,
 - Skills: `StrSheet_UserSkill` (`name=` stay EN)
 - Combat chat: `StrSheet_SystemMessage`
 - Runemarks floating hint: `StrSheet_Tutorial` id 1015340
+- Dungeon banners: `StrSheet_Dungeon`
 - Shop comma: `StrSheet_UI` `$005006`
 
 ## Encoding
