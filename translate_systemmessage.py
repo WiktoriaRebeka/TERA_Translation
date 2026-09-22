@@ -1,7 +1,7 @@
 """
 Translate TERA StrSheet_SystemMessage combat chat and system popups.
 
-string= bilingual [EN]/[ES], no credit. Copy {UserName}, {@select:}, {Amount@money}
+Output is Spanish-only (no [EN]/[ES]). Copy {UserName}, {@select:}, {Amount@money}
 verbatim. Item, skill, place and class names stay English. HP/MP stay English.
 
 Usage:
@@ -34,6 +34,9 @@ Translate EVERY sentence.
 Return ONLY valid JSON: an array of Spanish strings, same length and order as the input array.
 """.strip()
 
+# After sheet import, which otherwise sets bilingual [EN]/[ES] for Tutorial/Dungeon.
+item.OUTPUT_TEMPLATE = "{spanish}"
+
 DEFAULT_CACHE = "cache/systemmessage_translation_cache.json"
 describe_problems = item.describe_problems
 looks_untranslated = item.looks_untranslated
@@ -43,7 +46,7 @@ BRACE_RE = sheet.BRACE_RE
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Translate TERA StrSheet_SystemMessage chat to bilingual EN/ES."
+        description="Translate TERA StrSheet_SystemMessage chat to Spanish-only."
     )
     parser.add_argument("input_path")
     parser.add_argument("-o", "--output-dir", default="output/StrSheet_SystemMessage")
